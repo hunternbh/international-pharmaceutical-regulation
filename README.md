@@ -4,7 +4,9 @@ Interactive dashboard of pharmaceutical regulatory reliance across 250 countries
 
 ## Open the dashboard
 
-Download **index.html** and open it in a web browser. The HTML is self-contained: its data, styling and chart logic are embedded, with no external libraries required. GitHub's file viewer displays the source; download the file to use the interactive charts.
+**View and share the live charts:** [International Pharmaceutical Regulation dashboard](https://hunternbh.github.io/international-pharmaceutical-regulation/).
+
+GitHub Pages publishes `index.html` from the root of the `main` branch. You can also download **index.html** and open it in a web browser. The HTML is self-contained: its data, styling and chart logic are embedded, with no external libraries required.
 
 The dashboard has two panels:
 
