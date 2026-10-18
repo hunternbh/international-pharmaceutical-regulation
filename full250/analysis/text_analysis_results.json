@@ -1,0 +1,2683 @@
+{
+  "nlp_n": 48,
+  "reviewed_jurisdictions": 117,
+  "reviewed_clauses": 182,
+  "features": [
+    {
+      "feature": "automatic",
+      "label": "Conditional automatic/default legal effect",
+      "count": 4,
+      "denominator": 48,
+      "countries": [
+        "LKA",
+        "GEO",
+        "JEY",
+        "MLT"
+      ]
+    },
+    {
+      "feature": "discretion",
+      "label": "Domestic decision, refusal or additional-review power",
+      "count": 25,
+      "denominator": 48,
+      "countries": [
+        "GBR",
+        "ZAF",
+        "PAK",
+        "MYS",
+        "GHA",
+        "NGA",
+        "ETH",
+        "RWA",
+        "TZA",
+        "CHE",
+        "KEN",
+        "TUV",
+        "JEY",
+        "FSM",
+        "TON",
+        "MDV",
+        "BGD",
+        "IRL",
+        "AUT",
+        "BTN",
+        "JOR",
+        "ISL",
+        "CAN",
+        "GUY",
+        "SDN"
+      ]
+    },
+    {
+      "feature": "reports",
+      "label": "Assessment reports or permission to share information",
+      "count": 30,
+      "denominator": 48,
+      "countries": [
+        "GBR",
+        "SGP",
+        "SAU",
+        "ZAF",
+        "MYS",
+        "GHA",
+        "NGA",
+        "ETH",
+        "PHL",
+        "LKA",
+        "RWA",
+        "EGY",
+        "TZA",
+        "NZL",
+        "GMB",
+        "MWI",
+        "CHE",
+        "KEN",
+        "AUS",
+        "MDV",
+        "SLE",
+        "BGD",
+        "MLT",
+        "NOR",
+        "LUX",
+        "AUT",
+        "JOR",
+        "FIN",
+        "UKR",
+        "ISL"
+      ]
+    },
+    {
+      "feature": "unredacted",
+      "label": "Unredacted/non-public assessment material",
+      "count": 10,
+      "denominator": 48,
+      "countries": [
+        "GBR",
+        "SGP",
+        "SAU",
+        "NGA",
+        "PHL",
+        "LKA",
+        "EGY",
+        "TZA",
+        "AUS",
+        "JOR"
+      ]
+    },
+    {
+      "feature": "sameness",
+      "label": "Same or sufficiently similar product/dossier",
+      "count": 26,
+      "denominator": 48,
+      "countries": [
+        "GBR",
+        "SGP",
+        "SAU",
+        "MYS",
+        "GHA",
+        "NGA",
+        "ETH",
+        "PHL",
+        "LKA",
+        "RWA",
+        "EGY",
+        "TZA",
+        "NZL",
+        "GMB",
+        "CHE",
+        "KEN",
+        "AUS",
+        "HKG",
+        "MDV",
+        "SLE",
+        "MLT",
+        "LVA",
+        "JOR",
+        "ZMB",
+        "CAN",
+        "SDN"
+      ]
+    },
+    {
+      "feature": "original_review",
+      "label": "Independent original assessment / no recursive reliance",
+      "count": 4,
+      "denominator": 48,
+      "countries": [
+        "GBR",
+        "SGP",
+        "AUS",
+        "CAN"
+      ]
+    },
+    {
+      "feature": "approval_age",
+      "label": "Maximum age of the foreign approval",
+      "count": 7,
+      "denominator": 48,
+      "countries": [
+        "GBR",
+        "SGP",
+        "SAU",
+        "MYS",
+        "PHL",
+        "NZL",
+        "AUS"
+      ]
+    },
+    {
+      "feature": "local_evidence",
+      "label": "Local conditions, stability, bridging or benefit–risk checks",
+      "count": 20,
+      "denominator": 48,
+      "countries": [
+        "SGP",
+        "SAU",
+        "MYS",
+        "GHA",
+        "NGA",
+        "ETH",
+        "PHL",
+        "LKA",
+        "RWA",
+        "TZA",
+        "NZL",
+        "GMB",
+        "KEN",
+        "TON",
+        "HKG",
+        "MDV",
+        "SLE",
+        "LUX",
+        "BTN",
+        "JOR"
+      ]
+    },
+    {
+      "feature": "manufacture_location",
+      "label": "Manufacturing-country eligibility condition",
+      "count": 2,
+      "denominator": 48,
+      "countries": [
+        "SAU",
+        "ZMB"
+      ]
+    },
+    {
+      "feature": "decision_clock",
+      "label": "Quantified procedural deadline or clock rule",
+      "count": 13,
+      "denominator": 48,
+      "countries": [
+        "GBR",
+        "GHA",
+        "LKA",
+        "NZL",
+        "MWI",
+        "JEY",
+        "AUS",
+        "SLE",
+        "MLT",
+        "LVA",
+        "BTN",
+        "ZMB",
+        "ISL"
+      ]
+    },
+    {
+      "feature": "two_approvals",
+      "label": "At least two foreign approvals for a specified route",
+      "count": 7,
+      "denominator": 48,
+      "countries": [
+        "SGP",
+        "SAU",
+        "PHL",
+        "LKA",
+        "EGY",
+        "NZL",
+        "HKG"
+      ]
+    },
+    {
+      "feature": "foreign_marketing",
+      "label": "Foreign commercial marketing condition",
+      "count": 10,
+      "denominator": 48,
+      "countries": [
+        "SAU",
+        "ETH",
+        "LKA",
+        "EGY",
+        "GMB",
+        "HKG",
+        "MDV",
+        "JOR",
+        "ZMB",
+        "SDN"
+      ]
+    },
+    {
+      "feature": "local_list",
+      "label": "Separate domestic approved-medicines list",
+      "count": 3,
+      "denominator": 48,
+      "countries": [
+        "TUV",
+        "FSM",
+        "TON"
+      ]
+    },
+    {
+      "feature": "scope_limit",
+      "label": "Explicit product or procedural scope limits",
+      "count": 31,
+      "denominator": 48,
+      "countries": [
+        "SGP",
+        "SAU",
+        "MYS",
+        "ETH",
+        "PHL",
+        "RWA",
+        "NZL",
+        "CHE",
+        "GEO",
+        "HKG",
+        "MDV",
+        "BGD",
+        "MLT",
+        "IRL",
+        "DNK",
+        "NOR",
+        "LVA",
+        "LUX",
+        "AUT",
+        "LIE",
+        "BTN",
+        "JOR",
+        "FIN",
+        "UKR",
+        "ZMB",
+        "SVN",
+        "ISL",
+        "CAN",
+        "GUY",
+        "JAM",
+        "SDN"
+      ]
+    },
+    {
+      "feature": "pending_operation",
+      "label": "Recognition described but implementation still pending",
+      "count": 1,
+      "denominator": 48,
+      "countries": [
+        "ZAF"
+      ]
+    },
+    {
+      "feature": "approval_not_reimbursement",
+      "label": "Approval and pricing/reimbursement legally separated",
+      "count": 0,
+      "denominator": 48,
+      "countries": []
+    },
+    {
+      "feature": "commencement_rule",
+      "label": "Rule specifying when an instrument takes effect",
+      "count": 1,
+      "denominator": 48,
+      "countries": [
+        "ZMB"
+      ]
+    },
+    {
+      "feature": "reference_continuity",
+      "label": "Continuity of the reference authority over the product lifecycle",
+      "count": 1,
+      "denominator": 48,
+      "countries": [
+        "GBR"
+      ]
+    },
+    {
+      "feature": "applicant_consent",
+      "label": "Applicant/holder consent or authorisation to share the dossier",
+      "count": 2,
+      "denominator": 48,
+      "countries": [
+        "HKG",
+        "SLE"
+      ]
+    },
+    {
+      "feature": "translation_requirement",
+      "label": "Explicit language or translation/authentication requirement",
+      "count": 4,
+      "denominator": 48,
+      "countries": [
+        "AUS",
+        "LVA",
+        "ZMB",
+        "ISL"
+      ]
+    },
+    {
+      "feature": "clinical_trial_waiver",
+      "label": "Conditional waiver of local clinical trial",
+      "count": 0,
+      "denominator": 48,
+      "countries": []
+    },
+    {
+      "feature": "adverse_foreign_history",
+      "label": "Foreign refusal, withdrawal or adverse-history eligibility condition",
+      "count": 3,
+      "denominator": 48,
+      "countries": [
+        "AUS",
+        "HKG",
+        "CAN"
+      ]
+    },
+    {
+      "feature": "new_drug_exclusion",
+      "label": "Explicit exclusion of new drugs/NCEs from a specified route",
+      "count": 0,
+      "denominator": 48,
+      "countries": []
+    },
+    {
+      "feature": "inspection_only",
+      "label": "Recognition applies to inspections/certification rather than full medicine approval",
+      "count": 0,
+      "denominator": 48,
+      "countries": []
+    },
+    {
+      "feature": "joint_review",
+      "label": "Joint assessment/work sharing identified separately",
+      "count": 4,
+      "denominator": 48,
+      "countries": [
+        "IRL",
+        "FIN",
+        "ISL",
+        "CAN"
+      ]
+    },
+    {
+      "feature": "silence_positive",
+      "label": "No response by the deadline has a positive/default effect",
+      "count": 0,
+      "denominator": 48,
+      "countries": []
+    },
+    {
+      "feature": "silence_negative",
+      "label": "No response by the deadline has a negative/default effect",
+      "count": 0,
+      "denominator": 48,
+      "countries": []
+    },
+    {
+      "feature": "minimum_foreign_history",
+      "label": "Minimum prior foreign registration duration or multi-country history",
+      "count": 0,
+      "denominator": 48,
+      "countries": []
+    }
+  ],
+  "top_terms": [
+    {
+      "term": "authoris",
+      "mean_tfidf": 0.1061405042530045
+    },
+    {
+      "term": "procedur",
+      "mean_tfidf": 0.08681620730824377
+    },
+    {
+      "term": "approv",
+      "mean_tfidf": 0.08476220711258863
+    },
+    {
+      "term": "market",
+      "mean_tfidf": 0.07972602446684583
+    },
+    {
+      "term": "registr",
+      "mean_tfidf": 0.07949861808789384
+    },
+    {
+      "term": "assess",
+      "mean_tfidf": 0.07367958054374789
+    },
+    {
+      "term": "refer",
+      "mean_tfidf": 0.06986416549300335
+    },
+    {
+      "term": "inform",
+      "mean_tfidf": 0.06665264432895589
+    },
+    {
+      "term": "drug",
+      "mean_tfidf": 0.06071440527913683
+    },
+    {
+      "term": "countri",
+      "mean_tfidf": 0.06032484525882477
+    },
+    {
+      "term": "submit",
+      "mean_tfidf": 0.05310463388245782
+    },
+    {
+      "term": "relianc",
+      "mean_tfidf": 0.05181930308310069
+    },
+    {
+      "term": "should",
+      "mean_tfidf": 0.05163392372541163
+    },
+    {
+      "term": "applic",
+      "mean_tfidf": 0.05076841309581752
+    },
+    {
+      "term": "shall",
+      "mean_tfidf": 0.050613373408846286
+    },
+    {
+      "term": "review",
+      "mean_tfidf": 0.05008616077569865
+    },
+    {
+      "term": "report",
+      "mean_tfidf": 0.04949840482960752
+    },
+    {
+      "term": "evalu",
+      "mean_tfidf": 0.0483789521595995
+    },
+    {
+      "term": "use",
+      "mean_tfidf": 0.047236458223807884
+    },
+    {
+      "term": "recognit",
+      "mean_tfidf": 0.04567696926528264
+    },
+    {
+      "term": "requir",
+      "mean_tfidf": 0.044712396516241405
+    },
+    {
+      "term": "manufactur",
+      "mean_tfidf": 0.044627129355631255
+    },
+    {
+      "term": "member",
+      "mean_tfidf": 0.04393873720479166
+    },
+    {
+      "term": "author",
+      "mean_tfidf": 0.04097869263716114
+    },
+    {
+      "term": "agenc",
+      "mean_tfidf": 0.040940373008877644
+    }
+  ],
+  "lsa": {
+    "explained_variance": [
+      0.015453812798446077,
+      0.10527774492941197
+    ],
+    "points": [
+      {
+        "iso3": "GBR",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "x": 0.5097855030022126,
+        "y": 0.12477572649038898,
+        "topic": 1,
+        "topic_shares": [
+          0.968659685985924,
+          0.03134031401407588
+        ],
+        "genre": "Guideline",
+        "words": 522,
+        "fk": 15.883252873563219,
+        "wps": 26.1
+      },
+      {
+        "iso3": "SGP",
+        "country": "Singapore",
+        "x": 0.4086538650260912,
+        "y": -0.16616134231753496,
+        "topic": 1,
+        "topic_shares": [
+          0.9888699720271593,
+          0.011130027972840689
+        ],
+        "genre": "Guideline",
+        "words": 208,
+        "fk": 15.044115384615385,
+        "wps": 20.8
+      },
+      {
+        "iso3": "SAU",
+        "country": "Saudi Arabia",
+        "x": 0.5110135952634806,
+        "y": -0.1993054158683377,
+        "topic": 1,
+        "topic_shares": [
+          0.9950820955577367,
+          0.004917904442263243
+        ],
+        "genre": "Guideline",
+        "words": 510,
+        "fk": 23.888431372549025,
+        "wps": 39.23076923076923
+      },
+      {
+        "iso3": "ZAF",
+        "country": "South Africa",
+        "x": 0.4425833942295706,
+        "y": -0.21517768914299984,
+        "topic": 1,
+        "topic_shares": [
+          0.9969565170669322,
+          0.0030434829330678054
+        ],
+        "genre": "Guideline",
+        "words": 448,
+        "fk": 18.32419642857143,
+        "wps": 28.0
+      },
+      {
+        "iso3": "PAK",
+        "country": "Pakistan",
+        "x": 0.2840749555568973,
+        "y": -0.15541195102780178,
+        "topic": 1,
+        "topic_shares": [
+          0.9877037428899126,
+          0.012296257110087415
+        ],
+        "genre": "Guideline",
+        "words": 167,
+        "fk": 21.38929341317365,
+        "wps": 33.4
+      },
+      {
+        "iso3": "MYS",
+        "country": "Malaysia",
+        "x": 0.5558947997834031,
+        "y": -0.21012317165865532,
+        "topic": 1,
+        "topic_shares": [
+          0.9941836507961989,
+          0.005816349203801167
+        ],
+        "genre": "Guideline",
+        "words": 472,
+        "fk": 30.02,
+        "wps": 59.0
+      },
+      {
+        "iso3": "GHA",
+        "country": "Ghana",
+        "x": 0.4594544423161471,
+        "y": -0.22836199783654537,
+        "topic": 1,
+        "topic_shares": [
+          0.9968261040808529,
+          0.00317389591914717
+        ],
+        "genre": "Guideline",
+        "words": 519,
+        "fk": 28.385549132947975,
+        "wps": 57.666666666666664
+      },
+      {
+        "iso3": "NGA",
+        "country": "Nigeria",
+        "x": 0.5604644164090186,
+        "y": -0.28901261679445533,
+        "topic": 1,
+        "topic_shares": [
+          0.9971867866245875,
+          0.002813213375412566
+        ],
+        "genre": "Guideline",
+        "words": 495,
+        "fk": 23.0724494949495,
+        "wps": 41.25
+      },
+      {
+        "iso3": "ETH",
+        "country": "Ethiopia",
+        "x": 0.5756678195263625,
+        "y": -0.23690357032561984,
+        "topic": 1,
+        "topic_shares": [
+          0.9984774006932983,
+          0.0015225993067017691
+        ],
+        "genre": "Guideline",
+        "words": 1095,
+        "fk": 33.0767069567553,
+        "wps": 64.41176470588235
+      },
+      {
+        "iso3": "PHL",
+        "country": "Philippines",
+        "x": 0.5705330204595281,
+        "y": -0.25962567923163377,
+        "topic": 1,
+        "topic_shares": [
+          0.9977872320969766,
+          0.0022127679030233536
+        ],
+        "genre": "Guideline",
+        "words": 808,
+        "fk": 16.744028678729943,
+        "wps": 27.862068965517242
+      },
+      {
+        "iso3": "LKA",
+        "country": "Sri Lanka",
+        "x": 0.5590544150103921,
+        "y": -0.15872034734223425,
+        "topic": 1,
+        "topic_shares": [
+          0.9967314799096968,
+          0.0032685200903032167
+        ],
+        "genre": "Guideline",
+        "words": 510,
+        "fk": 41.692156862745094,
+        "wps": 85.0
+      },
+      {
+        "iso3": "RWA",
+        "country": "Rwanda",
+        "x": 0.5884033365451952,
+        "y": -0.28045237717602306,
+        "topic": 1,
+        "topic_shares": [
+          0.9971691667928118,
+          0.002830833207188157
+        ],
+        "genre": "Guideline",
+        "words": 639,
+        "fk": 23.622557707355245,
+        "wps": 39.9375
+      },
+      {
+        "iso3": "EGY",
+        "country": "Egypt",
+        "x": 0.4235477580417418,
+        "y": -0.19553253130712345,
+        "topic": 1,
+        "topic_shares": [
+          0.9966034218010882,
+          0.003396578198911818
+        ],
+        "genre": "Guideline",
+        "words": 416,
+        "fk": 15.237100000000002,
+        "wps": 16.64
+      },
+      {
+        "iso3": "TZA",
+        "country": "United Republic of Tanzania",
+        "x": 0.5152470175210015,
+        "y": -0.13571935705535412,
+        "topic": 1,
+        "topic_shares": [
+          0.9954466914707013,
+          0.0045533085292987574
+        ],
+        "genre": "Guideline",
+        "words": 277,
+        "fk": 23.601114620938628,
+        "wps": 34.625
+      },
+      {
+        "iso3": "NZL",
+        "country": "New Zealand",
+        "x": 0.4587434608886837,
+        "y": 0.18751380780590893,
+        "topic": 1,
+        "topic_shares": [
+          0.985723802541073,
+          0.014276197458927012
+        ],
+        "genre": "Secondary legislation",
+        "words": 628,
+        "fk": 31.177365373480026,
+        "wps": 57.09090909090909
+      },
+      {
+        "iso3": "GMB",
+        "country": "Gambia",
+        "x": 0.5451859061465429,
+        "y": -0.1525654825291128,
+        "topic": 1,
+        "topic_shares": [
+          0.9955333837626666,
+          0.004466616237333305
+        ],
+        "genre": "Guideline",
+        "words": 699,
+        "fk": 19.320963064117574,
+        "wps": 31.772727272727273
+      },
+      {
+        "iso3": "MWI",
+        "country": "Malawi",
+        "x": 0.40280921232846295,
+        "y": -0.12284871181737529,
+        "topic": 1,
+        "topic_shares": [
+          0.9878759592896952,
+          0.012124040710304875
+        ],
+        "genre": "Guideline",
+        "words": 202,
+        "fk": 13.842541254125415,
+        "wps": 22.444444444444443
+      },
+      {
+        "iso3": "CHE",
+        "country": "Switzerland",
+        "x": 0.3600588311480469,
+        "y": 0.16938352909024543,
+        "topic": 1,
+        "topic_shares": [
+          0.9952191059941116,
+          0.004780894005888486
+        ],
+        "genre": "Official FAQ",
+        "words": 439,
+        "fk": 17.232265091116172,
+        "wps": 27.4375
+      },
+      {
+        "iso3": "KEN",
+        "country": "Kenya",
+        "x": 0.631020886581245,
+        "y": -0.25332423315684455,
+        "topic": 1,
+        "topic_shares": [
+          0.9980914917387451,
+          0.0019085082612548816
+        ],
+        "genre": "Guideline",
+        "words": 697,
+        "fk": 18.557483859397426,
+        "wps": 29.041666666666668
+      },
+      {
+        "iso3": "GEO",
+        "country": "Georgia",
+        "x": 0.4098590488550327,
+        "y": 0.18191332448201222,
+        "topic": 1,
+        "topic_shares": [
+          0.6911740948181042,
+          0.30882590518189584
+        ],
+        "genre": "Statute translation",
+        "words": 463,
+        "fk": 21.696112311015117,
+        "wps": 35.61538461538461
+      },
+      {
+        "iso3": "TUV",
+        "country": "Tuvalu",
+        "x": 0.20431687567864085,
+        "y": 0.032649806003521034,
+        "topic": 2,
+        "topic_shares": [
+          0.015580392207917057,
+          0.9844196077920829
+        ],
+        "genre": "Statute",
+        "words": 255,
+        "fk": 55.791470588235285,
+        "wps": 127.5
+      },
+      {
+        "iso3": "JEY",
+        "country": "Jersey",
+        "x": 0.18290829771625208,
+        "y": -0.04367305040503989,
+        "topic": 2,
+        "topic_shares": [
+          0.014502054865875937,
+          0.985497945134124
+        ],
+        "genre": "Statute",
+        "words": 137,
+        "fk": 58.425401459854015,
+        "wps": 137.0
+      },
+      {
+        "iso3": "FSM",
+        "country": "Micronesia (Federated States of)",
+        "x": 0.2459476473712909,
+        "y": -0.13917365111319346,
+        "topic": 2,
+        "topic_shares": [
+          0.4808858558667894,
+          0.5191141441332108
+        ],
+        "genre": "Statute",
+        "words": 98,
+        "fk": 20.750000000000004,
+        "wps": 32.666666666666664
+      },
+      {
+        "iso3": "TON",
+        "country": "Tonga",
+        "x": 0.25272882871288804,
+        "y": -0.11060356955673674,
+        "topic": 1,
+        "topic_shares": [
+          0.5407844093173928,
+          0.45921559068260726
+        ],
+        "genre": "Statute",
+        "words": 110,
+        "fk": 47.906363636363636,
+        "wps": 110.0
+      },
+      {
+        "iso3": "AUS",
+        "country": "Australia",
+        "x": 0.35096587287781156,
+        "y": -0.1558877226107068,
+        "topic": 2,
+        "topic_shares": [
+          0.18207006069617368,
+          0.8179299393038263
+        ],
+        "genre": "Regulations",
+        "words": 699,
+        "fk": 98.25539341917025,
+        "wps": 233.0
+      },
+      {
+        "iso3": "HKG",
+        "country": "China, Hong Kong Special Administrative Region",
+        "x": 0.5364689376579048,
+        "y": -0.19546082510776433,
+        "topic": 1,
+        "topic_shares": [
+          0.9504087526468389,
+          0.049591247353161096
+        ],
+        "genre": "Guideline",
+        "words": 1022,
+        "fk": 29.806953685583824,
+        "wps": 56.77777777777778
+      },
+      {
+        "iso3": "MDV",
+        "country": "Maldives",
+        "x": 0.5463137774458988,
+        "y": -0.2802748467974559,
+        "topic": 1,
+        "topic_shares": [
+          0.9965156351764676,
+          0.0034843648235324555
+        ],
+        "genre": "Guideline",
+        "words": 464,
+        "fk": 39.87387931034483,
+        "wps": 77.33333333333333
+      },
+      {
+        "iso3": "SLE",
+        "country": "Sierra Leone",
+        "x": 0.4691175451135578,
+        "y": -0.14897705807090675,
+        "topic": 1,
+        "topic_shares": [
+          0.9963793115572854,
+          0.003620688442714624
+        ],
+        "genre": "Guideline",
+        "words": 453,
+        "fk": 24.85280353200883,
+        "wps": 50.333333333333336
+      },
+      {
+        "iso3": "BGD",
+        "country": "Bangladesh",
+        "x": 0.4717419541813955,
+        "y": -0.21286568206138334,
+        "topic": 1,
+        "topic_shares": [
+          0.9930012440546752,
+          0.006998755945324725
+        ],
+        "genre": "Final administrative guideline",
+        "words": 274,
+        "fk": 18.55149635036496,
+        "wps": 22.833333333333332
+      },
+      {
+        "iso3": "MLT",
+        "country": "Malta",
+        "x": 0.3967535314067095,
+        "y": 0.26214550653155655,
+        "topic": 1,
+        "topic_shares": [
+          0.9960180730293642,
+          0.0039819269706357725
+        ],
+        "genre": "Official national procedure",
+        "words": 450,
+        "fk": 12.248555555555559,
+        "wps": 22.5
+      },
+      {
+        "iso3": "IRL",
+        "country": "Ireland",
+        "x": 0.44679935745697164,
+        "y": 0.6428118258039714,
+        "topic": 1,
+        "topic_shares": [
+          0.9943682876512133,
+          0.005631712348786715
+        ],
+        "genre": "Official procedure guidance",
+        "words": 223,
+        "fk": 14.60427503736921,
+        "wps": 24.77777777777778
+      },
+      {
+        "iso3": "DNK",
+        "country": "Denmark",
+        "x": 0.37394773211183846,
+        "y": 0.6129383553187617,
+        "topic": 1,
+        "topic_shares": [
+          0.9917313533507877,
+          0.00826864664921234
+        ],
+        "genre": "Official procedure guidance",
+        "words": 169,
+        "fk": 15.472978303747539,
+        "wps": 18.77777777777778
+      },
+      {
+        "iso3": "NOR",
+        "country": "Norway",
+        "x": 0.34324968667432626,
+        "y": 0.2558218161679227,
+        "topic": 1,
+        "topic_shares": [
+          0.9965083052825812,
+          0.003491694717418873
+        ],
+        "genre": "Official procedure guidance",
+        "words": 375,
+        "fk": 14.791733333333333,
+        "wps": 28.846153846153847
+      },
+      {
+        "iso3": "LVA",
+        "country": "Latvia",
+        "x": 0.503308114366234,
+        "y": 0.5948565474831513,
+        "topic": 1,
+        "topic_shares": [
+          0.9926170976194506,
+          0.007382902380549336
+        ],
+        "genre": "Official procedure guidance",
+        "words": 320,
+        "fk": 19.663750000000004,
+        "wps": 26.666666666666668
+      },
+      {
+        "iso3": "LUX",
+        "country": "Luxembourg",
+        "x": 0.40586039370048776,
+        "y": 0.38000686185061644,
+        "topic": 1,
+        "topic_shares": [
+          0.9944534422841744,
+          0.005546557715825613
+        ],
+        "genre": "Official procedure guidance",
+        "words": 304,
+        "fk": 14.382518796992485,
+        "wps": 21.714285714285715
+      },
+      {
+        "iso3": "AUT",
+        "country": "Austria",
+        "x": 0.447710364478498,
+        "y": 0.6662368695888924,
+        "topic": 1,
+        "topic_shares": [
+          0.9943854848229762,
+          0.00561451517702384
+        ],
+        "genre": "Official procedure guidance",
+        "words": 226,
+        "fk": 16.469092920353983,
+        "wps": 28.25
+      },
+      {
+        "iso3": "LIE",
+        "country": "Liechtenstein",
+        "x": 0.34296008553285345,
+        "y": 0.5030420546448379,
+        "topic": 1,
+        "topic_shares": [
+          0.9891406818513887,
+          0.010859318148611305
+        ],
+        "genre": "Official bilateral procedure explanation",
+        "words": 180,
+        "fk": 17.776349206349213,
+        "wps": 25.714285714285715
+      },
+      {
+        "iso3": "BTN",
+        "country": "Bhutan",
+        "x": 0.3781358938507149,
+        "y": -0.20273833295832916,
+        "topic": 1,
+        "topic_shares": [
+          0.9843503264415993,
+          0.015649673558400787
+        ],
+        "genre": "Implementing regulation",
+        "words": 283,
+        "fk": 17.54106890459364,
+        "wps": 23.583333333333332
+      },
+      {
+        "iso3": "JOR",
+        "country": "Jordan",
+        "x": 0.557651170232049,
+        "y": -0.2616990944500973,
+        "topic": 1,
+        "topic_shares": [
+          0.9966615905028579,
+          0.0033384094971422064
+        ],
+        "genre": "Official guideline",
+        "words": 651,
+        "fk": 27.993847926267282,
+        "wps": 46.5
+      },
+      {
+        "iso3": "FIN",
+        "country": "Finland",
+        "x": 0.4906342704011906,
+        "y": 0.691069239346344,
+        "topic": 1,
+        "topic_shares": [
+          0.99545056804983,
+          0.004549431950170051
+        ],
+        "genre": "Official procedure guidance",
+        "words": 286,
+        "fk": 16.50748251748252,
+        "wps": 22.0
+      },
+      {
+        "iso3": "UKR",
+        "country": "Ukraine",
+        "x": 0.34556008495675467,
+        "y": -0.10840803915201645,
+        "topic": 1,
+        "topic_shares": [
+          0.9874687552937508,
+          0.01253124470624925
+        ],
+        "genre": "Official procedural explanation",
+        "words": 132,
+        "fk": 33.39242424242424,
+        "wps": 66.0
+      },
+      {
+        "iso3": "ZMB",
+        "country": "Zambia",
+        "x": 0.38327304735516815,
+        "y": -0.03316497145939548,
+        "topic": 1,
+        "topic_shares": [
+          0.931392214630261,
+          0.06860778536973902
+        ],
+        "genre": "Official implementation notice",
+        "words": 265,
+        "fk": 21.37403301886793,
+        "wps": 33.125
+      },
+      {
+        "iso3": "SVN",
+        "country": "Slovenia",
+        "x": 0.3787844578087304,
+        "y": 0.36342078213587037,
+        "topic": 1,
+        "topic_shares": [
+          0.9863419464706527,
+          0.01365805352934737
+        ],
+        "genre": "Official procedure guidance",
+        "words": 179,
+        "fk": 20.106452513966477,
+        "wps": 29.833333333333332
+      },
+      {
+        "iso3": "ISL",
+        "country": "Iceland",
+        "x": 0.4105967731503104,
+        "y": 0.4568807034143076,
+        "topic": 1,
+        "topic_shares": [
+          0.9967489134763904,
+          0.0032510865236096385
+        ],
+        "genre": "Official procedure guidance",
+        "words": 490,
+        "fk": 14.512573203194322,
+        "wps": 21.304347826086957
+      },
+      {
+        "iso3": "CAN",
+        "country": "Canada",
+        "x": 0.30227938634660195,
+        "y": -0.14338068894580755,
+        "topic": 2,
+        "topic_shares": [
+          0.0007112680654983072,
+          0.9992887319345017
+        ],
+        "genre": "Official ministerial order",
+        "words": 2276,
+        "fk": 93.0203971880492,
+        "wps": 227.6
+      },
+      {
+        "iso3": "GUY",
+        "country": "Guyana",
+        "x": 0.2634947163800507,
+        "y": -0.05558273500398665,
+        "topic": 2,
+        "topic_shares": [
+          0.36987843900134654,
+          0.6301215609986534
+        ],
+        "genre": "Official registration and implementation advisory",
+        "words": 218,
+        "fk": 18.04470511140236,
+        "wps": 31.142857142857142
+      },
+      {
+        "iso3": "JAM",
+        "country": "Jamaica",
+        "x": 0.19618260931047488,
+        "y": -0.043425130311406615,
+        "topic": 2,
+        "topic_shares": [
+          0.010976312880724128,
+          0.9890236871192758
+        ],
+        "genre": "Statute reproduced by official trade portal",
+        "words": 144,
+        "fk": 30.59972222222223,
+        "wps": 72.0
+      },
+      {
+        "iso3": "SDN",
+        "country": "Sudan",
+        "x": 0.2888837589392298,
+        "y": -0.06931691806301041,
+        "topic": 1,
+        "topic_shares": [
+          0.8924505660088056,
+          0.1075494339911944
+        ],
+        "genre": "Official registration requirements",
+        "words": 184,
+        "fk": 14.863695652173913,
+        "wps": 23.0
+      }
+    ]
+  },
+  "similar_pairs": [
+    {
+      "a": "IRL",
+      "b": "AUT",
+      "similarity": 0.6766510509533801
+    },
+    {
+      "a": "DNK",
+      "b": "FIN",
+      "similarity": 0.6571447152762955
+    },
+    {
+      "a": "LVA",
+      "b": "FIN",
+      "similarity": 0.6523071534822
+    },
+    {
+      "a": "IRL",
+      "b": "FIN",
+      "similarity": 0.6367916140184939
+    },
+    {
+      "a": "AUT",
+      "b": "FIN",
+      "similarity": 0.6358760593902584
+    },
+    {
+      "a": "LVA",
+      "b": "AUT",
+      "similarity": 0.628025051075201
+    },
+    {
+      "a": "DNK",
+      "b": "LVA",
+      "similarity": 0.54636412417183
+    },
+    {
+      "a": "ETH",
+      "b": "GMB",
+      "similarity": 0.5437371013307202
+    },
+    {
+      "a": "IRL",
+      "b": "LVA",
+      "similarity": 0.5366280134187004
+    },
+    {
+      "a": "MWI",
+      "b": "SLE",
+      "similarity": 0.5244119115413165
+    },
+    {
+      "a": "IRL",
+      "b": "ISL",
+      "similarity": 0.5165133727671766
+    },
+    {
+      "a": "MLT",
+      "b": "NOR",
+      "similarity": 0.5075772312964529
+    },
+    {
+      "a": "NGA",
+      "b": "RWA",
+      "similarity": 0.492903649914608
+    },
+    {
+      "a": "ZAF",
+      "b": "TZA",
+      "similarity": 0.48884588085642117
+    },
+    {
+      "a": "LUX",
+      "b": "FIN",
+      "similarity": 0.48449220739605997
+    }
+  ],
+  "topics": {
+    "selected_k": 2,
+    "heldout": [
+      {
+        "topics": 2,
+        "mean_heldout_perplexity": 659.3052960641102,
+        "fold_perplexities": [
+          607.692723166719,
+          710.3940344487663,
+          659.8291305768453
+        ]
+      },
+      {
+        "topics": 3,
+        "mean_heldout_perplexity": 784.6715833409094,
+        "fold_perplexities": [
+          686.5763355571927,
+          878.967219272456,
+          788.4711951930794
+        ]
+      },
+      {
+        "topics": 4,
+        "mean_heldout_perplexity": 946.261471329829,
+        "fold_perplexities": [
+          820.5159038207026,
+          1082.7686460412856,
+          935.4998641274988
+        ]
+      }
+    ],
+    "top_words": [
+      {
+        "topic": 1,
+        "terms": [
+          "assess",
+          "approv",
+          "market",
+          "authoris",
+          "refer",
+          "procedur",
+          "inform",
+          "applic",
+          "report",
+          "registr",
+          "submit",
+          "countri"
+        ]
+      },
+      {
+        "topic": 2,
+        "terms": [
+          "drug",
+          "foreign",
+          "manufactur",
+          "inform",
+          "regul",
+          "submiss",
+          "approv",
+          "paragraph",
+          "relat",
+          "not",
+          "author",
+          "respect"
+        ]
+      }
+    ],
+    "seed_stability": [
+      {
+        "seed": 0,
+        "adjusted_rand_index": 1.0
+      },
+      {
+        "seed": 1,
+        "adjusted_rand_index": -0.08875119161105816
+      },
+      {
+        "seed": 2,
+        "adjusted_rand_index": 0.06197559177123701
+      },
+      {
+        "seed": 3,
+        "adjusted_rand_index": 1.0
+      },
+      {
+        "seed": 4,
+        "adjusted_rand_index": 1.0
+      },
+      {
+        "seed": 5,
+        "adjusted_rand_index": 0.06197559177123701
+      },
+      {
+        "seed": 6,
+        "adjusted_rand_index": 0.010677381946226534
+      },
+      {
+        "seed": 7,
+        "adjusted_rand_index": 0.06197559177123701
+      },
+      {
+        "seed": 8,
+        "adjusted_rand_index": 0.010677381946226534
+      },
+      {
+        "seed": 9,
+        "adjusted_rand_index": 0.06197559177123701
+      }
+    ],
+    "median_adjusted_rand_index": 0.06197559177123701
+  },
+  "preprocessing_sensitivity": {
+    "pair_similarity_correlation_with_agency_names": 0.9879268353895774,
+    "nearest_neighbour_retention": 0.875
+  },
+  "readability_sensitivity": [
+    {
+      "sample": "all_selected_English",
+      "n": 48,
+      "median_words_per_sentence": 32.21969696969697,
+      "median_fk": 20.42822625698324,
+      "median_fog": 24.393241544544075,
+      "median_dale_chall": 13.228998149954482
+    },
+    {
+      "sample": "excluding_official_translation",
+      "n": 47,
+      "median_words_per_sentence": 31.772727272727273,
+      "median_fk": 20.106452513966477,
+      "median_fog": 24.000372439478586,
+      "median_dale_chall": 13.248916666666668
+    },
+    {
+      "sample": "guidelines_only",
+      "n": 20,
+      "median_words_per_sentence": 36.92788461538461,
+      "median_fk": 23.336782057944063,
+      "median_fog": 27.560953396783727,
+      "median_dale_chall": 13.555074178874841
+    }
+  ],
+  "methods": {
+    "random_seed": 20261017,
+    "unit": "One selected source document per reviewed English jurisdiction; overlapping passage offsets merged",
+    "stemming": "NLTK English Snowball; no POS tagging or claimed lemmatisation",
+    "negations_and_modals_retained": [
+      "no",
+      "not",
+      "nor",
+      "may",
+      "must",
+      "shall",
+      "should",
+      "cannot",
+      "without"
+    ],
+    "domain_stopwords": [
+      "a",
+      "about",
+      "above",
+      "across",
+      "after",
+      "afterwards",
+      "again",
+      "against",
+      "all",
+      "almost",
+      "alone",
+      "along",
+      "already",
+      "also",
+      "although",
+      "always",
+      "am",
+      "among",
+      "amongst",
+      "amoungst",
+      "amount",
+      "an",
+      "and",
+      "annex",
+      "another",
+      "any",
+      "anyhow",
+      "anyone",
+      "anything",
+      "anyway",
+      "anywhere",
+      "application",
+      "applications",
+      "are",
+      "around",
+      "as",
+      "at",
+      "authorities",
+      "authority",
+      "back",
+      "be",
+      "became",
+      "because",
+      "become",
+      "becomes",
+      "becoming",
+      "been",
+      "before",
+      "beforehand",
+      "behind",
+      "being",
+      "below",
+      "beside",
+      "besides",
+      "between",
+      "beyond",
+      "bill",
+      "both",
+      "bottom",
+      "but",
+      "by",
+      "call",
+      "can",
+      "cant",
+      "co",
+      "con",
+      "could",
+      "couldnt",
+      "cry",
+      "de",
+      "describe",
+      "detail",
+      "do",
+      "document",
+      "documents",
+      "done",
+      "down",
+      "due",
+      "during",
+      "each",
+      "eg",
+      "eight",
+      "either",
+      "eleven",
+      "else",
+      "elsewhere",
+      "empty",
+      "enough",
+      "etc",
+      "even",
+      "ever",
+      "every",
+      "everyone",
+      "everything",
+      "everywhere",
+      "except",
+      "few",
+      "fifteen",
+      "fifty",
+      "figure",
+      "fill",
+      "find",
+      "fire",
+      "first",
+      "five",
+      "for",
+      "former",
+      "formerly",
+      "forty",
+      "found",
+      "four",
+      "from",
+      "front",
+      "full",
+      "further",
+      "get",
+      "give",
+      "go",
+      "guideline",
+      "guidelines",
+      "had",
+      "has",
+      "hasnt",
+      "have",
+      "he",
+      "hence",
+      "her",
+      "here",
+      "hereafter",
+      "hereby",
+      "herein",
+      "hereupon",
+      "hers",
+      "herself",
+      "him",
+      "himself",
+      "his",
+      "how",
+      "however",
+      "http",
+      "hundred",
+      "i",
+      "ie",
+      "if",
+      "in",
+      "inc",
+      "indeed",
+      "interest",
+      "into",
+      "is",
+      "it",
+      "its",
+      "itself",
+      "keep",
+      "last",
+      "latter",
+      "latterly",
+      "least",
+      "less",
+      "ltd",
+      "made",
+      "many",
+      "me",
+      "meanwhile",
+      "medicinal",
+      "medicine",
+      "medicines",
+      "might",
+      "mill",
+      "mine",
+      "more",
+      "moreover",
+      "most",
+      "mostly",
+      "move",
+      "much",
+      "my",
+      "myself",
+      "name",
+      "namely",
+      "neither",
+      "never",
+      "nevertheless",
+      "next",
+      "nine",
+      "nobody",
+      "none",
+      "noone",
+      "nothing",
+      "now",
+      "nowhere",
+      "of",
+      "off",
+      "often",
+      "on",
+      "once",
+      "one",
+      "only",
+      "onto",
+      "or",
+      "other",
+      "others",
+      "otherwise",
+      "our",
+      "ours",
+      "ourselves",
+      "out",
+      "over",
+      "own",
+      "page",
+      "part",
+      "per",
+      "perhaps",
+      "pharmaceutical",
+      "pharmaceuticals",
+      "please",
+      "product",
+      "products",
+      "put",
+      "rather",
+      "re",
+      "regulation",
+      "regulatory",
+      "same",
+      "section",
+      "see",
+      "seem",
+      "seemed",
+      "seeming",
+      "seems",
+      "serious",
+      "several",
+      "she",
+      "show",
+      "side",
+      "since",
+      "sincere",
+      "six",
+      "sixty",
+      "so",
+      "some",
+      "somehow",
+      "someone",
+      "something",
+      "sometime",
+      "sometimes",
+      "somewhere",
+      "still",
+      "such",
+      "system",
+      "table",
+      "take",
+      "ten",
+      "than",
+      "that",
+      "the",
+      "their",
+      "them",
+      "themselves",
+      "then",
+      "thence",
+      "there",
+      "thereafter",
+      "thereby",
+      "therefore",
+      "therein",
+      "thereupon",
+      "these",
+      "they",
+      "thick",
+      "thin",
+      "third",
+      "this",
+      "those",
+      "though",
+      "three",
+      "through",
+      "throughout",
+      "thru",
+      "thus",
+      "to",
+      "together",
+      "too",
+      "top",
+      "toward",
+      "towards",
+      "twelve",
+      "twenty",
+      "two",
+      "un",
+      "under",
+      "until",
+      "up",
+      "upon",
+      "us",
+      "very",
+      "via",
+      "was",
+      "we",
+      "well",
+      "were",
+      "what",
+      "whatever",
+      "when",
+      "whence",
+      "whenever",
+      "where",
+      "whereafter",
+      "whereas",
+      "whereby",
+      "wherein",
+      "whereupon",
+      "wherever",
+      "whether",
+      "which",
+      "while",
+      "whither",
+      "who",
+      "whoever",
+      "whole",
+      "whom",
+      "whose",
+      "why",
+      "with",
+      "within",
+      "would",
+      "www",
+      "yet",
+      "you",
+      "your",
+      "yours",
+      "yourself",
+      "yourselves"
+    ],
+    "names_removed": [
+      "administrative",
+      "africa",
+      "and",
+      "arabia",
+      "australia",
+      "australian",
+      "austria",
+      "bangladesh",
+      "bhutan",
+      "britain",
+      "canada",
+      "canadian",
+      "china",
+      "chmp",
+      "denmark",
+      "drap",
+      "efda",
+      "egypt",
+      "ema",
+      "ethiopia",
+      "european",
+      "fda",
+      "federated",
+      "finland",
+      "gambia",
+      "georgia",
+      "ghana",
+      "great",
+      "guyana",
+      "hong",
+      "hsa",
+      "iceland",
+      "ireland",
+      "jamaica",
+      "japan",
+      "japanese",
+      "jersey",
+      "jordan",
+      "kenya",
+      "kingdom",
+      "kong",
+      "lanka",
+      "latvia",
+      "leone",
+      "liechtenstein",
+      "luxembourg",
+      "malawi",
+      "malaysia",
+      "maldives",
+      "malta",
+      "mhra",
+      "micronesia",
+      "nafdac",
+      "new",
+      "nigeria",
+      "northern",
+      "norway",
+      "npra",
+      "of",
+      "pakistan",
+      "philippines",
+      "pmda",
+      "region",
+      "republic",
+      "rwanda",
+      "sahpra",
+      "saudi",
+      "sfda",
+      "sierra",
+      "singapore",
+      "slovenia",
+      "south",
+      "special",
+      "sri",
+      "states",
+      "sudan",
+      "swiss",
+      "swissmedic",
+      "switzerland",
+      "tanzania",
+      "tga",
+      "tmda",
+      "tonga",
+      "tuvalu",
+      "ukraine",
+      "united",
+      "zambia",
+      "zealand"
+    ],
+    "tfidf": "Stemmed unigrams, min_df=2; each jurisdiction has equal document weight",
+    "lsa": "Two-component truncated SVD; first component can reflect general vocabulary, not a causal axis",
+    "lda": "Bag-of-stem counts; k=2,3,4, 3-fold document-held-out perplexity; fixed corpus vocabulary (exploratory selection, not an independent validation set); 10-seed ARI sensitivity",
+    "readability": "Rule-based sentence splitting; CMU syllables with Pyphen fallback; Dale-Chall bundled easy-word list. Fog counts all >=3-syllable words without proper-noun/compound exceptions. Approximate formula scores, not literal schooling years.",
+    "feature_counting": "Express wording in each jurisdiction’s selected primary document only. Supporting or historical documents are displayed separately and cannot add contemporaneous features. No observed feature is not proof of legal absence. Selected versions vary in date; this is not a 2026 legal census.",
+    "scope": "Selected English clauses, not all 250 countries; current texts are not retroactively assigned to historical years"
+  },
+  "all_language_legal_features": [
+    {
+      "feature": "automatic",
+      "label": "Conditional automatic/default legal effect",
+      "count": 11,
+      "denominator": 89,
+      "countries": [
+        "LKA",
+        "GEO",
+        "JEY",
+        "ARG",
+        "MCO",
+        "PAN",
+        "SLV",
+        "PER",
+        "MLT",
+        "ESP",
+        "BHR"
+      ]
+    },
+    {
+      "feature": "discretion",
+      "label": "Domestic decision, refusal or additional-review power",
+      "count": 50,
+      "denominator": 89,
+      "countries": [
+        "GBR",
+        "ZAF",
+        "PAK",
+        "MYS",
+        "GHA",
+        "NGA",
+        "ETH",
+        "RWA",
+        "TZA",
+        "CHE",
+        "KEN",
+        "TUV",
+        "JEY",
+        "FSM",
+        "TON",
+        "BRA",
+        "COK",
+        "MDV",
+        "SLV",
+        "MEX",
+        "AZE",
+        "VNM",
+        "BGD",
+        "IRL",
+        "AUT",
+        "BTN",
+        "JOR",
+        "SRB",
+        "LTU",
+        "MNE",
+        "UZB",
+        "DZA",
+        "COL",
+        "DEU",
+        "BEL",
+        "ITA",
+        "BGR",
+        "SWE",
+        "ARM",
+        "SVK",
+        "EST",
+        "GRC",
+        "BIH",
+        "PRT",
+        "KGZ",
+        "BHR",
+        "ISL",
+        "CAN",
+        "TUR",
+        "GUY"
+      ]
+    },
+    {
+      "feature": "reports",
+      "label": "Assessment reports or permission to share information",
+      "count": 52,
+      "denominator": 89,
+      "countries": [
+        "GBR",
+        "SGP",
+        "SAU",
+        "ZAF",
+        "MYS",
+        "GHA",
+        "NGA",
+        "ETH",
+        "PHL",
+        "LKA",
+        "RWA",
+        "EGY",
+        "TZA",
+        "NZL",
+        "GMB",
+        "MWI",
+        "CHE",
+        "KEN",
+        "ARG",
+        "ECU",
+        "ZWE",
+        "AUS",
+        "MDV",
+        "SLE",
+        "PER",
+        "ISR",
+        "VNM",
+        "BGD",
+        "MLT",
+        "THA",
+        "NOR",
+        "LUX",
+        "AUT",
+        "JOR",
+        "CZE",
+        "LTU",
+        "MNE",
+        "UZB",
+        "DZA",
+        "DEU",
+        "FIN",
+        "BEL",
+        "ITA",
+        "BGR",
+        "SVK",
+        "EST",
+        "GRC",
+        "BIH",
+        "PRT",
+        "KGZ",
+        "ISL",
+        "TUR"
+      ]
+    },
+    {
+      "feature": "unredacted",
+      "label": "Unredacted/non-public assessment material",
+      "count": 13,
+      "denominator": 89,
+      "countries": [
+        "GBR",
+        "SGP",
+        "SAU",
+        "NGA",
+        "PHL",
+        "LKA",
+        "EGY",
+        "TZA",
+        "ZWE",
+        "AUS",
+        "ISR",
+        "JOR",
+        "DZA"
+      ]
+    },
+    {
+      "feature": "sameness",
+      "label": "Same or sufficiently similar product/dossier",
+      "count": 40,
+      "denominator": 89,
+      "countries": [
+        "GBR",
+        "SGP",
+        "SAU",
+        "MYS",
+        "GHA",
+        "NGA",
+        "ETH",
+        "PHL",
+        "LKA",
+        "RWA",
+        "EGY",
+        "TZA",
+        "NZL",
+        "GMB",
+        "CHE",
+        "KEN",
+        "ZWE",
+        "AUS",
+        "HKG",
+        "MDV",
+        "SLE",
+        "PER",
+        "MEX",
+        "MOZ",
+        "ISR",
+        "MLT",
+        "LVA",
+        "JOR",
+        "CZE",
+        "DZA",
+        "DEU",
+        "CYP",
+        "ITA",
+        "BGR",
+        "SVK",
+        "GRC",
+        "BIH",
+        "ZMB",
+        "CAN",
+        "TUR"
+      ]
+    },
+    {
+      "feature": "original_review",
+      "label": "Independent original assessment / no recursive reliance",
+      "count": 6,
+      "denominator": 89,
+      "countries": [
+        "GBR",
+        "SGP",
+        "AUS",
+        "MEX",
+        "ISR",
+        "CAN"
+      ]
+    },
+    {
+      "feature": "approval_age",
+      "label": "Maximum age of the foreign approval",
+      "count": 8,
+      "denominator": 89,
+      "countries": [
+        "GBR",
+        "SGP",
+        "SAU",
+        "MYS",
+        "PHL",
+        "NZL",
+        "AUS",
+        "ISR"
+      ]
+    },
+    {
+      "feature": "local_evidence",
+      "label": "Local conditions, stability, bridging or benefit–risk checks",
+      "count": 30,
+      "denominator": 89,
+      "countries": [
+        "SGP",
+        "SAU",
+        "MYS",
+        "GHA",
+        "NGA",
+        "ETH",
+        "PHL",
+        "LKA",
+        "RWA",
+        "TZA",
+        "NZL",
+        "GMB",
+        "KEN",
+        "TON",
+        "ARG",
+        "BRA",
+        "ECU",
+        "TWN",
+        "HKG",
+        "MDV",
+        "SLE",
+        "PER",
+        "LUX",
+        "BTN",
+        "JOR",
+        "SRB",
+        "LTU",
+        "DZA",
+        "COL",
+        "TUR"
+      ]
+    },
+    {
+      "feature": "manufacture_location",
+      "label": "Manufacturing-country eligibility condition",
+      "count": 3,
+      "denominator": 89,
+      "countries": [
+        "SAU",
+        "BIH",
+        "ZMB"
+      ]
+    },
+    {
+      "feature": "decision_clock",
+      "label": "Quantified procedural deadline or clock rule",
+      "count": 35,
+      "denominator": 89,
+      "countries": [
+        "GBR",
+        "GHA",
+        "LKA",
+        "NZL",
+        "MWI",
+        "JEY",
+        "PAN",
+        "ZWE",
+        "AUS",
+        "SLE",
+        "SLV",
+        "PER",
+        "AZE",
+        "ISR",
+        "VNM",
+        "MLT",
+        "NLD",
+        "THA",
+        "LVA",
+        "BTN",
+        "SRB",
+        "CZE",
+        "LTU",
+        "UZB",
+        "DZA",
+        "COL",
+        "BGR",
+        "ARM",
+        "SVK",
+        "GRC",
+        "BIH",
+        "KGZ",
+        "ZMB",
+        "ISL",
+        "TUR"
+      ]
+    },
+    {
+      "feature": "two_approvals",
+      "label": "At least two foreign approvals for a specified route",
+      "count": 10,
+      "denominator": 89,
+      "countries": [
+        "SGP",
+        "SAU",
+        "PHL",
+        "LKA",
+        "EGY",
+        "NZL",
+        "TWN",
+        "HKG",
+        "ISR",
+        "COL"
+      ]
+    },
+    {
+      "feature": "foreign_marketing",
+      "label": "Foreign commercial marketing condition",
+      "count": 12,
+      "denominator": 89,
+      "countries": [
+        "SAU",
+        "ETH",
+        "LKA",
+        "EGY",
+        "GMB",
+        "PAN",
+        "HKG",
+        "MDV",
+        "PER",
+        "JOR",
+        "ZMB",
+        "BHR"
+      ]
+    },
+    {
+      "feature": "local_list",
+      "label": "Separate domestic approved-medicines list",
+      "count": 4,
+      "denominator": 89,
+      "countries": [
+        "TUV",
+        "FSM",
+        "TON",
+        "COK"
+      ]
+    },
+    {
+      "feature": "scope_limit",
+      "label": "Explicit product or procedural scope limits",
+      "count": 63,
+      "denominator": 89,
+      "countries": [
+        "SGP",
+        "SAU",
+        "MYS",
+        "ETH",
+        "PHL",
+        "RWA",
+        "NZL",
+        "CHE",
+        "GEO",
+        "PAN",
+        "HKG",
+        "MDV",
+        "SLV",
+        "PER",
+        "MEX",
+        "DOM",
+        "GTM",
+        "MOZ",
+        "VNM",
+        "BGD",
+        "MLT",
+        "NLD",
+        "ESP",
+        "THA",
+        "IRL",
+        "DNK",
+        "NOR",
+        "LVA",
+        "LUX",
+        "AUT",
+        "LIE",
+        "BTN",
+        "JOR",
+        "SRB",
+        "CZE",
+        "LTU",
+        "MNE",
+        "UZB",
+        "DZA",
+        "COL",
+        "DEU",
+        "FIN",
+        "CYP",
+        "BEL",
+        "ITA",
+        "BGR",
+        "HRV",
+        "ROU",
+        "SWE",
+        "ARM",
+        "SVK",
+        "EST",
+        "GRC",
+        "BIH",
+        "PRT",
+        "KGZ",
+        "ZMB",
+        "BHR",
+        "SVN",
+        "ISL",
+        "CAN",
+        "TUR",
+        "GUY"
+      ]
+    },
+    {
+      "feature": "pending_operation",
+      "label": "Recognition described but implementation still pending",
+      "count": 1,
+      "denominator": 89,
+      "countries": [
+        "ZAF"
+      ]
+    },
+    {
+      "feature": "approval_not_reimbursement",
+      "label": "Approval and pricing/reimbursement legally separated",
+      "count": 1,
+      "denominator": 89,
+      "countries": [
+        "MCO"
+      ]
+    },
+    {
+      "feature": "commencement_rule",
+      "label": "Rule specifying when an instrument takes effect",
+      "count": 2,
+      "denominator": 89,
+      "countries": [
+        "ARG",
+        "ZMB"
+      ]
+    },
+    {
+      "feature": "reference_continuity",
+      "label": "Continuity of the reference authority over the product lifecycle",
+      "count": 1,
+      "denominator": 89,
+      "countries": [
+        "GBR"
+      ]
+    },
+    {
+      "feature": "applicant_consent",
+      "label": "Applicant/holder consent or authorisation to share the dossier",
+      "count": 3,
+      "denominator": 89,
+      "countries": [
+        "HKG",
+        "SLE",
+        "GTM"
+      ]
+    },
+    {
+      "feature": "translation_requirement",
+      "label": "Explicit language or translation/authentication requirement",
+      "count": 7,
+      "denominator": 89,
+      "countries": [
+        "AUS",
+        "PER",
+        "AZE",
+        "LVA",
+        "KGZ",
+        "ZMB",
+        "ISL"
+      ]
+    },
+    {
+      "feature": "clinical_trial_waiver",
+      "label": "Conditional waiver of local clinical trial",
+      "count": 1,
+      "denominator": 89,
+      "countries": [
+        "VNM"
+      ]
+    },
+    {
+      "feature": "adverse_foreign_history",
+      "label": "Foreign refusal, withdrawal or adverse-history eligibility condition",
+      "count": 7,
+      "denominator": 89,
+      "countries": [
+        "AUS",
+        "HKG",
+        "DOM",
+        "ISR",
+        "COL",
+        "CAN",
+        "TUR"
+      ]
+    },
+    {
+      "feature": "new_drug_exclusion",
+      "label": "Explicit exclusion of new drugs/NCEs from a specified route",
+      "count": 0,
+      "denominator": 89,
+      "countries": []
+    },
+    {
+      "feature": "inspection_only",
+      "label": "Recognition applies to inspections/certification rather than full medicine approval",
+      "count": 0,
+      "denominator": 89,
+      "countries": []
+    },
+    {
+      "feature": "joint_review",
+      "label": "Joint assessment/work sharing identified separately",
+      "count": 11,
+      "denominator": 89,
+      "countries": [
+        "MOZ",
+        "IRL",
+        "DEU",
+        "FIN",
+        "BEL",
+        "ITA",
+        "HRV",
+        "SVK",
+        "GRC",
+        "ISL",
+        "CAN"
+      ]
+    },
+    {
+      "feature": "silence_positive",
+      "label": "No response by the deadline has a positive/default effect",
+      "count": 1,
+      "denominator": 89,
+      "countries": [
+        "PER"
+      ]
+    },
+    {
+      "feature": "silence_negative",
+      "label": "No response by the deadline has a negative/default effect",
+      "count": 0,
+      "denominator": 89,
+      "countries": []
+    },
+    {
+      "feature": "minimum_foreign_history",
+      "label": "Minimum prior foreign registration duration or multi-country history",
+      "count": 1,
+      "denominator": 89,
+      "countries": [
+        "BHR"
+      ]
+    }
+  ],
+  "legal_n": 89,
+  "tier_counts": {
+    "national_rule": 89,
+    "limited_scope_or_framework": 21,
+    "official_policy_explanation": 5,
+    "historical_rule": 2
+  },
+  "translation_sensitivity": {
+    "n": 55,
+    "original_English_n": 48,
+    "additional_checked_translation_n": 7,
+    "additional_countries": [
+      "ARG",
+      "BRA",
+      "MCO",
+      "PAN",
+      "SLV",
+      "PER",
+      "NLD"
+    ],
+    "english_pair_similarity_correlation": 0.998366465156471,
+    "topic_seed_checks": [
+      {
+        "k": 2,
+        "median_ari": 0.12823444096901007,
+        "seed_ari": [
+          0.12823444096901007,
+          0.19031062628700626,
+          0.12232115409951254,
+          0.12823444096901007,
+          0.15998107183456348
+        ]
+      },
+      {
+        "k": 3,
+        "median_ari": 0.7332218400831199,
+        "seed_ari": [
+          0.7618934180423172,
+          0.7332218400831199,
+          0.17972621282561577,
+          0.7332218400831199,
+          0.021255114317899247
+        ]
+      },
+      {
+        "k": 4,
+        "median_ari": 0.6076180522119009,
+        "seed_ari": [
+          0.5818567250873897,
+          0.5963857333878244,
+          0.7750835676765533,
+          0.7398405853913498,
+          0.6076180522119009
+        ]
+      }
+    ],
+    "excluded": [
+      {
+        "iso3": "ECU",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "TWN",
+        "reason": "Fewer than 80 English words; original and checked translation remain available for reading"
+      },
+      {
+        "iso3": "MEX",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "AZE",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "DOM",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "GTM",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "MOZ",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "ISR",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "VNM",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "ESP",
+        "reason": "Fewer than 80 English words; original and checked translation remain available for reading"
+      },
+      {
+        "iso3": "UZB",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "DZA",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "COL",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "DEU",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "BEL",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "ITA",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "BGR",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "SWE",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "SVK",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "GRC",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "BIH",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "PRT",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "KGZ",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "BHR",
+        "reason": "Not every selected passage has an approved checked research translation"
+      },
+      {
+        "iso3": "TUR",
+        "reason": "Not every selected passage has an approved checked research translation"
+      }
+    ],
+    "scope": "Separate mixed-language sensitivity; no translated readability or unchecked machine output. Shared-system pages remain correlated: see legal-family sensitivity."
+  }
+}

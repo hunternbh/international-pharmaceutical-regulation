@@ -1,5 +1,7 @@
 {
-  "prepared_date": "2026-10-17",
+  "prepared_utc": "2026-10-18T03:20:54.551544+00:00",
+  "dashboard": "https://hunternbh.github.io/international-pharmaceutical-regulation/",
+  "scope": "Combined interactive report and public reviewed-evidence extracts; original raw archive excluded",
   "files": [
     {
       "file": ".gitattributes",
@@ -10,6 +12,1281 @@
       "file": ".nojekyll",
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "code/build_checkpoint_report.py",
+      "bytes": 27705,
+      "sha256": "61dac80d826f4e82fb755b27e8f9d21050babfe6b5e9d084d98ffd80e1f147c7"
+    },
+    {
+      "file": "code/build_combined_report.py",
+      "bytes": 23531,
+      "sha256": "a04bcb6bb1f2fd28b5182743e85ec576abf64db5002c878da40d0ed8c2c7d8fe"
+    },
+    {
+      "file": "code/check_family_sensitivity.py",
+      "bytes": 4450,
+      "sha256": "a1de8c4aa43f846b11a99e93dd65047ef6f5afb0b36b859beff6701ad9a2c467"
+    },
+    {
+      "file": "code/run_expanded_analysis.py",
+      "bytes": 15211,
+      "sha256": "c895510961ad8bfa2d278f50127d0fc9ae40a849799f570d74c5abcc0b56a1be"
+    },
+    {
+      "file": "countries/ABW.json",
+      "bytes": 2574,
+      "sha256": "d419f1fe8819803cda11589a5cf449721741ad08ee99d38540716c5ecf25b94c"
+    },
+    {
+      "file": "countries/AFG.json",
+      "bytes": 2570,
+      "sha256": "f1fe09f5b8c43426136e9d3d11d5b55c3ea4774c4433908436f1092213e1cf0d"
+    },
+    {
+      "file": "countries/AGO.json",
+      "bytes": 2753,
+      "sha256": "a1b7e3726f988e4ec8d1395e8e03dc385b3883598ec7b313a866623e386c8cea"
+    },
+    {
+      "file": "countries/AIA.json",
+      "bytes": 2692,
+      "sha256": "fc0a7ffa67f680be04ecc1702eba3aab4fb4cb02b97ea50e4e883f4e8cd46ce4"
+    },
+    {
+      "file": "countries/ALA.json",
+      "bytes": 2731,
+      "sha256": "9d60ef0e4e3bfe0e8ed4ab1da9857ac3d017db218db06a48b0e0da656262b40c"
+    },
+    {
+      "file": "countries/ALB.json",
+      "bytes": 12080,
+      "sha256": "75921b2afbbb06e9158b20df29d0f8b39aa84f4181dff43e9bf7c4339d7ecb42"
+    },
+    {
+      "file": "countries/AND.json",
+      "bytes": 2521,
+      "sha256": "966a580a5cdfe8f529ad06550d4951e09215a0e9044f9306d638e7be5a0bd394"
+    },
+    {
+      "file": "countries/ARE.json",
+      "bytes": 11634,
+      "sha256": "cd2a72ceba04d1c21b0be6a62da6f31e60d39e01d08a9706c61ccfadf20be95c"
+    },
+    {
+      "file": "countries/ARG.json",
+      "bytes": 19155,
+      "sha256": "51922e78794147d66dd0ca6e7851660425ee62cb780795be683bba21fb3c8f1f"
+    },
+    {
+      "file": "countries/ARM.json",
+      "bytes": 11842,
+      "sha256": "8e7164e7e092a009f3f008ec5992858a05534c4572328849d78266c1fe88c00b"
+    },
+    {
+      "file": "countries/ASM.json",
+      "bytes": 2741,
+      "sha256": "9a22788bedfbbd5b236805c0a414fac16a4c298b2b25c11cbe21b2b9581a8d24"
+    },
+    {
+      "file": "countries/ATA.json",
+      "bytes": 2584,
+      "sha256": "96e8d0f9c4f6d6466ee6c6c2fde0b9bc5e644487255babdfb828b7dd33fd1a93"
+    },
+    {
+      "file": "countries/ATF.json",
+      "bytes": 2618,
+      "sha256": "160191c79d5c3055bb686230e8b5b8bc813c5a562b65c4abbd5ea9930b4c697a"
+    },
+    {
+      "file": "countries/ATG.json",
+      "bytes": 2665,
+      "sha256": "8a8ba048dfb8f88c0cbbdf96639c3d903c67a370a2f4ede22586a1a030c77206"
+    },
+    {
+      "file": "countries/AUS.json",
+      "bytes": 17212,
+      "sha256": "dd9b876c3595f0d4a637740c61199f804b9531cca088eac7f9f8888d6449a5f0"
+    },
+    {
+      "file": "countries/AUT.json",
+      "bytes": 8958,
+      "sha256": "a2eba9457ee7b342546d50e9bae14dc1f13eea723f957e61c6ff2c4374b53fc7"
+    },
+    {
+      "file": "countries/AZE.json",
+      "bytes": 34590,
+      "sha256": "73624adf97451a5b6e2267e3eec462f79f6dd261f54c1c5cf617d3e47e5a633b"
+    },
+    {
+      "file": "countries/BDI.json",
+      "bytes": 5436,
+      "sha256": "4bc929ca09da8cffd7fb0011a5de06d13a3a6d336e5276ad8ac0fede984c36c9"
+    },
+    {
+      "file": "countries/BEL.json",
+      "bytes": 10745,
+      "sha256": "eedcd29fffc3ea53427dcd5d07eb665b0967e3c6efe40e4c041f91f7346d83cf"
+    },
+    {
+      "file": "countries/BEN.json",
+      "bytes": 2730,
+      "sha256": "1e1ddf908b3087452724a5f4226af691e152ca4ea76c435d5a8e66548b6a2539"
+    },
+    {
+      "file": "countries/BES.json",
+      "bytes": 13954,
+      "sha256": "f28deebf741922777ff5d89547ef729511b184fe1913e7b2c478c9d218e1aa13"
+    },
+    {
+      "file": "countries/BFA.json",
+      "bytes": 5481,
+      "sha256": "d8305f94d3f633bd0a275e95ba224f0929145d7b8b67e527b422a433914e3d0d"
+    },
+    {
+      "file": "countries/BGD.json",
+      "bytes": 10640,
+      "sha256": "bcfc7c3d48c60209d287f88c2d6915bc819764fd6bb554b26dc4647055d62272"
+    },
+    {
+      "file": "countries/BGR.json",
+      "bytes": 18777,
+      "sha256": "b70e0940ab632ea691f6833a41d961f9006746ad8ae3f9ad97acc6749080c894"
+    },
+    {
+      "file": "countries/BHR.json",
+      "bytes": 27098,
+      "sha256": "eb5ded9576c6bba4690fbb9e5a9bbd70edbfd55d9eaf9ed6c612775dec1dfb2c"
+    },
+    {
+      "file": "countries/BHS.json",
+      "bytes": 2521,
+      "sha256": "f0d6f341ab9c5f0a77b61c58b967a9cfc19fd34e070356c4b8391180de6d4928"
+    },
+    {
+      "file": "countries/BIH.json",
+      "bytes": 13085,
+      "sha256": "38a8fb3ad7f88cf0f540b154f69a74406026a910700cd05416d7692ac1833634"
+    },
+    {
+      "file": "countries/BLM.json",
+      "bytes": 2598,
+      "sha256": "dd2100c5045ff6f5389fa7eff3561d9b5432399cf14c25781788928b36fcffee"
+    },
+    {
+      "file": "countries/BLR.json",
+      "bytes": 4260,
+      "sha256": "d6a92136b258aafcd541f71d0b1bbd3bba9dd39b485929442d59b2e570b2c392"
+    },
+    {
+      "file": "countries/BLZ.json",
+      "bytes": 4214,
+      "sha256": "5be97a43b9b3c70e3db9a71436da301136dbebafc40e0aedbb629c771b035540"
+    },
+    {
+      "file": "countries/BMU.json",
+      "bytes": 8046,
+      "sha256": "a897598e7145190090652845c1de9b8585dfcbc72edf32b40ce06d59cfca1a95"
+    },
+    {
+      "file": "countries/BOL.json",
+      "bytes": 3338,
+      "sha256": "cc543c1826125e3a503694f4b844a1d530ddc46521f9c8b93fa72da23760461b"
+    },
+    {
+      "file": "countries/BRA.json",
+      "bytes": 22448,
+      "sha256": "ed81a625b2bffed1151987a0e9d81064b372bdcd0e262a1bb705e11888d86f01"
+    },
+    {
+      "file": "countries/BRB.json",
+      "bytes": 2568,
+      "sha256": "5e058762aa28317403b18a69fdd9f08f191520305f8b7e1721ef2e3834a162c6"
+    },
+    {
+      "file": "countries/BRN.json",
+      "bytes": 3839,
+      "sha256": "0227ed41878c8bedcd5439a8cfb58d5209ddf5bb85772ba7e14eccd593627cc0"
+    },
+    {
+      "file": "countries/BTN.json",
+      "bytes": 13712,
+      "sha256": "a6c49213d65140c9ef088528152aab5142823878a82059ae7c642fcc9101710b"
+    },
+    {
+      "file": "countries/BVT.json",
+      "bytes": 2590,
+      "sha256": "abacc6bb74dc4855661e3401fed8e4935dc7141d14b4b436172213762af761f3"
+    },
+    {
+      "file": "countries/BWA.json",
+      "bytes": 10360,
+      "sha256": "fba69834ba153b6a0d490b94850697f384c1e8f4ce8d0be0627e9f6c257040c1"
+    },
+    {
+      "file": "countries/CAF.json",
+      "bytes": 2794,
+      "sha256": "ddf6a27500725861ac0234a32270e7233ba2992ede5920331d4c9daf96ff3c19"
+    },
+    {
+      "file": "countries/CAN.json",
+      "bytes": 45086,
+      "sha256": "61bbdc373884fa91249559137481e20b75fd4801f85894e3e88682853a239be7"
+    },
+    {
+      "file": "countries/CCK.json",
+      "bytes": 2610,
+      "sha256": "a882c16a24f400ecb7253eae1536e640ad590df999db4e635cddbfb5e2b04a03"
+    },
+    {
+      "file": "countries/CHE.json",
+      "bytes": 13049,
+      "sha256": "a2820fa0de3fdf1489c680d2694b9feffa8d4fb3b9071a8d9bdbe5e0a54f3090"
+    },
+    {
+      "file": "countries/CHL.json",
+      "bytes": 5750,
+      "sha256": "5925b10e5f03503c740260533ea731c703a9e5cc55e2a5030d8ddec76b637888"
+    },
+    {
+      "file": "countries/CHN.json",
+      "bytes": 11019,
+      "sha256": "572daaf6ecfb8ac327f6985c9fbd22bec5a7e474a35e1ed789eb7b85261bb33d"
+    },
+    {
+      "file": "countries/CIV.json",
+      "bytes": 5481,
+      "sha256": "35e361fb7f2b21a03caaa8703152b62e944c03f24595b7be2d70e7f9ec0c192b"
+    },
+    {
+      "file": "countries/CMR.json",
+      "bytes": 2765,
+      "sha256": "4ebc53d1c7686d201b2d590c761e04a8a9ce2ec28220eaa1b177cf45ac4e9ac9"
+    },
+    {
+      "file": "countries/COD.json",
+      "bytes": 3806,
+      "sha256": "b71f3293ff7bb5f32d5d5b2ad94e4ae487e58176e1a83128adee9f4dee71269f"
+    },
+    {
+      "file": "countries/COG.json",
+      "bytes": 2756,
+      "sha256": "e5831541ba0be97bf34bd4c74efe9111f11a0db250e2a307c3ede51b81f1a0e7"
+    },
+    {
+      "file": "countries/COK.json",
+      "bytes": 8591,
+      "sha256": "0ca74486b9acb6bac691ede4ad9eb140810e077e9d63649b01e4436b2da00f53"
+    },
+    {
+      "file": "countries/COL.json",
+      "bytes": 22971,
+      "sha256": "0d40fea30eb4483f369ddf4e298a40267dd04597479393cf4eb1b5bb5dbde70f"
+    },
+    {
+      "file": "countries/COM.json",
+      "bytes": 2734,
+      "sha256": "f5ffa57eec366f824a738ad38fe32da9cfe3c9c0623d0f2f121260becdc24489"
+    },
+    {
+      "file": "countries/CPV.json",
+      "bytes": 2760,
+      "sha256": "a984da7d6b9d07672054d65283651be2479e205328f29d656bbfa0056b660fd3"
+    },
+    {
+      "file": "countries/CRI.json",
+      "bytes": 14772,
+      "sha256": "569b0ad6af9df403b9b80606dbd2aeab794429ef2c952ba0fd82785ea6baefd9"
+    },
+    {
+      "file": "countries/CUB.json",
+      "bytes": 14521,
+      "sha256": "d53277b7373ef34da0ebb656b3088e0107c0dafb7e95c3d6a41604eb137f5893"
+    },
+    {
+      "file": "countries/CUW.json",
+      "bytes": 2580,
+      "sha256": "3f39c37b6363739e5b0484a6dab628cb52ca639edbbd3260fd7816b3fd25b781"
+    },
+    {
+      "file": "countries/CXR.json",
+      "bytes": 2596,
+      "sha256": "71270ea5543471f50aca9b56430e269dade804d445eb1f0e7df1a9d9583481cc"
+    },
+    {
+      "file": "countries/CYM.json",
+      "bytes": 2555,
+      "sha256": "a6365b65e4027d336e93a91d1b04e89afaac7024f80929a35a5638d6d90f9fdf"
+    },
+    {
+      "file": "countries/CYP.json",
+      "bytes": 6917,
+      "sha256": "116098377fbeddc70631126bdf0d28a7e10dc60003bcf65311fa4de2ad0ec251"
+    },
+    {
+      "file": "countries/CZE.json",
+      "bytes": 16109,
+      "sha256": "cae03871a1eec6690fc4f9c2e93a60607b8c3366bcb8d063fc0bd2806987a76b"
+    },
+    {
+      "file": "countries/DEU.json",
+      "bytes": 11253,
+      "sha256": "730db497d856045387977c07174254ba0bd61df8f114ef7b08105bcd25adf192"
+    },
+    {
+      "file": "countries/DJI.json",
+      "bytes": 2567,
+      "sha256": "904e01c60034b769b5d6048c3f7e64a91a0e1878313117d1769e6380f81be8fc"
+    },
+    {
+      "file": "countries/DMA.json",
+      "bytes": 2653,
+      "sha256": "e433575ace19e7e8e25410bb2ed67ad3e29637a5863578d88f151b578bf91df6"
+    },
+    {
+      "file": "countries/DNK.json",
+      "bytes": 8318,
+      "sha256": "15a04ead918a19d2b220eaffcc6d6dde7e3df34b080d4473192d194c601a1b43"
+    },
+    {
+      "file": "countries/DOM.json",
+      "bytes": 15856,
+      "sha256": "5ae2e6fdb4e59400a1c9cb664dc614cce8dac0ffeb4a9ddd4478d16c00c7ae3b"
+    },
+    {
+      "file": "countries/DZA.json",
+      "bytes": 31357,
+      "sha256": "d56f0a86d5f8ed0a77e18a988b134125b9abecd9412640b4ba2db05feaa3dbe9"
+    },
+    {
+      "file": "countries/ECU.json",
+      "bytes": 21134,
+      "sha256": "85e0d6993788a87b37d10b439adb06495f75207876f773c1f0bbc2e9f58d5fcb"
+    },
+    {
+      "file": "countries/EGY.json",
+      "bytes": 15291,
+      "sha256": "671794b86497a48802d2de774c4a6d140acb82d07b5ef0960b13f6c403b859ed"
+    },
+    {
+      "file": "countries/ERI.json",
+      "bytes": 2734,
+      "sha256": "ea5e8bb0893dd5746663b25b3df6b1782e2e606e95e4cc2196288b292a523f9e"
+    },
+    {
+      "file": "countries/ESH.json",
+      "bytes": 2592,
+      "sha256": "a96214f473a6867cf98ec7436bb6e40de5904bceebe95363c84843bf18223d3a"
+    },
+    {
+      "file": "countries/ESP.json",
+      "bytes": 10821,
+      "sha256": "4195e5ea88391c9ca33746479f760bc7e1fa69769a8e033e3ba133582acc0097"
+    },
+    {
+      "file": "countries/EST.json",
+      "bytes": 15937,
+      "sha256": "05dc2ca8ff7eff89f2a790ff6517dae56a45372f306291fe4075ad58eb527f27"
+    },
+    {
+      "file": "countries/ETH.json",
+      "bytes": 25258,
+      "sha256": "4cca920971da3c277f1575748e838a72c51166fd9ddd6d7c39b1ce7b583ac78d"
+    },
+    {
+      "file": "countries/FIN.json",
+      "bytes": 10180,
+      "sha256": "482a3af906503384cb530ac59d71d566b741ec5ba49d7c0161c95fb8a62c4b3e"
+    },
+    {
+      "file": "countries/FJI.json",
+      "bytes": 13199,
+      "sha256": "3fcd8964a6b5c0242172ed3e8d81a8b720db82611b08c5b61a020744ca304d21"
+    },
+    {
+      "file": "countries/FLK.json",
+      "bytes": 2619,
+      "sha256": "cc0d7d183e121f3953469890b817f41c0504560904c1491c3db57d3ef14238b7"
+    },
+    {
+      "file": "countries/FRA.json",
+      "bytes": 2698,
+      "sha256": "3978c04ba262a7e9d79817a34fabed8d117e2b00fa2e1b3cbb60bd1085a77636"
+    },
+    {
+      "file": "countries/FRO.json",
+      "bytes": 2619,
+      "sha256": "5bc11fa941d5501fc098652ee03219c28cd71de88bc47b0cb62f6fd74128499c"
+    },
+    {
+      "file": "countries/FSM.json",
+      "bytes": 8520,
+      "sha256": "2bf4a9bf1bcd0c61616ab9ed5a68214e910e01fc0acd734277f9de9a04686698"
+    },
+    {
+      "file": "countries/GAB.json",
+      "bytes": 2762,
+      "sha256": "1cd3f54b13d54e4b2d9fa37c5aeefb481e351b12f9680718ad62da7aa9b90445"
+    },
+    {
+      "file": "countries/GBR.json",
+      "bytes": 18634,
+      "sha256": "03e5d2001e53ac9066edf6f7e1d12453a53e4730fc7ba631f1cf70a3176a7d1e"
+    },
+    {
+      "file": "countries/GEO.json",
+      "bytes": 15125,
+      "sha256": "37f3abea5daf2230391231200d0707b18834fa8210098511d98afd5d71b140f9"
+    },
+    {
+      "file": "countries/GGY.json",
+      "bytes": 11982,
+      "sha256": "cb4afb14a46d1cdef3ff4ae97bb6037b80fbd8b6cda4b475fc3592677d19d136"
+    },
+    {
+      "file": "countries/GHA.json",
+      "bytes": 18406,
+      "sha256": "bcd304f999d2c67b5f575aa0296ec094f2f165999203eaed248dc7ade820f287"
+    },
+    {
+      "file": "countries/GIB.json",
+      "bytes": 2577,
+      "sha256": "3b9ef9e2713253f116ba2bc32fa8bbd7b7a3b52e00abdf15d634b8949632fb0d"
+    },
+    {
+      "file": "countries/GIN.json",
+      "bytes": 4430,
+      "sha256": "310e1ee2ce86c36a0848ec7b2182b46b57de15259fa238a2e7334257e05d9738"
+    },
+    {
+      "file": "countries/GLP.json",
+      "bytes": 2723,
+      "sha256": "47ac05e22dd7bef736209377b73f1d73f8f5e1a05cc5c17bca14a74280e8d516"
+    },
+    {
+      "file": "countries/GMB.json",
+      "bytes": 21201,
+      "sha256": "eed0cdad0d5fdeee70a6cb09d5e65ae65a08168285c6258d39a1490e94046741"
+    },
+    {
+      "file": "countries/GNB.json",
+      "bytes": 2551,
+      "sha256": "caa0b67f71a49745cd49cd628e33d617a888343bfa17d955e5aad67119302e0b"
+    },
+    {
+      "file": "countries/GNQ.json",
+      "bytes": 2559,
+      "sha256": "670b6f7202fe2b72baaa3cd7d5e48fe94b3e9efa8478870b5a0287a52fa2b0b8"
+    },
+    {
+      "file": "countries/GRC.json",
+      "bytes": 25895,
+      "sha256": "7b3a9fa835f9247f78ca80accd154bf381647f9fd0406ce5e56eb43cbb7e929d"
+    },
+    {
+      "file": "countries/GRD.json",
+      "bytes": 2651,
+      "sha256": "71835207d867db86fb693aa0376f623ae101f6f1189a76804f2d5a877db00338"
+    },
+    {
+      "file": "countries/GRL.json",
+      "bytes": 15013,
+      "sha256": "d66881e25cf0bfd1304d6f674d84db17a9a89da0cb0004030c0cfc3bf2b11314"
+    },
+    {
+      "file": "countries/GTM.json",
+      "bytes": 26311,
+      "sha256": "98e0b059d10bcae195404495c0553a56a4010ca48ff654aed3e281eb124905ee"
+    },
+    {
+      "file": "countries/GUF.json",
+      "bytes": 2729,
+      "sha256": "d30bb86a9dfb19cf8d2ee7959bddfc610002ea3fcb7987c17a066cd83238f27c"
+    },
+    {
+      "file": "countries/GUM.json",
+      "bytes": 2713,
+      "sha256": "d812a908cb099cd6ae0f5b0ea013d11c6dda905e2dd6e1fe3c4069af622d51f2"
+    },
+    {
+      "file": "countries/GUY.json",
+      "bytes": 9919,
+      "sha256": "71b7dfa99896f1fd533cea5d890ed0fee73da95e4603d9099bf01efdde04b553"
+    },
+    {
+      "file": "countries/HKG.json",
+      "bytes": 26351,
+      "sha256": "186973ec5e3d0ad2ccb116701f30ac7118daa799982ecf3368f3aa72b66bffdb"
+    },
+    {
+      "file": "countries/HMD.json",
+      "bytes": 2630,
+      "sha256": "7a1eb3e008adb1b20bcf760fcd332814ca55d9b40c1a77efd98fe738940ea351"
+    },
+    {
+      "file": "countries/HND.json",
+      "bytes": 5058,
+      "sha256": "d8397b825c0aecc280d88fc51afcd9e70c0e70ab286e6414ef182eb4e98879e6"
+    },
+    {
+      "file": "countries/HRV.json",
+      "bytes": 9658,
+      "sha256": "f254385151718489456d3c225131c2888628cb4b67b09e27dd9ee90a046dac56"
+    },
+    {
+      "file": "countries/HTI.json",
+      "bytes": 2671,
+      "sha256": "b567d5a47a068b3612632e5f249c70ccb6f53cecf06338746c9ce20e6a0dfd55"
+    },
+    {
+      "file": "countries/HUN.json",
+      "bytes": 14281,
+      "sha256": "7565003c08550ae1011df683bc0280cced65be02618d8561b43755adb263daa6"
+    },
+    {
+      "file": "countries/IDN.json",
+      "bytes": 13794,
+      "sha256": "da2d7eb603f30e93c5d68aa9b643cfc4ae4c85703f318f985d781b5b63015684"
+    },
+    {
+      "file": "countries/IMN.json",
+      "bytes": 2586,
+      "sha256": "2a5cbae66b558da3eb76c8dbd1216acc15639664fea93f071ba4b2a69d7c5830"
+    },
+    {
+      "file": "countries/IND.json",
+      "bytes": 12847,
+      "sha256": "d238de4056c4cbf575c4d077b6579d41480ad817c38d6ce280fb48f3def73f5d"
+    },
+    {
+      "file": "countries/IOT.json",
+      "bytes": 2624,
+      "sha256": "e137d9e0bf092049fcd72b6676dd053b7d88e8ad9962754ff7b1e0bbfb2c3696"
+    },
+    {
+      "file": "countries/IRL.json",
+      "bytes": 8931,
+      "sha256": "3073f187742198102ccd9332fd1c367b7f1c5202a6f0a074b9e5a0148372ffbf"
+    },
+    {
+      "file": "countries/IRN.json",
+      "bytes": 2595,
+      "sha256": "2a23880746401fbc93bca274a9fd0a74c429bff5562fbf4075625df5523b57a6"
+    },
+    {
+      "file": "countries/IRQ.json",
+      "bytes": 4196,
+      "sha256": "f927117068218b8f34df246eca1c42fd9a75b1877456722f642bd73b3bcf2bfe"
+    },
+    {
+      "file": "countries/ISL.json",
+      "bytes": 20179,
+      "sha256": "0ef5f9f69330ae7ce8f2298c426499fcdbd539a3c29f43f85d3990eaedb12450"
+    },
+    {
+      "file": "countries/ISR.json",
+      "bytes": 37217,
+      "sha256": "22350abb18079be386f6fc9d4cbe1f0c66fd05ec59a12b08cea1de4909fb5044"
+    },
+    {
+      "file": "countries/ITA.json",
+      "bytes": 10848,
+      "sha256": "7b000bbc007eaf9b373e3b76cb0d3f061202192753935caca562cbbf8d4df880"
+    },
+    {
+      "file": "countries/JAM.json",
+      "bytes": 7766,
+      "sha256": "defb85603557e6798d9863c86ed5d22c20eebf8c2a084b5a56ba7f6f5fcbafc6"
+    },
+    {
+      "file": "countries/JEY.json",
+      "bytes": 7269,
+      "sha256": "c7a8fa42f4ffb06cf7ecc9fb7a0d1f9cd5354b822712385f5716b89e8ed01f6a"
+    },
+    {
+      "file": "countries/JOR.json",
+      "bytes": 18755,
+      "sha256": "8a278effaf5ad9736d40b0a81d1a9f76501a2bde3ecc1bd2a11f9a40aa2a0369"
+    },
+    {
+      "file": "countries/JPN.json",
+      "bytes": 10684,
+      "sha256": "3d53e15158bd42f6f34f4c5a38efb2f16d19d43f3c2a46849dfe061c6c17f650"
+    },
+    {
+      "file": "countries/KAZ.json",
+      "bytes": 2740,
+      "sha256": "8572d3279fc1114eef459fb0f39a6aab3e54198fc1155e41ba3e0956d86e5a04"
+    },
+    {
+      "file": "countries/KEN.json",
+      "bytes": 20367,
+      "sha256": "23c8bbac9389dd5419fd1c04db71ab3ce169ea10cc90345ee6ce3860ded89e23"
+    },
+    {
+      "file": "countries/KGZ.json",
+      "bytes": 42112,
+      "sha256": "c9198abd7dee23defe90b956fd9d009f1e40711e45a14dff14f16e52f54c2ca8"
+    },
+    {
+      "file": "countries/KHM.json",
+      "bytes": 2563,
+      "sha256": "a01558289422aeb7a73282a00396d198cd0fcd60e6b3ea63d09166f4f4f9f86a"
+    },
+    {
+      "file": "countries/KIR.json",
+      "bytes": 2487,
+      "sha256": "87ba530cac9f258a40fac1f7f2ba349791dce6cabbaeb17e5906823e7a5de0d2"
+    },
+    {
+      "file": "countries/KNA.json",
+      "bytes": 2679,
+      "sha256": "ecb13defc288ac4ce901c2f2194891cffaeaa2adde007e64699ec53b98a1f525"
+    },
+    {
+      "file": "countries/KOR.json",
+      "bytes": 3403,
+      "sha256": "6c95e4d7bb2a06bfbabe30aea737e2ba5502a4ae8e51f4a5031563c8121ee651"
+    },
+    {
+      "file": "countries/KWT.json",
+      "bytes": 5279,
+      "sha256": "9198fb4f23c542ed4f19e79b91c0deb2502839881137b42d43b7903f0f6caebb"
+    },
+    {
+      "file": "countries/LAO.json",
+      "bytes": 2784,
+      "sha256": "cf6b17bba0cd2fefb4b4129cd9a4ffb43c2801d82d358ab15d537adb2b5a0a2a"
+    },
+    {
+      "file": "countries/LBN.json",
+      "bytes": 9225,
+      "sha256": "0dc17263d8b528267a0caa538306e082748fac6b02ef7a8c4240ae58108e15de"
+    },
+    {
+      "file": "countries/LBR.json",
+      "bytes": 9563,
+      "sha256": "658b5c3515c212c2bce0ce34e74f9328291a2fb83e649a8ede50f3b9afb4ab4a"
+    },
+    {
+      "file": "countries/LBY.json",
+      "bytes": 2535,
+      "sha256": "ff114fb21ec811b3165db558c8b36f21fc86caef7d142405b8c785eccab15cab"
+    },
+    {
+      "file": "countries/LCA.json",
+      "bytes": 2659,
+      "sha256": "e594030b211f853361333f4ebd4788a54816dfc7983942b4194dbf1288855869"
+    },
+    {
+      "file": "countries/LIE.json",
+      "bytes": 8960,
+      "sha256": "407e0489916ebd3ef85fd52dfce912daa912d23e4df6f3b63e86dfac70b21501"
+    },
+    {
+      "file": "countries/LKA.json",
+      "bytes": 14106,
+      "sha256": "579ec3190c66d8d1743f55a2d85406c9a287f9eec36a08577f46c048b72fb680"
+    },
+    {
+      "file": "countries/LSO.json",
+      "bytes": 2756,
+      "sha256": "98ab621d8f019e29ca4fff5daf6a5b020a4a01f8d6afc582963438ca53810a5e"
+    },
+    {
+      "file": "countries/LTU.json",
+      "bytes": 16237,
+      "sha256": "ddc7edec453ed67f695ddad1bd820f5164841eda9ac5befaf45d517caeb5ee91"
+    },
+    {
+      "file": "countries/LUX.json",
+      "bytes": 10052,
+      "sha256": "51fed1c62d35958724b3384ed927b9168a370089c9203822379cb597b7bd96cd"
+    },
+    {
+      "file": "countries/LVA.json",
+      "bytes": 10845,
+      "sha256": "716d9562802b7c839b9ba4d5e3b79acbb8522d52569b2a57d95fd9638a3af744"
+    },
+    {
+      "file": "countries/MAC.json",
+      "bytes": 8192,
+      "sha256": "119715921a119dfa1fee0784b49f095a561bd2e6b77e3f05eebce1d7d0953623"
+    },
+    {
+      "file": "countries/MAF.json",
+      "bytes": 2755,
+      "sha256": "a71d65e968ea0433f86b27384de71a5a23816d1ccd2ce5d31c04406886ff0424"
+    },
+    {
+      "file": "countries/MAR.json",
+      "bytes": 4303,
+      "sha256": "76d7b05133297691dbf05d86ad427a9801d81c0c5a78062ac8573a0a3ef05f99"
+    },
+    {
+      "file": "countries/MCO.json",
+      "bytes": 21776,
+      "sha256": "635d22b1fd7c86bb2e2c1a27223cf037016fa8b60282fff3ccbabc0728b5d28c"
+    },
+    {
+      "file": "countries/MDA.json",
+      "bytes": 4260,
+      "sha256": "8c0342a40e1186ed139ed10b4bd1c7534cddc43dc34810e7316580fd673fba2c"
+    },
+    {
+      "file": "countries/MDG.json",
+      "bytes": 2740,
+      "sha256": "c7aaea89ea0f3c580cc35201a3c370a5aba5f7988a25c9797323265c51c85673"
+    },
+    {
+      "file": "countries/MDV.json",
+      "bytes": 14223,
+      "sha256": "d445bcef6e61386fae63e16acd0000e4ea4c608d8976f08883a6f19969f306f7"
+    },
+    {
+      "file": "countries/MEX.json",
+      "bytes": 36203,
+      "sha256": "2efbf7154b3b62742ba2a0f3ed768c28b71e253379f07a2a4bd223bd2307ca09"
+    },
+    {
+      "file": "countries/MHL.json",
+      "bytes": 2558,
+      "sha256": "d3fff9199bdf494452bb38c3afccd7210ac43c4881a26e4480ead58a8fda65fa"
+    },
+    {
+      "file": "countries/MKD.json",
+      "bytes": 4239,
+      "sha256": "9ac5a2f72877efb8b6cab1afb9c16424dd6996b0d59b5ff791de303bd37776d5"
+    },
+    {
+      "file": "countries/MLI.json",
+      "bytes": 2728,
+      "sha256": "a45794a516654e4fb6b467b3184618d615e53e852d88ff213beeea86175f063d"
+    },
+    {
+      "file": "countries/MLT.json",
+      "bytes": 11790,
+      "sha256": "301035771ef3d055e7ad27f9e34a40717b17f2f476dc8005e92d31a5039d6c9f"
+    },
+    {
+      "file": "countries/MMR.json",
+      "bytes": 2562,
+      "sha256": "440f34c1392257cf5b8e0a4e60abcb9b9d7f8e5b9b065c0a2f720547854cfc89"
+    },
+    {
+      "file": "countries/MNE.json",
+      "bytes": 8740,
+      "sha256": "13e10d929f3ac5178c58d1326e08832de09361c50759456d1f6487948b871c36"
+    },
+    {
+      "file": "countries/MNG.json",
+      "bytes": 10977,
+      "sha256": "f987994ca9b6678b78607e0b50e8a82749593558e701aeaf4fe9d0aa132f5104"
+    },
+    {
+      "file": "countries/MNP.json",
+      "bytes": 2736,
+      "sha256": "195bad29c1c30cf908735c8e92c79c7850ee7010008c6e76a2d5da96806370ee"
+    },
+    {
+      "file": "countries/MOZ.json",
+      "bytes": 16460,
+      "sha256": "6fa431d2e9f82e175a46a150b723cb3213dbf7bcb45c6e8a2ae85e54a7100f26"
+    },
+    {
+      "file": "countries/MRT.json",
+      "bytes": 2740,
+      "sha256": "d746a6bb0778d0802cbb01eebdbf8859bfb1762a11cd137508c1176d36e80929"
+    },
+    {
+      "file": "countries/MSR.json",
+      "bytes": 2696,
+      "sha256": "8a5f4571a79215c6d390832b901d4dae263e97e22cb95ef8f3e27d4267dc9746"
+    },
+    {
+      "file": "countries/MTQ.json",
+      "bytes": 2723,
+      "sha256": "f89f0c440620faf2f5a4dd8d9ae4d715141073487e99aa89c8d2e7c6054687c5"
+    },
+    {
+      "file": "countries/MUS.json",
+      "bytes": 10992,
+      "sha256": "b602d1f1c4005afc41057f9190bf12f75a2fafab01c95672e3ea7c11a210dffd"
+    },
+    {
+      "file": "countries/MWI.json",
+      "bytes": 8767,
+      "sha256": "d4cb0aec537a57d7247305365747ba54c306eb319b265a8cc14a199d9b246a64"
+    },
+    {
+      "file": "countries/MYS.json",
+      "bytes": 18274,
+      "sha256": "4694b6547f2acdde97de195476c51075fc62abe8b1af05461b9cd7cc3ceefcf2"
+    },
+    {
+      "file": "countries/MYT.json",
+      "bytes": 2717,
+      "sha256": "ccaf51204fa9b1350721501886adb2747589ae481be05e5128fc73112a6860f5"
+    },
+    {
+      "file": "countries/NAM.json",
+      "bytes": 6469,
+      "sha256": "bf5b13a5bb90b331b8b1ddf217e44d4f2026f9c9cb4f3716f758ca3bbb03d18e"
+    },
+    {
+      "file": "countries/NCL.json",
+      "bytes": 2622,
+      "sha256": "b32ea83bc42010f18dd2a48bd288b8b50ec0664686ac3d11754c420285faef13"
+    },
+    {
+      "file": "countries/NER.json",
+      "bytes": 4418,
+      "sha256": "623ac419fc53edf7da59fcc9730f0f7f30cc9ab94ddaeeae62005ea35da89598"
+    },
+    {
+      "file": "countries/NFK.json",
+      "bytes": 2592,
+      "sha256": "863dff2338a9d831e1755793adf8cefd7feee40a03616ad3dc12dff6842956a4"
+    },
+    {
+      "file": "countries/NGA.json",
+      "bytes": 18509,
+      "sha256": "8afd0f4906d3a4902515bbe0929e1172ed1238794d99818313a3408b264abed6"
+    },
+    {
+      "file": "countries/NIC.json",
+      "bytes": 4875,
+      "sha256": "78a2d78f26c70e47b07a71ec78a932744e65afe91c5ae56bb95a8919dd0879cd"
+    },
+    {
+      "file": "countries/NIU.json",
+      "bytes": 2615,
+      "sha256": "a2eba61ff7490a0352fb2258df4fd09fe975160069b2ff4ec945aecb38c4aece"
+    },
+    {
+      "file": "countries/NLD.json",
+      "bytes": 16464,
+      "sha256": "48ffed6c467701dd5f87011bb70b791f7f7f5888090cc0fc8f05af588721751e"
+    },
+    {
+      "file": "countries/NOR.json",
+      "bytes": 10923,
+      "sha256": "7ed7ba75619bd49713d48883cd5c70a92cd21f5bac7e681ddf2d0caea2591dee"
+    },
+    {
+      "file": "countries/NPL.json",
+      "bytes": 2730,
+      "sha256": "01a969adfa415463bf6f7e50c25d4fca74e3a0abb1dc5130b308888cd6f5a8ac"
+    },
+    {
+      "file": "countries/NRU.json",
+      "bytes": 2538,
+      "sha256": "08b87d50c0c0a27b753286eb43a12860cbc759a799982a1a94f17e0ab10c22e1"
+    },
+    {
+      "file": "countries/NZL.json",
+      "bytes": 17804,
+      "sha256": "e36535d4341aad7a0f172f8274fdadf1ce662ce8119ae076e8aa6d72e03f7706"
+    },
+    {
+      "file": "countries/OMN.json",
+      "bytes": 12560,
+      "sha256": "41b5780d1e799987528ac7d49c1f68d7e2c06c42c55015f987e184246c44ae67"
+    },
+    {
+      "file": "countries/PAK.json",
+      "bytes": 9711,
+      "sha256": "b0334f7304e8570643b1246c2209862f8a57bf70a6f2159259a5de968c1a17f1"
+    },
+    {
+      "file": "countries/PAN.json",
+      "bytes": 22598,
+      "sha256": "ef70fe63ee51c9824ef10a0690c7ef9caba0a5e13dd799d76ba7d6b84c0fc177"
+    },
+    {
+      "file": "countries/PCN.json",
+      "bytes": 2580,
+      "sha256": "d30b4b85a19517251b416eff92a60c456a84ed78c3832bed070331ef0dbffecf"
+    },
+    {
+      "file": "countries/PER.json",
+      "bytes": 22002,
+      "sha256": "5aef92bc95368865303fa82b63ac31f92461cc9666cf127d89b7fc86b20875fc"
+    },
+    {
+      "file": "countries/PHL.json",
+      "bytes": 22461,
+      "sha256": "749dcb79d941a6e4e57167fe91184283c90085998dbe284e53310a54f604667f"
+    },
+    {
+      "file": "countries/PLW.json",
+      "bytes": 2547,
+      "sha256": "cb2854562990b2c0ad3d64128ccd489c69cff39cbf1bafd04abfe4c813253ccc"
+    },
+    {
+      "file": "countries/PNG.json",
+      "bytes": 2777,
+      "sha256": "6b50690424a4111d55eb792e23979274b0b0b74367232b0c541778734171ece0"
+    },
+    {
+      "file": "countries/POL.json",
+      "bytes": 2724,
+      "sha256": "d50a86cfd8ac35107c643573cfb67c308480904fcbf00768a78180a8c97890ec"
+    },
+    {
+      "file": "countries/PRI.json",
+      "bytes": 2728,
+      "sha256": "588bece7c2c919f9a47560411209dda63ed44eabd46f1c6cb8b303a1246308ec"
+    },
+    {
+      "file": "countries/PRK.json",
+      "bytes": 2599,
+      "sha256": "a9e31bfc0803703aa9ad72fb2cb20c363e99f4b3c030d1f6e940d9561c8105dc"
+    },
+    {
+      "file": "countries/PRT.json",
+      "bytes": 12226,
+      "sha256": "ae849e8c6188e43935098581437017a84e7b15bfeb95568c9b0100e316d7e86c"
+    },
+    {
+      "file": "countries/PRY.json",
+      "bytes": 4615,
+      "sha256": "56b6f851c74bf4c437da9ca56bb8d0467f4c70c70bbe40d55c82f5ff77de6203"
+    },
+    {
+      "file": "countries/PSE.json",
+      "bytes": 2564,
+      "sha256": "d37f89f02d095b4e0c671c7a2f55cc43e3ba34fc190082427f6c46571a824af9"
+    },
+    {
+      "file": "countries/PYF.json",
+      "bytes": 2597,
+      "sha256": "a73a4b6d72bc02ead6d9a7d71d1e94446a777cad97cd5035eb0b94a88f550aae"
+    },
+    {
+      "file": "countries/QAT.json",
+      "bytes": 5471,
+      "sha256": "35b7e587fdf318e99903191e9f4f55bc3f44a1a192ad9acd0294ae4934df7c96"
+    },
+    {
+      "file": "countries/REU.json",
+      "bytes": 2719,
+      "sha256": "7dd84dbf87e5a4e1a50dcdbed5b2ab4cd775e094ed7d96fb6a160def04cff433"
+    },
+    {
+      "file": "countries/ROU.json",
+      "bytes": 10499,
+      "sha256": "79c6b0eacf36c415e6b804779c31d2fe0d84c8b2ff05519774a54385e6258f51"
+    },
+    {
+      "file": "countries/RUS.json",
+      "bytes": 2695,
+      "sha256": "519b17d556f038a1dd66b9cff85953d45792004d16210ef4016704b8599cd0c2"
+    },
+    {
+      "file": "countries/RWA.json",
+      "bytes": 20224,
+      "sha256": "230273761657569fb0dc6d0f118ffbaf75ec36e1f16e96f9ffe22dbb58079a9e"
+    },
+    {
+      "file": "countries/SAU.json",
+      "bytes": 17409,
+      "sha256": "cab0fbca002b4f88b6499c11067eac9c15fa4cd054e0a07c4b60742b8bdf0fcf"
+    },
+    {
+      "file": "countries/SDN.json",
+      "bytes": 8895,
+      "sha256": "ca3ed38288674e87120c3501abe2e35d19d3718ce5c3ce73d71f93add7049221"
+    },
+    {
+      "file": "countries/SEN.json",
+      "bytes": 5436,
+      "sha256": "9093a74b555422f819a1c92c287d951d7b4979fd5213b261f883b2699b1347c5"
+    },
+    {
+      "file": "countries/SGP.json",
+      "bytes": 13466,
+      "sha256": "2ddc13e41116558875c58446d010439e4e4eb9d7796828359e865681e9dbdc52"
+    },
+    {
+      "file": "countries/SGS.json",
+      "bytes": 2643,
+      "sha256": "bef8b555eea716f82191bf7fc4521d196630c4679b6b1235b5bfe0edb1c0c4da"
+    },
+    {
+      "file": "countries/SHN.json",
+      "bytes": 2589,
+      "sha256": "4ffb232e8025a7a71ebc640d0db3f4755fa29aaacb9c286e6af04ed5c9018508"
+    },
+    {
+      "file": "countries/SJM.json",
+      "bytes": 2625,
+      "sha256": "7a7c7628cbc68c75fa32610e2237809d7c9da73bac97520f4c002aa18a42333b"
+    },
+    {
+      "file": "countries/SLB.json",
+      "bytes": 2616,
+      "sha256": "74c711ded1266ada7013e406d4d58026fd553029138eccb4034de839d674d5e3"
+    },
+    {
+      "file": "countries/SLE.json",
+      "bytes": 23331,
+      "sha256": "666b8ff6b87e7306127cef6b8580bcfc269035433dab09aeff7b3610b59236a6"
+    },
+    {
+      "file": "countries/SLV.json",
+      "bytes": 26694,
+      "sha256": "73bdeafa4e9302b24aa172046eaf22f0796ee414b7793fac68692273981fe836"
+    },
+    {
+      "file": "countries/SMR.json",
+      "bytes": 2545,
+      "sha256": "6b68cc137d464d2d290b63cb07b0859368a102f5030b32352956a0cec7eae0b9"
+    },
+    {
+      "file": "countries/SOM.json",
+      "bytes": 2537,
+      "sha256": "5242100560149f9e90cc1344a2acc538e1d792a5e950320eb5704496e2370f14"
+    },
+    {
+      "file": "countries/SPM.json",
+      "bytes": 2614,
+      "sha256": "d2925509d05f27cded505a81a72c7a1ace9f6017206e7314215ac381c9e59d33"
+    },
+    {
+      "file": "countries/SRB.json",
+      "bytes": 11851,
+      "sha256": "e72c00836648810b8168c0dca49a1b72f1412fd0b19f677ee4c971a673b3e80e"
+    },
+    {
+      "file": "countries/SSD.json",
+      "bytes": 5272,
+      "sha256": "8fb46ee02c55d032ea2be0070760d6104acb3b71ee647cac5aea49107a198e8f"
+    },
+    {
+      "file": "countries/STP.json",
+      "bytes": 2762,
+      "sha256": "2abe4d9e1642cf2845bec3e689b952e4da1c2c9828e1230d314352a77723eaae"
+    },
+    {
+      "file": "countries/SUR.json",
+      "bytes": 17924,
+      "sha256": "1e18a81f1087cad2a2552daadc81c96561f764c4146d811dbb8e3e8d4ed36abe"
+    },
+    {
+      "file": "countries/SVK.json",
+      "bytes": 25518,
+      "sha256": "bf0d782d984231f3a3643ae1b3a9475fc05eabd8c57adf3be07f57ce19eb4ae5"
+    },
+    {
+      "file": "countries/SVN.json",
+      "bytes": 19554,
+      "sha256": "6e83ee246853cb8a90d03a257febd2be20f3bcb87d42c3e131e56527ac7ec287"
+    },
+    {
+      "file": "countries/SWE.json",
+      "bytes": 8725,
+      "sha256": "0a527530c8febd861b1edc909182b280256b149d684ebe547c8a71f1ebf09430"
+    },
+    {
+      "file": "countries/SWZ.json",
+      "bytes": 2643,
+      "sha256": "8566790d0149d83141210695a92e24554003ab96230f938c3a534a6ad2dfeb48"
+    },
+    {
+      "file": "countries/SXM.json",
+      "bytes": 12905,
+      "sha256": "545573d1dacf6c83a301e6ee70eeb200d64ea0a380c07194ae150b9b53b19e1e"
+    },
+    {
+      "file": "countries/SYC.json",
+      "bytes": 4283,
+      "sha256": "aa15336583fcc7990cd331870228f2e3adb91e0b9a3a3211282d3d1ef59b84c6"
+    },
+    {
+      "file": "countries/SYR.json",
+      "bytes": 2565,
+      "sha256": "b966034947d8f36d3d8e229f236f433869fad2b13dadac1a0dab7da9d24699b5"
+    },
+    {
+      "file": "countries/TCA.json",
+      "bytes": 2591,
+      "sha256": "55403fb507525d56d084345fc6c4920eda5470f91fa09af452fe2f59fb2b6220"
+    },
+    {
+      "file": "countries/TCD.json",
+      "bytes": 2728,
+      "sha256": "cb14471cfc9dba095776d32c49f9cc5f4e47f6f3ec5f1fbdb315dfeb3039056a"
+    },
+    {
+      "file": "countries/TGO.json",
+      "bytes": 5418,
+      "sha256": "6f5efad845ee229a08fce8a0d872ee2a57fefbbf92d4ebe706c7d1754d8e399d"
+    },
+    {
+      "file": "countries/THA.json",
+      "bytes": 11816,
+      "sha256": "169cc350cea17923e6b63046755da445da0bb4632bf613f8e8e782a7cbf00c85"
+    },
+    {
+      "file": "countries/TJK.json",
+      "bytes": 2555,
+      "sha256": "76ed95e57ecb48ff1c89b7a0aaf32bd5afb2fd8973e50a28b02d44f9a7ba807e"
+    },
+    {
+      "file": "countries/TKL.json",
+      "bytes": 2578,
+      "sha256": "e20e319a67ebe4eee1ae6152f2eef2b77434ca457b2beff327e5703b6674018c"
+    },
+    {
+      "file": "countries/TKM.json",
+      "bytes": 2589,
+      "sha256": "025c0401d9f6be41ea93f2af2ab99bd4aa66f095d88fcb9d53da00b1c559735f"
+    },
+    {
+      "file": "countries/TLS.json",
+      "bytes": 2742,
+      "sha256": "43ae5ad919cd6bd0e413419d1375d980a7b9afd24d98b6bc07307e7b6ac556e4"
+    },
+    {
+      "file": "countries/TON.json",
+      "bytes": 6999,
+      "sha256": "fe0c5b3074eb5a50941c44ad5c6c0fc9709f8e8023a8a7327f10fef6fcdd05a3"
+    },
+    {
+      "file": "countries/TTO.json",
+      "bytes": 2648,
+      "sha256": "d5ad833831e9b93af566c38b965af7c604f15eb76400c36524168f62d90e29a2"
+    },
+    {
+      "file": "countries/TUN.json",
+      "bytes": 4494,
+      "sha256": "c9e1cb20979ac6eeac187e1298ccb94665e74ee2204cf7836882a86742e82f27"
+    },
+    {
+      "file": "countries/TUR.json",
+      "bytes": 33496,
+      "sha256": "6d5170b6d2c2c7aa53f897d2974731fcb31ae7c6d198ce8558fea85581861ed0"
+    },
+    {
+      "file": "countries/TUV.json",
+      "bytes": 8825,
+      "sha256": "6375b1d1882f1f83b6b412380d69e4e220b3add94f3a164febfbeb3b81ecb7c2"
+    },
+    {
+      "file": "countries/TWN.json",
+      "bytes": 13174,
+      "sha256": "d7a29fdabf78719c59056be2c7a6f4f29b25f99561fc596ee05d4d6b662385b6"
+    },
+    {
+      "file": "countries/TZA.json",
+      "bytes": 14144,
+      "sha256": "a0f72e6fe56d4ae48bd75bfdfe7da27e74d58b232dead4034df4d5ebd20d5b5e"
+    },
+    {
+      "file": "countries/UGA.json",
+      "bytes": 5431,
+      "sha256": "e8c9f02d7fcbc58a07476108d1b6a03d542904cb84b4e128b8cbacb40931cbc6"
+    },
+    {
+      "file": "countries/UKR.json",
+      "bytes": 8504,
+      "sha256": "21dd7717b0e65f7b147751926dd1ab99be4c976ae1071f7b674fbd0432e156ec"
+    },
+    {
+      "file": "countries/UMI.json",
+      "bytes": 2761,
+      "sha256": "f8a57768e3ea832361e412efaf9e6712bd63a13908fe5ed229c73be5bed2787f"
+    },
+    {
+      "file": "countries/URY.json",
+      "bytes": 5822,
+      "sha256": "41320dff90cfde5b517a7fcde8ef62271af689e89de3b0c95b74e0653b6983a7"
+    },
+    {
+      "file": "countries/USA.json",
+      "bytes": 8605,
+      "sha256": "840eaf42565615211cf9fd2822876206c26f35c7c3816186914088150a4c4037"
+    },
+    {
+      "file": "countries/UZB.json",
+      "bytes": 26027,
+      "sha256": "7286b9e10ee656a34e51216a74614da59406ad1e84a8233cc6c0f6d90ff93870"
+    },
+    {
+      "file": "countries/VAT.json",
+      "bytes": 2544,
+      "sha256": "4be9d85f9fb197c60357972280012daae75f4153876d9419949db9b31835d470"
+    },
+    {
+      "file": "countries/VCT.json",
+      "bytes": 2701,
+      "sha256": "51f52ea6cd88fdefe97fd9e8149c65c1f017703bc053430ee7b5b5c6432dcfb5"
+    },
+    {
+      "file": "countries/VEN.json",
+      "bytes": 3270,
+      "sha256": "14964fdfbba9773144cfab8c31004c3153c3b4f1e295ba3ab471e5b10ca037c1"
+    },
+    {
+      "file": "countries/VGB.json",
+      "bytes": 2704,
+      "sha256": "475d2ab62e1abe55be5ef1fc7d370d826baa0d9c5714a0b691c8c50f2d132758"
+    },
+    {
+      "file": "countries/VIR.json",
+      "bytes": 2740,
+      "sha256": "94292dea91f5ba53412b80b3c2776aaabd37d994a704a5bd846e56a515f893a2"
+    },
+    {
+      "file": "countries/VNM.json",
+      "bytes": 36956,
+      "sha256": "33bcff024e488c8e1e7dc27e7d35a8475b7ca386fdb95108be8d75a0785d9bb2"
+    },
+    {
+      "file": "countries/VUT.json",
+      "bytes": 2593,
+      "sha256": "7a78f647322c7a57e18d81339b8017f206cd7f01ad4e6e6d125364970d67f1a0"
+    },
+    {
+      "file": "countries/WLF.json",
+      "bytes": 2614,
+      "sha256": "a8c155ca3560307b30dd309d380b87138b28062c3cb7e68d314f74493015139d"
+    },
+    {
+      "file": "countries/WSM.json",
+      "bytes": 6559,
+      "sha256": "5f1fb9116d18515b50a6cd30ec3ddbd3c4b6be9b98c56f3ae32def0e4f5b5381"
+    },
+    {
+      "file": "countries/XKX.json",
+      "bytes": 4275,
+      "sha256": "5d9e664053784261561ae0d059b9d33f7b26b4cb81d9c236591db193ca6c4beb"
+    },
+    {
+      "file": "countries/YEM.json",
+      "bytes": 2748,
+      "sha256": "b89ee1004972c988316a75cd3c25f7d82c561a477c0aa8a05a0a87c8bf84c870"
+    },
+    {
+      "file": "countries/ZAF.json",
+      "bytes": 16917,
+      "sha256": "58997819256852681574cb0eb9a59153f666f7abbb30856cbd246a498cb0f83e"
+    },
+    {
+      "file": "countries/ZMB.json",
+      "bytes": 15793,
+      "sha256": "d1ad45d4db290e2b95f4f12befb6b13f54f850b4ad8c83bc581ae6fffa532420"
+    },
+    {
+      "file": "countries/ZWE.json",
+      "bytes": 12242,
+      "sha256": "c454e16537a68e564d514b32c5bc42199d57581ba41640279acc525e6bfaf878"
+    },
+    {
+      "file": "Country_Regulation_JSONs.zip",
+      "bytes": 763887,
+      "sha256": "8c2a81103cb6c2fbe2b10fb69e57b23a8ab4d6e61ac959c9f7918597f82ccef1"
     },
     {
       "file": "data/authority_destination_links.csv",
@@ -67,14 +1344,114 @@
       "sha256": "1c164d879805d441138a98918d426077e236299ed3a1b1ee9a4e1c79dc096267"
     },
     {
+      "file": "full250/analysis/country_feature_presence.csv",
+      "bytes": 12185,
+      "sha256": "3bbf8066946fa552e3cbe52381c90abc41102c5c377bf0321e568b0731d0e934"
+    },
+    {
+      "file": "full250/analysis/family_sensitivity.json",
+      "bytes": 57694,
+      "sha256": "eb8b62c4d1725001473959e2afd707e20fb5f0fd52b4966db4de3a3f1cde0259"
+    },
+    {
+      "file": "full250/analysis/legal_wording_bar_order.json",
+      "bytes": 1699,
+      "sha256": "806c6c9f789d506d5b2541057db79025724595654d801d3108526579e7fbede7"
+    },
+    {
+      "file": "full250/analysis/model_documents.json",
+      "bytes": 205979,
+      "sha256": "5f0bc17fe8482fec52ea8768ccdb8012630254e5f7a2ac90307fb2d3edc0dcf9"
+    },
+    {
+      "file": "full250/analysis/text_analysis_results.json",
+      "bytes": 60034,
+      "sha256": "011c911c9de15fe6db39a7e02b22fb94814d29b74da190011d90f000f056c3a8"
+    },
+    {
+      "file": "full250/country_review_audit.csv",
+      "bytes": 104517,
+      "sha256": "9e27c18d4d55303a0b0d817c41fe7037b4b417921f49eca39301c20f5cbcde8d"
+    },
+    {
+      "file": "full250/country_review_audit.json",
+      "bytes": 213564,
+      "sha256": "954840ba160a8a7132978b119da618310f6aa5bd309d9f362dc8f6d38d7207bc"
+    },
+    {
+      "file": "full250/country_year_discovery.csv",
+      "bytes": 1472879,
+      "sha256": "c4d49e95d86033115f6d8a1e2c4fca019ff6616e4dcb87f9143eb12fc5d4156e"
+    },
+    {
+      "file": "full250/literature/country_crosschecks.csv",
+      "bytes": 120988,
+      "sha256": "05ab2283b6a02779a4a4a28af508dfbe30b9beba8b13d375197a144ff40f21ed"
+    },
+    {
+      "file": "full250/literature/country_crosschecks_expanded.json",
+      "bytes": 193717,
+      "sha256": "df1ce61ea0b6e2c5cb5352e413cddd70a618602123ef340c0e30e11e607c186d"
+    },
+    {
+      "file": "full250/literature/Literature_Crosscheck.html",
+      "bytes": 200820,
+      "sha256": "fb187ce70344cf2a6c3ba3b335c689101315e132ed940c8416a632da82d8da8a"
+    },
+    {
+      "file": "full250/literature/paper_inventory.csv",
+      "bytes": 13145,
+      "sha256": "ab87c312a0013dcaeb1828dc5bf93444a3b2b6d6428a9f79cd1439cde7931185"
+    },
+    {
+      "file": "full250/literature/supplementary_archive_audit.json",
+      "bytes": 19573,
+      "sha256": "b26eca891a4ece432ae8e39d8c7b08f2338f90959ee037a60b869e93b2bc36f9"
+    },
+    {
+      "file": "full250/literature/supporting_file_inventory.json",
+      "bytes": 6715,
+      "sha256": "5b05ac4d046ce80cc1b18bcccbdd3ed41da4dd46fb4f75f937d5213b03644721"
+    },
+    {
+      "file": "full250/resume_queue.json",
+      "bytes": 3114951,
+      "sha256": "a2e3ca5f0e722821cf1499baf3d5aec4339774bc65a238c58d098ada28833241"
+    },
+    {
+      "file": "full250/review_counts.json",
+      "bytes": 701,
+      "sha256": "6425d1df225a5fce69426902a6997f3c5c7868cf60383269816c00241fd3c642"
+    },
+    {
+      "file": "full250/source_manifest.json",
+      "bytes": 2604252,
+      "sha256": "8a654002d4cdfdfad0afb33323d139811df7232f89ac5c8f289f13a5a331f610"
+    },
+    {
       "file": "index.html",
-      "bytes": 6466251,
-      "sha256": "f299f64dcb9fe0e4a4f64346288ca03402d46f4af0ffe9074a70fe6cf194580d"
+      "bytes": 8521218,
+      "sha256": "681d011c47c46d3f3a6faabecf3ea16c4261eb6b1ea512540f92a58abbb964b6"
+    },
+    {
+      "file": "PUBLIC_EXPORT_NOTES.txt",
+      "bytes": 799,
+      "sha256": "3e53e375d78b1291b9f15db36abd66d70e0d7d571bc6d8c902db2ab6d3ebf047"
     },
     {
       "file": "README.md",
-      "bytes": 3286,
-      "sha256": "9eada738389961b3b5033de842340b8b0634db8ece74b09bf9ee8faf732da6fd"
+      "bytes": 3999,
+      "sha256": "d1d3b009620fca6e039bfcfe445f5fd4ef459fce8bdcee6051d0e06e3be0aa3e"
+    },
+    {
+      "file": "remaining_review/document_review_ledger.csv",
+      "bytes": 1365613,
+      "sha256": "89b2ea400d60ae9fc87ca90eda74e838272177a909f546cb713a281068c32429"
+    },
+    {
+      "file": "remaining_review/review_summary.json",
+      "bytes": 2230,
+      "sha256": "a1454b3aa4d9a22e8c03f6fcc843aeaf220d36f7a1dd7bafdb823664c8a92fa9"
     }
   ]
 }
