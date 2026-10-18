@@ -129,5 +129,600 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "TUV",
+    "country": "Tuvalu",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Foreign approval plus domestic medicines schedule",
+    "source_url": "https://faolex.fao.org/docs/pdf/tuv176137.pdf",
+    "document_id": "38b48cddf0e5a7a2309c",
+    "genre": "Statute",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "2016 Pharmacy and Therapeutic Products Act sections 2,9–10 reviewed. Recognized regulator designated by Ministry; no FDA/EMA list in Act. Foreign approval plus domestic medicines-schedule inclusion required; schedule status of hypothetical drug is unknown.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "Therapeutic medicines within statutory control, subject to schedule.",
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Ministry-recognized regulator definition; named designations not established.",
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Approval by a recognized regulator plus Tuvalu Medicines Schedule; not two-approval threshold.",
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Committee assesses usefulness, efficacy, safety, quality and foreign status for schedule entry.",
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Hold documentation sufficient to satisfy licensing authority of foreign approval; fee not established by this section.",
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Licensing authority can authorize exceptions/modify foreign conditions; national schedule required.",
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUV-Q01",
+          "TUV-CTX-1",
+          "TUV-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "TUV-Q01",
+        "source_document_id": "38b48cddf0e5a7a2309c",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 14,
+        "source_url": "https://faolex.fao.org/docs/pdf/tuv176137.pdf",
+        "raw_sha256": "6e09891fd5f19385edbd129f9c21e37223ff8cc84dfe8bf8d990f3c3b147997f",
+        "text_sha256": "b532b59c087a23d4895fb549a46cb08833d0af8aab0dac2493b38418e902251e",
+        "exact_text": "Therapeutic products to be approved by a recognised regulator  \n(1) \nUnless authorised by the licensing authority, no person may import, \nmanufacture, sell, supply or promote any therapeutic product unless that \nproduct has been approved by a recognised regulator and is on the Tuvalu \nMedicines Schedule. \n(2) \nFor the purpose of subsection (1) a person who wishes to import, \nmanufacture, sell, supply or promote any therapeutic product person must \nhold documentation sufficient to satisfy the licensing authority that the \nproduct has been approved by a recognised regulator. \n(3) \nWhere a recognised regulator has granted an approval subject to conditions, \nthose conditions apply to supply or promotion of the product in Tuvalu unless \nthose conditions are modified by the licensing authority. \n(4)  \nThe giving of an authorisation under subsection (1) shall not render the \nCrown, the licensing authority, or the Ministry of Health liable to a person in \nrespect of loss, damage or injury of any kind suffered by the person as a result \nof, or arising out of, the use of therapeutic products by that person or another \nperson. \n(5)  \nNothing in this section prevents the importation by any person of a medicine \nwhen that importation is for personal therapeutic use which is evidenced by a \nletter or certificate of that person's medical practitioner registered outside \nTuvalu or is for the purpose of a clinical trial authorised by regulations made \nunder \nthis \nAct.  \n \n(6) \nAny person who contravenes subsection (1) commits an offence punishable \nby up to one year imprisonment or a fine not exceeding $10,000. \n\n\nPAGE 15\nPharmacy and Therapeutic Products Act \n Section 1 \n \n \n\nAct No.006 of 2016 \nPage 15",
+        "start": 25972,
+        "end": 27690,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "TUV-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://faolex.fao.org/docs/pdf/tuv176137.pdf",
+        "raw_sha256": "6e09891fd5f19385edbd129f9c21e37223ff8cc84dfe8bf8d990f3c3b147997f",
+        "text_sha256": "b532b59c087a23d4895fb549a46cb08833d0af8aab0dac2493b38418e902251e",
+        "exact_text": "pharmacy; and \n(h) \nsupervising the practice of pharmacy; \n“premises” includes any shops, buildings, pharmacies, permanent or \ntemporary premises, ships, aircraft and vehicles; \n\"prescription\" means the written order of an authorised prescriber for the \nsupply of a medicine to any person; \n“prescription medicine” means any medicine specified in Part 1 of the \nTuvalu Medicines Schedule, kept by the Ministry of Health; \n“Recognised regulator” means a therapeutic products regulator recognised \nby the Ministry of Health whose decisions are recognised for the purpose of \nensuring that therapeutic products imported, sold, distributed and promoted in \nTuvalu are safe and effective; \n“sell” includes: \n(a) \nbarter; and \n\n\nPAGE 10\nSection 1  \nPharmacy and Therapeutic Products Act \n \n \nPage 10 \nAct No.006 of 2016 \n\n  \n \n(b) \noffering or attempting to sell, or having in possession for sale, or \nexp",
+        "start": 16500,
+        "end": 17400,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "TUV-CTX-2",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://faolex.fao.org/docs/pdf/tuv176137.pdf",
+        "raw_sha256": "6e09891fd5f19385edbd129f9c21e37223ff8cc84dfe8bf8d990f3c3b147997f",
+        "text_sha256": "b532b59c087a23d4895fb549a46cb08833d0af8aab0dac2493b38418e902251e",
+        "exact_text": "shall meet as often as is necessary for the efficient and \neffective conduct of its functions, and at such times and places as it \ndetermines. \n(3)  \nThe Committee can form sub-committees to enable it to efficiently and \neffectively undertake its functions; \n(4) \nThe Committee shall prepare annually a report of its activities during the \npreceding 12 months and this report shall be made in writing to the Minister. \n(5) \nAny member of the Committee who has a material conflict of interest \nconcerning a matter before the Committee must declare that conflict and take \nno part in the Committee’s deliberations on that matter. \nPART III – SCHEDULING MEDICINES \n9 \nScheduling of medicines   \n(1) \nThe Committee shall maintain a schedule, to be known as the Tuvalu \nMedicines Schedule, specifying medicines which can be imported into and \nused in Tuvalu. \n(2) \nThe classes of substances which shall be used for the purpose of the Tuvalu \nMedicines Schedule shall include: \n(a) \npharmacy only medicines; \n(b) \npharmacist only medicines; \n(c) \nprescription medicines; \n(d) \ndrugs and poisons requiring a caution; \n(e) \npoisons; \n(f) \ndangerous poisons; \n(g) \ndangerous drugs; \n(h) \nprohibited substance; \n(i) \nunscheduled medicines; \n(j) \nany other classes as determined by the Committee. \n(3) \nIn deciding if a given medicine, substance, or class of medicines should be \nadded to the Tuvalu Medicines Schedule, the Committee shall consider the \nmedicine’s, substance’s or class of medicine’s: \n(a) \nusefulness to the people of Tuvalu; \n(b) \ndemonstrated efficacy; \n(c) \nsafety profile; \n(d) \nquality; \n\n\nPAGE 14\nSection 1  \nPharmacy and Therapeutic Products Act \n \n \nPage 14 \nAct No.006 of 2016 \n\n  \n \n(e) \nregistration or approval status with other recognised medicines \nregulators.  \n(4) \nThe Committee shall annually review the content of the Tuvalu Medicines \nSchedule and may amend any of the medicines or classes in the Tuvalu \nMedicines Schedule by notice in the Gazette. \n(5) \nThe Tuvalu Medicines Schedule may be kept in electronic format. \n(6) \nThe Ministry of health shall make the Tuvalu Medicines Schedule readily \navailable to the public and to those wishing to undertake an activity controlled \nby this Act.  \nPART IV – CONTROLS ON THERAPEUTIC PRODUCTS \n10 \nTherapeutic products to be approved by a recognised regulator  \n(1) \nUnless authorised by the licensing authority, no person may import, \nmanufacture, sell, supply or promote any therapeutic product unless that \nproduct has been approved by a recognised regulator and is on the Tuvalu \nMedicines Schedule. \n(2) \nFor the purpose of subsection (1) a person who wishes to import, \nmanufacture, sell, supply or promote any therapeutic product person must \nhold documentation sufficient to satisfy the licensing authority that the \nproduct has been approved by a recognised regulator. \n(3) \nWhere a recognised regulator has granted an approval subject to conditions, \nthose conditions apply to supply or promotion of the product in Tuvalu unless \nthose conditions are modified by the licensing authority. \n(4)  \nThe giving of an authorisation under subsection (1) shall not render the \nCrown, the licensing authority, or the Ministry of Health liable to a person in \nrespect of loss, damage or injury of any kind suffered by the person as a result \nof, or arising out of, the use of therapeutic products by that person or another \nperson. \n(5)  \nNothing in this section prevents the importation by any person of a medicine \nwhen that importation is for personal therapeutic use which is evidenced by a \nletter or certificate of that person's medical practitioner registered outside \nTuvalu or is for the purpose of a clinical trial authorised by regulations made \nunder \nthis \nAct.  \n \n(6) \nAny person who contravenes subsection (1) commits an offence punishable \nby up to one year imprisonment or a fine not exceeding $10,000. \n\n\nPAGE 15\nPharmacy and Therapeutic Products Act \n Section 1 \n \n \n\nAct No.006 of 2016 \nPage 15 \n   \n \n11",
+        "start": 23700,
+        "end": 27700,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "TUV",
+      "country": "Tuvalu",
+      "selected_document_id": "38b48cddf0e5a7a2309c",
+      "source_id": "b6bc48e16f8f7d30",
+      "pathway": "Foreign approval plus domestic medicines schedule",
+      "source_url": "https://faolex.fao.org/docs/pdf/tuv176137.pdf",
+      "document_title": "Pharmacy and Therapeutic Products Act",
+      "source_type": "Statute",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "TUV-Q01": null
+        }
+      ],
+      "raw_sha256": "6e09891fd5f19385edbd129f9c21e37223ff8cc84dfe8bf8d990f3c3b147997f",
+      "raw_hash_validated": true,
+      "text_sha256": "b532b59c087a23d4895fb549a46cb08833d0af8aab0dac2493b38418e902251e",
+      "version_dates": {
+        "version": "Act 006 of 2016"
+      },
+      "version_scope_note": "2016 Pharmacy and Therapeutic Products Act sections 2,9–10 reviewed. Recognized regulator designated by Ministry; no FDA/EMA list in Act. Foreign approval plus domestic medicines-schedule inclusion required; schedule status of hypothetical drug is unknown.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          25972,
+          27690
+        ],
+        [
+          16500,
+          17400
+        ],
+        [
+          23700,
+          27700
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "Therapeutic medicines within statutory control, subject to schedule.",
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Ministry-recognized regulator definition; named designations not established.",
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Approval by a recognized regulator plus Tuvalu Medicines Schedule; not two-approval threshold.",
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Committee assesses usefulness, efficacy, safety, quality and foreign status for schedule entry.",
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Hold documentation sufficient to satisfy licensing authority of foreign approval; fee not established by this section.",
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Licensing authority can authorize exceptions/modify foreign conditions; national schedule required.",
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUV-Q01",
+            "TUV-CTX-1",
+            "TUV-CTX-2"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "TUV-Q01",
+          "source_document_id": "38b48cddf0e5a7a2309c",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 14,
+          "source_url": "https://faolex.fao.org/docs/pdf/tuv176137.pdf",
+          "raw_sha256": "6e09891fd5f19385edbd129f9c21e37223ff8cc84dfe8bf8d990f3c3b147997f",
+          "text_sha256": "b532b59c087a23d4895fb549a46cb08833d0af8aab0dac2493b38418e902251e",
+          "exact_text": "Therapeutic products to be approved by a recognised regulator  \n(1) \nUnless authorised by the licensing authority, no person may import, \nmanufacture, sell, supply or promote any therapeutic product unless that \nproduct has been approved by a recognised regulator and is on the Tuvalu \nMedicines Schedule. \n(2) \nFor the purpose of subsection (1) a person who wishes to import, \nmanufacture, sell, supply or promote any therapeutic product person must \nhold documentation sufficient to satisfy the licensing authority that the \nproduct has been approved by a recognised regulator. \n(3) \nWhere a recognised regulator has granted an approval subject to conditions, \nthose conditions apply to supply or promotion of the product in Tuvalu unless \nthose conditions are modified by the licensing authority. \n(4)  \nThe giving of an authorisation under subsection (1) shall not render the \nCrown, the licensing authority, or the Ministry of Health liable to a person in \nrespect of loss, damage or injury of any kind suffered by the person as a result \nof, or arising out of, the use of therapeutic products by that person or another \nperson. \n(5)  \nNothing in this section prevents the importation by any person of a medicine \nwhen that importation is for personal therapeutic use which is evidenced by a \nletter or certificate of that person's medical practitioner registered outside \nTuvalu or is for the purpose of a clinical trial authorised by regulations made \nunder \nthis \nAct.  \n \n(6) \nAny person who contravenes subsection (1) commits an offence punishable \nby up to one year imprisonment or a fine not exceeding $10,000. \n\n\nPAGE 15\nPharmacy and Therapeutic Products Act \n Section 1 \n \n \n\nAct No.006 of 2016 \nPage 15",
+          "start": 25972,
+          "end": 27690,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "TUV-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://faolex.fao.org/docs/pdf/tuv176137.pdf",
+          "raw_sha256": "6e09891fd5f19385edbd129f9c21e37223ff8cc84dfe8bf8d990f3c3b147997f",
+          "text_sha256": "b532b59c087a23d4895fb549a46cb08833d0af8aab0dac2493b38418e902251e",
+          "exact_text": "pharmacy; and \n(h) \nsupervising the practice of pharmacy; \n“premises” includes any shops, buildings, pharmacies, permanent or \ntemporary premises, ships, aircraft and vehicles; \n\"prescription\" means the written order of an authorised prescriber for the \nsupply of a medicine to any person; \n“prescription medicine” means any medicine specified in Part 1 of the \nTuvalu Medicines Schedule, kept by the Ministry of Health; \n“Recognised regulator” means a therapeutic products regulator recognised \nby the Ministry of Health whose decisions are recognised for the purpose of \nensuring that therapeutic products imported, sold, distributed and promoted in \nTuvalu are safe and effective; \n“sell” includes: \n(a) \nbarter; and \n\n\nPAGE 10\nSection 1  \nPharmacy and Therapeutic Products Act \n \n \nPage 10 \nAct No.006 of 2016 \n\n  \n \n(b) \noffering or attempting to sell, or having in possession for sale, or \nexp",
+          "start": 16500,
+          "end": 17400,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "TUV-CTX-2",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://faolex.fao.org/docs/pdf/tuv176137.pdf",
+          "raw_sha256": "6e09891fd5f19385edbd129f9c21e37223ff8cc84dfe8bf8d990f3c3b147997f",
+          "text_sha256": "b532b59c087a23d4895fb549a46cb08833d0af8aab0dac2493b38418e902251e",
+          "exact_text": "shall meet as often as is necessary for the efficient and \neffective conduct of its functions, and at such times and places as it \ndetermines. \n(3)  \nThe Committee can form sub-committees to enable it to efficiently and \neffectively undertake its functions; \n(4) \nThe Committee shall prepare annually a report of its activities during the \npreceding 12 months and this report shall be made in writing to the Minister. \n(5) \nAny member of the Committee who has a material conflict of interest \nconcerning a matter before the Committee must declare that conflict and take \nno part in the Committee’s deliberations on that matter. \nPART III – SCHEDULING MEDICINES \n9 \nScheduling of medicines   \n(1) \nThe Committee shall maintain a schedule, to be known as the Tuvalu \nMedicines Schedule, specifying medicines which can be imported into and \nused in Tuvalu. \n(2) \nThe classes of substances which shall be used for the purpose of the Tuvalu \nMedicines Schedule shall include: \n(a) \npharmacy only medicines; \n(b) \npharmacist only medicines; \n(c) \nprescription medicines; \n(d) \ndrugs and poisons requiring a caution; \n(e) \npoisons; \n(f) \ndangerous poisons; \n(g) \ndangerous drugs; \n(h) \nprohibited substance; \n(i) \nunscheduled medicines; \n(j) \nany other classes as determined by the Committee. \n(3) \nIn deciding if a given medicine, substance, or class of medicines should be \nadded to the Tuvalu Medicines Schedule, the Committee shall consider the \nmedicine’s, substance’s or class of medicine’s: \n(a) \nusefulness to the people of Tuvalu; \n(b) \ndemonstrated efficacy; \n(c) \nsafety profile; \n(d) \nquality; \n\n\nPAGE 14\nSection 1  \nPharmacy and Therapeutic Products Act \n \n \nPage 14 \nAct No.006 of 2016 \n\n  \n \n(e) \nregistration or approval status with other recognised medicines \nregulators.  \n(4) \nThe Committee shall annually review the content of the Tuvalu Medicines \nSchedule and may amend any of the medicines or classes in the Tuvalu \nMedicines Schedule by notice in the Gazette. \n(5) \nThe Tuvalu Medicines Schedule may be kept in electronic format. \n(6) \nThe Ministry of health shall make the Tuvalu Medicines Schedule readily \navailable to the public and to those wishing to undertake an activity controlled \nby this Act.  \nPART IV – CONTROLS ON THERAPEUTIC PRODUCTS \n10 \nTherapeutic products to be approved by a recognised regulator  \n(1) \nUnless authorised by the licensing authority, no person may import, \nmanufacture, sell, supply or promote any therapeutic product unless that \nproduct has been approved by a recognised regulator and is on the Tuvalu \nMedicines Schedule. \n(2) \nFor the purpose of subsection (1) a person who wishes to import, \nmanufacture, sell, supply or promote any therapeutic product person must \nhold documentation sufficient to satisfy the licensing authority that the \nproduct has been approved by a recognised regulator. \n(3) \nWhere a recognised regulator has granted an approval subject to conditions, \nthose conditions apply to supply or promotion of the product in Tuvalu unless \nthose conditions are modified by the licensing authority. \n(4)  \nThe giving of an authorisation under subsection (1) shall not render the \nCrown, the licensing authority, or the Ministry of Health liable to a person in \nrespect of loss, damage or injury of any kind suffered by the person as a result \nof, or arising out of, the use of therapeutic products by that person or another \nperson. \n(5)  \nNothing in this section prevents the importation by any person of a medicine \nwhen that importation is for personal therapeutic use which is evidenced by a \nletter or certificate of that person's medical practitioner registered outside \nTuvalu or is for the purpose of a clinical trial authorised by regulations made \nunder \nthis \nAct.  \n \n(6) \nAny person who contravenes subsection (1) commits an offence punishable \nby up to one year imprisonment or a fine not exceeding $10,000. \n\n\nPAGE 15\nPharmacy and Therapeutic Products Act \n Section 1 \n \n \n\nAct No.006 of 2016 \nPage 15 \n   \n \n11",
+          "start": 23700,
+          "end": 27700,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

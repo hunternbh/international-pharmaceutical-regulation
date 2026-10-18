@@ -175,5 +175,629 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SVN",
+    "country": "Slovenia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition and decentralised assessment",
+    "source_url": "https://jazmp.si/en/human-medicines/regulatory-information/marketing-authorisation/",
+    "document_id": "F250_136283a2171966c3da0f_35648c00fae2",
+    "genre": "Official procedure guidance",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "JAZMP high-level explanation of obtaining authorizations. Distinguish EU centralized shared authorization from MRP/DCP; document does not establish a complete unilateral FDA recognition route.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "discretionary/conditional",
+        "finding": "EU centralized, MRP/DCP and national routes.",
+        "evidence_ids": [
+          "SVN-R01",
+          "SVN-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Summary does not resolve scope of scientific reassessment for a case.",
+        "evidence_ids": [
+          "SVN-R01",
+          "SVN-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "explicit requirement",
+        "finding": "Applicant established in EEA.",
+        "evidence_ids": [
+          "SVN-R01",
+          "SVN-CTX-1"
+        ]
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Five-module CTD; full form/content delegated to Directive annex.",
+        "evidence_ids": [
+          "SVN-R01",
+          "SVN-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVN-R01",
+          "SVN-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "B": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVN-R01",
+          "SVN-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "C": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVN-R01",
+          "SVN-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "D": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVN-R01",
+          "SVN-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "E": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVN-R01",
+          "SVN-CTX-1"
+        ],
+        "status": "unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": null,
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "passage_id": "SVN-R01",
+        "source_document_id": "F250_136283a2171966c3da0f_35648c00fae2",
+        "evidence_role": "Selected primary document",
+        "section_article": "Routes and CTD requirement",
+        "pdf_page": null,
+        "source_url": "https://jazmp.si/en/human-medicines/regulatory-information/marketing-authorisation/",
+        "raw_sha256": "35648c00fae21a04ecc9dce09dd9dbe393a9d248bdf640513892db0e359ae735",
+        "text_sha256": "0729ba052744b302cbd0364e6fa86767493078891b35ae8ede5bcc53724d33e8",
+        "exact_text": "OBTAINING A MARKETING AUTHORISATION\nIn accordance with legislation, medicinal products must obtain marketing authorisation prior to their placement on the market. The procedure for granting marketing authorisation starts with an application submitted by a legal entity or natural person established in the EEA.\nMarketing authorisation may be obtained via:\n– national procedure;\n– mutual recognition procedure or decentralised procedure, or\n– centralised procedure.\nApplication for obtaining a marketing authorisation must be in the form of a common technical document (CTD) that contains the following five modules:\n– Module 1: administrative data including information on the medicinal product (Summary of product characteristics – SmPC, Patient information leaflet – PIL and labelling);\n– Module 2: summarised information on the quality, safety and efficacy of the medicinal product;\n– Module 3: data on the quality;\n– Module 4: data on the safety; and\n– Module 5: data on the efficacy of the medicinal product.\nThe form and content of the modules and features for certain types of applications and medicinal products are described in detail in Annex I to Directive 2001/83/EC, as amended.\nMarketing authorisation for medicinal products is generally issued for a period of five years.\n",
+        "start": 0,
+        "end": 1287,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SVN-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://jazmp.si/en/human-medicines/regulatory-information/marketing-authorisation/",
+        "raw_sha256": "35648c00fae21a04ecc9dce09dd9dbe393a9d248bdf640513892db0e359ae735",
+        "text_sha256": "0729ba052744b302cbd0364e6fa86767493078891b35ae8ede5bcc53724d33e8",
+        "exact_text": "OBTAINING A MARKETING AUTHORISATION\nIn accordance with legislation, medicinal products must obtain marketing authorisation prior to their placement on the market. The procedure for granting marketing authorisation starts with an application submitted by a legal entity or natural person established in the EEA.\nMarketing authorisation may be obtained via:\n– national procedure;\n– mutual recognition procedure or decentralised procedure, or\n– centralised procedure.\nApplication for obtaining a marketing authorisation must be in the form of a common technical document (CTD) that contains the following five modules:\n– Module 1: administrative data including information on the medicinal product (Summary of product characteristics – SmPC, Patient information leaflet – PIL and labelling);\n– Module 2: summarised information on the quality, safety and efficacy of the medicinal product;\n– Module 3: data on the quality;\n– Module 4: data on the safety; and\n– Module 5: data on the efficacy of the medicinal product.\nThe form and content of the modules and features for certain types of applications and medicinal products are described in detail in Annex I to Directive 2001/83/EC, as amended.\nMarketing authorisation for medicinal products is generally issued for a period of five years.\nMAINTENANCE OF A MARKETING AUTHORISATION\nAfter obtaining marketing authorisation for a medicinal product, the holder must maintain the marketing authorisation, which includes variations to the terms of marketing authorisation and renewal of marketing authorisation.\nVariations to the terms of a marketing authorisation\nare defined in the Article 62 of the Act, which stipulates that the marketing authorisation holder must take into account scientific and technical progress and implement any necessary changes. The authority responsible for medicinal products must be notified of any new information that could impact the variation of a marketing authorisation or a change in the medicinal product documentation.\nRenewal of a marketing authorisation\nis defined in the Article 63 of the Act, which stipulates that the validity of marketing authorisation may be renewed after five years have elapsed on the basis of an application for marketing authorisation renewal and reassessment of the risk-benefit ratio of the medicinal product. Once the marketing authorisation has been renewed for the first time, it is generally valid for an unlimited period, unless the competent authority for medicinal products decides, in the interest of public health protection, that another renewal is necessary.\nTRANSFER OF A MARKETING AUTHORISATION\nTransfer of a marketing authorisation is defined in Article 70 of the Act, which provides that the marketing authorisation holder may transfer the marketing authorisation to another legal entity or natural person who fulfils the conditions set out in the Act.\nCESSATION OF VALIDITY OF A MARKETING AUTHORISATION\nMarketing authorisation shall cease to be valid pursuant to Articles 61 and 66 of the Act, ex officio or at the request of the medicinal product marketing authorisation holder.",
+        "start": 0,
+        "end": 3107,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "SVN",
+      "country": "Slovenia",
+      "selected_document_id": "F250_136283a2171966c3da0f_35648c00fae2",
+      "source_id": "F250_136283a2171966c3da0f",
+      "pathway": "EU/EEA mutual recognition and decentralised assessment",
+      "source_url": "https://jazmp.si/en/human-medicines/regulatory-information/marketing-authorisation/",
+      "document_title": "JAZMP: obtaining marketing authorisation",
+      "source_type": "Official procedure guidance",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "SVN-R01": null
+        }
+      ],
+      "raw_sha256": "35648c00fae21a04ecc9dce09dd9dbe393a9d248bdf640513892db0e359ae735",
+      "raw_hash_validated": true,
+      "text_sha256": "0729ba052744b302cbd0364e6fa86767493078891b35ae8ede5bcc53724d33e8",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "JAZMP high-level explanation of obtaining authorizations. Distinguish EU centralized shared authorization from MRP/DCP; document does not establish a complete unilateral FDA recognition route.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          0,
+          1287
+        ],
+        [
+          0,
+          3107
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "discretionary/conditional",
+          "finding": "EU centralized, MRP/DCP and national routes.",
+          "evidence_ids": [
+            "SVN-R01",
+            "SVN-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Summary does not resolve scope of scientific reassessment for a case.",
+          "evidence_ids": [
+            "SVN-R01",
+            "SVN-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "explicit requirement",
+          "finding": "Applicant established in EEA.",
+          "evidence_ids": [
+            "SVN-R01",
+            "SVN-CTX-1"
+          ]
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Five-module CTD; full form/content delegated to Directive annex.",
+          "evidence_ids": [
+            "SVN-R01",
+            "SVN-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVN-R01",
+            "SVN-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVN-R01",
+            "SVN-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVN-R01",
+            "SVN-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVN-R01",
+            "SVN-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVN-R01",
+            "SVN-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "SVN-R01",
+          "source_document_id": "F250_136283a2171966c3da0f_35648c00fae2",
+          "evidence_role": "Selected primary document",
+          "section_article": "Routes and CTD requirement",
+          "pdf_page": null,
+          "source_url": "https://jazmp.si/en/human-medicines/regulatory-information/marketing-authorisation/",
+          "raw_sha256": "35648c00fae21a04ecc9dce09dd9dbe393a9d248bdf640513892db0e359ae735",
+          "text_sha256": "0729ba052744b302cbd0364e6fa86767493078891b35ae8ede5bcc53724d33e8",
+          "exact_text": "OBTAINING A MARKETING AUTHORISATION\nIn accordance with legislation, medicinal products must obtain marketing authorisation prior to their placement on the market. The procedure for granting marketing authorisation starts with an application submitted by a legal entity or natural person established in the EEA.\nMarketing authorisation may be obtained via:\n– national procedure;\n– mutual recognition procedure or decentralised procedure, or\n– centralised procedure.\nApplication for obtaining a marketing authorisation must be in the form of a common technical document (CTD) that contains the following five modules:\n– Module 1: administrative data including information on the medicinal product (Summary of product characteristics – SmPC, Patient information leaflet – PIL and labelling);\n– Module 2: summarised information on the quality, safety and efficacy of the medicinal product;\n– Module 3: data on the quality;\n– Module 4: data on the safety; and\n– Module 5: data on the efficacy of the medicinal product.\nThe form and content of the modules and features for certain types of applications and medicinal products are described in detail in Annex I to Directive 2001/83/EC, as amended.\nMarketing authorisation for medicinal products is generally issued for a period of five years.\n",
+          "start": 0,
+          "end": 1287,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SVN-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://jazmp.si/en/human-medicines/regulatory-information/marketing-authorisation/",
+          "raw_sha256": "35648c00fae21a04ecc9dce09dd9dbe393a9d248bdf640513892db0e359ae735",
+          "text_sha256": "0729ba052744b302cbd0364e6fa86767493078891b35ae8ede5bcc53724d33e8",
+          "exact_text": "OBTAINING A MARKETING AUTHORISATION\nIn accordance with legislation, medicinal products must obtain marketing authorisation prior to their placement on the market. The procedure for granting marketing authorisation starts with an application submitted by a legal entity or natural person established in the EEA.\nMarketing authorisation may be obtained via:\n– national procedure;\n– mutual recognition procedure or decentralised procedure, or\n– centralised procedure.\nApplication for obtaining a marketing authorisation must be in the form of a common technical document (CTD) that contains the following five modules:\n– Module 1: administrative data including information on the medicinal product (Summary of product characteristics – SmPC, Patient information leaflet – PIL and labelling);\n– Module 2: summarised information on the quality, safety and efficacy of the medicinal product;\n– Module 3: data on the quality;\n– Module 4: data on the safety; and\n– Module 5: data on the efficacy of the medicinal product.\nThe form and content of the modules and features for certain types of applications and medicinal products are described in detail in Annex I to Directive 2001/83/EC, as amended.\nMarketing authorisation for medicinal products is generally issued for a period of five years.\nMAINTENANCE OF A MARKETING AUTHORISATION\nAfter obtaining marketing authorisation for a medicinal product, the holder must maintain the marketing authorisation, which includes variations to the terms of marketing authorisation and renewal of marketing authorisation.\nVariations to the terms of a marketing authorisation\nare defined in the Article 62 of the Act, which stipulates that the marketing authorisation holder must take into account scientific and technical progress and implement any necessary changes. The authority responsible for medicinal products must be notified of any new information that could impact the variation of a marketing authorisation or a change in the medicinal product documentation.\nRenewal of a marketing authorisation\nis defined in the Article 63 of the Act, which stipulates that the validity of marketing authorisation may be renewed after five years have elapsed on the basis of an application for marketing authorisation renewal and reassessment of the risk-benefit ratio of the medicinal product. Once the marketing authorisation has been renewed for the first time, it is generally valid for an unlimited period, unless the competent authority for medicinal products decides, in the interest of public health protection, that another renewal is necessary.\nTRANSFER OF A MARKETING AUTHORISATION\nTransfer of a marketing authorisation is defined in Article 70 of the Act, which provides that the marketing authorisation holder may transfer the marketing authorisation to another legal entity or natural person who fulfils the conditions set out in the Act.\nCESSATION OF VALIDITY OF A MARKETING AUTHORISATION\nMarketing authorisation shall cease to be valid pursuant to Articles 61 and 66 of the Act, ex officio or at the request of the medicinal product marketing authorisation holder.",
+          "start": 0,
+          "end": 3107,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

@@ -173,5 +173,800 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ESP",
+    "country": "Spain",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "European authorisation is an alternative to national marketing authorisation",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343",
+    "document_id": "fa8041d0ff309d54673a",
+    "genre": "Consolidated statute",
+    "language": "es",
+    "scope": "European shared authorisation, not unilateral recognition of any foreign approval",
+    "version_note": "Official national authorisation procedures, preserved version; centralised and MRP mechanisms separated.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Source distinguishes EC/centralised authorisation from national EU/EEA mutual recognition; FDA alone is not an MRP RMS.",
+        "evidence_ids": [
+          "ESP-Q01",
+          "ESP-CONTEXT-1",
+          "ESP-SHARED-EC",
+          "ESP-SHARED-EC"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Existing EC MA rather than public-versus-full report availability supplies the shared authorisation effect.",
+        "evidence_ids": [
+          "ESP-Q01",
+          "ESP-CONTEXT-1",
+          "ESP-SHARED-EC",
+          "ESP-SHARED-EC"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Shared EC centralised authorisation is distinct from a repeat national scientific assessment; MRP/DCP procedures have their own assessments/objections.",
+        "evidence_ids": [
+          "ESP-Q01",
+          "ESP-CONTEXT-1",
+          "ESP-SHARED-EC",
+          "ESP-SHARED-EC"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ESP-Q01",
+          "ESP-CONTEXT-1",
+          "ESP-SHARED-EC",
+          "ESP-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ESP-Q01",
+          "ESP-CONTEXT-1",
+          "ESP-SHARED-EC",
+          "ESP-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ESP-Q01",
+          "ESP-CONTEXT-1",
+          "ESP-SHARED-EC",
+          "ESP-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ESP-Q01",
+          "ESP-CONTEXT-1",
+          "ESP-SHARED-EC",
+          "ESP-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "outside selected shared authorisation pathway",
+        "finding": "FDA alone does not supply EC centralised marketing authorisation or a national EEA MRP RMS approval; ordinary national route remains separate.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ESP-Q01",
+          "ESP-CONTEXT-1",
+          "ESP-SHARED-EC",
+          "ESP-SHARED-EC"
+        ],
+        "status": "outside selected shared authorisation pathway"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "ESP-SHARED-EC"
+        ]
+      },
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "ESP-Q01",
+        "iso3": "ESP",
+        "event_id": null,
+        "document_id": "fa8041d0ff309d54673a",
+        "source_id": "ea930d6cf6316e1e",
+        "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343",
+        "raw_sha256": "189b9b8a3f1b904de9f207ef9bd87630ba27fe7268adc8d6d129804ce2736341",
+        "text_sha256": "71f48ebcd305232ab998a4bdb5415b8b2433ba6a1359b9b13245d23ba548f841",
+        "start_offset": 56402,
+        "end_offset": 56918,
+        "pdf_page": 1,
+        "section_article": "9(1)",
+        "verbatim_extracted_text": "Artículo 9. Autorización y registro.\n1. Ningún medicamento elaborado industrialmente podrá ser puesto en el mercado sin la previa autorización de la Agencia Española de Medicamentos y Productos Sanitarios e inscripción en el Registro de Medicamentos o sin haber obtenido la autorización de conformidad con lo dispuesto en las normas europeas que establecen los procedimientos comunitarios para la autorización y control de los medicamentos de uso humano y veterinario y que regula la Agencia Europea de Medicamentos.",
+        "display_text": "Artículo 9. Autorización y registro. 1. Ningún medicamento elaborado industrialmente podrá ser puesto en el mercado sin la previa autorización de la Agencia Española de Medicamentos y Productos Sanitarios e inscripción en el Registro de Medicamentos o sin haber obtenido la autorización de conformidad con lo dispuesto en las normas europeas que establecen los procedimientos comunitarios para la autorización y control de los medicamentos de uso humano y veterinario y que regula la Agencia Europea de Medicamentos.",
+        "feature_tags": [
+          "automatic",
+          "scope_limit"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "es",
+        "language_status": "Official original-language source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "An authorisation under the specified European rules provides an alternative to AEMPS authorisation and registration. Does not extend this effect to FDA or every foreign agency.",
+        "version_alignment": "Royal Legislative Decree 1/2015, Article 9(1), preserved consolidated text; not all amendment dates reconstructed",
+        "evidence_tier": "national_rule",
+        "product_scope": "European shared authorisation, not unilateral recognition of any foreign approval",
+        "translation_review": {
+          "id": "ESP-Q01",
+          "source_language": "es",
+          "source_text": "Artículo 9. Autorización y registro.\n1. Ningún medicamento elaborado industrialmente podrá ser puesto en el mercado sin la previa autorización de la Agencia Española de Medicamentos y Productos Sanitarios e inscripción en el Registro de Medicamentos o sin haber obtenido la autorización de conformidad con lo dispuesto en las normas europeas que establecen los procedimientos comunitarios para la autorización y control de los medicamentos de uso humano y veterinario y que regula la Agencia Europea de Medicamentos.",
+          "document_id": "fa8041d0ff309d54673a",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "es",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+            "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+            "model_bytes": 285208831,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "es",
+              "from_name": "Spanish",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "d7a0adea6ef6e69c7a8327d8aea2ca4a3db70a9ea214312c9b333552164fc44d",
+          "translated_utc": "2026-10-18T00:48:20.508350+00:00",
+          "source_characters": 516,
+          "segments": 4,
+          "raw_machine_translation": "Article 9. Authorisation and registration. 1. No industrially prepared medicinal product may be put on the market without the prior authorisation of the Spanish Medicines and Health Products Agency and registration with the Register of Medicinal Products or without an authorisation under European standards laying down Community procedures for the authorisation and monitoring of medicinal products for human and veterinary use and regulated by the European Medicines Agency.",
+          "checked_translation": "Article 9. Authorisation and registration. 1. No industrially manufactured medicine may be placed on the market without prior authorisation by the Spanish Agency of Medicines and Medical Devices and entry in the Medicines Register, or without authorisation in accordance with the European rules establishing Community procedures for authorisation and supervision of human and veterinary medicines and regulating the European Medicines Agency.",
+          "check_note": "Checked the alternative European authorisation, rather than reading national AND European approval as both required.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "ESP-CONTEXT-1",
+        "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343",
+        "raw_sha256": "189b9b8a3f1b904de9f207ef9bd87630ba27fe7268adc8d6d129804ce2736341",
+        "text_sha256": "71f48ebcd305232ab998a4bdb5415b8b2433ba6a1359b9b13245d23ba548f841",
+        "start_offset": 55652,
+        "end_offset": 57918,
+        "verbatim_extracted_text": " aquellos productos respecto de los que se desconozca su composición y características.\n5. Es obligatorio declarar a la autoridad sanitaria todas las características y propiedades conocidas de los medicamentos.\n6. En caso de duda, cuando un producto pueda responder a la definición de medicamento se le aplicará esta ley, incluso si a dicho producto se le pudiera aplicar la definición contemplada en otra norma.\nRedactado conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 2015.\nRef. BOE-A-2015-14027\n.\nSubir\n[Bloque 20: #cii]\nCAPÍTULO II\nDe las garantías exigibles a los medicamentos de uso humano elaborados industrialmente y de las condiciones de prescripción y dispensación de los mismos\nSubir\n[Bloque 21: #a9]\nArtículo 9. Autorización y registro.\n1. Ningún medicamento elaborado industrialmente podrá ser puesto en el mercado sin la previa autorización de la Agencia Española de Medicamentos y Productos Sanitarios e inscripción en el Registro de Medicamentos o sin haber obtenido la autorización de conformidad con lo dispuesto en las normas europeas que establecen los procedimientos comunitarios para la autorización y control de los medicamentos de uso humano y veterinario y que regula la Agencia Europea de Medicamentos.\n2. Cuando un medicamento haya obtenido una autorización de acuerdo con el apartado anterior, toda dosificación, forma farmacéutica, vía de administración y presentaciones adicionales, así como cualesquiera otras modificaciones y ampliaciones al expediente de autorización que se introduzcan, deberán ser objeto de autorización o notificación conforme se disponga en la normativa que regula el procedimiento de autorización, registro y condiciones de dispensación de los medicamentos de uso humano fabricados industrialmente. Todas estas modificaciones se considerarán pertenecientes a la misma autorización global de comercialización, en particular a los efectos de la aplicación de los periodos de exclusividad de datos.\n3. Toda modificación, transmisión y extinción de las autorizaciones de los medicamentos deberá constar en el Registro de Medicamentos que a estos efectos tendrá, del mismo modo que la inscripción, carácter constitutivo.\n4. La Agencia Española de Medicamentos y Productos Sanita",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "es",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Royal Legislative Decree 1/2015, Article 9(1), preserved consolidated text; not all amendment dates reconstructed"
+      },
+      {
+        "clause_id": "ESP-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "ESP-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "ESP",
+      "country": "Spain",
+      "selected_document_id": "fa8041d0ff309d54673a",
+      "source_id": "ea930d6cf6316e1e",
+      "pathway": "European authorisation is an alternative to national marketing authorisation",
+      "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343",
+      "document_title": "Official law/legislation discovery seed; exact authorization provisions require validation",
+      "source_type": "Consolidated statute",
+      "scope": "European shared authorisation, not unilateral recognition of any foreign approval",
+      "language": "es",
+      "translation_provenance": "Checked English selected-clause translation plus contextual original-language interpretation",
+      "raw_sha256": "189b9b8a3f1b904de9f207ef9bd87630ba27fe7268adc8d6d129804ce2736341",
+      "raw_hash_validated": true,
+      "text_sha256": "71f48ebcd305232ab998a4bdb5415b8b2433ba6a1359b9b13245d23ba548f841",
+      "version_dates": {},
+      "version_scope_note": "Official national authorisation procedures, preserved version; centralised and MRP mechanisms separated.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          55652,
+          57918
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Source distinguishes EC/centralised authorisation from national EU/EEA mutual recognition; FDA alone is not an MRP RMS.",
+          "evidence_ids": [
+            "ESP-Q01",
+            "ESP-CONTEXT-1",
+            "ESP-SHARED-EC",
+            "ESP-SHARED-EC"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Existing EC MA rather than public-versus-full report availability supplies the shared authorisation effect.",
+          "evidence_ids": [
+            "ESP-Q01",
+            "ESP-CONTEXT-1",
+            "ESP-SHARED-EC",
+            "ESP-SHARED-EC"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Shared EC centralised authorisation is distinct from a repeat national scientific assessment; MRP/DCP procedures have their own assessments/objections.",
+          "evidence_ids": [
+            "ESP-Q01",
+            "ESP-CONTEXT-1",
+            "ESP-SHARED-EC",
+            "ESP-SHARED-EC"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ESP-Q01",
+            "ESP-CONTEXT-1",
+            "ESP-SHARED-EC",
+            "ESP-SHARED-EC"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ESP-Q01",
+            "ESP-CONTEXT-1",
+            "ESP-SHARED-EC",
+            "ESP-SHARED-EC"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ESP-Q01",
+            "ESP-CONTEXT-1",
+            "ESP-SHARED-EC",
+            "ESP-SHARED-EC"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ESP-Q01",
+            "ESP-CONTEXT-1",
+            "ESP-SHARED-EC",
+            "ESP-SHARED-EC"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected shared authorisation pathway",
+          "finding": "FDA alone does not supply EC centralised marketing authorisation or a national EEA MRP RMS approval; ordinary national route remains separate.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ESP-Q01",
+            "ESP-CONTEXT-1",
+            "ESP-SHARED-EC",
+            "ESP-SHARED-EC"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "ESP-SHARED-EC"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "ESP-Q01",
+          "iso3": "ESP",
+          "event_id": null,
+          "document_id": "fa8041d0ff309d54673a",
+          "source_id": "ea930d6cf6316e1e",
+          "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343",
+          "raw_sha256": "189b9b8a3f1b904de9f207ef9bd87630ba27fe7268adc8d6d129804ce2736341",
+          "text_sha256": "71f48ebcd305232ab998a4bdb5415b8b2433ba6a1359b9b13245d23ba548f841",
+          "start_offset": 56402,
+          "end_offset": 56918,
+          "pdf_page": 1,
+          "section_article": "9(1)",
+          "verbatim_extracted_text": "Artículo 9. Autorización y registro.\n1. Ningún medicamento elaborado industrialmente podrá ser puesto en el mercado sin la previa autorización de la Agencia Española de Medicamentos y Productos Sanitarios e inscripción en el Registro de Medicamentos o sin haber obtenido la autorización de conformidad con lo dispuesto en las normas europeas que establecen los procedimientos comunitarios para la autorización y control de los medicamentos de uso humano y veterinario y que regula la Agencia Europea de Medicamentos.",
+          "display_text": "Artículo 9. Autorización y registro. 1. Ningún medicamento elaborado industrialmente podrá ser puesto en el mercado sin la previa autorización de la Agencia Española de Medicamentos y Productos Sanitarios e inscripción en el Registro de Medicamentos o sin haber obtenido la autorización de conformidad con lo dispuesto en las normas europeas que establecen los procedimientos comunitarios para la autorización y control de los medicamentos de uso humano y veterinario y que regula la Agencia Europea de Medicamentos.",
+          "feature_tags": [
+            "automatic",
+            "scope_limit"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "es",
+          "language_status": "Official original-language source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "An authorisation under the specified European rules provides an alternative to AEMPS authorisation and registration. Does not extend this effect to FDA or every foreign agency.",
+          "version_alignment": "Royal Legislative Decree 1/2015, Article 9(1), preserved consolidated text; not all amendment dates reconstructed",
+          "evidence_tier": "national_rule",
+          "product_scope": "European shared authorisation, not unilateral recognition of any foreign approval",
+          "translation_review": {
+            "id": "ESP-Q01",
+            "source_language": "es",
+            "source_text": "Artículo 9. Autorización y registro.\n1. Ningún medicamento elaborado industrialmente podrá ser puesto en el mercado sin la previa autorización de la Agencia Española de Medicamentos y Productos Sanitarios e inscripción en el Registro de Medicamentos o sin haber obtenido la autorización de conformidad con lo dispuesto en las normas europeas que establecen los procedimientos comunitarios para la autorización y control de los medicamentos de uso humano y veterinario y que regula la Agencia Europea de Medicamentos.",
+            "document_id": "fa8041d0ff309d54673a",
+            "target_language": "en",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "model_provenance": {
+              "language": "es",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+              "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+              "model_bytes": 285208831,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "es",
+                "from_name": "Spanish",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "d7a0adea6ef6e69c7a8327d8aea2ca4a3db70a9ea214312c9b333552164fc44d",
+            "translated_utc": "2026-10-18T00:48:20.508350+00:00",
+            "source_characters": 516,
+            "segments": 4,
+            "raw_machine_translation": "Article 9. Authorisation and registration. 1. No industrially prepared medicinal product may be put on the market without the prior authorisation of the Spanish Medicines and Health Products Agency and registration with the Register of Medicinal Products or without an authorisation under European standards laying down Community procedures for the authorisation and monitoring of medicinal products for human and veterinary use and regulated by the European Medicines Agency.",
+            "checked_translation": "Article 9. Authorisation and registration. 1. No industrially manufactured medicine may be placed on the market without prior authorisation by the Spanish Agency of Medicines and Medical Devices and entry in the Medicines Register, or without authorisation in accordance with the European rules establishing Community procedures for authorisation and supervision of human and veterinary medicines and regulating the European Medicines Agency.",
+            "check_note": "Checked the alternative European authorisation, rather than reading national AND European approval as both required.",
+            "approved_for_display": true,
+            "approved_for_text_sensitivity": true,
+            "check_scope": [
+              "permission/modals",
+              "negation and conjunctions",
+              "numerical conditions and units",
+              "actors, scope and retained conditions"
+            ],
+            "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "ESP-CONTEXT-1",
+          "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343",
+          "raw_sha256": "189b9b8a3f1b904de9f207ef9bd87630ba27fe7268adc8d6d129804ce2736341",
+          "text_sha256": "71f48ebcd305232ab998a4bdb5415b8b2433ba6a1359b9b13245d23ba548f841",
+          "start_offset": 55652,
+          "end_offset": 57918,
+          "verbatim_extracted_text": " aquellos productos respecto de los que se desconozca su composición y características.\n5. Es obligatorio declarar a la autoridad sanitaria todas las características y propiedades conocidas de los medicamentos.\n6. En caso de duda, cuando un producto pueda responder a la definición de medicamento se le aplicará esta ley, incluso si a dicho producto se le pudiera aplicar la definición contemplada en otra norma.\nRedactado conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 2015.\nRef. BOE-A-2015-14027\n.\nSubir\n[Bloque 20: #cii]\nCAPÍTULO II\nDe las garantías exigibles a los medicamentos de uso humano elaborados industrialmente y de las condiciones de prescripción y dispensación de los mismos\nSubir\n[Bloque 21: #a9]\nArtículo 9. Autorización y registro.\n1. Ningún medicamento elaborado industrialmente podrá ser puesto en el mercado sin la previa autorización de la Agencia Española de Medicamentos y Productos Sanitarios e inscripción en el Registro de Medicamentos o sin haber obtenido la autorización de conformidad con lo dispuesto en las normas europeas que establecen los procedimientos comunitarios para la autorización y control de los medicamentos de uso humano y veterinario y que regula la Agencia Europea de Medicamentos.\n2. Cuando un medicamento haya obtenido una autorización de acuerdo con el apartado anterior, toda dosificación, forma farmacéutica, vía de administración y presentaciones adicionales, así como cualesquiera otras modificaciones y ampliaciones al expediente de autorización que se introduzcan, deberán ser objeto de autorización o notificación conforme se disponga en la normativa que regula el procedimiento de autorización, registro y condiciones de dispensación de los medicamentos de uso humano fabricados industrialmente. Todas estas modificaciones se considerarán pertenecientes a la misma autorización global de comercialización, en particular a los efectos de la aplicación de los periodos de exclusividad de datos.\n3. Toda modificación, transmisión y extinción de las autorizaciones de los medicamentos deberá constar en el Registro de Medicamentos que a estos efectos tendrá, del mismo modo que la inscripción, carácter constitutivo.\n4. La Agencia Española de Medicamentos y Productos Sanita",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "es",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Royal Legislative Decree 1/2015, Article 9(1), preserved consolidated text; not all amendment dates reconstructed"
+        },
+        {
+          "clause_id": "ESP-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "ESP-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

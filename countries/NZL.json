@@ -195,5 +195,676 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "NZL",
+    "country": "New Zealand",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Verification with statutory requirements and a decision clock",
+    "source_url": "https://www.health.govt.nz/system/files/2026-05/medicines-consent-verification-rules-2026.pdf",
+    "document_id": "0eb724f25908fa5aab08",
+    "genre": "Secondary legislation",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Medicines (Consent by Verification) Rules 2026: made 20 May 2026, effective 3 July 2026. Parent Act sections 22B–22D and complete recognized-authority designation must also be checked; fixed ordinary adult small molecule avoids listed child/pregnancy/gene/plasma exclusions but local-risk exclusions are nonexhaustive.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "Medicine may qualify unless independent local contextualization required; exclusions nonexhaustive.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Recognized authority defined by section 22B of parent Act, not enumerated in these rules; do not invent the list.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Two recognized marketing authorizations, one nominated primary.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "explicit requirement",
+        "finding": "Both no older than four years; fixed 18 months meets age condition.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Full approved primary CTD, secondary CTD available on request, identical therapeutic purpose and relevant GMP evidence.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Full reports for both authorizations, every module/stage; primary reports complete.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Complete underlying reports specified; confidentiality/public-domain status not explicitly named.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Public-only dossier cannot demonstrate full module/stage reports required; no express categorical public-domain rejection.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Acceptable GMP evidence for manufacturing and testing sites.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Independent contextual assessment required for some medicines; full list of ordinary-case conditions in parent Act not resolved.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Application validation fee required.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "10 working days validation from receipt/payment; Minister decision within 30 working days; applicant response 30 working days.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Local disease/public-health risks may require independent assessment.",
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "explicitly ineligible for identified full-report route",
+        "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+        "decisive_conditions": [
+          "Complete underlying assessment report requirement"
+        ],
+        "unresolved_conditions": [
+          "Other eligibility remains unresolved; route alternatives assessed separately."
+        ],
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ],
+        "status": "explicitly ineligible for identified full-report route"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "explicitly ineligible for selected route",
+        "finding": "FDA-only fails explicit two-authority requirement.",
+        "decisive_conditions": [
+          "Two prior approvals/named-authority condition."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NZL-Q01",
+          "NZL-Q02",
+          "NZL-CTX-1"
+        ],
+        "status": "explicitly ineligible for selected route"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "explicit full-report condition; overall access gain not fully resolved",
+        "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "explicit selected-route threshold",
+        "finding": "Selected route requires two approvals or EMA-centralized trigger."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "NZL-Q01",
+        "source_document_id": "0eb724f25908fa5aab08",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 2,
+        "source_url": "https://www.health.govt.nz/system/files/2026-05/medicines-consent-verification-rules-2026.pdf",
+        "raw_sha256": "8551608221a8d6d420e664de620c56056dc5a8acddcedd7dcb8725ee0fb208de",
+        "text_sha256": "dcbdca8b3fb3ac29878bd5c6f39faba56be76358d9b0b49e277f6128fd620bd8",
+        "exact_text": "For the purposes of section 22D(4) of the Act, the Minister must make a decision on \nthe application within 30 working days.   \n6 \nEvidence of marketing authorisations by two recognised regulatory authorities  \nFor the purposes of section 22D(1)(b)(i) and (ii) of the Act, the applicant must provide \nevidence of marketing authorisations granted by two recognised regulatory authorities. \nThe applicant must nominate one authorisation as the primary marketing authorisation. \nThe recognised regulatory authority that issued the primary marketing authorisation \nwill be considered the primary recognised regulatory authority  \n7 \nRequirements for applications for consent by verification \nAn application for consent by verification must contain:  \n(a) \nAppropriate evidence of each marketing authorisation, including any associated \nattachments, issued by the corresponding recognised regulatory authorities.  \n(b) \nFull assessment reports completed for each of the marketing authorisations by the \ncorresponding recognised regulatory authority. These must include assessment \nreports for each dossier module and reports for each stage of evaluation for the \n\n\nPAGE 3\nMedicines (Consent by Verification) Rules 2026 \n3 \nmarketing authorisations. All reports issued by the primary recognised regulatory \nauthority must be complete.  \n(c)\nThe full consolidated technical dossier in Common Technical Document (CTD)\nformat, excluding Module 1, as approved by the primary recognised regulatory\nauthority for the initial marketing authorisation.\n(d)\nThe full consolidated technical dossier in CTD format, excluding Module 1, as\napproved by the secondary recognised regulatory authority for the initial\nmarketing authorisation must be available on request.\n(e)\nA list of all events that occurred during the initial marketing authorisation\napplication.\n(f)\nA list of any variations to each marketing authorisation since each marketing\nauthorisation was first granted.\n(g)\nRisk assessments related to product quality required by either of the recognised\nregulatory authorities that were conducted or completed after marketing\nauthorisation was granted by the recognised regulatory authorities, and risk\nassessments related to product quality that were not reviewed by those recognised\nregulatory authorities at the time of granting the marketing authorisation.\n(h)\nAppropriate evidence of acceptable Good Manufacturing Practice for relevant\nmanufacturing and testing sites.\n(i)\nInformation provided or referenced in Module 1 of a technical dossier in CTD\nformat, and information relevant to supply and import of the medicine in New\nZealand.\n8 \nMarketing authorisations must be no older than 4 years \nFor the purpose of section 22D(1)(b)(i) of the Act, the application must be made on the \nbasis of marketing authorisations granted by each recognised authority no longer than \n4 years before the date of application for consent by verification.",
+        "start": 2925,
+        "end": 5857,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "NZL-Q02",
+        "source_document_id": "0eb724f25908fa5aab08",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 3,
+        "source_url": "https://www.health.govt.nz/system/files/2026-05/medicines-consent-verification-rules-2026.pdf",
+        "raw_sha256": "8551608221a8d6d420e664de620c56056dc5a8acddcedd7dcb8725ee0fb208de",
+        "text_sha256": "dcbdca8b3fb3ac29878bd5c6f39faba56be76358d9b0b49e277f6128fd620bd8",
+        "exact_text": "For the purpose of section 22D(1)(b)(v) of the Act, medicines that require independent \nassessment by the Director-General to contextualise the benefit-risk profile of the \nmedicine due to local disease epidemiology, public health considerations, or New \nZealand specific health risks include, but are not limited to:  \n(a)\nFractionated plasma products and other medicines derived from blood.\n(b)\nInnovative medicines exclusively indicated for use in children or pregnant\npeople.\n(c)\nGene therapy medicines, including medicines using a genetic technology to\ncreate the dose form (e.g. viral vector), or where the mode of action involves\nmodification of genetics or epigenetics.\n\n\nPAGE 4\nMedicines (Consent by Verification) Rules 2026 \n4 \n(d)\nPersonalised medicines that share the same manufacturing process but result in\nunique medicines designed for specific patients.\n11 \nRequirements for applications for generic or biosimilar prescription medicines \nIf the medicine is a generic or biosimilar prescription medicine, and any supporting \nbioequivalence or clinical studies use a reference product sourced from outside New \nZealand, the application must include data that demonstrates the reference product used \nin the studies assessed by the primary recognised regulatory authority is essentially \nsimilar to the respective New Zealand innovative medicine.   \n12 \nApplication must include therapeutic purpose \nThe application must include the therapeutic purpose(s) for which the medicine is \nintended, which must be identical to that of the medicine approved by both recognised \nregulatory authorities.",
+        "start": 6156,
+        "end": 7762,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "NZL-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.health.govt.nz/system/files/2026-05/medicines-consent-verification-rules-2026.pdf",
+        "raw_sha256": "8551608221a8d6d420e664de620c56056dc5a8acddcedd7dcb8725ee0fb208de",
+        "text_sha256": "dcbdca8b3fb3ac29878bd5c6f39faba56be76358d9b0b49e277f6128fd620bd8",
+        "exact_text": "ication) Rules 2026 \n \n \n2 \n2 \nCommencement \nThese Rules come into force on 3 July 2026.  \n3 \nInterpretation \nIn these Rules, unless the context otherwise requires,—  \nAct means the Medicines Act 1981 \nPrimary marketing authorisation means the authorisation, approval, or consent of a \nmedicine from one recognised regulatory authority for the purposes of section \n22D(1)(b)(i) of the Act. The primary marketing authorisation is relied on for all \ndossier information.    \nPrimary recognised regulatory authority means the recognised regulatory \nauthority, (section 22B of the Act) that issued the primary marketing authorisation.   \nSecondary marketing authorisation means the authorisation, approval, or consent \nof a medicine from one recognised regulatory authority for the purposes of section \n22D(1)(b)(i) of the Act.    \nSecondary recognised regulatory authority means the recognised regulatory \nauthority, (section 22B of the Act) that issued the secondary marketing authorisation.  \n4 \nPeriod for Director-General to decide whether an application complies with \nsection 22C(3) of the Act  \nFor the purposes of section 22C(2) of the Act, the Director-General must decide within \na period of 10 working days following receipt of the application and payment of the \napplication validation fee whether the application for consent by verification complies \nwith section 21(2) and these rules.  \n5 \nPeriod for Minister to make a decision under section 22D(1) of the Act  \nFor the purposes of section 22D(4) of the Act, the Minister must make a decision on \nthe application within 30 working days.   \n6 \nEvidence of marketing authorisations by two recognised regulatory authorities  \nFor the purposes of section 22D(1)(b)(i) and (ii) of the Act, the applicant must provide \nevidence of marketing authorisations granted by two recognised regulatory authorities. \nThe applicant must nominate one authorisation as the primary marketing authorisation. \nThe recognised regulatory authority that issued the primary marketing authorisation \nwill be considered the primary recognised regulatory authority  \n7 \nRequirements for applications for consent by verification \nAn application for consent by verification must contain:  \n(a) \nAppropriate evidence of each marketing authorisation, including any associated \nattachments, issued by the corresponding recognised regulatory authorities.  \n(b) \nFull assessment reports completed for each of the marketing authorisations by the \ncorresponding recognised regulatory authority. These must include assessment \nreports for each dossier module and reports for each stage of evaluation for the \n\n\nPAGE 3\nMedicines (Consent by Verification) Rules 2026 \n3 \nmarketing authorisations. All reports issued by the primary recognised regulatory \nauthority must be complete.  \n(c)\nThe full consolidated technical dossier in Common Technical Document (CTD)\nformat, excluding Module 1, as approved by the primary recognised regulatory\nauthority for the initial marketing authorisation.\n(d)\nThe full consolidated technical dossier in CTD format, excluding Module 1, as\napproved by the secondary recognised regulatory authority for the initial\nmarketing authorisation must be available on request.\n(e)\nA list of all events that occurred during the initial marketing authorisation\napplication.\n(f)\nA list of any variations to each marketing authorisation since each marketing\nauthorisation was first granted.\n(g)\nRisk assessments related to product quality required by either of the recognised\nregulatory authorities that were conducted or completed after marketing\nauthorisation was granted by the recognised regulatory authorities, and risk\nassessments related to product quality that were not reviewed by those recognised\nregulatory authorities at the time of granting the marketing authorisation.\n(h)\nAppropriate evidence of acceptable Good Manufacturing Practice for relevant\nmanufacturing and testing sites.\n(i)\nInformation provided or referenced in Module 1 of a technical dossier in CTD\nformat, and information relevant to supply and import of the medicine in New\nZealand.\n8 \nMarketing authorisations must be no older than 4 years \nFor the purpose of section 22D(1)(b)(i) of the Act, the application must be made on the \nbasis of marketing authorisations granted by each recognised authority no longer than \n4 years before the date of application for consent by verification.   \n9 \nPeriod in which requests for information must be responded to \nFor the purpose of section 22D(5) of the Act, the applicant must respond to requests for \ninformation within 30 working days of the request being made.  \n10 \nMedicines that require independent assessment by the Director-General \nFor the purpose of section 22D(1)(b)(v) of the Act, medicines that require independent \nassessment by the Director-General to contextualise the benefit-risk profile of the \nmedicine due to local disease epidemiology, public health considerations, or New \nZealand specific health risks include, but are not limited to:  \n(a)\nFractionated plasma products and other medicines derived from blood.\n(b)\nInnovative medicines exclusively indicated for use in children or pregnant\npeople.\n(c)\nGene therapy medicines, including medicines using a genetic technology to\ncreate the dose form (e.g. viral vector), or where the mode of action involves\nmodification of genetics or epigenetics.\n\n\nPAGE 4\nMedicines (Consent by Verification) Rules 2026 \n4 \n(d)\nPersonalised medicines that share the same manufacturing process but result in\nunique medicines designed for specific patients.\n11 \nRequirements for applications for generic or biosimilar prescription medicines \nIf the medicine is a generic or biosimilar prescription medicine, and any supporting \nbioequivalence or clinical studies use a reference product sourced from outside New \nZealand, the application must include data that demonstrates the reference product used \nin the studies assessed by the primary recognised regulatory authority is essentially \nsimilar to the respective New Zealand innovative medicine.   \n12 \nApplication must include therapeutic purpose \nThe application must include the therapeutic purpose(s) for which the medicine is \nintended, which must be identical to that of the medicine approved by both recognised \nregulatory authorities. \nMade at Wellington on 20 May 2026. \nHon David Seymour \nfor Minister of Health \nExplanatory note \nThis note is not part of the rules but is intended to indicate their general effect. \nThe Medicines (Consent by Verification) Rules 2026 are made pursuant to section 22E of the \nMedicines Act 1981. The Rules set out the requirements relating to applications for consent \nby verification and medicines for which consent ",
+        "start": 1450,
+        "end": 8180,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "NZL",
+      "country": "New Zealand",
+      "selected_document_id": "0eb724f25908fa5aab08",
+      "source_id": "8e37454755f3e1e8",
+      "pathway": "Verification with statutory requirements and a decision clock",
+      "source_url": "https://www.health.govt.nz/system/files/2026-05/medicines-consent-verification-rules-2026.pdf",
+      "document_title": "Verification Rules2026 final secondary legislation",
+      "source_type": "Secondary legislation",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "NZL-Q01": null
+        },
+        {
+          "NZL-Q02": null
+        }
+      ],
+      "raw_sha256": "8551608221a8d6d420e664de620c56056dc5a8acddcedd7dcb8725ee0fb208de",
+      "raw_hash_validated": true,
+      "text_sha256": "dcbdca8b3fb3ac29878bd5c6f39faba56be76358d9b0b49e277f6128fd620bd8",
+      "version_dates": {
+        "made_date": "2026-05-20",
+        "effective_date": "2026-07-03"
+      },
+      "version_scope_note": "Medicines (Consent by Verification) Rules 2026: made 20 May 2026, effective 3 July 2026. Parent Act sections 22B–22D and complete recognized-authority designation must also be checked; fixed ordinary adult small molecule avoids listed child/pregnancy/gene/plasma exclusions but local-risk exclusions are nonexhaustive.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          2925,
+          5857
+        ],
+        [
+          6156,
+          7762
+        ],
+        [
+          1450,
+          8180
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "Medicine may qualify unless independent local contextualization required; exclusions nonexhaustive.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Recognized authority defined by section 22B of parent Act, not enumerated in these rules; do not invent the list.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Two recognized marketing authorizations, one nominated primary.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "Both no older than four years; fixed 18 months meets age condition.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Full approved primary CTD, secondary CTD available on request, identical therapeutic purpose and relevant GMP evidence.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Full reports for both authorizations, every module/stage; primary reports complete.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Complete underlying reports specified; confidentiality/public-domain status not explicitly named.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Public-only dossier cannot demonstrate full module/stage reports required; no express categorical public-domain rejection.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Acceptable GMP evidence for manufacturing and testing sites.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Independent contextual assessment required for some medicines; full list of ordinary-case conditions in parent Act not resolved.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Application validation fee required.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "10 working days validation from receipt/payment; Minister decision within 30 working days; applicant response 30 working days.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Local disease/public-health risks may require independent assessment.",
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "explicitly ineligible for identified full-report route",
+          "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+          "decisive_conditions": [
+            "Complete underlying assessment report requirement"
+          ],
+          "unresolved_conditions": [
+            "Other eligibility remains unresolved; route alternatives assessed separately."
+          ],
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "explicitly ineligible for selected route",
+          "finding": "FDA-only fails explicit two-authority requirement.",
+          "decisive_conditions": [
+            "Two prior approvals/named-authority condition."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NZL-Q01",
+            "NZL-Q02",
+            "NZL-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "explicit full-report condition; overall access gain not fully resolved",
+          "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "explicit selected-route threshold",
+          "finding": "Selected route requires two approvals or EMA-centralized trigger."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "NZL-Q01",
+          "source_document_id": "0eb724f25908fa5aab08",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 2,
+          "source_url": "https://www.health.govt.nz/system/files/2026-05/medicines-consent-verification-rules-2026.pdf",
+          "raw_sha256": "8551608221a8d6d420e664de620c56056dc5a8acddcedd7dcb8725ee0fb208de",
+          "text_sha256": "dcbdca8b3fb3ac29878bd5c6f39faba56be76358d9b0b49e277f6128fd620bd8",
+          "exact_text": "For the purposes of section 22D(4) of the Act, the Minister must make a decision on \nthe application within 30 working days.   \n6 \nEvidence of marketing authorisations by two recognised regulatory authorities  \nFor the purposes of section 22D(1)(b)(i) and (ii) of the Act, the applicant must provide \nevidence of marketing authorisations granted by two recognised regulatory authorities. \nThe applicant must nominate one authorisation as the primary marketing authorisation. \nThe recognised regulatory authority that issued the primary marketing authorisation \nwill be considered the primary recognised regulatory authority  \n7 \nRequirements for applications for consent by verification \nAn application for consent by verification must contain:  \n(a) \nAppropriate evidence of each marketing authorisation, including any associated \nattachments, issued by the corresponding recognised regulatory authorities.  \n(b) \nFull assessment reports completed for each of the marketing authorisations by the \ncorresponding recognised regulatory authority. These must include assessment \nreports for each dossier module and reports for each stage of evaluation for the \n\n\nPAGE 3\nMedicines (Consent by Verification) Rules 2026 \n3 \nmarketing authorisations. All reports issued by the primary recognised regulatory \nauthority must be complete.  \n(c)\nThe full consolidated technical dossier in Common Technical Document (CTD)\nformat, excluding Module 1, as approved by the primary recognised regulatory\nauthority for the initial marketing authorisation.\n(d)\nThe full consolidated technical dossier in CTD format, excluding Module 1, as\napproved by the secondary recognised regulatory authority for the initial\nmarketing authorisation must be available on request.\n(e)\nA list of all events that occurred during the initial marketing authorisation\napplication.\n(f)\nA list of any variations to each marketing authorisation since each marketing\nauthorisation was first granted.\n(g)\nRisk assessments related to product quality required by either of the recognised\nregulatory authorities that were conducted or completed after marketing\nauthorisation was granted by the recognised regulatory authorities, and risk\nassessments related to product quality that were not reviewed by those recognised\nregulatory authorities at the time of granting the marketing authorisation.\n(h)\nAppropriate evidence of acceptable Good Manufacturing Practice for relevant\nmanufacturing and testing sites.\n(i)\nInformation provided or referenced in Module 1 of a technical dossier in CTD\nformat, and information relevant to supply and import of the medicine in New\nZealand.\n8 \nMarketing authorisations must be no older than 4 years \nFor the purpose of section 22D(1)(b)(i) of the Act, the application must be made on the \nbasis of marketing authorisations granted by each recognised authority no longer than \n4 years before the date of application for consent by verification.",
+          "start": 2925,
+          "end": 5857,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "NZL-Q02",
+          "source_document_id": "0eb724f25908fa5aab08",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 3,
+          "source_url": "https://www.health.govt.nz/system/files/2026-05/medicines-consent-verification-rules-2026.pdf",
+          "raw_sha256": "8551608221a8d6d420e664de620c56056dc5a8acddcedd7dcb8725ee0fb208de",
+          "text_sha256": "dcbdca8b3fb3ac29878bd5c6f39faba56be76358d9b0b49e277f6128fd620bd8",
+          "exact_text": "For the purpose of section 22D(1)(b)(v) of the Act, medicines that require independent \nassessment by the Director-General to contextualise the benefit-risk profile of the \nmedicine due to local disease epidemiology, public health considerations, or New \nZealand specific health risks include, but are not limited to:  \n(a)\nFractionated plasma products and other medicines derived from blood.\n(b)\nInnovative medicines exclusively indicated for use in children or pregnant\npeople.\n(c)\nGene therapy medicines, including medicines using a genetic technology to\ncreate the dose form (e.g. viral vector), or where the mode of action involves\nmodification of genetics or epigenetics.\n\n\nPAGE 4\nMedicines (Consent by Verification) Rules 2026 \n4 \n(d)\nPersonalised medicines that share the same manufacturing process but result in\nunique medicines designed for specific patients.\n11 \nRequirements for applications for generic or biosimilar prescription medicines \nIf the medicine is a generic or biosimilar prescription medicine, and any supporting \nbioequivalence or clinical studies use a reference product sourced from outside New \nZealand, the application must include data that demonstrates the reference product used \nin the studies assessed by the primary recognised regulatory authority is essentially \nsimilar to the respective New Zealand innovative medicine.   \n12 \nApplication must include therapeutic purpose \nThe application must include the therapeutic purpose(s) for which the medicine is \nintended, which must be identical to that of the medicine approved by both recognised \nregulatory authorities.",
+          "start": 6156,
+          "end": 7762,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "NZL-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.health.govt.nz/system/files/2026-05/medicines-consent-verification-rules-2026.pdf",
+          "raw_sha256": "8551608221a8d6d420e664de620c56056dc5a8acddcedd7dcb8725ee0fb208de",
+          "text_sha256": "dcbdca8b3fb3ac29878bd5c6f39faba56be76358d9b0b49e277f6128fd620bd8",
+          "exact_text": "ication) Rules 2026 \n \n \n2 \n2 \nCommencement \nThese Rules come into force on 3 July 2026.  \n3 \nInterpretation \nIn these Rules, unless the context otherwise requires,—  \nAct means the Medicines Act 1981 \nPrimary marketing authorisation means the authorisation, approval, or consent of a \nmedicine from one recognised regulatory authority for the purposes of section \n22D(1)(b)(i) of the Act. The primary marketing authorisation is relied on for all \ndossier information.    \nPrimary recognised regulatory authority means the recognised regulatory \nauthority, (section 22B of the Act) that issued the primary marketing authorisation.   \nSecondary marketing authorisation means the authorisation, approval, or consent \nof a medicine from one recognised regulatory authority for the purposes of section \n22D(1)(b)(i) of the Act.    \nSecondary recognised regulatory authority means the recognised regulatory \nauthority, (section 22B of the Act) that issued the secondary marketing authorisation.  \n4 \nPeriod for Director-General to decide whether an application complies with \nsection 22C(3) of the Act  \nFor the purposes of section 22C(2) of the Act, the Director-General must decide within \na period of 10 working days following receipt of the application and payment of the \napplication validation fee whether the application for consent by verification complies \nwith section 21(2) and these rules.  \n5 \nPeriod for Minister to make a decision under section 22D(1) of the Act  \nFor the purposes of section 22D(4) of the Act, the Minister must make a decision on \nthe application within 30 working days.   \n6 \nEvidence of marketing authorisations by two recognised regulatory authorities  \nFor the purposes of section 22D(1)(b)(i) and (ii) of the Act, the applicant must provide \nevidence of marketing authorisations granted by two recognised regulatory authorities. \nThe applicant must nominate one authorisation as the primary marketing authorisation. \nThe recognised regulatory authority that issued the primary marketing authorisation \nwill be considered the primary recognised regulatory authority  \n7 \nRequirements for applications for consent by verification \nAn application for consent by verification must contain:  \n(a) \nAppropriate evidence of each marketing authorisation, including any associated \nattachments, issued by the corresponding recognised regulatory authorities.  \n(b) \nFull assessment reports completed for each of the marketing authorisations by the \ncorresponding recognised regulatory authority. These must include assessment \nreports for each dossier module and reports for each stage of evaluation for the \n\n\nPAGE 3\nMedicines (Consent by Verification) Rules 2026 \n3 \nmarketing authorisations. All reports issued by the primary recognised regulatory \nauthority must be complete.  \n(c)\nThe full consolidated technical dossier in Common Technical Document (CTD)\nformat, excluding Module 1, as approved by the primary recognised regulatory\nauthority for the initial marketing authorisation.\n(d)\nThe full consolidated technical dossier in CTD format, excluding Module 1, as\napproved by the secondary recognised regulatory authority for the initial\nmarketing authorisation must be available on request.\n(e)\nA list of all events that occurred during the initial marketing authorisation\napplication.\n(f)\nA list of any variations to each marketing authorisation since each marketing\nauthorisation was first granted.\n(g)\nRisk assessments related to product quality required by either of the recognised\nregulatory authorities that were conducted or completed after marketing\nauthorisation was granted by the recognised regulatory authorities, and risk\nassessments related to product quality that were not reviewed by those recognised\nregulatory authorities at the time of granting the marketing authorisation.\n(h)\nAppropriate evidence of acceptable Good Manufacturing Practice for relevant\nmanufacturing and testing sites.\n(i)\nInformation provided or referenced in Module 1 of a technical dossier in CTD\nformat, and information relevant to supply and import of the medicine in New\nZealand.\n8 \nMarketing authorisations must be no older than 4 years \nFor the purpose of section 22D(1)(b)(i) of the Act, the application must be made on the \nbasis of marketing authorisations granted by each recognised authority no longer than \n4 years before the date of application for consent by verification.   \n9 \nPeriod in which requests for information must be responded to \nFor the purpose of section 22D(5) of the Act, the applicant must respond to requests for \ninformation within 30 working days of the request being made.  \n10 \nMedicines that require independent assessment by the Director-General \nFor the purpose of section 22D(1)(b)(v) of the Act, medicines that require independent \nassessment by the Director-General to contextualise the benefit-risk profile of the \nmedicine due to local disease epidemiology, public health considerations, or New \nZealand specific health risks include, but are not limited to:  \n(a)\nFractionated plasma products and other medicines derived from blood.\n(b)\nInnovative medicines exclusively indicated for use in children or pregnant\npeople.\n(c)\nGene therapy medicines, including medicines using a genetic technology to\ncreate the dose form (e.g. viral vector), or where the mode of action involves\nmodification of genetics or epigenetics.\n\n\nPAGE 4\nMedicines (Consent by Verification) Rules 2026 \n4 \n(d)\nPersonalised medicines that share the same manufacturing process but result in\nunique medicines designed for specific patients.\n11 \nRequirements for applications for generic or biosimilar prescription medicines \nIf the medicine is a generic or biosimilar prescription medicine, and any supporting \nbioequivalence or clinical studies use a reference product sourced from outside New \nZealand, the application must include data that demonstrates the reference product used \nin the studies assessed by the primary recognised regulatory authority is essentially \nsimilar to the respective New Zealand innovative medicine.   \n12 \nApplication must include therapeutic purpose \nThe application must include the therapeutic purpose(s) for which the medicine is \nintended, which must be identical to that of the medicine approved by both recognised \nregulatory authorities. \nMade at Wellington on 20 May 2026. \nHon David Seymour \nfor Minister of Health \nExplanatory note \nThis note is not part of the rules but is intended to indicate their general effect. \nThe Medicines (Consent by Verification) Rules 2026 are made pursuant to section 22E of the \nMedicines Act 1981. The Rules set out the requirements relating to applications for consent \nby verification and medicines for which consent ",
+          "start": 1450,
+          "end": 8180,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

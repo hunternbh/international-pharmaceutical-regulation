@@ -1,0 +1,305 @@
+{
+  "passed": true,
+  "primary_records": 89,
+  "component_counts": [
+    {
+      "component": "new_active_substance",
+      "counts": {
+        "unresolved/not stated": 58,
+        "explicit requirement": 14,
+        "discretionary/conditional": 14,
+        "outside pathway scope": 3
+      }
+    },
+    {
+      "component": "named_reference_agencies",
+      "counts": {
+        "unresolved/not stated": 24,
+        "explicit requirement": 48,
+        "outside pathway scope": 13,
+        "discretionary/conditional": 4
+      }
+    },
+    {
+      "component": "prior_approval_count",
+      "counts": {
+        "explicit requirement": 42,
+        "unresolved/not stated": 33,
+        "outside pathway scope": 2,
+        "discretionary/conditional": 12
+      }
+    },
+    {
+      "component": "standalone_review",
+      "counts": {
+        "unresolved/not stated": 82,
+        "explicit requirement": 7
+      }
+    },
+    {
+      "component": "approval_age",
+      "counts": {
+        "unresolved/not stated": 76,
+        "explicit requirement": 12,
+        "discretionary/conditional": 1
+      }
+    },
+    {
+      "component": "foreign_marketing",
+      "counts": {
+        "unresolved/not stated": 80,
+        "explicit requirement": 8,
+        "discretionary/conditional": 1
+      }
+    },
+    {
+      "component": "same_product_dossier_site",
+      "counts": {
+        "explicit requirement": 44,
+        "unresolved/not stated": 45
+      }
+    },
+    {
+      "component": "report_completeness",
+      "counts": {
+        "explicit requirement": 16,
+        "unresolved/not stated": 55,
+        "discretionary/conditional": 18
+      }
+    },
+    {
+      "component": "nonpublic_reports",
+      "counts": {
+        "explicit requirement": 4,
+        "unresolved/not stated": 79,
+        "discretionary/conditional": 5,
+        "explicit waiver/not required": 1
+      }
+    },
+    {
+      "component": "accepted_redactions",
+      "counts": {
+        "unresolved/not stated": 84,
+        "discretionary/conditional": 5
+      }
+    },
+    {
+      "component": "public_report_sufficiency",
+      "counts": {
+        "explicit requirement": 4,
+        "unresolved/not stated": 52,
+        "outside pathway scope": 22,
+        "discretionary/conditional": 11
+      }
+    },
+    {
+      "component": "applicant_consent",
+      "counts": {
+        "unresolved/not stated": 80,
+        "discretionary/conditional": 8,
+        "explicit requirement": 1
+      }
+    },
+    {
+      "component": "reference_authority_permission",
+      "counts": {
+        "unresolved/not stated": 85,
+        "discretionary/conditional": 2,
+        "explicit requirement": 2
+      }
+    },
+    {
+      "component": "regulator_to_regulator_sharing",
+      "counts": {
+        "unresolved/not stated": 66,
+        "explicit requirement": 15,
+        "discretionary/conditional": 8
+      }
+    },
+    {
+      "component": "local_clinical_evidence",
+      "counts": {
+        "unresolved/not stated": 79,
+        "discretionary/conditional": 9,
+        "explicit requirement": 1
+      }
+    },
+    {
+      "component": "quality_gmp",
+      "counts": {
+        "unresolved/not stated": 64,
+        "discretionary/conditional": 6,
+        "explicit requirement": 19
+      }
+    },
+    {
+      "component": "scientific_assessment_retained",
+      "counts": {
+        "explicit requirement": 35,
+        "discretionary/conditional": 42,
+        "unresolved/not stated": 10,
+        "explicit waiver/not required": 2
+      }
+    },
+    {
+      "component": "local_representative",
+      "counts": {
+        "unresolved/not stated": 83,
+        "explicit requirement": 5,
+        "discretionary/conditional": 1
+      }
+    },
+    {
+      "component": "filing_fee",
+      "counts": {
+        "unresolved/not stated": 67,
+        "explicit requirement": 21,
+        "discretionary/conditional": 1
+      }
+    },
+    {
+      "component": "translation_legalization",
+      "counts": {
+        "unresolved/not stated": 77,
+        "explicit requirement": 12
+      }
+    },
+    {
+      "component": "cpp",
+      "counts": {
+        "unresolved/not stated": 75,
+        "explicit requirement": 14
+      }
+    },
+    {
+      "component": "clock",
+      "counts": {
+        "explicit requirement": 27,
+        "unresolved/not stated": 50,
+        "discretionary/conditional": 12
+      }
+    },
+    {
+      "component": "domestic_discretion",
+      "counts": {
+        "discretionary/conditional": 39,
+        "unresolved/not stated": 48,
+        "explicit requirement": 2
+      }
+    }
+  ],
+  "case_counts": {
+    "A": {
+      "explicitly ineligible for identified full-report route": 9,
+      "condition established but full eligibility unresolved": 40,
+      "outside selected MRP pathway on fixed facts": 17,
+      "outside selected recognition pathway on fixed facts": 1,
+      "discretionary/conditional": 14,
+      "outside selected regional MRP pathway on fixed facts": 1,
+      "unresolved": 4,
+      "outside pathway scope": 3
+    },
+    "B": {
+      "condition established but full eligibility unresolved": 43,
+      "outside selected MRP pathway on fixed facts": 17,
+      "outside selected recognition pathway on fixed facts": 1,
+      "discretionary/conditional": 20,
+      "outside selected regional MRP pathway on fixed facts": 1,
+      "unresolved": 4,
+      "outside pathway scope": 3
+    },
+    "C": {
+      "condition established but full eligibility unresolved": 42,
+      "outside selected MRP pathway on fixed facts": 17,
+      "outside selected recognition pathway on fixed facts": 1,
+      "discretionary/conditional": 17,
+      "nonpublic-sharing option impeded; public alternative unresolved": 1,
+      "outside selected regional MRP pathway on fixed facts": 1,
+      "unresolved": 4,
+      "unresolved across alternative references": 1,
+      "outside pathway scope": 3,
+      "unresolved consent-gate ambiguity": 1,
+      "discretionary/conditional; full-sharing option impeded": 1
+    },
+    "D": {
+      "condition established but full eligibility unresolved": 41,
+      "outside selected MRP pathway on fixed facts": 17,
+      "outside selected recognition pathway on fixed facts": 1,
+      "discretionary/conditional": 19,
+      "nonpublic-sharing option impeded; public alternative unresolved": 1,
+      "confidential-sharing condition fails; alternative public-material route unresolved": 1,
+      "outside selected regional MRP pathway on fixed facts": 1,
+      "unresolved": 4,
+      "outside pathway scope": 3,
+      "discretionary/conditional; full-sharing option impeded": 1
+    },
+    "E": {
+      "condition established but full eligibility unresolved": 27,
+      "outside selected MRP pathway on fixed facts": 17,
+      "outside selected recognition pathway on fixed facts": 4,
+      "verification threshold fails; abridged eligibility unresolved": 1,
+      "explicitly ineligible for identified two-country shortcut": 1,
+      "outside selected shared authorisation pathway": 7,
+      "condition established for abridged alternative; verification threshold fails": 1,
+      "discretionary/conditional": 14,
+      "condition established for RouteB; RouteA threshold fails": 1,
+      "outside selected regional MRP pathway on fixed facts": 1,
+      "outside selected EU-based shorter assessment on fixed facts": 1,
+      "explicitly ineligible for selected route": 2,
+      "discretionary/conditional via abridged alternative; verification fails": 3,
+      "unresolved": 5,
+      "explicitly ineligible for identified two-reference new-API route": 1,
+      "outside pathway scope": 3
+    }
+  },
+  "adjudicated_counts": {
+    "complete_report_gate": 9,
+    "nonpublic_report_or_public_domain_exclusion": 2,
+    "second_approval_selected_route": 10,
+    "one_approval_alternative_described": 6,
+    "ambiguous_additional_full_report_gate": 1
+  },
+  "sensitivity": [
+    {
+      "sample": "All selected national pathways",
+      "n": 89,
+      "complete_report_gate": 9,
+      "nonpublic_report_or_public_domain_exclusion": 2,
+      "second_approval_selected_route": 10,
+      "one_approval_alternative_described": 6,
+      "ambiguous_additional_full_report_gate": 1
+    },
+    {
+      "sample": "Excluding identified European shared-system family",
+      "n": 62,
+      "complete_report_gate": 9,
+      "nonpublic_report_or_public_domain_exclusion": 2,
+      "second_approval_selected_route": 10,
+      "one_approval_alternative_described": 6,
+      "ambiguous_additional_full_report_gate": 1
+    },
+    {
+      "sample": "Official English source",
+      "n": 57,
+      "complete_report_gate": 8,
+      "nonpublic_report_or_public_domain_exclusion": 1,
+      "second_approval_selected_route": 7,
+      "one_approval_alternative_described": 5,
+      "ambiguous_additional_full_report_gate": 1
+    },
+    {
+      "sample": "Original non-English sources",
+      "n": 32,
+      "complete_report_gate": 1,
+      "nonpublic_report_or_public_domain_exclusion": 1,
+      "second_approval_selected_route": 3,
+      "one_approval_alternative_described": 1,
+      "ambiguous_additional_full_report_gate": 0
+    }
+  ],
+  "input_sha256": {
+    "primary_country_comparison.json": "b25e3cba14f06ac8f1f7e9f8be8c8f02b4f38e30f75925f980094faaee68a654",
+    "comparison_adjudication.json": "200035706e18e795b7865a5ec89477839a270d107770b01fc27f363e470160fc"
+  },
+  "note": "Reproduced descriptive counts, not causal effects or independent legal recoding."
+}

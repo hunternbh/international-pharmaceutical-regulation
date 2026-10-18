@@ -130,5 +130,599 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SWE",
+    "country": "Sweden",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition",
+    "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lakemedelslag-2015315_sfs-2015-315/",
+    "document_id": "F250_a13455f9be6311d46992_fadc696a4a8c",
+    "genre": "Official consolidated statute",
+    "language": "sv",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Swedish Medicines Act chapter 4 section 6 targeted contextual reading. EEA national recognition, not FDA recognition. Original Swedish reviewed; no checked full English analysis text. Centralized EMA authorization is not another EEA state’s national authorization.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Another EEA country’s authorization.",
+        "evidence_ids": [
+          "SWE-R01"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Shall recognize on application unless serious public-health risk; herbal limits separate.",
+        "evidence_ids": [
+          "SWE-R01"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Serious-public-health-risk exception and Commission dispute decisions.",
+        "evidence_ids": [
+          "SWE-R01"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SWE-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SWE-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SWE-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SWE-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SWE-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": null,
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "passage_id": "SWE-R01",
+        "source_document_id": "F250_a13455f9be6311d46992_fadc696a4a8c",
+        "evidence_role": "Selected primary document",
+        "section_article": "Chapter 4 section 6",
+        "pdf_page": null,
+        "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lakemedelslag-2015315_sfs-2015-315/",
+        "raw_sha256": "fadc696a4a8cff49c084db1f091248d6fd3688cf4ac875e253518da22e2e6120",
+        "text_sha256": "e11cd5e36621df604e9c7925d091164422ec925fb73f744e7517eb8d65c9bef1",
+        "exact_text": "Erkännande av ett godkännande eller en registrering av ett humanläkemedel som har meddelats i ett annat EES-land\n6 §\nEtt godkännande eller en registrering för försäljning av ett humanläkemedel som har meddelats i ett annat EES-land ska efter ansökan erkännas i Sverige, om det saknas anledning att anta att läkemedlet skulle kunna innebära en allvarlig folkhälsorisk.\nI fråga om ett traditionellt växtbaserat humanläkemedel som kan registreras enligt denna lag gäller första stycket endast om en gemenskapsmonografi har utarbetats över läkemedlet eller om det består av material eller beredningar som finns upptagna i en förteckning upprättad av Europeiska kommissionen.\nOm Europeiska kommissionen meddelat beslut i enlighet med artikel 34.1 i Europaparlamentets och rådets direktiv 2001/83/EG av den 6 november 2001 om upprättande av gemenskapsregler för humanläkemedel, i lydelsen enligt Europaparlamentets och rådets direktiv 2004/27/EG, ska Läkemedelsverket meddela det beslut som följer av kommissionens avgörande. Motsvarande ska gälla i de fall kommissionen meddelat beslut i enlighet med artikel 35.2 i direktivet, i den ursprungliga lydelsen.\n",
+        "start": 18028,
+        "end": 19180,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "SWE",
+      "country": "Sweden",
+      "selected_document_id": "F250_a13455f9be6311d46992_fadc696a4a8c",
+      "source_id": "F250_a13455f9be6311d46992",
+      "pathway": "EU/EEA mutual recognition",
+      "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lakemedelslag-2015315_sfs-2015-315/",
+      "document_title": "Swedish Medicinal Products Act 2015:315, chapter 4 section 6",
+      "source_type": "Official consolidated statute",
+      "scope": "Human-medicine authorisation",
+      "language": "sv",
+      "translation_provenance": [
+        {
+          "SWE-R01": null
+        }
+      ],
+      "raw_sha256": "fadc696a4a8cff49c084db1f091248d6fd3688cf4ac875e253518da22e2e6120",
+      "raw_hash_validated": true,
+      "text_sha256": "e11cd5e36621df604e9c7925d091164422ec925fb73f744e7517eb8d65c9bef1",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "Swedish Medicines Act chapter 4 section 6 targeted contextual reading. EEA national recognition, not FDA recognition. Original Swedish reviewed; no checked full English analysis text. Centralized EMA authorization is not another EEA state’s national authorization.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          18028,
+          19180
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Another EEA country’s authorization.",
+          "evidence_ids": [
+            "SWE-R01"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Shall recognize on application unless serious public-health risk; herbal limits separate.",
+          "evidence_ids": [
+            "SWE-R01"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Serious-public-health-risk exception and Commission dispute decisions.",
+          "evidence_ids": [
+            "SWE-R01"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SWE-R01"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SWE-R01"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SWE-R01"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SWE-R01"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SWE-R01"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "SWE-R01",
+          "source_document_id": "F250_a13455f9be6311d46992_fadc696a4a8c",
+          "evidence_role": "Selected primary document",
+          "section_article": "Chapter 4 section 6",
+          "pdf_page": null,
+          "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lakemedelslag-2015315_sfs-2015-315/",
+          "raw_sha256": "fadc696a4a8cff49c084db1f091248d6fd3688cf4ac875e253518da22e2e6120",
+          "text_sha256": "e11cd5e36621df604e9c7925d091164422ec925fb73f744e7517eb8d65c9bef1",
+          "exact_text": "Erkännande av ett godkännande eller en registrering av ett humanläkemedel som har meddelats i ett annat EES-land\n6 §\nEtt godkännande eller en registrering för försäljning av ett humanläkemedel som har meddelats i ett annat EES-land ska efter ansökan erkännas i Sverige, om det saknas anledning att anta att läkemedlet skulle kunna innebära en allvarlig folkhälsorisk.\nI fråga om ett traditionellt växtbaserat humanläkemedel som kan registreras enligt denna lag gäller första stycket endast om en gemenskapsmonografi har utarbetats över läkemedlet eller om det består av material eller beredningar som finns upptagna i en förteckning upprättad av Europeiska kommissionen.\nOm Europeiska kommissionen meddelat beslut i enlighet med artikel 34.1 i Europaparlamentets och rådets direktiv 2001/83/EG av den 6 november 2001 om upprättande av gemenskapsregler för humanläkemedel, i lydelsen enligt Europaparlamentets och rådets direktiv 2004/27/EG, ska Läkemedelsverket meddela det beslut som följer av kommissionens avgörande. Motsvarande ska gälla i de fall kommissionen meddelat beslut i enlighet med artikel 35.2 i direktivet, i den ursprungliga lydelsen.\n",
+          "start": 18028,
+          "end": 19180,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

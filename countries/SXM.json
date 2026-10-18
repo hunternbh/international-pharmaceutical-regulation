@@ -172,5 +172,98 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SXM",
+    "country": "Sint Maarten (Dutch part)",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "import_and_dispensing",
+    "fixed_case_scope_status": "outside_full_authorisation_scope",
+    "finding": "The source maps foreign dispensing categories after special import permission. That function differs from granting initial safety/efficacy authorization.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "outside selected route/function",
+        "finding": "The source maps foreign dispensing categories after special import permission. That function differs from granting initial safety/efficacy authorization."
+      },
+      "B": {
+        "status": "outside selected route/function",
+        "finding": "The source maps foreign dispensing categories after special import permission. That function differs from granting initial safety/efficacy authorization."
+      },
+      "C": {
+        "status": "outside selected route/function",
+        "finding": "The source maps foreign dispensing categories after special import permission. That function differs from granting initial safety/efficacy authorization."
+      },
+      "D": {
+        "status": "outside selected route/function",
+        "finding": "The source maps foreign dispensing categories after special import permission. That function differs from granting initial safety/efficacy authorization."
+      },
+      "E": {
+        "status": "outside selected route/function",
+        "finding": "The source maps foreign dispensing categories after special import permission. That function differs from granting initial safety/efficacy authorization."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "SXM-Q01",
+        "source_url": "https://www.sintmaartengov.org/Documents/Official%20Publications/AB%202022%2C%20no.%2012%20Lbham%20tot%20wijziging%20van%20enkele%20lbham%20met%20betrekking%20tot%20aflevering%20en%20vergoeding%20van%20geneesmiddelen.pdf",
+        "raw_sha256": "e039a0f29728b4c6ffea8105b732db5c6f335091c4f7bb310a53c950a5395fa8",
+        "text_sha256": "238930ce7e72ad56b2e49cad71ef0330079c5e1572a343b51dafef84ef6ac61a",
+        "start_offset": 3402,
+        "end_offset": 4344,
+        "verbatim_extracted_text": "2. Indien ongeregistreerde verpakte geneesmiddelen worden ingevoerd \nkrachtens schriftelijke toestemming van de Inspecteur-Generaal, bedoeld \nin artikel 2, tweede lid, onderdeel b, wordt het geneesmiddel door de \nInspecteur-Generaal ingedeeld in een van de in het eerste lid bedoelde \ncategorieën die het best vergelijkbaar is met de categorie waarin het \ngeneesmiddel is ingedeeld in het land van waaruit het wordt ingevoerd. \nIndien dat land Nederland is, worden geneesmiddelen die in Nederland zijn \ningedeeld in de categorie UR ingedeeld in de overeenkomstige categorie \nbedoeld in het eerste lid, onderdeel a. Geneesmiddelen die in Nederland \nzijn ingedeeld in de categorieën UA en UAD worden ingedeeld in de \ncategorie UA-geneesmiddelen bedoeld in het eerste lid, onderdeel b. \nGeneesmiddelen die in Nederland zijn ingedeeld in de categorie AV worden \ningedeeld in de categorie VV-geneesmiddelen bedoeld in het eerste lid, \nonderdeel c.",
+        "pdf_page": 2,
+        "language": "nl",
+        "language_status": "Official original-language source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "AB 2022 no.12, decree 28 February 2022, Article I(G) amending Article 11",
+        "translation_review": {
+          "id": "SXM-Q01",
+          "source_language": "nl",
+          "source_text": "2. Indien ongeregistreerde verpakte geneesmiddelen worden ingevoerd \nkrachtens schriftelijke toestemming van de Inspecteur-Generaal, bedoeld \nin artikel 2, tweede lid, onderdeel b, wordt het geneesmiddel door de \nInspecteur-Generaal ingedeeld in een van de in het eerste lid bedoelde \ncategorieën die het best vergelijkbaar is met de categorie waarin het \ngeneesmiddel is ingedeeld in het land van waaruit het wordt ingevoerd. \nIndien dat land Nederland is, worden geneesmiddelen die in Nederland zijn \ningedeeld in de categorie UR ingedeeld in de overeenkomstige categorie \nbedoeld in het eerste lid, onderdeel a. Geneesmiddelen die in Nederland \nzijn ingedeeld in de categorieën UA en UAD worden ingedeeld in de \ncategorie UA-geneesmiddelen bedoeld in het eerste lid, onderdeel b. \nGeneesmiddelen die in Nederland zijn ingedeeld in de categorie AV worden \ningedeeld in de categorie VV-geneesmiddelen bedoeld in het eerste lid, \nonderdeel c.",
+          "document_id": "5a9731b3a43282f4db41",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "nl",
+            "model_version": "1.8",
+            "model_url": "https://argos-net.com/v1/translate-nl_en-1_8.argosmodel",
+            "model_sha256": "f49ac90c5812e0cb86a2858f4cfa61accec8709612728e6f805f0771c9a91e0e",
+            "model_bytes": 69944805,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.8",
+              "argos_version": "1.8",
+              "from_code": "nl",
+              "from_name": "Dutch",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "80a2c7616fb7a2264960be063d7685f4d542eff0c0df26d155b13125229ed51c",
+          "translated_utc": "2026-10-18T00:50:39.777687+00:00",
+          "source_characters": 942,
+          "segments": 5,
+          "raw_machine_translation": "2.  If unregistered packaged medicinal products are imported by written consent of the Inspector General referred to in Article 2 (2) (b), the medicinal product shall be classified by the Inspector General in one of the categories referred to in paragraph 1 which is best comparable to the category in which the medicinal product is classified in the country from which it is imported.  If that country is the Netherlands, medicinal products classified in the Netherlands in the UR category shall be classified in the corresponding category referred to in paragraph 1 (a).  Medicinal products classified in the Netherlands in categories UA and UAD are classified in the category UA medicinal products referred to in paragraph 1 (b).  Medicinal products classified in the Netherlands as AV category are classified in the VV category of medicinal products referred to in paragraph 1 (c).",
+          "checked_translation": "2. Where unregistered packaged medicines are imported with the written permission of the Inspector-General referred to in Article 2(2)(b), the Inspector-General classifies them in the category under paragraph 1 most comparable to the classification in the country of import origin. If that country is the Netherlands, Dutch UR medicines enter the corresponding category under paragraph 1(a); Dutch UA and UAD medicines enter the UA category under paragraph 1(b); Dutch AV medicines enter the VV category under paragraph 1(c).",
+          "check_note": "Checked prior written import permission, categorisation function and UR/UA/UAD/AV to UR/UA/VV mapping. Does not grant marketing authorisation.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.129613+00:00"
+        }
+      }
+    ],
+    "source_scope": "Prescription/OTC classification of authorised unregistered imports; not initial marketing approval",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

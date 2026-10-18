@@ -185,5 +185,668 @@
     "source_hashes": [
       "c3ce92aa9f22b3a642e0cf270821ce6914f991b23fd07ca29497fec6fa680f5b"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "NOR",
+    "country": "Norway",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition",
+    "source_url": "https://www.dmp.no/en/approval-of-medicines/approval-and-follow-up-of-marketing-authorisation-ma/application-for-marketing-authorisation/gjensidig-anerkjennelsesprosedyre-mrp",
+    "document_id": "F250_bbf62fbff5d6082368aa_c462f76b4975",
+    "genre": "Official procedure guidance",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "DMP official explanatory MRP webpage, not a full consolidated law. MRP requires existing National Procedure authorization in another EU/EEA country. EMA centralized approval is a distinct shared procedure, not the qualifying national MRP authorization.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "EU/EEA national reference Member State.",
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "One existing national EU/EEA authorization, not FDA approval.",
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Dossier must be updated; outstanding variations resolved before request.",
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "explicit requirement",
+        "finding": "Reference Member State updates assessment report.",
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Request forms and relevant attachments; a fee is not established by this passage.",
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "RMS request at least three months before preferred starting date; not total review time.",
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NOR-WEB01",
+          "NOR-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": null,
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "passage_id": "NOR-WEB01",
+        "source_document_id": "F250_bbf62fbff5d6082368aa_c462f76b4975",
+        "evidence_role": "Selected primary document",
+        "section_article": "MRP eligibility, dossier updating and Norway as RMS",
+        "pdf_page": null,
+        "source_url": "https://www.dmp.no/en/approval-of-medicines/approval-and-follow-up-of-marketing-authorisation-ma/application-for-marketing-authorisation/gjensidig-anerkjennelsesprosedyre-mrp",
+        "raw_sha256": "c462f76b4975370f5ff1ef6f5c225167c1c44798c3f396adbc301d20f2f0c8b9",
+        "text_sha256": "25418573d4cd3f92fe95e5b5a420a2ea5b527c599017c97dff5bedcdb5d4d48c",
+        "exact_text": "The mutual recognition procedure can be used when a medicinal product is already approved in an EU/EEA country and the MAH wants to get the product approved in additional countries within the EU or Iceland, Liechtenstein and Norway.\nPage contents\nFor a medicinal product which is already approved through the National Procedure (NP), the Mutual Recognition Procedure (MRP) can be used to expand the registration to one or more other countries (Concerned Member States, CMS).\nFor a product which has been approved through the decentralised procedure (DCP) or which has undergone MRP, the corresponding procedure to include additional CMS is called Repeat Use Procedure (RUP) for human medicines and Subsequent Recognition Procedure (SRP) for veterinary medicines.\nUpdate the dossier if needed\nIt is important that applicants, before submitting the request, consider whether any variations need to be submitted to update the dossier for it to comply with current legislation and guidelines.\nPlease note that any variations must be approved before the request is submitted. If there are ongoing variations, the request will not be further handled until these have been approved. No variations may be ongoing in parallel with the update of the assessment report.\nNorway as RMS in an MRP/RUP/SRP\nThe request must be submitted at least three months before the preferred starting date of the procedure. Applicants do not need to book a time slot in advance. The request is considered valid when there are no ongoing variations, and all relevant attachments have been submitted.\nUpon receipt of a valid request, the DMP can start/begin updating the assessment report.\nApplicants are asked to use the standard CMDh/v request forms.\nRequest form(s) for MRP/RUP for medicinal products for human use:\nRequest for MRP/RUP/Updated assessment report\nAppendix 1 to Request for MRP/RUP for Medicinal Products for Human Use\nRequest form for Norway as RMS in an MRP/SRP for medicinal products for veterinary use:\nApplicant`s template for request to Member States to act as RMS in MRP, SRP or DCP\nSubmission of the CMDh/v request form:\nand relevant attachments as detailed in the form are sent via email to: mt@noma.no\nWrite \"<MRP><RUP><SRP> RMS request\" in the header of the email.\n",
+        "start": 117,
+        "end": 2380,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "NOR-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.dmp.no/en/approval-of-medicines/approval-and-follow-up-of-marketing-authorisation-ma/application-for-marketing-authorisation/gjensidig-anerkjennelsesprosedyre-mrp",
+        "raw_sha256": "c462f76b4975370f5ff1ef6f5c225167c1c44798c3f396adbc301d20f2f0c8b9",
+        "text_sha256": "25418573d4cd3f92fe95e5b5a420a2ea5b527c599017c97dff5bedcdb5d4d48c",
+        "exact_text": "Marketing Authorisation Application under the Mutual Recognition Procedure (MRP)\nPublished:\n27/05/2026\nChanges\nClose\nThe mutual recognition procedure can be used when a medicinal product is already approved in an EU/EEA country and the MAH wants to get the product approved in additional countries within the EU or Iceland, Liechtenstein and Norway.\nPage contents\nFor a medicinal product which is already approved through the National Procedure (NP), the Mutual Recognition Procedure (MRP) can be used to expand the registration to one or more other countries (Concerned Member States, CMS).\nFor a product which has been approved through the decentralised procedure (DCP) or which has undergone MRP, the corresponding procedure to include additional CMS is called Repeat Use Procedure (RUP) for human medicines and Subsequent Recognition Procedure (SRP) for veterinary medicines.\nUpdate the dossier if needed\nIt is important that applicants, before submitting the request, consider whether any variations need to be submitted to update the dossier for it to comply with current legislation and guidelines.\nPlease note that any variations must be approved before the request is submitted. If there are ongoing variations, the request will not be further handled until these have been approved. No variations may be ongoing in parallel with the update of the assessment report.\nNorway as RMS in an MRP/RUP/SRP\nThe request must be submitted at least three months before the preferred starting date of the procedure. Applicants do not need to book a time slot in advance. The request is considered valid when there are no ongoing variations, and all relevant attachments have been submitted.\nUpon receipt of a valid request, the DMP can start/begin updating the assessment report.\nApplicants are asked to use the standard CMDh/v request forms.\nRequest form(s) for MRP/RUP for medicinal products for human use:\nRequest for MRP/RUP/Updated assessment report\nAppendix 1 to Request for MRP/RUP for Medicinal Products for Human Use\nRequest form for Norway as RMS in an MRP/SRP for medicinal products for veterinary use:\nApplicant`s template for request to Member States to act as RMS in MRP, SRP or DCP\nSubmission of the CMDh/v request form:\nand relevant attachments as detailed in the form are sent via email to: mt@noma.no\nWrite \"<MRP><RUP><SRP> RMS request\" in the header of the email.\nMore information\nApplications for Marketing Autorisation- Human Medicines\nApplication for MA - MRP/RUP - Human Medicines\nApplications for Marketing Authorisation - Veterinary Medicines\nBest practice guide for veterinary mutual recognition procedure\nBest practice guide for subsequent recognition procedure\nContact us\nUnit for regulatory affairs before MA\n(+47) 22 89 77 00\nmt@noma.no\nPrint\nFeedback form\nDid you find what you were looking for?\nYes\nNo\nTo be able to provide feedback, you must accept the use of functional cookies.\nSettings for consent\nDescribe what you did not find\nDescribe what you did not find\n0/255 characters\nI confirm that I do not submit any personal information, e.g. name, telephone number or email address.\nCancel\nClicking this button will cancel the form submission and reset any changes made.",
+        "start": 0,
+        "end": 3200,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "NOR",
+      "country": "Norway",
+      "selected_document_id": "F250_bbf62fbff5d6082368aa_c462f76b4975",
+      "source_id": "F250_bbf62fbff5d6082368aa",
+      "pathway": "EU/EEA mutual recognition",
+      "source_url": "https://www.dmp.no/en/approval-of-medicines/approval-and-follow-up-of-marketing-authorisation-ma/application-for-marketing-authorisation/gjensidig-anerkjennelsesprosedyre-mrp",
+      "document_title": "DMP: mutual recognition procedure",
+      "source_type": "Official procedure guidance",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "NOR-WEB01": null
+        }
+      ],
+      "raw_sha256": "c462f76b4975370f5ff1ef6f5c225167c1c44798c3f396adbc301d20f2f0c8b9",
+      "raw_hash_validated": true,
+      "text_sha256": "25418573d4cd3f92fe95e5b5a420a2ea5b527c599017c97dff5bedcdb5d4d48c",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "DMP official explanatory MRP webpage, not a full consolidated law. MRP requires existing National Procedure authorization in another EU/EEA country. EMA centralized approval is a distinct shared procedure, not the qualifying national MRP authorization.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          117,
+          2380
+        ],
+        [
+          0,
+          3200
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "EU/EEA national reference Member State.",
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "One existing national EU/EEA authorization, not FDA approval.",
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Dossier must be updated; outstanding variations resolved before request.",
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "explicit requirement",
+          "finding": "Reference Member State updates assessment report.",
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Request forms and relevant attachments; a fee is not established by this passage.",
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "RMS request at least three months before preferred starting date; not total review time.",
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NOR-WEB01",
+            "NOR-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "NOR-WEB01",
+          "source_document_id": "F250_bbf62fbff5d6082368aa_c462f76b4975",
+          "evidence_role": "Selected primary document",
+          "section_article": "MRP eligibility, dossier updating and Norway as RMS",
+          "pdf_page": null,
+          "source_url": "https://www.dmp.no/en/approval-of-medicines/approval-and-follow-up-of-marketing-authorisation-ma/application-for-marketing-authorisation/gjensidig-anerkjennelsesprosedyre-mrp",
+          "raw_sha256": "c462f76b4975370f5ff1ef6f5c225167c1c44798c3f396adbc301d20f2f0c8b9",
+          "text_sha256": "25418573d4cd3f92fe95e5b5a420a2ea5b527c599017c97dff5bedcdb5d4d48c",
+          "exact_text": "The mutual recognition procedure can be used when a medicinal product is already approved in an EU/EEA country and the MAH wants to get the product approved in additional countries within the EU or Iceland, Liechtenstein and Norway.\nPage contents\nFor a medicinal product which is already approved through the National Procedure (NP), the Mutual Recognition Procedure (MRP) can be used to expand the registration to one or more other countries (Concerned Member States, CMS).\nFor a product which has been approved through the decentralised procedure (DCP) or which has undergone MRP, the corresponding procedure to include additional CMS is called Repeat Use Procedure (RUP) for human medicines and Subsequent Recognition Procedure (SRP) for veterinary medicines.\nUpdate the dossier if needed\nIt is important that applicants, before submitting the request, consider whether any variations need to be submitted to update the dossier for it to comply with current legislation and guidelines.\nPlease note that any variations must be approved before the request is submitted. If there are ongoing variations, the request will not be further handled until these have been approved. No variations may be ongoing in parallel with the update of the assessment report.\nNorway as RMS in an MRP/RUP/SRP\nThe request must be submitted at least three months before the preferred starting date of the procedure. Applicants do not need to book a time slot in advance. The request is considered valid when there are no ongoing variations, and all relevant attachments have been submitted.\nUpon receipt of a valid request, the DMP can start/begin updating the assessment report.\nApplicants are asked to use the standard CMDh/v request forms.\nRequest form(s) for MRP/RUP for medicinal products for human use:\nRequest for MRP/RUP/Updated assessment report\nAppendix 1 to Request for MRP/RUP for Medicinal Products for Human Use\nRequest form for Norway as RMS in an MRP/SRP for medicinal products for veterinary use:\nApplicant`s template for request to Member States to act as RMS in MRP, SRP or DCP\nSubmission of the CMDh/v request form:\nand relevant attachments as detailed in the form are sent via email to: mt@noma.no\nWrite \"<MRP><RUP><SRP> RMS request\" in the header of the email.\n",
+          "start": 117,
+          "end": 2380,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "NOR-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.dmp.no/en/approval-of-medicines/approval-and-follow-up-of-marketing-authorisation-ma/application-for-marketing-authorisation/gjensidig-anerkjennelsesprosedyre-mrp",
+          "raw_sha256": "c462f76b4975370f5ff1ef6f5c225167c1c44798c3f396adbc301d20f2f0c8b9",
+          "text_sha256": "25418573d4cd3f92fe95e5b5a420a2ea5b527c599017c97dff5bedcdb5d4d48c",
+          "exact_text": "Marketing Authorisation Application under the Mutual Recognition Procedure (MRP)\nPublished:\n27/05/2026\nChanges\nClose\nThe mutual recognition procedure can be used when a medicinal product is already approved in an EU/EEA country and the MAH wants to get the product approved in additional countries within the EU or Iceland, Liechtenstein and Norway.\nPage contents\nFor a medicinal product which is already approved through the National Procedure (NP), the Mutual Recognition Procedure (MRP) can be used to expand the registration to one or more other countries (Concerned Member States, CMS).\nFor a product which has been approved through the decentralised procedure (DCP) or which has undergone MRP, the corresponding procedure to include additional CMS is called Repeat Use Procedure (RUP) for human medicines and Subsequent Recognition Procedure (SRP) for veterinary medicines.\nUpdate the dossier if needed\nIt is important that applicants, before submitting the request, consider whether any variations need to be submitted to update the dossier for it to comply with current legislation and guidelines.\nPlease note that any variations must be approved before the request is submitted. If there are ongoing variations, the request will not be further handled until these have been approved. No variations may be ongoing in parallel with the update of the assessment report.\nNorway as RMS in an MRP/RUP/SRP\nThe request must be submitted at least three months before the preferred starting date of the procedure. Applicants do not need to book a time slot in advance. The request is considered valid when there are no ongoing variations, and all relevant attachments have been submitted.\nUpon receipt of a valid request, the DMP can start/begin updating the assessment report.\nApplicants are asked to use the standard CMDh/v request forms.\nRequest form(s) for MRP/RUP for medicinal products for human use:\nRequest for MRP/RUP/Updated assessment report\nAppendix 1 to Request for MRP/RUP for Medicinal Products for Human Use\nRequest form for Norway as RMS in an MRP/SRP for medicinal products for veterinary use:\nApplicant`s template for request to Member States to act as RMS in MRP, SRP or DCP\nSubmission of the CMDh/v request form:\nand relevant attachments as detailed in the form are sent via email to: mt@noma.no\nWrite \"<MRP><RUP><SRP> RMS request\" in the header of the email.\nMore information\nApplications for Marketing Autorisation- Human Medicines\nApplication for MA - MRP/RUP - Human Medicines\nApplications for Marketing Authorisation - Veterinary Medicines\nBest practice guide for veterinary mutual recognition procedure\nBest practice guide for subsequent recognition procedure\nContact us\nUnit for regulatory affairs before MA\n(+47) 22 89 77 00\nmt@noma.no\nPrint\nFeedback form\nDid you find what you were looking for?\nYes\nNo\nTo be able to provide feedback, you must accept the use of functional cookies.\nSettings for consent\nDescribe what you did not find\nDescribe what you did not find\n0/255 characters\nI confirm that I do not submit any personal information, e.g. name, telephone number or email address.\nCancel\nClicking this button will cancel the form submission and reset any changes made.",
+          "start": 0,
+          "end": 3200,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "NOR-SUP-c3ce92aa-160",
+          "source_url": "https://www.dmp.no/godkjenning/godkjenning-og-oppfolging-av-markedsforingstillatelse/soknad-om-markedsforingstillatelse/gjensidig-anerkjennelsesprosedyre-mrp",
+          "section_article": "MRP eligibility and dossier update",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

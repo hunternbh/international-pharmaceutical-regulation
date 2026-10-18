@@ -131,5 +131,629 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "PRT",
+    "country": "Portugal",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Public-health authorisation using an existing Member State approval",
+    "source_url": "https://dgsl.pt/legislacao/decreto-lei_128-2013/artigo/anexo-ii-93",
+    "document_id": "F250_4e8321987054a5aaa741_1f5c5662f2aa",
+    "genre": "Statutory provision reproduced by legal publisher",
+    "language": "pt",
+    "scope": "Exceptional public-health marketing authorisation; medicines already authorised in another Member State",
+    "version_note": "Preserved Article 93, in force version shown since 5 September 2013. Exceptional authorization for justified public-health reasons, not a general route. Nonemergency does not itself prove absence of a justified public-health need; that additional fact is unresolved.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "discretionary/conditional",
+        "finding": "Competent authority of EU Member State with existing authorization.",
+        "evidence_ids": [
+          "PRT-R01",
+          "PRT-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "discretionary/conditional",
+        "finding": "INFARMED may request updated foreign assessment report and authorization.",
+        "evidence_ids": [
+          "PRT-R01",
+          "PRT-CTX-1"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "May refuse if safety, efficacy or quality inadequately demonstrated.",
+        "evidence_ids": [
+          "PRT-R01",
+          "PRT-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Justified public-health grounds required; authority may authorize.",
+        "evidence_ids": [
+          "PRT-R01",
+          "PRT-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PRT-R01",
+          "PRT-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PRT-R01",
+          "PRT-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PRT-R01",
+          "PRT-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PRT-R01",
+          "PRT-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PRT-R01",
+          "PRT-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": null,
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "passage_id": "PRT-R01",
+        "source_document_id": "F250_4e8321987054a5aaa741_1f5c5662f2aa",
+        "evidence_role": "Selected primary document",
+        "section_article": "Article 93",
+        "pdf_page": null,
+        "source_url": "https://dgsl.pt/legislacao/decreto-lei_128-2013/artigo/anexo-ii-93",
+        "raw_sha256": "1f5c5662f2aa6b2cae8aca8cd8fd4d7ed1de080bb20e0f8f2414c34eb736b1a9",
+        "text_sha256": "a2762466b698a0993026b6cefe150016dd2c44b18f14496f857cf558d0bda2f2",
+        "exact_text": "Artigo 93.º\n—\nAutorização de comercialização de medicamentos sem autorização ou registo válidos em Portugal\nVigente desde:\n05/09/2013\n1 -\nO INFARMED, I.P., pode autorizar, por razões fundamentadas de saúde pública, ainda que abrangidas pelo disposto no artigo anterior, a comercialização de medicamentos que não beneficiem de autorização ou registo válidos em Portugal ou que não tenham sido objeto de um pedido de autorização ou registo válido.\n2 -\nAntes de conceder a autorização prevista no número anterior, o INFARMED, I.P.:\na)\nNotifica o titular da autorização de introdução no mercado no Estado membro onde o medicamento em questão está autorizado do requerimento apresentado ao abrigo do número anterior, salvo se for o próprio;\nb)\nPode solicitar à autoridade competente do referido Estado membro uma cópia atualizada do relatório de avaliação e da autorização de introdução no mercado em vigor para o medicamento em questão.\n3 -\nA concessão ou a revogação de uma autorização ao abrigo do presente artigo é notificada à Comissão Europeia, acompanhada do nome ou firma e domicílio ou sede do titular da autorização.\n4 -\nNos casos previstos nas alíneas a) e b) do n.º 1 do artigo anterior ou de revogação, a pedido do titular, de uma autorização concedida anteriormente, considera-se preenchida a hipótese prevista na alínea c) do n.º 1 do artigo 107.º e no artigo 110.º, ambos do Código da Propriedade Industrial, aprovado pelo Decreto-Lei n.º 36/2003, de 5 de março.\n5 -\nO titular da autorização concedida ao abrigo do presente artigo assegura o respeito pelo disposto no presente decreto-lei, nomeadamente quanto à publicidade e à farmacovigilância, salvo regulamentação do INFARMED, I.P., adotada para os casos previstos no n.º 1 do artigo anterior ou para a rotulagem e folheto informativo.\n6 -\nSem prejuízo do disposto na lei relativa à responsabilidade civil do produtor, no caso previsto na alínea b) do n.º 1 do artigo anterior, os fabricantes, titulares das autorizações de introdução no mercado ou profissionais de saúde não são responsáveis, civil ou contraordenacionalmente, pela utilização dos medicamentos, quando tal utilização seja recomendada ou exigida pelas autoridades de saúde.\n7 -\nO INFARMED, I.P., define os requisitos, prazos e demais elementos a que devem obedecer os pedidos de autorização a que se referem os n.º s 1 e 2, os documentos com que os mesmos devem ser instruídos, bem como os elementos, documentação e registos que devem ser conservados pelas instituições de saúde e pelos requerentes.\n8 -\nO INFARMED, I.P., pode indeferir o pedido sempre que não estiver devidamente demonstrada a segurança, a eficácia ou a qualidade do medicamento, designadamente quanto às condições de aquisição ou de transporte do mesmo.\n",
+        "start": 0,
+        "end": 2754,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "PRT-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://dgsl.pt/legislacao/decreto-lei_128-2013/artigo/anexo-ii-93",
+        "raw_sha256": "1f5c5662f2aa6b2cae8aca8cd8fd4d7ed1de080bb20e0f8f2414c34eb736b1a9",
+        "text_sha256": "a2762466b698a0993026b6cefe150016dd2c44b18f14496f857cf558d0bda2f2",
+        "exact_text": "Artigo 93.º\n—\nAutorização de comercialização de medicamentos sem autorização ou registo válidos em Portugal\nVigente desde:\n05/09/2013\n1 -\nO INFARMED, I.P., pode autorizar, por razões fundamentadas de saúde pública, ainda que abrangidas pelo disposto no artigo anterior, a comercialização de medicamentos que não beneficiem de autorização ou registo válidos em Portugal ou que não tenham sido objeto de um pedido de autorização ou registo válido.\n2 -\nAntes de conceder a autorização prevista no número anterior, o INFARMED, I.P.:\na)\nNotifica o titular da autorização de introdução no mercado no Estado membro onde o medicamento em questão está autorizado do requerimento apresentado ao abrigo do número anterior, salvo se for o próprio;\nb)\nPode solicitar à autoridade competente do referido Estado membro uma cópia atualizada do relatório de avaliação e da autorização de introdução no mercado em vigor para o medicamento em questão.\n3 -\nA concessão ou a revogação de uma autorização ao abrigo do presente artigo é notificada à Comissão Europeia, acompanhada do nome ou firma e domicílio ou sede do titular da autorização.\n4 -\nNos casos previstos nas alíneas a) e b) do n.º 1 do artigo anterior ou de revogação, a pedido do titular, de uma autorização concedida anteriormente, considera-se preenchida a hipótese prevista na alínea c) do n.º 1 do artigo 107.º e no artigo 110.º, ambos do Código da Propriedade Industrial, aprovado pelo Decreto-Lei n.º 36/2003, de 5 de março.\n5 -\nO titular da autorização concedida ao abrigo do presente artigo assegura o respeito pelo disposto no presente decreto-lei, nomeadamente quanto à publicidade e à farmacovigilância, salvo regulamentação do INFARMED, I.P., adotada para os casos previstos no n.º 1 do artigo anterior ou para a rotulagem e folheto informativo.\n6 -\nSem prejuízo do disposto na lei relativa à responsabilidade civil do produtor, no caso previsto na alínea b) do n.º 1 do artigo anterior, os fabricantes, titulares das autorizações de introdução no mercado ou profissionais de saúde não são responsáveis, civil ou contraordenacionalmente, pela utilização dos medicamentos, quando tal utilização seja recomendada ou exigida pelas autoridades de saúde.\n7 -\nO INFARMED, I.P., define os requisitos, prazos e demais elementos a que devem obedecer os pedidos de autorização a que se referem os n.º s 1 e 2, os documentos com que os mesmos devem ser instruídos, bem como os elementos, documentação e registos que devem ser conservados pelas instituições de saúde e pelos requerentes.\n8 -\nO INFARMED, I.P., pode indeferir o pedido sempre que não estiver devidamente demonstrada a segurança, a eficácia ou a qualidade do medicamento, designadamente quanto às condições de aquisição ou de transporte do mesmo.\nComparar versões deste artigo",
+        "start": 0,
+        "end": 2783,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "PRT",
+      "country": "Portugal",
+      "selected_document_id": "F250_4e8321987054a5aaa741_1f5c5662f2aa",
+      "source_id": "F250_4e8321987054a5aaa741",
+      "pathway": "Public-health authorisation using an existing Member State approval",
+      "source_url": "https://dgsl.pt/legislacao/decreto-lei_128-2013/artigo/anexo-ii-93",
+      "document_title": "Portugal Decree-Law 128/2013, Annex II Article 93",
+      "source_type": "Statutory provision reproduced by legal publisher",
+      "scope": "Exceptional public-health marketing authorisation; medicines already authorised in another Member State",
+      "language": "pt",
+      "translation_provenance": [
+        {
+          "PRT-R01": null
+        }
+      ],
+      "raw_sha256": "1f5c5662f2aa6b2cae8aca8cd8fd4d7ed1de080bb20e0f8f2414c34eb736b1a9",
+      "raw_hash_validated": true,
+      "text_sha256": "a2762466b698a0993026b6cefe150016dd2c44b18f14496f857cf558d0bda2f2",
+      "version_dates": {
+        "effective_date_of_preserved_article_version": "2013-09-05"
+      },
+      "version_scope_note": "Preserved Article 93, in force version shown since 5 September 2013. Exceptional authorization for justified public-health reasons, not a general route. Nonemergency does not itself prove absence of a justified public-health need; that additional fact is unresolved.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          0,
+          2754
+        ],
+        [
+          0,
+          2783
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "discretionary/conditional",
+          "finding": "Competent authority of EU Member State with existing authorization.",
+          "evidence_ids": [
+            "PRT-R01",
+            "PRT-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "discretionary/conditional",
+          "finding": "INFARMED may request updated foreign assessment report and authorization.",
+          "evidence_ids": [
+            "PRT-R01",
+            "PRT-CTX-1"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "May refuse if safety, efficacy or quality inadequately demonstrated.",
+          "evidence_ids": [
+            "PRT-R01",
+            "PRT-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Justified public-health grounds required; authority may authorize.",
+          "evidence_ids": [
+            "PRT-R01",
+            "PRT-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PRT-R01",
+            "PRT-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PRT-R01",
+            "PRT-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PRT-R01",
+            "PRT-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PRT-R01",
+            "PRT-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PRT-R01",
+            "PRT-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "PRT-R01",
+          "source_document_id": "F250_4e8321987054a5aaa741_1f5c5662f2aa",
+          "evidence_role": "Selected primary document",
+          "section_article": "Article 93",
+          "pdf_page": null,
+          "source_url": "https://dgsl.pt/legislacao/decreto-lei_128-2013/artigo/anexo-ii-93",
+          "raw_sha256": "1f5c5662f2aa6b2cae8aca8cd8fd4d7ed1de080bb20e0f8f2414c34eb736b1a9",
+          "text_sha256": "a2762466b698a0993026b6cefe150016dd2c44b18f14496f857cf558d0bda2f2",
+          "exact_text": "Artigo 93.º\n—\nAutorização de comercialização de medicamentos sem autorização ou registo válidos em Portugal\nVigente desde:\n05/09/2013\n1 -\nO INFARMED, I.P., pode autorizar, por razões fundamentadas de saúde pública, ainda que abrangidas pelo disposto no artigo anterior, a comercialização de medicamentos que não beneficiem de autorização ou registo válidos em Portugal ou que não tenham sido objeto de um pedido de autorização ou registo válido.\n2 -\nAntes de conceder a autorização prevista no número anterior, o INFARMED, I.P.:\na)\nNotifica o titular da autorização de introdução no mercado no Estado membro onde o medicamento em questão está autorizado do requerimento apresentado ao abrigo do número anterior, salvo se for o próprio;\nb)\nPode solicitar à autoridade competente do referido Estado membro uma cópia atualizada do relatório de avaliação e da autorização de introdução no mercado em vigor para o medicamento em questão.\n3 -\nA concessão ou a revogação de uma autorização ao abrigo do presente artigo é notificada à Comissão Europeia, acompanhada do nome ou firma e domicílio ou sede do titular da autorização.\n4 -\nNos casos previstos nas alíneas a) e b) do n.º 1 do artigo anterior ou de revogação, a pedido do titular, de uma autorização concedida anteriormente, considera-se preenchida a hipótese prevista na alínea c) do n.º 1 do artigo 107.º e no artigo 110.º, ambos do Código da Propriedade Industrial, aprovado pelo Decreto-Lei n.º 36/2003, de 5 de março.\n5 -\nO titular da autorização concedida ao abrigo do presente artigo assegura o respeito pelo disposto no presente decreto-lei, nomeadamente quanto à publicidade e à farmacovigilância, salvo regulamentação do INFARMED, I.P., adotada para os casos previstos no n.º 1 do artigo anterior ou para a rotulagem e folheto informativo.\n6 -\nSem prejuízo do disposto na lei relativa à responsabilidade civil do produtor, no caso previsto na alínea b) do n.º 1 do artigo anterior, os fabricantes, titulares das autorizações de introdução no mercado ou profissionais de saúde não são responsáveis, civil ou contraordenacionalmente, pela utilização dos medicamentos, quando tal utilização seja recomendada ou exigida pelas autoridades de saúde.\n7 -\nO INFARMED, I.P., define os requisitos, prazos e demais elementos a que devem obedecer os pedidos de autorização a que se referem os n.º s 1 e 2, os documentos com que os mesmos devem ser instruídos, bem como os elementos, documentação e registos que devem ser conservados pelas instituições de saúde e pelos requerentes.\n8 -\nO INFARMED, I.P., pode indeferir o pedido sempre que não estiver devidamente demonstrada a segurança, a eficácia ou a qualidade do medicamento, designadamente quanto às condições de aquisição ou de transporte do mesmo.\n",
+          "start": 0,
+          "end": 2754,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "PRT-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://dgsl.pt/legislacao/decreto-lei_128-2013/artigo/anexo-ii-93",
+          "raw_sha256": "1f5c5662f2aa6b2cae8aca8cd8fd4d7ed1de080bb20e0f8f2414c34eb736b1a9",
+          "text_sha256": "a2762466b698a0993026b6cefe150016dd2c44b18f14496f857cf558d0bda2f2",
+          "exact_text": "Artigo 93.º\n—\nAutorização de comercialização de medicamentos sem autorização ou registo válidos em Portugal\nVigente desde:\n05/09/2013\n1 -\nO INFARMED, I.P., pode autorizar, por razões fundamentadas de saúde pública, ainda que abrangidas pelo disposto no artigo anterior, a comercialização de medicamentos que não beneficiem de autorização ou registo válidos em Portugal ou que não tenham sido objeto de um pedido de autorização ou registo válido.\n2 -\nAntes de conceder a autorização prevista no número anterior, o INFARMED, I.P.:\na)\nNotifica o titular da autorização de introdução no mercado no Estado membro onde o medicamento em questão está autorizado do requerimento apresentado ao abrigo do número anterior, salvo se for o próprio;\nb)\nPode solicitar à autoridade competente do referido Estado membro uma cópia atualizada do relatório de avaliação e da autorização de introdução no mercado em vigor para o medicamento em questão.\n3 -\nA concessão ou a revogação de uma autorização ao abrigo do presente artigo é notificada à Comissão Europeia, acompanhada do nome ou firma e domicílio ou sede do titular da autorização.\n4 -\nNos casos previstos nas alíneas a) e b) do n.º 1 do artigo anterior ou de revogação, a pedido do titular, de uma autorização concedida anteriormente, considera-se preenchida a hipótese prevista na alínea c) do n.º 1 do artigo 107.º e no artigo 110.º, ambos do Código da Propriedade Industrial, aprovado pelo Decreto-Lei n.º 36/2003, de 5 de março.\n5 -\nO titular da autorização concedida ao abrigo do presente artigo assegura o respeito pelo disposto no presente decreto-lei, nomeadamente quanto à publicidade e à farmacovigilância, salvo regulamentação do INFARMED, I.P., adotada para os casos previstos no n.º 1 do artigo anterior ou para a rotulagem e folheto informativo.\n6 -\nSem prejuízo do disposto na lei relativa à responsabilidade civil do produtor, no caso previsto na alínea b) do n.º 1 do artigo anterior, os fabricantes, titulares das autorizações de introdução no mercado ou profissionais de saúde não são responsáveis, civil ou contraordenacionalmente, pela utilização dos medicamentos, quando tal utilização seja recomendada ou exigida pelas autoridades de saúde.\n7 -\nO INFARMED, I.P., define os requisitos, prazos e demais elementos a que devem obedecer os pedidos de autorização a que se referem os n.º s 1 e 2, os documentos com que os mesmos devem ser instruídos, bem como os elementos, documentação e registos que devem ser conservados pelas instituições de saúde e pelos requerentes.\n8 -\nO INFARMED, I.P., pode indeferir o pedido sempre que não estiver devidamente demonstrada a segurança, a eficácia ou a qualidade do medicamento, designadamente quanto às condições de aquisição ou de transporte do mesmo.\nComparar versões deste artigo",
+          "start": 0,
+          "end": 2783,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

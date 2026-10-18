@@ -166,5 +166,91 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "BES",
+    "country": "Bonaire, Sint Eustatius and Saba",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "shared_register",
+    "fixed_case_scope_status": "shared_register_conditions_unresolved",
+    "finding": "The rule incorporates the Dutch register with exceptions. A register linkage is a shared territorial system, not evidence that any FDA-only drug gets an independent national reliance route.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The rule incorporates the Dutch register with exceptions. A register linkage is a shared territorial system, not evidence that any FDA-only drug gets an independent national reliance route."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The rule incorporates the Dutch register with exceptions. A register linkage is a shared territorial system, not evidence that any FDA-only drug gets an independent national reliance route."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The rule incorporates the Dutch register with exceptions. A register linkage is a shared territorial system, not evidence that any FDA-only drug gets an independent national reliance route."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The rule incorporates the Dutch register with exceptions. A register linkage is a shared territorial system, not evidence that any FDA-only drug gets an independent national reliance route."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The rule incorporates the Dutch register with exceptions. A register linkage is a shared territorial system, not evidence that any FDA-only drug gets an independent national reliance route."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "BES-Q01",
+        "source_url": "https://wetten.overheid.nl/BWBR0028486/",
+        "raw_sha256": "fd2cb7a1a86a574cd5d68b2428944805d8e63409a73f469acd2579ac1ec16718",
+        "text_sha256": "b8120178be1a55e2e272c4ae9f86969651cbcf155369223424758586992e8904",
+        "start_offset": 14676,
+        "end_offset": 16472,
+        "verbatim_extracted_text": "Het is verboden verpakte geneesmiddelen welke niet staan in het register, bedoeld\n                                             in\nartikel 53 van de Geneesmiddelenwet\n, te bereiden, in voorraad te hebben, te verkopen, af te leveren, ter hand te stellen,\n                                             in te voeren, of te verhandelen.\n2\nHet in het eerste lid vervatte verbod geldt niet voor:\na.\ndoor onze Minister aan te wijzen verpakte geneesmiddelen;\nb.\nhet bereiden, in voorraad hebben, afleveren of terhandstellen van zich nog in het\n                                                   stadium van proefneming bevindende verpakte geneesmiddelen welke niet staan in het\n                                                   register, bedoeld in\nartikel 53 van de Geneesmiddelenwet\n;\nc.\nde invoer van verpakte geneesmiddelen welke niet staan in het register, bedoeld in\nartikel 53 van de Geneesmiddelenwet\n, en het in voorraad hebben, de aflevering en de ter hand stelling van deze geneesmiddelen\n                                                   in de bij algemene maatregel van bestuur aangegeven gevallen, een en ander indien\n                                                   is voldaan aan de bij algemene maatregel van bestuur gestelde voorschriften.\n3\nIndien het belang van de volksgezondheid zulks vordert, is onze Minister bevoegd ten\n                                             aanzien van een geneesmiddel, welk staat in het register, bedoeld in\nartikel 53 van de Geneesmiddelenwet\n, te bepalen, dat gedurende een bij zijn beschikking aan te wijzen tijdvak van ten\n                                             hoogste twaalf maanden niet mag worden afgeleverd of terhandgesteld dan met inachtneming\n                                             van bij die beschikking gestelde voorwaarden.",
+        "pdf_page": null,
+        "language": "nl",
+        "language_status": "Official original-language source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Preserved Wet op de geneesmiddelenvoorziening BES, Article 5",
+        "translation_review": {
+          "id": "BES-Q01",
+          "source_language": "nl",
+          "source_text": "Het is verboden verpakte geneesmiddelen welke niet staan in het register, bedoeld\n                                             in\nartikel 53 van de Geneesmiddelenwet\n, te bereiden, in voorraad te hebben, te verkopen, af te leveren, ter hand te stellen,\n                                             in te voeren, of te verhandelen.\n2\nHet in het eerste lid vervatte verbod geldt niet voor:\na.\ndoor onze Minister aan te wijzen verpakte geneesmiddelen;\nb.\nhet bereiden, in voorraad hebben, afleveren of terhandstellen van zich nog in het\n                                                   stadium van proefneming bevindende verpakte geneesmiddelen welke niet staan in het\n                                                   register, bedoeld in\nartikel 53 van de Geneesmiddelenwet\n;\nc.\nde invoer van verpakte geneesmiddelen welke niet staan in het register, bedoeld in\nartikel 53 van de Geneesmiddelenwet\n, en het in voorraad hebben, de aflevering en de ter hand stelling van deze geneesmiddelen\n                                                   in de bij algemene maatregel van bestuur aangegeven gevallen, een en ander indien\n                                                   is voldaan aan de bij algemene maatregel van bestuur gestelde voorschriften.\n3\nIndien het belang van de volksgezondheid zulks vordert, is onze Minister bevoegd ten\n                                             aanzien van een geneesmiddel, welk staat in het register, bedoeld in\nartikel 53 van de Geneesmiddelenwet\n, te bepalen, dat gedurende een bij zijn beschikking aan te wijzen tijdvak van ten\n                                             hoogste twaalf maanden niet mag worden afgeleverd of terhandgesteld dan met inachtneming\n                                             van bij die beschikking gestelde voorwaarden.",
+          "document_id": "fc8d1c4e4a2cd702fbe4",
+          "target_language": "en",
+          "translation_status": "Rejected/quarantined machine output",
+          "model_provenance": {
+            "language": "nl",
+            "model_version": "1.8",
+            "model_url": "https://argos-net.com/v1/translate-nl_en-1_8.argosmodel",
+            "model_sha256": "f49ac90c5812e0cb86a2858f4cfa61accec8709612728e6f805f0771c9a91e0e",
+            "model_bytes": 69944805,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.8",
+              "argos_version": "1.8",
+              "from_code": "nl",
+              "from_name": "Dutch",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "0f8d01d396485342b61319799613facd80301fd6c8b64dfb002f2180cbac91f2",
+          "translated_utc": "2026-10-18T00:50:40.386237+00:00",
+          "source_characters": 1796,
+          "segments": 3,
+          "raw_machine_translation": " It shall be prohibited to prepare, stock, sell, supply, supply, import or trade packaged medicinal products not listed in the Register referred to in Article 53 of the Medicines Act. 2 The prohibition laid down in paragraph 1 shall not apply to: (a) packaged medicinal products to be designated by our Minister; (b) prepared, held, delivered or disposed of in accordance with Article 53 of the Medicines Act; (c) the importation of packaged medicinal products not listed in the Register referred to in Article 53 of the Medicines Act and the storage, delivery and handling of such medicinal products in the cases specified by general administrative measure, if the requirements laid down by general administrative measure are fulfilled. 3 If the importance of public health so requires, our Minister shall be empowered to provide, in respect of a medicinal product, which is in the register provided for in Article 53 of the Medicines Act, that, during a period of up to 12 months to be designated by his decision, it shall not be possible to deliver or issue a medicinal product, subject to the conditions laid down by that decision.",
+          "checked_translation": null,
+          "check_note": "Exception (b) lost its incorporation of decisions under paragraph 2(c); rejected pending full exception-chain check.",
+          "approved_for_display": false,
+          "approved_for_text_sensitivity": false,
+          "checked_utc": "2026-10-18T01:00:51.129613+00:00"
+        }
+      }
+    ],
+    "source_scope": "Shared Dutch-register incorporation and exceptions; not an independently verified third-country reliance route",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

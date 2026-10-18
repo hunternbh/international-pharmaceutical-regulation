@@ -186,5 +186,55 @@
     "source_hashes": [
       "e44d93eefd81685f9299ccf637fd9d21fcf84fd0e7085505012a24368e753bf0"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "MNG",
+    "country": "Mongolia",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "invalid_historical_rule",
+    "fixed_case_scope_status": "historical_only",
+    "finding": "The host labels the2012 rule invalid/repealed. Its general imported-drug conditions include three foreign registrations and three years in the manufacturing country; the fixed two-approval18-month case would not satisfy those historical conditions. Do not apply them to current law.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The host labels the2012 rule invalid/repealed. Its general imported-drug conditions include three foreign registrations and three years in the manufacturing country; the fixed two-approval18-month case would not satisfy those historical conditions. Do not apply them to current law."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The host labels the2012 rule invalid/repealed. Its general imported-drug conditions include three foreign registrations and three years in the manufacturing country; the fixed two-approval18-month case would not satisfy those historical conditions. Do not apply them to current law."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The host labels the2012 rule invalid/repealed. Its general imported-drug conditions include three foreign registrations and three years in the manufacturing country; the fixed two-approval18-month case would not satisfy those historical conditions. Do not apply them to current law."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The host labels the2012 rule invalid/repealed. Its general imported-drug conditions include three foreign registrations and three years in the manufacturing country; the fixed two-approval18-month case would not satisfy those historical conditions. Do not apply them to current law."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The host labels the2012 rule invalid/repealed. Its general imported-drug conditions include three foreign registrations and three years in the manufacturing country; the fixed two-approval18-month case would not satisfy those historical conditions. Do not apply them to current law."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "MNG-Q01",
+        "source_url": "https://legalinfo.mn/mn/detail?lawId=205576",
+        "raw_sha256": "5270486f8e04547c92613cf36709c882b1d8ac11ee41df53b0306e20e1d17de0",
+        "text_sha256": "ba2e2d784d7a0bf961d4b4b5ffddf214f73bcae59f9d6525de66a995af0fda87",
+        "start_offset": 17669,
+        "end_offset": 19061,
+        "verbatim_extracted_text": "3.1.8     Импортын эм, оношлуур нь гурваас доошгүй улсад бүртгэгдсэн /уламжлалт эмэнд хамаарахгүй/;\n3.1.9     Бүртгүүлэх импортын эм тухайн үйлдвэрлэсэн улсынхаа бүртгэлд бүртгэгдээд 3 - аас доошгүй жил болсон, экспортлогч улсад хэрэглэдэг байх;\n3.1.10  Бүртгүүлэхээр өргөдөл гаргаж буй сүрьеэгийн эм нь \"WHO List of prequalified medicinal products\"-д орсон байх;\n3.1.11  Түргэвчилсэн бүртгэлд хамруулах эмийн сав, баглаа боодлын хаяглалт, тэмдэглэгээ нь  Эм, эмнэлгийн хэрэгслийн тухай хуулийн шаардлага хангасан,  наалт хэлбэртэй байж болно. Наалтын нууцлалыг бүртгүүлэгч байгууллага хариуцна;\n3.1.12  Түргэвчилсэн журмаар бүртгэх эм дараах тусгай шаардлага хангасан байна.\n·         Тухайн эм нь эмийн бүртгэлд ороогүй боловч үндэсний зайлшгүй шаардлагатай эмийн жагсаалт, зонхилон тохиолдох өвчний эмчилгээ, оношлогооны удирдамжид орсон байх;\n·         АНУ-ын FDA, Австралийн TGA, Европын холбооны  European Medicines Evaluation Agency, Их Британийн Medicines and Healthcare Products Regulatory Agency, Швейцарийн Swiss agency for Therapeutic Products /Swiss Medic/, Канадын  Health Products and Food Branch Health байгууллага, Солонгосын Korean FDA  болон Японы  Нийгмийн хамгаалал, Хөдөлмөр, Эрүүл мэндийн яаманд бүртгэгдсэн байх;\n·         Яаралтай тусламж, Сэхээн амьдруулах тасагт хэрэглэх, өвчлөл, нас баралтын тэргүүлэх шалтгаант өвчний эмчилгээ, оношлогооны стандартад орсон байх;",
+        "pdf_page": null,
+        "language": "mn",
+        "language_status": "Official original-language source",
+        "evidence_tier": "historical_rule",
+        "version_alignment": "Annex to Order 41 of 2 February 2012; on-hand legal portal marks it invalid. A separate 2025 notice is not the operative replacement text.",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Historical 2012 procedure; website explicitly labels this an invalid/repealed legal act",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

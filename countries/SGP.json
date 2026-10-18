@@ -285,5 +285,734 @@
     "source_hashes": [
       "067271344ef091b52cd8ebabd64abd1418ff6b44b2fa4368f0733a3abfd77ded"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SGP",
+    "country": "Singapore",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Abridged and verification routes with different thresholds",
+    "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+    "document_id": "8f1f11a6137eca53b27a",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "HSA selected reconstructed source is a shorter snapshot. Read the longer preserved same-URL original text as corroboration for named agencies and fees; version update 13 March 2026 on original. New-drug verification differs from NDA-3 strength extensions and generics.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "New drug application within scope.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA, EMA centralized, Health Canada, MHRA, Swissmedic, TGA named in longer same-URL preserved snapshot.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "New-drug verification at least two references; abridged new drug at least one agency; do not apply one-agency generic rule to new active substance.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "standalone_review": {
+        "state": "explicit requirement",
+        "finding": "Verification approvals after full independent scientific assessments.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "approval_age": {
+        "state": "explicit requirement",
+        "finding": "Chosen primary verification approval within three years; fixed 18 months meets.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Declaration of identical quality; full reports/supporting documents and no adverse reference regulatory status.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Compulsory unredacted and unedited primary-reference assessment reports/supporting documents.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Full unredacted/unedited content gate, no express categorical public-domain ban.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "Verification excludes need for independent contextual benefit-risk assessment; anti-infectives/vaccines examples. Adult indication unspecified, so not automatically satisfied.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Verification requires no independent local contextualization; abridged separate route.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Screening and evaluation fees in longer source.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Local benefit-risk and adverse reference status conditions remain.",
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "explicitly ineligible for identified full-report route",
+        "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+        "decisive_conditions": [
+          "Complete underlying assessment report requirement"
+        ],
+        "unresolved_conditions": [
+          "Other eligibility remains unresolved; route alternatives assessed separately."
+        ],
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ],
+        "status": "explicitly ineligible for identified full-report route"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional via abridged alternative; verification fails",
+        "finding": "FDA-only fails two-approval verification threshold but a one-approval abridged alternative is described; all remaining conditions must be satisfied.",
+        "decisive_conditions": [
+          "Different route: one-approval abridged versus two-approval verification."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SGP-Q01",
+          "SGP-Q02",
+          "SGP-CTX-1",
+          "SGP-LONGER-PRESERVED"
+        ],
+        "status": "discretionary/conditional via abridged alternative; verification fails"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "explicit full-report condition; overall access gain not fully resolved",
+        "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "explicit selected-route threshold",
+        "finding": "Second/named approval changes route threshold; one-reference alternatives remain separately coded."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "SGP-Q01",
+        "source_document_id": "8f1f11a6137eca53b27a",
+        "evidence_role": "Selected primary document",
+        "section_article": "Abridged eligibility: any prior drug agency",
+        "pdf_page": null,
+        "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+        "raw_sha256": "3a9bdec55cfdf16068a532d28ad8f417f211f99a56c412bb40cf4db514cc48d5",
+        "text_sha256": "785ef61c47696162b83dfe03e8edf47dc2928aa7287b8c931dd915de4cc02cc9",
+        "exact_text": "Any new or generic product that has been approved by at least one drug regulatory agency.\nThis evaluation route applies to both new drug applications (NDA) and generic drug applications (GDA).",
+        "start": 1601,
+        "end": 1793,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SGP-Q02",
+        "source_document_id": "8f1f11a6137eca53b27a",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": null,
+        "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+        "raw_sha256": "3a9bdec55cfdf16068a532d28ad8f417f211f99a56c412bb40cf4db514cc48d5",
+        "text_sha256": "785ef61c47696162b83dfe03e8edf47dc2928aa7287b8c931dd915de4cc02cc9",
+        "exact_text": "You can submit a NDA to register your therapeutic product via the verification evaluation route if it:\nHas been approved by at least two of our reference drug regulatory agencies at the time of submission. The product has received full marketing approval by the reference agencies following a complete independent scientific assessment.\nHas been approved within three years by the chosen primary reference agency.\nHas a declaration letter by the product owner/applicant stating that all aspects of the product’s quality are identical to that currently approved by the primary reference agency. This includes the compulsory submission of the unredacted and unedited assessment reports and supporting documents from the chosen primary reference agency.\nDoes not need an independent assessment by HSA to contextualise the benefit-risk profile due to local disease epidemiology, medical practice and/or public health considerations. Examples of products that may require such contextualised assessment are anti-infectives, vaccines, etc.\nHas not been rejected, withdrawn or approved via appeal process or pending deferral by a drug regulatory agency for safety or efficacy reasons.",
+        "start": 3480,
+        "end": 4657,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SGP-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+        "raw_sha256": "3a9bdec55cfdf16068a532d28ad8f417f211f99a56c412bb40cf4db514cc48d5",
+        "text_sha256": "785ef61c47696162b83dfe03e8edf47dc2928aa7287b8c931dd915de4cc02cc9",
+        "exact_text": "equest for a priority review, state the request in the Introduction document of the application dossier and attach the relevant justifications and evidence such as:\nThe seriousness of the disease condition, local and worldwide mortality rates, anticipated morbidity and debilitation as a consequence of the disease.\nLocal epidemiology data and volume of requests through the exemption route on a named-patient basis.\nThe unmet needs, current available treatment options and standard therapies, and the inadequacy of current therapies.\nThe extent to which the product is expected to have a major impact on medical practice, its major benefit, and how it addresses the unmet needs.\nClinical evidence supporting the claims of significant improvement compared to available treatments.\nVerification\nEligibility\nAny new or generic product that has been approved by our reference drug regulatory agencies.\nThis evaluation route applies to both NDA and GDA.\nList of evaluation routes\nNDA\nYou can submit a NDA to register your therapeutic product via the verification evaluation route if it:\nHas been approved by at least two of our reference drug regulatory agencies at the time of submission. The product has received full marketing approval by the reference agencies following a complete independent scientific assessment.\nHas been approved within three years by the chosen primary reference agency.\nHas a declaration letter by the product owner/applicant stating that all aspects of the product’s quality are identical to that currently approved by the primary reference agency. This includes the compulsory submission of the unredacted and unedited assessment reports and supporting documents from the chosen primary reference agency.\nDoes not need an independent assessment by HSA to contextualise the benefit-risk profile due to local disease epidemiology, medical practice and/or public health considerations. Examples of products that may require such contextualised assessment are anti-infectives, vaccines, etc.\nHas not been rejected, withdrawn or approved via appeal process or pending deferral by a drug regulatory agency for safety or efficacy reasons.\nNDA-3 applications\nYou may register the subsequent strength of a currently-registered therapeutic product as a NDA-3 via the verification evaluation route under one of the following conditions:\nHas been evaluated and approved by only one of our reference drug regulatory agencies, the NDA-3 must be submitted within two years from the date of approval of that reference drug regulatory agency.\nHas been evaluated and approved by at least two of our reference drug regulatory agencies, the NDA-3 must be submitted within three years from the date of approval by the chosen primary reference agency.\nNote:\nThe proposed indication, dosing regimen, patient group, and direction for use must be identical to the corresponding approved NDA-1 and NDA-2 products.\nThe proposed PI/PIL are consistent with that currently approved for the corresponding NDA-1 and NDA-2 products.\nGDA\nYou may register your generic drug via the verification evaluation route if it meets the following criteria:\nHas been approved by at least one of our reference drug regulatory agencies at the time of submission.\nHas been approved within two years by the chosen reference agency.\nHas a declaration letter by the product owner or applicant stating that all aspects of the product’s quality are identical to that currently approved by the chosen reference agency. This includes the compulsory submission of the unredacted and unedited assessment reports and supporting documents from the chosen reference agency.\nHas not been rejected, withdrawn or approved via appeal process or pending deferral by a drug regulatory agency for safety or efficacy reasons.\nNote: If a drug master file (DMF) is submitted, you must submit the unredacted and unedited assessment reports for the DMF and provide a separate declaration stating that the DMF you submitted is identical to the one submitted to the chosen reference agency. Refer to the\nSubmission of Drug Master File\nfor more information.\nVerification-CECA\nYou may register your generic drug via the verification-CECA evaluation route if it meets the following criteria:\nSame eligibility requirements as verification applications listed above.\nGeneric drug must be manufactured in India.\nReference drug regulatory agencies\nOur reference drug regulatory agencies consist of the following:\nUS Food and Drug Administration (FDA)\nEuropean Medicines Agency (EMA) via the Centralised Procedure\nHealth Canada (HC)\nUK Medicines and Healthcare Products Regulatory Agency (UK MHRA)\nSwissmedic\nAustralia Therapeutic Goods Administration (TGA)\nFees\nFor new drug applications (NDA) and generic drug applications (GDA), two types of fees are payable:\nScreening fee, payable upon successful online application submission via PRISM.\nEvaluation fee, payable upon dossier acceptance for evaluation.\nYou may refer to the detailed\ntherapeutic product fees and turn-around-time\nfor more information.\nNote:\nIf payment is not made through GIRO, both screening and evaluation fees have to be paid upfront during submission. In this scenario, the evaluation fee will be refunded if the application is not accepted for evaluation.\nNext\nApplication Dossier\nBack to top",
+        "start": 2500,
+        "end": 7811,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "SGP-LONGER-PRESERVED",
+        "section_article": "Reference agencies and fees, longer same-URL original",
+        "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+        "raw_sha256": "3a9bdec55cfdf16068a532d28ad8f417f211f99a56c412bb40cf4db514cc48d5",
+        "text_sha256": "b63f948ccb9128539ad2a2cdad89b20e69c62f3e0686923edfc15c76c4ac66d3",
+        "exact_text": "Reference drug regulatory agencies\nOur reference drug regulatory agencies consist of the following:\nUS Food and Drug Administration (FDA)\nEuropean Medicines Agency (EMA) via the Centralised Procedure\nHealth Canada (HC)\nUK Medicines and Healthcare Products Regulatory Agency (UK MHRA)\nSwissmedic\nAustralia Therapeutic Goods Administration (TGA)\nFees\nFor new drug applications (NDA) and generic drug applications (GDA), two types of fees are payable:\nScreening fee, payable upon successful online application submission via PRISM.\nEvaluation fee, payable upon dossier acceptance for evaluation.\nYou may refer to the detailed\ntherapeutic product fees and turn-around-time\nfor more information.\nNote:\nIf payment is not made through GIRO, both screening and evaluation fees have to be paid upfront during submission. In this scenario, the evaluation fee will be refunded if the application is not accepted for evaluation.\nNext\nApplication Dossier\nBack to\nRegistration process for therapeutic products\nOther pages in\nRegistration process for therapeutic products\n1. Overview\n2. Application types\n4. Application Dossier\n5. Application Screening and Evaluation stages\n6. Retain, cancel or transfer therapeutic product registrations\nSee all pages\nBack to top\nHealth Sciences Authority\nAnnouncements\nProducts regulation\nBlood donation\nLab services\nWho we are\nE-Services\nCareers\nReport adverse events\nReport vape offences\n(opens in new tab)\nHSA Data Protection Policy\nReach us\nContact\nFeedback\n© 2026 Government",
+        "start": 7660,
+        "end": 9160,
+        "exact_offset_validated": true
+      }
+    ],
+    "review_details": {
+      "iso3": "SGP",
+      "country": "Singapore",
+      "selected_document_id": "8f1f11a6137eca53b27a",
+      "source_id": "bd5f586e399e8fe3",
+      "pathway": "Abridged and verification routes with different thresholds",
+      "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+      "document_title": "HSA evaluation routes",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "SGP-Q01": null
+        },
+        {
+          "SGP-Q02": null
+        }
+      ],
+      "raw_sha256": "3a9bdec55cfdf16068a532d28ad8f417f211f99a56c412bb40cf4db514cc48d5",
+      "raw_hash_validated": true,
+      "text_sha256": "785ef61c47696162b83dfe03e8edf47dc2928aa7287b8c931dd915de4cc02cc9",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "HSA selected reconstructed source is a shorter snapshot. Read the longer preserved same-URL original text as corroboration for named agencies and fees; version update 13 March 2026 on original. New-drug verification differs from NDA-3 strength extensions and generics.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          1601,
+          1793
+        ],
+        [
+          3480,
+          4657
+        ],
+        [
+          2500,
+          7811
+        ],
+        [
+          7660,
+          9160
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New drug application within scope.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA, EMA centralized, Health Canada, MHRA, Swissmedic, TGA named in longer same-URL preserved snapshot.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "New-drug verification at least two references; abridged new drug at least one agency; do not apply one-agency generic rule to new active substance.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "standalone_review": {
+          "state": "explicit requirement",
+          "finding": "Verification approvals after full independent scientific assessments.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "Chosen primary verification approval within three years; fixed 18 months meets.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Declaration of identical quality; full reports/supporting documents and no adverse reference regulatory status.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Compulsory unredacted and unedited primary-reference assessment reports/supporting documents.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Full unredacted/unedited content gate, no express categorical public-domain ban.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "Verification excludes need for independent contextual benefit-risk assessment; anti-infectives/vaccines examples. Adult indication unspecified, so not automatically satisfied.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Verification requires no independent local contextualization; abridged separate route.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Screening and evaluation fees in longer source.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Local benefit-risk and adverse reference status conditions remain.",
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "explicitly ineligible for identified full-report route",
+          "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+          "decisive_conditions": [
+            "Complete underlying assessment report requirement"
+          ],
+          "unresolved_conditions": [
+            "Other eligibility remains unresolved; route alternatives assessed separately."
+          ],
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional via abridged alternative; verification fails",
+          "finding": "FDA-only fails two-approval verification threshold but a one-approval abridged alternative is described; all remaining conditions must be satisfied.",
+          "decisive_conditions": [
+            "Different route: one-approval abridged versus two-approval verification."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SGP-Q01",
+            "SGP-Q02",
+            "SGP-CTX-1",
+            "SGP-LONGER-PRESERVED"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "explicit full-report condition; overall access gain not fully resolved",
+          "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "explicit selected-route threshold",
+          "finding": "Second/named approval changes route threshold; one-reference alternatives remain separately coded."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "SGP-Q01",
+          "source_document_id": "8f1f11a6137eca53b27a",
+          "evidence_role": "Selected primary document",
+          "section_article": "Abridged eligibility: any prior drug agency",
+          "pdf_page": null,
+          "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+          "raw_sha256": "3a9bdec55cfdf16068a532d28ad8f417f211f99a56c412bb40cf4db514cc48d5",
+          "text_sha256": "785ef61c47696162b83dfe03e8edf47dc2928aa7287b8c931dd915de4cc02cc9",
+          "exact_text": "Any new or generic product that has been approved by at least one drug regulatory agency.\nThis evaluation route applies to both new drug applications (NDA) and generic drug applications (GDA).",
+          "start": 1601,
+          "end": 1793,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SGP-Q02",
+          "source_document_id": "8f1f11a6137eca53b27a",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": null,
+          "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+          "raw_sha256": "3a9bdec55cfdf16068a532d28ad8f417f211f99a56c412bb40cf4db514cc48d5",
+          "text_sha256": "785ef61c47696162b83dfe03e8edf47dc2928aa7287b8c931dd915de4cc02cc9",
+          "exact_text": "You can submit a NDA to register your therapeutic product via the verification evaluation route if it:\nHas been approved by at least two of our reference drug regulatory agencies at the time of submission. The product has received full marketing approval by the reference agencies following a complete independent scientific assessment.\nHas been approved within three years by the chosen primary reference agency.\nHas a declaration letter by the product owner/applicant stating that all aspects of the product’s quality are identical to that currently approved by the primary reference agency. This includes the compulsory submission of the unredacted and unedited assessment reports and supporting documents from the chosen primary reference agency.\nDoes not need an independent assessment by HSA to contextualise the benefit-risk profile due to local disease epidemiology, medical practice and/or public health considerations. Examples of products that may require such contextualised assessment are anti-infectives, vaccines, etc.\nHas not been rejected, withdrawn or approved via appeal process or pending deferral by a drug regulatory agency for safety or efficacy reasons.",
+          "start": 3480,
+          "end": 4657,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SGP-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+          "raw_sha256": "3a9bdec55cfdf16068a532d28ad8f417f211f99a56c412bb40cf4db514cc48d5",
+          "text_sha256": "785ef61c47696162b83dfe03e8edf47dc2928aa7287b8c931dd915de4cc02cc9",
+          "exact_text": "equest for a priority review, state the request in the Introduction document of the application dossier and attach the relevant justifications and evidence such as:\nThe seriousness of the disease condition, local and worldwide mortality rates, anticipated morbidity and debilitation as a consequence of the disease.\nLocal epidemiology data and volume of requests through the exemption route on a named-patient basis.\nThe unmet needs, current available treatment options and standard therapies, and the inadequacy of current therapies.\nThe extent to which the product is expected to have a major impact on medical practice, its major benefit, and how it addresses the unmet needs.\nClinical evidence supporting the claims of significant improvement compared to available treatments.\nVerification\nEligibility\nAny new or generic product that has been approved by our reference drug regulatory agencies.\nThis evaluation route applies to both NDA and GDA.\nList of evaluation routes\nNDA\nYou can submit a NDA to register your therapeutic product via the verification evaluation route if it:\nHas been approved by at least two of our reference drug regulatory agencies at the time of submission. The product has received full marketing approval by the reference agencies following a complete independent scientific assessment.\nHas been approved within three years by the chosen primary reference agency.\nHas a declaration letter by the product owner/applicant stating that all aspects of the product’s quality are identical to that currently approved by the primary reference agency. This includes the compulsory submission of the unredacted and unedited assessment reports and supporting documents from the chosen primary reference agency.\nDoes not need an independent assessment by HSA to contextualise the benefit-risk profile due to local disease epidemiology, medical practice and/or public health considerations. Examples of products that may require such contextualised assessment are anti-infectives, vaccines, etc.\nHas not been rejected, withdrawn or approved via appeal process or pending deferral by a drug regulatory agency for safety or efficacy reasons.\nNDA-3 applications\nYou may register the subsequent strength of a currently-registered therapeutic product as a NDA-3 via the verification evaluation route under one of the following conditions:\nHas been evaluated and approved by only one of our reference drug regulatory agencies, the NDA-3 must be submitted within two years from the date of approval of that reference drug regulatory agency.\nHas been evaluated and approved by at least two of our reference drug regulatory agencies, the NDA-3 must be submitted within three years from the date of approval by the chosen primary reference agency.\nNote:\nThe proposed indication, dosing regimen, patient group, and direction for use must be identical to the corresponding approved NDA-1 and NDA-2 products.\nThe proposed PI/PIL are consistent with that currently approved for the corresponding NDA-1 and NDA-2 products.\nGDA\nYou may register your generic drug via the verification evaluation route if it meets the following criteria:\nHas been approved by at least one of our reference drug regulatory agencies at the time of submission.\nHas been approved within two years by the chosen reference agency.\nHas a declaration letter by the product owner or applicant stating that all aspects of the product’s quality are identical to that currently approved by the chosen reference agency. This includes the compulsory submission of the unredacted and unedited assessment reports and supporting documents from the chosen reference agency.\nHas not been rejected, withdrawn or approved via appeal process or pending deferral by a drug regulatory agency for safety or efficacy reasons.\nNote: If a drug master file (DMF) is submitted, you must submit the unredacted and unedited assessment reports for the DMF and provide a separate declaration stating that the DMF you submitted is identical to the one submitted to the chosen reference agency. Refer to the\nSubmission of Drug Master File\nfor more information.\nVerification-CECA\nYou may register your generic drug via the verification-CECA evaluation route if it meets the following criteria:\nSame eligibility requirements as verification applications listed above.\nGeneric drug must be manufactured in India.\nReference drug regulatory agencies\nOur reference drug regulatory agencies consist of the following:\nUS Food and Drug Administration (FDA)\nEuropean Medicines Agency (EMA) via the Centralised Procedure\nHealth Canada (HC)\nUK Medicines and Healthcare Products Regulatory Agency (UK MHRA)\nSwissmedic\nAustralia Therapeutic Goods Administration (TGA)\nFees\nFor new drug applications (NDA) and generic drug applications (GDA), two types of fees are payable:\nScreening fee, payable upon successful online application submission via PRISM.\nEvaluation fee, payable upon dossier acceptance for evaluation.\nYou may refer to the detailed\ntherapeutic product fees and turn-around-time\nfor more information.\nNote:\nIf payment is not made through GIRO, both screening and evaluation fees have to be paid upfront during submission. In this scenario, the evaluation fee will be refunded if the application is not accepted for evaluation.\nNext\nApplication Dossier\nBack to top",
+          "start": 2500,
+          "end": 7811,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "SGP-LONGER-PRESERVED",
+          "section_article": "Reference agencies and fees, longer same-URL original",
+          "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
+          "raw_sha256": "3a9bdec55cfdf16068a532d28ad8f417f211f99a56c412bb40cf4db514cc48d5",
+          "text_sha256": "b63f948ccb9128539ad2a2cdad89b20e69c62f3e0686923edfc15c76c4ac66d3",
+          "exact_text": "Reference drug regulatory agencies\nOur reference drug regulatory agencies consist of the following:\nUS Food and Drug Administration (FDA)\nEuropean Medicines Agency (EMA) via the Centralised Procedure\nHealth Canada (HC)\nUK Medicines and Healthcare Products Regulatory Agency (UK MHRA)\nSwissmedic\nAustralia Therapeutic Goods Administration (TGA)\nFees\nFor new drug applications (NDA) and generic drug applications (GDA), two types of fees are payable:\nScreening fee, payable upon successful online application submission via PRISM.\nEvaluation fee, payable upon dossier acceptance for evaluation.\nYou may refer to the detailed\ntherapeutic product fees and turn-around-time\nfor more information.\nNote:\nIf payment is not made through GIRO, both screening and evaluation fees have to be paid upfront during submission. In this scenario, the evaluation fee will be refunded if the application is not accepted for evaluation.\nNext\nApplication Dossier\nBack to\nRegistration process for therapeutic products\nOther pages in\nRegistration process for therapeutic products\n1. Overview\n2. Application types\n4. Application Dossier\n5. Application Screening and Evaluation stages\n6. Retain, cancel or transfer therapeutic product registrations\nSee all pages\nBack to top\nHealth Sciences Authority\nAnnouncements\nProducts regulation\nBlood donation\nLab services\nWho we are\nE-Services\nCareers\nReport adverse events\nReport vape offences\n(opens in new tab)\nHSA Data Protection Policy\nReach us\nContact\nFeedback\n© 2026 Government",
+          "start": 7660,
+          "end": 9160,
+          "exact_offset_validated": true
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "SGP-SUP-06727134-919",
+          "source_url": "https://www.moh.gov.sg/newsroom/hsa-s-regulatory-pathways-for-nmpa-approved-medicines/",
+          "section_article": "Written answer paragraphs 1–2",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

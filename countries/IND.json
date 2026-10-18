@@ -183,5 +183,70 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "IND",
+    "country": "India",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "clinical_trial_waiver",
+    "fixed_case_scope_status": "conditional_evidence_waiver",
+    "finding": "A local-trial waiver has separate named-country, safety, population-applicability and PhaseIV conditions. FDA/EC approval and a full CTD do not by themselves resolve those conditions or waive domestic marketing approval.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "A local-trial waiver has separate named-country, safety, population-applicability and PhaseIV conditions. FDA/EC approval and a full CTD do not by themselves resolve those conditions or waive domestic marketing approval."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "A local-trial waiver has separate named-country, safety, population-applicability and PhaseIV conditions. FDA/EC approval and a full CTD do not by themselves resolve those conditions or waive domestic marketing approval."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "A local-trial waiver has separate named-country, safety, population-applicability and PhaseIV conditions. FDA/EC approval and a full CTD do not by themselves resolve those conditions or waive domestic marketing approval."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "A local-trial waiver has separate named-country, safety, population-applicability and PhaseIV conditions. FDA/EC approval and a full CTD do not by themselves resolve those conditions or waive domestic marketing approval."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "A local-trial waiver has separate named-country, safety, population-applicability and PhaseIV conditions. FDA/EC approval and a full CTD do not by themselves resolve those conditions or waive domestic marketing approval."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "IND-Q01",
+        "source_url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/23NEW%20DRUGS%20AND%20CLINICAL%20TRIALS%20RULES%2C%202019.pdf",
+        "raw_sha256": "f8a1b791f1416ff2cf5d9ef1c136326e168d55d9d9d4d4f9a5a9067b8c7e220f",
+        "text_sha256": "34b329176893d6771a8614ecce1620b5e5a74583a03fde48cca55991ff2f13c1",
+        "start_offset": 142624,
+        "end_offset": 144330,
+        "verbatim_extracted_text": "The local clinical trial may not be required to be submitted along with \nthe application referred to in sub-rule (1) if,— \n(i)    the new drug is approved and marketed in countries specified by the \nCentral Licencing Authority under rule 101 and if no major unexpected \nserious adverse events have been reported; or \n(ii)    the application is for import of a new drug for which the Central \nLicencing Authority had already granted permission to conduct a global \nclinical trial which is ongoing in India and in the meantime such new drug \nhas been approved for marketing in a country specified under rule 101; and \n(iii)    there is no probability or evidence, on the basis of existing \nknowledge, of difference in Indian population of the enzymes or gene \ninvolved in the metabolism of the new drug or any factor affecting \npharmacokinetics and pharmacodynamics, safety and efficacy of the new \ndrug; and \n(iv)    the applicant has given an undertaking in writing to conduct Phase IV \nclinical trial to establish safety and effectiveness of such new drug as per \ndesign approved by the Central Licencing Authority: \nPROVIDED that the Central Licencing Authority may relax this \ncondition, where the drug is indicated in life threatening or serious diseases \nor diseases of special relevance to Indian health scenario or for a condition \nwhich is unmet need in India such as XDR tuberculosis, hepatitis C, H1N1, \ndengue, malaria, HIV, or for the rare diseases for which drugs are not \navailable or available at a high cost or if it is an orphan drug. \n\n\nPAGE 66\n \nCentral Drugs Standard Control Organization, Ministry of Health and Family Welfare, Govt. of India                             Page 66 of 242",
+        "pdf_page": 65,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "New Drugs and Clinical Trials Rules 2019, preserved compilation; rule 75(7), rule 101",
+        "translation_review": null
+      },
+      {
+        "clause_id": "IND-Q02",
+        "source_url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/23NEW%20DRUGS%20AND%20CLINICAL%20TRIALS%20RULES%2C%202019.pdf",
+        "raw_sha256": "f8a1b791f1416ff2cf5d9ef1c136326e168d55d9d9d4d4f9a5a9067b8c7e220f",
+        "text_sha256": "34b329176893d6771a8614ecce1620b5e5a74583a03fde48cca55991ff2f13c1",
+        "start_offset": 182872,
+        "end_offset": 183249,
+        "verbatim_extracted_text": "101.    Name of countries for purpose of new drug approval \nThe Central Licencing Authority, with the approval of the Central \nGovernment, may specify, by an order, the name of the countries, from time to \ntime, for considering waiver of local clinical trial for approval of new drugs \nunder Chapter X and for grant of permission for conduct of clinical trial under \nChapter V.",
+        "pdf_page": 83,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "New Drugs and Clinical Trials Rules 2019, preserved compilation; rule 75(7), rule 101",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Local clinical-trial waiver in new-drug marketing application; not automatic recognition",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

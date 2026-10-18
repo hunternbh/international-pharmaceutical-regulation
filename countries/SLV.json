@@ -219,5 +219,556 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SLV",
+    "country": "El Salvador",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Foreign registration recognised after technical-document review",
+    "source_url": "https://asp.salud.gob.sv/regulacion/pdf/reglamento/reglamento_especial_reconocimiento_registros_sanitarios_extranjeros.pdf",
+    "document_id": "fedf25056ca109edee84",
+    "genre": "Executive decree",
+    "language": "es",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "2013 decree, not asserted current consolidated position. Article 20 of General Medicines Regulations supplies essential incorporated requirements not fully reproduced in selected source.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "All medicines; biological exceptions separately specified.",
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "USA, Canada, Australia, Switzerland, Japan, EMA and PAHO level-IV agencies.",
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "A qualifying foreign registration; no two-reference requirement stated.",
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Favorable technical-documentary review required before automatic numbering.",
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Application with all Article 20 documents; fee amount not supplied.",
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "Ten working days technical review; eight working days applicant correction; automatic number after favorable report under stated ten-day wording.",
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "May recognize; unmet documents cause lapse; no full eligibility claim without incorporated Article 20.",
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLV-Q01",
+          "SLV-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "SLV-Q01",
+        "source_document_id": "fedf25056ca109edee84",
+        "evidence_role": "Selected primary document",
+        "section_article": "Articles 1–2",
+        "pdf_page": 2,
+        "source_url": "https://asp.salud.gob.sv/regulacion/pdf/reglamento/reglamento_especial_reconocimiento_registros_sanitarios_extranjeros.pdf",
+        "raw_sha256": "ecb5ec528ce002585052b45e71fe85cd010590605808e88536ca4c9a696628f5",
+        "text_sha256": "df0fc004f3177aa13971291b1a2f77634eca7b668f1fc43f983fcbec7703e41b",
+        "exact_text": "Art. 1.- La Dirección Nacional de Medicamentos, en adelante \"la Dirección\", podrá reconocer de manera oficial los registros sanitarios otorgados \npor autoridades sanitarias de países cuyas agencias reguladoras de medicamentos han sido certificadas de nivel IV por la Organización Panamericana de \nla Salud (OPS), así como aquellos registros sanitarios otorgados por autoridades sanitarias de los Estados Unidos de Norteamérica, Canadá, Australia, \nSuiza, Japón y por la Agencia Europea de Medicamentos (EMA).\n \n \nEl reconocimiento será aplicable a todos los medicamentos que hayan sido registrados por los países citados en el inciso anterior. Sin embargo, \npara los medicamentos biotecnológicos o biosimilares y, productos biológicos, se otorgará el registro respectivo, siempre y cuando hayan sido regis-\ntrados por estos mismos países y que dichos países dispongan de reglamentación específica para éstos.\n \n \nLa Dirección, a través de la Unidad de Registro y Visado, otorgará el registro sanitario respectivo, tomando en cuenta lo establecido en los incisos \nanteriores, siempre y cuando se cumplan con todos los requisitos y se presente toda la documentación establecida en el Art. 20 del Reglamento General \nde la Ley de Medicamentos.\nMinisterio de Salud\n\n\nPAGE 3\n31\nDIARIO OFICIAL.- San Salvador, 4 de Marzo de 2013. \n \nProcedimiento para proporcionar el Registro Sanitario tomando en cuenta el reconocimiento de Registros sanitarios extranjeros\n \nArt. 2.- El procedimiento para proporcionar el registro sanitario de productos farmacéuticos, tomando en cuenta el reconocimiento de registros \nsanitarios extranjeros, será el siguiente:\n \n \na) \nPresentar la solicitud con los requisitos y documentos establecidos en el Art. 20 del Reglamento General de la Ley de Medicamentos;\n \n \nb) \nUna vez presentada la solicitud y demás requisitos, se procederá al análisis técnico documental de los mismos, para lo cual la Dirección \ndispondrá del término de diez (10) días hábiles, a partir de la recepción de la solicitud;\n \n \nc) \nSi del análisis técnico se encontraren observaciones, se notificará por una sola vez al interesado. La notificación deberá ser retirada de las \noficinas de la Dirección por el solicitante o por quien tenga su autorización por escrito;\n \n \nd) \nEl solicitante dispondrá del término de ocho (8) días hábiles, contados a partir de la fecha de notificación, para subsanar las observaciones \nrelativas a la solicitud y sus anexos; \n \n \n \n \nSi dentro del término señalado anteriormente, el solicitante no lo hiciera o lo hiciera en forma indebida, la Dirección, en el término de cinco \n(5) días hábiles contados a partir de la fecha de presentación del documento o del vencimiento del término señalado, según el caso, declarará \ncaducada la solicitud y notificará al solicitante para que retire la documentación dentro de los quince (15) días siguientes a la notificación \nde ese acto administrativo. Si el solicitante no la retirare, se procederá a archivarla;\n \n \ne) \nSi el informe técnico documental es favorable, la Dirección, en el término máximo de diez (10) días hábiles a partir de la recepción de \nla solicitud y demás requisitos señalados en los artículos precedentes, le asignará el número de registro sanitario de manera automática y \nconcederá el respectivo Certificado de Registro Sanitario con reconocimiento del Registro Sanitario extranjero, utilizando el formato que \npara el efecto determine la Unidad de Registro respectiva.",
+        "start": 4954,
+        "end": 8418,
+        "translation": "Article 1. The National Directorate of Medicines, hereinafter the Directorate, may officially recognise sanitary registrations granted by health authorities whose medicines regulators have PAHO level-IV certification, and registrations granted by the health authorities of the United States, Canada, Australia, Switzerland and Japan and by the European Medicines Agency. Recognition applies to all medicines registered by the countries mentioned above. However, for biotechnological medicines, biosimilars and biological products, registration is granted only if they have been registered by those same countries and those countries have specific regulations for them. Through its Registration and Endorsement Unit, the Directorate shall grant the corresponding registration subject to the foregoing, provided all requirements are met and all documents specified in Article 20 of the General Regulations of the Medicines Law are submitted. [Official Gazette, San Salvador, 4 March 2013.] Article 2. The procedure for sanitary registration taking account of foreign registrations is: (a) submit the application with the requirements and documents specified in Article 20 of the General Regulations of the Medicines Law; (b) after submission of the application and other requirements, the Directorate has ten working days from receipt to conduct the technical documentary analysis; (c) observations arising from technical analysis are notified once to the interested party, and the notice must be collected from the Directorate by the applicant or a person with written authorisation; (d) the applicant has eight working days from notification to remedy observations on the application and annexes. If the applicant does not do so or does so improperly, within five working days from document submission or expiry of the period, as applicable, the Directorate shall declare the application lapsed and notify the applicant to collect the documentation within fifteen days of notification; otherwise it will be archived; (e) if the documentary technical report is favourable, within a maximum of ten working days from receipt of the application and other requirements in the preceding articles, the Directorate shall automatically assign the registration number and grant the corresponding certificate recognising the foreign registration, using the format determined by the registration unit.",
+        "translation_status": "Assistant checked and corrected research translation; not official/certified",
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SLV-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://asp.salud.gob.sv/regulacion/pdf/reglamento/reglamento_especial_reconocimiento_registros_sanitarios_extranjeros.pdf",
+        "raw_sha256": "ecb5ec528ce002585052b45e71fe85cd010590605808e88536ca4c9a696628f5",
+        "text_sha256": "df0fc004f3177aa13971291b1a2f77634eca7b668f1fc43f983fcbec7703e41b",
+        "exact_text": "PAGE 1\n1\nDIARIO OFICIAL.- San Salvador, 4 de Marzo de 2013. \nDiario Oficial\nS U M A R I O\n1\nREPUBLICA DE EL SALVADOR EN LA AMERICA  CENTRAL\n \nTOMO Nº 398 \nSAN SALVADOR, lunes 4 DE marzo de 2013 \n NUMERO 43\n-La Dirección de la Imprenta Nacional hace del conocimiento que toda publicación en el Diario Oficial se \nprocesa por transcripción directa y fiel del original, por consiguiente la institución  no se hace responsable por \ntranscripciones cuyos originales lleguen en forma ilegible y/o defectuosa y son de exclusiva responsabilidad \nde la persona o institución que los presentó. (Arts. 21, 22 y 23 Reglamento de la Imprenta Nacional).\nDirección: 4a. C. Pte. y 15 Av. Sur # 829 S.S. Tel.: 2527-7800 • Página Web: www.imprentanacional.gob.sv • Correo: diariooficial@imprentanacional.gob.sv\nPág.\n4-5\n6-8\n9\n10\n10\n11-23\n24-28\nPág.\n28\n29\n30-31\n32\n33-34\n35-38\nORGANO LEGISLATIVO\n \nDecreto No. 304.- Ley del Programa de Vaso de Leche \nEscolar. ......................................................................................\nORGANO EJECUTIVO\nPresidencia de la República\n \nAcuerdos Nos. 4, 8, 9, 15, 19, 28 y 38.- Se encargan \nDespachos Ministeriales a funcionarios públicos.......................\n \nAcuerdo No. 55.- Se integran a miembros al Pleno \ndel Consejo Nacional de Atención Integral a la Persona con \nDiscapacidad...............................................................................\n \nAcuerdo No. 56.- Se nombra a miembros del Consejo \nDirectivo del Banco Central de Reserva de El Salvador............\n \nAcuerdo No. 57.- Se nombra a Director en la Categoría de \nOficiales del Consejo Directivo del Instituto de Previsión Social \nde la Fuerza Armada...................................................................\nMINISTERIO DE GOBERNACIÓN\nRamo de Gobernación\n \nEstatutos de “Iglesia Oasis de Amor y Esperanza de las \nAsambleas de Dios”, “Iglesia Evangélica Misión Bautista El \nCamino” y “Asociación Deportiva Cantón El Tamarindo” y \nAcuerdos Nos. 11, 37 y 54, aprobándolos y confiriéndoles el \ncarácter de persona jurídica........................................................\nMINISTERIO DE ECONOMÍA\nRamo de Economía\n \nAcuerdos Nos. 181, 183 y 185.- Se autoriza la construcción \nde estaciones de servicios, donde se instalarán tanques para \nalmacenar gasolina.....................................................................\nMINISTERIO DE EDUCACIÓN\nRamo de Educación\n \nAcuerdo No. 15-1814.- Se reconocen estudios realizados \npor Moisés Alemán Buezo.........................................................\nMINISTERO DE LA DEFENSA NACIONAL\nRamo de la Defensa Nacional\n \nAcuerdo No. 27.- Se asigna montepío militar a favor de la \nseñora Irene Anaya.....................................................................\nMINISTERIO DE SALUD\n \nDecreto No. 34.- Reglamento Especial para el \nReconocimiento de Registros Sanitarios Extranjeros................\nORGANO JUDICIAL\nCorte Suprema de Justicia\n \nAcuerdos Nos. 643-D, 2367-D, 2380-D y 2427-D.- \nAutorizaciones para ejercer la profesión de abogado en todas \nsus ramas....................................................................................\n \nAcuerdos Nos. 1717-D, 1720-D, 1722-D, 1724-D, 2045-D, \n2060-D, 2095-D, 2114-D y 2115-D.- Autorizaciones para ejercer \nlas funciones de notario y aumentos en la nómina respectiva....\nINSTITUCIONES AUTONOMAS\nAlcaldías Municipales\n \nDecretos Nos. 1 y 2.- Reformas a las ordenanzas de tasas por \nservicios municipales de Sesori y Dolores, de los departamentos \nde San Miguel y Cabañas, respectivamente...............................\nDIRECTOR:  Edgard Antonio Mendoza Castro\n\n\nPAGE 2\n30\nDIARIO  OFICIAL  Tomo  Nº 398\nDECRETO No. 34\nEL PRESIDENTE DE LA REPÚBLICA DE EL SALVADOR,\nCONSIDERANDO:\n \nI. \nQue mediante Decreto Legislativo No. 1008, de fecha 22 de febrero de 2012, publicado en el Diario Oficial No. 43, Tomo No. 394, del 2 \nde marzo del mismo año, se emitió la Ley de Medicamento, la cual tiene por objeto, entre otros, asegurar la accesibilidad y registro de los \nmedicamentos;\n \nII. \nQue de acuerdo a lo establecido en la citada Ley, la Dirección Nacional de Medicamentos otorgará, suspenderá o cancelará el registro \nsanitario, previo el cumplimiento de los trámites, requisitos y plazos señalados en dicha Ley;\n \nIII. \nQue es deber de la Dirección Nacional de Medicamentos garantizar el acceso y disponibilidad de medicamentos de calidad y su uso ra-\ncional, priorizando los intereses de la salud pública; por lo que se hace necesario emitir un Reglamento Especial, con el objetivo de dar \nun reconocimiento a los registros sanitarios extranjeros que ya han tenido un proceso de calidad semejante a los establecidos en el país; \nmediante el cual se les asegure un procedimiento de registro certero.\nPOR TANTO, \n \n \nen uso de sus facultades constitucionales,\t\nDECRETA el siguiente:\nREGLAMENTO ESPECIAL PARA EL RECONOCIMIENTO DE REGISTROS SANITARIOS EXTRANJEROS\n \nReconocimiento de Registros Sanitarios Extranjeros\n \nArt. 1.- La Dirección Nacional de Medicamentos, en adelante \"la Dirección\", podrá reconocer de manera oficial los registros sanitarios otorgados \npor autoridades sanitarias de países cuyas agencias reguladoras de medicamentos han sido certificadas de nivel IV por la Organización Panamericana de \nla Salud (OPS), así como aquellos registros sanitarios otorgados por autoridades sanitarias de los Estados Unidos de Norteamérica, Canadá, Australia, \nSuiza, Japón y por la Agencia Europea de Medicamentos (EMA).\n \n \nEl reconocimiento será aplicable a todos los medicamentos que hayan sido registrados por los países citados en el inciso anterior. Sin embargo, \npara los medicamentos biotecnológicos o biosimilares y, productos biológicos, se otorgará el registro respectivo, siempre y cuando hayan sido regis-\ntrados por estos mismos países y que dichos países dispongan de reglamentación específica para éstos.\n \n \nLa Dirección, a través de la Unidad de Registro y Visado, otorgará el registro sanitario respectivo, tomando en cuenta lo establecido en los incisos \nanteriores, siempre y cuando se cumplan con todos los requisitos y se presente toda la documentación establecida en el Art. 20 del Reglamento General \nde la Ley de Medicamentos.\nMinisterio de Salud\n\n\nPAGE 3\n31\nDIARIO OFICIAL.- San Salvador, 4 de Marzo de 2013. \n \nProcedimiento para proporcionar el Registro Sanitario tomando en cuenta el reconocimiento de Registros sanitarios extranjeros\n \nArt. 2.- El procedimiento para proporcionar el registro sanitario de productos farmacéutico",
+        "start": 0,
+        "end": 6500,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "SLV",
+      "country": "El Salvador",
+      "selected_document_id": "fedf25056ca109edee84",
+      "source_id": "29ad656c45d33558",
+      "pathway": "Foreign registration recognised after technical-document review",
+      "source_url": "https://asp.salud.gob.sv/regulacion/pdf/reglamento/reglamento_especial_reconocimiento_registros_sanitarios_extranjeros.pdf",
+      "document_title": "Decree34 2013 original official gazette",
+      "source_type": "Executive decree",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "es",
+      "translation_provenance": [
+        {
+          "SLV-Q01": "Assistant checked and corrected research translation; not official/certified"
+        }
+      ],
+      "raw_sha256": "ecb5ec528ce002585052b45e71fe85cd010590605808e88536ca4c9a696628f5",
+      "raw_hash_validated": true,
+      "text_sha256": "df0fc004f3177aa13971291b1a2f77634eca7b668f1fc43f983fcbec7703e41b",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "2013 decree, not asserted current consolidated position. Article 20 of General Medicines Regulations supplies essential incorporated requirements not fully reproduced in selected source.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          4954,
+          8418
+        ],
+        [
+          0,
+          6500
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "All medicines; biological exceptions separately specified.",
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "USA, Canada, Australia, Switzerland, Japan, EMA and PAHO level-IV agencies.",
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "A qualifying foreign registration; no two-reference requirement stated.",
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Favorable technical-documentary review required before automatic numbering.",
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Application with all Article 20 documents; fee amount not supplied.",
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Ten working days technical review; eight working days applicant correction; automatic number after favorable report under stated ten-day wording.",
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "May recognize; unmet documents cause lapse; no full eligibility claim without incorporated Article 20.",
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLV-Q01",
+            "SLV-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "SLV-Q01",
+          "source_document_id": "fedf25056ca109edee84",
+          "evidence_role": "Selected primary document",
+          "section_article": "Articles 1–2",
+          "pdf_page": 2,
+          "source_url": "https://asp.salud.gob.sv/regulacion/pdf/reglamento/reglamento_especial_reconocimiento_registros_sanitarios_extranjeros.pdf",
+          "raw_sha256": "ecb5ec528ce002585052b45e71fe85cd010590605808e88536ca4c9a696628f5",
+          "text_sha256": "df0fc004f3177aa13971291b1a2f77634eca7b668f1fc43f983fcbec7703e41b",
+          "exact_text": "Art. 1.- La Dirección Nacional de Medicamentos, en adelante \"la Dirección\", podrá reconocer de manera oficial los registros sanitarios otorgados \npor autoridades sanitarias de países cuyas agencias reguladoras de medicamentos han sido certificadas de nivel IV por la Organización Panamericana de \nla Salud (OPS), así como aquellos registros sanitarios otorgados por autoridades sanitarias de los Estados Unidos de Norteamérica, Canadá, Australia, \nSuiza, Japón y por la Agencia Europea de Medicamentos (EMA).\n \n \nEl reconocimiento será aplicable a todos los medicamentos que hayan sido registrados por los países citados en el inciso anterior. Sin embargo, \npara los medicamentos biotecnológicos o biosimilares y, productos biológicos, se otorgará el registro respectivo, siempre y cuando hayan sido regis-\ntrados por estos mismos países y que dichos países dispongan de reglamentación específica para éstos.\n \n \nLa Dirección, a través de la Unidad de Registro y Visado, otorgará el registro sanitario respectivo, tomando en cuenta lo establecido en los incisos \nanteriores, siempre y cuando se cumplan con todos los requisitos y se presente toda la documentación establecida en el Art. 20 del Reglamento General \nde la Ley de Medicamentos.\nMinisterio de Salud\n\n\nPAGE 3\n31\nDIARIO OFICIAL.- San Salvador, 4 de Marzo de 2013. \n \nProcedimiento para proporcionar el Registro Sanitario tomando en cuenta el reconocimiento de Registros sanitarios extranjeros\n \nArt. 2.- El procedimiento para proporcionar el registro sanitario de productos farmacéuticos, tomando en cuenta el reconocimiento de registros \nsanitarios extranjeros, será el siguiente:\n \n \na) \nPresentar la solicitud con los requisitos y documentos establecidos en el Art. 20 del Reglamento General de la Ley de Medicamentos;\n \n \nb) \nUna vez presentada la solicitud y demás requisitos, se procederá al análisis técnico documental de los mismos, para lo cual la Dirección \ndispondrá del término de diez (10) días hábiles, a partir de la recepción de la solicitud;\n \n \nc) \nSi del análisis técnico se encontraren observaciones, se notificará por una sola vez al interesado. La notificación deberá ser retirada de las \noficinas de la Dirección por el solicitante o por quien tenga su autorización por escrito;\n \n \nd) \nEl solicitante dispondrá del término de ocho (8) días hábiles, contados a partir de la fecha de notificación, para subsanar las observaciones \nrelativas a la solicitud y sus anexos; \n \n \n \n \nSi dentro del término señalado anteriormente, el solicitante no lo hiciera o lo hiciera en forma indebida, la Dirección, en el término de cinco \n(5) días hábiles contados a partir de la fecha de presentación del documento o del vencimiento del término señalado, según el caso, declarará \ncaducada la solicitud y notificará al solicitante para que retire la documentación dentro de los quince (15) días siguientes a la notificación \nde ese acto administrativo. Si el solicitante no la retirare, se procederá a archivarla;\n \n \ne) \nSi el informe técnico documental es favorable, la Dirección, en el término máximo de diez (10) días hábiles a partir de la recepción de \nla solicitud y demás requisitos señalados en los artículos precedentes, le asignará el número de registro sanitario de manera automática y \nconcederá el respectivo Certificado de Registro Sanitario con reconocimiento del Registro Sanitario extranjero, utilizando el formato que \npara el efecto determine la Unidad de Registro respectiva.",
+          "start": 4954,
+          "end": 8418,
+          "translation": "Article 1. The National Directorate of Medicines, hereinafter the Directorate, may officially recognise sanitary registrations granted by health authorities whose medicines regulators have PAHO level-IV certification, and registrations granted by the health authorities of the United States, Canada, Australia, Switzerland and Japan and by the European Medicines Agency. Recognition applies to all medicines registered by the countries mentioned above. However, for biotechnological medicines, biosimilars and biological products, registration is granted only if they have been registered by those same countries and those countries have specific regulations for them. Through its Registration and Endorsement Unit, the Directorate shall grant the corresponding registration subject to the foregoing, provided all requirements are met and all documents specified in Article 20 of the General Regulations of the Medicines Law are submitted. [Official Gazette, San Salvador, 4 March 2013.] Article 2. The procedure for sanitary registration taking account of foreign registrations is: (a) submit the application with the requirements and documents specified in Article 20 of the General Regulations of the Medicines Law; (b) after submission of the application and other requirements, the Directorate has ten working days from receipt to conduct the technical documentary analysis; (c) observations arising from technical analysis are notified once to the interested party, and the notice must be collected from the Directorate by the applicant or a person with written authorisation; (d) the applicant has eight working days from notification to remedy observations on the application and annexes. If the applicant does not do so or does so improperly, within five working days from document submission or expiry of the period, as applicable, the Directorate shall declare the application lapsed and notify the applicant to collect the documentation within fifteen days of notification; otherwise it will be archived; (e) if the documentary technical report is favourable, within a maximum of ten working days from receipt of the application and other requirements in the preceding articles, the Directorate shall automatically assign the registration number and grant the corresponding certificate recognising the foreign registration, using the format determined by the registration unit.",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SLV-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://asp.salud.gob.sv/regulacion/pdf/reglamento/reglamento_especial_reconocimiento_registros_sanitarios_extranjeros.pdf",
+          "raw_sha256": "ecb5ec528ce002585052b45e71fe85cd010590605808e88536ca4c9a696628f5",
+          "text_sha256": "df0fc004f3177aa13971291b1a2f77634eca7b668f1fc43f983fcbec7703e41b",
+          "exact_text": "PAGE 1\n1\nDIARIO OFICIAL.- San Salvador, 4 de Marzo de 2013. \nDiario Oficial\nS U M A R I O\n1\nREPUBLICA DE EL SALVADOR EN LA AMERICA  CENTRAL\n \nTOMO Nº 398 \nSAN SALVADOR, lunes 4 DE marzo de 2013 \n NUMERO 43\n-La Dirección de la Imprenta Nacional hace del conocimiento que toda publicación en el Diario Oficial se \nprocesa por transcripción directa y fiel del original, por consiguiente la institución  no se hace responsable por \ntranscripciones cuyos originales lleguen en forma ilegible y/o defectuosa y son de exclusiva responsabilidad \nde la persona o institución que los presentó. (Arts. 21, 22 y 23 Reglamento de la Imprenta Nacional).\nDirección: 4a. C. Pte. y 15 Av. Sur # 829 S.S. Tel.: 2527-7800 • Página Web: www.imprentanacional.gob.sv • Correo: diariooficial@imprentanacional.gob.sv\nPág.\n4-5\n6-8\n9\n10\n10\n11-23\n24-28\nPág.\n28\n29\n30-31\n32\n33-34\n35-38\nORGANO LEGISLATIVO\n \nDecreto No. 304.- Ley del Programa de Vaso de Leche \nEscolar. ......................................................................................\nORGANO EJECUTIVO\nPresidencia de la República\n \nAcuerdos Nos. 4, 8, 9, 15, 19, 28 y 38.- Se encargan \nDespachos Ministeriales a funcionarios públicos.......................\n \nAcuerdo No. 55.- Se integran a miembros al Pleno \ndel Consejo Nacional de Atención Integral a la Persona con \nDiscapacidad...............................................................................\n \nAcuerdo No. 56.- Se nombra a miembros del Consejo \nDirectivo del Banco Central de Reserva de El Salvador............\n \nAcuerdo No. 57.- Se nombra a Director en la Categoría de \nOficiales del Consejo Directivo del Instituto de Previsión Social \nde la Fuerza Armada...................................................................\nMINISTERIO DE GOBERNACIÓN\nRamo de Gobernación\n \nEstatutos de “Iglesia Oasis de Amor y Esperanza de las \nAsambleas de Dios”, “Iglesia Evangélica Misión Bautista El \nCamino” y “Asociación Deportiva Cantón El Tamarindo” y \nAcuerdos Nos. 11, 37 y 54, aprobándolos y confiriéndoles el \ncarácter de persona jurídica........................................................\nMINISTERIO DE ECONOMÍA\nRamo de Economía\n \nAcuerdos Nos. 181, 183 y 185.- Se autoriza la construcción \nde estaciones de servicios, donde se instalarán tanques para \nalmacenar gasolina.....................................................................\nMINISTERIO DE EDUCACIÓN\nRamo de Educación\n \nAcuerdo No. 15-1814.- Se reconocen estudios realizados \npor Moisés Alemán Buezo.........................................................\nMINISTERO DE LA DEFENSA NACIONAL\nRamo de la Defensa Nacional\n \nAcuerdo No. 27.- Se asigna montepío militar a favor de la \nseñora Irene Anaya.....................................................................\nMINISTERIO DE SALUD\n \nDecreto No. 34.- Reglamento Especial para el \nReconocimiento de Registros Sanitarios Extranjeros................\nORGANO JUDICIAL\nCorte Suprema de Justicia\n \nAcuerdos Nos. 643-D, 2367-D, 2380-D y 2427-D.- \nAutorizaciones para ejercer la profesión de abogado en todas \nsus ramas....................................................................................\n \nAcuerdos Nos. 1717-D, 1720-D, 1722-D, 1724-D, 2045-D, \n2060-D, 2095-D, 2114-D y 2115-D.- Autorizaciones para ejercer \nlas funciones de notario y aumentos en la nómina respectiva....\nINSTITUCIONES AUTONOMAS\nAlcaldías Municipales\n \nDecretos Nos. 1 y 2.- Reformas a las ordenanzas de tasas por \nservicios municipales de Sesori y Dolores, de los departamentos \nde San Miguel y Cabañas, respectivamente...............................\nDIRECTOR:  Edgard Antonio Mendoza Castro\n\n\nPAGE 2\n30\nDIARIO  OFICIAL  Tomo  Nº 398\nDECRETO No. 34\nEL PRESIDENTE DE LA REPÚBLICA DE EL SALVADOR,\nCONSIDERANDO:\n \nI. \nQue mediante Decreto Legislativo No. 1008, de fecha 22 de febrero de 2012, publicado en el Diario Oficial No. 43, Tomo No. 394, del 2 \nde marzo del mismo año, se emitió la Ley de Medicamento, la cual tiene por objeto, entre otros, asegurar la accesibilidad y registro de los \nmedicamentos;\n \nII. \nQue de acuerdo a lo establecido en la citada Ley, la Dirección Nacional de Medicamentos otorgará, suspenderá o cancelará el registro \nsanitario, previo el cumplimiento de los trámites, requisitos y plazos señalados en dicha Ley;\n \nIII. \nQue es deber de la Dirección Nacional de Medicamentos garantizar el acceso y disponibilidad de medicamentos de calidad y su uso ra-\ncional, priorizando los intereses de la salud pública; por lo que se hace necesario emitir un Reglamento Especial, con el objetivo de dar \nun reconocimiento a los registros sanitarios extranjeros que ya han tenido un proceso de calidad semejante a los establecidos en el país; \nmediante el cual se les asegure un procedimiento de registro certero.\nPOR TANTO, \n \n \nen uso de sus facultades constitucionales,\t\nDECRETA el siguiente:\nREGLAMENTO ESPECIAL PARA EL RECONOCIMIENTO DE REGISTROS SANITARIOS EXTRANJEROS\n \nReconocimiento de Registros Sanitarios Extranjeros\n \nArt. 1.- La Dirección Nacional de Medicamentos, en adelante \"la Dirección\", podrá reconocer de manera oficial los registros sanitarios otorgados \npor autoridades sanitarias de países cuyas agencias reguladoras de medicamentos han sido certificadas de nivel IV por la Organización Panamericana de \nla Salud (OPS), así como aquellos registros sanitarios otorgados por autoridades sanitarias de los Estados Unidos de Norteamérica, Canadá, Australia, \nSuiza, Japón y por la Agencia Europea de Medicamentos (EMA).\n \n \nEl reconocimiento será aplicable a todos los medicamentos que hayan sido registrados por los países citados en el inciso anterior. Sin embargo, \npara los medicamentos biotecnológicos o biosimilares y, productos biológicos, se otorgará el registro respectivo, siempre y cuando hayan sido regis-\ntrados por estos mismos países y que dichos países dispongan de reglamentación específica para éstos.\n \n \nLa Dirección, a través de la Unidad de Registro y Visado, otorgará el registro sanitario respectivo, tomando en cuenta lo establecido en los incisos \nanteriores, siempre y cuando se cumplan con todos los requisitos y se presente toda la documentación establecida en el Art. 20 del Reglamento General \nde la Ley de Medicamentos.\nMinisterio de Salud\n\n\nPAGE 3\n31\nDIARIO OFICIAL.- San Salvador, 4 de Marzo de 2013. \n \nProcedimiento para proporcionar el Registro Sanitario tomando en cuenta el reconocimiento de Registros sanitarios extranjeros\n \nArt. 2.- El procedimiento para proporcionar el registro sanitario de productos farmacéutico",
+          "start": 0,
+          "end": 6500,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

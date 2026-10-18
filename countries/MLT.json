@@ -228,5 +228,714 @@
     "source_hashes": [
       "6440688820746f9fad02beacbc13581a61bf24a0586a706fa0cffea2fba2e418"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "MLT",
+    "country": "Malta",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Zero-day mutual recognition with validation and a separate national authorisation phase",
+    "source_url": "https://medicinesauthority.gov.mt/decentralisedprocedure",
+    "document_id": "19650f88429052271cca",
+    "genre": "Official national procedure",
+    "language": "en",
+    "scope": "Malta as concerned Member State in qualifying repeat-use mutual recognition",
+    "version_note": "Malta MRP/DCP including zero-day repeat-use route; no RMS report update/questions only under zero-day conditions.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "outside pathway scope",
+        "finding": "Selected MRP requires a national EEA reference Member State authorisation; FDA and an EC centralised authorisation are not that national RMS approval.",
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same/identical dossier submitted to RMS and concerned states under MRP; local administrative documents remain.",
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Zero-day repeat-use route requires no RMS update/no comments and identical documents; this waives an update under conditions, not the entire dossier or initial scientific review.",
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Full/public report contrast is not decisive because national RMS prior approval is missing on fixed facts.",
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "explicit requirement",
+        "finding": "RMS scientific assessment is circulated/shared for national recognition; not a manufacturer public-report-only shortcut.",
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Member States assess/recognise RMS conclusions; serious-public-health-risk objections and coordination/referral may remain.",
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "Zero-day procedure requires validation 14 days then national issuance 30 days and translations 5 days; not a general 0 day market-access claim.",
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MLT-Q01",
+          "MLT-CONTEXT-1",
+          "MLT-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "MLT-SHARED-EC"
+        ]
+      },
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "MLT-Q01",
+        "iso3": "MLT",
+        "event_id": null,
+        "document_id": "19650f88429052271cca",
+        "source_id": "f46348d608902853",
+        "source_url": "https://medicinesauthority.gov.mt/decentralisedprocedure",
+        "raw_sha256": "1f468cbf4e0e5dbb6a2ce98e74f955bc5ac9c9f4accb79f3e444d99a55512830",
+        "text_sha256": "5ade6ee4fdf4434853219b2bb3b8407d373f1f77b84e044c2e2d313bdb2adac2",
+        "start_offset": 4416,
+        "end_offset": 7135,
+        "pdf_page": null,
+        "section_article": "Zero-day Mutual Recognition Procedure",
+        "verbatim_extracted_text": "The MMA will not request any update of the assessment report or the dossier, nor will there be any changes related to such procedure, except that in this simple way Malta joins an MRP. These procedures can be finalised once the application has been accepted by the RMS and MMA, hence a “MRP day zero procedure”. Procedures have already been finalised successfully with various RMS countries.\nMore information on the Zero day Mutual Recognition Procedure\nApplicants should inform the Medicines Authority of their intention to submit such an application to the RMS.\nThe applicant sends a request to the RMS requesting the use of this simplified procedure.\nThe RMS requests confirmation from the CMS regarding the criticality of the product applied for.  Please refer to published\nCMDh guidance document\nfor this procedure.\nThe CMS confirms the need for the product and guarantees that\n:\na.      There will be no need for the RMS to update the assessment report since these will be accepted from the RMS without any comments\nb.      No CMS comments will be sent by MT as CMS to the RMS thus enabling the application to be approved immediately\nc.      The addition of MT will not change the renewal cycle or PSUR submission timelines\nd.      The product information specifically the SmPC, package leaflet and labelling will be accepted as authorised in the RMS\ne.\nNo additional renewal is required.\nAn application form and dossier are submitted to MT as CMS. This submission should include:\na.       A cover letter clearly stating that the submitted dossier is identical to the one currently approved in the RMS and that it is being submitted as a Zero day MR procedure\nb.      The dossier preferably in eCTD format as had been submitted to the Reference Member State, together with any subsequent approved variations and a confirmation of their approval (for MRP on the basis of a previously national procedure only).  If the product is already in the MRP the list of approved variations is not required.\nc.       Latest approved Product Information approved by the RMS\nMT as CMS validates the application form within a 14 day validation period\n·         RMS then sets a Day 0\n·         A Zero-day procedure is concluded on the same day it starts (i.e. following validation) by the RMS\n·         The End Of Procedure documents are sent by the RMS to Malta\n·         Following this, the applicant submits the MT specific product information\n·         The Medicines Authority issues the MA during the 30 days national phase of the procedure.\nRequests for Malta to be included as CMS in Zero day procedures should be sent to the mailbox\nmrp-dcp.adm@gov.mt\nas well as any queries on the above or you need guidance and support.",
+        "display_text": "The MMA will not request any update of the assessment report or the dossier, nor will there be any changes related to such procedure, except that in this simple way Malta joins an MRP. These procedures can be finalised once the application has been accepted by the RMS and MMA, hence a “MRP day zero procedure”. Procedures have already been finalised successfully with various RMS countries. More information on the Zero day Mutual Recognition Procedure Applicants should inform the Medicines Authority of their intention to submit such an application to the RMS. The applicant sends a request to the RMS requesting the use of this simplified procedure. The RMS requests confirmation from the CMS regarding the criticality of the product applied for. Please refer to published CMDh guidance document for this procedure. The CMS confirms the need for the product and guarantees that : a. There will be no need for the RMS to update the assessment report since these will be accepted from the RMS without any comments b. No CMS comments will be sent by MT as CMS to the RMS thus enabling the application to be approved immediately c. The addition of MT will not change the renewal cycle or PSUR submission timelines d. The product information specifically the SmPC, package leaflet and labelling will be accepted as authorised in the RMS e. No additional renewal is required. An application form and dossier are submitted to MT as CMS. This submission should include: a. A cover letter clearly stating that the submitted dossier is identical to the one currently approved in the RMS and that it is being submitted as a Zero day MR procedure b. The dossier preferably in eCTD format as had been submitted to the Reference Member State, together with any subsequent approved variations and a confirmation of their approval (for MRP on the basis of a previously national procedure only). If the product is already in the MRP the list of approved variations is not required. c. Latest approved Product Information approved by the RMS MT as CMS validates the application form within a 14 day validation period · RMS then sets a Day 0 · A Zero-day procedure is concluded on the same day it starts (i.e. following validation) by the RMS · The End Of Procedure documents are sent by the RMS to Malta · Following this, the applicant submits the MT specific product information · The Medicines Authority issues the MA during the 30 days national phase of the procedure. Requests for Malta to be included as CMS in Zero day procedures should be sent to the mailbox mrp-dcp.adm@gov.mt as well as any queries on the above or you need guidance and support.",
+        "feature_tags": [
+          "automatic",
+          "sameness",
+          "reports",
+          "decision_clock",
+          "scope_limit"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "No scientific comments once RMS/Malta accept the qualifying application; identical dossier and product information required. Fourteen-day validation and a subsequent thirty-day national MA phase mean zero-day recognition is not instantaneous marketing authorisation.",
+        "version_alignment": "Preserved official Medicines Authority webpage; adoption date not established by webpage retrieval",
+        "evidence_tier": "national_rule",
+        "product_scope": "Malta as concerned Member State in qualifying repeat-use mutual recognition",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MLT-CONTEXT-1",
+        "source_url": "https://medicinesauthority.gov.mt/decentralisedprocedure",
+        "raw_sha256": "1f468cbf4e0e5dbb6a2ce98e74f955bc5ac9c9f4accb79f3e444d99a55512830",
+        "text_sha256": "5ade6ee4fdf4434853219b2bb3b8407d373f1f77b84e044c2e2d313bdb2adac2",
+        "start_offset": 0,
+        "end_offset": 10075,
+        "verbatim_extracted_text": "Medicines Authority\nMedicines Authority\nA\nA\nA\nHome\nOrganisation\nAbout Us\nMission and Objectives\nDirectorates and Units\nCommittees and Working Groups\nAnnual Reports\nHeads of Medicines Agencies\nWorking at the Malta Medicines Authority\nCareer Opportunities\nBank and Payment Details\nData and Information\nFreedom of Information\nData Protection\nPresentations and Publications\nLinks\nMedical Devices, Pharmaceutical Collaboration and Entrepreneurship\nPharmacy Roster\neHealth\nGovernment of Malta\nHeads of Medicines Agency\nInnovative Medicines Initiative\nEuropean Medicines Agency\nLegislation\nIntroduction\nBetter Regulation\nLegislation Documentation\nMedicines Act\nMedical Device Legislation\nEU Legislation\nConsultation\nCollaboration\nRequest for Collaborative Agreements\nEU & Medicines Authority Consultations\nEU & Medicines Authority Consultations\nNews & Events\nNews\nPress Releases\nCirculars\nOther News\nPast News\nEvents\nLatest Events\nPast Events\nOnline Services\nOnline Services\nEudrapharm\nEU Common Submission Portal\nMedicines Authority Notifications\nServizz.gov.mt\nOnline Applications (E-Forms)\nNewsletters\nContact and Connect\nOn Line Forms\nEnquiries and Feedback\nComplaints\nComplaints related to Advertising of Medicinal Products\nReport Product Defect\nReport a Side Effect - Adverse Drug Reaction (ADR)\nConnect and Share\nEngage with us on Facebook\nFollow us on LinkedIn\nFollow us on Twitter\nConnect with us on Google\nWatch our videos on YouTube\nFind Us\nContact Details\nPrevious\nNext\nPatient / Consumer\nKnow more about Medicines Regulation\nKnow more about access to medicines which do not have a Marketing Authorisation\nReport a Side Effect\nBiological and Biosimilar Medicinal Products\nHow we monitor the safety of medicines\nKnow more about the Medicines Supply Chain\nKnow more about Use of Medicines\nInformation Leaflets on Medicines\nSearch for your Medicines\nIndustry\nPharmaceutical Activities and Inspections\nProduct Quality Defects Reporting\nScientific Advice\nAdvertising\nRegistering a product\nPharmacovigilance\nFees\nHealth Care Professionals\nSearch Authorised Medicines in Malta\nAdverse Drug Reaction Reporting\nHow we monitor the safety of medicinal products\nSafety Information\nClinical Trials\nProduct Quality Defects Reporting\nMedicines supply chain and regulation\nAdvertising\nHome\n/\nActivities\n/\nRegistration\n/\nEuropean Procedures\n/ Decentralised and Mutual Recognition Procedures\nDecentralised and Mutual Recognition Procedures\nUseful Links\nMedical Devices, Pharmaceutical Collaboration and Entrepreneurship\nPharmacy Roster\neHealth\nGovernment of Malta\nHeads of Medicines Agency\nInnovative Medicines Initiative\nEuropean Medicines Agency\nActivities\nPharmaceutical Activities and Inspections\nScientific Advice\nRecalls and Rapid Alerts\nRegistration of Medicinal Products\nAdvertising\nBorderline Products\nChanges to prescription status\nSafety Recalls\nBREXIT - Regulatory considerations\nAdvanced Scientific Initiatives\nCannabis for Medicinal and Research Purposes\nLinguistic Checks\nSafety\nClinical Trials\nEnforcement and Market Surveillance\nIntroduction\nGuidelines and Application forms\nZero day Mutual Recognition Procedure\nMalta as Reference Member State in the Decentralised Procedur\ne\nIntroduction\nIn cases where a national marketing authorisation (MA) is required for a product that is already registered in another member state of the EU/EEA the Mutual Recognition (MR) procedure applies. Where a product is not already authorised in another member state,  the Decentralised (DC) procedure may be used for obtaining a Marketing Authorisation (MA) for Malta.\nGuidelines and Application Forms\nMore detailed information on the MR and DC procedures, guidance documents and all documentation and templates can be found in the\nCMDh\n(Co-ordination Group for Mutual Recognition and Decentralised Procedures - Human) section  of the Heads of Medicines Agencies (HMA)\nwebsite\n.\nDetails on documentation to be supplied can be found in\nVolume 2A,\nChapter 2\n(Mutual Recognition) of the Notice to Applicants\nand application forms can be downloaded from\nVolume 2B of the Notice to Applicants\nof the European Commission website.\nZero-day Mutual Recognition Procedure\nThe MMA\nagrees to accept the assessment of the RMS or the National Competent Authority (in the instance where the product had been authorised nationally), without any comments or questions. The approved product information will also be accepted without any comments. The MMA will not request any update of the assessment report or the dossier, nor will there be any changes related to such procedure, except that in this simple way Malta joins an MRP. These procedures can be finalised once the application has been accepted by the RMS and MMA, hence a “MRP day zero procedure”. Procedures have already been finalised successfully with various RMS countries.\nMore information on the Zero day Mutual Recognition Procedure\nApplicants should inform the Medicines Authority of their intention to submit such an application to the RMS.\nThe applicant sends a request to the RMS requesting the use of this simplified procedure.\nThe RMS requests confirmation from the CMS regarding the criticality of the product applied for.  Please refer to published\nCMDh guidance document\nfor this procedure.\nThe CMS confirms the need for the product and guarantees that\n:\na.      There will be no need for the RMS to update the assessment report since these will be accepted from the RMS without any comments\nb.      No CMS comments will be sent by MT as CMS to the RMS thus enabling the application to be approved immediately\nc.      The addition of MT will not change the renewal cycle or PSUR submission timelines\nd.      The product information specifically the SmPC, package leaflet and labelling will be accepted as authorised in the RMS\ne.\nNo additional renewal is required.\nAn application form and dossier are submitted to MT as CMS. This submission should include:\na.       A cover letter clearly stating that the submitted dossier is identical to the one currently approved in the RMS and that it is being submitted as a Zero day MR procedure\nb.      The dossier preferably in eCTD format as had been submitted to the Reference Member State, together with any subsequent approved variations and a confirmation of their approval (for MRP on the basis of a previously national procedure only).  If the product is already in the MRP the list of approved variations is not required.\nc.       Latest approved Product Information approved by the RMS\nMT as CMS validates the application form within a 14 day validation period\n·         RMS then sets a Day 0\n·         A Zero-day procedure is concluded on the same day it starts (i.e. following validation) by the RMS\n·         The End Of Procedure documents are sent by the RMS to Malta\n·         Following this, the applicant submits the MT specific product information\n·         The Medicines Authority issues the MA during the 30 days national phase of the procedure.\nRequests for Malta to be included as CMS in Zero day procedures should be sent to the mailbox\nmrp-dcp.adm@gov.mt\nas well as any queries on the above or you need guidance and support.\nMalta as Reference Member State in the Decentralised Procedure\nMalta is active as Reference Member State, mainly for generic applications.  The\nMedicines Authority grants slots according to resoures available.  To book a slot for Malta to be the  RMS in a DC or MR Procedure the\nRequest Form\navailable on the CMDh website should be filled in and sent to the Medicines Authority at least six (6) months before the proposed submission date.  The requests should be sent by e-mail directly to the CMDh (MRP/DCP)\ncontact point\nwith a copy to the\nLicensing Directorate's e-mail address\n.   It is important that the information on this form is as complete and correct as possible.\nPublic assessment reports of products authorised with procedures where Malta was RMS are available\nhere\n.\nOnce you are given a slot, you are requested to inform the Medicines Authority\nimmediately\nshould you not be able, for any reason, to submit in the agreed timeline.  The Medicines Authority should be informed in good time about any problems encountered that may lead to postponement or cancellation of the slot that is granted.\nPlease note that for companies that submit three applications within a 12 month period for DCP with Malta as Reference Member State, a 30% discount on the full fees paid is applicable.  More information can be found in the\nFees Guidelines\n.\nInformation on national duplicate applications can be found\nhere\n.\nQ&A on end of procedure requirements:\n1. What will be required by the Medicines Authority during the national phase at the end of a decentralised or a mutual recognition procedure?\nAs stated in the Notice to Applicants,\nEUDRALEX Volume 2A Chapter 2\n, the applicant should provide the requisite documentation (adequate translation of the agreed Summary of Product Characteristics, package leaflet and labelling) by not later than 5 calendar days after the end of the procedure.   Adherance to timelines is important to ensure timely grant of the marketing authorisation in line with the statutory timelines.\nAs both English and Maltese are official languages for Malta, the product information (PI) may be submitted in English and/or Maltese and the product may be placed on the market in either language.\nThe PI should be updated with the Malta specific details such as the product name, batch release site/s, ADR reporting details, MA number and MA holder.\nIf available, the mock-ups of the labelling and package leaflet (as they will be made available to the patient) should be submitted at the end of the procedure, or at the latest, before the product is placed on the market.\n2. Where should the end of procedure documents be sent?\nThe end of procedure documents can be either sent through the\nCESP\nor to the mailbox\nmrp-dcp.adm@gov.mt\n.\nFurther information on document submission can be found in the following page on our website:\nhttp://www.medicinesauthority.gov.mt/requirementssubmission\nPage updated on 29/4/2024",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Preserved official Medicines Authority webpage; adoption date not established by webpage retrieval"
+      },
+      {
+        "clause_id": "MLT-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "MLT",
+      "country": "Malta",
+      "selected_document_id": "19650f88429052271cca",
+      "source_id": "f46348d608902853",
+      "pathway": "Zero-day mutual recognition with validation and a separate national authorisation phase",
+      "source_url": "https://medicinesauthority.gov.mt/decentralisedprocedure",
+      "document_title": "Malta mutual recognition decentralised and zero-day procedures",
+      "source_type": "Official national procedure",
+      "scope": "Malta as concerned Member State in qualifying repeat-use mutual recognition",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "1f468cbf4e0e5dbb6a2ce98e74f955bc5ac9c9f4accb79f3e444d99a55512830",
+      "raw_hash_validated": true,
+      "text_sha256": "5ade6ee4fdf4434853219b2bb3b8407d373f1f77b84e044c2e2d313bdb2adac2",
+      "version_dates": {},
+      "version_scope_note": "Malta MRP/DCP including zero-day repeat-use route; no RMS report update/questions only under zero-day conditions.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          0,
+          10075
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "outside pathway scope",
+          "finding": "Selected MRP requires a national EEA reference Member State authorisation; FDA and an EC centralised authorisation are not that national RMS approval.",
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same/identical dossier submitted to RMS and concerned states under MRP; local administrative documents remain.",
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Zero-day repeat-use route requires no RMS update/no comments and identical documents; this waives an update under conditions, not the entire dossier or initial scientific review.",
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Full/public report contrast is not decisive because national RMS prior approval is missing on fixed facts.",
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "explicit requirement",
+          "finding": "RMS scientific assessment is circulated/shared for national recognition; not a manufacturer public-report-only shortcut.",
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Member States assess/recognise RMS conclusions; serious-public-health-risk objections and coordination/referral may remain.",
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Zero-day procedure requires validation 14 days then national issuance 30 days and translations 5 days; not a general 0 day market-access claim.",
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MLT-Q01",
+            "MLT-CONTEXT-1",
+            "MLT-SHARED-EC"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "MLT-SHARED-EC"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "MLT-Q01",
+          "iso3": "MLT",
+          "event_id": null,
+          "document_id": "19650f88429052271cca",
+          "source_id": "f46348d608902853",
+          "source_url": "https://medicinesauthority.gov.mt/decentralisedprocedure",
+          "raw_sha256": "1f468cbf4e0e5dbb6a2ce98e74f955bc5ac9c9f4accb79f3e444d99a55512830",
+          "text_sha256": "5ade6ee4fdf4434853219b2bb3b8407d373f1f77b84e044c2e2d313bdb2adac2",
+          "start_offset": 4416,
+          "end_offset": 7135,
+          "pdf_page": null,
+          "section_article": "Zero-day Mutual Recognition Procedure",
+          "verbatim_extracted_text": "The MMA will not request any update of the assessment report or the dossier, nor will there be any changes related to such procedure, except that in this simple way Malta joins an MRP. These procedures can be finalised once the application has been accepted by the RMS and MMA, hence a “MRP day zero procedure”. Procedures have already been finalised successfully with various RMS countries.\nMore information on the Zero day Mutual Recognition Procedure\nApplicants should inform the Medicines Authority of their intention to submit such an application to the RMS.\nThe applicant sends a request to the RMS requesting the use of this simplified procedure.\nThe RMS requests confirmation from the CMS regarding the criticality of the product applied for.  Please refer to published\nCMDh guidance document\nfor this procedure.\nThe CMS confirms the need for the product and guarantees that\n:\na.      There will be no need for the RMS to update the assessment report since these will be accepted from the RMS without any comments\nb.      No CMS comments will be sent by MT as CMS to the RMS thus enabling the application to be approved immediately\nc.      The addition of MT will not change the renewal cycle or PSUR submission timelines\nd.      The product information specifically the SmPC, package leaflet and labelling will be accepted as authorised in the RMS\ne.\nNo additional renewal is required.\nAn application form and dossier are submitted to MT as CMS. This submission should include:\na.       A cover letter clearly stating that the submitted dossier is identical to the one currently approved in the RMS and that it is being submitted as a Zero day MR procedure\nb.      The dossier preferably in eCTD format as had been submitted to the Reference Member State, together with any subsequent approved variations and a confirmation of their approval (for MRP on the basis of a previously national procedure only).  If the product is already in the MRP the list of approved variations is not required.\nc.       Latest approved Product Information approved by the RMS\nMT as CMS validates the application form within a 14 day validation period\n·         RMS then sets a Day 0\n·         A Zero-day procedure is concluded on the same day it starts (i.e. following validation) by the RMS\n·         The End Of Procedure documents are sent by the RMS to Malta\n·         Following this, the applicant submits the MT specific product information\n·         The Medicines Authority issues the MA during the 30 days national phase of the procedure.\nRequests for Malta to be included as CMS in Zero day procedures should be sent to the mailbox\nmrp-dcp.adm@gov.mt\nas well as any queries on the above or you need guidance and support.",
+          "display_text": "The MMA will not request any update of the assessment report or the dossier, nor will there be any changes related to such procedure, except that in this simple way Malta joins an MRP. These procedures can be finalised once the application has been accepted by the RMS and MMA, hence a “MRP day zero procedure”. Procedures have already been finalised successfully with various RMS countries. More information on the Zero day Mutual Recognition Procedure Applicants should inform the Medicines Authority of their intention to submit such an application to the RMS. The applicant sends a request to the RMS requesting the use of this simplified procedure. The RMS requests confirmation from the CMS regarding the criticality of the product applied for. Please refer to published CMDh guidance document for this procedure. The CMS confirms the need for the product and guarantees that : a. There will be no need for the RMS to update the assessment report since these will be accepted from the RMS without any comments b. No CMS comments will be sent by MT as CMS to the RMS thus enabling the application to be approved immediately c. The addition of MT will not change the renewal cycle or PSUR submission timelines d. The product information specifically the SmPC, package leaflet and labelling will be accepted as authorised in the RMS e. No additional renewal is required. An application form and dossier are submitted to MT as CMS. This submission should include: a. A cover letter clearly stating that the submitted dossier is identical to the one currently approved in the RMS and that it is being submitted as a Zero day MR procedure b. The dossier preferably in eCTD format as had been submitted to the Reference Member State, together with any subsequent approved variations and a confirmation of their approval (for MRP on the basis of a previously national procedure only). If the product is already in the MRP the list of approved variations is not required. c. Latest approved Product Information approved by the RMS MT as CMS validates the application form within a 14 day validation period · RMS then sets a Day 0 · A Zero-day procedure is concluded on the same day it starts (i.e. following validation) by the RMS · The End Of Procedure documents are sent by the RMS to Malta · Following this, the applicant submits the MT specific product information · The Medicines Authority issues the MA during the 30 days national phase of the procedure. Requests for Malta to be included as CMS in Zero day procedures should be sent to the mailbox mrp-dcp.adm@gov.mt as well as any queries on the above or you need guidance and support.",
+          "feature_tags": [
+            "automatic",
+            "sameness",
+            "reports",
+            "decision_clock",
+            "scope_limit"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "No scientific comments once RMS/Malta accept the qualifying application; identical dossier and product information required. Fourteen-day validation and a subsequent thirty-day national MA phase mean zero-day recognition is not instantaneous marketing authorisation.",
+          "version_alignment": "Preserved official Medicines Authority webpage; adoption date not established by webpage retrieval",
+          "evidence_tier": "national_rule",
+          "product_scope": "Malta as concerned Member State in qualifying repeat-use mutual recognition",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MLT-CONTEXT-1",
+          "source_url": "https://medicinesauthority.gov.mt/decentralisedprocedure",
+          "raw_sha256": "1f468cbf4e0e5dbb6a2ce98e74f955bc5ac9c9f4accb79f3e444d99a55512830",
+          "text_sha256": "5ade6ee4fdf4434853219b2bb3b8407d373f1f77b84e044c2e2d313bdb2adac2",
+          "start_offset": 0,
+          "end_offset": 10075,
+          "verbatim_extracted_text": "Medicines Authority\nMedicines Authority\nA\nA\nA\nHome\nOrganisation\nAbout Us\nMission and Objectives\nDirectorates and Units\nCommittees and Working Groups\nAnnual Reports\nHeads of Medicines Agencies\nWorking at the Malta Medicines Authority\nCareer Opportunities\nBank and Payment Details\nData and Information\nFreedom of Information\nData Protection\nPresentations and Publications\nLinks\nMedical Devices, Pharmaceutical Collaboration and Entrepreneurship\nPharmacy Roster\neHealth\nGovernment of Malta\nHeads of Medicines Agency\nInnovative Medicines Initiative\nEuropean Medicines Agency\nLegislation\nIntroduction\nBetter Regulation\nLegislation Documentation\nMedicines Act\nMedical Device Legislation\nEU Legislation\nConsultation\nCollaboration\nRequest for Collaborative Agreements\nEU & Medicines Authority Consultations\nEU & Medicines Authority Consultations\nNews & Events\nNews\nPress Releases\nCirculars\nOther News\nPast News\nEvents\nLatest Events\nPast Events\nOnline Services\nOnline Services\nEudrapharm\nEU Common Submission Portal\nMedicines Authority Notifications\nServizz.gov.mt\nOnline Applications (E-Forms)\nNewsletters\nContact and Connect\nOn Line Forms\nEnquiries and Feedback\nComplaints\nComplaints related to Advertising of Medicinal Products\nReport Product Defect\nReport a Side Effect - Adverse Drug Reaction (ADR)\nConnect and Share\nEngage with us on Facebook\nFollow us on LinkedIn\nFollow us on Twitter\nConnect with us on Google\nWatch our videos on YouTube\nFind Us\nContact Details\nPrevious\nNext\nPatient / Consumer\nKnow more about Medicines Regulation\nKnow more about access to medicines which do not have a Marketing Authorisation\nReport a Side Effect\nBiological and Biosimilar Medicinal Products\nHow we monitor the safety of medicines\nKnow more about the Medicines Supply Chain\nKnow more about Use of Medicines\nInformation Leaflets on Medicines\nSearch for your Medicines\nIndustry\nPharmaceutical Activities and Inspections\nProduct Quality Defects Reporting\nScientific Advice\nAdvertising\nRegistering a product\nPharmacovigilance\nFees\nHealth Care Professionals\nSearch Authorised Medicines in Malta\nAdverse Drug Reaction Reporting\nHow we monitor the safety of medicinal products\nSafety Information\nClinical Trials\nProduct Quality Defects Reporting\nMedicines supply chain and regulation\nAdvertising\nHome\n/\nActivities\n/\nRegistration\n/\nEuropean Procedures\n/ Decentralised and Mutual Recognition Procedures\nDecentralised and Mutual Recognition Procedures\nUseful Links\nMedical Devices, Pharmaceutical Collaboration and Entrepreneurship\nPharmacy Roster\neHealth\nGovernment of Malta\nHeads of Medicines Agency\nInnovative Medicines Initiative\nEuropean Medicines Agency\nActivities\nPharmaceutical Activities and Inspections\nScientific Advice\nRecalls and Rapid Alerts\nRegistration of Medicinal Products\nAdvertising\nBorderline Products\nChanges to prescription status\nSafety Recalls\nBREXIT - Regulatory considerations\nAdvanced Scientific Initiatives\nCannabis for Medicinal and Research Purposes\nLinguistic Checks\nSafety\nClinical Trials\nEnforcement and Market Surveillance\nIntroduction\nGuidelines and Application forms\nZero day Mutual Recognition Procedure\nMalta as Reference Member State in the Decentralised Procedur\ne\nIntroduction\nIn cases where a national marketing authorisation (MA) is required for a product that is already registered in another member state of the EU/EEA the Mutual Recognition (MR) procedure applies. Where a product is not already authorised in another member state,  the Decentralised (DC) procedure may be used for obtaining a Marketing Authorisation (MA) for Malta.\nGuidelines and Application Forms\nMore detailed information on the MR and DC procedures, guidance documents and all documentation and templates can be found in the\nCMDh\n(Co-ordination Group for Mutual Recognition and Decentralised Procedures - Human) section  of the Heads of Medicines Agencies (HMA)\nwebsite\n.\nDetails on documentation to be supplied can be found in\nVolume 2A,\nChapter 2\n(Mutual Recognition) of the Notice to Applicants\nand application forms can be downloaded from\nVolume 2B of the Notice to Applicants\nof the European Commission website.\nZero-day Mutual Recognition Procedure\nThe MMA\nagrees to accept the assessment of the RMS or the National Competent Authority (in the instance where the product had been authorised nationally), without any comments or questions. The approved product information will also be accepted without any comments. The MMA will not request any update of the assessment report or the dossier, nor will there be any changes related to such procedure, except that in this simple way Malta joins an MRP. These procedures can be finalised once the application has been accepted by the RMS and MMA, hence a “MRP day zero procedure”. Procedures have already been finalised successfully with various RMS countries.\nMore information on the Zero day Mutual Recognition Procedure\nApplicants should inform the Medicines Authority of their intention to submit such an application to the RMS.\nThe applicant sends a request to the RMS requesting the use of this simplified procedure.\nThe RMS requests confirmation from the CMS regarding the criticality of the product applied for.  Please refer to published\nCMDh guidance document\nfor this procedure.\nThe CMS confirms the need for the product and guarantees that\n:\na.      There will be no need for the RMS to update the assessment report since these will be accepted from the RMS without any comments\nb.      No CMS comments will be sent by MT as CMS to the RMS thus enabling the application to be approved immediately\nc.      The addition of MT will not change the renewal cycle or PSUR submission timelines\nd.      The product information specifically the SmPC, package leaflet and labelling will be accepted as authorised in the RMS\ne.\nNo additional renewal is required.\nAn application form and dossier are submitted to MT as CMS. This submission should include:\na.       A cover letter clearly stating that the submitted dossier is identical to the one currently approved in the RMS and that it is being submitted as a Zero day MR procedure\nb.      The dossier preferably in eCTD format as had been submitted to the Reference Member State, together with any subsequent approved variations and a confirmation of their approval (for MRP on the basis of a previously national procedure only).  If the product is already in the MRP the list of approved variations is not required.\nc.       Latest approved Product Information approved by the RMS\nMT as CMS validates the application form within a 14 day validation period\n·         RMS then sets a Day 0\n·         A Zero-day procedure is concluded on the same day it starts (i.e. following validation) by the RMS\n·         The End Of Procedure documents are sent by the RMS to Malta\n·         Following this, the applicant submits the MT specific product information\n·         The Medicines Authority issues the MA during the 30 days national phase of the procedure.\nRequests for Malta to be included as CMS in Zero day procedures should be sent to the mailbox\nmrp-dcp.adm@gov.mt\nas well as any queries on the above or you need guidance and support.\nMalta as Reference Member State in the Decentralised Procedure\nMalta is active as Reference Member State, mainly for generic applications.  The\nMedicines Authority grants slots according to resoures available.  To book a slot for Malta to be the  RMS in a DC or MR Procedure the\nRequest Form\navailable on the CMDh website should be filled in and sent to the Medicines Authority at least six (6) months before the proposed submission date.  The requests should be sent by e-mail directly to the CMDh (MRP/DCP)\ncontact point\nwith a copy to the\nLicensing Directorate's e-mail address\n.   It is important that the information on this form is as complete and correct as possible.\nPublic assessment reports of products authorised with procedures where Malta was RMS are available\nhere\n.\nOnce you are given a slot, you are requested to inform the Medicines Authority\nimmediately\nshould you not be able, for any reason, to submit in the agreed timeline.  The Medicines Authority should be informed in good time about any problems encountered that may lead to postponement or cancellation of the slot that is granted.\nPlease note that for companies that submit three applications within a 12 month period for DCP with Malta as Reference Member State, a 30% discount on the full fees paid is applicable.  More information can be found in the\nFees Guidelines\n.\nInformation on national duplicate applications can be found\nhere\n.\nQ&A on end of procedure requirements:\n1. What will be required by the Medicines Authority during the national phase at the end of a decentralised or a mutual recognition procedure?\nAs stated in the Notice to Applicants,\nEUDRALEX Volume 2A Chapter 2\n, the applicant should provide the requisite documentation (adequate translation of the agreed Summary of Product Characteristics, package leaflet and labelling) by not later than 5 calendar days after the end of the procedure.   Adherance to timelines is important to ensure timely grant of the marketing authorisation in line with the statutory timelines.\nAs both English and Maltese are official languages for Malta, the product information (PI) may be submitted in English and/or Maltese and the product may be placed on the market in either language.\nThe PI should be updated with the Malta specific details such as the product name, batch release site/s, ADR reporting details, MA number and MA holder.\nIf available, the mock-ups of the labelling and package leaflet (as they will be made available to the patient) should be submitted at the end of the procedure, or at the latest, before the product is placed on the market.\n2. Where should the end of procedure documents be sent?\nThe end of procedure documents can be either sent through the\nCESP\nor to the mailbox\nmrp-dcp.adm@gov.mt\n.\nFurther information on document submission can be found in the following page on our website:\nhttp://www.medicinesauthority.gov.mt/requirementssubmission\nPage updated on 29/4/2024",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Preserved official Medicines Authority webpage; adoption date not established by webpage retrieval"
+        },
+        {
+          "clause_id": "MLT-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

@@ -237,5 +237,70 @@
     "source_hashes": [
       "11c198010d51ff7e653df29c95ceff871581eb3b3c48cc6155e3f7185fc1d514"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "JPN",
+    "country": "Japan",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "bilateral_pilot",
+    "fixed_case_scope_status": "outside_selected_partner_or_age_scope",
+    "finding": "The described PMDA–TFDA pilot involves a specific partner, unmasked reports and tripartite consent. Its stated generally applicable one-year window and partner conditions differ from the fixed18-month FDA/EC case.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "outside selected route/function",
+        "finding": "The described PMDA–TFDA pilot involves a specific partner, unmasked reports and tripartite consent. Its stated generally applicable one-year window and partner conditions differ from the fixed18-month FDA/EC case."
+      },
+      "B": {
+        "status": "outside selected route/function",
+        "finding": "The described PMDA–TFDA pilot involves a specific partner, unmasked reports and tripartite consent. Its stated generally applicable one-year window and partner conditions differ from the fixed18-month FDA/EC case."
+      },
+      "C": {
+        "status": "outside selected route/function",
+        "finding": "The described PMDA–TFDA pilot involves a specific partner, unmasked reports and tripartite consent. Its stated generally applicable one-year window and partner conditions differ from the fixed18-month FDA/EC case."
+      },
+      "D": {
+        "status": "outside selected route/function",
+        "finding": "The described PMDA–TFDA pilot involves a specific partner, unmasked reports and tripartite consent. Its stated generally applicable one-year window and partner conditions differ from the fixed18-month FDA/EC case."
+      },
+      "E": {
+        "status": "outside selected route/function",
+        "finding": "The described PMDA–TFDA pilot involves a specific partner, unmasked reports and tripartite consent. Its stated generally applicable one-year window and partner conditions differ from the fixed18-month FDA/EC case."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "JPN-Q01",
+        "source_url": "https://www.pmda.go.jp/files/000264645.pdf",
+        "raw_sha256": "c05f86123a54d92eed0802d4a828c30e2ce272e00f3b2d0b807f26bb150c6bd7",
+        "text_sha256": "927c44b28a6edce1f07284694d40f6c331528648735beb4cff65902fdeb9fedb",
+        "start_offset": 284,
+        "end_offset": 889,
+        "verbatim_extracted_text": "Taiwan FDA and MHLW/PMDA explored to adopt (either)  approved \nnew drugs efficiently (2017)\n‐ Regulator has big burden to review alone.\n‐ Utilization of prior review experience is beneficial for both regulators\nStart “pilot” at first (asked through both industries)\n[Remarkable points]\n‐ Start the process from the applicant’s request to PMDA and TFDA at \nfirst  \n‐ Submit unmasked Review Report (English) at the application \n‐ Utilize signed consent form amongst Taiwan FDA, PMDA and applicant\n‐> Applicant; response the data and fact\n‐> Regulator; response the evaluation thought from the review report",
+        "pdf_page": 2,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "official_policy_explanation",
+        "version_alignment": "PMDA presentation dated 5 October 2023, describing pilot 2017 and position paper 2019",
+        "translation_review": null
+      },
+      {
+        "clause_id": "JPN-Q02",
+        "source_url": "https://www.pmda.go.jp/files/000264645.pdf",
+        "raw_sha256": "c05f86123a54d92eed0802d4a828c30e2ce272e00f3b2d0b807f26bb150c6bd7",
+        "text_sha256": "927c44b28a6edce1f07284694d40f6c331528648735beb4cff65902fdeb9fedb",
+        "start_offset": 4514,
+        "end_offset": 5012,
+        "verbatim_extracted_text": "Current scheme is generally applicable to the application \nof approved product within 1 year. \n‐> It would be necessary to make balance to expand   \napproved product beyond 1 year for valuable innovative \npharmaceuticals.\nCope with the post‐marketing safety issues and post‐approval        \nchange after approved status \n‐> How to obtain most updated information \nIn case that submission data would not be same, review report is \nto be utilized as only reference of evaluation and review thought.",
+        "pdf_page": 9,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "official_policy_explanation",
+        "version_alignment": "PMDA presentation dated 5 October 2023, describing pilot 2017 and position paper 2019",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Bilateral cooperation scheme; not universal foreign-approval recognition",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

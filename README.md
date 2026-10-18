@@ -1,6 +1,6 @@
 # Foreign Drug Approval Reliance Laws
 
-Interactive dashboard of pharmaceutical regulatory reliance across 250 countries and areas, 2000–2025. Updated 17 October 2026.
+Interactive dashboard of pharmaceutical regulatory reliance across 250 countries and areas, 2000–2025. Updated 18 October 2026.
 
 ## Open the dashboard
 
@@ -40,3 +40,5 @@ This repository contains the dashboard and its supporting exports. It is not the
 The supplied validation checks cover panel size, unique links, reference counts, chart controls and source-detail rendering. No causal interpretation is implied by the descriptive figures.
 
 Authors: Hunter Ng (Baruch College, CUNY; hunterboonhian.ng@baruch.cuny.edu), Shou-Ming Chang (The Graduate Center, CUNY; schang@gradcenter.cuny.edu).
+
+The same-medicine comparison codes 89 selected national pathway texts and screens 44 additional country evidence records, while retaining all 250 inventory entries. It varies assessment-report content, sharing permissions and prior approvals separately. Requirements and unresolved conditions are linked to original wording; this is a legal comparison, not an estimate of realized review time. The standard_drug/reproduce_counts.py script reproduces the published descriptive counts using Python standard-library code and the inputs in that folder.

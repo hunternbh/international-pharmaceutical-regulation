@@ -318,5 +318,1059 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "BRA",
+    "country": "Brazil",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Optimised review with mandatory local-context assessment",
+    "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+    "document_id": "c38adb9b68682e192a20",
+    "genre": "Regulation",
+    "language": "pt",
+    "scope": "Human-medicine authorisation",
+    "version_note": "IN 442/2026 amendment effective 1 June 2026, read with underlying general reliance RDC 741/2022 Arts 6–14, effective 1 September 2022. Product-specific exceptions may waive documentation and must not be ignored.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Recognised AREE list is category-specific and incorporated; not invented from general foreign-authority reference.",
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Essential identity demonstrated in comparative forms; differences require justification.",
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "RDC 741 Art 7 generally requires complete foreign instructional documentation including queries/guidance unless specifically excepted; amended Art 14/AnnexI may dispense part of documentation.",
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "discretionary/conditional",
+        "finding": "Complete regulator material may extend beyond public summaries, but product-specific dispensations prevent unconditional full-report coding.",
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ]
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved without the applicable exception/ARR/product category rules.",
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "Population, epidemiology, concomitant-treatment and national-context evidence may require ordinary assessment.",
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ]
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Local-context documents/studies ordinary review; abridged review limited to critical differences. Anvisa can review complete dossier and request supplements.",
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "90 day amendment provision in this preserved text concerns a particular aditamento situation and does not establish universal new-drug processing time.",
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "explicit requirement",
+        "finding": "Anvisa decides independently of foreign regulatory decision.",
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BRA-Q01",
+          "BRA-Q02",
+          "BRA-CONTEXT-1",
+          "BRA-CONTEXT-2",
+          "BRA-CTX-1",
+          "BRA-CTX-2",
+          "BRA-CTX-RDC741"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "BRA-Q01",
+        "iso3": "BRA",
+        "event_id": "BRA_103",
+        "document_id": "c38adb9b68682e192a20",
+        "source_id": "90388d7a9109f02e",
+        "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+        "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+        "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+        "start_offset": 1797,
+        "end_offset": 2984,
+        "pdf_page": null,
+        "verbatim_extracted_text": "Art. 9º Os pedidos específicos para solicitação da análise otimizada serão avaliados pela área técnica quanto a sua elegibilidade.\" (NR)\n\"Art. 10. .......................................................................................................\n§ 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos.\n§ 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE.\n§ 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR)\n\"",
+        "display_text": "Art. 9º Os pedidos específicos para solicitação da análise otimizada serão avaliados pela área técnica quanto a sua elegibilidade.\" (NR) \"Art. 10. ....................................................................................................... § 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos. § 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE. § 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR) \"",
+        "feature_tags": [
+          "discretion",
+          "local_evidence"
+        ],
+        "role": "Permission and conditions",
+        "language": "pt",
+        "language_status": "Original Portuguese regulatory text",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": {
+          "id": "BRA-Q01",
+          "source_language": "pt",
+          "source_text": "Art. 9º Os pedidos específicos para solicitação da análise otimizada serão avaliados pela área técnica quanto a sua elegibilidade.\" (NR)\n\"Art. 10. .......................................................................................................\n§ 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos.\n§ 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE.\n§ 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR)\n\"",
+          "document_id": "c38adb9b68682e192a20",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "pt",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-pt_en-1_9.argosmodel",
+            "model_sha256": "ae76df6f650895c16f2b582065014fab496755ca846ecb19fae81d51f332a38e",
+            "model_bytes": 69447231,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "pt",
+              "from_name": "Portuguese",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "321d418a85b42ac7cabf51de206c615fff0df7967c9056ac0c6733bcb7c79b86",
+          "translated_utc": "2026-10-18T00:48:21.599851+00:00",
+          "source_characters": 1187,
+          "segments": 3,
+          "raw_machine_translation": "Art. 9th The specific requests for request of the optimized analysis will be evaluated by the technical area as to their eligibility.\" (NR) \"Art. 10.................................................................... § 1o All documents and studies that are specific to the national context, including evidence related to differences in target population, epidemiology and other characteristics of the disease, in addition to medicinal products used concomitantly and other factors that may significantly affect the benefit risk profile of a product, as well as possible specific quality parameters, shall be subject to abbreviated analysis when there is a difference between the information and the scope of the request for optimized analysis submitted to Anvisa and those that have been previously approved by the AREA. § 3o In the framework of the optimized analysis procedure, the abbreviated analysis shall be limited to the critical points where there are differences between the information, conditions or scope approved by the AIRE and those submitted to Anvisa in the corresponding request for regulation or post-regulation.\" (NR) \"",
+          "checked_translation": "Article 9. Specific requests for optimised analysis shall be assessed by the technical area for eligibility. Article 10 [intervening text omitted in the source amendment]. Paragraph 1. All documents and studies specific to the national context must undergo the ordinary analysis route, including evidence about differences in the target population, epidemiology and other disease characteristics, concomitant medicines and other factors that may significantly affect the product's benefit–risk profile, and any specific quality parameters. Paragraph 2. Abridged analysis applies when the information and scope of the optimised-analysis request submitted to Anvisa differ from those previously approved by the equivalent foreign regulatory authority (AREE). Paragraph 3. Within optimised analysis, abridged analysis is limited to critical points where the information, conditions or scope approved by the AREE differ from those submitted to Anvisa in the corresponding registration or post-registration request.",
+          "check_note": "Material repair: machine output merged paragraphs 1 and 2 and incorrectly assigned abridged analysis to national-context evidence; original requires ordinary analysis. Restored separate paragraphs and critical-difference limitation.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "BRA-Q02",
+        "iso3": "BRA",
+        "event_id": "BRA_037",
+        "document_id": "2b06f977931f2bd9634c",
+        "source_id": "d5af4c3808622cd7",
+        "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&codTipo=&cod_menu=1696&cod_modulo=134&desItem=&desItemFim=&link=S&numeroAto=00000741&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2022",
+        "raw_sha256": "c20db5ca6e41b48c0f3c87ab83356283c804a180767833261e0f5c9c5ca58d2c",
+        "text_sha256": "ba7af72df5f482e2adb484c384a2ee9f136d08a86b4a7339e1747a5dac0f5c31",
+        "start_offset": 9723,
+        "end_offset": 9876,
+        "pdf_page": null,
+        "verbatim_extracted_text": "Art. 13. Caberá à Anvisa a decisão sobre o pleito apresentado, independentemente da decisão proferida pela Autoridade Reguladora Estrangeira Equivalente.",
+        "display_text": "Art. 13. Caberá à Anvisa a decisão sobre o pleito apresentado, independentemente da decisão proferida pela Autoridade Reguladora Estrangeira Equivalente.",
+        "feature_tags": [
+          "discretion"
+        ],
+        "role": "Earlier 2022 framework; independent national decision remains explicit",
+        "language": "pt",
+        "language_status": "Original Portuguese regulatory text",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "RDC 741/2022, Article 13; separate from the selected 2026 instruction",
+        "evidence_tier": "national_rule",
+        "section_article": "Earlier 2022 framework; independent national decision remains explicit",
+        "translation_review": {
+          "id": "BRA-Q02",
+          "source_language": "pt",
+          "source_text": "Art. 13. Caberá à Anvisa a decisão sobre o pleito apresentado, independentemente da decisão proferida pela Autoridade Reguladora Estrangeira Equivalente.",
+          "document_id": "2b06f977931f2bd9634c",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "pt",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-pt_en-1_9.argosmodel",
+            "model_sha256": "ae76df6f650895c16f2b582065014fab496755ca846ecb19fae81d51f332a38e",
+            "model_bytes": 69447231,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "pt",
+              "from_name": "Portuguese",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "18dba3c380275a18ab29144e3a596c2f94506920598bc4aab1a1e0e3535b0468",
+          "translated_utc": "2026-10-18T00:48:21.682333+00:00",
+          "source_characters": 153,
+          "segments": 3,
+          "raw_machine_translation": "Art. 13. Anvisa shall be responsible for the decision on the procedure submitted, irrespective of the decision given by the Equivalent Foreign Regulatory Authority.",
+          "checked_translation": "Article 13. Anvisa is responsible for deciding the application submitted, independently of the decision issued by the Equivalent Foreign Regulatory Authority.",
+          "check_note": "Replaced procedure with application (pleito); retained independent domestic decision.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": false
+      },
+      {
+        "clause_id": "BRA-CONTEXT-1",
+        "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+        "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+        "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+        "start_offset": 1047,
+        "end_offset": 3984,
+        "verbatim_extracted_text": "io Oficial da União nº 58, de 25 de março de 2024, Seção 1, pág. 79, passa a vigorar com as seguintes alterações:\n\"Art. 3º ................................................................................................................\n............................................................................................................................\nI - .......................................................................................................................\nI-A - análise abreviada: avaliação técnica otimizada em que há a análise de conformidade exclusivamente de aspectos críticos do dossiê técnico;\n..................................................................................................................\"(NR)\n\"Art. 9º Os pedidos específicos para solicitação da análise otimizada serão avaliados pela área técnica quanto a sua elegibilidade.\" (NR)\n\"Art. 10. .......................................................................................................\n§ 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos.\n§ 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE.\n§ 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR)\n\"Art. 14. .....................................................................................................\nI - formulário preenchido na forma do Anexo II desta Instrução Normativa, quando se tratar de pedido relacionado à análise de qualidade do produto terminado;\nII - formulário preenchido na forma do Anexo III desta Instrução Normativa quando se tratar de pedido relacionado à análise do Dossiê do Insumo Farmacêutico Ativo (DIFA), incluindo solicitações de Carta de Adequação de Dossiê de Insumo Farmacêutico Ativo (CADIFA), ou quando se tratar de pedido relacionado à qualidade da substância ativa de vacinas ou produtos biológicos;\nIII - formulário preenchido na forma do Anexo IV desta Instrução Normativa quando se tratar de pedido relacionado à análise de segurança e eficácia;\nIV - documentação instrutória emitida pela AREE e que resultou da aprovação do pedido de regularização por aquela entidade;\nV - comprovante de regularização emitida pela AREE e que deve estar vigente no momen",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "pt",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "BRA-CONTEXT-2",
+        "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+        "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+        "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+        "start_offset": 8973,
+        "end_offset": 10876,
+        "verbatim_extracted_text": "e\nAssunto(s) da(s) petição(ões)\nNome do produto\nInsumo Farmacêutico ativo (IFA)\nInformar os nomes da(s) autoridade(s) reguladora(s) que será(ão) considerada(s) AREE(s) para a aplicação do procedimento otimizado de análise\nTodos os locais de fabricação possuem Certificado de Boas Práticas de Fabricação (CBPF) válida emitida pela Anvisa?\nInformar o n° da RE relacionada ou o n° do expediente que aguarda aprovação.\nTipo de análise a ser realizada\n( ) Verificada\n1\n( ) Abreviada\n2\n1\nAplicável nos casos em que não há qualquer diferença com relação às informações escopo do pedido de análise otimizada que foram aprovadas pela AREE.\n2\nAplicável nos casos em que há alguma diferença com relação às informações escopo do pedido de análise otimizada que foram aprovadas pela AREE.\nTabela Comparativa 1 - Características essenciais registradas na AREE e as condições pleiteadas na Anvisa\nCaracterísticas essenciais\nIgual (A)\nDiferente (B)\nDiferenças entre as características essenciais Anvisa e AREE (C)\nComposição qualitativa e quantitativa\nForma farmacêutica\nEspecificações do medicamento\nProcesso de fabricação do medicamento\nGraus de qualidade dos excipientes\nConcentração\nGrau de qualidade / especificação do IFA\nInstruções para preenchimento da tabela 1:\n1. Caso não haja diferença entre as características essenciais registradas na AREE e as condições registradas/pleiteadas na ANVISA, marque \"Igual\" na coluna (A).\n2. Caso haja diferença entre as características essenciais registradas na AREE e as condições registradas/pleiteadas na ANVISA, marque \"Diferente\" na coluna (B) e resuma a diferença na coluna (C), por exemplo: A especificação de teor proposta para a ANVISA é mais restrita do que a aprovada pela AREE.\nTabela Comparativa 2 - Documentos aprovados pela AREE e submetidos para a avaliação de qualidade (produto terminado) de registro e pós registro de medicamentos sintéticos, produtos bio",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "pt",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "BRA-CTX-1",
+        "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+        "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+        "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+        "start_offset": 3984,
+        "end_offset": 8973,
+        "verbatim_extracted_text": "to do peticionamento na Anvisa; e\nVI - relatório contendo a avaliação da documentação instrutória apresentada à Anvisa, apenas nos casos em que o pedido de regularização apresente características essenciais diferentes daquelas aprovadas pela AREE, devendo contemplar a justificativa para tais diferenças e os subsídios necessários à análise abreviada pela Anvisa;\n§ 1º A empresa peticionante deve identificar os trechos do relatório de que trata o inciso VI do caput deste artigo que contenham informações de acesso restrito previstas na\nLei nº 12.527, de 18 de novembro de 2011\n.\n§ 2º A Anvisa, por meio do Anexo I, pode dispensar a submissão de documentação prevista no inciso IV do caput deste artigo.\" (NR)\n\"Art. 17............................................................................................................\nI - formulário preenchido na forma do Anexo II desta Instrução Normativa quando se tratar de pedido relacionado à análise de qualidade do produto terminado;\nII - formulário preenchido na forma do Anexo III desta Instrução Normativa preenchido quando se tratar de pedido relacionado à análise do DIFA, incluindo solicitações de CADIFA,ou quando se tratar de pedido relacionado à qualidade da substância ativa de vacinas ou produtos biológicos;\nIII - formulário preenchido na forma do Anexo IV desta Instrução Normativa quando se tratar de pedido relacionado à análise de segurança e eficácia; e\nIV - documentação instrutória que comprove que a alteração pós-regularização foi aprovada pela AREE.\n§ 1º ..............................................................................................................\n........................................................................................................................\n§ 2º..............................................................................................................\n.........................................................................................................................\n§ 3º ..............................................................................................................\n.........................................................................................................................\n§ 4º No caso de alterações pós-regularização que não tenham relatórios de análise disponibilizados pela AREE, deverá ser apresentado o resumo das exigências emitidas pela AREE e as respectivas respostas dadas, assim como eventuais compromissos que tenham sido assumidos com a AREE.\" (NR)\n\"Art. 18. O peticionamento das alterações pós-regularização que não seja de implementação imediata deve ocorrer em até 18 (dezoito) meses após a aprovação pela AREE.\nParágrafo único................................................................................................................\" (NR)\n\"Art. 20. ..................................................................................................................\n..............................................................................................................\nI - ........................................................................................................\nII - no caso de petições priorizadas, a Anvisa tiver ultrapassado o prazo de análise estabelecido na\nLei nº 13.411, de 28 de dezembro de 2016\n; e\nIII - no caso de petições ordinárias, não houver manifestação da Anvisa no prazo de até 90 (noventa) dias, contados da data do protocolo do aditamento previsto no inciso I.\" (NR)\n§ 1º ..........................................................................................\n................................................................................................\n§ 2º ........................................................................................\n..................................................................................................\n§ 3º O caput deste artigo não se aplica a petições com análise abreviada.\" (NR)\nArt. 2º O\nAnexo II da Instrução Normativa ANVISA nº 289, de 20 de março de 2024\n, passa a vigorar nos termos do Anexo II desta Instrução Normativa.\nArt. 3º O\nAnexo III da Instrução Normativa ANVISA nº 289, de 20 de março de 2024\n, passa a vigorar nos termos do Anexo III desta Instrução Normativa.\nArt. 4º A\nInstrução Normativa ANVISA nº 289, de 20 de março de 2024\n, passa a vigorar acrescida do Anexo IV, na forma do Anexo IV desta Instrução Normativa.\nArt. 5º Ficam revogados o\nAnexo II e o Anexo III da Instrução Normativa ANVISA nº 289, de 20 de março de 2024\n.\nArt. 6º Esta Instrução Normativa entra em vigor em 1º de junho de 2026.\nLEANDRO PINHEIRO SAFATLE\nDiretor-Presidente\n\"ANEXO II - Formulário para procedimento otimizado de análise - petições de registro e alterações pós registro de qualidade do produto terminado de medicamentos sintéticos, produtos biológicos e vacinas.\nINFORMAÇÕES GERAIS\nNúmero do processo de registro\nNúmero(s) do(s) expediente(s) que se pleiteia a aplicação do procedimento otimizado de anális",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "pt",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "BRA-CTX-2",
+        "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+        "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+        "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+        "start_offset": 2000,
+        "end_offset": 4300,
+        "verbatim_extracted_text": "...............................................\n§ 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos.\n§ 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE.\n§ 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR)\n\"Art. 14. .....................................................................................................\nI - formulário preenchido na forma do Anexo II desta Instrução Normativa, quando se tratar de pedido relacionado à análise de qualidade do produto terminado;\nII - formulário preenchido na forma do Anexo III desta Instrução Normativa quando se tratar de pedido relacionado à análise do Dossiê do Insumo Farmacêutico Ativo (DIFA), incluindo solicitações de Carta de Adequação de Dossiê de Insumo Farmacêutico Ativo (CADIFA), ou quando se tratar de pedido relacionado à qualidade da substância ativa de vacinas ou produtos biológicos;\nIII - formulário preenchido na forma do Anexo IV desta Instrução Normativa quando se tratar de pedido relacionado à análise de segurança e eficácia;\nIV - documentação instrutória emitida pela AREE e que resultou da aprovação do pedido de regularização por aquela entidade;\nV - comprovante de regularização emitida pela AREE e que deve estar vigente no momento do peticionamento na Anvisa; e\nVI - relatório contendo a avaliação da documentação instrutória apresentada à Anvisa, apenas nos casos em que o pedido de regularização apresente características essenciais diferentes daquelas aprovadas pela AREE, devendo contemplar a justificativa para tais diferenças e os subsídi",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "pt",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "BRA-CTX-RDC741",
+        "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&codTipo=&cod_menu=1696&cod_modulo=134&desItem=&desItemFim=&link=S&numeroAto=00000741&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2022",
+        "raw_sha256": "c20db5ca6e41b48c0f3c87ab83356283c804a180767833261e0f5c9c5ca58d2c",
+        "start_offset": 4500,
+        "end_offset": 10589,
+        "section_article": "RDC 741/2022 Arts 6–15; general rules read alongside IN 442/2026 amendment",
+        "language": "pt",
+        "verbatim_extracted_text": "nica e pela unidade organizacional responsável pela coordenação e supervisão dos assuntos internacionais, em conformidade com atos normativos específicos.\n§3º Os requisitos previstos no §2° não se aplicam às AREE definidas pela Anvisa para as práticas de confiança regulatória que estejam em curso antes da vigência desta Resolução.\n§4º A Anvisa dará publicidade das AREE admitidas, conforme o tipo de processo de vigilância sanitária ou categoria de produto.\nArt. 5º Para a manutenção da admissibilidade da AREE pela Anvisa, a AREE deverá manter as condições e requisitos que ensejaram a sua admissibilidade.\n§1º A admissibilidade da AREE deverá ser monitorada e reavaliada de forma contínua e periódica, de acordo com critérios e procedimentos previstos em atos normativos específicos.\n§2º Poderá ser revogada, a qualquer momento, a admissibilidade da AREE pela Diretoria Colegiada da Anvisa, quando do não atendimento das condições previstas nesta Resolução e nos respectivos atos normativos específicos.\nCAPÍTULO III\nPROCEDIMENTO OTIMIZADO DE ANÁLISE\nArt. 6º A prática do procedimento otimizado de análise será baseada na documentação instrutória elaborada pela Autoridade Reguladora Estrangeira Equivalente, conforme estabelecido em atos normativos específicos.\nArt. 7º Para fins de adoção do procedimento otimizado de análise, a documentação instrutória da Autoridade Reguladora Estrangeira Equivalente deverá:\nI - comprovar que o produto objeto da documentação instrutória seja essencialmente idêntico àquele submetido à avaliação da Anvisa;\nII - ter sido elaborada usando padrões consistentes com os utilizados pela Anvisa, de modo a garantir que possui o mesmo escopo; e\nIII - ser apresentada em sua forma completa, incluindo os questionamentos e as orientações que tenham sido feitas durante a análise da Autoridade Reguladora Estrangeira Equivalente, salvo se excetuado em atos normativos específicos.\n§1º A documentação instrutória estará sujeita à gestão do acesso público à informação, observada a sua disponibilidade, autenticidade e integridade, bem como ao devido tratamento legal de proteção da informação, de dados e da privacidade.\n§2º Quando houver diferença entre os parâmetros do processo de vigilância sanitária ou do produto correspondente avaliados na documentação instrutória da Autoridade Reguladora Estrangeira Equivalente e os parâmetros pretendidos, esta deve ser justificada pelo solicitante para fins de avaliação pela Anvisa, devendo ser assegurado o mesmo nível de proteção à saúde.\n§3º Sempre que necessário, poderá ser solicitada documentação complementar ou informação adicional ao solicitante, de modo que venha a suprir lacunas de informação na documentação instrutória da Autoridade Reguladora Estrangeira Equivalente.\nArt. 8º O procedimento otimizado de análise pode ter início a partir de requerimento específico peticionado pelo interessado, previamente ao início da análise da petição, ou por iniciativa da Anvisa.\n§1º A documentação instrutória poderá ser utilizada de forma total ou parcial como referência complementar à análise técnica da Anvisa.\n§2º Os critérios e procedimentos específicos para o protocolo de documentação instrutória referente ao procedimento otimizado de análise, incluindo as etapas e os fluxos necessários por processo de vigilância sanitária ou categoria de produto, serão definidos por meio de atos normativos específicos.\nCAPÍTULO IV\nDISPOSIÇÕES FINAIS\nArt. 9º Independentemente da documentação a ser protocolada para o procedimento otimizado de análise, o solicitante deve submeter a documentação integral técnica e legal prevista nos regulamentos sanitários vigentes, salvo se excetuado em atos normativos específicos.\n§1º A documentação mencionada no caput deve atender a todos os requisitos, critérios e especificações estabelecidas pela Anvisa ao processo de vigilância sanitária correspondente.\n§2º A submissão de uma documentação simplificada em substituição à documentação integral é permitida caso previsto na regulamentação específica vigente.\n§3º O procedimento otimizado de análise não impede a avaliação da documentação integral ou simplificada protocolada na Anvisa.\nArt. 10. No peticionamento do procedimento otimizado de análise, deverá ser apresentada a documentação instrutória mais recente emitida pela Autoridade Reguladora Estrangeira Equivalente.\nParágrafo único. Poderá ser definido em atos normativos específicos o limite aceitável de tempo de emissão da documentação instrutória para sua admissibilidade no procedimento otimizado de análise, considerando o tempo de aprovação do processo de vigilância sanitária pela Autoridade Reguladora Estrangeira Equivalente, além de resultados do controle pós-mercado, quando aplicável.\nArt. 11. O procedimento otimizado de análise deverá seguir as prerrogativas de transparência adotadas pelas áreas técnicas da Anvisa para cada processo de vigilância sanitária ou categoria de produto.\nArt. 12. Os objetos de regularização ou aprovação protocolados nos termos desta Resolução poderão ser verificados in loco, podendo resultar em alteração da decisão, solicitação de provas adicionais e em qualquer outra medida sanitária necessária, sem prejuízo das demais medidas legais cabíveis.\nArt. 13. Caberá à Anvisa a decisão sobre o pleito apresentado, independentemente da decisão proferida pela Autoridade Reguladora Estrangeira Equivalente.\nArt. 14. As disposições desta Resolução não impedem a adoção de outras práticas de confiança regulatória estabelecidas por regulamentos específicos, inclusive por meio de práticas de harmonização e convergência regulatória acordadas e operacionalizadas entre autoridades estrangeiras, e ainda a utilização de documentação proveniente de organismos multilaterais, instituições internacionais ou de organismo terceiro, de acordo com as diretrizes e normativas de programas e mecanismos específicos dos quais a Anvisa seja parte.\nArt. 15. Esta Resolução entra em vigor em 1º de setembro de 2022.\nANTONIO BARRA TORRES\nDiretor-Presidente\nPUB D.O.U., 17/08/2022 - Seção 1\nEste texto năo substitui a Publicaçăo Oficial.",
+        "text_sha256": "ba7af72df5f482e2adb484c384a2ee9f136d08a86b4a7339e1747a5dac0f5c31"
+      }
+    ],
+    "review_details": {
+      "iso3": "BRA",
+      "country": "Brazil",
+      "selected_document_id": "c38adb9b68682e192a20",
+      "source_id": "90388d7a9109f02e",
+      "pathway": "Optimised review with mandatory local-context assessment",
+      "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+      "document_title": "BRA | Original instrument or amending law",
+      "source_type": "Regulation",
+      "scope": "Human-medicine authorisation",
+      "language": "pt",
+      "translation_provenance": "Checked English selected-clause translation plus contextual original-language interpretation",
+      "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+      "raw_hash_validated": true,
+      "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+      "version_dates": {},
+      "version_scope_note": "IN 442/2026 amendment effective 1 June 2026, read with underlying general reliance RDC 741/2022 Arts 6–14, effective 1 September 2022. Product-specific exceptions may waive documentation and must not be ignored.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          1047,
+          3984
+        ],
+        [
+          8973,
+          10876
+        ],
+        [
+          3984,
+          8973
+        ],
+        [
+          2000,
+          4300
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Recognised AREE list is category-specific and incorporated; not invented from general foreign-authority reference.",
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Essential identity demonstrated in comparative forms; differences require justification.",
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "RDC 741 Art 7 generally requires complete foreign instructional documentation including queries/guidance unless specifically excepted; amended Art 14/AnnexI may dispense part of documentation.",
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "discretionary/conditional",
+          "finding": "Complete regulator material may extend beyond public summaries, but product-specific dispensations prevent unconditional full-report coding.",
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved without the applicable exception/ARR/product category rules.",
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "Population, epidemiology, concomitant-treatment and national-context evidence may require ordinary assessment.",
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Local-context documents/studies ordinary review; abridged review limited to critical differences. Anvisa can review complete dossier and request supplements.",
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "90 day amendment provision in this preserved text concerns a particular aditamento situation and does not establish universal new-drug processing time.",
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "explicit requirement",
+          "finding": "Anvisa decides independently of foreign regulatory decision.",
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BRA-Q01",
+            "BRA-Q02",
+            "BRA-CONTEXT-1",
+            "BRA-CONTEXT-2",
+            "BRA-CTX-1",
+            "BRA-CTX-2",
+            "BRA-CTX-RDC741"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "BRA-Q01",
+          "iso3": "BRA",
+          "event_id": "BRA_103",
+          "document_id": "c38adb9b68682e192a20",
+          "source_id": "90388d7a9109f02e",
+          "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+          "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+          "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+          "start_offset": 1797,
+          "end_offset": 2984,
+          "pdf_page": null,
+          "verbatim_extracted_text": "Art. 9º Os pedidos específicos para solicitação da análise otimizada serão avaliados pela área técnica quanto a sua elegibilidade.\" (NR)\n\"Art. 10. .......................................................................................................\n§ 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos.\n§ 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE.\n§ 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR)\n\"",
+          "display_text": "Art. 9º Os pedidos específicos para solicitação da análise otimizada serão avaliados pela área técnica quanto a sua elegibilidade.\" (NR) \"Art. 10. ....................................................................................................... § 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos. § 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE. § 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR) \"",
+          "feature_tags": [
+            "discretion",
+            "local_evidence"
+          ],
+          "role": "Permission and conditions",
+          "language": "pt",
+          "language_status": "Original Portuguese regulatory text",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": {
+            "id": "BRA-Q01",
+            "source_language": "pt",
+            "source_text": "Art. 9º Os pedidos específicos para solicitação da análise otimizada serão avaliados pela área técnica quanto a sua elegibilidade.\" (NR)\n\"Art. 10. .......................................................................................................\n§ 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos.\n§ 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE.\n§ 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR)\n\"",
+            "document_id": "c38adb9b68682e192a20",
+            "target_language": "en",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "model_provenance": {
+              "language": "pt",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-pt_en-1_9.argosmodel",
+              "model_sha256": "ae76df6f650895c16f2b582065014fab496755ca846ecb19fae81d51f332a38e",
+              "model_bytes": 69447231,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "pt",
+                "from_name": "Portuguese",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "321d418a85b42ac7cabf51de206c615fff0df7967c9056ac0c6733bcb7c79b86",
+            "translated_utc": "2026-10-18T00:48:21.599851+00:00",
+            "source_characters": 1187,
+            "segments": 3,
+            "raw_machine_translation": "Art. 9th The specific requests for request of the optimized analysis will be evaluated by the technical area as to their eligibility.\" (NR) \"Art. 10.................................................................... § 1o All documents and studies that are specific to the national context, including evidence related to differences in target population, epidemiology and other characteristics of the disease, in addition to medicinal products used concomitantly and other factors that may significantly affect the benefit risk profile of a product, as well as possible specific quality parameters, shall be subject to abbreviated analysis when there is a difference between the information and the scope of the request for optimized analysis submitted to Anvisa and those that have been previously approved by the AREA. § 3o In the framework of the optimized analysis procedure, the abbreviated analysis shall be limited to the critical points where there are differences between the information, conditions or scope approved by the AIRE and those submitted to Anvisa in the corresponding request for regulation or post-regulation.\" (NR) \"",
+            "checked_translation": "Article 9. Specific requests for optimised analysis shall be assessed by the technical area for eligibility. Article 10 [intervening text omitted in the source amendment]. Paragraph 1. All documents and studies specific to the national context must undergo the ordinary analysis route, including evidence about differences in the target population, epidemiology and other disease characteristics, concomitant medicines and other factors that may significantly affect the product's benefit–risk profile, and any specific quality parameters. Paragraph 2. Abridged analysis applies when the information and scope of the optimised-analysis request submitted to Anvisa differ from those previously approved by the equivalent foreign regulatory authority (AREE). Paragraph 3. Within optimised analysis, abridged analysis is limited to critical points where the information, conditions or scope approved by the AREE differ from those submitted to Anvisa in the corresponding registration or post-registration request.",
+            "check_note": "Material repair: machine output merged paragraphs 1 and 2 and incorrectly assigned abridged analysis to national-context evidence; original requires ordinary analysis. Restored separate paragraphs and critical-difference limitation.",
+            "approved_for_display": true,
+            "approved_for_text_sensitivity": true,
+            "check_scope": [
+              "permission/modals",
+              "negation and conjunctions",
+              "numerical conditions and units",
+              "actors, scope and retained conditions"
+            ],
+            "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "BRA-Q02",
+          "iso3": "BRA",
+          "event_id": "BRA_037",
+          "document_id": "2b06f977931f2bd9634c",
+          "source_id": "d5af4c3808622cd7",
+          "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&codTipo=&cod_menu=1696&cod_modulo=134&desItem=&desItemFim=&link=S&numeroAto=00000741&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2022",
+          "raw_sha256": "c20db5ca6e41b48c0f3c87ab83356283c804a180767833261e0f5c9c5ca58d2c",
+          "text_sha256": "ba7af72df5f482e2adb484c384a2ee9f136d08a86b4a7339e1747a5dac0f5c31",
+          "start_offset": 9723,
+          "end_offset": 9876,
+          "pdf_page": null,
+          "verbatim_extracted_text": "Art. 13. Caberá à Anvisa a decisão sobre o pleito apresentado, independentemente da decisão proferida pela Autoridade Reguladora Estrangeira Equivalente.",
+          "display_text": "Art. 13. Caberá à Anvisa a decisão sobre o pleito apresentado, independentemente da decisão proferida pela Autoridade Reguladora Estrangeira Equivalente.",
+          "feature_tags": [
+            "discretion"
+          ],
+          "role": "Earlier 2022 framework; independent national decision remains explicit",
+          "language": "pt",
+          "language_status": "Original Portuguese regulatory text",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "RDC 741/2022, Article 13; separate from the selected 2026 instruction",
+          "evidence_tier": "national_rule",
+          "section_article": "Earlier 2022 framework; independent national decision remains explicit",
+          "translation_review": {
+            "id": "BRA-Q02",
+            "source_language": "pt",
+            "source_text": "Art. 13. Caberá à Anvisa a decisão sobre o pleito apresentado, independentemente da decisão proferida pela Autoridade Reguladora Estrangeira Equivalente.",
+            "document_id": "2b06f977931f2bd9634c",
+            "target_language": "en",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "model_provenance": {
+              "language": "pt",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-pt_en-1_9.argosmodel",
+              "model_sha256": "ae76df6f650895c16f2b582065014fab496755ca846ecb19fae81d51f332a38e",
+              "model_bytes": 69447231,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "pt",
+                "from_name": "Portuguese",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "18dba3c380275a18ab29144e3a596c2f94506920598bc4aab1a1e0e3535b0468",
+            "translated_utc": "2026-10-18T00:48:21.682333+00:00",
+            "source_characters": 153,
+            "segments": 3,
+            "raw_machine_translation": "Art. 13. Anvisa shall be responsible for the decision on the procedure submitted, irrespective of the decision given by the Equivalent Foreign Regulatory Authority.",
+            "checked_translation": "Article 13. Anvisa is responsible for deciding the application submitted, independently of the decision issued by the Equivalent Foreign Regulatory Authority.",
+            "check_note": "Replaced procedure with application (pleito); retained independent domestic decision.",
+            "approved_for_display": true,
+            "approved_for_text_sensitivity": true,
+            "check_scope": [
+              "permission/modals",
+              "negation and conjunctions",
+              "numerical conditions and units",
+              "actors, scope and retained conditions"
+            ],
+            "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": false
+        },
+        {
+          "clause_id": "BRA-CONTEXT-1",
+          "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+          "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+          "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+          "start_offset": 1047,
+          "end_offset": 3984,
+          "verbatim_extracted_text": "io Oficial da União nº 58, de 25 de março de 2024, Seção 1, pág. 79, passa a vigorar com as seguintes alterações:\n\"Art. 3º ................................................................................................................\n............................................................................................................................\nI - .......................................................................................................................\nI-A - análise abreviada: avaliação técnica otimizada em que há a análise de conformidade exclusivamente de aspectos críticos do dossiê técnico;\n..................................................................................................................\"(NR)\n\"Art. 9º Os pedidos específicos para solicitação da análise otimizada serão avaliados pela área técnica quanto a sua elegibilidade.\" (NR)\n\"Art. 10. .......................................................................................................\n§ 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos.\n§ 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE.\n§ 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR)\n\"Art. 14. .....................................................................................................\nI - formulário preenchido na forma do Anexo II desta Instrução Normativa, quando se tratar de pedido relacionado à análise de qualidade do produto terminado;\nII - formulário preenchido na forma do Anexo III desta Instrução Normativa quando se tratar de pedido relacionado à análise do Dossiê do Insumo Farmacêutico Ativo (DIFA), incluindo solicitações de Carta de Adequação de Dossiê de Insumo Farmacêutico Ativo (CADIFA), ou quando se tratar de pedido relacionado à qualidade da substância ativa de vacinas ou produtos biológicos;\nIII - formulário preenchido na forma do Anexo IV desta Instrução Normativa quando se tratar de pedido relacionado à análise de segurança e eficácia;\nIV - documentação instrutória emitida pela AREE e que resultou da aprovação do pedido de regularização por aquela entidade;\nV - comprovante de regularização emitida pela AREE e que deve estar vigente no momen",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "pt",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "BRA-CONTEXT-2",
+          "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+          "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+          "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+          "start_offset": 8973,
+          "end_offset": 10876,
+          "verbatim_extracted_text": "e\nAssunto(s) da(s) petição(ões)\nNome do produto\nInsumo Farmacêutico ativo (IFA)\nInformar os nomes da(s) autoridade(s) reguladora(s) que será(ão) considerada(s) AREE(s) para a aplicação do procedimento otimizado de análise\nTodos os locais de fabricação possuem Certificado de Boas Práticas de Fabricação (CBPF) válida emitida pela Anvisa?\nInformar o n° da RE relacionada ou o n° do expediente que aguarda aprovação.\nTipo de análise a ser realizada\n( ) Verificada\n1\n( ) Abreviada\n2\n1\nAplicável nos casos em que não há qualquer diferença com relação às informações escopo do pedido de análise otimizada que foram aprovadas pela AREE.\n2\nAplicável nos casos em que há alguma diferença com relação às informações escopo do pedido de análise otimizada que foram aprovadas pela AREE.\nTabela Comparativa 1 - Características essenciais registradas na AREE e as condições pleiteadas na Anvisa\nCaracterísticas essenciais\nIgual (A)\nDiferente (B)\nDiferenças entre as características essenciais Anvisa e AREE (C)\nComposição qualitativa e quantitativa\nForma farmacêutica\nEspecificações do medicamento\nProcesso de fabricação do medicamento\nGraus de qualidade dos excipientes\nConcentração\nGrau de qualidade / especificação do IFA\nInstruções para preenchimento da tabela 1:\n1. Caso não haja diferença entre as características essenciais registradas na AREE e as condições registradas/pleiteadas na ANVISA, marque \"Igual\" na coluna (A).\n2. Caso haja diferença entre as características essenciais registradas na AREE e as condições registradas/pleiteadas na ANVISA, marque \"Diferente\" na coluna (B) e resuma a diferença na coluna (C), por exemplo: A especificação de teor proposta para a ANVISA é mais restrita do que a aprovada pela AREE.\nTabela Comparativa 2 - Documentos aprovados pela AREE e submetidos para a avaliação de qualidade (produto terminado) de registro e pós registro de medicamentos sintéticos, produtos bio",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "pt",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "BRA-CTX-1",
+          "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+          "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+          "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+          "start_offset": 3984,
+          "end_offset": 8973,
+          "verbatim_extracted_text": "to do peticionamento na Anvisa; e\nVI - relatório contendo a avaliação da documentação instrutória apresentada à Anvisa, apenas nos casos em que o pedido de regularização apresente características essenciais diferentes daquelas aprovadas pela AREE, devendo contemplar a justificativa para tais diferenças e os subsídios necessários à análise abreviada pela Anvisa;\n§ 1º A empresa peticionante deve identificar os trechos do relatório de que trata o inciso VI do caput deste artigo que contenham informações de acesso restrito previstas na\nLei nº 12.527, de 18 de novembro de 2011\n.\n§ 2º A Anvisa, por meio do Anexo I, pode dispensar a submissão de documentação prevista no inciso IV do caput deste artigo.\" (NR)\n\"Art. 17............................................................................................................\nI - formulário preenchido na forma do Anexo II desta Instrução Normativa quando se tratar de pedido relacionado à análise de qualidade do produto terminado;\nII - formulário preenchido na forma do Anexo III desta Instrução Normativa preenchido quando se tratar de pedido relacionado à análise do DIFA, incluindo solicitações de CADIFA,ou quando se tratar de pedido relacionado à qualidade da substância ativa de vacinas ou produtos biológicos;\nIII - formulário preenchido na forma do Anexo IV desta Instrução Normativa quando se tratar de pedido relacionado à análise de segurança e eficácia; e\nIV - documentação instrutória que comprove que a alteração pós-regularização foi aprovada pela AREE.\n§ 1º ..............................................................................................................\n........................................................................................................................\n§ 2º..............................................................................................................\n.........................................................................................................................\n§ 3º ..............................................................................................................\n.........................................................................................................................\n§ 4º No caso de alterações pós-regularização que não tenham relatórios de análise disponibilizados pela AREE, deverá ser apresentado o resumo das exigências emitidas pela AREE e as respectivas respostas dadas, assim como eventuais compromissos que tenham sido assumidos com a AREE.\" (NR)\n\"Art. 18. O peticionamento das alterações pós-regularização que não seja de implementação imediata deve ocorrer em até 18 (dezoito) meses após a aprovação pela AREE.\nParágrafo único................................................................................................................\" (NR)\n\"Art. 20. ..................................................................................................................\n..............................................................................................................\nI - ........................................................................................................\nII - no caso de petições priorizadas, a Anvisa tiver ultrapassado o prazo de análise estabelecido na\nLei nº 13.411, de 28 de dezembro de 2016\n; e\nIII - no caso de petições ordinárias, não houver manifestação da Anvisa no prazo de até 90 (noventa) dias, contados da data do protocolo do aditamento previsto no inciso I.\" (NR)\n§ 1º ..........................................................................................\n................................................................................................\n§ 2º ........................................................................................\n..................................................................................................\n§ 3º O caput deste artigo não se aplica a petições com análise abreviada.\" (NR)\nArt. 2º O\nAnexo II da Instrução Normativa ANVISA nº 289, de 20 de março de 2024\n, passa a vigorar nos termos do Anexo II desta Instrução Normativa.\nArt. 3º O\nAnexo III da Instrução Normativa ANVISA nº 289, de 20 de março de 2024\n, passa a vigorar nos termos do Anexo III desta Instrução Normativa.\nArt. 4º A\nInstrução Normativa ANVISA nº 289, de 20 de março de 2024\n, passa a vigorar acrescida do Anexo IV, na forma do Anexo IV desta Instrução Normativa.\nArt. 5º Ficam revogados o\nAnexo II e o Anexo III da Instrução Normativa ANVISA nº 289, de 20 de março de 2024\n.\nArt. 6º Esta Instrução Normativa entra em vigor em 1º de junho de 2026.\nLEANDRO PINHEIRO SAFATLE\nDiretor-Presidente\n\"ANEXO II - Formulário para procedimento otimizado de análise - petições de registro e alterações pós registro de qualidade do produto terminado de medicamentos sintéticos, produtos biológicos e vacinas.\nINFORMAÇÕES GERAIS\nNúmero do processo de registro\nNúmero(s) do(s) expediente(s) que se pleiteia a aplicação do procedimento otimizado de anális",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "pt",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "BRA-CTX-2",
+          "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=INM&numeroAto=00000442&seqAto=000&valorAno=2026&orgao=DC%2FANVISA%2FMS&cod_menu=1696&cod_modulo=134",
+          "raw_sha256": "6ba5b71878381baa3a020ad1443439cfbeb4ac37ddd5a2c585fcadf9530ba22c",
+          "text_sha256": "9cdd94b037c4f9717bd5d3ebf77e002b0b8491b4aac1e45d793d48c713339b9c",
+          "start_offset": 2000,
+          "end_offset": 4300,
+          "verbatim_extracted_text": "...............................................\n§ 1º Devem ser submetidos à via ordinária de análise todos os documentos e estudos que são específicos do contexto nacional, incluindo provas relacionadas a diferenças de população alvo, epidemiologia e outras características da doença, além de medicamentos usados concomitantemente e outros fatores que podem afetar significativamente o perfil benefício risco de um produto, bem como eventuais parâmetros de qualidade específicos.\n§ 2º A análise abreviada será aplicável quando houver diferença entre as informações e o escopo do pedido de análise otimizada submetido à Anvisa e aqueles que tenha sido previamente aprovados pela AREE.\n§ 3º No âmbito do procedimento de análise otimizada, a análise abreviada se limitará aos pontos críticos em que se verifiquem diferenças entre as informações, condições ou escopo aprovados pela AREE e aqueles submetidos à Anvisa no correspondente pedido de regularização ou pós-regularização.\" (NR)\n\"Art. 14. .....................................................................................................\nI - formulário preenchido na forma do Anexo II desta Instrução Normativa, quando se tratar de pedido relacionado à análise de qualidade do produto terminado;\nII - formulário preenchido na forma do Anexo III desta Instrução Normativa quando se tratar de pedido relacionado à análise do Dossiê do Insumo Farmacêutico Ativo (DIFA), incluindo solicitações de Carta de Adequação de Dossiê de Insumo Farmacêutico Ativo (CADIFA), ou quando se tratar de pedido relacionado à qualidade da substância ativa de vacinas ou produtos biológicos;\nIII - formulário preenchido na forma do Anexo IV desta Instrução Normativa quando se tratar de pedido relacionado à análise de segurança e eficácia;\nIV - documentação instrutória emitida pela AREE e que resultou da aprovação do pedido de regularização por aquela entidade;\nV - comprovante de regularização emitida pela AREE e que deve estar vigente no momento do peticionamento na Anvisa; e\nVI - relatório contendo a avaliação da documentação instrutória apresentada à Anvisa, apenas nos casos em que o pedido de regularização apresente características essenciais diferentes daquelas aprovadas pela AREE, devendo contemplar a justificativa para tais diferenças e os subsídi",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "pt",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "BRA-CTX-RDC741",
+          "source_url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&codTipo=&cod_menu=1696&cod_modulo=134&desItem=&desItemFim=&link=S&numeroAto=00000741&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2022",
+          "raw_sha256": "c20db5ca6e41b48c0f3c87ab83356283c804a180767833261e0f5c9c5ca58d2c",
+          "start_offset": 4500,
+          "end_offset": 10589,
+          "section_article": "RDC 741/2022 Arts 6–15; general rules read alongside IN 442/2026 amendment",
+          "language": "pt",
+          "verbatim_extracted_text": "nica e pela unidade organizacional responsável pela coordenação e supervisão dos assuntos internacionais, em conformidade com atos normativos específicos.\n§3º Os requisitos previstos no §2° não se aplicam às AREE definidas pela Anvisa para as práticas de confiança regulatória que estejam em curso antes da vigência desta Resolução.\n§4º A Anvisa dará publicidade das AREE admitidas, conforme o tipo de processo de vigilância sanitária ou categoria de produto.\nArt. 5º Para a manutenção da admissibilidade da AREE pela Anvisa, a AREE deverá manter as condições e requisitos que ensejaram a sua admissibilidade.\n§1º A admissibilidade da AREE deverá ser monitorada e reavaliada de forma contínua e periódica, de acordo com critérios e procedimentos previstos em atos normativos específicos.\n§2º Poderá ser revogada, a qualquer momento, a admissibilidade da AREE pela Diretoria Colegiada da Anvisa, quando do não atendimento das condições previstas nesta Resolução e nos respectivos atos normativos específicos.\nCAPÍTULO III\nPROCEDIMENTO OTIMIZADO DE ANÁLISE\nArt. 6º A prática do procedimento otimizado de análise será baseada na documentação instrutória elaborada pela Autoridade Reguladora Estrangeira Equivalente, conforme estabelecido em atos normativos específicos.\nArt. 7º Para fins de adoção do procedimento otimizado de análise, a documentação instrutória da Autoridade Reguladora Estrangeira Equivalente deverá:\nI - comprovar que o produto objeto da documentação instrutória seja essencialmente idêntico àquele submetido à avaliação da Anvisa;\nII - ter sido elaborada usando padrões consistentes com os utilizados pela Anvisa, de modo a garantir que possui o mesmo escopo; e\nIII - ser apresentada em sua forma completa, incluindo os questionamentos e as orientações que tenham sido feitas durante a análise da Autoridade Reguladora Estrangeira Equivalente, salvo se excetuado em atos normativos específicos.\n§1º A documentação instrutória estará sujeita à gestão do acesso público à informação, observada a sua disponibilidade, autenticidade e integridade, bem como ao devido tratamento legal de proteção da informação, de dados e da privacidade.\n§2º Quando houver diferença entre os parâmetros do processo de vigilância sanitária ou do produto correspondente avaliados na documentação instrutória da Autoridade Reguladora Estrangeira Equivalente e os parâmetros pretendidos, esta deve ser justificada pelo solicitante para fins de avaliação pela Anvisa, devendo ser assegurado o mesmo nível de proteção à saúde.\n§3º Sempre que necessário, poderá ser solicitada documentação complementar ou informação adicional ao solicitante, de modo que venha a suprir lacunas de informação na documentação instrutória da Autoridade Reguladora Estrangeira Equivalente.\nArt. 8º O procedimento otimizado de análise pode ter início a partir de requerimento específico peticionado pelo interessado, previamente ao início da análise da petição, ou por iniciativa da Anvisa.\n§1º A documentação instrutória poderá ser utilizada de forma total ou parcial como referência complementar à análise técnica da Anvisa.\n§2º Os critérios e procedimentos específicos para o protocolo de documentação instrutória referente ao procedimento otimizado de análise, incluindo as etapas e os fluxos necessários por processo de vigilância sanitária ou categoria de produto, serão definidos por meio de atos normativos específicos.\nCAPÍTULO IV\nDISPOSIÇÕES FINAIS\nArt. 9º Independentemente da documentação a ser protocolada para o procedimento otimizado de análise, o solicitante deve submeter a documentação integral técnica e legal prevista nos regulamentos sanitários vigentes, salvo se excetuado em atos normativos específicos.\n§1º A documentação mencionada no caput deve atender a todos os requisitos, critérios e especificações estabelecidas pela Anvisa ao processo de vigilância sanitária correspondente.\n§2º A submissão de uma documentação simplificada em substituição à documentação integral é permitida caso previsto na regulamentação específica vigente.\n§3º O procedimento otimizado de análise não impede a avaliação da documentação integral ou simplificada protocolada na Anvisa.\nArt. 10. No peticionamento do procedimento otimizado de análise, deverá ser apresentada a documentação instrutória mais recente emitida pela Autoridade Reguladora Estrangeira Equivalente.\nParágrafo único. Poderá ser definido em atos normativos específicos o limite aceitável de tempo de emissão da documentação instrutória para sua admissibilidade no procedimento otimizado de análise, considerando o tempo de aprovação do processo de vigilância sanitária pela Autoridade Reguladora Estrangeira Equivalente, além de resultados do controle pós-mercado, quando aplicável.\nArt. 11. O procedimento otimizado de análise deverá seguir as prerrogativas de transparência adotadas pelas áreas técnicas da Anvisa para cada processo de vigilância sanitária ou categoria de produto.\nArt. 12. Os objetos de regularização ou aprovação protocolados nos termos desta Resolução poderão ser verificados in loco, podendo resultar em alteração da decisão, solicitação de provas adicionais e em qualquer outra medida sanitária necessária, sem prejuízo das demais medidas legais cabíveis.\nArt. 13. Caberá à Anvisa a decisão sobre o pleito apresentado, independentemente da decisão proferida pela Autoridade Reguladora Estrangeira Equivalente.\nArt. 14. As disposições desta Resolução não impedem a adoção de outras práticas de confiança regulatória estabelecidas por regulamentos específicos, inclusive por meio de práticas de harmonização e convergência regulatória acordadas e operacionalizadas entre autoridades estrangeiras, e ainda a utilização de documentação proveniente de organismos multilaterais, instituições internacionais ou de organismo terceiro, de acordo com as diretrizes e normativas de programas e mecanismos específicos dos quais a Anvisa seja parte.\nArt. 15. Esta Resolução entra em vigor em 1º de setembro de 2022.\nANTONIO BARRA TORRES\nDiretor-Presidente\nPUB D.O.U., 17/08/2022 - Seção 1\nEste texto năo substitui a Publicaçăo Oficial.",
+          "text_sha256": "ba7af72df5f482e2adb484c384a2ee9f136d08a86b4a7339e1747a5dac0f5c31"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

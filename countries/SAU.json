@@ -280,5 +280,859 @@
     "source_hashes": [
       "ab68e32d36d06de5344ce3c356f3e8c3cdd6d3f413059a0d979b656fede9a245"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SAU",
+    "country": "Saudi Arabia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Verification and abridged review; approval plus marketing",
+    "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+    "document_id": "dc0c923796a4a5b77933",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "DS-G-020 v3: document-control table updated 20 October 2025, implementation 20 January 2026. Cover says first issue 2017; do not backdate v3 clauses. Human-medicine references FDA/EMA, not veterinary USDA.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "New chemical entities and biologics; blood/ATMP/veterinary vaccines excluded.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Verification FDA AND EMA; abridged FDA OR EMA.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Two named approvals for verification, one for abridged.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "explicit requirement",
+        "finding": "Application within two years; fixed 18 months satisfies.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "explicit requirement",
+        "finding": "Approved and marketed by named reference jurisdiction(s).",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same CTD modules 2–5 and product qualities; manufacture in listed countries includes USA.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Complete clinical/quality assessment, questions/answers and annexes; relevant variations.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "explicit requirement",
+        "finding": "Public-domain reports expressly unacceptable.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "accepted_redactions": {
+        "state": "discretionary/conditional",
+        "finding": "Non-quality/safety/efficacy redactions may be acceptable; trade secrets/commercial/financial information can be excluded.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "public_report_sufficiency": {
+        "state": "explicit requirement",
+        "finding": "Explicitly rejected: reports obtained from public domain unacceptable.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "No more stringent local disease/medical-practice assessment needed; comparative value evidence requested.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "GMP/site-master-file/inspection evidence; stability or commitment/assurance alternative.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Safety/efficacy/quality scrutiny retained; may transfer to regular pathway.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "SDR application, fees, designation request; price certificate retained.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "Designation within ten working days; target 30 verification/60 abridged working days from pathway-approval email.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "SFDA not obliged to approve despite foreign approval.",
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "explicitly ineligible for identified full-report route",
+        "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+        "decisive_conditions": [
+          "Complete underlying assessment report requirement"
+        ],
+        "unresolved_conditions": [
+          "Other eligibility remains unresolved; route alternatives assessed separately."
+        ],
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ],
+        "status": "explicitly ineligible for identified full-report route"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional via abridged alternative; verification fails",
+        "finding": "FDA-only fails two-approval verification threshold but a one-approval abridged alternative is described; all remaining conditions must be satisfied.",
+        "decisive_conditions": [
+          "Different route: one-approval abridged versus two-approval verification."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SAU-Q01",
+          "SAU-Q02",
+          "SAU-Q03",
+          "SAU-CTX-1",
+          "SAU-CTX-2"
+        ],
+        "status": "discretionary/conditional via abridged alternative; verification fails"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "explicit full-report condition; overall access gain not fully resolved",
+        "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "explicit selected-route threshold",
+        "finding": "Second/named approval changes route threshold; one-reference alternatives remain separately coded."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "SAU-Q01",
+        "source_document_id": "dc0c923796a4a5b77933",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 8,
+        "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+        "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+        "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+        "exact_text": "Verification pathway: The following drug regulatory agencies have approved and \nmarketed the product: \no For human medicinal products: EMA and FDA. \no For veterinary medicinal products: EMA and FDA (for new veterinary \nproducts), USDA (for biological veterinary products). \n• Abridged pathway: Either of the following drug regulatory agencies has approved \nand marketed the product and/or post-approval changes; \no For human medicinal products: EMA or FDA. \no For veterinary medicinal products: EMA or FDA (for new veterinary \nproducts), USDA (for biological veterinary products). \n•",
+        "start": 4848,
+        "end": 5431,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SAU-Q02",
+        "source_document_id": "dc0c923796a4a5b77933",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 8,
+        "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+        "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+        "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+        "exact_text": "Sameness of product: Compared to the reference agency, the submitted product \napplication shall have identical essential characteristics. All relevant aspects of the \nproduct, including those related to the quality of the product and its components, \nshould be considered to confirm that the product is the same or sufficiently similar \n(e.g., same qualitative and quantitative composition, strength, pharmaceutical form, \nintended use, manufacturing process, suppliers of active pharmaceutical \ningredients, quality of all excipients). Additionally, the results of supporting studies \nof safety, efficacy, quality, indications, and conditions of use should be the same. \nThe impact of potential and justified differences should be assessed by the \nmarketing authorization holder and the SFDA to determine the possibility of using \nthe reference agency’s assessments or decisions. \n \n3. ELIGIBILITY CRITERIA  \n• The application must be submitted to the SFDA within two years from the date of \napproval by the reference agency.  \n• The product does not need a more stringent assessment as a result of different local \ndisease patterns and/or medical practices. \n• The product and its intended use (indications, dosage information, and patient \ngroups (for human product) or target animal species (for veterinary product)) has \n\n\nPAGE 9\n \n \n \n \n \nDS-G-020-V03/170201\n \nnot been rejected, withdrawn, suspended by any drug regulatory agency for safety \nor efficacy reasons. \n• The manufacturer should be located in one of the following countries: \nUSA, UK, Canada, Australia, Japan, Switzerland, Germany, France, Ireland, Italy, \nSpain, Portugal, Finland, Sweden, Norway, Denmark, Belgium, Netherlands, \nAustria or Singapore.  \nThe level of manufacturing activity represents:  \no For Biologicals: Biological Substance and Finished product.  \no For Pharmaceuticals: Finished Product (bulk) and Primary Packaging.",
+        "start": 5432,
+        "end": 7339,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SAU-Q03",
+        "source_document_id": "dc0c923796a4a5b77933",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 10,
+        "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+        "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+        "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+        "exact_text": "A complete assessment report and other relevant supporting documents from \nthe reference drug regulatory agency according to the following:  \n▪ Verification process: the following/documents are required from both \nreference drug regulatory agencies: \ni. \nComplete clinical and quality assessment report along with if \napplicable assessment on the Question & Answer documents \nbetween the Sponsor and Agency and all annexes. \nii. \nAssessment reports and/or documents pertaining to post-\napproval variations (if applicable).  \niii. \nThe submitted assessment reports should be unredacted or \nunedited, when possible, and should include details of imposed \nlicensing conditions, final product labelling, chemistry and \nclinical review, and other information concerning the product’s \napproval. Redacted or edited reports might be acceptable if not \nrelated to the quality, safety or efficacy of the product. Trade \nsecrets, confidential commercial and financial information, can \nbe excluded from the submission. Reports obtained from the \npublic domain are deemed to be unacceptable.  \n▪ Abridged process: It is similar to verification, but it requires only one \nof the two regulatory agencies referenced. \n•",
+        "start": 8645,
+        "end": 9850,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SAU-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+        "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+        "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+        "exact_text": "edback \n(Next page shows the \nupdated details) \n2.2 \nExecutive Directorate of \nRegulatory Affairs   \n1 May 2024 \nUpdated the designation's \ncontact email \n3.0 \nExecutive Directorate of \nRegulatory Affairs   \n20 October 2025 \nUpdated \nImplantation date \n20 January 2026 \n \n \n \n \n \n \n \n\n\nPAGE 5\n \n \n \n \n \nDS-G-020-V03/170201\n \nTable of Contents \nINTRODUCTION .............................................................................................................. 7 \nDEFINITIONS .................................................................................................................... 8 \nELIGIBILITY CRITERIA.................................................................................................. 8 \nSUBMISSION REQUIREMENTS .................................................................................... 9 \nPROCEDURE OF SUBMISSION .......................................",
+        "start": 1300,
+        "end": 2200,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "SAU-CTX-2",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+        "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+        "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+        "exact_text": "or veterinary medicinal products: EMA and FDA (for new veterinary \nproducts), USDA (for biological veterinary products). \n• Abridged pathway: Either of the following drug regulatory agencies has approved \nand marketed the product and/or post-approval changes; \no For human medicinal products: EMA or FDA. \no For veterinary medicinal products: EMA or FDA (for new veterinary \nproducts), USDA (for biological veterinary products). \n• Sameness of product: Compared to the reference agency, the submitted product \napplication shall have identical essential characteristics. All relevant aspects of the \nproduct, including those related to the quality of the product and its components, \nshould be considered to confirm that the product is the same or sufficiently similar \n(e.g., same qualitative and quantitative composition, strength, pharmaceutical form, \nintended use, manufacturing process, suppliers of active pharmaceutical \ningredients, quality of all excipients). Additionally, the results of supporting studies \nof safety, efficacy, quality, indications, and conditions of use should be the same. \nThe impact of potential and justified differences should be assessed by the \nmarketing authorization holder and the SFDA to determine the possibility of using \nthe reference agency’s assessments or decisions. \n \n3. ELIGIBILITY CRITERIA  \n• The application must be submitted to the SFDA within two years from the date of \napproval by the reference agency.  \n• The product does not need a more stringent assessment as a result of different local \ndisease patterns and/or medical practices. \n• The product and its intended use (indications, dosage information, and patient \ngroups (for human product) or target animal species (for veterinary product)) has \n\n\nPAGE 9\n \n \n \n \n \nDS-G-020-V03/170201\n \nnot been rejected, withdrawn, suspended by any drug regulatory agency for safety \nor efficacy reasons. \n• The manufacturer should be located in one of the following countries: \nUSA, UK, Canada, Australia, Japan, Switzerland, Germany, France, Ireland, Italy, \nSpain, Portugal, Finland, Sweden, Norway, Denmark, Belgium, Netherlands, \nAustria or Singapore.  \nThe level of manufacturing activity represents:  \no For Biologicals: Biological Substance and Finished product.  \no For Pharmaceuticals: Finished Product (bulk) and Primary Packaging. \n4. SUBMISSION REQUIREMENTS \n4.1. Registration  \n4.1.1. A complete file: \n• For human products: according to Data Requirements for Human Drugs \nSubmission, the eCTD submission should be the same as the reference drug \nregulatory agency (FDA or EMA) for Modules (2-5). \n• For veterinary products: according to the Data Requirements for \nVeterinary Medicinal Products, the submission (vNees or CTD) should be \nthe same as the reference drug regulatory agency (FDA, USDA or EMA). \n4.1.2. In Module 1 (for human products) or Part 1 (for veterinary products) and \nunder Additional Data Section, applicant must add the following: \n• In the cover letter: submit the requested pathway of registration and the \nreference(s) date of approval. \n• A declaration letter issued by the applicant stating that all aspects of the \ndrug product’s quality, including but not limited to, the formulation, \nmanufacturing site(s), release and shelf life specifications, primary \npackaging and active pharmaceutical ingredient(s) source are identical to \nthat currently approved by FDA / USDA and/or EMA at the time of \nsubmission. However, a different type of the container closure system (e.g. \n\n\nPAGE 10\n \n \n \n \n \nDS-G-020-V03/170201\n \nAlu/Alu blister vs. HDPE bottle) may be proposed to meet the stability \nrequirements. \n• A complete assessment report and other relevant supporting documents from \nthe reference drug regulatory agency according to the following:  \n▪ Verification process: the following/documents are required from both \nreference drug regulatory agencies: \ni. \nComplete clinical and quality assessment report along with if \napplicable assessment on the Question & Answer documents \nbetween the Sponsor and Agency and all annexes. \nii. \nAssessment reports and/or documents pertaining to post-\napproval variations (if applicable).  \niii. \nThe submitted assessment reports should be unredacted or \nunedited, when possible, and should include details of imposed \nlicensing conditions, final product labelling, chemistry and \nclinical review, and other information concerning the product’s \napproval. Redacted or edited reports might be acceptable if not \nrelated to the quality, safety or efficacy of the product. Trade \nsecrets, confidential commercial and financial information, can \nbe excluded from the submission. Reports obtained from the \npublic domain are deemed to be unacceptable.  \n▪ Abridged process: It is similar to verification, but it requires only one \nof the two regulatory agencies referenced. \n• For the inspection requirements; if the manufacturer is not registered in SFDA, \nthen the company has to pay the fees and submit the following: \n▪ Valid GMP certificates from the local authority and other international \nauthorities \n▪ A copy of Site Master File (SMF), \n▪ List of all products that manufactured at the site and supplied to Saudi \nArabia, \n▪ Last Inspection Report - in English - from the local authority. \n\n\nPAGE 11\n \n \n \n \n \nDS-G-020-V03/170201\n \n▪ If available, last Inspection Report - in English - from other international \nauthorities. \n4.1.3. Stability studies according to the Guidelines for Stability Testing. \nIf such studies are not available, the following requirements should be submitted: \ni. \nA commitment letter to conduct stability studies according to the \nGuidelines for Stability Testing; \nii. \nAn assurance letter must be provided stated that the applicant will report \nSFDA immediately if there are any Out of Specification (OOS) results \n4.1.4. Price certificate (Form 16)*. \n4.1.5. Supporting documents on comparative safety and efficacy studies \nillustrating the added value from an economic perspective. \nSFDA may request additional documentation not specifically outlined in this document, in \norder to adequately assess the safety, efficacy and quality of drug products.  SFDA is \ncommitted to ensuring that such requests are justifiable.  \n \n4.2. Variation \n4.2.1. Approval letter from reference agency. \n4.2.2. Signed declaration of sameness of product must be provided including \njustifications for any potential differences. \n4.2.3. A complete assessment report, unredacted and unedited, for the approved \nvariation(s) by the reference agency. \n4.2.4. Report that includes all questions and answers between the applicant and \nreference agency, including all annexes (unredacted/unedited), if applicable  \n \n \n \n                                                          \n* Refer to the Guidance for Submission for more information on this part \n\n\nPAGE 12\n \n \n \n \n \nDS-G-020-V03/170201\n \n5. PROCEDURE OF SUBMISSION \n5.1. For registration \nStep 1: Submission \ni. \nThe applicant should submit the application form through SDR system and pay \nthe fees. \nii. \nUpload the product’s file. \niii. \nThe applicant submit a designation request and checklist (see Appendix) to \nDesignation.Drug@sfda.gov.sa \nIf necessary, SFDA will request a meeting with the applicant to verify eligibility \nand ensure that the application meets all requirements. \nStep 2: Waiting for decision \n• The \napplicant \nwill \nreceive \nthe \nDrug \nSector \ndecision \nthrough \nDesignation.Drug@sfda.gov.sa within ten working days; \n• In case of non-eligibility, the application will be transferred to the other \npathways (note: registration fees are non-refundable).   \n \n5.2. For variation \nStep 1: Online submission \ni. \nThe applicant should submit the application form for variation by Abridged \npathway (see Appendix), upload it through the SDR system and pay the fees. \nii. \nUpload the product’s file. \nStep 2: Business Validation \ni. \nThe product file will be validated to ensure that all information provided is \naccording to the requirements and/or guidelines. \nii. \nIn case of non-eligibility, the application will be proceeded according to the \nregular variation timeline. \n\n\nPAGE 13\n \n \n \n \n \nDS-G-020-V03/170201\n \n6. PERFORMANCE TARGETS  \nRefer to the Regulatory Framework for Drugs Approval on target processing timelines for \nDrug Sector’s registration steps. The performance targets start when the Drug Sector \napproves the requested pathway by email. \nProcess \nPerformance target \nVerification pathway  \n30 working days  \nAbridged pathway  \n60 working days. \n \n7. REGULATORY NOTES \n• The SFDA is not obligated to approve the application even if it receives approval \nby reference from a drug regulatory agency.  \n• During evaluation and for safety, efficacy or quality concerns, the related \ndepartments might request to transfer the application to the regular pathway. \nHowever, SFDA commits to clarify the decisions for any case. \n• Confidential information which submitted by the companies to support their \nregistration application is protected and will not be shared by any means with other \nparties. \n• Applicants are required to adhere to the chosen reference agency throughout the \nproduct's lifecycle. For all variation requests, applicants must submit supporting \ndocumentation that conforms to the approvals issued by the chosen reference agency. \nFor example, if an abridged pathway registration is based on an EMA decision, all \nsubsequent variation requests must also utilize the EMA as the reference agency. \nSupporting documentation from the FDA will not be accepted. \n• If the product was approved via the standard registration pathway, the abridged \npathway for variations may be considered. \n• SFDA reserves the right to reject the application if the applicant submits false or \nmisleading information. \n\n\nPAGE 14\n \n \n \n \n \nDS-G-020-V03/170201\n \n8. FREQUENTLY ASKED QUESTIONS (FAQs)  \nThis section includes answers of the most frequently asked questions about the verification \nand abridged: \n8.1.  Scope \n- \nWill SFDA accept the product registration via the decentralized procedure in \nEurope? \nEMA registration means centralized procedure. \n \n- \nWhat is the situation for products that are approved by Health Canada, \nPMDA, Swiss Medic or TGA? \nOnly FDA, USDA and EMA are considered as reference agencies. \n- \nIf the product is generic and it is lifesaving, is it possible to apply through \nverification and abridged? \nThe registration by verification and abridged is accepted only for new products \n(NCE) and biological products.  \n8.2. File submission \n- \nWhat counts as proof of product registration? \nFor human products: Refer to the SFDA data requirements section 1.7.2  \nFor veterinary products: Refer to the data requirements for veterinary medicinal \nproducts section 1a42. \n- \nIf conditional approval granted by FDA, USDA/ EMA, can the company apply \nto SFDA by using such conditional approval? \nYes, and the applicant has to submit evidence of approval.  \n- \nWhat are the requirements to submit the product through verification and \nabridged process? \nRefer to the requirements section. \n \n- \nFor products which their manufacturing sites are not registered at SFDA, does \nSFDA approve the product without site inspection?  \nIf the product manufacturing site is located in one of the countries mentioned in the \nEligibility Criteria section, site inspection will not be a barrier for the product \n\n\nPAGE 15\n \n \n \n \n \nDS-G-020-V03/170201\n \nregistration. SFDA will take the necessary actions to maintain the registration \nwithin the timeframe. \n8.3. General \n- \nIf company could not perform stability data on GCC zone according to the \nSFDA guidelines on stability testing, can SFDA approve the data on Zone II? \nThe following should be submitted: \n• A commitment letter to conduct stability studies according to the SFDA \nGuidelines for Stability Testing; \n• Assurance should be given that any out of specification results will be \nreported immediately to the SFDA. \n- \nFor verification, what is the situation in case if there are any differences \nbetween Europe and US approved product (e.g. differences in approved \nindications, product label)?  \nIn this case, SFDA will follow the applicant’s chosen primary reference agency. \n- \nIn case of differences for example: manufacturing site, release and shelf life \nspecifications, primary packaging and API source; will the SFDA accept to \nregister the product through verification and abridged procedure? \nThe submitted file must include a declaration letter stating that all aspects of the \ndrug product’s quality, including but not limited to the formulation, manufacturing \nsite(s), release and shelf life specifications, primary packaging and API source are \nidentical to that currently approved by the chosen reference drug regulatory agency. \n- \nIs the current pricing rules part of the verification and abridged? \nYes, it is. \n \n- \nIs the product testing part of the verification and abridged? \nYes, it is and refer to the Regulatory Framewor",
+        "start": 5000,
+        "end": 18000,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "SAU",
+      "country": "Saudi Arabia",
+      "selected_document_id": "dc0c923796a4a5b77933",
+      "source_id": "82fa31eabcdafb6a",
+      "pathway": "Verification and abridged review; approval plus marketing",
+      "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+      "document_title": "SFDA verification/abridged version3",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "SAU-Q01": null
+        },
+        {
+          "SAU-Q02": null
+        },
+        {
+          "SAU-Q03": null
+        }
+      ],
+      "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+      "raw_hash_validated": true,
+      "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+      "version_dates": {
+        "updated_date": "2025-10-20",
+        "implementation_date": "2026-01-20",
+        "version": "3.0"
+      },
+      "version_scope_note": "DS-G-020 v3: document-control table updated 20 October 2025, implementation 20 January 2026. Cover says first issue 2017; do not backdate v3 clauses. Human-medicine references FDA/EMA, not veterinary USDA.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          4848,
+          5431
+        ],
+        [
+          5432,
+          7339
+        ],
+        [
+          8645,
+          9850
+        ],
+        [
+          1300,
+          2200
+        ],
+        [
+          5000,
+          18000
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New chemical entities and biologics; blood/ATMP/veterinary vaccines excluded.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Verification FDA AND EMA; abridged FDA OR EMA.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Two named approvals for verification, one for abridged.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "Application within two years; fixed 18 months satisfies.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Approved and marketed by named reference jurisdiction(s).",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same CTD modules 2–5 and product qualities; manufacture in listed countries includes USA.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Complete clinical/quality assessment, questions/answers and annexes; relevant variations.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "explicit requirement",
+          "finding": "Public-domain reports expressly unacceptable.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "discretionary/conditional",
+          "finding": "Non-quality/safety/efficacy redactions may be acceptable; trade secrets/commercial/financial information can be excluded.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "public_report_sufficiency": {
+          "state": "explicit requirement",
+          "finding": "Explicitly rejected: reports obtained from public domain unacceptable.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "No more stringent local disease/medical-practice assessment needed; comparative value evidence requested.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "GMP/site-master-file/inspection evidence; stability or commitment/assurance alternative.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Safety/efficacy/quality scrutiny retained; may transfer to regular pathway.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "SDR application, fees, designation request; price certificate retained.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "Designation within ten working days; target 30 verification/60 abridged working days from pathway-approval email.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "SFDA not obliged to approve despite foreign approval.",
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "explicitly ineligible for identified full-report route",
+          "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+          "decisive_conditions": [
+            "Complete underlying assessment report requirement"
+          ],
+          "unresolved_conditions": [
+            "Other eligibility remains unresolved; route alternatives assessed separately."
+          ],
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional via abridged alternative; verification fails",
+          "finding": "FDA-only fails two-approval verification threshold but a one-approval abridged alternative is described; all remaining conditions must be satisfied.",
+          "decisive_conditions": [
+            "Different route: one-approval abridged versus two-approval verification."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SAU-Q01",
+            "SAU-Q02",
+            "SAU-Q03",
+            "SAU-CTX-1",
+            "SAU-CTX-2"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "explicit full-report condition; overall access gain not fully resolved",
+          "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "explicit selected-route threshold",
+          "finding": "Second/named approval changes route threshold; one-reference alternatives remain separately coded."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "SAU-Q01",
+          "source_document_id": "dc0c923796a4a5b77933",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 8,
+          "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+          "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+          "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+          "exact_text": "Verification pathway: The following drug regulatory agencies have approved and \nmarketed the product: \no For human medicinal products: EMA and FDA. \no For veterinary medicinal products: EMA and FDA (for new veterinary \nproducts), USDA (for biological veterinary products). \n• Abridged pathway: Either of the following drug regulatory agencies has approved \nand marketed the product and/or post-approval changes; \no For human medicinal products: EMA or FDA. \no For veterinary medicinal products: EMA or FDA (for new veterinary \nproducts), USDA (for biological veterinary products). \n•",
+          "start": 4848,
+          "end": 5431,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SAU-Q02",
+          "source_document_id": "dc0c923796a4a5b77933",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 8,
+          "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+          "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+          "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+          "exact_text": "Sameness of product: Compared to the reference agency, the submitted product \napplication shall have identical essential characteristics. All relevant aspects of the \nproduct, including those related to the quality of the product and its components, \nshould be considered to confirm that the product is the same or sufficiently similar \n(e.g., same qualitative and quantitative composition, strength, pharmaceutical form, \nintended use, manufacturing process, suppliers of active pharmaceutical \ningredients, quality of all excipients). Additionally, the results of supporting studies \nof safety, efficacy, quality, indications, and conditions of use should be the same. \nThe impact of potential and justified differences should be assessed by the \nmarketing authorization holder and the SFDA to determine the possibility of using \nthe reference agency’s assessments or decisions. \n \n3. ELIGIBILITY CRITERIA  \n• The application must be submitted to the SFDA within two years from the date of \napproval by the reference agency.  \n• The product does not need a more stringent assessment as a result of different local \ndisease patterns and/or medical practices. \n• The product and its intended use (indications, dosage information, and patient \ngroups (for human product) or target animal species (for veterinary product)) has \n\n\nPAGE 9\n \n \n \n \n \nDS-G-020-V03/170201\n \nnot been rejected, withdrawn, suspended by any drug regulatory agency for safety \nor efficacy reasons. \n• The manufacturer should be located in one of the following countries: \nUSA, UK, Canada, Australia, Japan, Switzerland, Germany, France, Ireland, Italy, \nSpain, Portugal, Finland, Sweden, Norway, Denmark, Belgium, Netherlands, \nAustria or Singapore.  \nThe level of manufacturing activity represents:  \no For Biologicals: Biological Substance and Finished product.  \no For Pharmaceuticals: Finished Product (bulk) and Primary Packaging.",
+          "start": 5432,
+          "end": 7339,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SAU-Q03",
+          "source_document_id": "dc0c923796a4a5b77933",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 10,
+          "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+          "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+          "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+          "exact_text": "A complete assessment report and other relevant supporting documents from \nthe reference drug regulatory agency according to the following:  \n▪ Verification process: the following/documents are required from both \nreference drug regulatory agencies: \ni. \nComplete clinical and quality assessment report along with if \napplicable assessment on the Question & Answer documents \nbetween the Sponsor and Agency and all annexes. \nii. \nAssessment reports and/or documents pertaining to post-\napproval variations (if applicable).  \niii. \nThe submitted assessment reports should be unredacted or \nunedited, when possible, and should include details of imposed \nlicensing conditions, final product labelling, chemistry and \nclinical review, and other information concerning the product’s \napproval. Redacted or edited reports might be acceptable if not \nrelated to the quality, safety or efficacy of the product. Trade \nsecrets, confidential commercial and financial information, can \nbe excluded from the submission. Reports obtained from the \npublic domain are deemed to be unacceptable.  \n▪ Abridged process: It is similar to verification, but it requires only one \nof the two regulatory agencies referenced. \n•",
+          "start": 8645,
+          "end": 9850,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SAU-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+          "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+          "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+          "exact_text": "edback \n(Next page shows the \nupdated details) \n2.2 \nExecutive Directorate of \nRegulatory Affairs   \n1 May 2024 \nUpdated the designation's \ncontact email \n3.0 \nExecutive Directorate of \nRegulatory Affairs   \n20 October 2025 \nUpdated \nImplantation date \n20 January 2026 \n \n \n \n \n \n \n \n\n\nPAGE 5\n \n \n \n \n \nDS-G-020-V03/170201\n \nTable of Contents \nINTRODUCTION .............................................................................................................. 7 \nDEFINITIONS .................................................................................................................... 8 \nELIGIBILITY CRITERIA.................................................................................................. 8 \nSUBMISSION REQUIREMENTS .................................................................................... 9 \nPROCEDURE OF SUBMISSION .......................................",
+          "start": 1300,
+          "end": 2200,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "SAU-CTX-2",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
+          "raw_sha256": "e018ff71dd82651067ba8c9571358dd47a22c55cd675e0d033dfff99b6c94a7e",
+          "text_sha256": "abce01bb86e3eefcc019275a6f5d0fcdc7c2b9327bf0d0c9ec9b9d72bbd1b987",
+          "exact_text": "or veterinary medicinal products: EMA and FDA (for new veterinary \nproducts), USDA (for biological veterinary products). \n• Abridged pathway: Either of the following drug regulatory agencies has approved \nand marketed the product and/or post-approval changes; \no For human medicinal products: EMA or FDA. \no For veterinary medicinal products: EMA or FDA (for new veterinary \nproducts), USDA (for biological veterinary products). \n• Sameness of product: Compared to the reference agency, the submitted product \napplication shall have identical essential characteristics. All relevant aspects of the \nproduct, including those related to the quality of the product and its components, \nshould be considered to confirm that the product is the same or sufficiently similar \n(e.g., same qualitative and quantitative composition, strength, pharmaceutical form, \nintended use, manufacturing process, suppliers of active pharmaceutical \ningredients, quality of all excipients). Additionally, the results of supporting studies \nof safety, efficacy, quality, indications, and conditions of use should be the same. \nThe impact of potential and justified differences should be assessed by the \nmarketing authorization holder and the SFDA to determine the possibility of using \nthe reference agency’s assessments or decisions. \n \n3. ELIGIBILITY CRITERIA  \n• The application must be submitted to the SFDA within two years from the date of \napproval by the reference agency.  \n• The product does not need a more stringent assessment as a result of different local \ndisease patterns and/or medical practices. \n• The product and its intended use (indications, dosage information, and patient \ngroups (for human product) or target animal species (for veterinary product)) has \n\n\nPAGE 9\n \n \n \n \n \nDS-G-020-V03/170201\n \nnot been rejected, withdrawn, suspended by any drug regulatory agency for safety \nor efficacy reasons. \n• The manufacturer should be located in one of the following countries: \nUSA, UK, Canada, Australia, Japan, Switzerland, Germany, France, Ireland, Italy, \nSpain, Portugal, Finland, Sweden, Norway, Denmark, Belgium, Netherlands, \nAustria or Singapore.  \nThe level of manufacturing activity represents:  \no For Biologicals: Biological Substance and Finished product.  \no For Pharmaceuticals: Finished Product (bulk) and Primary Packaging. \n4. SUBMISSION REQUIREMENTS \n4.1. Registration  \n4.1.1. A complete file: \n• For human products: according to Data Requirements for Human Drugs \nSubmission, the eCTD submission should be the same as the reference drug \nregulatory agency (FDA or EMA) for Modules (2-5). \n• For veterinary products: according to the Data Requirements for \nVeterinary Medicinal Products, the submission (vNees or CTD) should be \nthe same as the reference drug regulatory agency (FDA, USDA or EMA). \n4.1.2. In Module 1 (for human products) or Part 1 (for veterinary products) and \nunder Additional Data Section, applicant must add the following: \n• In the cover letter: submit the requested pathway of registration and the \nreference(s) date of approval. \n• A declaration letter issued by the applicant stating that all aspects of the \ndrug product’s quality, including but not limited to, the formulation, \nmanufacturing site(s), release and shelf life specifications, primary \npackaging and active pharmaceutical ingredient(s) source are identical to \nthat currently approved by FDA / USDA and/or EMA at the time of \nsubmission. However, a different type of the container closure system (e.g. \n\n\nPAGE 10\n \n \n \n \n \nDS-G-020-V03/170201\n \nAlu/Alu blister vs. HDPE bottle) may be proposed to meet the stability \nrequirements. \n• A complete assessment report and other relevant supporting documents from \nthe reference drug regulatory agency according to the following:  \n▪ Verification process: the following/documents are required from both \nreference drug regulatory agencies: \ni. \nComplete clinical and quality assessment report along with if \napplicable assessment on the Question & Answer documents \nbetween the Sponsor and Agency and all annexes. \nii. \nAssessment reports and/or documents pertaining to post-\napproval variations (if applicable).  \niii. \nThe submitted assessment reports should be unredacted or \nunedited, when possible, and should include details of imposed \nlicensing conditions, final product labelling, chemistry and \nclinical review, and other information concerning the product’s \napproval. Redacted or edited reports might be acceptable if not \nrelated to the quality, safety or efficacy of the product. Trade \nsecrets, confidential commercial and financial information, can \nbe excluded from the submission. Reports obtained from the \npublic domain are deemed to be unacceptable.  \n▪ Abridged process: It is similar to verification, but it requires only one \nof the two regulatory agencies referenced. \n• For the inspection requirements; if the manufacturer is not registered in SFDA, \nthen the company has to pay the fees and submit the following: \n▪ Valid GMP certificates from the local authority and other international \nauthorities \n▪ A copy of Site Master File (SMF), \n▪ List of all products that manufactured at the site and supplied to Saudi \nArabia, \n▪ Last Inspection Report - in English - from the local authority. \n\n\nPAGE 11\n \n \n \n \n \nDS-G-020-V03/170201\n \n▪ If available, last Inspection Report - in English - from other international \nauthorities. \n4.1.3. Stability studies according to the Guidelines for Stability Testing. \nIf such studies are not available, the following requirements should be submitted: \ni. \nA commitment letter to conduct stability studies according to the \nGuidelines for Stability Testing; \nii. \nAn assurance letter must be provided stated that the applicant will report \nSFDA immediately if there are any Out of Specification (OOS) results \n4.1.4. Price certificate (Form 16)*. \n4.1.5. Supporting documents on comparative safety and efficacy studies \nillustrating the added value from an economic perspective. \nSFDA may request additional documentation not specifically outlined in this document, in \norder to adequately assess the safety, efficacy and quality of drug products.  SFDA is \ncommitted to ensuring that such requests are justifiable.  \n \n4.2. Variation \n4.2.1. Approval letter from reference agency. \n4.2.2. Signed declaration of sameness of product must be provided including \njustifications for any potential differences. \n4.2.3. A complete assessment report, unredacted and unedited, for the approved \nvariation(s) by the reference agency. \n4.2.4. Report that includes all questions and answers between the applicant and \nreference agency, including all annexes (unredacted/unedited), if applicable  \n \n \n \n                                                          \n* Refer to the Guidance for Submission for more information on this part \n\n\nPAGE 12\n \n \n \n \n \nDS-G-020-V03/170201\n \n5. PROCEDURE OF SUBMISSION \n5.1. For registration \nStep 1: Submission \ni. \nThe applicant should submit the application form through SDR system and pay \nthe fees. \nii. \nUpload the product’s file. \niii. \nThe applicant submit a designation request and checklist (see Appendix) to \nDesignation.Drug@sfda.gov.sa \nIf necessary, SFDA will request a meeting with the applicant to verify eligibility \nand ensure that the application meets all requirements. \nStep 2: Waiting for decision \n• The \napplicant \nwill \nreceive \nthe \nDrug \nSector \ndecision \nthrough \nDesignation.Drug@sfda.gov.sa within ten working days; \n• In case of non-eligibility, the application will be transferred to the other \npathways (note: registration fees are non-refundable).   \n \n5.2. For variation \nStep 1: Online submission \ni. \nThe applicant should submit the application form for variation by Abridged \npathway (see Appendix), upload it through the SDR system and pay the fees. \nii. \nUpload the product’s file. \nStep 2: Business Validation \ni. \nThe product file will be validated to ensure that all information provided is \naccording to the requirements and/or guidelines. \nii. \nIn case of non-eligibility, the application will be proceeded according to the \nregular variation timeline. \n\n\nPAGE 13\n \n \n \n \n \nDS-G-020-V03/170201\n \n6. PERFORMANCE TARGETS  \nRefer to the Regulatory Framework for Drugs Approval on target processing timelines for \nDrug Sector’s registration steps. The performance targets start when the Drug Sector \napproves the requested pathway by email. \nProcess \nPerformance target \nVerification pathway  \n30 working days  \nAbridged pathway  \n60 working days. \n \n7. REGULATORY NOTES \n• The SFDA is not obligated to approve the application even if it receives approval \nby reference from a drug regulatory agency.  \n• During evaluation and for safety, efficacy or quality concerns, the related \ndepartments might request to transfer the application to the regular pathway. \nHowever, SFDA commits to clarify the decisions for any case. \n• Confidential information which submitted by the companies to support their \nregistration application is protected and will not be shared by any means with other \nparties. \n• Applicants are required to adhere to the chosen reference agency throughout the \nproduct's lifecycle. For all variation requests, applicants must submit supporting \ndocumentation that conforms to the approvals issued by the chosen reference agency. \nFor example, if an abridged pathway registration is based on an EMA decision, all \nsubsequent variation requests must also utilize the EMA as the reference agency. \nSupporting documentation from the FDA will not be accepted. \n• If the product was approved via the standard registration pathway, the abridged \npathway for variations may be considered. \n• SFDA reserves the right to reject the application if the applicant submits false or \nmisleading information. \n\n\nPAGE 14\n \n \n \n \n \nDS-G-020-V03/170201\n \n8. FREQUENTLY ASKED QUESTIONS (FAQs)  \nThis section includes answers of the most frequently asked questions about the verification \nand abridged: \n8.1.  Scope \n- \nWill SFDA accept the product registration via the decentralized procedure in \nEurope? \nEMA registration means centralized procedure. \n \n- \nWhat is the situation for products that are approved by Health Canada, \nPMDA, Swiss Medic or TGA? \nOnly FDA, USDA and EMA are considered as reference agencies. \n- \nIf the product is generic and it is lifesaving, is it possible to apply through \nverification and abridged? \nThe registration by verification and abridged is accepted only for new products \n(NCE) and biological products.  \n8.2. File submission \n- \nWhat counts as proof of product registration? \nFor human products: Refer to the SFDA data requirements section 1.7.2  \nFor veterinary products: Refer to the data requirements for veterinary medicinal \nproducts section 1a42. \n- \nIf conditional approval granted by FDA, USDA/ EMA, can the company apply \nto SFDA by using such conditional approval? \nYes, and the applicant has to submit evidence of approval.  \n- \nWhat are the requirements to submit the product through verification and \nabridged process? \nRefer to the requirements section. \n \n- \nFor products which their manufacturing sites are not registered at SFDA, does \nSFDA approve the product without site inspection?  \nIf the product manufacturing site is located in one of the countries mentioned in the \nEligibility Criteria section, site inspection will not be a barrier for the product \n\n\nPAGE 15\n \n \n \n \n \nDS-G-020-V03/170201\n \nregistration. SFDA will take the necessary actions to maintain the registration \nwithin the timeframe. \n8.3. General \n- \nIf company could not perform stability data on GCC zone according to the \nSFDA guidelines on stability testing, can SFDA approve the data on Zone II? \nThe following should be submitted: \n• A commitment letter to conduct stability studies according to the SFDA \nGuidelines for Stability Testing; \n• Assurance should be given that any out of specification results will be \nreported immediately to the SFDA. \n- \nFor verification, what is the situation in case if there are any differences \nbetween Europe and US approved product (e.g. differences in approved \nindications, product label)?  \nIn this case, SFDA will follow the applicant’s chosen primary reference agency. \n- \nIn case of differences for example: manufacturing site, release and shelf life \nspecifications, primary packaging and API source; will the SFDA accept to \nregister the product through verification and abridged procedure? \nThe submitted file must include a declaration letter stating that all aspects of the \ndrug product’s quality, including but not limited to the formulation, manufacturing \nsite(s), release and shelf life specifications, primary packaging and API source are \nidentical to that currently approved by the chosen reference drug regulatory agency. \n- \nIs the current pricing rules part of the verification and abridged? \nYes, it is. \n \n- \nIs the product testing part of the verification and abridged? \nYes, it is and refer to the Regulatory Framewor",
+          "start": 5000,
+          "end": 18000,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "SAU-SUP-ab68e32d-8305",
+          "source_url": "https://www.sfda.gov.sa/sites/default/files/2024-05/VerificationAbridgedProcess22.pdf",
+          "section_article": "§4.1,assessment-reportredactionandpublicreports",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

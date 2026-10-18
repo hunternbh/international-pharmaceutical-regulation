@@ -218,5 +218,98 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "CRI",
+    "country": "Costa Rica",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "particular_evidence",
+    "fixed_case_scope_status": "particular_evidence_only",
+    "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "CRI-Q01",
+        "source_url": "https://www.ministeriodesalud.go.cr/index.php/biblioteca-de-archivos-left/documentos-ministerio-de-salud/ministerio-de-salud/tramites-1/empresariales/registro-de-medicamentos/7176-ms-drpis-9043-2023-listado-de-autoridades-reguladoras-de-referencia-a-las-que-se-les-aplicara-el-reconocimiento-de-la-evaluacion-y-aprobacion-de-informes-finales-de-estudios-clinicos-y-no-clinicos-del-decreto-ejecutivo-no-39433-s-publicada-en-el-alcance-n/file",
+        "raw_sha256": "fcf2e18abd38e1950f1759d70b3159b057c2f1bfdcb6a4ac8661305cac103021",
+        "text_sha256": "e0bfde05bc918aa9fabbeda4f2b446892d22ce095445982062bd5450687a9420",
+        "start_offset": 809,
+        "end_offset": 1302,
+        "verbatim_extracted_text": "Que el Decreto N° 39433-S del 9 de noviembre de 2015\nReconocimiento de la\nEvaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por\nparte de las Autoridades Reguladoras de referencia como evidencia para el Registro\nestablece las condiciones para que el Ministerio de\nSalud pueda considerar reconocer informes concluyentes de estudios clínicos y\npreclínicos de seguridad y eficacia, bioequivalencia o biosimilitud, como parte del\nregistro sanitario de los medicamentos.",
+        "pdf_page": 1,
+        "language": "es",
+        "language_status": "Original Spanish signed resolution",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "translation_review": {
+          "id": "CRI-Q01",
+          "source_language": "es",
+          "source_text": "Que el Decreto N° 39433-S del 9 de noviembre de 2015\nReconocimiento de la\nEvaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por\nparte de las Autoridades Reguladoras de referencia como evidencia para el Registro\nestablece las condiciones para que el Ministerio de\nSalud pueda considerar reconocer informes concluyentes de estudios clínicos y\npreclínicos de seguridad y eficacia, bioequivalencia o biosimilitud, como parte del\nregistro sanitario de los medicamentos.",
+          "document_id": "963cf12efcb90e4f1f2a",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "es",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+            "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+            "model_bytes": 285208831,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "es",
+              "from_name": "Spanish",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "0375c86af2ac93c13d5e45d40241399fda01722da667d060683f8c091b2c486a",
+          "translated_utc": "2026-10-18T00:48:10.593039+00:00",
+          "source_characters": 493,
+          "segments": 1,
+          "raw_machine_translation": "That Decree N ° 39433-S of 9 November 2015 recognizes the Evaluation and Approval of Final Reports of Clinical and Non-Clinical Studies by the Regulatory Authorities referred to as evidence for the Register lays down the conditions for the Ministry of Health to consider recognizing conclusive reports of clinical and preclinical studies of safety and efficacy, bioequivalency or bisimilarity as part of the health register of medicines.",
+          "checked_translation": "Decree 39433-S of 9 November 2015, Recognition of the Evaluation and Approval of Final Reports of Clinical and Non-Clinical Studies by Reference Regulatory Authorities as Evidence for Registration, establishes the conditions under which the Ministry of Health will consider recognising conclusive clinical and preclinical study reports on safety and efficacy, bioequivalence or biosimilarity as part of the sanitary registration of medicines.",
+          "check_note": "Retained 'consider recognising' and evidence scope; not automatic foreign marketing authorisation.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        }
+      }
+    ],
+    "source_scope": "Clinical/nonclinical evidence; not automatic full authorisation",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

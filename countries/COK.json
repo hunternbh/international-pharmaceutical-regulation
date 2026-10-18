@@ -129,5 +129,551 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "COK",
+    "country": "Cook Islands",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Foreign approval plus domestic approved schedule",
+    "source_url": "https://www.health.gov.ck/wp-content/uploads/2020/06/MOHPharmacyandTherapeuticProductsRegulations2013.pdf",
+    "document_id": "5086095602474b9405ca",
+    "genre": "Regulations",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Cook Islands 2013 Regulations 23 and recognised-regulator definition. Original scan/OCR retained; named written regulator determinations not present in the excerpt.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Recognised regulator is one designated by the Head of Ministry in writing; FDA/EMA designation cannot be invented from this definition.",
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Recognised foreign regulator approval AND inclusion in the Cook Islands Medicines Schedule approved list required.",
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Provision requires documentation sufficient to establish foreign approval; report-content sufficiency not settled.",
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Evidence must satisfy Head of Ministry and local approved-list requirement; foreign conditions generally carry over.",
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Head of Ministry may modify foreign conditions after Board advice.",
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "COK-Q01",
+          "COK-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "COK-Q01",
+        "iso3": "COK",
+        "event_id": "COK_112",
+        "document_id": "5086095602474b9405ca",
+        "source_id": "fda2db2eb6578330",
+        "source_url": "https://www.health.gov.ck/wp-content/uploads/2020/06/MOHPharmacyandTherapeuticProductsRegulations2013.pdf",
+        "raw_sha256": "647ea088273220a20eb9919c5d92d3de3c079eb54d4b89b5d419273ce2e8c555",
+        "text_sha256": "c591c17b903c981ee7f92d0a98c44f283589e4c21210575bd8ad3941f6b82bcc",
+        "start_offset": 39852,
+        "end_offset": 41259,
+        "pdf_page": 16,
+        "verbatim_extracted_text": "No person may import, manufacture, sell, supply or promote any therapeutic\nproduct eple that product has been approved by a recognised regulator and is\non the Cook Islands Medicine Schedule as an approved product.\n\n|\n\\\n|\n|\n15\n\n\nPAGE 17\n[MACHINE OCR; original image authoritative]\n2)\n\nG)\n\n@)\n\n6)\n\n(6)\n\n1)\n\n(8)\n\n24\n\nqd)\n\n(2)\n\n@)\n\n16\n\nMinistry of Health (Pharmacy and Therapeutic Products) Regulations 2013\n\nFor the purpose of sub-regulation (1), a person who wishes to import,\nmanufacture, sell, supply or promote any therapeutic product must hold\ndocumentation sufficient to satisfy the Head of Ministry that the product has\nbeen approved by a recognised regulator. :\n\nIf a recognised regulator has granted an approval subject to conditions, those\nconditions apply to any supply or promotion of the product in the Cook\nIslands, unless those conditions are modified by the Head of Ministry, acting\non the advice of the Board.\n\nUpon application by a registered medical practitioner, pharmacist or\nveterinarian, the Head of Ministry may authorise the importation of a\ntherapeutic product which has not been approved by a recognised regulator, in\norder to meet the particular treatment needs of an individual patient or animal.\nThe Head of Ministry may authorise the importation of a medicine not\napproved by a recognised regulator in the interest of public health during a\nmajor disaster or period of emergency.",
+        "display_text": "No person may import, manufacture, sell, supply or promote any therapeutic product eple that product has been approved by a recognised regulator and is on the Cook Islands Medicine Schedule as an approved product. | \\ | | 15 PAGE 17 [MACHINE OCR; original image authoritative] 2) G) @) 6) (6) 1) (8) 24 qd) (2) @) 16 Ministry of Health (Pharmacy and Therapeutic Products) Regulations 2013 For the purpose of sub-regulation (1), a person who wishes to import, manufacture, sell, supply or promote any therapeutic product must hold documentation sufficient to satisfy the Head of Ministry that the product has been approved by a recognised regulator. : If a recognised regulator has granted an approval subject to conditions, those conditions apply to any supply or promotion of the product in the Cook Islands, unless those conditions are modified by the Head of Ministry, acting on the advice of the Board. Upon application by a registered medical practitioner, pharmacist or veterinarian, the Head of Ministry may authorise the importation of a therapeutic product which has not been approved by a recognised regulator, in order to meet the particular treatment needs of an individual patient or animal. The Head of Ministry may authorise the importation of a medicine not approved by a recognised regulator in the interest of public health during a major disaster or period of emergency.",
+        "feature_tags": [
+          "local_list",
+          "discretion"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "English machine OCR; image remains authoritative",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": true,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "COK-CONTEXT-1",
+        "source_url": "https://www.health.gov.ck/wp-content/uploads/2020/06/MOHPharmacyandTherapeuticProductsRegulations2013.pdf",
+        "raw_sha256": "647ea088273220a20eb9919c5d92d3de3c079eb54d4b89b5d419273ce2e8c555",
+        "text_sha256": "c591c17b903c981ee7f92d0a98c44f283589e4c21210575bd8ad3941f6b82bcc",
+        "start_offset": 39102,
+        "end_offset": 42259,
+        "verbatim_extracted_text": "its tegistration or approval status with recognised regulators.\nThe Head of Ministry must cause the Cook Islands Medicines Schedule to be\nreviewed annually, and may amend any. of the medicines or classes in the\nCook Islands Medicines Schedule by written determination.\nThe Cook Islands Medicines Schedule may recognise and reference the\napproved medicines lists of other countries.\nThe Cook Islands Medicines Schedule may be kept in electronic format.\nThe Ministry must make the Cook Islands Medicines Schedule, including any\nmedicines lists referenced under sub-regulation (5), readily available to the\npharmacy profession and the public.\n\n|\n\n| Part 5\n\nControls on dealings with therapeutic products\n\nImportation and supply of therapeutic products\n\nNo person may import, manufacture, sell, supply or promote any therapeutic\nproduct eple that product has been approved by a recognised regulator and is\non the Cook Islands Medicine Schedule as an approved product.\n\n|\n\\\n|\n|\n15\n\n\nPAGE 17\n[MACHINE OCR; original image authoritative]\n2)\n\nG)\n\n@)\n\n6)\n\n(6)\n\n1)\n\n(8)\n\n24\n\nqd)\n\n(2)\n\n@)\n\n16\n\nMinistry of Health (Pharmacy and Therapeutic Products) Regulations 2013\n\nFor the purpose of sub-regulation (1), a person who wishes to import,\nmanufacture, sell, supply or promote any therapeutic product must hold\ndocumentation sufficient to satisfy the Head of Ministry that the product has\nbeen approved by a recognised regulator. :\n\nIf a recognised regulator has granted an approval subject to conditions, those\nconditions apply to any supply or promotion of the product in the Cook\nIslands, unless those conditions are modified by the Head of Ministry, acting\non the advice of the Board.\n\nUpon application by a registered medical practitioner, pharmacist or\nveterinarian, the Head of Ministry may authorise the importation of a\ntherapeutic product which has not been approved by a recognised regulator, in\norder to meet the particular treatment needs of an individual patient or animal.\nThe Head of Ministry may authorise the importation of a medicine not\napproved by a recognised regulator in the interest of public health during a\nmajor disaster or period of emergency.\n\nThe giving of an authorisation under sub-regulations (3), (4) or (5) does not\ntender the Crown, the Ministry of Health or any person acting in accordance\nwith these Regulations, liable in respect of any loss, damage or injury of any\nkind suffered as a result of, or arising out of, the use of therapeutic products by\nany person or animal.\n\nNothing in this regulation prevents the importation by any person of a\nmedicine if that importation is for personal therapeutic use which is evidenced\nby a letter or certificate of that person's medical practitioner registered outside\nthe Cook Islands, or is for the purpose of a clinical trial authorised by the\nMinistry.\n\nAny person who contravenes any provision of this regulation commits an\noffence and is liable upon conviction to a fine not exceeding $10,000, or to\nimprisonment not exceeding 12 months, or both.\n\nControl of therapeutic products available in the Cook Islands\n\nJf there is any reason to believe that any therapeutic product may be unsaf",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "COK",
+      "country": "Cook Islands",
+      "selected_document_id": "5086095602474b9405ca",
+      "source_id": "fda2db2eb6578330",
+      "pathway": "Foreign approval plus domestic approved schedule",
+      "source_url": "https://www.health.gov.ck/wp-content/uploads/2020/06/MOHPharmacyandTherapeuticProductsRegulations2013.pdf",
+      "document_title": "Ministry of Health (Pharmacy and Therapeutic Products) Regulations 2013",
+      "source_type": "Regulations",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "647ea088273220a20eb9919c5d92d3de3c079eb54d4b89b5d419273ce2e8c555",
+      "raw_hash_validated": true,
+      "text_sha256": "c591c17b903c981ee7f92d0a98c44f283589e4c21210575bd8ad3941f6b82bcc",
+      "version_dates": {},
+      "version_scope_note": "Cook Islands 2013 Regulations 23 and recognised-regulator definition. Original scan/OCR retained; named written regulator determinations not present in the excerpt.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          39102,
+          42259
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Recognised regulator is one designated by the Head of Ministry in writing; FDA/EMA designation cannot be invented from this definition.",
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Recognised foreign regulator approval AND inclusion in the Cook Islands Medicines Schedule approved list required.",
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Provision requires documentation sufficient to establish foreign approval; report-content sufficiency not settled.",
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Evidence must satisfy Head of Ministry and local approved-list requirement; foreign conditions generally carry over.",
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Head of Ministry may modify foreign conditions after Board advice.",
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "COK-Q01",
+            "COK-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "COK-Q01",
+          "iso3": "COK",
+          "event_id": "COK_112",
+          "document_id": "5086095602474b9405ca",
+          "source_id": "fda2db2eb6578330",
+          "source_url": "https://www.health.gov.ck/wp-content/uploads/2020/06/MOHPharmacyandTherapeuticProductsRegulations2013.pdf",
+          "raw_sha256": "647ea088273220a20eb9919c5d92d3de3c079eb54d4b89b5d419273ce2e8c555",
+          "text_sha256": "c591c17b903c981ee7f92d0a98c44f283589e4c21210575bd8ad3941f6b82bcc",
+          "start_offset": 39852,
+          "end_offset": 41259,
+          "pdf_page": 16,
+          "verbatim_extracted_text": "No person may import, manufacture, sell, supply or promote any therapeutic\nproduct eple that product has been approved by a recognised regulator and is\non the Cook Islands Medicine Schedule as an approved product.\n\n|\n\\\n|\n|\n15\n\n\nPAGE 17\n[MACHINE OCR; original image authoritative]\n2)\n\nG)\n\n@)\n\n6)\n\n(6)\n\n1)\n\n(8)\n\n24\n\nqd)\n\n(2)\n\n@)\n\n16\n\nMinistry of Health (Pharmacy and Therapeutic Products) Regulations 2013\n\nFor the purpose of sub-regulation (1), a person who wishes to import,\nmanufacture, sell, supply or promote any therapeutic product must hold\ndocumentation sufficient to satisfy the Head of Ministry that the product has\nbeen approved by a recognised regulator. :\n\nIf a recognised regulator has granted an approval subject to conditions, those\nconditions apply to any supply or promotion of the product in the Cook\nIslands, unless those conditions are modified by the Head of Ministry, acting\non the advice of the Board.\n\nUpon application by a registered medical practitioner, pharmacist or\nveterinarian, the Head of Ministry may authorise the importation of a\ntherapeutic product which has not been approved by a recognised regulator, in\norder to meet the particular treatment needs of an individual patient or animal.\nThe Head of Ministry may authorise the importation of a medicine not\napproved by a recognised regulator in the interest of public health during a\nmajor disaster or period of emergency.",
+          "display_text": "No person may import, manufacture, sell, supply or promote any therapeutic product eple that product has been approved by a recognised regulator and is on the Cook Islands Medicine Schedule as an approved product. | \\ | | 15 PAGE 17 [MACHINE OCR; original image authoritative] 2) G) @) 6) (6) 1) (8) 24 qd) (2) @) 16 Ministry of Health (Pharmacy and Therapeutic Products) Regulations 2013 For the purpose of sub-regulation (1), a person who wishes to import, manufacture, sell, supply or promote any therapeutic product must hold documentation sufficient to satisfy the Head of Ministry that the product has been approved by a recognised regulator. : If a recognised regulator has granted an approval subject to conditions, those conditions apply to any supply or promotion of the product in the Cook Islands, unless those conditions are modified by the Head of Ministry, acting on the advice of the Board. Upon application by a registered medical practitioner, pharmacist or veterinarian, the Head of Ministry may authorise the importation of a therapeutic product which has not been approved by a recognised regulator, in order to meet the particular treatment needs of an individual patient or animal. The Head of Ministry may authorise the importation of a medicine not approved by a recognised regulator in the interest of public health during a major disaster or period of emergency.",
+          "feature_tags": [
+            "local_list",
+            "discretion"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "English machine OCR; image remains authoritative",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": true,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "COK-CONTEXT-1",
+          "source_url": "https://www.health.gov.ck/wp-content/uploads/2020/06/MOHPharmacyandTherapeuticProductsRegulations2013.pdf",
+          "raw_sha256": "647ea088273220a20eb9919c5d92d3de3c079eb54d4b89b5d419273ce2e8c555",
+          "text_sha256": "c591c17b903c981ee7f92d0a98c44f283589e4c21210575bd8ad3941f6b82bcc",
+          "start_offset": 39102,
+          "end_offset": 42259,
+          "verbatim_extracted_text": "its tegistration or approval status with recognised regulators.\nThe Head of Ministry must cause the Cook Islands Medicines Schedule to be\nreviewed annually, and may amend any. of the medicines or classes in the\nCook Islands Medicines Schedule by written determination.\nThe Cook Islands Medicines Schedule may recognise and reference the\napproved medicines lists of other countries.\nThe Cook Islands Medicines Schedule may be kept in electronic format.\nThe Ministry must make the Cook Islands Medicines Schedule, including any\nmedicines lists referenced under sub-regulation (5), readily available to the\npharmacy profession and the public.\n\n|\n\n| Part 5\n\nControls on dealings with therapeutic products\n\nImportation and supply of therapeutic products\n\nNo person may import, manufacture, sell, supply or promote any therapeutic\nproduct eple that product has been approved by a recognised regulator and is\non the Cook Islands Medicine Schedule as an approved product.\n\n|\n\\\n|\n|\n15\n\n\nPAGE 17\n[MACHINE OCR; original image authoritative]\n2)\n\nG)\n\n@)\n\n6)\n\n(6)\n\n1)\n\n(8)\n\n24\n\nqd)\n\n(2)\n\n@)\n\n16\n\nMinistry of Health (Pharmacy and Therapeutic Products) Regulations 2013\n\nFor the purpose of sub-regulation (1), a person who wishes to import,\nmanufacture, sell, supply or promote any therapeutic product must hold\ndocumentation sufficient to satisfy the Head of Ministry that the product has\nbeen approved by a recognised regulator. :\n\nIf a recognised regulator has granted an approval subject to conditions, those\nconditions apply to any supply or promotion of the product in the Cook\nIslands, unless those conditions are modified by the Head of Ministry, acting\non the advice of the Board.\n\nUpon application by a registered medical practitioner, pharmacist or\nveterinarian, the Head of Ministry may authorise the importation of a\ntherapeutic product which has not been approved by a recognised regulator, in\norder to meet the particular treatment needs of an individual patient or animal.\nThe Head of Ministry may authorise the importation of a medicine not\napproved by a recognised regulator in the interest of public health during a\nmajor disaster or period of emergency.\n\nThe giving of an authorisation under sub-regulations (3), (4) or (5) does not\ntender the Crown, the Ministry of Health or any person acting in accordance\nwith these Regulations, liable in respect of any loss, damage or injury of any\nkind suffered as a result of, or arising out of, the use of therapeutic products by\nany person or animal.\n\nNothing in this regulation prevents the importation by any person of a\nmedicine if that importation is for personal therapeutic use which is evidenced\nby a letter or certificate of that person's medical practitioner registered outside\nthe Cook Islands, or is for the purpose of a clinical trial authorised by the\nMinistry.\n\nAny person who contravenes any provision of this regulation commits an\noffence and is liable upon conviction to a fine not exceeding $10,000, or to\nimprisonment not exceeding 12 months, or both.\n\nControl of therapeutic products available in the Cook Islands\n\nJf there is any reason to believe that any therapeutic product may be unsaf",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

@@ -190,5 +190,709 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "GEO",
+    "country": "Georgia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Recognition after administrative documents",
+    "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+    "document_id": "fa3de5c047b174382aaf",
+    "genre": "Statute translation",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Consolidated Georgian law Arts 11^6–11^7, recognition regime. English official translation; competent-authority list delegated to government and not presumed.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Delegated government list not included in the selected statute; FDA/EMA eligibility not invented.",
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Qualifying foreign or international marketing authorisation required; government determines recognised authority list.",
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Administrative document list does not expressly settle all underlying report requirements or waiver.",
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Administrative review of homology identification documents; national regime separate.",
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "Authorised Georgian patient leaflet translation plus original leaflet required.",
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ]
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "CPP or equivalent, foreign MA validity/number, leaflet, dosage/form and product samples.",
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ]
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "Entry in registry within 7 working days after administrative review of recognition documents.",
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Agency label/sample powers retained; government decides recognised authorities.",
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GEO-Q01",
+          "GEO-Q02",
+          "GEO-CONTEXT-1",
+          "GEO-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "GEO-Q01",
+        "iso3": "GEO",
+        "event_id": "GEO_002",
+        "document_id": "fa3de5c047b174382aaf",
+        "source_id": "f9f0a8b0ba460685",
+        "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+        "raw_sha256": "4f4740ca13c8daae14945ad0ca03055dabd70fda12148ec1d39c569b70f4236d",
+        "text_sha256": "9c741a79e8a0a676204a3bcdf5e0af49adba0c7f3f90fe14217f30bc53ddd38f",
+        "start_offset": 41447,
+        "end_offset": 43255,
+        "pdf_page": null,
+        "verbatim_extracted_text": "1. Entry of a pharmaceutical product into the Departmental Registry shall imply granting marketing authorisation in Georgia to a pharmaceutical product.\n2. The Departmental Registry shall specify a registration number, an interested person, a manufacturing country, a brand name, an international off-patent name (if any), a form, a dosage, if necessary - a concentration, a registration date, registration validity period and an electronic version of a packaging and labelling sample.\n3. The Departmental Registry shall be a public document. For the purpose of unobstructed access of the public to the information, the Departmental Registry shall be kept in an electronic form and shall be made accessible through the internet.\n4. Under the recognition regime of state registration of a pharmaceutical product, a pharmaceutical product may be entered in the Departmental Registry:\na) proactively by the Agency, on the basis of the information on a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally;\nb) after an administrative review of homology identification documents defined in Article 11\n10\nof this Law, which are submitted by an interested person;\nc) after the procedure of notification by an interested person about the first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but differently packaged and labelled.\n5. A pharmaceutical product shall be entered in the Departmental Registry, under the national regime of state registration of a pharmaceutical product, after completion of the procedure determined by Article 11\n11\nof this Law.\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149",
+        "display_text": "1. Entry of a pharmaceutical product into the Departmental Registry shall imply granting marketing authorisation in Georgia to a pharmaceutical product. 2. The Departmental Registry shall specify a registration number, an interested person, a manufacturing country, a brand name, an international off-patent name (if any), a form, a dosage, if necessary - a concentration, a registration date, registration validity period and an electronic version of a packaging and labelling sample. 3. The Departmental Registry shall be a public document. For the purpose of unobstructed access of the public to the information, the Departmental Registry shall be kept in an electronic form and shall be made accessible through the internet. 4. Under the recognition regime of state registration of a pharmaceutical product, a pharmaceutical product may be entered in the Departmental Registry: a) proactively by the Agency, on the basis of the information on a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally; b) after an administrative review of homology identification documents defined in Article 11 10 of this Law, which are submitted by an interested person; c) after the procedure of notification by an interested person about the first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but differently packaged and labelled. 5. A pharmaceutical product shall be entered in the Departmental Registry, under the national regime of state registration of a pharmaceutical product, after completion of the procedure determined by Article 11 11 of this Law. Law of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149",
+        "feature_tags": [
+          "automatic"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English translation; Georgian original authoritative",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GEO-Q02",
+        "iso3": "GEO",
+        "event_id": "GEO_002",
+        "document_id": "fa3de5c047b174382aaf",
+        "source_id": "f9f0a8b0ba460685",
+        "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+        "raw_sha256": "4f4740ca13c8daae14945ad0ca03055dabd70fda12148ec1d39c569b70f4236d",
+        "text_sha256": "9c741a79e8a0a676204a3bcdf5e0af49adba0c7f3f90fe14217f30bc53ddd38f",
+        "start_offset": 43340,
+        "end_offset": 44746,
+        "pdf_page": null,
+        "verbatim_extracted_text": "1. The recognition regime of state registration of a pharmaceutical product shall be applicable to a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally.\n2. The Government of Georgia shall compile a list of state bodies regulating pharmaceutical products in foreign countries or internationally for the purpose of recognising pharmaceutical products registered by them.\n3. Any person may be an interested person during the state registration of a pharmaceutical product through the recognition regime.\n4. An interested person may go through the procedure, provided for by this Law, to obtain a marketing authorisation in Georgia for a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product, irrespective of the purpose of import.\n4\n1\n. Progressive therapy medicinal products may be introduced in the pharmaceutical market of Georgia under the recognition regime of state registration of a pharmaceutical product. Furthermore, medicinal products of progressive therapy and/or those classified as one of its type may be introduced in the aforementioned market if they have been allowed by the Government of Georgia in a market subject to the control of a foreign or interstate state authority regulating pharmaceutical products.",
+        "display_text": "1. The recognition regime of state registration of a pharmaceutical product shall be applicable to a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally. 2. The Government of Georgia shall compile a list of state bodies regulating pharmaceutical products in foreign countries or internationally for the purpose of recognising pharmaceutical products registered by them. 3. Any person may be an interested person during the state registration of a pharmaceutical product through the recognition regime. 4. An interested person may go through the procedure, provided for by this Law, to obtain a marketing authorisation in Georgia for a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product, irrespective of the purpose of import. 4 1 . Progressive therapy medicinal products may be introduced in the pharmaceutical market of Georgia under the recognition regime of state registration of a pharmaceutical product. Furthermore, medicinal products of progressive therapy and/or those classified as one of its type may be introduced in the aforementioned market if they have been allowed by the Government of Georgia in a market subject to the control of a foreign or interstate state authority regulating pharmaceutical products.",
+        "feature_tags": [
+          "scope_limit"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English translation; Georgian original authoritative",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GEO-CONTEXT-1",
+        "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+        "raw_sha256": "4f4740ca13c8daae14945ad0ca03055dabd70fda12148ec1d39c569b70f4236d",
+        "text_sha256": "9c741a79e8a0a676204a3bcdf5e0af49adba0c7f3f90fe14217f30bc53ddd38f",
+        "start_offset": 40697,
+        "end_offset": 45746,
+        "verbatim_extracted_text": ".\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149\nArticle 11\n5\n- Validity period of marketing authorisation of a pharmaceutical product in Georgia\n1. The validity period of marketing authorisation of a pharmaceutical product in Georgia shall be defined under the recognition regime and national regime of state registration of a pharmaceutical product.\n2. After expiry of marketing authorisation in Georgian, the circulation of a pharmaceutical product, except for its import, shall be admissible up to expiry of the shelf life of pharmaceutical products already in circulation on the territory of Georgia.\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149\nArticle 11\n6\n- Departmental Registry\n1. Entry of a pharmaceutical product into the Departmental Registry shall imply granting marketing authorisation in Georgia to a pharmaceutical product.\n2. The Departmental Registry shall specify a registration number, an interested person, a manufacturing country, a brand name, an international off-patent name (if any), a form, a dosage, if necessary - a concentration, a registration date, registration validity period and an electronic version of a packaging and labelling sample.\n3. The Departmental Registry shall be a public document. For the purpose of unobstructed access of the public to the information, the Departmental Registry shall be kept in an electronic form and shall be made accessible through the internet.\n4. Under the recognition regime of state registration of a pharmaceutical product, a pharmaceutical product may be entered in the Departmental Registry:\na) proactively by the Agency, on the basis of the information on a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally;\nb) after an administrative review of homology identification documents defined in Article 11\n10\nof this Law, which are submitted by an interested person;\nc) after the procedure of notification by an interested person about the first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but differently packaged and labelled.\n5. A pharmaceutical product shall be entered in the Departmental Registry, under the national regime of state registration of a pharmaceutical product, after completion of the procedure determined by Article 11\n11\nof this Law.\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149\nArticle 11\n7\n- Recognition regime of state registration of a pharmaceutical product\n1. The recognition regime of state registration of a pharmaceutical product shall be applicable to a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally.\n2. The Government of Georgia shall compile a list of state bodies regulating pharmaceutical products in foreign countries or internationally for the purpose of recognising pharmaceutical products registered by them.\n3. Any person may be an interested person during the state registration of a pharmaceutical product through the recognition regime.\n4. An interested person may go through the procedure, provided for by this Law, to obtain a marketing authorisation in Georgia for a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product, irrespective of the purpose of import.\n4\n1\n. Progressive therapy medicinal products may be introduced in the pharmaceutical market of Georgia under the recognition regime of state registration of a pharmaceutical product. Furthermore, medicinal products of progressive therapy and/or those classified as one of its type may be introduced in the aforementioned market if they have been allowed by the Government of Georgia in a market subject to the control of a foreign or interstate state authority regulating pharmaceutical products.\n5. When importing a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product for the first time, an interested person shall submit the following homology identification documents:\na) an authorised translation of a patient information leaflet in the Georgian language and the original patient information leaflet, under the procedure established by the Ministry;\nb) the following information on a pharmaceutical product:\nb.a) the form;\nb.b) the dosage;\nb.c) a labelling sample, which may be submitted in the original or an electronic form; the Agency shall enjoy discretionary power regarding the form of requiring a labelling sample; at the same time, if a pharmaceutical product has not been put into production, the Agency shall be obliged to accept an electronic version of a labelling sample. After a pharmaceutical product is put into production, the Agency may request to replace an electronic version of a labelling sample with a sample in materia",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "GEO-CTX-1",
+        "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+        "raw_sha256": "4f4740ca13c8daae14945ad0ca03055dabd70fda12148ec1d39c569b70f4236d",
+        "text_sha256": "9c741a79e8a0a676204a3bcdf5e0af49adba0c7f3f90fe14217f30bc53ddd38f",
+        "start_offset": 44746,
+        "end_offset": 48700,
+        "verbatim_extracted_text": "\n5. When importing a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product for the first time, an interested person shall submit the following homology identification documents:\na) an authorised translation of a patient information leaflet in the Georgian language and the original patient information leaflet, under the procedure established by the Ministry;\nb) the following information on a pharmaceutical product:\nb.a) the form;\nb.b) the dosage;\nb.c) a labelling sample, which may be submitted in the original or an electronic form; the Agency shall enjoy discretionary power regarding the form of requiring a labelling sample; at the same time, if a pharmaceutical product has not been put into production, the Agency shall be obliged to accept an electronic version of a labelling sample. After a pharmaceutical product is put into production, the Agency may request to replace an electronic version of a labelling sample with a sample in material form;\nb.d) a reference standard in the quantity sufficient to conduct 2 tests (an interested person may submit an active substance of the respective pharmaceutical product instead of a reference standard);\nc) the validity period of marketing authorisation in the respective market granted by a state body regulating pharmaceutical products in a foreign country or internationally;\nd) a unique number of the marketing authorisation of a pharmaceutical product in the respective market;\ne) a Certificate of a Pharmaceutical Product (CPP) issued by a state body regulating pharmaceutical products in a foreign country or internationally, which may have been issued for any market under the control of a state body regulating pharmaceutical products in a foreign country or internationally, recognised by the Government of Georgia;\nf) instead of a CPP referred to in paragraph 5 (e), a document equivalent to a CPP may be submitted, which may have been issued for any market under the control of a state body regulating pharmaceutical products in a foreign country or internationally, recognised by the Government of Georgia. Duly attested copies of a CPP or a document equivalent to the CPP may be submitted;\ng) analysis methods that may be printed from a publicly available source (the pharmacopoeia), with reference to the source;\nh) a sample of a pharmaceutical product - 2 standard packages or a quantity sufficient to conduct 2 tests.\n6. If any document provided for by paragraph 5 of this article contains other information required for homology identification documents, this information need not be submitted in a separate document.\n7. The Agency shall perform an administrative review of homology identification documents and, within seven working days, shall enter the information on a pharmaceutical product into the Departmental Registry.\n8. The period of a marketing authorisation in Georgia granted to a pharmaceutical product registered under the recognition regime of state registration shall be determined as per the period of marketing authorisation granted in a market subject to the control of a foreign or interstate state authority regulating pharmaceutical products but for not more than 5 years.\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149\nLaw of Georgia No 2560 of 12 February 2010 - LHG I, No 6, 22.2.2010, Art. 21\nLaw of Georgia No 3402 of 5 September 2018 – website, 25.9.2018\nArticle 11\n8\n- Obligation of an interested person to notify about the first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but is differently packaged and labelled\n1. The first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but that is differently packaged and labelled, need not be re-registered. Such a pharmaceutical product shall be granted marketing authorisation in Georgia based on the notification procedure",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "GEO",
+      "country": "Georgia",
+      "selected_document_id": "fa3de5c047b174382aaf",
+      "source_id": "f9f0a8b0ba460685",
+      "pathway": "Recognition after administrative documents",
+      "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+      "document_title": "Medicines law official English translation",
+      "source_type": "Statute translation",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "4f4740ca13c8daae14945ad0ca03055dabd70fda12148ec1d39c569b70f4236d",
+      "raw_hash_validated": true,
+      "text_sha256": "9c741a79e8a0a676204a3bcdf5e0af49adba0c7f3f90fe14217f30bc53ddd38f",
+      "version_dates": {},
+      "version_scope_note": "Consolidated Georgian law Arts 11^6–11^7, recognition regime. English official translation; competent-authority list delegated to government and not presumed.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          40697,
+          45746
+        ],
+        [
+          44746,
+          48700
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Delegated government list not included in the selected statute; FDA/EMA eligibility not invented.",
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Qualifying foreign or international marketing authorisation required; government determines recognised authority list.",
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Administrative document list does not expressly settle all underlying report requirements or waiver.",
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Administrative review of homology identification documents; national regime separate.",
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Authorised Georgian patient leaflet translation plus original leaflet required.",
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "CPP or equivalent, foreign MA validity/number, leaflet, dosage/form and product samples.",
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Entry in registry within 7 working days after administrative review of recognition documents.",
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Agency label/sample powers retained; government decides recognised authorities.",
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GEO-Q01",
+            "GEO-Q02",
+            "GEO-CONTEXT-1",
+            "GEO-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "GEO-Q01",
+          "iso3": "GEO",
+          "event_id": "GEO_002",
+          "document_id": "fa3de5c047b174382aaf",
+          "source_id": "f9f0a8b0ba460685",
+          "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+          "raw_sha256": "4f4740ca13c8daae14945ad0ca03055dabd70fda12148ec1d39c569b70f4236d",
+          "text_sha256": "9c741a79e8a0a676204a3bcdf5e0af49adba0c7f3f90fe14217f30bc53ddd38f",
+          "start_offset": 41447,
+          "end_offset": 43255,
+          "pdf_page": null,
+          "verbatim_extracted_text": "1. Entry of a pharmaceutical product into the Departmental Registry shall imply granting marketing authorisation in Georgia to a pharmaceutical product.\n2. The Departmental Registry shall specify a registration number, an interested person, a manufacturing country, a brand name, an international off-patent name (if any), a form, a dosage, if necessary - a concentration, a registration date, registration validity period and an electronic version of a packaging and labelling sample.\n3. The Departmental Registry shall be a public document. For the purpose of unobstructed access of the public to the information, the Departmental Registry shall be kept in an electronic form and shall be made accessible through the internet.\n4. Under the recognition regime of state registration of a pharmaceutical product, a pharmaceutical product may be entered in the Departmental Registry:\na) proactively by the Agency, on the basis of the information on a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally;\nb) after an administrative review of homology identification documents defined in Article 11\n10\nof this Law, which are submitted by an interested person;\nc) after the procedure of notification by an interested person about the first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but differently packaged and labelled.\n5. A pharmaceutical product shall be entered in the Departmental Registry, under the national regime of state registration of a pharmaceutical product, after completion of the procedure determined by Article 11\n11\nof this Law.\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149",
+          "display_text": "1. Entry of a pharmaceutical product into the Departmental Registry shall imply granting marketing authorisation in Georgia to a pharmaceutical product. 2. The Departmental Registry shall specify a registration number, an interested person, a manufacturing country, a brand name, an international off-patent name (if any), a form, a dosage, if necessary - a concentration, a registration date, registration validity period and an electronic version of a packaging and labelling sample. 3. The Departmental Registry shall be a public document. For the purpose of unobstructed access of the public to the information, the Departmental Registry shall be kept in an electronic form and shall be made accessible through the internet. 4. Under the recognition regime of state registration of a pharmaceutical product, a pharmaceutical product may be entered in the Departmental Registry: a) proactively by the Agency, on the basis of the information on a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally; b) after an administrative review of homology identification documents defined in Article 11 10 of this Law, which are submitted by an interested person; c) after the procedure of notification by an interested person about the first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but differently packaged and labelled. 5. A pharmaceutical product shall be entered in the Departmental Registry, under the national regime of state registration of a pharmaceutical product, after completion of the procedure determined by Article 11 11 of this Law. Law of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149",
+          "feature_tags": [
+            "automatic"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English translation; Georgian original authoritative",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GEO-Q02",
+          "iso3": "GEO",
+          "event_id": "GEO_002",
+          "document_id": "fa3de5c047b174382aaf",
+          "source_id": "f9f0a8b0ba460685",
+          "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+          "raw_sha256": "4f4740ca13c8daae14945ad0ca03055dabd70fda12148ec1d39c569b70f4236d",
+          "text_sha256": "9c741a79e8a0a676204a3bcdf5e0af49adba0c7f3f90fe14217f30bc53ddd38f",
+          "start_offset": 43340,
+          "end_offset": 44746,
+          "pdf_page": null,
+          "verbatim_extracted_text": "1. The recognition regime of state registration of a pharmaceutical product shall be applicable to a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally.\n2. The Government of Georgia shall compile a list of state bodies regulating pharmaceutical products in foreign countries or internationally for the purpose of recognising pharmaceutical products registered by them.\n3. Any person may be an interested person during the state registration of a pharmaceutical product through the recognition regime.\n4. An interested person may go through the procedure, provided for by this Law, to obtain a marketing authorisation in Georgia for a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product, irrespective of the purpose of import.\n4\n1\n. Progressive therapy medicinal products may be introduced in the pharmaceutical market of Georgia under the recognition regime of state registration of a pharmaceutical product. Furthermore, medicinal products of progressive therapy and/or those classified as one of its type may be introduced in the aforementioned market if they have been allowed by the Government of Georgia in a market subject to the control of a foreign or interstate state authority regulating pharmaceutical products.",
+          "display_text": "1. The recognition regime of state registration of a pharmaceutical product shall be applicable to a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally. 2. The Government of Georgia shall compile a list of state bodies regulating pharmaceutical products in foreign countries or internationally for the purpose of recognising pharmaceutical products registered by them. 3. Any person may be an interested person during the state registration of a pharmaceutical product through the recognition regime. 4. An interested person may go through the procedure, provided for by this Law, to obtain a marketing authorisation in Georgia for a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product, irrespective of the purpose of import. 4 1 . Progressive therapy medicinal products may be introduced in the pharmaceutical market of Georgia under the recognition regime of state registration of a pharmaceutical product. Furthermore, medicinal products of progressive therapy and/or those classified as one of its type may be introduced in the aforementioned market if they have been allowed by the Government of Georgia in a market subject to the control of a foreign or interstate state authority regulating pharmaceutical products.",
+          "feature_tags": [
+            "scope_limit"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English translation; Georgian original authoritative",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GEO-CONTEXT-1",
+          "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+          "raw_sha256": "4f4740ca13c8daae14945ad0ca03055dabd70fda12148ec1d39c569b70f4236d",
+          "text_sha256": "9c741a79e8a0a676204a3bcdf5e0af49adba0c7f3f90fe14217f30bc53ddd38f",
+          "start_offset": 40697,
+          "end_offset": 45746,
+          "verbatim_extracted_text": ".\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149\nArticle 11\n5\n- Validity period of marketing authorisation of a pharmaceutical product in Georgia\n1. The validity period of marketing authorisation of a pharmaceutical product in Georgia shall be defined under the recognition regime and national regime of state registration of a pharmaceutical product.\n2. After expiry of marketing authorisation in Georgian, the circulation of a pharmaceutical product, except for its import, shall be admissible up to expiry of the shelf life of pharmaceutical products already in circulation on the territory of Georgia.\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149\nArticle 11\n6\n- Departmental Registry\n1. Entry of a pharmaceutical product into the Departmental Registry shall imply granting marketing authorisation in Georgia to a pharmaceutical product.\n2. The Departmental Registry shall specify a registration number, an interested person, a manufacturing country, a brand name, an international off-patent name (if any), a form, a dosage, if necessary - a concentration, a registration date, registration validity period and an electronic version of a packaging and labelling sample.\n3. The Departmental Registry shall be a public document. For the purpose of unobstructed access of the public to the information, the Departmental Registry shall be kept in an electronic form and shall be made accessible through the internet.\n4. Under the recognition regime of state registration of a pharmaceutical product, a pharmaceutical product may be entered in the Departmental Registry:\na) proactively by the Agency, on the basis of the information on a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally;\nb) after an administrative review of homology identification documents defined in Article 11\n10\nof this Law, which are submitted by an interested person;\nc) after the procedure of notification by an interested person about the first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but differently packaged and labelled.\n5. A pharmaceutical product shall be entered in the Departmental Registry, under the national regime of state registration of a pharmaceutical product, after completion of the procedure determined by Article 11\n11\nof this Law.\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149\nArticle 11\n7\n- Recognition regime of state registration of a pharmaceutical product\n1. The recognition regime of state registration of a pharmaceutical product shall be applicable to a pharmaceutical product that has been granted marketing authorisation in the respective market by a state body regulating pharmaceutical products in a foreign country or internationally.\n2. The Government of Georgia shall compile a list of state bodies regulating pharmaceutical products in foreign countries or internationally for the purpose of recognising pharmaceutical products registered by them.\n3. Any person may be an interested person during the state registration of a pharmaceutical product through the recognition regime.\n4. An interested person may go through the procedure, provided for by this Law, to obtain a marketing authorisation in Georgia for a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product, irrespective of the purpose of import.\n4\n1\n. Progressive therapy medicinal products may be introduced in the pharmaceutical market of Georgia under the recognition regime of state registration of a pharmaceutical product. Furthermore, medicinal products of progressive therapy and/or those classified as one of its type may be introduced in the aforementioned market if they have been allowed by the Government of Georgia in a market subject to the control of a foreign or interstate state authority regulating pharmaceutical products.\n5. When importing a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product for the first time, an interested person shall submit the following homology identification documents:\na) an authorised translation of a patient information leaflet in the Georgian language and the original patient information leaflet, under the procedure established by the Ministry;\nb) the following information on a pharmaceutical product:\nb.a) the form;\nb.b) the dosage;\nb.c) a labelling sample, which may be submitted in the original or an electronic form; the Agency shall enjoy discretionary power regarding the form of requiring a labelling sample; at the same time, if a pharmaceutical product has not been put into production, the Agency shall be obliged to accept an electronic version of a labelling sample. After a pharmaceutical product is put into production, the Agency may request to replace an electronic version of a labelling sample with a sample in materia",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "GEO-CTX-1",
+          "source_url": "https://www.matsne.gov.ge/en/document/view/29836?publication=25",
+          "raw_sha256": "4f4740ca13c8daae14945ad0ca03055dabd70fda12148ec1d39c569b70f4236d",
+          "text_sha256": "9c741a79e8a0a676204a3bcdf5e0af49adba0c7f3f90fe14217f30bc53ddd38f",
+          "start_offset": 44746,
+          "end_offset": 48700,
+          "verbatim_extracted_text": "\n5. When importing a pharmaceutical product under the recognition regime of state registration of a pharmaceutical product for the first time, an interested person shall submit the following homology identification documents:\na) an authorised translation of a patient information leaflet in the Georgian language and the original patient information leaflet, under the procedure established by the Ministry;\nb) the following information on a pharmaceutical product:\nb.a) the form;\nb.b) the dosage;\nb.c) a labelling sample, which may be submitted in the original or an electronic form; the Agency shall enjoy discretionary power regarding the form of requiring a labelling sample; at the same time, if a pharmaceutical product has not been put into production, the Agency shall be obliged to accept an electronic version of a labelling sample. After a pharmaceutical product is put into production, the Agency may request to replace an electronic version of a labelling sample with a sample in material form;\nb.d) a reference standard in the quantity sufficient to conduct 2 tests (an interested person may submit an active substance of the respective pharmaceutical product instead of a reference standard);\nc) the validity period of marketing authorisation in the respective market granted by a state body regulating pharmaceutical products in a foreign country or internationally;\nd) a unique number of the marketing authorisation of a pharmaceutical product in the respective market;\ne) a Certificate of a Pharmaceutical Product (CPP) issued by a state body regulating pharmaceutical products in a foreign country or internationally, which may have been issued for any market under the control of a state body regulating pharmaceutical products in a foreign country or internationally, recognised by the Government of Georgia;\nf) instead of a CPP referred to in paragraph 5 (e), a document equivalent to a CPP may be submitted, which may have been issued for any market under the control of a state body regulating pharmaceutical products in a foreign country or internationally, recognised by the Government of Georgia. Duly attested copies of a CPP or a document equivalent to the CPP may be submitted;\ng) analysis methods that may be printed from a publicly available source (the pharmacopoeia), with reference to the source;\nh) a sample of a pharmaceutical product - 2 standard packages or a quantity sufficient to conduct 2 tests.\n6. If any document provided for by paragraph 5 of this article contains other information required for homology identification documents, this information need not be submitted in a separate document.\n7. The Agency shall perform an administrative review of homology identification documents and, within seven working days, shall enter the information on a pharmaceutical product into the Departmental Registry.\n8. The period of a marketing authorisation in Georgia granted to a pharmaceutical product registered under the recognition regime of state registration shall be determined as per the period of marketing authorisation granted in a market subject to the control of a foreign or interstate state authority regulating pharmaceutical products but for not more than 5 years.\nLaw of Georgia No 1586 of 10 August 2009 - LHG I, No 26, 27.8.2009, Art. 149\nLaw of Georgia No 2560 of 12 February 2010 - LHG I, No 6, 22.2.2010, Art. 21\nLaw of Georgia No 3402 of 5 September 2018 – website, 25.9.2018\nArticle 11\n8\n- Obligation of an interested person to notify about the first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but is differently packaged and labelled\n1. The first-time import of a pharmaceutical product that has been granted marketing authorisation in Georgia, but that is differently packaged and labelled, need not be re-registered. Such a pharmaceutical product shall be granted marketing authorisation in Georgia based on the notification procedure",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

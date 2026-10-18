@@ -115,5 +115,55 @@
     "source_hashes": [
       "75df7ecf8d9a92f72d4adf9e2475df8d152eca50ded72cb29cd0a108d6c4671f"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "NPL",
+    "country": "Nepal",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "historical_profile",
+    "fixed_case_scope_status": "historical_survey_only",
+    "finding": "The2011 profile’s negative mutual-recognition report is historical survey evidence. It does not resolve present FDA/EC reliance rules.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The2011 profile’s negative mutual-recognition report is historical survey evidence. It does not resolve present FDA/EC reliance rules."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The2011 profile’s negative mutual-recognition report is historical survey evidence. It does not resolve present FDA/EC reliance rules."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The2011 profile’s negative mutual-recognition report is historical survey evidence. It does not resolve present FDA/EC reliance rules."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The2011 profile’s negative mutual-recognition report is historical survey evidence. It does not resolve present FDA/EC reliance rules."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The2011 profile’s negative mutual-recognition report is historical survey evidence. It does not resolve present FDA/EC reliance rules."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "NPL-SUP-75df7ecf-24212",
+        "source_url": "https://cdn.who.int/media/docs/default-source/searo/hsd/edm/nep-pscp-report-ok.pdf",
+        "raw_sha256": "75df7ecf8d9a92f72d4adf9e2475df8d152eca50ded72cb29cd0a108d6c4671f",
+        "text_sha256": "c5eccd1492ae377be1a23c7b0b716f5da3e637d4d75461b8f31918f30d8c6383",
+        "start_offset": 24212,
+        "end_offset": 25024,
+        "verbatim_extracted_text": "5.2 Marketing Authorization (Registration) \nIn Nepal, legal provisions require marketing authorization (registration) for all \npharmaceutical products on the market. Mutual recognitions mechanisms are not \nin place.  Explicit and publicly available criteria exist for assessing applications \nfor marketing authorization of pharmaceutical products [30]. In 2011, there were \n10,316  pharmaceutical products registered in Nepal [15]. There are not legal \nprovisions requiring the MRA to make the list of registered pharmaceutical \nproducts publicly available and update it regularly. Medicines are always \nregistered by their INN (International Non-proprietary Names) or Brand name + \nINN. Legal provisions require a fee to be paid for Medicines Market Authorization \n(registration) based on applications [30]. \n \n",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Supplemental original-language source; Ministry/WHO 2011 pharmaceuticalcountry-profilehistoricalsurvey",
+        "evidence_tier": "Supplemental: Ministry/WHO 2011 pharmaceuticalcountry-profilehistoricalsurvey",
+        "version_alignment": "Historical 2011 Ministry/WHO survey observation; not current law. No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Supplemental evidence, scope/version retained in source records",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

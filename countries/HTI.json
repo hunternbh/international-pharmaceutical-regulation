@@ -118,5 +118,55 @@
     "source_hashes": [
       "61b94fba5aafdfb4a2dddd08c6f124adac92ce618911d88b850772285a7bf183"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "HTI",
+    "country": "Haiti",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "draft_import_rule",
+    "fixed_case_scope_status": "draft_only",
+    "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "HTI-SUP-61b94fba-26380",
+        "source_url": "https://www.haitidocs.org/doc/prh-projet-loi-medicaments/text",
+        "raw_sha256": "61b94fba5aafdfb4a2dddd08c6f124adac92ce618911d88b850772285a7bf183",
+        "text_sha256": "aaa28a5b8ea599cada7a5d9e58393b8e1d0fe9462b88b89f2fb3ebe06221573e",
+        "start_offset": 26380,
+        "end_offset": 27484,
+        "verbatim_extracted_text": "Article 32-4.- Tout produit pharmaceutique importé doit avoir l’Autorisation de Mise sur le\nMarché du pays d’origine et/ou provenir d’un laboratoire pré-qualifié par une\ninstance d’accréditation internationalement reconnue.\nNéanmoins dans les cas d’urgence dûment constatée, des licences spéciales et\nprovisoires dérogeant aux procédures normales et régulières pourront être\naccordées pour l’importation de produits pharmaceutiques par le Ministre de la\nSanté Publique et de la Population.\nArticle 33.-\n\nSeuls les médicaments ayant obtenu une Autorisation de Mise sur le Marché\npeuvent être importés et vendus sur le marché haïtien.\nArticle 33-1.- Cette Autorisation de Mise sur le Marché qui appartient au fabricant est\ndélivrée pour une période de cinq (5) années consécutives, et est renouvelable\npour une période quinquennale.\nLes formes et conditions de cette autorisation sont fixées par les services\ncompétents du MSPP.\nArticle 33-2.- Le Ministère de la Santé Publique et de la Population, pour les commodités de\nson contrôle, peut exiger de l’importateur toutes autres pièces jugées\nnécessaires.\n",
+        "pdf_page": null,
+        "language": "fr",
+        "language_status": "Supplemental original-language source; Draft Bill reproduced by non-official document archive; OCR; OCR transcription",
+        "evidence_tier": "Supplemental: Draft Bill reproduced by non-official document archive; OCR",
+        "version_alignment": "OCR transcription. Original scan controls; source spelling retained. Draft Bill transcription; enactment and transcription accuracy remain qualified. No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Supplemental evidence, scope/version retained in source records",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

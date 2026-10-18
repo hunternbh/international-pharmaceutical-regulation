@@ -239,5 +239,899 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ISR",
+    "country": "Israel",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Reliance routes with distinct approval counts, clocks and exclusion criteria",
+    "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+    "document_id": "769325d61beccb2bd525",
+    "genre": "Administrative pilot framework",
+    "language": "he",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "Israel Ministry circular Hebrew original, relianceA/B. Nonorphan originator has two-reference 70 net-working-day A and one-reference 120 net-working-day B options; do not treat one approval as country-wide exclusion.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA, EMA centralised, MHRA, HealthCanada, Swissmedic and TGA expressly named.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "RouteA:2 final unconditional approvals within 3 years, one FDA/EMA centralised. RouteB:1 named approval within 5 years.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "explicit requirement",
+        "finding": "Foreign reliance/recognition-based approval excluded.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "approval_age": {
+        "state": "explicit requirement",
+        "finding": "18 months meets 3 yearA and 5 yearB age conditions.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "SameCTD/indication/dosing with enumerated permissible quality differences.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Full clinical/nonclinical reports and correspondence, with Q&A alternative if unavailable; quality fullunredacted reports, with stated report/Q&A/CEP alternatives.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "discretionary/conditional",
+        "finding": "Underlying quality/regulatory reports or permitted substantive Q&A alternatives required; not unconditional full-unredacted report rule.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Public summaries alone not established to contain required reports/Q&A; alternative documentation does not prove public-only sufficiency.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Scientific review remains, with criteria excluding specified evidence designs/negative history from fasterA route.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "CPP or conditional initial regulatory certification followed by CPP within stated national approval timing.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "A 70 net working days;B 120 net working days, response deadlines separate. Not observed calendar lags.",
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established for RouteB; RouteA threshold fails",
+        "finding": "FDA-only cannot satisfytwo-approvalA; one-FDA RouteB prior-approval condition can be met. Report/Q&A, clinical evidence design, adverse-history and administration remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ISR-Q01",
+          "ISR-Q02",
+          "ISR-CONTEXT-1",
+          "ISR-CTX-1"
+        ],
+        "status": "condition established for RouteB; RouteA threshold fails"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "ISR-Q01",
+        "iso3": "ISR",
+        "event_id": null,
+        "document_id": "769325d61beccb2bd525",
+        "source_id": "6ca91e05fecb7599",
+        "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+        "raw_sha256": "e09e17fee73f585e0d3664d942bd937f268ec0d28abf5d284509c8a4927f2ed5",
+        "text_sha256": "1f76214675c9c456595b09d11d40a4e928d75872014f242ba063a4b4aacf3f98",
+        "start_offset": 7523,
+        "end_offset": 11436,
+        "pdf_page": 5,
+        "section_article": "Route A, eligibility, exclusions and required reports",
+        "verbatim_extracted_text": "תנאים לקבלה למסלול :\n \n•\n \n התכשיר נרשם רישום סופי, לא\nמותנה ,\n בש לוש \n השנים האחרונות \n טרם הגשתו לרישום\n בישראל בשתי רשויות \n :רגולטוריות לפחות \n✓\n \n אחת מהן היאFDA\n או  \nEMA\n \n (רישום מרכזי) המהווה רשות ייחוס\n .להגשת התכשיר לרישום בישראל \n✓\n \n :הרשות השנייה היא אחת מאלו MHRA, HC, SMC, TGA\n \nFDA,\n \n ,\nEMA \n \n .)(רישום מרכזי \n•\n תיק הבקשה המוגש \n לישראל זהה לתיק שאושר על ידי רשות הייחוס \n למעט הבדלים\n.המפורטים בהמשך .\n  \n•\n \n ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס \n ,למעט\nתכשירי ביוסימילאר -\n  \n  בהם\nההתוויה ומשטר המינון המבוקשים לתכשיר ,\n  \n  יהיו זהים\n למאושר בתכשיר המקור המאושר בישראל \n :לא יתקבל תכשיר למסלול הסתמכות א' במצבים הבאים \n•\n \n התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות\n (המוגדרות בתקנות הרוקחים (תכשירים) התשמ\"ו-\n1986\n .)\n \n•\n \n הייחוס\nברשות \nמותנה \nבמסלול \nאושר \nהתכשיר  \n(\nConditional approval, Accelerated approval\n \n ודומי\nהם) .\n \n\n\nPAGE 6\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n•\n \n התכשיר נרשם במסלול הסתמכות(\nReliance/Recognition\n )\n באחת משתי הרשויות . \n \n•\n \n( קיימים נתונים קליניים מעודכנים לרבות  נתוני  :\nPost Marketing\n  ,\nRWE\n   ו-  \nCut-off\n \nנוסף ) \n .אשר לא הוערכו ע\"י רשות ההסתמכות \n•\n \n הנתונים הקליניים העיקריים התומכים בהגשה כוללים מחקרי פאזהII\n ,, מחקר חד זרועי\n( נתוני העולם האמיתיReal World Evidence\n ) \n .או סקירת ספרות \n•\n \n רשות הייחוס ביקשה השלמת מחקר העוסק בבטיחות או ביעילות התכשיר או ביצוע\n .מחקר נוסף \n•\n פרופיל הבטיחות של התכשיר הצריך אמצעים מיו חדים למזעור סיכוני התכשיר או מעקב\n .מיוחד אחר בטיחות התכשיר ברשות הייחוס \n מסמכים נדרשים להגשה במסלול זה :\n \n•\n תיק רישום מלא ,מעודכן \n( ומאוחדconsolidated\n )\n \n בפורמטCTD\n  (\nModules 1-5\n .)\n \n•\n \n תיק האיכות יכול לכלול הבדלים ביחס לתיק שאושר\nב :רשות הייחוס רק לגבי \n✓\n \n אתר שחרור ייעודי לישראל \n✓\n \n אתרQC\n \n המבצע בדיקות חוזרות \n✓\n ניתן  \n להגיש  תיק  מאוחד  \n הכולל  שינוי ים בהיבט איכות  \n שאושרו  \n על  \n ידי \n רשות \n הייחוס \n לתיק \n הבקשה \n תוך \n צירוף \n רשימת השינויים ,\n אישורי רשות\n הייחוס \n לשינויים \n שנעשו ודוחות הערכה לשינויים  .\n \n \n•\n תיק ההגשה ה\nנון \n קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל\n רק נתונים שאושרו ע\"י רשות .הייחוס \n ( נתונים מעודכניםCut-off\n נוסף\n) ניתן להגיש בתיק הגשה מאוחד ככל \n ונתונים אלו\n הוגשו במהלך הערכת הבקשה\nהראשונית ב\nרשות הייחוס ואושרו על ידה , תוך צירוף\n אישורי רשות הייחוס \n לנתונים \n ודוחות הערכה .הכוללים את הנתונים המעודכנים \n•\n \n :דו\"חות ההערכה מלאים של רשות הייחוס \n✓\n \n מידע נון -\n :קליני וקליני דוחות הערכה וכן התכתבויות מול רשות הייחוס בנושאי\n ,יעילות בטיחות. במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה\n .ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות מרשות הייחוס לבקשה  \n \n\n\nPAGE 7\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n✓\n \n איכות: דו\"חות הערכה מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר\nמוגמר  \n  ועבורPMF\n  \n.במקרה ונדרש  \n  במצב בו אין דוחות  \n  הערכה זמינים\n מרשות הייחוס לבקשה, ניתן להעביר דוח מ\nה רשות השניה וכן טבלת השוואה\n בין התיקים שהוגשו לכל רשות .\n \n✓\n \n   הערה: במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP\n  \n עבור\n .החומר הפעיל \n•\n \n מסמךChecklist\n \n)מלא (ללא הפניות \n \n•\n \nCPP\n \n או אישור עקרוני לרישום מרשות\nהייחוס. במקרה \n של הגשת\nאישור עקרוני \n מרשות\n הייחוס \n יש להגיש בהמשך את מסמך\nה - \nCPP\n ,\n לא \n יאוחר מ-\n7\n \n ימי \n עבודה \n לאחר\nקבלת \nמכתב אישור עקרוני \n לרישום בישראל .\n \n \n2\n.\n \n '",
+        "display_text": "תנאים לקבלה למסלול : • התכשיר נרשם רישום סופי, לא מותנה , בש לוש השנים האחרונות טרם הגשתו לרישום בישראל בשתי רשויות :רגולטוריות לפחות ✓ אחת מהן היאFDA או EMA (רישום מרכזי) המהווה רשות ייחוס .להגשת התכשיר לרישום בישראל ✓ :הרשות השנייה היא אחת מאלו MHRA, HC, SMC, TGA FDA, , EMA .)(רישום מרכזי • תיק הבקשה המוגש לישראל זהה לתיק שאושר על ידי רשות הייחוס למעט הבדלים .המפורטים בהמשך . • ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס ,למעט תכשירי ביוסימילאר - בהם ההתוויה ומשטר המינון המבוקשים לתכשיר , יהיו זהים למאושר בתכשיר המקור המאושר בישראל :לא יתקבל תכשיר למסלול הסתמכות א' במצבים הבאים • התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות (המוגדרות בתקנות הרוקחים (תכשירים) התשמ\"ו- 1986 .) • הייחוס ברשות מותנה במסלול אושר התכשיר ( Conditional approval, Accelerated approval ודומי הם) . PAGE 6 פרטי התקשרות בעברית פרטי התקשרות באנגלית חטיבת טכנולוגיות רפואיות, מידע ומחקר משרד הבריאות .ת.ד1176 ירושלים9101002 MTIR@moh.gov.il :טלפון02-5080307 :פקס 02-6474843 Medical Technology, Health Information and Research Directorate Ministry of Health P.O.B 1176 Jerusalem 9101002 MTIR@moh.gov.il Tel: +972-2-5080307 Fax: +972-2-6474843 • התכשיר נרשם במסלול הסתמכות( Reliance/Recognition ) באחת משתי הרשויות . • ( קיימים נתונים קליניים מעודכנים לרבות נתוני : Post Marketing , RWE ו- Cut-off נוסף ) .אשר לא הוערכו ע\"י רשות ההסתמכות • הנתונים הקליניים העיקריים התומכים בהגשה כוללים מחקרי פאזהII ,, מחקר חד זרועי ( נתוני העולם האמיתיReal World Evidence ) .או סקירת ספרות • רשות הייחוס ביקשה השלמת מחקר העוסק בבטיחות או ביעילות התכשיר או ביצוע .מחקר נוסף • פרופיל הבטיחות של התכשיר הצריך אמצעים מיו חדים למזעור סיכוני התכשיר או מעקב .מיוחד אחר בטיחות התכשיר ברשות הייחוס מסמכים נדרשים להגשה במסלול זה : • תיק רישום מלא ,מעודכן ( ומאוחדconsolidated ) בפורמטCTD ( Modules 1-5 .) • תיק האיכות יכול לכלול הבדלים ביחס לתיק שאושר ב :רשות הייחוס רק לגבי ✓ אתר שחרור ייעודי לישראל ✓ אתרQC המבצע בדיקות חוזרות ✓ ניתן להגיש תיק מאוחד הכולל שינוי ים בהיבט איכות שאושרו על ידי רשות הייחוס לתיק הבקשה תוך צירוף רשימת השינויים , אישורי רשות הייחוס לשינויים שנעשו ודוחות הערכה לשינויים . • תיק ההגשה ה נון קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל רק נתונים שאושרו ע\"י רשות .הייחוס ( נתונים מעודכניםCut-off נוסף ) ניתן להגיש בתיק הגשה מאוחד ככל ונתונים אלו הוגשו במהלך הערכת הבקשה הראשונית ב רשות הייחוס ואושרו על ידה , תוך צירוף אישורי רשות הייחוס לנתונים ודוחות הערכה .הכוללים את הנתונים המעודכנים • :דו\"חות ההערכה מלאים של רשות הייחוס ✓ מידע נון - :קליני וקליני דוחות הערכה וכן התכתבויות מול רשות הייחוס בנושאי ,יעילות בטיחות. במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה .ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות מרשות הייחוס לבקשה PAGE 7 פרטי התקשרות בעברית פרטי התקשרות באנגלית חטיבת טכנולוגיות רפואיות, מידע ומחקר משרד הבריאות .ת.ד1176 ירושלים9101002 MTIR@moh.gov.il :טלפון02-5080307 :פקס 02-6474843 Medical Technology, Health Information and Research Directorate Ministry of Health P.O.B 1176 Jerusalem 9101002 MTIR@moh.gov.il Tel: +972-2-5080307 Fax: +972-2-6474843 ✓ איכות: דו\"חות הערכה מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר מוגמר ועבורPMF .במקרה ונדרש במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה, ניתן להעביר דוח מ ה רשות השניה וכן טבלת השוואה בין התיקים שהוגשו לכל רשות . ✓ הערה: במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP עבור .החומר הפעיל • מסמךChecklist )מלא (ללא הפניות • CPP או אישור עקרוני לרישום מרשות הייחוס. במקרה של הגשת אישור עקרוני מרשות הייחוס יש להגיש בהמשך את מסמך ה - CPP , לא יאוחר מ- 7 ימי עבודה לאחר קבלת מכתב אישור עקרוני לרישום בישראל . 2 . '",
+        "feature_tags": [
+          "two_approvals",
+          "approval_age",
+          "sameness",
+          "original_review",
+          "reports",
+          "unredacted",
+          "adverse_foreign_history"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "he",
+        "language_status": "Official original-language source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "Route A requires at least two final unconditional approvals in the preceding three years, including FDA or central EMA as reference; excludes reliance/recognition-derived approvals. Domestic review and additional requirements remain.",
+        "version_alignment": "Cover explicitly dated March 2025 and labelled pilot programme; separate April 2025 submission clarifications retained as a supplement. Not a 2024 statute.",
+        "evidence_tier": "national_rule",
+        "product_scope": "Human-medicine initial marketing authorisation",
+        "translation_review": {
+          "id": "ISR-Q01",
+          "source_language": "he",
+          "source_text": "תנאים לקבלה למסלול :\n \n•\n \n התכשיר נרשם רישום סופי, לא\nמותנה ,\n בש לוש \n השנים האחרונות \n טרם הגשתו לרישום\n בישראל בשתי רשויות \n :רגולטוריות לפחות \n✓\n \n אחת מהן היאFDA\n או  \nEMA\n \n (רישום מרכזי) המהווה רשות ייחוס\n .להגשת התכשיר לרישום בישראל \n✓\n \n :הרשות השנייה היא אחת מאלו MHRA, HC, SMC, TGA\n \nFDA,\n \n ,\nEMA \n \n .)(רישום מרכזי \n•\n תיק הבקשה המוגש \n לישראל זהה לתיק שאושר על ידי רשות הייחוס \n למעט הבדלים\n.המפורטים בהמשך .\n  \n•\n \n ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס \n ,למעט\nתכשירי ביוסימילאר -\n  \n  בהם\nההתוויה ומשטר המינון המבוקשים לתכשיר ,\n  \n  יהיו זהים\n למאושר בתכשיר המקור המאושר בישראל \n :לא יתקבל תכשיר למסלול הסתמכות א' במצבים הבאים \n•\n \n התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות\n (המוגדרות בתקנות הרוקחים (תכשירים) התשמ\"ו-\n1986\n .)\n \n•\n \n הייחוס\nברשות \nמותנה \nבמסלול \nאושר \nהתכשיר  \n(\nConditional approval, Accelerated approval\n \n ודומי\nהם) .\n \n\n\nPAGE 6\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n•\n \n התכשיר נרשם במסלול הסתמכות(\nReliance/Recognition\n )\n באחת משתי הרשויות . \n \n•\n \n( קיימים נתונים קליניים מעודכנים לרבות  נתוני  :\nPost Marketing\n  ,\nRWE\n   ו-  \nCut-off\n \nנוסף ) \n .אשר לא הוערכו ע\"י רשות ההסתמכות \n•\n \n הנתונים הקליניים העיקריים התומכים בהגשה כוללים מחקרי פאזהII\n ,, מחקר חד זרועי\n( נתוני העולם האמיתיReal World Evidence\n ) \n .או סקירת ספרות \n•\n \n רשות הייחוס ביקשה השלמת מחקר העוסק בבטיחות או ביעילות התכשיר או ביצוע\n .מחקר נוסף \n•\n פרופיל הבטיחות של התכשיר הצריך אמצעים מיו חדים למזעור סיכוני התכשיר או מעקב\n .מיוחד אחר בטיחות התכשיר ברשות הייחוס \n מסמכים נדרשים להגשה במסלול זה :\n \n•\n תיק רישום מלא ,מעודכן \n( ומאוחדconsolidated\n )\n \n בפורמטCTD\n  (\nModules 1-5\n .)\n \n•\n \n תיק האיכות יכול לכלול הבדלים ביחס לתיק שאושר\nב :רשות הייחוס רק לגבי \n✓\n \n אתר שחרור ייעודי לישראל \n✓\n \n אתרQC\n \n המבצע בדיקות חוזרות \n✓\n ניתן  \n להגיש  תיק  מאוחד  \n הכולל  שינוי ים בהיבט איכות  \n שאושרו  \n על  \n ידי \n רשות \n הייחוס \n לתיק \n הבקשה \n תוך \n צירוף \n רשימת השינויים ,\n אישורי רשות\n הייחוס \n לשינויים \n שנעשו ודוחות הערכה לשינויים  .\n \n \n•\n תיק ההגשה ה\nנון \n קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל\n רק נתונים שאושרו ע\"י רשות .הייחוס \n ( נתונים מעודכניםCut-off\n נוסף\n) ניתן להגיש בתיק הגשה מאוחד ככל \n ונתונים אלו\n הוגשו במהלך הערכת הבקשה\nהראשונית ב\nרשות הייחוס ואושרו על ידה , תוך צירוף\n אישורי רשות הייחוס \n לנתונים \n ודוחות הערכה .הכוללים את הנתונים המעודכנים \n•\n \n :דו\"חות ההערכה מלאים של רשות הייחוס \n✓\n \n מידע נון -\n :קליני וקליני דוחות הערכה וכן התכתבויות מול רשות הייחוס בנושאי\n ,יעילות בטיחות. במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה\n .ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות מרשות הייחוס לבקשה  \n \n\n\nPAGE 7\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n✓\n \n איכות: דו\"חות הערכה מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר\nמוגמר  \n  ועבורPMF\n  \n.במקרה ונדרש  \n  במצב בו אין דוחות  \n  הערכה זמינים\n מרשות הייחוס לבקשה, ניתן להעביר דוח מ\nה רשות השניה וכן טבלת השוואה\n בין התיקים שהוגשו לכל רשות .\n \n✓\n \n   הערה: במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP\n  \n עבור\n .החומר הפעיל \n•\n \n מסמךChecklist\n \n)מלא (ללא הפניות \n \n•\n \nCPP\n \n או אישור עקרוני לרישום מרשות\nהייחוס. במקרה \n של הגשת\nאישור עקרוני \n מרשות\n הייחוס \n יש להגיש בהמשך את מסמך\nה - \nCPP\n ,\n לא \n יאוחר מ-\n7\n \n ימי \n עבודה \n לאחר\nקבלת \nמכתב אישור עקרוני \n לרישום בישראל .\n \n \n2\n.\n \n '",
+          "document_id": "769325d61beccb2bd525",
+          "target_language": "en",
+          "translation_status": "Rejected/quarantined machine output",
+          "model_provenance": {
+            "language": "he",
+            "model_version": "1.5",
+            "model_url": "https://argos-net.com/v1/translate-he_en-1_5.argosmodel",
+            "model_sha256": "ff8ac0ce734a82f8508ff39eaa90c110f66a2df3a93f03cf6ca72c4a60093470",
+            "model_bytes": 115704948,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.5",
+              "argos_version": "1.5",
+              "from_code": "he",
+              "from_name": "Hebrew",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "e49c441eaebba2b09b57eefbeea0f70736ec2102451c8f4af2e96744f7c671a6",
+          "translated_utc": "2026-10-18T00:50:36.471766+00:00",
+          "source_characters": 3913,
+          "segments": 22,
+          "raw_machine_translation": "Conditions for acceptance of the route: the preparations have been recorded in final registration, not conditioned, in the last six years before the registration of Israel in two jurisdictions: at least one of them is the FDA or EMA (central registration) which is the permission to be stored in Israel, except for the application of the FDA. PAGE 6 contact details in Hebrew contact information in English from Medical Technology Division, Information and research from the Ministry of Health.D.1176 Jerusalem9101002 MTIR@moh.gov.il: phone02-5080307: fax 02-6474843 Medical Technology, Health Information and Research Directorate Ministry of Health P.O.B. 1176 Jerusalem 9101002 MTIR@moh.gov.il Tel: 2-50 fax fax: +972-2-6474843: Reliance/Recognition) in one of the two authorities. Post marketing, RWE and another Cut-off (which were not evaluated by the reliance Authority) the main clinical data supporting the pronunciation include FazaII studies, A single armistice study (real world dataReal World Evidence) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  • Full registration case, updated (and unifiedconsolidated) in the CTD format ( Modules 1-5.) • The quality bag can include differences in relation to the standard approved in the framework of the application only regarding the ISA of the designated release site for Israel containing repeated checks that can be submitted to a unified file that includes changes in a quality aspect approved by the application permission to the application, while the application is included. Approval permissions to the changes made and assessment reports to changes. • The filing case will include the most updated case in a unified format that includes only data approved by the . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Incorporating the approvals of the Hues Authority for data and assessment reports.This includes the updated data; full assessment reports of the Hoyshus Authority include NN information: Kelly and Kleins of evaluation reports and correspondence in the face of the PAGE in terms of information, safety efficiency. Information and research from the Ministry of Health.D.1176 Jerusalem9101002 MTIR@moh.gov.il: phone02-5080307: fax 02-6474843 Medical Technology, Health Information and Research Directorate Ministry of Health P.O.B. 1176 Jerusalem 9101002 MTIR@moh.gov.il Tel: 2-50 fax fax: 2-6474843: Full evaluation reports for active material, For a finished preparations and for PMF, in case and is required in a situation where there are no evaluation reports available from the permission to request, A report from the Second Authority can be transferred and a comparison table between the files submitted to each authority. Instead of an active material permission report, CPP approval can be submitted for the active material .The Checklist document (without references to CPP or a principled approval for the registration of the Hashage Authority.In case of submitting a principled approval from the Hashance Authority, the CPP document must be submitted later. It will not be later than 7 working days after receiving a letter of approval for registration in Israel. 2.\"",
+          "checked_translation": null,
+          "check_note": "Material number error (three years becomes six), omissions and degenerate repetition; rejected.",
+          "approved_for_display": false,
+          "approved_for_text_sensitivity": false,
+          "checked_utc": "2026-10-18T01:00:51.129613+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "ISR-Q02",
+        "iso3": "ISR",
+        "event_id": null,
+        "document_id": "769325d61beccb2bd525",
+        "source_id": "6ca91e05fecb7599",
+        "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+        "raw_sha256": "e09e17fee73f585e0d3664d942bd937f268ec0d28abf5d284509c8a4927f2ed5",
+        "text_sha256": "1f76214675c9c456595b09d11d40a4e928d75872014f242ba063a4b4aacf3f98",
+        "start_offset": 7303,
+        "end_offset": 7521,
+        "pdf_page": 5,
+        "section_article": "Route A, net-working-day clock",
+        "verbatim_extracted_text": "זמן הערכה יעמוד על70\n \n ימי עבודה נטו–\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או\n .מכתב דחייה \n מכתב שאלות ישלח למגיש הבקשה עד40\n \n ימי עבודה מקבלת התיק \n כחדש .\n \n זמן מענה החברה למכתב השאלות יעמוד על30\n \n .ימי עבודה",
+        "display_text": "זמן הערכה יעמוד על70 ימי עבודה נטו– החל מקבלת התיק כחדש ועד לתעודת רישום או .מכתב דחייה מכתב שאלות ישלח למגיש הבקשה עד40 ימי עבודה מקבלת התיק כחדש . זמן מענה החברה למכתב השאלות יעמוד על30 .ימי עבודה",
+        "feature_tags": [
+          "decision_clock"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "he",
+        "language_status": "Official original-language source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "Seventy net working days to registration certificate OR refusal letter; not seventy calendar days to assured approval.",
+        "version_alignment": "Cover explicitly dated March 2025 and labelled pilot programme; separate April 2025 submission clarifications retained as a supplement. Not a 2024 statute.",
+        "evidence_tier": "national_rule",
+        "product_scope": "Human-medicine initial marketing authorisation",
+        "translation_review": {
+          "id": "ISR-Q02",
+          "source_language": "he",
+          "source_text": "זמן הערכה יעמוד על70\n \n ימי עבודה נטו–\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או\n .מכתב דחייה \n מכתב שאלות ישלח למגיש הבקשה עד40\n \n ימי עבודה מקבלת התיק \n כחדש .\n \n זמן מענה החברה למכתב השאלות יעמוד על30\n \n .ימי עבודה",
+          "document_id": "769325d61beccb2bd525",
+          "target_language": "en",
+          "translation_status": "Rejected/quarantined machine output",
+          "model_provenance": {
+            "language": "he",
+            "model_version": "1.5",
+            "model_url": "https://argos-net.com/v1/translate-he_en-1_5.argosmodel",
+            "model_sha256": "ff8ac0ce734a82f8508ff39eaa90c110f66a2df3a93f03cf6ca72c4a60093470",
+            "model_bytes": 115704948,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.5",
+              "argos_version": "1.5",
+              "from_code": "he",
+              "from_name": "Hebrew",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "5cc5e001e17c2ffd08bc237208020b5a1b713d3268857f8759c19ecfa6788932",
+          "translated_utc": "2026-10-18T00:50:36.641206+00:00",
+          "source_characters": 218,
+          "segments": 1,
+          "raw_machine_translation": "The evaluation time will stand for 70 net working days – from the receipt of the case as new to the registration certificate or.The letter of rejection of a letter of questions will be sent to the request for up to 40 working days from the case as new.The time of the company’s response to the letter of questions will be 30.",
+          "checked_translation": null,
+          "check_note": "Acronyms and question/response clock wording require a clearer complete rendering; rejected for English analysis.",
+          "approved_for_display": false,
+          "approved_for_text_sensitivity": false,
+          "checked_utc": "2026-10-18T01:00:51.129613+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "ISR-CONTEXT-1",
+        "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+        "raw_sha256": "e09e17fee73f585e0d3664d942bd937f268ec0d28abf5d284509c8a4927f2ed5",
+        "text_sha256": "1f76214675c9c456595b09d11d40a4e928d75872014f242ba063a4b4aacf3f98",
+        "start_offset": 6773,
+        "end_offset": 12436,
+        "verbatim_extracted_text": "רות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n1\n.\n \n 'מסלול הסתמכות א - לתכשירי מקור וביוסימילאר - \n70\n \n ימי עבודה נטו \n מיועד לתכשירי מקור (מולקולה חדשה, חוזק חדש, צורת מתן, צורת מינון ושילוב חדש לחומרים\n .פעילים רשומים) ותכשירי ביוסימילאר \n \n זמן הערכה יעמוד על70\n \n ימי עבודה נטו–\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או\n .מכתב דחייה \n מכתב שאלות ישלח למגיש הבקשה עד40\n \n ימי עבודה מקבלת התיק \n כחדש .\n \n זמן מענה החברה למכתב השאלות יעמוד על30\n \n .ימי עבודה \nתנאים לקבלה למסלול :\n \n•\n \n התכשיר נרשם רישום סופי, לא\nמותנה ,\n בש לוש \n השנים האחרונות \n טרם הגשתו לרישום\n בישראל בשתי רשויות \n :רגולטוריות לפחות \n✓\n \n אחת מהן היאFDA\n או  \nEMA\n \n (רישום מרכזי) המהווה רשות ייחוס\n .להגשת התכשיר לרישום בישראל \n✓\n \n :הרשות השנייה היא אחת מאלו MHRA, HC, SMC, TGA\n \nFDA,\n \n ,\nEMA \n \n .)(רישום מרכזי \n•\n תיק הבקשה המוגש \n לישראל זהה לתיק שאושר על ידי רשות הייחוס \n למעט הבדלים\n.המפורטים בהמשך .\n  \n•\n \n ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס \n ,למעט\nתכשירי ביוסימילאר -\n  \n  בהם\nההתוויה ומשטר המינון המבוקשים לתכשיר ,\n  \n  יהיו זהים\n למאושר בתכשיר המקור המאושר בישראל \n :לא יתקבל תכשיר למסלול הסתמכות א' במצבים הבאים \n•\n \n התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות\n (המוגדרות בתקנות הרוקחים (תכשירים) התשמ\"ו-\n1986\n .)\n \n•\n \n הייחוס\nברשות \nמותנה \nבמסלול \nאושר \nהתכשיר  \n(\nConditional approval, Accelerated approval\n \n ודומי\nהם) .\n \n\n\nPAGE 6\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n•\n \n התכשיר נרשם במסלול הסתמכות(\nReliance/Recognition\n )\n באחת משתי הרשויות . \n \n•\n \n( קיימים נתונים קליניים מעודכנים לרבות  נתוני  :\nPost Marketing\n  ,\nRWE\n   ו-  \nCut-off\n \nנוסף ) \n .אשר לא הוערכו ע\"י רשות ההסתמכות \n•\n \n הנתונים הקליניים העיקריים התומכים בהגשה כוללים מחקרי פאזהII\n ,, מחקר חד זרועי\n( נתוני העולם האמיתיReal World Evidence\n ) \n .או סקירת ספרות \n•\n \n רשות הייחוס ביקשה השלמת מחקר העוסק בבטיחות או ביעילות התכשיר או ביצוע\n .מחקר נוסף \n•\n פרופיל הבטיחות של התכשיר הצריך אמצעים מיו חדים למזעור סיכוני התכשיר או מעקב\n .מיוחד אחר בטיחות התכשיר ברשות הייחוס \n מסמכים נדרשים להגשה במסלול זה :\n \n•\n תיק רישום מלא ,מעודכן \n( ומאוחדconsolidated\n )\n \n בפורמטCTD\n  (\nModules 1-5\n .)\n \n•\n \n תיק האיכות יכול לכלול הבדלים ביחס לתיק שאושר\nב :רשות הייחוס רק לגבי \n✓\n \n אתר שחרור ייעודי לישראל \n✓\n \n אתרQC\n \n המבצע בדיקות חוזרות \n✓\n ניתן  \n להגיש  תיק  מאוחד  \n הכולל  שינוי ים בהיבט איכות  \n שאושרו  \n על  \n ידי \n רשות \n הייחוס \n לתיק \n הבקשה \n תוך \n צירוף \n רשימת השינויים ,\n אישורי רשות\n הייחוס \n לשינויים \n שנעשו ודוחות הערכה לשינויים  .\n \n \n•\n תיק ההגשה ה\nנון \n קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל\n רק נתונים שאושרו ע\"י רשות .הייחוס \n ( נתונים מעודכניםCut-off\n נוסף\n) ניתן להגיש בתיק הגשה מאוחד ככל \n ונתונים אלו\n הוגשו במהלך הערכת הבקשה\nהראשונית ב\nרשות הייחוס ואושרו על ידה , תוך צירוף\n אישורי רשות הייחוס \n לנתונים \n ודוחות הערכה .הכוללים את הנתונים המעודכנים \n•\n \n :דו\"חות ההערכה מלאים של רשות הייחוס \n✓\n \n מידע נון -\n :קליני וקליני דוחות הערכה וכן התכתבויות מול רשות הייחוס בנושאי\n ,יעילות בטיחות. במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה\n .ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות מרשות הייחוס לבקשה  \n \n\n\nPAGE 7\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n✓\n \n איכות: דו\"חות הערכה מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר\nמוגמר  \n  ועבורPMF\n  \n.במקרה ונדרש  \n  במצב בו אין דוחות  \n  הערכה זמינים\n מרשות הייחוס לבקשה, ניתן להעביר דוח מ\nה רשות השניה וכן טבלת השוואה\n בין התיקים שהוגשו לכל רשות .\n \n✓\n \n   הערה: במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP\n  \n עבור\n .החומר הפעיל \n•\n \n מסמךChecklist\n \n)מלא (ללא הפניות \n \n•\n \nCPP\n \n או אישור עקרוני לרישום מרשות\nהייחוס. במקרה \n של הגשת\nאישור עקרוני \n מרשות\n הייחוס \n יש להגיש בהמשך את מסמך\nה - \nCPP\n ,\n לא \n יאוחר מ-\n7\n \n ימי \n עבודה \n לאחר\nקבלת \nמכתב אישור עקרוני \n לרישום בישראל .\n \n \n2\n.\n \n 'מסלול הסתמכות ב- \n  לתכשירי מקור\nו ביוסימילאר  -\n  \n120\n \n ימי עבודה נטו \n מיועד לתכשירי מקור (מולקולה חדשה, חוזק חדש, צורת מתן, צורת מינון ושילוב חדש לחומרים\n .פעילים רשומים) ותכשירי ביוסימילאר \n זמן הערכה יעמוד על120\n \n ימי עבודה נטו –\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או\n .מכתב דחייה \n מכתב שאלות ראשון ישלח למגיש הבקשה עד50\n \n ימי עבודה(\n נטו) \n מקבלת התיק .\n \n מכתב שאלות שני (אם נדרש) יועבר למגיש הבקשה עד80\n \n ימי עבודה (\n נטו) \n מקבלת התיק .\n \n זמן מענה החברה למכתב השאלות הראשון יעמוד על30\n \n.ימי עבודה \n הארכה נוספת של15\n \n ימי\nעבודה \n תישקל .על פי בקשת החברה \n זמן מענה החברה למכתב השאלות השני יעמוד על30\n \n .ימי עבודה \n \n \n\n\nPAGE 8\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "he",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Cover explicitly dated March 2025 and labelled pilot programme; separate April 2025 submission clarifications retained as a supplement. Not a 2024 statute."
+      },
+      {
+        "clause_id": "ISR-CTX-1",
+        "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+        "raw_sha256": "e09e17fee73f585e0d3664d942bd937f268ec0d28abf5d284509c8a4927f2ed5",
+        "text_sha256": "1f76214675c9c456595b09d11d40a4e928d75872014f242ba063a4b4aacf3f98",
+        "start_offset": 12436,
+        "end_offset": 16400,
+        "verbatim_extracted_text": "972-2-6474843 \n \nתנאים לקבלה למסלול :\n \n•\n התכשיר נרשם ב-\n5\n \n השנים האחרונות \n ,טרם הגשתו לרישום בישראל \n באחת\n :מהרשויות הרגולטוריות הבאות \nEMA\n \n ,)(רישום מרכזיFDA\n , \n MHRA, HC, SMC, TGA\n \n  .\n \n•\n \n תיק הרישום המוגש לישראל זהה לתיק שאושר על ידי רשות הייחוס , למעט הבדלים\n המפורטים בהמשך .\n \n•\n \n ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס \n למעט תכשירי ביוסימילאר- \n בהם\nההתוויה ומשטר המינון המבוקש\nים לתכשיר , \n יהיו זהים\n למאושר בתכשיר המקור המאושר בישראל .\n \n \n :לא יתקבל תכשיר למסלול הסתמכות ב' במצבים הבאים \n•\n \n התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות\n(כמוגדרת בתקנות הרוקחים (תכשירים) התשמ\"ו-\n1986\n .)\n \n•\n התכשיר נרשם במסלול הסתמכות (\nReliance/Recognition\n  )\n .ברשות הייחוס \n•\n \n( הנתונים הקליניים העיקריים התומכים בהגשה הינם נתוני העולם האמיתיReal \nWorld Evidence\n ) \n .או סקירת ספרות \n \n מסמכים נדרשים להגשה במסלול זה :\n \n•\n \n תיק רישום מלא ומעודכן בפורמטCTD\n  (\nModules 1-5\n .)\n \n•\n \n  תיק האיכות יכול לכלול הבדלים\nביחס ל תיק שאושר ברשות הייחוס לגבי ההיבטים\n :הבאים בלבד \n✓\n  \n באתר שחרור ייעודי לישראל \n✓\n \n באתרQC\n \n המבצע בדיקות חוזרות \n✓\n \n הוגשו נתוני יציבות שונים \n✓\n \n האריזה הראשונית שונה \n\n\nPAGE 9\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n✓\n ניתן להגיש \n תיק \n מאוחד הכולל שינויי \n איכות שאושרו על \n ידי רשות \n הייחוס \n לתיק הבקשה תוך צירוף \n רשימת \n השינויים ,אישורי \n רשות \n הייחוס \n לשינויים \n שנעשו ודוחות הערכה  .\n \n•\n תיק ההגשה ה\nנון \n קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל\n רק נתונים שאושרו ע\"י רשות .הייחוס \n ( נתונים מעודכניםCut-off\n \n נוסף) ניתן להגיש בתיק הגשה מאוחד ככל ונתונים אלו\n הוגשו במהלך הערכת הבקשה\nהראשונית ב רשות הייחוס ואושרו על ידה, תוך צירוף\n אישורי רשות הייחוס \n לנתונים \n ודוחות הערכה\nהכוללים את הנתונים המעודכנים .\n \n \n•\n \n :דו\"חות ההערכה מלאים של רשות הייחוס \n▪\n \n מידע נון -\n :קליני וקליני דוחות \n הערכה וכן התכתבויות מול רשות הייחוס\n  .בנושאי יעילות בטיחות  במצב בו אין דוחות הערכה  \n  זמינים מרשות\n הייחוס לבקשה, ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות\n מרשות הייחוס לבקשה. \n \n▪\n \n איכות: דו\"חות מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר\n מוגמר ועבורPMF\n \n.במקרה ונדרש \n במצב בו אין דוחות הערכה זמינים\n מרשות הייחוס לבקשה, ניתן להגיש שאלות ותשובות בהיבט האיכות\n מרשות הייחוס. \n \n•\n הערה   : במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP\n \nעבור ה .חומר הפעיל \n•\n \n מסמךChecklist\n \n)מלא (ללא הפניות \n \n•\n \nCPP\n  \n או אישור עקרוני לרישום מרשות הייחוס  \n  במקרה של  הגשת אישור עקרוני\nמרשות הייחוס יש להגיש בהמשך את מסמך ה - \nCPP,  לא יאוחר מ-\n7\n \n ימים לאחר\n קבלת מכתב אישור עקרוני לרישום בישראל \n \n \n \n\n\nPAGE 10\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n3\n.\n \n 'מסלול הסתמכות ג- \n גנריקה- \n120\n \n ימי עבודה נטו \n מיועד לתכשירים גנריים לתכשיר המקור הרשום בישראל3\n \n זמן הערכה יעמוד על120\n  \n ימי עבודה נטו –\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או מכתב\n .דחייה \n מכתב שאלות ראשון ישלח למגיש הבקשה עד50\n ימי עבודה נטו \n מקבלת התיק .\n \n מכתב שאלות שני (אם נדרש) יועבר למגיש הבקשה עד80\n \n ימי עבודה\nנטו  מ\nקבלת התיק . \n \n זמן מענה החברה למכתב השאלות הראשון יעמוד על30\n \n.ימי עבודה \n הארכה נוספת של15\n \n ימי\nעבודה \n .תישקל על פי בקשת החברה \n זמן מענה החברה למכתב השאלות השני יעמוד על30\n \n .ימי עבודה \n : תנאים לקבלה למסלול \n•\n \n התכשיר נרשם רישום סופי ,בש\nלוש השנים \n .האחרונות טרם הגשתו בישראל \n•\n \n :התכשיר נרשם באחת מהרשויותEMA\n ,\nFDA\n \n .MHRA, HC, SMC, TGA\n \n•\n \n תיק ",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "he",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Cover explicitly dated March 2025 and labelled pilot programme; separate April 2025 submission clarifications retained as a supplement. Not a 2024 statute."
+      }
+    ],
+    "review_details": {
+      "iso3": "ISR",
+      "country": "Israel",
+      "selected_document_id": "769325d61beccb2bd525",
+      "source_id": "6ca91e05fecb7599",
+      "pathway": "Reliance routes with distinct approval counts, clocks and exclusion criteria",
+      "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+      "document_title": "ISR | Original instrument or amending law",
+      "source_type": "Administrative pilot framework",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "he",
+      "translation_provenance": "Original-language contextual interpretation; no unchecked machine translation treated as authoritative",
+      "raw_sha256": "e09e17fee73f585e0d3664d942bd937f268ec0d28abf5d284509c8a4927f2ed5",
+      "raw_hash_validated": true,
+      "text_sha256": "1f76214675c9c456595b09d11d40a4e928d75872014f242ba063a4b4aacf3f98",
+      "version_dates": {},
+      "version_scope_note": "Israel Ministry circular Hebrew original, relianceA/B. Nonorphan originator has two-reference 70 net-working-day A and one-reference 120 net-working-day B options; do not treat one approval as country-wide exclusion.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          6773,
+          12436
+        ],
+        [
+          12436,
+          16400
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA, EMA centralised, MHRA, HealthCanada, Swissmedic and TGA expressly named.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "RouteA:2 final unconditional approvals within 3 years, one FDA/EMA centralised. RouteB:1 named approval within 5 years.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "explicit requirement",
+          "finding": "Foreign reliance/recognition-based approval excluded.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "18 months meets 3 yearA and 5 yearB age conditions.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "SameCTD/indication/dosing with enumerated permissible quality differences.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Full clinical/nonclinical reports and correspondence, with Q&A alternative if unavailable; quality fullunredacted reports, with stated report/Q&A/CEP alternatives.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "discretionary/conditional",
+          "finding": "Underlying quality/regulatory reports or permitted substantive Q&A alternatives required; not unconditional full-unredacted report rule.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Public summaries alone not established to contain required reports/Q&A; alternative documentation does not prove public-only sufficiency.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Scientific review remains, with criteria excluding specified evidence designs/negative history from fasterA route.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "CPP or conditional initial regulatory certification followed by CPP within stated national approval timing.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "A 70 net working days;B 120 net working days, response deadlines separate. Not observed calendar lags.",
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established for RouteB; RouteA threshold fails",
+          "finding": "FDA-only cannot satisfytwo-approvalA; one-FDA RouteB prior-approval condition can be met. Report/Q&A, clinical evidence design, adverse-history and administration remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ISR-Q01",
+            "ISR-Q02",
+            "ISR-CONTEXT-1",
+            "ISR-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "ISR-Q01",
+          "iso3": "ISR",
+          "event_id": null,
+          "document_id": "769325d61beccb2bd525",
+          "source_id": "6ca91e05fecb7599",
+          "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+          "raw_sha256": "e09e17fee73f585e0d3664d942bd937f268ec0d28abf5d284509c8a4927f2ed5",
+          "text_sha256": "1f76214675c9c456595b09d11d40a4e928d75872014f242ba063a4b4aacf3f98",
+          "start_offset": 7523,
+          "end_offset": 11436,
+          "pdf_page": 5,
+          "section_article": "Route A, eligibility, exclusions and required reports",
+          "verbatim_extracted_text": "תנאים לקבלה למסלול :\n \n•\n \n התכשיר נרשם רישום סופי, לא\nמותנה ,\n בש לוש \n השנים האחרונות \n טרם הגשתו לרישום\n בישראל בשתי רשויות \n :רגולטוריות לפחות \n✓\n \n אחת מהן היאFDA\n או  \nEMA\n \n (רישום מרכזי) המהווה רשות ייחוס\n .להגשת התכשיר לרישום בישראל \n✓\n \n :הרשות השנייה היא אחת מאלו MHRA, HC, SMC, TGA\n \nFDA,\n \n ,\nEMA \n \n .)(רישום מרכזי \n•\n תיק הבקשה המוגש \n לישראל זהה לתיק שאושר על ידי רשות הייחוס \n למעט הבדלים\n.המפורטים בהמשך .\n  \n•\n \n ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס \n ,למעט\nתכשירי ביוסימילאר -\n  \n  בהם\nההתוויה ומשטר המינון המבוקשים לתכשיר ,\n  \n  יהיו זהים\n למאושר בתכשיר המקור המאושר בישראל \n :לא יתקבל תכשיר למסלול הסתמכות א' במצבים הבאים \n•\n \n התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות\n (המוגדרות בתקנות הרוקחים (תכשירים) התשמ\"ו-\n1986\n .)\n \n•\n \n הייחוס\nברשות \nמותנה \nבמסלול \nאושר \nהתכשיר  \n(\nConditional approval, Accelerated approval\n \n ודומי\nהם) .\n \n\n\nPAGE 6\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n•\n \n התכשיר נרשם במסלול הסתמכות(\nReliance/Recognition\n )\n באחת משתי הרשויות . \n \n•\n \n( קיימים נתונים קליניים מעודכנים לרבות  נתוני  :\nPost Marketing\n  ,\nRWE\n   ו-  \nCut-off\n \nנוסף ) \n .אשר לא הוערכו ע\"י רשות ההסתמכות \n•\n \n הנתונים הקליניים העיקריים התומכים בהגשה כוללים מחקרי פאזהII\n ,, מחקר חד זרועי\n( נתוני העולם האמיתיReal World Evidence\n ) \n .או סקירת ספרות \n•\n \n רשות הייחוס ביקשה השלמת מחקר העוסק בבטיחות או ביעילות התכשיר או ביצוע\n .מחקר נוסף \n•\n פרופיל הבטיחות של התכשיר הצריך אמצעים מיו חדים למזעור סיכוני התכשיר או מעקב\n .מיוחד אחר בטיחות התכשיר ברשות הייחוס \n מסמכים נדרשים להגשה במסלול זה :\n \n•\n תיק רישום מלא ,מעודכן \n( ומאוחדconsolidated\n )\n \n בפורמטCTD\n  (\nModules 1-5\n .)\n \n•\n \n תיק האיכות יכול לכלול הבדלים ביחס לתיק שאושר\nב :רשות הייחוס רק לגבי \n✓\n \n אתר שחרור ייעודי לישראל \n✓\n \n אתרQC\n \n המבצע בדיקות חוזרות \n✓\n ניתן  \n להגיש  תיק  מאוחד  \n הכולל  שינוי ים בהיבט איכות  \n שאושרו  \n על  \n ידי \n רשות \n הייחוס \n לתיק \n הבקשה \n תוך \n צירוף \n רשימת השינויים ,\n אישורי רשות\n הייחוס \n לשינויים \n שנעשו ודוחות הערכה לשינויים  .\n \n \n•\n תיק ההגשה ה\nנון \n קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל\n רק נתונים שאושרו ע\"י רשות .הייחוס \n ( נתונים מעודכניםCut-off\n נוסף\n) ניתן להגיש בתיק הגשה מאוחד ככל \n ונתונים אלו\n הוגשו במהלך הערכת הבקשה\nהראשונית ב\nרשות הייחוס ואושרו על ידה , תוך צירוף\n אישורי רשות הייחוס \n לנתונים \n ודוחות הערכה .הכוללים את הנתונים המעודכנים \n•\n \n :דו\"חות ההערכה מלאים של רשות הייחוס \n✓\n \n מידע נון -\n :קליני וקליני דוחות הערכה וכן התכתבויות מול רשות הייחוס בנושאי\n ,יעילות בטיחות. במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה\n .ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות מרשות הייחוס לבקשה  \n \n\n\nPAGE 7\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n✓\n \n איכות: דו\"חות הערכה מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר\nמוגמר  \n  ועבורPMF\n  \n.במקרה ונדרש  \n  במצב בו אין דוחות  \n  הערכה זמינים\n מרשות הייחוס לבקשה, ניתן להעביר דוח מ\nה רשות השניה וכן טבלת השוואה\n בין התיקים שהוגשו לכל רשות .\n \n✓\n \n   הערה: במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP\n  \n עבור\n .החומר הפעיל \n•\n \n מסמךChecklist\n \n)מלא (ללא הפניות \n \n•\n \nCPP\n \n או אישור עקרוני לרישום מרשות\nהייחוס. במקרה \n של הגשת\nאישור עקרוני \n מרשות\n הייחוס \n יש להגיש בהמשך את מסמך\nה - \nCPP\n ,\n לא \n יאוחר מ-\n7\n \n ימי \n עבודה \n לאחר\nקבלת \nמכתב אישור עקרוני \n לרישום בישראל .\n \n \n2\n.\n \n '",
+          "display_text": "תנאים לקבלה למסלול : • התכשיר נרשם רישום סופי, לא מותנה , בש לוש השנים האחרונות טרם הגשתו לרישום בישראל בשתי רשויות :רגולטוריות לפחות ✓ אחת מהן היאFDA או EMA (רישום מרכזי) המהווה רשות ייחוס .להגשת התכשיר לרישום בישראל ✓ :הרשות השנייה היא אחת מאלו MHRA, HC, SMC, TGA FDA, , EMA .)(רישום מרכזי • תיק הבקשה המוגש לישראל זהה לתיק שאושר על ידי רשות הייחוס למעט הבדלים .המפורטים בהמשך . • ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס ,למעט תכשירי ביוסימילאר - בהם ההתוויה ומשטר המינון המבוקשים לתכשיר , יהיו זהים למאושר בתכשיר המקור המאושר בישראל :לא יתקבל תכשיר למסלול הסתמכות א' במצבים הבאים • התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות (המוגדרות בתקנות הרוקחים (תכשירים) התשמ\"ו- 1986 .) • הייחוס ברשות מותנה במסלול אושר התכשיר ( Conditional approval, Accelerated approval ודומי הם) . PAGE 6 פרטי התקשרות בעברית פרטי התקשרות באנגלית חטיבת טכנולוגיות רפואיות, מידע ומחקר משרד הבריאות .ת.ד1176 ירושלים9101002 MTIR@moh.gov.il :טלפון02-5080307 :פקס 02-6474843 Medical Technology, Health Information and Research Directorate Ministry of Health P.O.B 1176 Jerusalem 9101002 MTIR@moh.gov.il Tel: +972-2-5080307 Fax: +972-2-6474843 • התכשיר נרשם במסלול הסתמכות( Reliance/Recognition ) באחת משתי הרשויות . • ( קיימים נתונים קליניים מעודכנים לרבות נתוני : Post Marketing , RWE ו- Cut-off נוסף ) .אשר לא הוערכו ע\"י רשות ההסתמכות • הנתונים הקליניים העיקריים התומכים בהגשה כוללים מחקרי פאזהII ,, מחקר חד זרועי ( נתוני העולם האמיתיReal World Evidence ) .או סקירת ספרות • רשות הייחוס ביקשה השלמת מחקר העוסק בבטיחות או ביעילות התכשיר או ביצוע .מחקר נוסף • פרופיל הבטיחות של התכשיר הצריך אמצעים מיו חדים למזעור סיכוני התכשיר או מעקב .מיוחד אחר בטיחות התכשיר ברשות הייחוס מסמכים נדרשים להגשה במסלול זה : • תיק רישום מלא ,מעודכן ( ומאוחדconsolidated ) בפורמטCTD ( Modules 1-5 .) • תיק האיכות יכול לכלול הבדלים ביחס לתיק שאושר ב :רשות הייחוס רק לגבי ✓ אתר שחרור ייעודי לישראל ✓ אתרQC המבצע בדיקות חוזרות ✓ ניתן להגיש תיק מאוחד הכולל שינוי ים בהיבט איכות שאושרו על ידי רשות הייחוס לתיק הבקשה תוך צירוף רשימת השינויים , אישורי רשות הייחוס לשינויים שנעשו ודוחות הערכה לשינויים . • תיק ההגשה ה נון קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל רק נתונים שאושרו ע\"י רשות .הייחוס ( נתונים מעודכניםCut-off נוסף ) ניתן להגיש בתיק הגשה מאוחד ככל ונתונים אלו הוגשו במהלך הערכת הבקשה הראשונית ב רשות הייחוס ואושרו על ידה , תוך צירוף אישורי רשות הייחוס לנתונים ודוחות הערכה .הכוללים את הנתונים המעודכנים • :דו\"חות ההערכה מלאים של רשות הייחוס ✓ מידע נון - :קליני וקליני דוחות הערכה וכן התכתבויות מול רשות הייחוס בנושאי ,יעילות בטיחות. במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה .ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות מרשות הייחוס לבקשה PAGE 7 פרטי התקשרות בעברית פרטי התקשרות באנגלית חטיבת טכנולוגיות רפואיות, מידע ומחקר משרד הבריאות .ת.ד1176 ירושלים9101002 MTIR@moh.gov.il :טלפון02-5080307 :פקס 02-6474843 Medical Technology, Health Information and Research Directorate Ministry of Health P.O.B 1176 Jerusalem 9101002 MTIR@moh.gov.il Tel: +972-2-5080307 Fax: +972-2-6474843 ✓ איכות: דו\"חות הערכה מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר מוגמר ועבורPMF .במקרה ונדרש במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה, ניתן להעביר דוח מ ה רשות השניה וכן טבלת השוואה בין התיקים שהוגשו לכל רשות . ✓ הערה: במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP עבור .החומר הפעיל • מסמךChecklist )מלא (ללא הפניות • CPP או אישור עקרוני לרישום מרשות הייחוס. במקרה של הגשת אישור עקרוני מרשות הייחוס יש להגיש בהמשך את מסמך ה - CPP , לא יאוחר מ- 7 ימי עבודה לאחר קבלת מכתב אישור עקרוני לרישום בישראל . 2 . '",
+          "feature_tags": [
+            "two_approvals",
+            "approval_age",
+            "sameness",
+            "original_review",
+            "reports",
+            "unredacted",
+            "adverse_foreign_history"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "he",
+          "language_status": "Official original-language source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "Route A requires at least two final unconditional approvals in the preceding three years, including FDA or central EMA as reference; excludes reliance/recognition-derived approvals. Domestic review and additional requirements remain.",
+          "version_alignment": "Cover explicitly dated March 2025 and labelled pilot programme; separate April 2025 submission clarifications retained as a supplement. Not a 2024 statute.",
+          "evidence_tier": "national_rule",
+          "product_scope": "Human-medicine initial marketing authorisation",
+          "translation_review": {
+            "id": "ISR-Q01",
+            "source_language": "he",
+            "source_text": "תנאים לקבלה למסלול :\n \n•\n \n התכשיר נרשם רישום סופי, לא\nמותנה ,\n בש לוש \n השנים האחרונות \n טרם הגשתו לרישום\n בישראל בשתי רשויות \n :רגולטוריות לפחות \n✓\n \n אחת מהן היאFDA\n או  \nEMA\n \n (רישום מרכזי) המהווה רשות ייחוס\n .להגשת התכשיר לרישום בישראל \n✓\n \n :הרשות השנייה היא אחת מאלו MHRA, HC, SMC, TGA\n \nFDA,\n \n ,\nEMA \n \n .)(רישום מרכזי \n•\n תיק הבקשה המוגש \n לישראל זהה לתיק שאושר על ידי רשות הייחוס \n למעט הבדלים\n.המפורטים בהמשך .\n  \n•\n \n ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס \n ,למעט\nתכשירי ביוסימילאר -\n  \n  בהם\nההתוויה ומשטר המינון המבוקשים לתכשיר ,\n  \n  יהיו זהים\n למאושר בתכשיר המקור המאושר בישראל \n :לא יתקבל תכשיר למסלול הסתמכות א' במצבים הבאים \n•\n \n התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות\n (המוגדרות בתקנות הרוקחים (תכשירים) התשמ\"ו-\n1986\n .)\n \n•\n \n הייחוס\nברשות \nמותנה \nבמסלול \nאושר \nהתכשיר  \n(\nConditional approval, Accelerated approval\n \n ודומי\nהם) .\n \n\n\nPAGE 6\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n•\n \n התכשיר נרשם במסלול הסתמכות(\nReliance/Recognition\n )\n באחת משתי הרשויות . \n \n•\n \n( קיימים נתונים קליניים מעודכנים לרבות  נתוני  :\nPost Marketing\n  ,\nRWE\n   ו-  \nCut-off\n \nנוסף ) \n .אשר לא הוערכו ע\"י רשות ההסתמכות \n•\n \n הנתונים הקליניים העיקריים התומכים בהגשה כוללים מחקרי פאזהII\n ,, מחקר חד זרועי\n( נתוני העולם האמיתיReal World Evidence\n ) \n .או סקירת ספרות \n•\n \n רשות הייחוס ביקשה השלמת מחקר העוסק בבטיחות או ביעילות התכשיר או ביצוע\n .מחקר נוסף \n•\n פרופיל הבטיחות של התכשיר הצריך אמצעים מיו חדים למזעור סיכוני התכשיר או מעקב\n .מיוחד אחר בטיחות התכשיר ברשות הייחוס \n מסמכים נדרשים להגשה במסלול זה :\n \n•\n תיק רישום מלא ,מעודכן \n( ומאוחדconsolidated\n )\n \n בפורמטCTD\n  (\nModules 1-5\n .)\n \n•\n \n תיק האיכות יכול לכלול הבדלים ביחס לתיק שאושר\nב :רשות הייחוס רק לגבי \n✓\n \n אתר שחרור ייעודי לישראל \n✓\n \n אתרQC\n \n המבצע בדיקות חוזרות \n✓\n ניתן  \n להגיש  תיק  מאוחד  \n הכולל  שינוי ים בהיבט איכות  \n שאושרו  \n על  \n ידי \n רשות \n הייחוס \n לתיק \n הבקשה \n תוך \n צירוף \n רשימת השינויים ,\n אישורי רשות\n הייחוס \n לשינויים \n שנעשו ודוחות הערכה לשינויים  .\n \n \n•\n תיק ההגשה ה\nנון \n קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל\n רק נתונים שאושרו ע\"י רשות .הייחוס \n ( נתונים מעודכניםCut-off\n נוסף\n) ניתן להגיש בתיק הגשה מאוחד ככל \n ונתונים אלו\n הוגשו במהלך הערכת הבקשה\nהראשונית ב\nרשות הייחוס ואושרו על ידה , תוך צירוף\n אישורי רשות הייחוס \n לנתונים \n ודוחות הערכה .הכוללים את הנתונים המעודכנים \n•\n \n :דו\"חות ההערכה מלאים של רשות הייחוס \n✓\n \n מידע נון -\n :קליני וקליני דוחות הערכה וכן התכתבויות מול רשות הייחוס בנושאי\n ,יעילות בטיחות. במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה\n .ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות מרשות הייחוס לבקשה  \n \n\n\nPAGE 7\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n✓\n \n איכות: דו\"חות הערכה מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר\nמוגמר  \n  ועבורPMF\n  \n.במקרה ונדרש  \n  במצב בו אין דוחות  \n  הערכה זמינים\n מרשות הייחוס לבקשה, ניתן להעביר דוח מ\nה רשות השניה וכן טבלת השוואה\n בין התיקים שהוגשו לכל רשות .\n \n✓\n \n   הערה: במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP\n  \n עבור\n .החומר הפעיל \n•\n \n מסמךChecklist\n \n)מלא (ללא הפניות \n \n•\n \nCPP\n \n או אישור עקרוני לרישום מרשות\nהייחוס. במקרה \n של הגשת\nאישור עקרוני \n מרשות\n הייחוס \n יש להגיש בהמשך את מסמך\nה - \nCPP\n ,\n לא \n יאוחר מ-\n7\n \n ימי \n עבודה \n לאחר\nקבלת \nמכתב אישור עקרוני \n לרישום בישראל .\n \n \n2\n.\n \n '",
+            "document_id": "769325d61beccb2bd525",
+            "target_language": "en",
+            "translation_status": "Rejected/quarantined machine output",
+            "model_provenance": {
+              "language": "he",
+              "model_version": "1.5",
+              "model_url": "https://argos-net.com/v1/translate-he_en-1_5.argosmodel",
+              "model_sha256": "ff8ac0ce734a82f8508ff39eaa90c110f66a2df3a93f03cf6ca72c4a60093470",
+              "model_bytes": 115704948,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.5",
+                "argos_version": "1.5",
+                "from_code": "he",
+                "from_name": "Hebrew",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "e49c441eaebba2b09b57eefbeea0f70736ec2102451c8f4af2e96744f7c671a6",
+            "translated_utc": "2026-10-18T00:50:36.471766+00:00",
+            "source_characters": 3913,
+            "segments": 22,
+            "raw_machine_translation": "Conditions for acceptance of the route: the preparations have been recorded in final registration, not conditioned, in the last six years before the registration of Israel in two jurisdictions: at least one of them is the FDA or EMA (central registration) which is the permission to be stored in Israel, except for the application of the FDA. PAGE 6 contact details in Hebrew contact information in English from Medical Technology Division, Information and research from the Ministry of Health.D.1176 Jerusalem9101002 MTIR@moh.gov.il: phone02-5080307: fax 02-6474843 Medical Technology, Health Information and Research Directorate Ministry of Health P.O.B. 1176 Jerusalem 9101002 MTIR@moh.gov.il Tel: 2-50 fax fax: +972-2-6474843: Reliance/Recognition) in one of the two authorities. Post marketing, RWE and another Cut-off (which were not evaluated by the reliance Authority) the main clinical data supporting the pronunciation include FazaII studies, A single armistice study (real world dataReal World Evidence) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  • Full registration case, updated (and unifiedconsolidated) in the CTD format ( Modules 1-5.) • The quality bag can include differences in relation to the standard approved in the framework of the application only regarding the ISA of the designated release site for Israel containing repeated checks that can be submitted to a unified file that includes changes in a quality aspect approved by the application permission to the application, while the application is included. Approval permissions to the changes made and assessment reports to changes. • The filing case will include the most updated case in a unified format that includes only data approved by the . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Incorporating the approvals of the Hues Authority for data and assessment reports.This includes the updated data; full assessment reports of the Hoyshus Authority include NN information: Kelly and Kleins of evaluation reports and correspondence in the face of the PAGE in terms of information, safety efficiency. Information and research from the Ministry of Health.D.1176 Jerusalem9101002 MTIR@moh.gov.il: phone02-5080307: fax 02-6474843 Medical Technology, Health Information and Research Directorate Ministry of Health P.O.B. 1176 Jerusalem 9101002 MTIR@moh.gov.il Tel: 2-50 fax fax: 2-6474843: Full evaluation reports for active material, For a finished preparations and for PMF, in case and is required in a situation where there are no evaluation reports available from the permission to request, A report from the Second Authority can be transferred and a comparison table between the files submitted to each authority. Instead of an active material permission report, CPP approval can be submitted for the active material .The Checklist document (without references to CPP or a principled approval for the registration of the Hashage Authority.In case of submitting a principled approval from the Hashance Authority, the CPP document must be submitted later. It will not be later than 7 working days after receiving a letter of approval for registration in Israel. 2.\"",
+            "checked_translation": null,
+            "check_note": "Material number error (three years becomes six), omissions and degenerate repetition; rejected.",
+            "approved_for_display": false,
+            "approved_for_text_sensitivity": false,
+            "checked_utc": "2026-10-18T01:00:51.129613+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "ISR-Q02",
+          "iso3": "ISR",
+          "event_id": null,
+          "document_id": "769325d61beccb2bd525",
+          "source_id": "6ca91e05fecb7599",
+          "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+          "raw_sha256": "e09e17fee73f585e0d3664d942bd937f268ec0d28abf5d284509c8a4927f2ed5",
+          "text_sha256": "1f76214675c9c456595b09d11d40a4e928d75872014f242ba063a4b4aacf3f98",
+          "start_offset": 7303,
+          "end_offset": 7521,
+          "pdf_page": 5,
+          "section_article": "Route A, net-working-day clock",
+          "verbatim_extracted_text": "זמן הערכה יעמוד על70\n \n ימי עבודה נטו–\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או\n .מכתב דחייה \n מכתב שאלות ישלח למגיש הבקשה עד40\n \n ימי עבודה מקבלת התיק \n כחדש .\n \n זמן מענה החברה למכתב השאלות יעמוד על30\n \n .ימי עבודה",
+          "display_text": "זמן הערכה יעמוד על70 ימי עבודה נטו– החל מקבלת התיק כחדש ועד לתעודת רישום או .מכתב דחייה מכתב שאלות ישלח למגיש הבקשה עד40 ימי עבודה מקבלת התיק כחדש . זמן מענה החברה למכתב השאלות יעמוד על30 .ימי עבודה",
+          "feature_tags": [
+            "decision_clock"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "he",
+          "language_status": "Official original-language source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "Seventy net working days to registration certificate OR refusal letter; not seventy calendar days to assured approval.",
+          "version_alignment": "Cover explicitly dated March 2025 and labelled pilot programme; separate April 2025 submission clarifications retained as a supplement. Not a 2024 statute.",
+          "evidence_tier": "national_rule",
+          "product_scope": "Human-medicine initial marketing authorisation",
+          "translation_review": {
+            "id": "ISR-Q02",
+            "source_language": "he",
+            "source_text": "זמן הערכה יעמוד על70\n \n ימי עבודה נטו–\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או\n .מכתב דחייה \n מכתב שאלות ישלח למגיש הבקשה עד40\n \n ימי עבודה מקבלת התיק \n כחדש .\n \n זמן מענה החברה למכתב השאלות יעמוד על30\n \n .ימי עבודה",
+            "document_id": "769325d61beccb2bd525",
+            "target_language": "en",
+            "translation_status": "Rejected/quarantined machine output",
+            "model_provenance": {
+              "language": "he",
+              "model_version": "1.5",
+              "model_url": "https://argos-net.com/v1/translate-he_en-1_5.argosmodel",
+              "model_sha256": "ff8ac0ce734a82f8508ff39eaa90c110f66a2df3a93f03cf6ca72c4a60093470",
+              "model_bytes": 115704948,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.5",
+                "argos_version": "1.5",
+                "from_code": "he",
+                "from_name": "Hebrew",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "5cc5e001e17c2ffd08bc237208020b5a1b713d3268857f8759c19ecfa6788932",
+            "translated_utc": "2026-10-18T00:50:36.641206+00:00",
+            "source_characters": 218,
+            "segments": 1,
+            "raw_machine_translation": "The evaluation time will stand for 70 net working days – from the receipt of the case as new to the registration certificate or.The letter of rejection of a letter of questions will be sent to the request for up to 40 working days from the case as new.The time of the company’s response to the letter of questions will be 30.",
+            "checked_translation": null,
+            "check_note": "Acronyms and question/response clock wording require a clearer complete rendering; rejected for English analysis.",
+            "approved_for_display": false,
+            "approved_for_text_sensitivity": false,
+            "checked_utc": "2026-10-18T01:00:51.129613+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "ISR-CONTEXT-1",
+          "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+          "raw_sha256": "e09e17fee73f585e0d3664d942bd937f268ec0d28abf5d284509c8a4927f2ed5",
+          "text_sha256": "1f76214675c9c456595b09d11d40a4e928d75872014f242ba063a4b4aacf3f98",
+          "start_offset": 6773,
+          "end_offset": 12436,
+          "verbatim_extracted_text": "רות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n1\n.\n \n 'מסלול הסתמכות א - לתכשירי מקור וביוסימילאר - \n70\n \n ימי עבודה נטו \n מיועד לתכשירי מקור (מולקולה חדשה, חוזק חדש, צורת מתן, צורת מינון ושילוב חדש לחומרים\n .פעילים רשומים) ותכשירי ביוסימילאר \n \n זמן הערכה יעמוד על70\n \n ימי עבודה נטו–\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או\n .מכתב דחייה \n מכתב שאלות ישלח למגיש הבקשה עד40\n \n ימי עבודה מקבלת התיק \n כחדש .\n \n זמן מענה החברה למכתב השאלות יעמוד על30\n \n .ימי עבודה \nתנאים לקבלה למסלול :\n \n•\n \n התכשיר נרשם רישום סופי, לא\nמותנה ,\n בש לוש \n השנים האחרונות \n טרם הגשתו לרישום\n בישראל בשתי רשויות \n :רגולטוריות לפחות \n✓\n \n אחת מהן היאFDA\n או  \nEMA\n \n (רישום מרכזי) המהווה רשות ייחוס\n .להגשת התכשיר לרישום בישראל \n✓\n \n :הרשות השנייה היא אחת מאלו MHRA, HC, SMC, TGA\n \nFDA,\n \n ,\nEMA \n \n .)(רישום מרכזי \n•\n תיק הבקשה המוגש \n לישראל זהה לתיק שאושר על ידי רשות הייחוס \n למעט הבדלים\n.המפורטים בהמשך .\n  \n•\n \n ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס \n ,למעט\nתכשירי ביוסימילאר -\n  \n  בהם\nההתוויה ומשטר המינון המבוקשים לתכשיר ,\n  \n  יהיו זהים\n למאושר בתכשיר המקור המאושר בישראל \n :לא יתקבל תכשיר למסלול הסתמכות א' במצבים הבאים \n•\n \n התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות\n (המוגדרות בתקנות הרוקחים (תכשירים) התשמ\"ו-\n1986\n .)\n \n•\n \n הייחוס\nברשות \nמותנה \nבמסלול \nאושר \nהתכשיר  \n(\nConditional approval, Accelerated approval\n \n ודומי\nהם) .\n \n\n\nPAGE 6\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n•\n \n התכשיר נרשם במסלול הסתמכות(\nReliance/Recognition\n )\n באחת משתי הרשויות . \n \n•\n \n( קיימים נתונים קליניים מעודכנים לרבות  נתוני  :\nPost Marketing\n  ,\nRWE\n   ו-  \nCut-off\n \nנוסף ) \n .אשר לא הוערכו ע\"י רשות ההסתמכות \n•\n \n הנתונים הקליניים העיקריים התומכים בהגשה כוללים מחקרי פאזהII\n ,, מחקר חד זרועי\n( נתוני העולם האמיתיReal World Evidence\n ) \n .או סקירת ספרות \n•\n \n רשות הייחוס ביקשה השלמת מחקר העוסק בבטיחות או ביעילות התכשיר או ביצוע\n .מחקר נוסף \n•\n פרופיל הבטיחות של התכשיר הצריך אמצעים מיו חדים למזעור סיכוני התכשיר או מעקב\n .מיוחד אחר בטיחות התכשיר ברשות הייחוס \n מסמכים נדרשים להגשה במסלול זה :\n \n•\n תיק רישום מלא ,מעודכן \n( ומאוחדconsolidated\n )\n \n בפורמטCTD\n  (\nModules 1-5\n .)\n \n•\n \n תיק האיכות יכול לכלול הבדלים ביחס לתיק שאושר\nב :רשות הייחוס רק לגבי \n✓\n \n אתר שחרור ייעודי לישראל \n✓\n \n אתרQC\n \n המבצע בדיקות חוזרות \n✓\n ניתן  \n להגיש  תיק  מאוחד  \n הכולל  שינוי ים בהיבט איכות  \n שאושרו  \n על  \n ידי \n רשות \n הייחוס \n לתיק \n הבקשה \n תוך \n צירוף \n רשימת השינויים ,\n אישורי רשות\n הייחוס \n לשינויים \n שנעשו ודוחות הערכה לשינויים  .\n \n \n•\n תיק ההגשה ה\nנון \n קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל\n רק נתונים שאושרו ע\"י רשות .הייחוס \n ( נתונים מעודכניםCut-off\n נוסף\n) ניתן להגיש בתיק הגשה מאוחד ככל \n ונתונים אלו\n הוגשו במהלך הערכת הבקשה\nהראשונית ב\nרשות הייחוס ואושרו על ידה , תוך צירוף\n אישורי רשות הייחוס \n לנתונים \n ודוחות הערכה .הכוללים את הנתונים המעודכנים \n•\n \n :דו\"חות ההערכה מלאים של רשות הייחוס \n✓\n \n מידע נון -\n :קליני וקליני דוחות הערכה וכן התכתבויות מול רשות הייחוס בנושאי\n ,יעילות בטיחות. במצב בו אין דוחות הערכה זמינים מרשות הייחוס לבקשה\n .ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות מרשות הייחוס לבקשה  \n \n\n\nPAGE 7\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n✓\n \n איכות: דו\"חות הערכה מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר\nמוגמר  \n  ועבורPMF\n  \n.במקרה ונדרש  \n  במצב בו אין דוחות  \n  הערכה זמינים\n מרשות הייחוס לבקשה, ניתן להעביר דוח מ\nה רשות השניה וכן טבלת השוואה\n בין התיקים שהוגשו לכל רשות .\n \n✓\n \n   הערה: במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP\n  \n עבור\n .החומר הפעיל \n•\n \n מסמךChecklist\n \n)מלא (ללא הפניות \n \n•\n \nCPP\n \n או אישור עקרוני לרישום מרשות\nהייחוס. במקרה \n של הגשת\nאישור עקרוני \n מרשות\n הייחוס \n יש להגיש בהמשך את מסמך\nה - \nCPP\n ,\n לא \n יאוחר מ-\n7\n \n ימי \n עבודה \n לאחר\nקבלת \nמכתב אישור עקרוני \n לרישום בישראל .\n \n \n2\n.\n \n 'מסלול הסתמכות ב- \n  לתכשירי מקור\nו ביוסימילאר  -\n  \n120\n \n ימי עבודה נטו \n מיועד לתכשירי מקור (מולקולה חדשה, חוזק חדש, צורת מתן, צורת מינון ושילוב חדש לחומרים\n .פעילים רשומים) ותכשירי ביוסימילאר \n זמן הערכה יעמוד על120\n \n ימי עבודה נטו –\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או\n .מכתב דחייה \n מכתב שאלות ראשון ישלח למגיש הבקשה עד50\n \n ימי עבודה(\n נטו) \n מקבלת התיק .\n \n מכתב שאלות שני (אם נדרש) יועבר למגיש הבקשה עד80\n \n ימי עבודה (\n נטו) \n מקבלת התיק .\n \n זמן מענה החברה למכתב השאלות הראשון יעמוד על30\n \n.ימי עבודה \n הארכה נוספת של15\n \n ימי\nעבודה \n תישקל .על פי בקשת החברה \n זמן מענה החברה למכתב השאלות השני יעמוד על30\n \n .ימי עבודה \n \n \n\n\nPAGE 8\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "he",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Cover explicitly dated March 2025 and labelled pilot programme; separate April 2025 submission clarifications retained as a supplement. Not a 2024 statute."
+        },
+        {
+          "clause_id": "ISR-CTX-1",
+          "source_url": "https://www.gov.il/BlobFolder/policy/dr-246187824/he/files_circulars_dr_DR-24618782.pdf",
+          "raw_sha256": "e09e17fee73f585e0d3664d942bd937f268ec0d28abf5d284509c8a4927f2ed5",
+          "text_sha256": "1f76214675c9c456595b09d11d40a4e928d75872014f242ba063a4b4aacf3f98",
+          "start_offset": 12436,
+          "end_offset": 16400,
+          "verbatim_extracted_text": "972-2-6474843 \n \nתנאים לקבלה למסלול :\n \n•\n התכשיר נרשם ב-\n5\n \n השנים האחרונות \n ,טרם הגשתו לרישום בישראל \n באחת\n :מהרשויות הרגולטוריות הבאות \nEMA\n \n ,)(רישום מרכזיFDA\n , \n MHRA, HC, SMC, TGA\n \n  .\n \n•\n \n תיק הרישום המוגש לישראל זהה לתיק שאושר על ידי רשות הייחוס , למעט הבדלים\n המפורטים בהמשך .\n \n•\n \n ההתוויה ומשטר המינון המבוקשים לתכשיר בישראל זהים למאושר ברשות הייחוס \n למעט תכשירי ביוסימילאר- \n בהם\nההתוויה ומשטר המינון המבוקש\nים לתכשיר , \n יהיו זהים\n למאושר בתכשיר המקור המאושר בישראל .\n \n \n :לא יתקבל תכשיר למסלול הסתמכות ב' במצבים הבאים \n•\n \n התכשיר נדחה או נמשך מרשות רגולטורית של אחת או יותר מהמדינות המוכרות\n(כמוגדרת בתקנות הרוקחים (תכשירים) התשמ\"ו-\n1986\n .)\n \n•\n התכשיר נרשם במסלול הסתמכות (\nReliance/Recognition\n  )\n .ברשות הייחוס \n•\n \n( הנתונים הקליניים העיקריים התומכים בהגשה הינם נתוני העולם האמיתיReal \nWorld Evidence\n ) \n .או סקירת ספרות \n \n מסמכים נדרשים להגשה במסלול זה :\n \n•\n \n תיק רישום מלא ומעודכן בפורמטCTD\n  (\nModules 1-5\n .)\n \n•\n \n  תיק האיכות יכול לכלול הבדלים\nביחס ל תיק שאושר ברשות הייחוס לגבי ההיבטים\n :הבאים בלבד \n✓\n  \n באתר שחרור ייעודי לישראל \n✓\n \n באתרQC\n \n המבצע בדיקות חוזרות \n✓\n \n הוגשו נתוני יציבות שונים \n✓\n \n האריזה הראשונית שונה \n\n\nPAGE 9\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n✓\n ניתן להגיש \n תיק \n מאוחד הכולל שינויי \n איכות שאושרו על \n ידי רשות \n הייחוס \n לתיק הבקשה תוך צירוף \n רשימת \n השינויים ,אישורי \n רשות \n הייחוס \n לשינויים \n שנעשו ודוחות הערכה  .\n \n•\n תיק ההגשה ה\nנון \n קליני והקליני יכללו את התיק המעודכן ביותר בפורמט מאוחד הכולל\n רק נתונים שאושרו ע\"י רשות .הייחוס \n ( נתונים מעודכניםCut-off\n \n נוסף) ניתן להגיש בתיק הגשה מאוחד ככל ונתונים אלו\n הוגשו במהלך הערכת הבקשה\nהראשונית ב רשות הייחוס ואושרו על ידה, תוך צירוף\n אישורי רשות הייחוס \n לנתונים \n ודוחות הערכה\nהכוללים את הנתונים המעודכנים .\n \n \n•\n \n :דו\"חות ההערכה מלאים של רשות הייחוס \n▪\n \n מידע נון -\n :קליני וקליני דוחות \n הערכה וכן התכתבויות מול רשות הייחוס\n  .בנושאי יעילות בטיחות  במצב בו אין דוחות הערכה  \n  זמינים מרשות\n הייחוס לבקשה, ניתן להגיש שאלות ותשובות בהיבט יעילות ובטיחות\n מרשות הייחוס לבקשה. \n \n▪\n \n איכות: דו\"חות מלאים בלתי מצונזרים עבור חומר פעיל, עבור תכשיר\n מוגמר ועבורPMF\n \n.במקרה ונדרש \n במצב בו אין דוחות הערכה זמינים\n מרשות הייחוס לבקשה, ניתן להגיש שאלות ותשובות בהיבט האיכות\n מרשות הייחוס. \n \n•\n הערה   : במקום דו\"ח רשות לחומר הפעיל ניתן להגיש אישורCEP\n \nעבור ה .חומר הפעיל \n•\n \n מסמךChecklist\n \n)מלא (ללא הפניות \n \n•\n \nCPP\n  \n או אישור עקרוני לרישום מרשות הייחוס  \n  במקרה של  הגשת אישור עקרוני\nמרשות הייחוס יש להגיש בהמשך את מסמך ה - \nCPP,  לא יאוחר מ-\n7\n \n ימים לאחר\n קבלת מכתב אישור עקרוני לרישום בישראל \n \n \n \n\n\nPAGE 10\n \n \n פרטי התקשרות בעברית \n פרטי התקשרות באנגלית \n חטיבת טכנולוגיות רפואיות, מידע ומחקר \nמשרד הבריאות \n \n.ת.ד1176\n \n ירושלים9101002\n \n \nMTIR@moh.gov.il\n \n :טלפון02-5080307\n \n:פקס \n02-6474843\n \nMedical Technology, Health Information and \nResearch Directorate Ministry of Health \nP.O.B 1176 Jerusalem 9101002\nMTIR@moh.gov.il \nTel: +972-2-5080307 Fax: +972-2-6474843 \n \n3\n.\n \n 'מסלול הסתמכות ג- \n גנריקה- \n120\n \n ימי עבודה נטו \n מיועד לתכשירים גנריים לתכשיר המקור הרשום בישראל3\n \n זמן הערכה יעמוד על120\n  \n ימי עבודה נטו –\n \n החל מקבלת התיק כחדש ועד לתעודת רישום או מכתב\n .דחייה \n מכתב שאלות ראשון ישלח למגיש הבקשה עד50\n ימי עבודה נטו \n מקבלת התיק .\n \n מכתב שאלות שני (אם נדרש) יועבר למגיש הבקשה עד80\n \n ימי עבודה\nנטו  מ\nקבלת התיק . \n \n זמן מענה החברה למכתב השאלות הראשון יעמוד על30\n \n.ימי עבודה \n הארכה נוספת של15\n \n ימי\nעבודה \n .תישקל על פי בקשת החברה \n זמן מענה החברה למכתב השאלות השני יעמוד על30\n \n .ימי עבודה \n : תנאים לקבלה למסלול \n•\n \n התכשיר נרשם רישום סופי ,בש\nלוש השנים \n .האחרונות טרם הגשתו בישראל \n•\n \n :התכשיר נרשם באחת מהרשויותEMA\n ,\nFDA\n \n .MHRA, HC, SMC, TGA\n \n•\n \n תיק ",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "he",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Cover explicitly dated March 2025 and labelled pilot programme; separate April 2025 submission clarifications retained as a supplement. Not a 2024 statute."
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

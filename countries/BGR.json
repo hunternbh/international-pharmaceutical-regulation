@@ -219,5 +219,862 @@
     "source_hashes": [
       "6717c2ba33b12f80a730ef9b0ea5c6beaa11d1cc368293efd0620ca5fc9b508c"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "BGR",
+    "country": "Bulgaria",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition",
+    "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+    "document_id": "F250_caf770183fae77715086_0fcb17b3b0a5",
+    "genre": "Official administrative procedure",
+    "language": "bg",
+    "scope": "Human-medicine authorisation",
+    "version_note": "BDA Bulgarian administrative MRP requirements, national law/ordinances and dossier requirements.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "outside pathway scope",
+        "finding": "Selected MRP requires a national EEA reference Member State authorisation; FDA and an EC centralised authorisation are not that national RMS approval.",
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same/identical dossier submitted to RMS and concerned states under MRP; local administrative documents remain.",
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Full/public report contrast is not decisive because national RMS prior approval is missing on fixed facts.",
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "explicit requirement",
+        "finding": "RMS scientific assessment is circulated/shared for national recognition; not a manufacturer public-report-only shortcut.",
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Member States assess/recognise RMS conclusions; serious-public-health-risk objections and coordination/referral may remain.",
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ]
+      },
+      "local_representative": {
+        "state": "explicit requirement",
+        "finding": "Applicant established in EU/EEA.",
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ]
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "New active substance fee depends on RMS/CMS role; not full economic compliance cost.",
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "MRP 90 days plus national 30 days, with stated referral/deficiency rules.",
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGR-R01",
+          "BGR-R02",
+          "BGR-CONTEXT-1",
+          "BGR-CTX-1",
+          "BGR-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "BGR-SHARED-EC"
+        ]
+      },
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "BGR-R01",
+        "iso3": "BGR",
+        "event_id": null,
+        "document_id": "F250_caf770183fae77715086_0fcb17b3b0a5",
+        "source_id": "F250_caf770183fae77715086",
+        "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+        "raw_sha256": "0fcb17b3b0a5078d805356d6344df70304da494772f0c09e0371a6785f7a894b",
+        "text_sha256": "5bef048442595ff5236cc5499fbca93c73b127de0f5e54f143e8bca0b771e621",
+        "start_offset": 348,
+        "end_offset": 1474,
+        "pdf_page": null,
+        "verbatim_extracted_text": "ІІ. Правно основание:\nПроцедурата е регламентирана в Закон за лекарствените продукти в хуманната медицина /ЗЛПХМ/  в чл. 23, ал.3, т.2.; чл. 26; чл. 27- чл. 32; чл.74, ал.5 или  чл.76, ал.1 и ал.2.\nНаредба № 27\nза изискванията към данните и документацията за разрешаване за употреба и регистрация на лекарствени продукти по: чл. 7- чл. 13 и приложенията към тях.\nНаредба 38\nза изискванията към данните върху опаковките и листовките на лекарствените продукти чл. 3, чл. 4, чл. 5, чл. 6, чл. 7, чл. 8, чл. 9.\nІІІ. Характеристика:\nЦел:\nДа регламентира издаването на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nПредмет:\nОценка на данните, които съдържа документацията за разрешаване за употреба на лекарствен продукт по т. ІV “Необходими документи”.\nІV. Процедура по извършване на административната услуга:\nКомпетентен орган:\nИзпълнителният директор на Изпълнителна агенция по лекарствата (ИАЛ) издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет(и) на опаковката (опаковките).\n",
+        "display_text": "ІІ. Правно основание: Процедурата е регламентирана в Закон за лекарствените продукти в хуманната медицина /ЗЛПХМ/ в чл. 23, ал.3, т.2.; чл. 26; чл. 27- чл. 32; чл.74, ал.5 или чл.76, ал.1 и ал.2. Наредба № 27 за изискванията към данните и документацията за разрешаване за употреба и регистрация на лекарствени продукти по: чл. 7- чл. 13 и приложенията към тях. Наредба 38 за изискванията към данните върху опаковките и листовките на лекарствените продукти чл. 3, чл. 4, чл. 5, чл. 6, чл. 7, чл. 8, чл. 9. ІІІ. Характеристика: Цел: Да регламентира издаването на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване. Предмет: Оценка на данните, които съдържа документацията за разрешаване за употреба на лекарствен продукт по т. ІV “Необходими документи”. ІV. Процедура по извършване на административната услуга: Компетентен орган: Изпълнителният директор на Изпълнителна агенция по лекарствата (ИАЛ) издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет(и) на опаковката (опаковките).",
+        "feature_tags": [
+          "scope_limit"
+        ],
+        "role": "Legal basis and national competence",
+        "language": "bg",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "The Bulgarian body text cites the national legal authority, requires the identical CTD and receives the reference state report. It specifies 90-day consideration and national authorisation within 30 days of procedure completion. This page is Bulgarian despite its English URL.",
+        "version_alignment": "Current preserved source version; date of first adoption not inferred",
+        "evidence_tier": "national_rule",
+        "section_article": "Legal basis and national competence",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "BGR-R02",
+        "iso3": "BGR",
+        "event_id": null,
+        "document_id": "F250_caf770183fae77715086_0fcb17b3b0a5",
+        "source_id": "F250_caf770183fae77715086",
+        "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+        "raw_sha256": "0fcb17b3b0a5078d805356d6344df70304da494772f0c09e0371a6785f7a894b",
+        "text_sha256": "5bef048442595ff5236cc5499fbca93c73b127de0f5e54f143e8bca0b771e621",
+        "start_offset": 2903,
+        "end_offset": 4755,
+        "pdf_page": null,
+        "verbatim_extracted_text": "Вътрешен ход на процедурата\nІ. Когато България е\nзасегната държава\nпо чл. 74\nЗаявление за разрешаване за употреба и досие във формат “Общ технически документ”,  идентично на подаденото в референтната държава и другите засегнати държави, се подава във деловодството на ИАЛ и се предоставя на съответната дирекция, където ще се извърши оценката на документацията.\nИАЛ получава по служебен път от референтната държава оценъчен доклад заедно с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 74, ал. 3\nПо член 74, ал. 4 ИАЛ разглежда документите по чл. 74, ал. 3 и писмено уведомява референтната държава за взетото решение в срок от 90 дни от получаването им\nВ срок 30 дни от  получаване на уведомление за приключване на процедурата от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 74, ал. 5\nКогато ИАЛ не одобри представената документация по чл. 74, ал. 3 по съображения за потенциален сериозен риск за здравето на населението, изготвя доклад с мотиви до референтната държава, до другите засегнати държави и до заявителя, съгласно чл.77,ал.1\nСпорните въпроси по чл. 77, ал. 1 се разглеждат от Координационната група на държавите членки, съгласно чл. 77, ал. 2 и ал. 3\nВ срок 30 дни от  получаване на уведомление за приключване на процедурата по чл. 77 ал. 1, ал. 2 и ал. 3 от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 77, ал. 4\nКогато в процедурата по чл. 77, ал. 2 държавите членки не постигнат съгласие, процедурата протича съгласно чл. 78\n",
+        "display_text": "Вътрешен ход на процедурата І. Когато България е засегната държава по чл. 74 Заявление за разрешаване за употреба и досие във формат “Общ технически документ”, идентично на подаденото в референтната държава и другите засегнати държави, се подава във деловодството на ИАЛ и се предоставя на съответната дирекция, където ще се извърши оценката на документацията. ИАЛ получава по служебен път от референтната държава оценъчен доклад заедно с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 74, ал. 3 По член 74, ал. 4 ИАЛ разглежда документите по чл. 74, ал. 3 и писмено уведомява референтната държава за взетото решение в срок от 90 дни от получаването им В срок 30 дни от получаване на уведомление за приключване на процедурата от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 74, ал. 5 Когато ИАЛ не одобри представената документация по чл. 74, ал. 3 по съображения за потенциален сериозен риск за здравето на населението, изготвя доклад с мотиви до референтната държава, до другите засегнати държави и до заявителя, съгласно чл.77,ал.1 Спорните въпроси по чл. 77, ал. 1 се разглеждат от Координационната група на държавите членки, съгласно чл. 77, ал. 2 и ал. 3 В срок 30 дни от получаване на уведомление за приключване на процедурата по чл. 77 ал. 1, ал. 2 и ал. 3 от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 77, ал. 4 Когато в процедурата по чл. 77, ал. 2 държавите членки не постигнат съгласие, процедурата протича съгласно чл. 78",
+        "feature_tags": [
+          "reports",
+          "sameness",
+          "decision_clock",
+          "scope_limit",
+          "discretion"
+        ],
+        "role": "Bulgaria as concerned state",
+        "language": "bg",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "The Bulgarian body text cites the national legal authority, requires the identical CTD and receives the reference state report. It specifies 90-day consideration and national authorisation within 30 days of procedure completion. This page is Bulgarian despite its English URL.",
+        "version_alignment": "Current preserved source version; date of first adoption not inferred",
+        "evidence_tier": "national_rule",
+        "section_article": "Bulgaria as concerned state",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "BGR-CONTEXT-1",
+        "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+        "raw_sha256": "0fcb17b3b0a5078d805356d6344df70304da494772f0c09e0371a6785f7a894b",
+        "text_sha256": "5bef048442595ff5236cc5499fbca93c73b127de0f5e54f143e8bca0b771e621",
+        "start_offset": 0,
+        "end_offset": 8015,
+        "verbatim_extracted_text": "Administrative services\nIssue of  Marketing Authorization of  pharmaceutical product via Mutual Recognition Procedure\nИЗДАВАНЕ НА РАЗРЕШЕНИЕ ЗА УПОТРЕБА НА ЛЕКАРСТВЕН ПРОДУКТ ПО ПРОЦЕДУРА ПО ВЗАИМНО ПРИЗНАВАНЕ\nІ. Наименование на административната услуга:\nИздаване на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nІІ. Правно основание:\nПроцедурата е регламентирана в Закон за лекарствените продукти в хуманната медицина /ЗЛПХМ/  в чл. 23, ал.3, т.2.; чл. 26; чл. 27- чл. 32; чл.74, ал.5 или  чл.76, ал.1 и ал.2.\nНаредба № 27\nза изискванията към данните и документацията за разрешаване за употреба и регистрация на лекарствени продукти по: чл. 7- чл. 13 и приложенията към тях.\nНаредба 38\nза изискванията към данните върху опаковките и листовките на лекарствените продукти чл. 3, чл. 4, чл. 5, чл. 6, чл. 7, чл. 8, чл. 9.\nІІІ. Характеристика:\nЦел:\nДа регламентира издаването на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nПредмет:\nОценка на данните, които съдържа документацията за разрешаване за употреба на лекарствен продукт по т. ІV “Необходими документи”.\nІV. Процедура по извършване на административната услуга:\nКомпетентен орган:\nИзпълнителният директор на Изпълнителна агенция по лекарствата (ИАЛ) издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет(и) на опаковката (опаковките).\nЗаявител\n:\nФизическо или юридическо лице, което е установено на територията на държава членка или на държава от Европейското икономическо пространство, според изискванията на чл. 26 ал.1, 2 и 3 от ЗЛПХМ.\nНеобходими документи:\nЗаявление\nза разрешаване за употреба\nпо образец\nи\nдосие\nвъв формат “Общ технически документ”, съгласно чл. 27, от ЗЛПХМ и чл. 2 - чл. 6 от Наредба № 27. Досието се представя в пет модула и съответните приложения към тях, съгласно чл. 7 от Наредба № 27:\nМодул 1: Административна информация:\nМодул 2: Резюмета на данните в модули 3, 4 и 5\nМодул 3: Качество\nМодул 4: Доклади от неклинични изпитвания\nМодул 5: Доклади от клинични изпитвания\nВ зависимост от вида на лекарствения продукт и типа на заявлението представената документация следва да отговаря на изискванията на чл. 27 - 31 от ЗЛПХМ  и на чл. 2, ал. 1 - 6, чл. 3 - 6, чл. 7, ал. 1 - 8, чл. 8 – чл. 13 и съответните Приложения от Наредба № 27:\nПриложение № 1 към чл. 7, ал. 1, т.1, буква “а”;\nПриложения № 2, № 2.1, № 2.2 и № 2.3 към чл. 7, ал. 1, т.1, буква “а”;\nПриложение № 3 към чл. 7, ал. 1, т.1, буква “б”;\nПриложения № 4, № 4.1 и № 4.2 към чл. 7, ал. 1, т.1, буква “в”;\nПриложение № 5 към чл. 7, ал. 1, т.1, буква “г”;\nПриложения № 6 към чл. 7, ал. 1, т.1, буква “д” и № 6.1 към чл. 7, ал. 3;\nПриложения № 7 към чл. 7, ал. 4;\nПриложение № 8 към чл. 7, ал. 5;\nПриложение № 9 към чл. 9;\nПриложение № 10 към чл. 10;\nПриложение №11 към чл. 11.\nВътрешен ход на процедурата\nІ. Когато България е\nзасегната държава\nпо чл. 74\nЗаявление за разрешаване за употреба и досие във формат “Общ технически документ”,  идентично на подаденото в референтната държава и другите засегнати държави, се подава във деловодството на ИАЛ и се предоставя на съответната дирекция, където ще се извърши оценката на документацията.\nИАЛ получава по служебен път от референтната държава оценъчен доклад заедно с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 74, ал. 3\nПо член 74, ал. 4 ИАЛ разглежда документите по чл. 74, ал. 3 и писмено уведомява референтната държава за взетото решение в срок от 90 дни от получаването им\nВ срок 30 дни от  получаване на уведомление за приключване на процедурата от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 74, ал. 5\nКогато ИАЛ не одобри представената документация по чл. 74, ал. 3 по съображения за потенциален сериозен риск за здравето на населението, изготвя доклад с мотиви до референтната държава, до другите засегнати държави и до заявителя, съгласно чл.77,ал.1\nСпорните въпроси по чл. 77, ал. 1 се разглеждат от Координационната група на държавите членки, съгласно чл. 77, ал. 2 и ал. 3\nВ срок 30 дни от  получаване на уведомление за приключване на процедурата по чл. 77 ал. 1, ал. 2 и ал. 3 от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 77, ал. 4\nКогато в процедурата по чл. 77, ал. 2 държавите членки не постигнат съгласие, процедурата протича съгласно чл. 78\nІІ. Когато България е\nреферентна държава\nпо чл. 74\nВ срок 90 дни от  датата на подаване на валидна документация, ИАЛ изпраща на  засегнатите държави и на заявителя оценъчния доклад, придружен с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 76, ал. 1, т. 1\nИАЛ закрива процедурата и уведомява заявителя и засегнатите държави, ако всички засегнатите държави са я одобрили, съгласно чл. 76, ал. 1, т. 2\nВ срок 30 дни от закриването  на процедурата по чл. 76, ал. 1, т. 2 изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 76, ал. 2\nВалидност на разрешението за употреба\nРазрешението за употреба е валидно за срок от пет години, или до съгласуваната обща дата за подновяване, считано от датата на вписването му в Регистъра по чл. 19, ал.1, т.3 от ЗЛПХМ.\nІІІ. Такси:\n1. За една лекарствена форма и за едно количество на активното вещество се събират следните такси:\n1.1 За разрешаване за употреба на лекарствен продукт по чл. 27, ал. 1 от Закона за лекарствените продукти в хуманната медицина (ЗЛПХМ), лекарствен продукт по чл. 30, ал. 1 ЗЛПХМ,  лекарствен продукт по чл. 30, ал. 2 ЗЛПХМ и лекарствен продукт по чл. 31 ЗЛПХМ:\n- по процедура по взаимно признаване, когато Република България е референтна страна - 16 000 лв.;\n- по процедура по взаимно признаване, когато Република България е засегната страна - 8000 лв.;\n1.2. За разрешаване за употреба на генеричен лекарствен продукт по чл. 28 ЗЛПХМ и на лекарствен продукт по чл. 32 ЗЛПХМ:\n- по процедура по взаимно признаване, когато Република България е референтна страна - 12 000 лв.;\n- по процедура по взаимно признаване, когато Република България е засегната страна - 6000 лв.;\n1.3. За разрешаване за употреба на лекарствен продукт по чл. 29, ал. 1 ЗЛПХМ и лекарствен продукт по чл. 29, ал. 2 ЗЛПХМ:\n- по процедура по взаимно признаване, когато Република България е референтна страна - 16 000 лв.;\n- по процедура по взаимно признаване, когато Република България е засегната страна - 8000 лв.;\n2. За всяка различна лекарствена форма, за която заявлението е подадено едновременно с първоначалното заявление за разрешаване за употреба, се събира такса в размер 75 на сто от таксата, определена по реда на ал. 1 на чл. 1 от Тарифата за таксите, които се събират по Закона за лекарствените продукти в хуманната медицина (\nПостановление № 296 на Министерски съвет)\n3. За всяко различно количество на активното вещество, за което заявлението е подадено едновременно с първоначалното заявление за разрешаване за употреба, се събира такса в размер 25 на сто от таксата, определена по реда на ал. 1 от Тарифата за таксите, които се събират по Закона за лекарствените продукти в хуманната медицина (\nПостановление № 296 на Министерски съвет);\nІV. Резултат от процедурата\nИзпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Репубика България..\nV. Образци на документи:\nЗаявление (по образец) за разрешаване за употреба на лекарствен продукт.\nУказания за попълване на заявление за употреба на лекарствен продукт\nРъководство за електронно подаване на документи sCTD и Nees ver.04, 31.03.2009",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "bg",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Current preserved source version; first operative date not inferred"
+      },
+      {
+        "clause_id": "BGR-CTX-1",
+        "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+        "raw_sha256": "0fcb17b3b0a5078d805356d6344df70304da494772f0c09e0371a6785f7a894b",
+        "text_sha256": "5bef048442595ff5236cc5499fbca93c73b127de0f5e54f143e8bca0b771e621",
+        "start_offset": 0,
+        "end_offset": 3500,
+        "verbatim_extracted_text": "Administrative services\nIssue of  Marketing Authorization of  pharmaceutical product via Mutual Recognition Procedure\nИЗДАВАНЕ НА РАЗРЕШЕНИЕ ЗА УПОТРЕБА НА ЛЕКАРСТВЕН ПРОДУКТ ПО ПРОЦЕДУРА ПО ВЗАИМНО ПРИЗНАВАНЕ\nІ. Наименование на административната услуга:\nИздаване на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nІІ. Правно основание:\nПроцедурата е регламентирана в Закон за лекарствените продукти в хуманната медицина /ЗЛПХМ/  в чл. 23, ал.3, т.2.; чл. 26; чл. 27- чл. 32; чл.74, ал.5 или  чл.76, ал.1 и ал.2.\nНаредба № 27\nза изискванията към данните и документацията за разрешаване за употреба и регистрация на лекарствени продукти по: чл. 7- чл. 13 и приложенията към тях.\nНаредба 38\nза изискванията към данните върху опаковките и листовките на лекарствените продукти чл. 3, чл. 4, чл. 5, чл. 6, чл. 7, чл. 8, чл. 9.\nІІІ. Характеристика:\nЦел:\nДа регламентира издаването на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nПредмет:\nОценка на данните, които съдържа документацията за разрешаване за употреба на лекарствен продукт по т. ІV “Необходими документи”.\nІV. Процедура по извършване на административната услуга:\nКомпетентен орган:\nИзпълнителният директор на Изпълнителна агенция по лекарствата (ИАЛ) издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет(и) на опаковката (опаковките).\nЗаявител\n:\nФизическо или юридическо лице, което е установено на територията на държава членка или на държава от Европейското икономическо пространство, според изискванията на чл. 26 ал.1, 2 и 3 от ЗЛПХМ.\nНеобходими документи:\nЗаявление\nза разрешаване за употреба\nпо образец\nи\nдосие\nвъв формат “Общ технически документ”, съгласно чл. 27, от ЗЛПХМ и чл. 2 - чл. 6 от Наредба № 27. Досието се представя в пет модула и съответните приложения към тях, съгласно чл. 7 от Наредба № 27:\nМодул 1: Административна информация:\nМодул 2: Резюмета на данните в модули 3, 4 и 5\nМодул 3: Качество\nМодул 4: Доклади от неклинични изпитвания\nМодул 5: Доклади от клинични изпитвания\nВ зависимост от вида на лекарствения продукт и типа на заявлението представената документация следва да отговаря на изискванията на чл. 27 - 31 от ЗЛПХМ  и на чл. 2, ал. 1 - 6, чл. 3 - 6, чл. 7, ал. 1 - 8, чл. 8 – чл. 13 и съответните Приложения от Наредба № 27:\nПриложение № 1 към чл. 7, ал. 1, т.1, буква “а”;\nПриложения № 2, № 2.1, № 2.2 и № 2.3 към чл. 7, ал. 1, т.1, буква “а”;\nПриложение № 3 към чл. 7, ал. 1, т.1, буква “б”;\nПриложения № 4, № 4.1 и № 4.2 към чл. 7, ал. 1, т.1, буква “в”;\nПриложение № 5 към чл. 7, ал. 1, т.1, буква “г”;\nПриложения № 6 към чл. 7, ал. 1, т.1, буква “д” и № 6.1 към чл. 7, ал. 3;\nПриложения № 7 към чл. 7, ал. 4;\nПриложение № 8 към чл. 7, ал. 5;\nПриложение № 9 към чл. 9;\nПриложение № 10 към чл. 10;\nПриложение №11 към чл. 11.\nВътрешен ход на процедурата\nІ. Когато България е\nзасегната държава\nпо чл. 74\nЗаявление за разрешаване за употреба и досие във формат “Общ технически документ”,  идентично на подаденото в референтната държава и другите засегнати държави, се подава във деловодството на ИАЛ и се предоставя на съответната дирекция, където ще се извърши оценката на документацията.\nИАЛ получава по служебен път от референтната държава оценъчен доклад заедно с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 74, ал. 3\nПо член 74, ал. 4 ИАЛ разглежда документите по чл. 74, ал. 3 и писмено уведомява референтнат",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "bg",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Current preserved source version; first operative date not inferred"
+      },
+      {
+        "clause_id": "BGR-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "BGR",
+      "country": "Bulgaria",
+      "selected_document_id": "F250_caf770183fae77715086_0fcb17b3b0a5",
+      "source_id": "F250_caf770183fae77715086",
+      "pathway": "EU/EEA mutual recognition",
+      "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+      "document_title": "Bulgarian Drug Agency: issue of marketing authorisation via MRP",
+      "source_type": "Official administrative procedure",
+      "scope": "Human-medicine authorisation",
+      "language": "bg",
+      "translation_provenance": "Original-language contextual interpretation; no unchecked machine translation treated as authoritative",
+      "raw_sha256": "0fcb17b3b0a5078d805356d6344df70304da494772f0c09e0371a6785f7a894b",
+      "raw_hash_validated": true,
+      "text_sha256": "5bef048442595ff5236cc5499fbca93c73b127de0f5e54f143e8bca0b771e621",
+      "version_dates": {},
+      "version_scope_note": "BDA Bulgarian administrative MRP requirements, national law/ordinances and dossier requirements.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          0,
+          8015
+        ],
+        [
+          0,
+          3500
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "outside pathway scope",
+          "finding": "Selected MRP requires a national EEA reference Member State authorisation; FDA and an EC centralised authorisation are not that national RMS approval.",
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same/identical dossier submitted to RMS and concerned states under MRP; local administrative documents remain.",
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Full/public report contrast is not decisive because national RMS prior approval is missing on fixed facts.",
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "explicit requirement",
+          "finding": "RMS scientific assessment is circulated/shared for national recognition; not a manufacturer public-report-only shortcut.",
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Member States assess/recognise RMS conclusions; serious-public-health-risk objections and coordination/referral may remain.",
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "local_representative": {
+          "state": "explicit requirement",
+          "finding": "Applicant established in EU/EEA.",
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "New active substance fee depends on RMS/CMS role; not full economic compliance cost.",
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "MRP 90 days plus national 30 days, with stated referral/deficiency rules.",
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGR-R01",
+            "BGR-R02",
+            "BGR-CONTEXT-1",
+            "BGR-CTX-1",
+            "BGR-SHARED-EC"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "BGR-SHARED-EC"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "BGR-R01",
+          "iso3": "BGR",
+          "event_id": null,
+          "document_id": "F250_caf770183fae77715086_0fcb17b3b0a5",
+          "source_id": "F250_caf770183fae77715086",
+          "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+          "raw_sha256": "0fcb17b3b0a5078d805356d6344df70304da494772f0c09e0371a6785f7a894b",
+          "text_sha256": "5bef048442595ff5236cc5499fbca93c73b127de0f5e54f143e8bca0b771e621",
+          "start_offset": 348,
+          "end_offset": 1474,
+          "pdf_page": null,
+          "verbatim_extracted_text": "ІІ. Правно основание:\nПроцедурата е регламентирана в Закон за лекарствените продукти в хуманната медицина /ЗЛПХМ/  в чл. 23, ал.3, т.2.; чл. 26; чл. 27- чл. 32; чл.74, ал.5 или  чл.76, ал.1 и ал.2.\nНаредба № 27\nза изискванията към данните и документацията за разрешаване за употреба и регистрация на лекарствени продукти по: чл. 7- чл. 13 и приложенията към тях.\nНаредба 38\nза изискванията към данните върху опаковките и листовките на лекарствените продукти чл. 3, чл. 4, чл. 5, чл. 6, чл. 7, чл. 8, чл. 9.\nІІІ. Характеристика:\nЦел:\nДа регламентира издаването на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nПредмет:\nОценка на данните, които съдържа документацията за разрешаване за употреба на лекарствен продукт по т. ІV “Необходими документи”.\nІV. Процедура по извършване на административната услуга:\nКомпетентен орган:\nИзпълнителният директор на Изпълнителна агенция по лекарствата (ИАЛ) издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет(и) на опаковката (опаковките).\n",
+          "display_text": "ІІ. Правно основание: Процедурата е регламентирана в Закон за лекарствените продукти в хуманната медицина /ЗЛПХМ/ в чл. 23, ал.3, т.2.; чл. 26; чл. 27- чл. 32; чл.74, ал.5 или чл.76, ал.1 и ал.2. Наредба № 27 за изискванията към данните и документацията за разрешаване за употреба и регистрация на лекарствени продукти по: чл. 7- чл. 13 и приложенията към тях. Наредба 38 за изискванията към данните върху опаковките и листовките на лекарствените продукти чл. 3, чл. 4, чл. 5, чл. 6, чл. 7, чл. 8, чл. 9. ІІІ. Характеристика: Цел: Да регламентира издаването на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване. Предмет: Оценка на данните, които съдържа документацията за разрешаване за употреба на лекарствен продукт по т. ІV “Необходими документи”. ІV. Процедура по извършване на административната услуга: Компетентен орган: Изпълнителният директор на Изпълнителна агенция по лекарствата (ИАЛ) издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет(и) на опаковката (опаковките).",
+          "feature_tags": [
+            "scope_limit"
+          ],
+          "role": "Legal basis and national competence",
+          "language": "bg",
+          "language_status": "Original official-language source retained; no unchecked English translation displayed",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "The Bulgarian body text cites the national legal authority, requires the identical CTD and receives the reference state report. It specifies 90-day consideration and national authorisation within 30 days of procedure completion. This page is Bulgarian despite its English URL.",
+          "version_alignment": "Current preserved source version; date of first adoption not inferred",
+          "evidence_tier": "national_rule",
+          "section_article": "Legal basis and national competence",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "BGR-R02",
+          "iso3": "BGR",
+          "event_id": null,
+          "document_id": "F250_caf770183fae77715086_0fcb17b3b0a5",
+          "source_id": "F250_caf770183fae77715086",
+          "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+          "raw_sha256": "0fcb17b3b0a5078d805356d6344df70304da494772f0c09e0371a6785f7a894b",
+          "text_sha256": "5bef048442595ff5236cc5499fbca93c73b127de0f5e54f143e8bca0b771e621",
+          "start_offset": 2903,
+          "end_offset": 4755,
+          "pdf_page": null,
+          "verbatim_extracted_text": "Вътрешен ход на процедурата\nІ. Когато България е\nзасегната държава\nпо чл. 74\nЗаявление за разрешаване за употреба и досие във формат “Общ технически документ”,  идентично на подаденото в референтната държава и другите засегнати държави, се подава във деловодството на ИАЛ и се предоставя на съответната дирекция, където ще се извърши оценката на документацията.\nИАЛ получава по служебен път от референтната държава оценъчен доклад заедно с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 74, ал. 3\nПо член 74, ал. 4 ИАЛ разглежда документите по чл. 74, ал. 3 и писмено уведомява референтната държава за взетото решение в срок от 90 дни от получаването им\nВ срок 30 дни от  получаване на уведомление за приключване на процедурата от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 74, ал. 5\nКогато ИАЛ не одобри представената документация по чл. 74, ал. 3 по съображения за потенциален сериозен риск за здравето на населението, изготвя доклад с мотиви до референтната държава, до другите засегнати държави и до заявителя, съгласно чл.77,ал.1\nСпорните въпроси по чл. 77, ал. 1 се разглеждат от Координационната група на държавите членки, съгласно чл. 77, ал. 2 и ал. 3\nВ срок 30 дни от  получаване на уведомление за приключване на процедурата по чл. 77 ал. 1, ал. 2 и ал. 3 от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 77, ал. 4\nКогато в процедурата по чл. 77, ал. 2 държавите членки не постигнат съгласие, процедурата протича съгласно чл. 78\n",
+          "display_text": "Вътрешен ход на процедурата І. Когато България е засегната държава по чл. 74 Заявление за разрешаване за употреба и досие във формат “Общ технически документ”, идентично на подаденото в референтната държава и другите засегнати държави, се подава във деловодството на ИАЛ и се предоставя на съответната дирекция, където ще се извърши оценката на документацията. ИАЛ получава по служебен път от референтната държава оценъчен доклад заедно с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 74, ал. 3 По член 74, ал. 4 ИАЛ разглежда документите по чл. 74, ал. 3 и писмено уведомява референтната държава за взетото решение в срок от 90 дни от получаването им В срок 30 дни от получаване на уведомление за приключване на процедурата от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 74, ал. 5 Когато ИАЛ не одобри представената документация по чл. 74, ал. 3 по съображения за потенциален сериозен риск за здравето на населението, изготвя доклад с мотиви до референтната държава, до другите засегнати държави и до заявителя, съгласно чл.77,ал.1 Спорните въпроси по чл. 77, ал. 1 се разглеждат от Координационната група на държавите членки, съгласно чл. 77, ал. 2 и ал. 3 В срок 30 дни от получаване на уведомление за приключване на процедурата по чл. 77 ал. 1, ал. 2 и ал. 3 от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 77, ал. 4 Когато в процедурата по чл. 77, ал. 2 държавите членки не постигнат съгласие, процедурата протича съгласно чл. 78",
+          "feature_tags": [
+            "reports",
+            "sameness",
+            "decision_clock",
+            "scope_limit",
+            "discretion"
+          ],
+          "role": "Bulgaria as concerned state",
+          "language": "bg",
+          "language_status": "Original official-language source retained; no unchecked English translation displayed",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "The Bulgarian body text cites the national legal authority, requires the identical CTD and receives the reference state report. It specifies 90-day consideration and national authorisation within 30 days of procedure completion. This page is Bulgarian despite its English URL.",
+          "version_alignment": "Current preserved source version; date of first adoption not inferred",
+          "evidence_tier": "national_rule",
+          "section_article": "Bulgaria as concerned state",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "BGR-CONTEXT-1",
+          "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+          "raw_sha256": "0fcb17b3b0a5078d805356d6344df70304da494772f0c09e0371a6785f7a894b",
+          "text_sha256": "5bef048442595ff5236cc5499fbca93c73b127de0f5e54f143e8bca0b771e621",
+          "start_offset": 0,
+          "end_offset": 8015,
+          "verbatim_extracted_text": "Administrative services\nIssue of  Marketing Authorization of  pharmaceutical product via Mutual Recognition Procedure\nИЗДАВАНЕ НА РАЗРЕШЕНИЕ ЗА УПОТРЕБА НА ЛЕКАРСТВЕН ПРОДУКТ ПО ПРОЦЕДУРА ПО ВЗАИМНО ПРИЗНАВАНЕ\nІ. Наименование на административната услуга:\nИздаване на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nІІ. Правно основание:\nПроцедурата е регламентирана в Закон за лекарствените продукти в хуманната медицина /ЗЛПХМ/  в чл. 23, ал.3, т.2.; чл. 26; чл. 27- чл. 32; чл.74, ал.5 или  чл.76, ал.1 и ал.2.\nНаредба № 27\nза изискванията към данните и документацията за разрешаване за употреба и регистрация на лекарствени продукти по: чл. 7- чл. 13 и приложенията към тях.\nНаредба 38\nза изискванията към данните върху опаковките и листовките на лекарствените продукти чл. 3, чл. 4, чл. 5, чл. 6, чл. 7, чл. 8, чл. 9.\nІІІ. Характеристика:\nЦел:\nДа регламентира издаването на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nПредмет:\nОценка на данните, които съдържа документацията за разрешаване за употреба на лекарствен продукт по т. ІV “Необходими документи”.\nІV. Процедура по извършване на административната услуга:\nКомпетентен орган:\nИзпълнителният директор на Изпълнителна агенция по лекарствата (ИАЛ) издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет(и) на опаковката (опаковките).\nЗаявител\n:\nФизическо или юридическо лице, което е установено на територията на държава членка или на държава от Европейското икономическо пространство, според изискванията на чл. 26 ал.1, 2 и 3 от ЗЛПХМ.\nНеобходими документи:\nЗаявление\nза разрешаване за употреба\nпо образец\nи\nдосие\nвъв формат “Общ технически документ”, съгласно чл. 27, от ЗЛПХМ и чл. 2 - чл. 6 от Наредба № 27. Досието се представя в пет модула и съответните приложения към тях, съгласно чл. 7 от Наредба № 27:\nМодул 1: Административна информация:\nМодул 2: Резюмета на данните в модули 3, 4 и 5\nМодул 3: Качество\nМодул 4: Доклади от неклинични изпитвания\nМодул 5: Доклади от клинични изпитвания\nВ зависимост от вида на лекарствения продукт и типа на заявлението представената документация следва да отговаря на изискванията на чл. 27 - 31 от ЗЛПХМ  и на чл. 2, ал. 1 - 6, чл. 3 - 6, чл. 7, ал. 1 - 8, чл. 8 – чл. 13 и съответните Приложения от Наредба № 27:\nПриложение № 1 към чл. 7, ал. 1, т.1, буква “а”;\nПриложения № 2, № 2.1, № 2.2 и № 2.3 към чл. 7, ал. 1, т.1, буква “а”;\nПриложение № 3 към чл. 7, ал. 1, т.1, буква “б”;\nПриложения № 4, № 4.1 и № 4.2 към чл. 7, ал. 1, т.1, буква “в”;\nПриложение № 5 към чл. 7, ал. 1, т.1, буква “г”;\nПриложения № 6 към чл. 7, ал. 1, т.1, буква “д” и № 6.1 към чл. 7, ал. 3;\nПриложения № 7 към чл. 7, ал. 4;\nПриложение № 8 към чл. 7, ал. 5;\nПриложение № 9 към чл. 9;\nПриложение № 10 към чл. 10;\nПриложение №11 към чл. 11.\nВътрешен ход на процедурата\nІ. Когато България е\nзасегната държава\nпо чл. 74\nЗаявление за разрешаване за употреба и досие във формат “Общ технически документ”,  идентично на подаденото в референтната държава и другите засегнати държави, се подава във деловодството на ИАЛ и се предоставя на съответната дирекция, където ще се извърши оценката на документацията.\nИАЛ получава по служебен път от референтната държава оценъчен доклад заедно с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 74, ал. 3\nПо член 74, ал. 4 ИАЛ разглежда документите по чл. 74, ал. 3 и писмено уведомява референтната държава за взетото решение в срок от 90 дни от получаването им\nВ срок 30 дни от  получаване на уведомление за приключване на процедурата от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 74, ал. 5\nКогато ИАЛ не одобри представената документация по чл. 74, ал. 3 по съображения за потенциален сериозен риск за здравето на населението, изготвя доклад с мотиви до референтната държава, до другите засегнати държави и до заявителя, съгласно чл.77,ал.1\nСпорните въпроси по чл. 77, ал. 1 се разглеждат от Координационната група на държавите членки, съгласно чл. 77, ал. 2 и ал. 3\nВ срок 30 дни от  получаване на уведомление за приключване на процедурата по чл. 77 ал. 1, ал. 2 и ал. 3 от референтната държава изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 77, ал. 4\nКогато в процедурата по чл. 77, ал. 2 държавите членки не постигнат съгласие, процедурата протича съгласно чл. 78\nІІ. Когато България е\nреферентна държава\nпо чл. 74\nВ срок 90 дни от  датата на подаване на валидна документация, ИАЛ изпраща на  засегнатите държави и на заявителя оценъчния доклад, придружен с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 76, ал. 1, т. 1\nИАЛ закрива процедурата и уведомява заявителя и засегнатите държави, ако всички засегнатите държави са я одобрили, съгласно чл. 76, ал. 1, т. 2\nВ срок 30 дни от закриването  на процедурата по чл. 76, ал. 1, т. 2 изпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет на опаковката, съгласно чл. 76, ал. 2\nВалидност на разрешението за употреба\nРазрешението за употреба е валидно за срок от пет години, или до съгласуваната обща дата за подновяване, считано от датата на вписването му в Регистъра по чл. 19, ал.1, т.3 от ЗЛПХМ.\nІІІ. Такси:\n1. За една лекарствена форма и за едно количество на активното вещество се събират следните такси:\n1.1 За разрешаване за употреба на лекарствен продукт по чл. 27, ал. 1 от Закона за лекарствените продукти в хуманната медицина (ЗЛПХМ), лекарствен продукт по чл. 30, ал. 1 ЗЛПХМ,  лекарствен продукт по чл. 30, ал. 2 ЗЛПХМ и лекарствен продукт по чл. 31 ЗЛПХМ:\n- по процедура по взаимно признаване, когато Република България е референтна страна - 16 000 лв.;\n- по процедура по взаимно признаване, когато Република България е засегната страна - 8000 лв.;\n1.2. За разрешаване за употреба на генеричен лекарствен продукт по чл. 28 ЗЛПХМ и на лекарствен продукт по чл. 32 ЗЛПХМ:\n- по процедура по взаимно признаване, когато Република България е референтна страна - 12 000 лв.;\n- по процедура по взаимно признаване, когато Република България е засегната страна - 6000 лв.;\n1.3. За разрешаване за употреба на лекарствен продукт по чл. 29, ал. 1 ЗЛПХМ и лекарствен продукт по чл. 29, ал. 2 ЗЛПХМ:\n- по процедура по взаимно признаване, когато Република България е референтна страна - 16 000 лв.;\n- по процедура по взаимно признаване, когато Република България е засегната страна - 8000 лв.;\n2. За всяка различна лекарствена форма, за която заявлението е подадено едновременно с първоначалното заявление за разрешаване за употреба, се събира такса в размер 75 на сто от таксата, определена по реда на ал. 1 на чл. 1 от Тарифата за таксите, които се събират по Закона за лекарствените продукти в хуманната медицина (\nПостановление № 296 на Министерски съвет)\n3. За всяко различно количество на активното вещество, за което заявлението е подадено едновременно с първоначалното заявление за разрешаване за употреба, се събира такса в размер 25 на сто от таксата, определена по реда на ал. 1 от Тарифата за таксите, които се събират по Закона за лекарствените продукти в хуманната медицина (\nПостановление № 296 на Министерски съвет);\nІV. Резултат от процедурата\nИзпълнителният директор на ИАЛ издава разрешение за употреба на лекарствен продукт на територията на Репубика България..\nV. Образци на документи:\nЗаявление (по образец) за разрешаване за употреба на лекарствен продукт.\nУказания за попълване на заявление за употреба на лекарствен продукт\nРъководство за електронно подаване на документи sCTD и Nees ver.04, 31.03.2009",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "bg",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Current preserved source version; first operative date not inferred"
+        },
+        {
+          "clause_id": "BGR-CTX-1",
+          "source_url": "https://bda.bg/en/administrative-services/937-issue-of-marketing-authorization-of-pharmaceutical-product-via-mutual-recognition-procedure",
+          "raw_sha256": "0fcb17b3b0a5078d805356d6344df70304da494772f0c09e0371a6785f7a894b",
+          "text_sha256": "5bef048442595ff5236cc5499fbca93c73b127de0f5e54f143e8bca0b771e621",
+          "start_offset": 0,
+          "end_offset": 3500,
+          "verbatim_extracted_text": "Administrative services\nIssue of  Marketing Authorization of  pharmaceutical product via Mutual Recognition Procedure\nИЗДАВАНЕ НА РАЗРЕШЕНИЕ ЗА УПОТРЕБА НА ЛЕКАРСТВЕН ПРОДУКТ ПО ПРОЦЕДУРА ПО ВЗАИМНО ПРИЗНАВАНЕ\nІ. Наименование на административната услуга:\nИздаване на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nІІ. Правно основание:\nПроцедурата е регламентирана в Закон за лекарствените продукти в хуманната медицина /ЗЛПХМ/  в чл. 23, ал.3, т.2.; чл. 26; чл. 27- чл. 32; чл.74, ал.5 или  чл.76, ал.1 и ал.2.\nНаредба № 27\nза изискванията към данните и документацията за разрешаване за употреба и регистрация на лекарствени продукти по: чл. 7- чл. 13 и приложенията към тях.\nНаредба 38\nза изискванията към данните върху опаковките и листовките на лекарствените продукти чл. 3, чл. 4, чл. 5, чл. 6, чл. 7, чл. 8, чл. 9.\nІІІ. Характеристика:\nЦел:\nДа регламентира издаването на разрешение за употреба на лекарствен продукт по процедура по взаимно признаване.\nПредмет:\nОценка на данните, които съдържа документацията за разрешаване за употреба на лекарствен продукт по т. ІV “Необходими документи”.\nІV. Процедура по извършване на административната услуга:\nКомпетентен орган:\nИзпълнителният директор на Изпълнителна агенция по лекарствата (ИАЛ) издава разрешение за употреба на лекарствен продукт на територията на Република България, с одобрените кратка характеристика на продукта, листовка за пациента и макет(и) на опаковката (опаковките).\nЗаявител\n:\nФизическо или юридическо лице, което е установено на територията на държава членка или на държава от Европейското икономическо пространство, според изискванията на чл. 26 ал.1, 2 и 3 от ЗЛПХМ.\nНеобходими документи:\nЗаявление\nза разрешаване за употреба\nпо образец\nи\nдосие\nвъв формат “Общ технически документ”, съгласно чл. 27, от ЗЛПХМ и чл. 2 - чл. 6 от Наредба № 27. Досието се представя в пет модула и съответните приложения към тях, съгласно чл. 7 от Наредба № 27:\nМодул 1: Административна информация:\nМодул 2: Резюмета на данните в модули 3, 4 и 5\nМодул 3: Качество\nМодул 4: Доклади от неклинични изпитвания\nМодул 5: Доклади от клинични изпитвания\nВ зависимост от вида на лекарствения продукт и типа на заявлението представената документация следва да отговаря на изискванията на чл. 27 - 31 от ЗЛПХМ  и на чл. 2, ал. 1 - 6, чл. 3 - 6, чл. 7, ал. 1 - 8, чл. 8 – чл. 13 и съответните Приложения от Наредба № 27:\nПриложение № 1 към чл. 7, ал. 1, т.1, буква “а”;\nПриложения № 2, № 2.1, № 2.2 и № 2.3 към чл. 7, ал. 1, т.1, буква “а”;\nПриложение № 3 към чл. 7, ал. 1, т.1, буква “б”;\nПриложения № 4, № 4.1 и № 4.2 към чл. 7, ал. 1, т.1, буква “в”;\nПриложение № 5 към чл. 7, ал. 1, т.1, буква “г”;\nПриложения № 6 към чл. 7, ал. 1, т.1, буква “д” и № 6.1 към чл. 7, ал. 3;\nПриложения № 7 към чл. 7, ал. 4;\nПриложение № 8 към чл. 7, ал. 5;\nПриложение № 9 към чл. 9;\nПриложение № 10 към чл. 10;\nПриложение №11 към чл. 11.\nВътрешен ход на процедурата\nІ. Когато България е\nзасегната държава\nпо чл. 74\nЗаявление за разрешаване за употреба и досие във формат “Общ технически документ”,  идентично на подаденото в референтната държава и другите засегнати държави, се подава във деловодството на ИАЛ и се предоставя на съответната дирекция, където ще се извърши оценката на документацията.\nИАЛ получава по служебен път от референтната държава оценъчен доклад заедно с одобрените КХП, ЛП и макет на опаковката, съгласно чл. 74, ал. 3\nПо член 74, ал. 4 ИАЛ разглежда документите по чл. 74, ал. 3 и писмено уведомява референтнат",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "bg",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Current preserved source version; first operative date not inferred"
+        },
+        {
+          "clause_id": "BGR-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

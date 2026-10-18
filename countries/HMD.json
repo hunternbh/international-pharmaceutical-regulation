@@ -63,5 +63,35 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "HMD",
+    "country": "Heard Island and McDonald Islands",
+    "sample": "inventory_without_resolved_country_specific_case",
+    "primary_comparison": false,
+    "finding": "The inventory retains discovery/shared-programme evidence where present, but no complete country-specific standardized-drug route is coded here. This is not a finding of no reliance law.",
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "No resolved country-specific case decision."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "No resolved country-specific case decision."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "No resolved country-specific case decision."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "No resolved country-specific case decision."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "No resolved country-specific case decision."
+      }
+    },
+    "evidence": []
   }
 }

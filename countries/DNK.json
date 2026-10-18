@@ -184,5 +184,710 @@
     "source_hashes": [
       "0a35f49d7a8a0c8cd39ad22cefd172db6d9bc9a3044c8a0c23456a025e2073b1"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "DNK",
+    "country": "Denmark",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition",
+    "source_url": "https://laegemiddelstyrelsen.dk/en/licensing/authorisation-procedures/",
+    "document_id": "F250_c8005fa19e068f4bb089_049cbec0ab16",
+    "genre": "Official procedure guidance",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Official national authorisation procedures, preserved version; centralised and MRP mechanisms separated.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Source distinguishes EC/centralised authorisation from national EU/EEA mutual recognition; FDA alone is not an MRP RMS.",
+        "evidence_ids": [
+          "DNK-WEB01",
+          "DNK-CONTEXT-1",
+          "DNK-SHARED-EC",
+          "DNK-SHARED-EC"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Existing EC MA rather than public-versus-full report availability supplies the shared authorisation effect.",
+        "evidence_ids": [
+          "DNK-WEB01",
+          "DNK-CONTEXT-1",
+          "DNK-SHARED-EC",
+          "DNK-SHARED-EC"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Shared EC centralised authorisation is distinct from a repeat national scientific assessment; MRP/DCP procedures have their own assessments/objections.",
+        "evidence_ids": [
+          "DNK-WEB01",
+          "DNK-CONTEXT-1",
+          "DNK-SHARED-EC",
+          "DNK-SHARED-EC"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DNK-WEB01",
+          "DNK-CONTEXT-1",
+          "DNK-SHARED-EC",
+          "DNK-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DNK-WEB01",
+          "DNK-CONTEXT-1",
+          "DNK-SHARED-EC",
+          "DNK-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DNK-WEB01",
+          "DNK-CONTEXT-1",
+          "DNK-SHARED-EC",
+          "DNK-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DNK-WEB01",
+          "DNK-CONTEXT-1",
+          "DNK-SHARED-EC",
+          "DNK-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "outside selected shared authorisation pathway",
+        "finding": "FDA alone does not supply EC centralised marketing authorisation or a national EEA MRP RMS approval; ordinary national route remains separate.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DNK-WEB01",
+          "DNK-CONTEXT-1",
+          "DNK-SHARED-EC",
+          "DNK-SHARED-EC"
+        ],
+        "status": "outside selected shared authorisation pathway"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "DNK-SHARED-EC"
+        ]
+      },
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "DNK-WEB01",
+        "iso3": "DNK",
+        "event_id": null,
+        "document_id": "F250_c8005fa19e068f4bb089_049cbec0ab16",
+        "source_id": "F250_c8005fa19e068f4bb089",
+        "source_url": "https://laegemiddelstyrelsen.dk/en/licensing/authorisation-procedures/",
+        "raw_sha256": "049cbec0ab1640afb641c571cc0220c033d5279ea26781672aa5f7535a606635",
+        "text_sha256": "52c707e2ee6e69883d7aa07745b59608e1c2861c7e3336b7c880ed2df9ab3176",
+        "start_offset": 3329,
+        "end_offset": 4463,
+        "pdf_page": null,
+        "verbatim_extracted_text": "Medicines must be authorised by the Danish Medicines Agency or the European Commission before they can be sold in Denmark.\nThis is also the case for natural medicinal products and strong vitamins and minerals.\nAuthorisation procedures\nCompanies can apply for a\nmarketing authorisation\nin four ways:\nThe national procedure\nThe medicine is authorised in one EU or EEA country only.\nThe centralised procedure\nThe medicine is authorised in the entire EU simultaneously.\nThe decentralised procedure (DCP)\nCompanies apply for authorisation in several EU or EEA countries simultaneously.\nThe mutual recognition procedure (MRP)\nA national marketing authorisation for a medicine in one EU or EEA country forms the basis for authorisation in another EU or EEA country.\nApplication for authorisation\nAn application for authorisation of a medicine must contain documentation for the medicine's efficacy, safety and quality.\nIf the medicine is authorised, the company will be granted a marketing authorisation.\nCompanies can find guidelines and forms for marketing authorisation applications or parallel import of medicines in the left-hand menu.\n",
+        "display_text": "Medicines must be authorised by the Danish Medicines Agency or the European Commission before they can be sold in Denmark. This is also the case for natural medicinal products and strong vitamins and minerals. Authorisation procedures Companies can apply for a marketing authorisation in four ways: The national procedure The medicine is authorised in one EU or EEA country only. The centralised procedure The medicine is authorised in the entire EU simultaneously. The decentralised procedure (DCP) Companies apply for authorisation in several EU or EEA countries simultaneously. The mutual recognition procedure (MRP) A national marketing authorisation for a medicine in one EU or EEA country forms the basis for authorisation in another EU or EEA country. Application for authorisation An application for authorisation of a medicine must contain documentation for the medicine's efficacy, safety and quality. If the medicine is authorised, the company will be granted a marketing authorisation. Companies can find guidelines and forms for marketing authorisation applications or parallel import of medicines in the left-hand menu.",
+        "feature_tags": [
+          "scope_limit"
+        ],
+        "role": "Authorisation procedures and application requirements",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "An existing EU/EEA authorisation forms the basis for another destination’s authorisation. Centralised and decentralised procedures are distinct. Efficacy, safety and quality documentation remains necessary.",
+        "version_alignment": "Official page updated 26 October 2020; update date is not the first adoption date.",
+        "evidence_tier": "national_rule",
+        "section_article": "Authorisation procedures and application requirements",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "DNK-CONTEXT-1",
+        "source_url": "https://laegemiddelstyrelsen.dk/en/licensing/authorisation-procedures/",
+        "raw_sha256": "049cbec0ab1640afb641c571cc0220c033d5279ea26781672aa5f7535a606635",
+        "text_sha256": "52c707e2ee6e69883d7aa07745b59608e1c2861c7e3336b7c880ed2df9ab3176",
+        "start_offset": 0,
+        "end_offset": 5885,
+        "verbatim_extracted_text": "Authorisation procedures\nLicensing and supervision\nBrexit\nLicensing of medicines\nAuthorisation procedures\nCompany authorisations and registrations\nSupervision and inspection\nClinical trials\nHow to evaluate evidence of the efficacy of medicines\nEvaluation of reviews\nReport suspected illegal activities\nFalsified medicines\nCompassionate use\nMedicine or not\nExport certificates\nFees\nName/address changes\nProfessional relationships and financial support, applicable to healthcare professionals and specialists\nRelationships with and financial support from companies\nMedicinal Products Committee\nPublications\nSide effects and product information\nSide effects of medicines\nSide effects of veterinary medicines\nAdditional monitoring\nNews on pharmacovigilance\nBiological and biosimilar medicinal products\nSafety updates\nPost Authorisation Safety Study\nDirect Healthcare Professional Communication\nAdverse incidents with medicines\nDrug interaction\nPharmacovigilance Council\nFind medicines\nPublications\nReimbursement and prices\nGeneral reimbursement\nIndividual reimbursement\nReimbursement thresholds\nMedicines bought in another EU/EEA country\nReimbursement Committee\nThe EU HTA regulation\nPrices of medicines\nProduct numbers\nCentral Reimbursement Register\nReimbursable nutritional products\nPublications\nPharmacies and sale of medicines\nThink before you buy\nPharmacies\nSale outside pharmacies\nOver-the-counter medicines\nSubstitution\nMedicines imported from abroad\nBuying and selling medicines online\nSale of medicines or food supplements online\nDoctors buying medicines for use in their own practices\nReport suspected illegal sale of medicines\nPrescriptions from another country\nPublications\nMedical devices\nDanish Board for Health Apps\nIncident reporting\nInterruption or discontinuation of the supply of medical devices\nNew regulations\nNew Tech – new technological possibilities and medical devices\nDevelopment of medical devices\nRegulatory advice for medical device companies\nCE marking\nNotified bodies\nRegistration and marketing\nClinical investigations\nPerformance studies of in vitro diagnostic medical devices (IVDs)\nCertificates of Free Sale\nLegislation and guidance\nPublications\nSpecial product areas\nVeterinary medicines\nNatural medicinal products and vitamin and mineral products\nEuphoriant substances\nMedical gases\nRadiopharmaceuticals\nMedicines affecting the ability to drive\nMedicinal cannabis\nRegulation of innovative medicinal products including ATMP\nAbout us\nMission, vision and strategy\nContact\nOrganisation\nWhistleblowing scheme of the Danish Medicines Agency\nThe Danish Medicines Agency funding\nManagement of conflicts of interest\nTransparency in the Danish Medicines Agency\nData protection policy\nTargets and tasks\nInternational collaboration\nDigital services\nAbout this site\nSocial media\nDesign\nCampaigns\nCopyright and logo\nCookies\nPublications\nSitemap\nNews\nSubscribe to news\nEdit subscription\nUnsubscribe\nNews categories\nThemes\nRSS Feed\nPublications\nOrder publications\n2026\n2025\n2024\n2023\n2022\n2020\n2019\n2018\n2017\n2016\n2015\n2014\n2013\n2012\n2011\n2010\n2009\n2008\n2007\n2006\nLicensing and supervision\n/\nAuthorisation procedures\nAuthorisation procedures\nUpdated 26 October 2020\nYou must accept marketing cookies to share the page by mail\nUpdate consent\nShare by mail\nYour email:\nRecipient's email:\nVerify you are a human\n...\nMedicines must be authorised by the Danish Medicines Agency or the European Commission before they can be sold in Denmark.\nThis is also the case for natural medicinal products and strong vitamins and minerals.\nAuthorisation procedures\nCompanies can apply for a\nmarketing authorisation\nin four ways:\nThe national procedure\nThe medicine is authorised in one EU or EEA country only.\nThe centralised procedure\nThe medicine is authorised in the entire EU simultaneously.\nThe decentralised procedure (DCP)\nCompanies apply for authorisation in several EU or EEA countries simultaneously.\nThe mutual recognition procedure (MRP)\nA national marketing authorisation for a medicine in one EU or EEA country forms the basis for authorisation in another EU or EEA country.\nApplication for authorisation\nAn application for authorisation of a medicine must contain documentation for the medicine's efficacy, safety and quality.\nIf the medicine is authorised, the company will be granted a marketing authorisation.\nCompanies can find guidelines and forms for marketing authorisation applications or parallel import of medicines in the left-hand menu.\nInformation about the medicine in the summary of product characteristics and package leaflet\nThe summary of product characteristics (SPC) contains the most important information about the medicine, including its efficacy, side effects, warnings, dosage, active substances, etc.\nThe SPC forms the basis for the instructions for the patient (package leaflet) which the company must formulate and supply with the medicine package. The SPC also sets the framework within which the company is allowed to advertise for the medicine.\nSPCs for medicines authorised by the Danish Medicines Agency are available in Danish at\nproduktresume.dk\nSPCs for centrally authorised medicines are available at the website of\nthe European Medicines Agency (EMA)\nWithdrawal of marketing authorisation\nIn special circumstances, the Danish Medicines Agency may\nwithdraw the marketing authorisation for a medicine\nFor example, if the risk/benefit balance  of a medicine is no longer acceptable, or if the medicine has not kept pace with scientific development.\nAuthorised and deregistered medicinal products\nList of authorised medicinal products\n(in Danish)\nList of deregistered medicinal products\n(in Danish)\nThe Medicinal Products Committee replaces the Licensing Committee\nBy the Danish Parliament's adoption of act no. 605 of 18 June 2012 amending the Danish Medicines Act, the rules governing the Medicinal Products Committee were established.",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Official page updated 26 October 2020; update date is not the first adoption date."
+      },
+      {
+        "clause_id": "DNK-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "DNK-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "DNK",
+      "country": "Denmark",
+      "selected_document_id": "F250_c8005fa19e068f4bb089_049cbec0ab16",
+      "source_id": "F250_c8005fa19e068f4bb089",
+      "pathway": "EU/EEA mutual recognition",
+      "source_url": "https://laegemiddelstyrelsen.dk/en/licensing/authorisation-procedures/",
+      "document_title": "Danish Medicines Agency: authorisation procedures",
+      "source_type": "Official procedure guidance",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "049cbec0ab1640afb641c571cc0220c033d5279ea26781672aa5f7535a606635",
+      "raw_hash_validated": true,
+      "text_sha256": "52c707e2ee6e69883d7aa07745b59608e1c2861c7e3336b7c880ed2df9ab3176",
+      "version_dates": {},
+      "version_scope_note": "Official national authorisation procedures, preserved version; centralised and MRP mechanisms separated.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          0,
+          5885
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Source distinguishes EC/centralised authorisation from national EU/EEA mutual recognition; FDA alone is not an MRP RMS.",
+          "evidence_ids": [
+            "DNK-WEB01",
+            "DNK-CONTEXT-1",
+            "DNK-SHARED-EC",
+            "DNK-SHARED-EC"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Existing EC MA rather than public-versus-full report availability supplies the shared authorisation effect.",
+          "evidence_ids": [
+            "DNK-WEB01",
+            "DNK-CONTEXT-1",
+            "DNK-SHARED-EC",
+            "DNK-SHARED-EC"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Shared EC centralised authorisation is distinct from a repeat national scientific assessment; MRP/DCP procedures have their own assessments/objections.",
+          "evidence_ids": [
+            "DNK-WEB01",
+            "DNK-CONTEXT-1",
+            "DNK-SHARED-EC",
+            "DNK-SHARED-EC"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DNK-WEB01",
+            "DNK-CONTEXT-1",
+            "DNK-SHARED-EC",
+            "DNK-SHARED-EC"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DNK-WEB01",
+            "DNK-CONTEXT-1",
+            "DNK-SHARED-EC",
+            "DNK-SHARED-EC"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DNK-WEB01",
+            "DNK-CONTEXT-1",
+            "DNK-SHARED-EC",
+            "DNK-SHARED-EC"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DNK-WEB01",
+            "DNK-CONTEXT-1",
+            "DNK-SHARED-EC",
+            "DNK-SHARED-EC"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected shared authorisation pathway",
+          "finding": "FDA alone does not supply EC centralised marketing authorisation or a national EEA MRP RMS approval; ordinary national route remains separate.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DNK-WEB01",
+            "DNK-CONTEXT-1",
+            "DNK-SHARED-EC",
+            "DNK-SHARED-EC"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "DNK-SHARED-EC"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "DNK-WEB01",
+          "iso3": "DNK",
+          "event_id": null,
+          "document_id": "F250_c8005fa19e068f4bb089_049cbec0ab16",
+          "source_id": "F250_c8005fa19e068f4bb089",
+          "source_url": "https://laegemiddelstyrelsen.dk/en/licensing/authorisation-procedures/",
+          "raw_sha256": "049cbec0ab1640afb641c571cc0220c033d5279ea26781672aa5f7535a606635",
+          "text_sha256": "52c707e2ee6e69883d7aa07745b59608e1c2861c7e3336b7c880ed2df9ab3176",
+          "start_offset": 3329,
+          "end_offset": 4463,
+          "pdf_page": null,
+          "verbatim_extracted_text": "Medicines must be authorised by the Danish Medicines Agency or the European Commission before they can be sold in Denmark.\nThis is also the case for natural medicinal products and strong vitamins and minerals.\nAuthorisation procedures\nCompanies can apply for a\nmarketing authorisation\nin four ways:\nThe national procedure\nThe medicine is authorised in one EU or EEA country only.\nThe centralised procedure\nThe medicine is authorised in the entire EU simultaneously.\nThe decentralised procedure (DCP)\nCompanies apply for authorisation in several EU or EEA countries simultaneously.\nThe mutual recognition procedure (MRP)\nA national marketing authorisation for a medicine in one EU or EEA country forms the basis for authorisation in another EU or EEA country.\nApplication for authorisation\nAn application for authorisation of a medicine must contain documentation for the medicine's efficacy, safety and quality.\nIf the medicine is authorised, the company will be granted a marketing authorisation.\nCompanies can find guidelines and forms for marketing authorisation applications or parallel import of medicines in the left-hand menu.\n",
+          "display_text": "Medicines must be authorised by the Danish Medicines Agency or the European Commission before they can be sold in Denmark. This is also the case for natural medicinal products and strong vitamins and minerals. Authorisation procedures Companies can apply for a marketing authorisation in four ways: The national procedure The medicine is authorised in one EU or EEA country only. The centralised procedure The medicine is authorised in the entire EU simultaneously. The decentralised procedure (DCP) Companies apply for authorisation in several EU or EEA countries simultaneously. The mutual recognition procedure (MRP) A national marketing authorisation for a medicine in one EU or EEA country forms the basis for authorisation in another EU or EEA country. Application for authorisation An application for authorisation of a medicine must contain documentation for the medicine's efficacy, safety and quality. If the medicine is authorised, the company will be granted a marketing authorisation. Companies can find guidelines and forms for marketing authorisation applications or parallel import of medicines in the left-hand menu.",
+          "feature_tags": [
+            "scope_limit"
+          ],
+          "role": "Authorisation procedures and application requirements",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "An existing EU/EEA authorisation forms the basis for another destination’s authorisation. Centralised and decentralised procedures are distinct. Efficacy, safety and quality documentation remains necessary.",
+          "version_alignment": "Official page updated 26 October 2020; update date is not the first adoption date.",
+          "evidence_tier": "national_rule",
+          "section_article": "Authorisation procedures and application requirements",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "DNK-CONTEXT-1",
+          "source_url": "https://laegemiddelstyrelsen.dk/en/licensing/authorisation-procedures/",
+          "raw_sha256": "049cbec0ab1640afb641c571cc0220c033d5279ea26781672aa5f7535a606635",
+          "text_sha256": "52c707e2ee6e69883d7aa07745b59608e1c2861c7e3336b7c880ed2df9ab3176",
+          "start_offset": 0,
+          "end_offset": 5885,
+          "verbatim_extracted_text": "Authorisation procedures\nLicensing and supervision\nBrexit\nLicensing of medicines\nAuthorisation procedures\nCompany authorisations and registrations\nSupervision and inspection\nClinical trials\nHow to evaluate evidence of the efficacy of medicines\nEvaluation of reviews\nReport suspected illegal activities\nFalsified medicines\nCompassionate use\nMedicine or not\nExport certificates\nFees\nName/address changes\nProfessional relationships and financial support, applicable to healthcare professionals and specialists\nRelationships with and financial support from companies\nMedicinal Products Committee\nPublications\nSide effects and product information\nSide effects of medicines\nSide effects of veterinary medicines\nAdditional monitoring\nNews on pharmacovigilance\nBiological and biosimilar medicinal products\nSafety updates\nPost Authorisation Safety Study\nDirect Healthcare Professional Communication\nAdverse incidents with medicines\nDrug interaction\nPharmacovigilance Council\nFind medicines\nPublications\nReimbursement and prices\nGeneral reimbursement\nIndividual reimbursement\nReimbursement thresholds\nMedicines bought in another EU/EEA country\nReimbursement Committee\nThe EU HTA regulation\nPrices of medicines\nProduct numbers\nCentral Reimbursement Register\nReimbursable nutritional products\nPublications\nPharmacies and sale of medicines\nThink before you buy\nPharmacies\nSale outside pharmacies\nOver-the-counter medicines\nSubstitution\nMedicines imported from abroad\nBuying and selling medicines online\nSale of medicines or food supplements online\nDoctors buying medicines for use in their own practices\nReport suspected illegal sale of medicines\nPrescriptions from another country\nPublications\nMedical devices\nDanish Board for Health Apps\nIncident reporting\nInterruption or discontinuation of the supply of medical devices\nNew regulations\nNew Tech – new technological possibilities and medical devices\nDevelopment of medical devices\nRegulatory advice for medical device companies\nCE marking\nNotified bodies\nRegistration and marketing\nClinical investigations\nPerformance studies of in vitro diagnostic medical devices (IVDs)\nCertificates of Free Sale\nLegislation and guidance\nPublications\nSpecial product areas\nVeterinary medicines\nNatural medicinal products and vitamin and mineral products\nEuphoriant substances\nMedical gases\nRadiopharmaceuticals\nMedicines affecting the ability to drive\nMedicinal cannabis\nRegulation of innovative medicinal products including ATMP\nAbout us\nMission, vision and strategy\nContact\nOrganisation\nWhistleblowing scheme of the Danish Medicines Agency\nThe Danish Medicines Agency funding\nManagement of conflicts of interest\nTransparency in the Danish Medicines Agency\nData protection policy\nTargets and tasks\nInternational collaboration\nDigital services\nAbout this site\nSocial media\nDesign\nCampaigns\nCopyright and logo\nCookies\nPublications\nSitemap\nNews\nSubscribe to news\nEdit subscription\nUnsubscribe\nNews categories\nThemes\nRSS Feed\nPublications\nOrder publications\n2026\n2025\n2024\n2023\n2022\n2020\n2019\n2018\n2017\n2016\n2015\n2014\n2013\n2012\n2011\n2010\n2009\n2008\n2007\n2006\nLicensing and supervision\n/\nAuthorisation procedures\nAuthorisation procedures\nUpdated 26 October 2020\nYou must accept marketing cookies to share the page by mail\nUpdate consent\nShare by mail\nYour email:\nRecipient's email:\nVerify you are a human\n...\nMedicines must be authorised by the Danish Medicines Agency or the European Commission before they can be sold in Denmark.\nThis is also the case for natural medicinal products and strong vitamins and minerals.\nAuthorisation procedures\nCompanies can apply for a\nmarketing authorisation\nin four ways:\nThe national procedure\nThe medicine is authorised in one EU or EEA country only.\nThe centralised procedure\nThe medicine is authorised in the entire EU simultaneously.\nThe decentralised procedure (DCP)\nCompanies apply for authorisation in several EU or EEA countries simultaneously.\nThe mutual recognition procedure (MRP)\nA national marketing authorisation for a medicine in one EU or EEA country forms the basis for authorisation in another EU or EEA country.\nApplication for authorisation\nAn application for authorisation of a medicine must contain documentation for the medicine's efficacy, safety and quality.\nIf the medicine is authorised, the company will be granted a marketing authorisation.\nCompanies can find guidelines and forms for marketing authorisation applications or parallel import of medicines in the left-hand menu.\nInformation about the medicine in the summary of product characteristics and package leaflet\nThe summary of product characteristics (SPC) contains the most important information about the medicine, including its efficacy, side effects, warnings, dosage, active substances, etc.\nThe SPC forms the basis for the instructions for the patient (package leaflet) which the company must formulate and supply with the medicine package. The SPC also sets the framework within which the company is allowed to advertise for the medicine.\nSPCs for medicines authorised by the Danish Medicines Agency are available in Danish at\nproduktresume.dk\nSPCs for centrally authorised medicines are available at the website of\nthe European Medicines Agency (EMA)\nWithdrawal of marketing authorisation\nIn special circumstances, the Danish Medicines Agency may\nwithdraw the marketing authorisation for a medicine\nFor example, if the risk/benefit balance  of a medicine is no longer acceptable, or if the medicine has not kept pace with scientific development.\nAuthorised and deregistered medicinal products\nList of authorised medicinal products\n(in Danish)\nList of deregistered medicinal products\n(in Danish)\nThe Medicinal Products Committee replaces the Licensing Committee\nBy the Danish Parliament's adoption of act no. 605 of 18 June 2012 amending the Danish Medicines Act, the rules governing the Medicinal Products Committee were established.",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Official page updated 26 October 2020; update date is not the first adoption date."
+        },
+        {
+          "clause_id": "DNK-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "DNK-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

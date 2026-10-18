@@ -115,5 +115,55 @@
     "source_hashes": [
       "2dbca7cf2aab590192b21c914d94ee2364e48a9bef7b8221f63b9d14204b7336"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "TTO",
+    "country": "Trinidad and Tobago",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "historical_profile",
+    "fixed_case_scope_status": "historical_survey_only",
+    "finding": "The2012 profile reports no mutual-recognition mechanism and describes domestic registration/fees. Current regional reliance must be dated separately; the old survey cannot resolve current fixed-case eligibility.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The2012 profile reports no mutual-recognition mechanism and describes domestic registration/fees. Current regional reliance must be dated separately; the old survey cannot resolve current fixed-case eligibility."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The2012 profile reports no mutual-recognition mechanism and describes domestic registration/fees. Current regional reliance must be dated separately; the old survey cannot resolve current fixed-case eligibility."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The2012 profile reports no mutual-recognition mechanism and describes domestic registration/fees. Current regional reliance must be dated separately; the old survey cannot resolve current fixed-case eligibility."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The2012 profile reports no mutual-recognition mechanism and describes domestic registration/fees. Current regional reliance must be dated separately; the old survey cannot resolve current fixed-case eligibility."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The2012 profile reports no mutual-recognition mechanism and describes domestic registration/fees. Current regional reliance must be dated separately; the old survey cannot resolve current fixed-case eligibility."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "STD-TTO-MA",
+        "source_url": "https://www.paho.org/sites/default/files/2025-06/pharmaceutical-country-profile-trinidad-tobago.pdf",
+        "raw_sha256": "2dbca7cf2aab590192b21c914d94ee2364e48a9bef7b8221f63b9d14204b7336",
+        "text_sha256": "8638772ae9f4c24d15f0abf5e2670f7155385f835d9654f2b653e3934cd49574",
+        "start_offset": 30957,
+        "end_offset": 33292,
+        "verbatim_extracted_text": "5.2 Marketing Authorization (Registration) \n \nIn Trinidad and Tobago, legal provisions require marketing authorization \n(registration) for all pharmaceutical products on the market18,19, however, there is \nno legal provision for medicines registration renewal and there is no expiration \ndate of the authorization. There are no mechanisms for exception/waiver of \nregistration20. Mutual recognitions mechanisms are not in place. Explicit and \npublicly available criteria exist for assessing applications for marketing \nauthorization \nof \npharmaceutical \nproducts. \nIt \nis \nunknown \nhow \nmany \npharmaceutical products are registered in the country20. There are no legal \nprovisions requiring the MRA to make the list of registered pharmaceutical \nproducts publicly available and update it regularly. Medicines are always \nregistered by their INN (International Non-proprietary Names) or Brand name + \nINN14. Legal provisions require a fee to be paid for Medicines Market \nAuthorization (registration) based on applications, except for Antibiotics, \nNarcotics and Preparations containing narcotics, which registration are free of \ncharge. \n \nMarketing Authorization holders are required by law to provide information about \nvariations to the existing Marketing Authorization. Legally, a Summary of Product \nCharacteristics (SPC) of the medicines that are registered is required to be \npublished. Furthermore, legal provisions requiring the establishment of an expert \ncommittee involved in the Marketing Authorization process are in place; and the \npossession of a Certificate for Pharmaceutical Products (that accords with the \nWHO Certification scheme) is required as part of the Marketing Authorization \n\n\nPAGE 30\n \n \n19 \napplication14. By law, potential conflict of interests for experts involved in the \nassessment and decision-making for registration do not need to be declared20. \nAlthough the law is not specific about appeals regarding MRA decisions, in \npractice there is also recourse to the Chief Medical Officer. Additionally if persons \nare really aggrieved, the law provides for constitutional review by a judge in \nchambers. \n \nThe registration fee (per application) for a pharmaceutical productx is US$ 12318, \nand the time limit imposed for the assessment of all Marketing Authorization \napplications is 3 months. \n \n \n",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Supplemental original-language source; Ministry/PAHO historical pharmaceutical country-profile survey",
+        "evidence_tier": "Supplemental: Ministry/PAHO historical pharmaceutical country-profile survey",
+        "version_alignment": "Historical 2012 Ministry/PAHO survey observation; not current law. No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Supplemental evidence, scope/version retained in source records",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

@@ -133,5 +133,738 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "DEU",
+    "country": "Germany",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition and decentralised assessment",
+    "source_url": "https://www.gesetze-im-internet.de/amg_1976/__25b.html",
+    "document_id": "F250_80d69959ceba2505c7e2_8c07db594d20",
+    "genre": "Official consolidated statute",
+    "language": "de",
+    "scope": "Human-medicine authorisation",
+    "version_note": "AMG §25 b mutual recognition is recognition of another Member State's national marketing authorisation; an EC centralised authorisation is a different legal mechanism.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "outside pathway scope",
+        "finding": "RMS must be another EU Member State; FDA is not an MRP RMS. The fixed EMA/EC central MA is not a Member State national MRP approval.",
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Identical dossier basis required; English may be accepted.",
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "explicit requirement",
+        "finding": "Recognition based on the reference Member State assessment report.",
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Serious public-health risk can prevent immediate recognition and trigger referral.",
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Public-health exception and EU referral procedure apply.",
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "No EEA national RMS authorisation is fixed. EC centralised marketing authorisation is separate.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Full reports do not convert EC centralised authorisation into a national RMS authorisation.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Selected MRP reference criterion not established; consent change is not decisive.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Selected MRP reference criterion not established; consent change is not decisive.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA alone is not another Member State national MRP authorisation.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DEU-R01",
+          "DEU-CONTEXT-1",
+          "DEU-SHARED-EC",
+          "DEU-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "DEU-SHARED-EC"
+        ]
+      },
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "DEU-R01",
+        "iso3": "DEU",
+        "event_id": null,
+        "document_id": "F250_80d69959ceba2505c7e2_8c07db594d20",
+        "source_id": "F250_80d69959ceba2505c7e2",
+        "source_url": "https://www.gesetze-im-internet.de/amg_1976/__25b.html",
+        "raw_sha256": "8c07db594d20c7f612706b2ca0e0b5c5589fc70d849bcc9afff2f7c0293a3132",
+        "text_sha256": "67357ceb9d4980b3261b1744853a8d318e0a6cd0b8d7e9c7334bec59d1c3a2f5",
+        "start_offset": 0,
+        "end_offset": 2521,
+        "pdf_page": null,
+        "verbatim_extracted_text": "§ 25b AMG - Einzelnorm\nzurück\nweiter\nNichtamtliches Inhaltsverzeichnis\nGesetz über den Verkehr mit Arzneimitteln (Arzneimittelgesetz - AMG)\n§ 25b\nVerfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren\n(1) Für die Erteilung einer Zulassung oder Genehmigung in mehr als einem Mitgliedstaat der Europäischen Union hat der Antragsteller einen auf identischen Unterlagen beruhenden Antrag in diesen Mitgliedstaaten einzureichen; dies kann in englischer Sprache erfolgen.\n(2) Ist das Arzneimittel zum Zeitpunkt der Antragstellung bereits in einem anderen Mitgliedstaat der Europäischen Union genehmigt oder zugelassen worden, ist diese Zulassung auf der Grundlage des von diesem Staat übermittelten Beurteilungsberichtes anzuerkennen, es sei denn, dass Anlass zu der Annahme besteht, dass die Zulassung des Arzneimittels eine schwerwiegende Gefahr für die öffentliche Gesundheit darstellt. In diesem Fall hat die zuständige Bundesoberbehörde nach Maßgabe des Artikels 29 der Richtlinie 2001/83/EG zu verfahren.\n(3) Ist das Arzneimittel zum Zeitpunkt der Antragstellung noch nicht zugelassen, hat die zuständige Bundesoberbehörde, soweit sie Referenzmitgliedstaat im Sinne des Artikels 28 der Richtlinie 2001/83/EG ist, Entwürfe des Beurteilungsberichtes, der Zusammenfassung der Merkmale des Arzneimittels und der Kennzeichnung und der Packungsbeilage zu erstellen und den zuständigen Mitgliedstaaten und dem Antragsteller zu übermitteln. § 25 Absatz 5 Satz 5 gilt entsprechend.\n(4) Für die Anerkennung der Zulassung eines anderen Mitgliedstaates der Europäischen Union findet Kapitel 4 der Richtlinie 2001/83/EG Anwendung.\n(5) Bei einer abweichenden Entscheidung bezüglich der Zulassung, ihrer Aussetzung oder Rücknahme finden die Artikel 30, 32, 33 und 34 der Richtlinie 2001/83/EG Anwendung. Im Falle einer Entscheidung nach Artikel 34 der Richtlinie 2001/83/EG ist über die Zulassung nach Maßgabe der nach diesem Artikel getroffenen Entscheidung oder des nach diesem Artikel getroffenen Beschlusses der Europäischen Gemeinschaft oder der Europäischen Union zu entscheiden. Ein Vorverfahren nach § 68 der Verwaltungsgerichtsordnung findet bei Rechtsmitteln gegen Entscheidungen der zuständigen Bundesoberbehörden nach Satz 2 nicht statt. Ferner findet § 25 Abs. 6 keine Anwendung.\n(6) Die Absätze 1 bis 5 finden keine Anwendung auf Arzneimittel, die nach einer homöopathischen Verfahrenstechnik hergestellt worden sind, sofern diese Arzneimittel dem Artikel 16 Abs. 2 der Richtlinie 2001/83/EG unterliegen.\n",
+        "display_text": "§ 25b AMG - Einzelnorm zurück weiter Nichtamtliches Inhaltsverzeichnis Gesetz über den Verkehr mit Arzneimitteln (Arzneimittelgesetz - AMG) § 25b Verfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren (1) Für die Erteilung einer Zulassung oder Genehmigung in mehr als einem Mitgliedstaat der Europäischen Union hat der Antragsteller einen auf identischen Unterlagen beruhenden Antrag in diesen Mitgliedstaaten einzureichen; dies kann in englischer Sprache erfolgen. (2) Ist das Arzneimittel zum Zeitpunkt der Antragstellung bereits in einem anderen Mitgliedstaat der Europäischen Union genehmigt oder zugelassen worden, ist diese Zulassung auf der Grundlage des von diesem Staat übermittelten Beurteilungsberichtes anzuerkennen, es sei denn, dass Anlass zu der Annahme besteht, dass die Zulassung des Arzneimittels eine schwerwiegende Gefahr für die öffentliche Gesundheit darstellt. In diesem Fall hat die zuständige Bundesoberbehörde nach Maßgabe des Artikels 29 der Richtlinie 2001/83/EG zu verfahren. (3) Ist das Arzneimittel zum Zeitpunkt der Antragstellung noch nicht zugelassen, hat die zuständige Bundesoberbehörde, soweit sie Referenzmitgliedstaat im Sinne des Artikels 28 der Richtlinie 2001/83/EG ist, Entwürfe des Beurteilungsberichtes, der Zusammenfassung der Merkmale des Arzneimittels und der Kennzeichnung und der Packungsbeilage zu erstellen und den zuständigen Mitgliedstaaten und dem Antragsteller zu übermitteln. § 25 Absatz 5 Satz 5 gilt entsprechend. (4) Für die Anerkennung der Zulassung eines anderen Mitgliedstaates der Europäischen Union findet Kapitel 4 der Richtlinie 2001/83/EG Anwendung. (5) Bei einer abweichenden Entscheidung bezüglich der Zulassung, ihrer Aussetzung oder Rücknahme finden die Artikel 30, 32, 33 und 34 der Richtlinie 2001/83/EG Anwendung. Im Falle einer Entscheidung nach Artikel 34 der Richtlinie 2001/83/EG ist über die Zulassung nach Maßgabe der nach diesem Artikel getroffenen Entscheidung oder des nach diesem Artikel getroffenen Beschlusses der Europäischen Gemeinschaft oder der Europäischen Union zu entscheiden. Ein Vorverfahren nach § 68 der Verwaltungsgerichtsordnung findet bei Rechtsmitteln gegen Entscheidungen der zuständigen Bundesoberbehörden nach Satz 2 nicht statt. Ferner findet § 25 Abs. 6 keine Anwendung. (6) Die Absätze 1 bis 5 finden keine Anwendung auf Arzneimittel, die nach einer homöopathischen Verfahrenstechnik hergestellt worden sind, sofern diese Arzneimittel dem Artikel 16 Abs. 2 der Richtlinie 2001/83/EG unterliegen.",
+        "feature_tags": [
+          "reports",
+          "sameness",
+          "scope_limit",
+          "discretion",
+          "joint_review"
+        ],
+        "role": "Section 25b",
+        "language": "de",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "Section 25b requires recognition of another EU authorisation on the transmitted assessment report, subject to a serious public-health-risk objection and referral. Identical dossiers and the decentralised procedure are distinct requirements.",
+        "version_alignment": "Current preserved source version; date of first adoption not inferred",
+        "evidence_tier": "national_rule",
+        "section_article": "Section 25b",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "DEU-CONTEXT-1",
+        "source_url": "https://www.gesetze-im-internet.de/amg_1976/__25b.html",
+        "raw_sha256": "8c07db594d20c7f612706b2ca0e0b5c5589fc70d849bcc9afff2f7c0293a3132",
+        "text_sha256": "67357ceb9d4980b3261b1744853a8d318e0a6cd0b8d7e9c7334bec59d1c3a2f5",
+        "start_offset": 0,
+        "end_offset": 2604,
+        "verbatim_extracted_text": "§ 25b AMG - Einzelnorm\nzurück\nweiter\nNichtamtliches Inhaltsverzeichnis\nGesetz über den Verkehr mit Arzneimitteln (Arzneimittelgesetz - AMG)\n§ 25b\nVerfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren\n(1) Für die Erteilung einer Zulassung oder Genehmigung in mehr als einem Mitgliedstaat der Europäischen Union hat der Antragsteller einen auf identischen Unterlagen beruhenden Antrag in diesen Mitgliedstaaten einzureichen; dies kann in englischer Sprache erfolgen.\n(2) Ist das Arzneimittel zum Zeitpunkt der Antragstellung bereits in einem anderen Mitgliedstaat der Europäischen Union genehmigt oder zugelassen worden, ist diese Zulassung auf der Grundlage des von diesem Staat übermittelten Beurteilungsberichtes anzuerkennen, es sei denn, dass Anlass zu der Annahme besteht, dass die Zulassung des Arzneimittels eine schwerwiegende Gefahr für die öffentliche Gesundheit darstellt. In diesem Fall hat die zuständige Bundesoberbehörde nach Maßgabe des Artikels 29 der Richtlinie 2001/83/EG zu verfahren.\n(3) Ist das Arzneimittel zum Zeitpunkt der Antragstellung noch nicht zugelassen, hat die zuständige Bundesoberbehörde, soweit sie Referenzmitgliedstaat im Sinne des Artikels 28 der Richtlinie 2001/83/EG ist, Entwürfe des Beurteilungsberichtes, der Zusammenfassung der Merkmale des Arzneimittels und der Kennzeichnung und der Packungsbeilage zu erstellen und den zuständigen Mitgliedstaaten und dem Antragsteller zu übermitteln. § 25 Absatz 5 Satz 5 gilt entsprechend.\n(4) Für die Anerkennung der Zulassung eines anderen Mitgliedstaates der Europäischen Union findet Kapitel 4 der Richtlinie 2001/83/EG Anwendung.\n(5) Bei einer abweichenden Entscheidung bezüglich der Zulassung, ihrer Aussetzung oder Rücknahme finden die Artikel 30, 32, 33 und 34 der Richtlinie 2001/83/EG Anwendung. Im Falle einer Entscheidung nach Artikel 34 der Richtlinie 2001/83/EG ist über die Zulassung nach Maßgabe der nach diesem Artikel getroffenen Entscheidung oder des nach diesem Artikel getroffenen Beschlusses der Europäischen Gemeinschaft oder der Europäischen Union zu entscheiden. Ein Vorverfahren nach § 68 der Verwaltungsgerichtsordnung findet bei Rechtsmitteln gegen Entscheidungen der zuständigen Bundesoberbehörden nach Satz 2 nicht statt. Ferner findet § 25 Abs. 6 keine Anwendung.\n(6) Die Absätze 1 bis 5 finden keine Anwendung auf Arzneimittel, die nach einer homöopathischen Verfahrenstechnik hergestellt worden sind, sofern diese Arzneimittel dem Artikel 16 Abs. 2 der Richtlinie 2001/83/EG unterliegen.\nzum Seitenanfang\nImpressum\nDatenschutz\nBarrierefreiheitserklärung\nFeedback-Formular",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "de",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Current preserved source version; first operative date not inferred"
+      },
+      {
+        "clause_id": "DEU-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "DEU-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "DEU",
+      "country": "Germany",
+      "selected_document_id": "F250_80d69959ceba2505c7e2_8c07db594d20",
+      "source_id": "F250_80d69959ceba2505c7e2",
+      "pathway": "EU/EEA mutual recognition and decentralised assessment",
+      "source_url": "https://www.gesetze-im-internet.de/amg_1976/__25b.html",
+      "document_title": "German Medicines Act, section 25b",
+      "source_type": "Official consolidated statute",
+      "scope": "Human-medicine authorisation",
+      "language": "de",
+      "translation_provenance": "Original-language contextual interpretation; no unchecked machine translation treated as authoritative",
+      "raw_sha256": "8c07db594d20c7f612706b2ca0e0b5c5589fc70d849bcc9afff2f7c0293a3132",
+      "raw_hash_validated": true,
+      "text_sha256": "67357ceb9d4980b3261b1744853a8d318e0a6cd0b8d7e9c7334bec59d1c3a2f5",
+      "version_dates": {},
+      "version_scope_note": "AMG §25 b mutual recognition is recognition of another Member State's national marketing authorisation; an EC centralised authorisation is a different legal mechanism.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          0,
+          2604
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "outside pathway scope",
+          "finding": "RMS must be another EU Member State; FDA is not an MRP RMS. The fixed EMA/EC central MA is not a Member State national MRP approval.",
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Identical dossier basis required; English may be accepted.",
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "explicit requirement",
+          "finding": "Recognition based on the reference Member State assessment report.",
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Serious public-health risk can prevent immediate recognition and trigger referral.",
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Public-health exception and EU referral procedure apply.",
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "No EEA national RMS authorisation is fixed. EC centralised marketing authorisation is separate.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Full reports do not convert EC centralised authorisation into a national RMS authorisation.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Selected MRP reference criterion not established; consent change is not decisive.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Selected MRP reference criterion not established; consent change is not decisive.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA alone is not another Member State national MRP authorisation.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DEU-R01",
+            "DEU-CONTEXT-1",
+            "DEU-SHARED-EC",
+            "DEU-SHARED-EC"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "DEU-SHARED-EC"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "DEU-R01",
+          "iso3": "DEU",
+          "event_id": null,
+          "document_id": "F250_80d69959ceba2505c7e2_8c07db594d20",
+          "source_id": "F250_80d69959ceba2505c7e2",
+          "source_url": "https://www.gesetze-im-internet.de/amg_1976/__25b.html",
+          "raw_sha256": "8c07db594d20c7f612706b2ca0e0b5c5589fc70d849bcc9afff2f7c0293a3132",
+          "text_sha256": "67357ceb9d4980b3261b1744853a8d318e0a6cd0b8d7e9c7334bec59d1c3a2f5",
+          "start_offset": 0,
+          "end_offset": 2521,
+          "pdf_page": null,
+          "verbatim_extracted_text": "§ 25b AMG - Einzelnorm\nzurück\nweiter\nNichtamtliches Inhaltsverzeichnis\nGesetz über den Verkehr mit Arzneimitteln (Arzneimittelgesetz - AMG)\n§ 25b\nVerfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren\n(1) Für die Erteilung einer Zulassung oder Genehmigung in mehr als einem Mitgliedstaat der Europäischen Union hat der Antragsteller einen auf identischen Unterlagen beruhenden Antrag in diesen Mitgliedstaaten einzureichen; dies kann in englischer Sprache erfolgen.\n(2) Ist das Arzneimittel zum Zeitpunkt der Antragstellung bereits in einem anderen Mitgliedstaat der Europäischen Union genehmigt oder zugelassen worden, ist diese Zulassung auf der Grundlage des von diesem Staat übermittelten Beurteilungsberichtes anzuerkennen, es sei denn, dass Anlass zu der Annahme besteht, dass die Zulassung des Arzneimittels eine schwerwiegende Gefahr für die öffentliche Gesundheit darstellt. In diesem Fall hat die zuständige Bundesoberbehörde nach Maßgabe des Artikels 29 der Richtlinie 2001/83/EG zu verfahren.\n(3) Ist das Arzneimittel zum Zeitpunkt der Antragstellung noch nicht zugelassen, hat die zuständige Bundesoberbehörde, soweit sie Referenzmitgliedstaat im Sinne des Artikels 28 der Richtlinie 2001/83/EG ist, Entwürfe des Beurteilungsberichtes, der Zusammenfassung der Merkmale des Arzneimittels und der Kennzeichnung und der Packungsbeilage zu erstellen und den zuständigen Mitgliedstaaten und dem Antragsteller zu übermitteln. § 25 Absatz 5 Satz 5 gilt entsprechend.\n(4) Für die Anerkennung der Zulassung eines anderen Mitgliedstaates der Europäischen Union findet Kapitel 4 der Richtlinie 2001/83/EG Anwendung.\n(5) Bei einer abweichenden Entscheidung bezüglich der Zulassung, ihrer Aussetzung oder Rücknahme finden die Artikel 30, 32, 33 und 34 der Richtlinie 2001/83/EG Anwendung. Im Falle einer Entscheidung nach Artikel 34 der Richtlinie 2001/83/EG ist über die Zulassung nach Maßgabe der nach diesem Artikel getroffenen Entscheidung oder des nach diesem Artikel getroffenen Beschlusses der Europäischen Gemeinschaft oder der Europäischen Union zu entscheiden. Ein Vorverfahren nach § 68 der Verwaltungsgerichtsordnung findet bei Rechtsmitteln gegen Entscheidungen der zuständigen Bundesoberbehörden nach Satz 2 nicht statt. Ferner findet § 25 Abs. 6 keine Anwendung.\n(6) Die Absätze 1 bis 5 finden keine Anwendung auf Arzneimittel, die nach einer homöopathischen Verfahrenstechnik hergestellt worden sind, sofern diese Arzneimittel dem Artikel 16 Abs. 2 der Richtlinie 2001/83/EG unterliegen.\n",
+          "display_text": "§ 25b AMG - Einzelnorm zurück weiter Nichtamtliches Inhaltsverzeichnis Gesetz über den Verkehr mit Arzneimitteln (Arzneimittelgesetz - AMG) § 25b Verfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren (1) Für die Erteilung einer Zulassung oder Genehmigung in mehr als einem Mitgliedstaat der Europäischen Union hat der Antragsteller einen auf identischen Unterlagen beruhenden Antrag in diesen Mitgliedstaaten einzureichen; dies kann in englischer Sprache erfolgen. (2) Ist das Arzneimittel zum Zeitpunkt der Antragstellung bereits in einem anderen Mitgliedstaat der Europäischen Union genehmigt oder zugelassen worden, ist diese Zulassung auf der Grundlage des von diesem Staat übermittelten Beurteilungsberichtes anzuerkennen, es sei denn, dass Anlass zu der Annahme besteht, dass die Zulassung des Arzneimittels eine schwerwiegende Gefahr für die öffentliche Gesundheit darstellt. In diesem Fall hat die zuständige Bundesoberbehörde nach Maßgabe des Artikels 29 der Richtlinie 2001/83/EG zu verfahren. (3) Ist das Arzneimittel zum Zeitpunkt der Antragstellung noch nicht zugelassen, hat die zuständige Bundesoberbehörde, soweit sie Referenzmitgliedstaat im Sinne des Artikels 28 der Richtlinie 2001/83/EG ist, Entwürfe des Beurteilungsberichtes, der Zusammenfassung der Merkmale des Arzneimittels und der Kennzeichnung und der Packungsbeilage zu erstellen und den zuständigen Mitgliedstaaten und dem Antragsteller zu übermitteln. § 25 Absatz 5 Satz 5 gilt entsprechend. (4) Für die Anerkennung der Zulassung eines anderen Mitgliedstaates der Europäischen Union findet Kapitel 4 der Richtlinie 2001/83/EG Anwendung. (5) Bei einer abweichenden Entscheidung bezüglich der Zulassung, ihrer Aussetzung oder Rücknahme finden die Artikel 30, 32, 33 und 34 der Richtlinie 2001/83/EG Anwendung. Im Falle einer Entscheidung nach Artikel 34 der Richtlinie 2001/83/EG ist über die Zulassung nach Maßgabe der nach diesem Artikel getroffenen Entscheidung oder des nach diesem Artikel getroffenen Beschlusses der Europäischen Gemeinschaft oder der Europäischen Union zu entscheiden. Ein Vorverfahren nach § 68 der Verwaltungsgerichtsordnung findet bei Rechtsmitteln gegen Entscheidungen der zuständigen Bundesoberbehörden nach Satz 2 nicht statt. Ferner findet § 25 Abs. 6 keine Anwendung. (6) Die Absätze 1 bis 5 finden keine Anwendung auf Arzneimittel, die nach einer homöopathischen Verfahrenstechnik hergestellt worden sind, sofern diese Arzneimittel dem Artikel 16 Abs. 2 der Richtlinie 2001/83/EG unterliegen.",
+          "feature_tags": [
+            "reports",
+            "sameness",
+            "scope_limit",
+            "discretion",
+            "joint_review"
+          ],
+          "role": "Section 25b",
+          "language": "de",
+          "language_status": "Original official-language source retained; no unchecked English translation displayed",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "Section 25b requires recognition of another EU authorisation on the transmitted assessment report, subject to a serious public-health-risk objection and referral. Identical dossiers and the decentralised procedure are distinct requirements.",
+          "version_alignment": "Current preserved source version; date of first adoption not inferred",
+          "evidence_tier": "national_rule",
+          "section_article": "Section 25b",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "DEU-CONTEXT-1",
+          "source_url": "https://www.gesetze-im-internet.de/amg_1976/__25b.html",
+          "raw_sha256": "8c07db594d20c7f612706b2ca0e0b5c5589fc70d849bcc9afff2f7c0293a3132",
+          "text_sha256": "67357ceb9d4980b3261b1744853a8d318e0a6cd0b8d7e9c7334bec59d1c3a2f5",
+          "start_offset": 0,
+          "end_offset": 2604,
+          "verbatim_extracted_text": "§ 25b AMG - Einzelnorm\nzurück\nweiter\nNichtamtliches Inhaltsverzeichnis\nGesetz über den Verkehr mit Arzneimitteln (Arzneimittelgesetz - AMG)\n§ 25b\nVerfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren\n(1) Für die Erteilung einer Zulassung oder Genehmigung in mehr als einem Mitgliedstaat der Europäischen Union hat der Antragsteller einen auf identischen Unterlagen beruhenden Antrag in diesen Mitgliedstaaten einzureichen; dies kann in englischer Sprache erfolgen.\n(2) Ist das Arzneimittel zum Zeitpunkt der Antragstellung bereits in einem anderen Mitgliedstaat der Europäischen Union genehmigt oder zugelassen worden, ist diese Zulassung auf der Grundlage des von diesem Staat übermittelten Beurteilungsberichtes anzuerkennen, es sei denn, dass Anlass zu der Annahme besteht, dass die Zulassung des Arzneimittels eine schwerwiegende Gefahr für die öffentliche Gesundheit darstellt. In diesem Fall hat die zuständige Bundesoberbehörde nach Maßgabe des Artikels 29 der Richtlinie 2001/83/EG zu verfahren.\n(3) Ist das Arzneimittel zum Zeitpunkt der Antragstellung noch nicht zugelassen, hat die zuständige Bundesoberbehörde, soweit sie Referenzmitgliedstaat im Sinne des Artikels 28 der Richtlinie 2001/83/EG ist, Entwürfe des Beurteilungsberichtes, der Zusammenfassung der Merkmale des Arzneimittels und der Kennzeichnung und der Packungsbeilage zu erstellen und den zuständigen Mitgliedstaaten und dem Antragsteller zu übermitteln. § 25 Absatz 5 Satz 5 gilt entsprechend.\n(4) Für die Anerkennung der Zulassung eines anderen Mitgliedstaates der Europäischen Union findet Kapitel 4 der Richtlinie 2001/83/EG Anwendung.\n(5) Bei einer abweichenden Entscheidung bezüglich der Zulassung, ihrer Aussetzung oder Rücknahme finden die Artikel 30, 32, 33 und 34 der Richtlinie 2001/83/EG Anwendung. Im Falle einer Entscheidung nach Artikel 34 der Richtlinie 2001/83/EG ist über die Zulassung nach Maßgabe der nach diesem Artikel getroffenen Entscheidung oder des nach diesem Artikel getroffenen Beschlusses der Europäischen Gemeinschaft oder der Europäischen Union zu entscheiden. Ein Vorverfahren nach § 68 der Verwaltungsgerichtsordnung findet bei Rechtsmitteln gegen Entscheidungen der zuständigen Bundesoberbehörden nach Satz 2 nicht statt. Ferner findet § 25 Abs. 6 keine Anwendung.\n(6) Die Absätze 1 bis 5 finden keine Anwendung auf Arzneimittel, die nach einer homöopathischen Verfahrenstechnik hergestellt worden sind, sofern diese Arzneimittel dem Artikel 16 Abs. 2 der Richtlinie 2001/83/EG unterliegen.\nzum Seitenanfang\nImpressum\nDatenschutz\nBarrierefreiheitserklärung\nFeedback-Formular",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "de",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Current preserved source version; first operative date not inferred"
+        },
+        {
+          "clause_id": "DEU-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "DEU-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "Shared EC centralised validity to be shown separately, not inferred from §25 b alone"
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

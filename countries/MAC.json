@@ -130,5 +130,55 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "MAC",
+    "country": "China, Macao Special Administrative Region",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "stability_evidence",
+    "fixed_case_scope_status": "particular_evidence_only",
+    "finding": "The source conditionally accepts foreign accelerated stability results but retains climatic-zone and real-time validation requirements. It is a specific evidence rule rather than recognition of the entire approval.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The source conditionally accepts foreign accelerated stability results but retains climatic-zone and real-time validation requirements. It is a specific evidence rule rather than recognition of the entire approval."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The source conditionally accepts foreign accelerated stability results but retains climatic-zone and real-time validation requirements. It is a specific evidence rule rather than recognition of the entire approval."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The source conditionally accepts foreign accelerated stability results but retains climatic-zone and real-time validation requirements. It is a specific evidence rule rather than recognition of the entire approval."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The source conditionally accepts foreign accelerated stability results but retains climatic-zone and real-time validation requirements. It is a specific evidence rule rather than recognition of the entire approval."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The source conditionally accepts foreign accelerated stability results but retains climatic-zone and real-time validation requirements. It is a specific evidence rule rather than recognition of the entire approval."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "MAC-Q01",
+        "source_url": "https://www.gov.mo/en/services/ps-1568/ps-1568a/",
+        "raw_sha256": "19ef7514b4959c5481c95861d7406ebd20340caf3f361df275229f767470b2ff",
+        "text_sha256": "b20a2edf6454b3633a19d51ad6b48420793ea448cc75456ce0573ff00cbd8347",
+        "start_offset": 1929,
+        "end_offset": 3085,
+        "verbatim_extracted_text": "Stability testing:\nIncludes a stability test for the climate of Macao (climatic zone IV). In addition, the conclusion should include a shelf-life inference – recommended to be performed in accordance with the WHO guidelines on stability testing of pharmaceutical products;\nFor first-time medicine registration, shelf-life inference can be made based on accelerated stability test; after approval of registration, real-time study is required for validation purpose; (If the product has been registered in other countries, the results of accelerated stability test performed in those countries can also be accepted in the first application of medicine registration in Macao);\nIf the product requires diluting or mixing before administration (e.g. powder for injection or oral suspension) or is a sterile preparation (e.g. eye drops), a stability test should be performed, after mixing or after the container of sterile preparation is unsealed, in order to determine the shelf life and storage conditions;\nIndicate the material property and specifications of the container, as well as the interactions between the container and the product;\nOther information.",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Preserved government procedure under Decree-Law 59/90/M",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Foreign stability studies; not recognition of the whole foreign marketing decision",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

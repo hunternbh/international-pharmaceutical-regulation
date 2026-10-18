@@ -157,5 +157,711 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "PAK",
+    "country": "Pakistan",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Reliance framework with national decision-making",
+    "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+    "document_id": "8fb15941fbeaf88e4241",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Framework spans human medicines and other functions",
+    "version_note": "DRAP reliance mechanism edition 02 effective 4 January 2023. Distinguish initial registration, GMP exemption and clinical-trial reliance. Public reports are expressly used but are not declared sufficient for complete domestic marketing authorization.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "Initial new-drug registration addressed in section 8.1.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Appendix I RRAs and USA/EU/Canada/Japan/Australia in cited rules; selected same-product foreign approval supported.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "One RRA approval can support pharmaceutical registration; three Eastern European approvals concern GMP exemption only.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Sameness principle, declared differences and national requirements retained.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Public assessment reports explicitly accepted as an input; complete legal sufficiency for the fixed medicine is not established.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "discretionary/conditional",
+        "finding": "Authority contacts RRA by email where relevant information is absent from official website.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "Rule 29(6) permits/requires investigations and clinical trials as necessary for local conditions; not a universal trial waiver.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "quality_gmp": {
+        "state": "discretionary/conditional",
+        "finding": "Foreign GMP inspection exemption where listed product/site criteria met.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Bridge foreign benefit-risk evidence to domestic context; RB retains national scientific judgment.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "Certificate of Pharmaceutical Product reviewed.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "DRAP independent; national regulatory requirements remain applicable.",
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAK-Q01",
+          "PAK-Q02",
+          "PAK-CTX-1",
+          "PAK-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "PAK-Q01",
+        "source_document_id": "8fb15941fbeaf88e4241",
+        "evidence_role": "Selected primary document",
+        "section_article": "Operative policy definition of reliance",
+        "pdf_page": 8,
+        "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+        "raw_sha256": "3cae3ce7e1408247f6396a75776981bf4a21177a9702754e628111c35a40c4ad",
+        "text_sha256": "c6f0d4ae6ea12a18c1b85d72df2180f6d8883820aa417a22b37ddbd916a1b6c9",
+        "exact_text": "An act whereby the DRAP takes into account and give significant weight \nto assessments performed by another NRA or trusted institution or \nreference regulatory authority, or to any other authoritative information \nin reaching its own decision. DRAP remains independent, responsible \nand accountable regarding the decisions taken, even when it relies on the \ndecisions and information of others. \n \n \n \n\n\nPAGE 9\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 9 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023",
+        "start": 12609,
+        "end": 13205,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "PAK-Q02",
+        "source_document_id": "8fb15941fbeaf88e4241",
+        "evidence_role": "Selected primary document",
+        "section_article": "Scope of adopted reliance mechanisms",
+        "pdf_page": 9,
+        "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+        "raw_sha256": "3cae3ce7e1408247f6396a75776981bf4a21177a9702754e628111c35a40c4ad",
+        "text_sha256": "c6f0d4ae6ea12a18c1b85d72df2180f6d8883820aa417a22b37ddbd916a1b6c9",
+        "exact_text": "To ensure early access to quality therapeutic goods and novel therapeutic \nopportunities, DRAP has adopted reliance mechanisms for various categories of \ntherapeutic goods alongwith its variable scope, for which the safety and efficacy have \nalready been confirmed by the reference regulatory authorities or when the clinical \ntrial has been approved by well-resourced regulatory authorities.  \n \nDRAP has been established through DRAP Act, 2012. Several enabling provisions in \nthe DRAP Act, 2012, the Drugs Act, 1976 and rules framed thereunder provides legal \nframework for reliance and recognition of either regulatory authorities or their \nparticular decisions, these provisions are as below: -",
+        "start": 13245,
+        "end": 13944,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "PAK-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+        "raw_sha256": "3cae3ce7e1408247f6396a75776981bf4a21177a9702754e628111c35a40c4ad",
+        "text_sha256": "c6f0d4ae6ea12a18c1b85d72df2180f6d8883820aa417a22b37ddbd916a1b6c9",
+        "exact_text": "nal or domestic circumstances in the best public interest to ensure \navailability of safe, efficacious and quality therapeutic goods. \n \n \n\n\nPAGE 13\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 13 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \n7. REFERENCE REGULATORY AUTHORITIES  \nWell-resourced National Regulatory Authorities having robust drug regulatory \nmechanisms are more efficient in performing their regulatory functions and may be \ndesignated as reference regulatory authorities (RRA) to meet the challenges of \nglobalization, increasingly complex technologies and growing public expectations of \nfaster access to novel therapies. DRAP relies on decisions of reference regulatory \nauthorities to ensure the safety, efficacy, and quality of therapeutic goods for robust \nand accurate decision-making about their own products, considering that the products \nregistered and sold in the countries of reference regulatory authorities fulfill the \nharmonized standards. However, scope and extend of this reliance and recognition is \ndifferent for different categories of therapeutic goods. \nThis reliance also enables the DRAP for better post marketing surveillance \nparticularly related to safety and efficacy issues. Reference regulatory authorities have \nstronger reporting and information sharing system, which may be used by DRAP as a \nuseful tool for effective surveillance and new indications or contra-indications.   \n \n \n\n\nPAGE 14\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 14 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \n8. AREAS FOR RELIANCE IN REGULATORY PROCESS \nAND DECISION-MAKING \nDivisions of DRAP are practicing reliance or recognition mechanism for regulating \ntherapeutic goods falls under their mandate. The areas of reliance for different types \nfor regulatory process of therapeutic goods are as under: \n8.1. Marketing Authorization of Pharmaceutical Drugs and Biological \nProducts:  \nPE&R and BE&R Divisions of DRAP are responsible for assessment, \nevaluation and registration for pharmaceutical drug products and biological \ndrugs, respectively. Registration of pharmaceuticals and biological drug \nproducts are performed by the Registration Board (RB), constituted under \nSection 7, Sub-Section (u) of the DRAP Act, 2012. RB works under the Drugs \n(Licensing, Registering & Advertising) Rules, 1976, which provides basic \nprinciple for drug registration in accordance with the criteria of quality, safety, \nand efficacy. RB is empowered in light of following provisions for reliance and \nrecognition for registration / market authorization of pharmaceutical and \nbiological drugs: - \n1. \nRule 29(6) of Drugs (Licensing, Registering & Advertising) Rules, 1976, \nstates as follows: \n“The Registration Board shall, before registering a new drug for which \nthe research work has been conducted in other countries and its efficacy, \nsafety and quality has been established therein, require the investigation \non such pharmaceutical, pharmacological and other aspects, to be \nconducted and clinical trials to be made as are necessary to establish its \nquality and, where applicable, the biological, availability, and its safety \nand efficacy to be established under the local conditions.” \n2. \nRule 30(10) of Drugs (Licensing, Registering & Advertising) Rules, 1976 \nstates as follows: \n“If a drug or any of its ingredients, which is imported or manufactured by \na company in Pakistan is also approved for registration and free sale by \n\n\nPAGE 15\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 15 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \nits subsidiary, sister concern, associate or parent company in the country \nwhere it was originally developed or in any of the countries namely, USA, \nEuropean Union Countries, Canada, Japan, Australia, and— \n(a) if that drug at any time, for safety reasons is withdrawn or banned or \ncertain restrictions are imposed in any of the said countries, then it shall \nbe the responsibility of the manufacturer in Pakistan or as the case may \nbe, the indenter, to immediately withdraw the drug from the market in \nPakistan or, as the case may be to impose similar restriction and to inform \nthe registration Board within fourteen days of such an information having \ncome to his knowledge and having taken the necessary action. The \nRegistration Board after getting the said intimation shall take similar \naction for the same drug available from other sources within the shortest \npossible time; \n(b) if a clinical information for a drug is approved by the Drug Regulatory \nAuthority in any of the said countries, the same clinical information shall \nbe considered as approved for drug registration in Pakistan unless \nmodified by the Registration Board on the basis of scientific data available \nto it, and such clinical information may include indication, contra-\nindications, side effects, precautions, dosage, etc.; \n(c) if any adverse drug reaction not otherwise included in the application \nfor registration, is registration, is registered in any of the said countries, \nit shall be the responsibility of the concerned manufacturer or in case of \nimported drugs the indenter or manufacturer's agent in Pakistan, to be \naware of such adverse action and to report to the Registration Board \nwithin thirty days of becoming so aware. \n \n3. \nSection 1 (2) of the Schedule-I of the DRAP Act, 2012, defines biological \ndrugs as:- \n(2) \"Biological Drugs (Finished form)\", are Biological Drugs that are \ndefined in sub-section (I) above and are manufactured, packed by the \nmanufacturer under his responsibility of quality assurance and is further \nreleased by the National Control Authority or the National Control \n\n\nPAGE 16\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 16 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \nLaboratory of the country of origin under the World Health \nOrganization's Lot Release system of evaluation. \n \nUnder these provisions, RB with the approval of DRAP has adopted reference \nregulatory authority, which are placed at Appendix-I, for reliance on their regulatory \ninformation in consideration of application through abridged pathway for initial \napprovals as well as the post-approval changes and renewals to facilitate the supply \nof the medicine and timely safety information for patients. \nCurrently, the Authority applies reliance procedure for granting registration / Market \nAuthorization in the following circumstance: - \na) Finished products of biologicals and pharmaceuticals drugs which are approved by \nthe reference regulatory authorities are considered as safe, effective and of quality \nwhile considering for registration in Pakistan. \nb) For drugs substance, which are already registered by the reference regulatory \nauthorities in a particular strength and dosage form are considered as safe and \nefficacious, while considering registration of new drugs in local perspective. \nc) DRAP has also signed a MoU with World Health Organization regarding \ncollaborative registration process to enable early excess of those drugs and \nbiologicals, Products which have been evaluated and listed as pre-qualified by WHO.  \n \nThe mechanism adopted for relying on information encompasses following:  \ni. \nReview of public assessment reports, summary of product characteristics and \nlabelling information. \nii. \nRecognition of reported safety and efficacy concerns of already registered \nmedicines. \niii. \nReview of Certificate of Pharmaceutical Products (CoPP). \niv. \nCertificate of suitability issued by European Directorate for the Quality of \nMedicines (EDQM) \nv. \nIn case information is not available on the official website, the reference \nregulatory authority is contacted directly via electronic mail for a query or \nclarification on a particular issue under consideration. \n\n\nPAGE 17\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 17 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \nvi. \nRegulatory status or any other regulatory information available in the public \ndomain through their website. \n \n8.2. Regulatory Inspections (GMP):   \nCompliances to Good Manufacturing Practices is mandatory consideration for \nregistration of a pharmaceutical and biological drugs. DRAP has adopted \nreliance approach for verification of GMP of foreign manufacturing by applying \nrisk-based exemption approach. Importers applying for registration of imported \ndrugs and biologicals are exempted for inspection of manufacturing unit abroad, \nif criteria as defined in the “Import Policy for Inspection of Manufacturers \nAboard”, is fulfilled and the aforesaid policy is placed at Appendix-II. \n \n \nThe reliance for exemption from  GMP Inspections of manufacturers abroad is \npracticed if the applied pharmaceutical or biological product: -  \n \na) \nis registered or granted marketing authorization in any of reference \nregulatory authority as adopted by Authority and Registration Board or \nb) \nis registered or having marketing authorization in minimum three of the \ndrug regulatory authorities of former Eastern Europe, or \nc) \nmanufac",
+        "start": 20500,
+        "end": 30000,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "PAK-CTX-2",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+        "raw_sha256": "3cae3ce7e1408247f6396a75776981bf4a21177a9702754e628111c35a40c4ad",
+        "text_sha256": "c6f0d4ae6ea12a18c1b85d72df2180f6d8883820aa417a22b37ddbd916a1b6c9",
+        "exact_text": "alifying products applications while following these steps:-  \n9.1. Verification and review of reliance information: \nDivisions of DRAP will verify that the documents and related information for \nthe applied product for enlistment/registration / marketing authorization of any \ntherapeutic goods or the Clinical trial in Pakistan has been authorized by \nreference regulatory authorities.  \n \nFor registration, the product characteristics (use, dosage, precautions) should \nconform to that agreed in the authorization by the RRA and for drugs substance, \nwhich are already registered by the reference regulatory authorities in a \nparticular strength and dosage form are considered as safe and efficacious, while \nconsidering registration applicants of new drugs in local perspective.  \n9.2. Additional Documentations: \nDuring the review process, DRAP may ask the applicant to submit additional \ninformation to be included in the dossier or specific statistical / analytical \nrequirements or sometime full application data to ensure the quality, safety and \nefficacy. Similarly, there could be circumstances when local clinical trial data is \nnecessitated.  \n \nIn addition to the full assessment report from the RRA, the applicant shall be \nrequired to submit a full Clinical Trial application, full Application for \nMarketing Authorization, full application for GMP inspection as required by the \nAuthority’s guidelines before authorization of the application through the \nreliance pathway. \n\n\nPAGE 27\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 27 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \n9.3. Assessment based on reliance procedure: \nThe information to be used for reliance shall be evaluated according to the \nprescribed assessment procedure to ensure that submitted documents fulfill the \nabsolute required information for the purpose of the respective assessment.  \n \n \n\n\nPAGE 28\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 28 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \n10. REFERENCES \n \n1. \nThe DRAP Act, 2012. \n2. \nThe Drugs Act 1976 \n3. \nThe Drugs (Licensing, Registering and Advertising) Rules, 1976 \n4. \nThe Medical Device Rules, 2017 \n5. \nThe Alternative Medicines & Health Products (Enlistment) Rules, 2014 \n6. \nPan American Health Organization. Regulatory Reliance Principles: Concept note \nand recommendations. 9th Conference of the Pan American Network for Drug \nRegulatory Harmonization. \n7. \nWHO. (2020). Good reliance practices in regulatory decision-making: High-level \nprinciples and recommendations. WHO Drug Information, 34(2), 201–230. \n8. \nBio Study Rules, 2017 \n9. \nPharmacovigilance Rules, 2022 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\nPAGE 29\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 29 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \nAPPENDIX-I \nLIST OF REFERENCE REGULATORY AUTHORITIES \n \nFollowing are reference regulatory authorities for matters related to registration of \npharmaceutical & biological drugs, enlistment of alternative medicines & health products and \nfor approval of Clinical trials: \n \nSr\n# \nCountry \nRegulatory authority \nPharmaceutical & \nBiological \nProducts \nAlternative \nMedicines & \nHealth Products \nClinical \nTrials \ni. USA  \nFood & Drug \nAdministration",
+        "start": 46500,
+        "end": 50000,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "PAK",
+      "country": "Pakistan",
+      "selected_document_id": "8fb15941fbeaf88e4241",
+      "source_id": "604e519a5e1ca565",
+      "pathway": "Reliance framework with national decision-making",
+      "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+      "document_title": "DRAP reliance mechanism second edition",
+      "source_type": "Guideline",
+      "scope": "Framework spans human medicines and other functions",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "PAK-Q01": null
+        },
+        {
+          "PAK-Q02": null
+        }
+      ],
+      "raw_sha256": "3cae3ce7e1408247f6396a75776981bf4a21177a9702754e628111c35a40c4ad",
+      "raw_hash_validated": true,
+      "text_sha256": "c6f0d4ae6ea12a18c1b85d72df2180f6d8883820aa417a22b37ddbd916a1b6c9",
+      "version_dates": {
+        "effective_date": "2023-01-04"
+      },
+      "version_scope_note": "DRAP reliance mechanism edition 02 effective 4 January 2023. Distinguish initial registration, GMP exemption and clinical-trial reliance. Public reports are expressly used but are not declared sufficient for complete domestic marketing authorization.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          12609,
+          13205
+        ],
+        [
+          13245,
+          13944
+        ],
+        [
+          20500,
+          30000
+        ],
+        [
+          46500,
+          50000
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "Initial new-drug registration addressed in section 8.1.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Appendix I RRAs and USA/EU/Canada/Japan/Australia in cited rules; selected same-product foreign approval supported.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "One RRA approval can support pharmaceutical registration; three Eastern European approvals concern GMP exemption only.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Sameness principle, declared differences and national requirements retained.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Public assessment reports explicitly accepted as an input; complete legal sufficiency for the fixed medicine is not established.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "discretionary/conditional",
+          "finding": "Authority contacts RRA by email where relevant information is absent from official website.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "Rule 29(6) permits/requires investigations and clinical trials as necessary for local conditions; not a universal trial waiver.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "quality_gmp": {
+          "state": "discretionary/conditional",
+          "finding": "Foreign GMP inspection exemption where listed product/site criteria met.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Bridge foreign benefit-risk evidence to domestic context; RB retains national scientific judgment.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "Certificate of Pharmaceutical Product reviewed.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "DRAP independent; national regulatory requirements remain applicable.",
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAK-Q01",
+            "PAK-Q02",
+            "PAK-CTX-1",
+            "PAK-CTX-2"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "PAK-Q01",
+          "source_document_id": "8fb15941fbeaf88e4241",
+          "evidence_role": "Selected primary document",
+          "section_article": "Operative policy definition of reliance",
+          "pdf_page": 8,
+          "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+          "raw_sha256": "3cae3ce7e1408247f6396a75776981bf4a21177a9702754e628111c35a40c4ad",
+          "text_sha256": "c6f0d4ae6ea12a18c1b85d72df2180f6d8883820aa417a22b37ddbd916a1b6c9",
+          "exact_text": "An act whereby the DRAP takes into account and give significant weight \nto assessments performed by another NRA or trusted institution or \nreference regulatory authority, or to any other authoritative information \nin reaching its own decision. DRAP remains independent, responsible \nand accountable regarding the decisions taken, even when it relies on the \ndecisions and information of others. \n \n \n \n\n\nPAGE 9\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 9 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023",
+          "start": 12609,
+          "end": 13205,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "PAK-Q02",
+          "source_document_id": "8fb15941fbeaf88e4241",
+          "evidence_role": "Selected primary document",
+          "section_article": "Scope of adopted reliance mechanisms",
+          "pdf_page": 9,
+          "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+          "raw_sha256": "3cae3ce7e1408247f6396a75776981bf4a21177a9702754e628111c35a40c4ad",
+          "text_sha256": "c6f0d4ae6ea12a18c1b85d72df2180f6d8883820aa417a22b37ddbd916a1b6c9",
+          "exact_text": "To ensure early access to quality therapeutic goods and novel therapeutic \nopportunities, DRAP has adopted reliance mechanisms for various categories of \ntherapeutic goods alongwith its variable scope, for which the safety and efficacy have \nalready been confirmed by the reference regulatory authorities or when the clinical \ntrial has been approved by well-resourced regulatory authorities.  \n \nDRAP has been established through DRAP Act, 2012. Several enabling provisions in \nthe DRAP Act, 2012, the Drugs Act, 1976 and rules framed thereunder provides legal \nframework for reliance and recognition of either regulatory authorities or their \nparticular decisions, these provisions are as below: -",
+          "start": 13245,
+          "end": 13944,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "PAK-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+          "raw_sha256": "3cae3ce7e1408247f6396a75776981bf4a21177a9702754e628111c35a40c4ad",
+          "text_sha256": "c6f0d4ae6ea12a18c1b85d72df2180f6d8883820aa417a22b37ddbd916a1b6c9",
+          "exact_text": "nal or domestic circumstances in the best public interest to ensure \navailability of safe, efficacious and quality therapeutic goods. \n \n \n\n\nPAGE 13\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 13 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \n7. REFERENCE REGULATORY AUTHORITIES  \nWell-resourced National Regulatory Authorities having robust drug regulatory \nmechanisms are more efficient in performing their regulatory functions and may be \ndesignated as reference regulatory authorities (RRA) to meet the challenges of \nglobalization, increasingly complex technologies and growing public expectations of \nfaster access to novel therapies. DRAP relies on decisions of reference regulatory \nauthorities to ensure the safety, efficacy, and quality of therapeutic goods for robust \nand accurate decision-making about their own products, considering that the products \nregistered and sold in the countries of reference regulatory authorities fulfill the \nharmonized standards. However, scope and extend of this reliance and recognition is \ndifferent for different categories of therapeutic goods. \nThis reliance also enables the DRAP for better post marketing surveillance \nparticularly related to safety and efficacy issues. Reference regulatory authorities have \nstronger reporting and information sharing system, which may be used by DRAP as a \nuseful tool for effective surveillance and new indications or contra-indications.   \n \n \n\n\nPAGE 14\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 14 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \n8. AREAS FOR RELIANCE IN REGULATORY PROCESS \nAND DECISION-MAKING \nDivisions of DRAP are practicing reliance or recognition mechanism for regulating \ntherapeutic goods falls under their mandate. The areas of reliance for different types \nfor regulatory process of therapeutic goods are as under: \n8.1. Marketing Authorization of Pharmaceutical Drugs and Biological \nProducts:  \nPE&R and BE&R Divisions of DRAP are responsible for assessment, \nevaluation and registration for pharmaceutical drug products and biological \ndrugs, respectively. Registration of pharmaceuticals and biological drug \nproducts are performed by the Registration Board (RB), constituted under \nSection 7, Sub-Section (u) of the DRAP Act, 2012. RB works under the Drugs \n(Licensing, Registering & Advertising) Rules, 1976, which provides basic \nprinciple for drug registration in accordance with the criteria of quality, safety, \nand efficacy. RB is empowered in light of following provisions for reliance and \nrecognition for registration / market authorization of pharmaceutical and \nbiological drugs: - \n1. \nRule 29(6) of Drugs (Licensing, Registering & Advertising) Rules, 1976, \nstates as follows: \n“The Registration Board shall, before registering a new drug for which \nthe research work has been conducted in other countries and its efficacy, \nsafety and quality has been established therein, require the investigation \non such pharmaceutical, pharmacological and other aspects, to be \nconducted and clinical trials to be made as are necessary to establish its \nquality and, where applicable, the biological, availability, and its safety \nand efficacy to be established under the local conditions.” \n2. \nRule 30(10) of Drugs (Licensing, Registering & Advertising) Rules, 1976 \nstates as follows: \n“If a drug or any of its ingredients, which is imported or manufactured by \na company in Pakistan is also approved for registration and free sale by \n\n\nPAGE 15\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 15 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \nits subsidiary, sister concern, associate or parent company in the country \nwhere it was originally developed or in any of the countries namely, USA, \nEuropean Union Countries, Canada, Japan, Australia, and— \n(a) if that drug at any time, for safety reasons is withdrawn or banned or \ncertain restrictions are imposed in any of the said countries, then it shall \nbe the responsibility of the manufacturer in Pakistan or as the case may \nbe, the indenter, to immediately withdraw the drug from the market in \nPakistan or, as the case may be to impose similar restriction and to inform \nthe registration Board within fourteen days of such an information having \ncome to his knowledge and having taken the necessary action. The \nRegistration Board after getting the said intimation shall take similar \naction for the same drug available from other sources within the shortest \npossible time; \n(b) if a clinical information for a drug is approved by the Drug Regulatory \nAuthority in any of the said countries, the same clinical information shall \nbe considered as approved for drug registration in Pakistan unless \nmodified by the Registration Board on the basis of scientific data available \nto it, and such clinical information may include indication, contra-\nindications, side effects, precautions, dosage, etc.; \n(c) if any adverse drug reaction not otherwise included in the application \nfor registration, is registration, is registered in any of the said countries, \nit shall be the responsibility of the concerned manufacturer or in case of \nimported drugs the indenter or manufacturer's agent in Pakistan, to be \naware of such adverse action and to report to the Registration Board \nwithin thirty days of becoming so aware. \n \n3. \nSection 1 (2) of the Schedule-I of the DRAP Act, 2012, defines biological \ndrugs as:- \n(2) \"Biological Drugs (Finished form)\", are Biological Drugs that are \ndefined in sub-section (I) above and are manufactured, packed by the \nmanufacturer under his responsibility of quality assurance and is further \nreleased by the National Control Authority or the National Control \n\n\nPAGE 16\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 16 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \nLaboratory of the country of origin under the World Health \nOrganization's Lot Release system of evaluation. \n \nUnder these provisions, RB with the approval of DRAP has adopted reference \nregulatory authority, which are placed at Appendix-I, for reliance on their regulatory \ninformation in consideration of application through abridged pathway for initial \napprovals as well as the post-approval changes and renewals to facilitate the supply \nof the medicine and timely safety information for patients. \nCurrently, the Authority applies reliance procedure for granting registration / Market \nAuthorization in the following circumstance: - \na) Finished products of biologicals and pharmaceuticals drugs which are approved by \nthe reference regulatory authorities are considered as safe, effective and of quality \nwhile considering for registration in Pakistan. \nb) For drugs substance, which are already registered by the reference regulatory \nauthorities in a particular strength and dosage form are considered as safe and \nefficacious, while considering registration of new drugs in local perspective. \nc) DRAP has also signed a MoU with World Health Organization regarding \ncollaborative registration process to enable early excess of those drugs and \nbiologicals, Products which have been evaluated and listed as pre-qualified by WHO.  \n \nThe mechanism adopted for relying on information encompasses following:  \ni. \nReview of public assessment reports, summary of product characteristics and \nlabelling information. \nii. \nRecognition of reported safety and efficacy concerns of already registered \nmedicines. \niii. \nReview of Certificate of Pharmaceutical Products (CoPP). \niv. \nCertificate of suitability issued by European Directorate for the Quality of \nMedicines (EDQM) \nv. \nIn case information is not available on the official website, the reference \nregulatory authority is contacted directly via electronic mail for a query or \nclarification on a particular issue under consideration. \n\n\nPAGE 17\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 17 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \nvi. \nRegulatory status or any other regulatory information available in the public \ndomain through their website. \n \n8.2. Regulatory Inspections (GMP):   \nCompliances to Good Manufacturing Practices is mandatory consideration for \nregistration of a pharmaceutical and biological drugs. DRAP has adopted \nreliance approach for verification of GMP of foreign manufacturing by applying \nrisk-based exemption approach. Importers applying for registration of imported \ndrugs and biologicals are exempted for inspection of manufacturing unit abroad, \nif criteria as defined in the “Import Policy for Inspection of Manufacturers \nAboard”, is fulfilled and the aforesaid policy is placed at Appendix-II. \n \n \nThe reliance for exemption from  GMP Inspections of manufacturers abroad is \npracticed if the applied pharmaceutical or biological product: -  \n \na) \nis registered or granted marketing authorization in any of reference \nregulatory authority as adopted by Authority and Registration Board or \nb) \nis registered or having marketing authorization in minimum three of the \ndrug regulatory authorities of former Eastern Europe, or \nc) \nmanufac",
+          "start": 20500,
+          "end": 30000,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "PAK-CTX-2",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.dra.gov.pk/wp-content/uploads/2023/01/2nd-edition-Relaince-Mechansim-in-Regulatory-Processess.pdf",
+          "raw_sha256": "3cae3ce7e1408247f6396a75776981bf4a21177a9702754e628111c35a40c4ad",
+          "text_sha256": "c6f0d4ae6ea12a18c1b85d72df2180f6d8883820aa417a22b37ddbd916a1b6c9",
+          "exact_text": "alifying products applications while following these steps:-  \n9.1. Verification and review of reliance information: \nDivisions of DRAP will verify that the documents and related information for \nthe applied product for enlistment/registration / marketing authorization of any \ntherapeutic goods or the Clinical trial in Pakistan has been authorized by \nreference regulatory authorities.  \n \nFor registration, the product characteristics (use, dosage, precautions) should \nconform to that agreed in the authorization by the RRA and for drugs substance, \nwhich are already registered by the reference regulatory authorities in a \nparticular strength and dosage form are considered as safe and efficacious, while \nconsidering registration applicants of new drugs in local perspective.  \n9.2. Additional Documentations: \nDuring the review process, DRAP may ask the applicant to submit additional \ninformation to be included in the dossier or specific statistical / analytical \nrequirements or sometime full application data to ensure the quality, safety and \nefficacy. Similarly, there could be circumstances when local clinical trial data is \nnecessitated.  \n \nIn addition to the full assessment report from the RRA, the applicant shall be \nrequired to submit a full Clinical Trial application, full Application for \nMarketing Authorization, full application for GMP inspection as required by the \nAuthority’s guidelines before authorization of the application through the \nreliance pathway. \n\n\nPAGE 27\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 27 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \n9.3. Assessment based on reliance procedure: \nThe information to be used for reliance shall be evaluated according to the \nprescribed assessment procedure to ensure that submitted documents fulfill the \nabsolute required information for the purpose of the respective assessment.  \n \n \n\n\nPAGE 28\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 28 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \n10. REFERENCES \n \n1. \nThe DRAP Act, 2012. \n2. \nThe Drugs Act 1976 \n3. \nThe Drugs (Licensing, Registering and Advertising) Rules, 1976 \n4. \nThe Medical Device Rules, 2017 \n5. \nThe Alternative Medicines & Health Products (Enlistment) Rules, 2014 \n6. \nPan American Health Organization. Regulatory Reliance Principles: Concept note \nand recommendations. 9th Conference of the Pan American Network for Drug \nRegulatory Harmonization. \n7. \nWHO. (2020). Good reliance practices in regulatory decision-making: High-level \nprinciples and recommendations. WHO Drug Information, 34(2), 201–230. \n8. \nBio Study Rules, 2017 \n9. \nPharmacovigilance Rules, 2022 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\nPAGE 29\nReliance Mechanism in Regulatory Processes (Edition 02) \n \n \n \nPage 29 of 33 \nQuality Management System, DRAP                                                   Effective Date: 04-01-2023 \n \nAPPENDIX-I \nLIST OF REFERENCE REGULATORY AUTHORITIES \n \nFollowing are reference regulatory authorities for matters related to registration of \npharmaceutical & biological drugs, enlistment of alternative medicines & health products and \nfor approval of Clinical trials: \n \nSr\n# \nCountry \nRegulatory authority \nPharmaceutical & \nBiological \nProducts \nAlternative \nMedicines & \nHealth Products \nClinical \nTrials \ni. USA  \nFood & Drug \nAdministration",
+          "start": 46500,
+          "end": 50000,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

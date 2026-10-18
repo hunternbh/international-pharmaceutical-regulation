@@ -161,5 +161,70 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "GGY",
+    "country": "Guernsey",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "recognition_enabling_law",
+    "fixed_case_scope_status": "implementing_rules_unresolved",
+    "finding": "Recognition depends on implementing regulations and allows further information requests. The selected law alone does not establish which FDA/EC approvals qualify or how much scientific review remains.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "Recognition depends on implementing regulations and allows further information requests. The selected law alone does not establish which FDA/EC approvals qualify or how much scientific review remains."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "Recognition depends on implementing regulations and allows further information requests. The selected law alone does not establish which FDA/EC approvals qualify or how much scientific review remains."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "Recognition depends on implementing regulations and allows further information requests. The selected law alone does not establish which FDA/EC approvals qualify or how much scientific review remains."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "Recognition depends on implementing regulations and allows further information requests. The selected law alone does not establish which FDA/EC approvals qualify or how much scientific review remains."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "Recognition depends on implementing regulations and allows further information requests. The selected law alone does not establish which FDA/EC approvals qualify or how much scientific review remains."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "GGY-Q01",
+        "source_url": "https://faolex.fao.org/docs/pdf/gue101100.pdf",
+        "raw_sha256": "9e47fb7ec5421dc3653aed3b82303567a77dfd197a12c3fc00dae6370e1be96b",
+        "text_sha256": "00f6024142eded0f289ba72fd74ec41f4249212df305f2feb0097f5dd73cd6c7",
+        "start_offset": 20528,
+        "end_offset": 22084,
+        "verbatim_extracted_text": "(2) \nSubject to the following provisions, no person shall, in the \ncourse of a business carried on by him – \n \n(a) \nsell, supply or export any medicinal product, \n \n(b) \nprocure the sale, supply or exportation of any \nmedicinal product, \n \n(c) \nprocure the manufacture or assembly of any medicinal \nproduct for sale, supply or exportation, or \n \n(d) \notherwise place any medicinal product on the market \nin the Bailiwick, \n \nunless the regulatory authority has recognised a marketing authorisation [or a \nlicence, by or under regulations made under subsection (3),] or granted a licence for \nthe medicinal product concerned. \n  \n \n \n(3) \nThe \nDepartment \nshall, \nby \nregulations, \nspecify \nthe \ncircumstances in which a person shall not require a licence or in which a licence or \nmarketing authorisation [is or may be recognised], subject to such conditions, as \nmay be specified. \n \n \n         [ (3A) \nAny regulations made under subsection (3) may – \n \n(a) \nimpose duties and obligations on persons who do not \nrequire a licence, or on persons who hold a licence or \nmarketing authorisation recognised by or under those \nregulations, \n\n\nPAGE 18\nConsolidated text \n© States of Guernsey \n18\n \n(b) \ncreate indictable offences, summary offences, or \noffences triable either way, in respect of those duties \nand obligations, and \n \n(c) \nspecify penalties for each offence, not exceeding – \n \n(i) \non summary conviction, a fine of level 3 on the \nuniform scale, and \n \n(ii) on conviction on indictment, a fine, or \nimprisonment for a term of 2 years, or both.]",
+        "pdf_page": 17,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "2008 law consolidated on FAOLEX; notes record 1 October 2009 amendments; recognition regulations not quoted as if retrieved",
+        "translation_review": null
+      },
+      {
+        "clause_id": "GGY-Q02",
+        "source_url": "https://faolex.fao.org/docs/pdf/gue101100.pdf",
+        "raw_sha256": "9e47fb7ec5421dc3653aed3b82303567a77dfd197a12c3fc00dae6370e1be96b",
+        "text_sha256": "00f6024142eded0f289ba72fd74ec41f4249212df305f2feb0097f5dd73cd6c7",
+        "start_offset": 58086,
+        "end_offset": 58805,
+        "verbatim_extracted_text": "Where an application has been made to the regulatory \nauthority for a licence, or recognition of a licence or marketing authorisation under \nthis Part, the regulatory authority, before determining the application, may request \nthe applicant to provide it with such information relating to the application as the \nregulatory authority may require; and, where any such request has been made, the \nregulatory authority shall not be required to determine the application until either – \n \n(a) \nthe information requested has been furnished to them, \nor \n \n(b) \nit has been shown to their reasonable satisfaction that \nthe applicant is unable to furnish the information. \n\n\nPAGE 45\nConsolidated text \n© States of Guernsey \n45",
+        "pdf_page": 44,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "2008 law consolidated on FAOLEX; notes record 1 October 2009 amendments; recognition regulations not quoted as if retrieved",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Human-medicine initial marketing authorisation",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

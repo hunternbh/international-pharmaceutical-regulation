@@ -308,5 +308,668 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "PAN",
+    "country": "Panama",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Conditional automatic registration with WLA/function checks",
+    "source_url": "https://www.minsa.gob.pa/sites/default/files/normatividad/decreto_ejecutivo_no_2_de_7_de_enero_de_2025_-_reconocimiento_de_registros_sanitarios_a_medicamentos_con_registros_de_la_oms.pdf",
+    "document_id": "86e29c97c118128e0d59",
+    "genre": "Executive decree",
+    "language": "es",
+    "scope": "Human-medicine authorisation",
+    "version_note": "January 2025 Executive Decree 2, published 13 January. Articles 1,2,5 subsequently amended June 2025 according to preserved review; this record is the January version only. WLA product/function coverage must be verified, rather than assumed from regulator name.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "Human medicines manufactured/registered in qualifying WLA countries; product/function scope matters.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "WHO WLA and full regulatory functions for relevant medicine type; no fixed FDA/EMA list stated here.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "A qualifying foreign registration; no two-approval threshold in reviewed January decree.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "explicit requirement",
+        "finding": "Registered and marketed in qualifying jurisdiction.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Product must correspond to foreign registration and country of origin; legalized full foreign dossier.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "CPP and manufacturing-site GMP annexes; local stability studies where required.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Conditional automatic numbering after documentary/identity/function checks; prior laboratory analysis waived if qualifying marketed registration.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "explicit requirement",
+        "finding": "Permanent Panama-resident representative with legalized powers.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "FADDI filing, lawyer/pharmacist endorsements and fee.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "Legalized/apostilled power, CPP and foreign dossier.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "Original CPP issued by country of origin.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "Ten working days response/automatic numbering after complete or corrected filing and payment; five working days applicant correction.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Technical observations and inspection powers remain; not unconditional foreign approval equivalence.",
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PAN-Q01",
+          "PAN-Q02",
+          "PAN-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "PAN-Q01",
+        "source_document_id": "86e29c97c118128e0d59",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 2,
+        "source_url": "https://www.minsa.gob.pa/sites/default/files/normatividad/decreto_ejecutivo_no_2_de_7_de_enero_de_2025_-_reconocimiento_de_registros_sanitarios_a_medicamentos_con_registros_de_la_oms.pdf",
+        "raw_sha256": "cfcc24cd45d560fda8710a9ab6971ae07572ccf75e4bb7445522a7e9d5e341e3",
+        "text_sha256": "c8aa5f11075afe60766c0e35a8f458cdb96c315080505be32798e1fc870c1a17",
+        "exact_text": "Artículo l. Establecer el procedimiento de reconocimiento automático de registro sanitario \nde Medicamentos para uso humano a todo los productos fabricados y registrados en países \nque cuenten con autoridades reguladoras que forman parte de la lista de autoridades de la \nOrganización Mundial de la Salud (WLA, por sus siglas en inglés). \nPara la obtención del registro sanitario bajo el procedimiento de reconocimiento, no será \nrequerido el análisis de laboratorio previo, siempre y cuando el producto haya sido registrado \ny comercializado en países con autoridad regulatoria de la lista de autoridades de la \nOrganización Mundial de la Salud (WLA, por sus siglas en inglés).",
+        "start": 3290,
+        "end": 3968,
+        "translation": "Article 1. An automatic sanitary-registration procedure for medicines for human use is established for all products manufactured and registered in countries whose regulatory authorities are on the WLA list. To obtain sanitary registration under recognition, prior laboratory analysis shall not be required, provided the product is registered and marketed in countries whose regulatory authority is on the World Health Organization's WLA list.",
+        "translation_status": "Assistant checked and corrected research translation; not official/certified",
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "PAN-Q02",
+        "source_document_id": "86e29c97c118128e0d59",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 3,
+        "source_url": "https://www.minsa.gob.pa/sites/default/files/normatividad/decreto_ejecutivo_no_2_de_7_de_enero_de_2025_-_reconocimiento_de_registros_sanitarios_a_medicamentos_con_registros_de_la_oms.pdf",
+        "raw_sha256": "cfcc24cd45d560fda8710a9ab6971ae07572ccf75e4bb7445522a7e9d5e341e3",
+        "text_sha256": "c8aa5f11075afe60766c0e35a8f458cdb96c315080505be32798e1fc870c1a17",
+        "exact_text": "Artículo 7. La Dirección Nacional de Farmacia y Drogas verificada que la solicitud de \nregistro sanitario automático del medicamento a registrar, corresponde al registrado en la \nautoridad reguladora que forma parte de la lista de autoridades de la Organización Mundial \nde la Salud (WLA, por sus siglas en inglés), que el tipo de producto a registrar (vacuna u otro \ntipo de medicamento) esté incluido en dicha lista y que la autoridad reguladora tiene todas \nlas funciones regulatorias aprobadas por la OMS para ese tipo de medicamento, la Dirección, \nen el término máximo de diez (10) días hábiles a partir de la recepción de la solicitud o de \nsu corrección y el pago del Ministerio de Economía y Finanzas, le asignará el número de \nregistro sanitario de manera automática y concederá el respectivo Certificado de Registro \nSanitario como reconocimiento del Registro Sanitario extranjero, utilizando el formato \nestablecido.",
+        "start": 6681,
+        "end": 7609,
+        "translation": "Article 7. After the National Directorate of Pharmacy and Drugs verifies that the medicine's automatic-registration application corresponds to the product registered by a regulatory authority on the WHO WLA list, that the product type (vaccine or other medicine) is included in that list and that the authority has all WHO-approved regulatory functions for that product type, the Directorate shall, within a maximum of ten (10) working days from receipt of the application or its correction and payment to the Ministry of Economy and Finance, automatically assign the sanitary-registration number and grant the corresponding Sanitary Registration Certificate in recognition of the foreign registration, using the established format.",
+        "translation_status": "Assistant checked and corrected research translation; not official/certified",
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "PAN-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.minsa.gob.pa/sites/default/files/normatividad/decreto_ejecutivo_no_2_de_7_de_enero_de_2025_-_reconocimiento_de_registros_sanitarios_a_medicamentos_con_registros_de_la_oms.pdf",
+        "raw_sha256": "cfcc24cd45d560fda8710a9ab6971ae07572ccf75e4bb7445522a7e9d5e341e3",
+        "text_sha256": "c8aa5f11075afe60766c0e35a8f458cdb96c315080505be32798e1fc870c1a17",
+        "exact_text": "Artículo l. Establecer el procedimiento de reconocimiento automático de registro sanitario \nde Medicamentos para uso humano a todo los productos fabricados y registrados en países \nque cuenten con autoridades reguladoras que forman parte de la lista de autoridades de la \nOrganización Mundial de la Salud (WLA, por sus siglas en inglés). \nPara la obtención del registro sanitario bajo el procedimiento de reconocimiento, no será \nrequerido el análisis de laboratorio previo, siempre y cuando el producto haya sido registrado \ny comercializado en países con autoridad regulatoria de la lista de autoridades de la \nOrganización Mundial de la Salud (WLA, por sus siglas en inglés). \nArtículo 2. Para optar por el procedimiento de reconocimiento automático, el profesional \nresponsable debe presentar: \na. Comprobante de pago según la tasa por servicio de expedición de registro sanitario \npor trámite abreviado. \nb. Formulario establecido por la Dirección Nacional de Farmacia y Drogas, a través de \nla plataforma Farmacia y Drogas Digital (FADDI), mediante abogado y contará con \nel refrendo del farmacéutico idóneo responsable técnico del trámite y del Colegio \nNacional de Farmacéuticos. \nc. Poder debidamente legalizado que acredite la representación legal o técnica otorgada \npor el titular del producto farmacéutico a la persona natural o jurídica que resida en \nforma permanente en la República de Panamá que solicita el reconocimiento. \nd. Poder debidamente legalizado al profesional responsable por parte de la persona \nnatural o jurídica que resida en forma permanente en la República de Panamá que lo \nfaculte para ello. \ne. Certificado de Producto Farmacéutico original, emitido por el país de origen, \ndebidamente legalizado o apostillado. Cuando en el proceso de fabricación se \ninvolucren dos o más laboratorios, la identificación de los mismos y el cumplimiento \nde las Buenas Prácticas de Manufactura deben incluirse como anexo y que haya sido \nemitido por el lugar de origen. \nf. \nEl interesado presentará una copia legalizada o apostillada del expediente completo \ndel presentado en el país en donde se realizó el registro, con la finalidad de contar con \nla información necesaria para realizar la vigilancia sanitaria posterior al \nReconocimiento. \ng. Presentar estudios de estabilidad en zona climática IVb a la que pertenece Panamá, \npara los medicamentos que lo requieran demostrar. \nh. El trámite presentado en la Plataforma Farmacia y Drogas Digital (F ADDI) debe \ntener el mismo país de origen del medicamento descrito en el Certificado de Producto \nFarmacéutico emitido por dicha autoridad. \nLos productos que requieran estudios de bioequivalencia quedan sujeto a la normativa \nvigente de cada país. \nArtículo 3. Una vez presentados los requisitos establecidos ante la Dirección Nacional de \nFarmacia y Drogas, se verificará la información presentada, y se deberá dar respuesta en el \nplazo de diez (1 O) días hábiles. \nArtículo 4. Si del análisis técnico se encuentran observaciones, se notificará por una sola vez \nal interesado a través de la plataforma FADDI. \nArtículo 5. El solicitante dispondrá del término de cinco ( 5) días hábiles, contados a partir \nde la fecha de notificación a través del Plataforma F ADDI, para subsanar las observaciones \nrelativas a la solicitud y sus anexos. \n\n\nPAGE 3\nNo. 30195-A\nGaceta Oficial Digital, lunes 13 de enero de 2025\n3\nArtículo 7. La Dirección Nacional de Farmacia y Drogas verificada que la solicitud de \nregistro sanitario automático del medicamento a registrar, corresponde al registrado en la \nautoridad reguladora que forma parte de la lista de autoridades de la Organización Mundial \nde la Salud (WLA, por sus siglas en inglés), que el tipo de producto a registrar (vacuna u otro \ntipo de medicamento) esté incluido en dicha lista y que la autoridad reguladora tiene todas \nlas funciones regulatorias aprobadas por la OMS para ese tipo de medicamento, la Dirección, \nen el término máximo de diez (10) días hábiles a partir de la recepción de la solicitud o de \nsu corrección y el pago del Ministerio de Economía y Finanzas, le asignará el número de \nregistro sanitario de manera automática y concederá el respectivo Certificado de Registro \nSanitario como reconocimiento del Registro Sanitario extranjero, utilizando el formato \nestablecido. \nArtículo 8. La Dirección Nacional de Farmacia y Drogas, podrá realizar inspecciones a \nestablecimientos que importen, distribuyan y comercialicen medicamentos registrados por \neste procedimiento según lo dispuesto en norma sanitaria vigente. \nArtículo 9. El presente Decreto Ejecutivo empezará a regir a partir de su promulgación. \nFUNDAMENTO DE DERECHO: Constitución Política de la República de Panamá, \nDecreto de Gabinete N.º ",
+        "start": 3290,
+        "end": 8040,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "PAN",
+      "country": "Panama",
+      "selected_document_id": "86e29c97c118128e0d59",
+      "source_id": "eef0a28bd5160c90",
+      "pathway": "Conditional automatic registration with WLA/function checks",
+      "source_url": "https://www.minsa.gob.pa/sites/default/files/normatividad/decreto_ejecutivo_no_2_de_7_de_enero_de_2025_-_reconocimiento_de_registros_sanitarios_a_medicamentos_con_registros_de_la_oms.pdf",
+      "document_title": "Panama | Executive Decree 2 of January 7, 2025, https://www.minsa.gob.pa/sites/default/files/normatividad/decreto_ejecutivo_no_2_de_7_de_enero_de_2025_-_reconocimiento_de_registros_sanitarios_a_medicamentos_con_registros_de_la_oms.pdf , \n           ",
+      "source_type": "Executive decree",
+      "scope": "Human-medicine authorisation",
+      "language": "es",
+      "translation_provenance": [
+        {
+          "PAN-Q01": "Assistant checked and corrected research translation; not official/certified"
+        },
+        {
+          "PAN-Q02": "Assistant checked and corrected research translation; not official/certified"
+        }
+      ],
+      "raw_sha256": "cfcc24cd45d560fda8710a9ab6971ae07572ccf75e4bb7445522a7e9d5e341e3",
+      "raw_hash_validated": true,
+      "text_sha256": "c8aa5f11075afe60766c0e35a8f458cdb96c315080505be32798e1fc870c1a17",
+      "version_dates": {
+        "publication_date": "2025-01-13",
+        "version": "January decree only; June amendments not consolidated"
+      },
+      "version_scope_note": "January 2025 Executive Decree 2, published 13 January. Articles 1,2,5 subsequently amended June 2025 according to preserved review; this record is the January version only. WLA product/function coverage must be verified, rather than assumed from regulator name.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          3290,
+          3968
+        ],
+        [
+          6681,
+          7609
+        ],
+        [
+          3290,
+          8040
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "Human medicines manufactured/registered in qualifying WLA countries; product/function scope matters.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "WHO WLA and full regulatory functions for relevant medicine type; no fixed FDA/EMA list stated here.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "A qualifying foreign registration; no two-approval threshold in reviewed January decree.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Registered and marketed in qualifying jurisdiction.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Product must correspond to foreign registration and country of origin; legalized full foreign dossier.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "CPP and manufacturing-site GMP annexes; local stability studies where required.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Conditional automatic numbering after documentary/identity/function checks; prior laboratory analysis waived if qualifying marketed registration.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "explicit requirement",
+          "finding": "Permanent Panama-resident representative with legalized powers.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "FADDI filing, lawyer/pharmacist endorsements and fee.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Legalized/apostilled power, CPP and foreign dossier.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "Original CPP issued by country of origin.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Ten working days response/automatic numbering after complete or corrected filing and payment; five working days applicant correction.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Technical observations and inspection powers remain; not unconditional foreign approval equivalence.",
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PAN-Q01",
+            "PAN-Q02",
+            "PAN-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "PAN-Q01",
+          "source_document_id": "86e29c97c118128e0d59",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 2,
+          "source_url": "https://www.minsa.gob.pa/sites/default/files/normatividad/decreto_ejecutivo_no_2_de_7_de_enero_de_2025_-_reconocimiento_de_registros_sanitarios_a_medicamentos_con_registros_de_la_oms.pdf",
+          "raw_sha256": "cfcc24cd45d560fda8710a9ab6971ae07572ccf75e4bb7445522a7e9d5e341e3",
+          "text_sha256": "c8aa5f11075afe60766c0e35a8f458cdb96c315080505be32798e1fc870c1a17",
+          "exact_text": "Artículo l. Establecer el procedimiento de reconocimiento automático de registro sanitario \nde Medicamentos para uso humano a todo los productos fabricados y registrados en países \nque cuenten con autoridades reguladoras que forman parte de la lista de autoridades de la \nOrganización Mundial de la Salud (WLA, por sus siglas en inglés). \nPara la obtención del registro sanitario bajo el procedimiento de reconocimiento, no será \nrequerido el análisis de laboratorio previo, siempre y cuando el producto haya sido registrado \ny comercializado en países con autoridad regulatoria de la lista de autoridades de la \nOrganización Mundial de la Salud (WLA, por sus siglas en inglés).",
+          "start": 3290,
+          "end": 3968,
+          "translation": "Article 1. An automatic sanitary-registration procedure for medicines for human use is established for all products manufactured and registered in countries whose regulatory authorities are on the WLA list. To obtain sanitary registration under recognition, prior laboratory analysis shall not be required, provided the product is registered and marketed in countries whose regulatory authority is on the World Health Organization's WLA list.",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "PAN-Q02",
+          "source_document_id": "86e29c97c118128e0d59",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 3,
+          "source_url": "https://www.minsa.gob.pa/sites/default/files/normatividad/decreto_ejecutivo_no_2_de_7_de_enero_de_2025_-_reconocimiento_de_registros_sanitarios_a_medicamentos_con_registros_de_la_oms.pdf",
+          "raw_sha256": "cfcc24cd45d560fda8710a9ab6971ae07572ccf75e4bb7445522a7e9d5e341e3",
+          "text_sha256": "c8aa5f11075afe60766c0e35a8f458cdb96c315080505be32798e1fc870c1a17",
+          "exact_text": "Artículo 7. La Dirección Nacional de Farmacia y Drogas verificada que la solicitud de \nregistro sanitario automático del medicamento a registrar, corresponde al registrado en la \nautoridad reguladora que forma parte de la lista de autoridades de la Organización Mundial \nde la Salud (WLA, por sus siglas en inglés), que el tipo de producto a registrar (vacuna u otro \ntipo de medicamento) esté incluido en dicha lista y que la autoridad reguladora tiene todas \nlas funciones regulatorias aprobadas por la OMS para ese tipo de medicamento, la Dirección, \nen el término máximo de diez (10) días hábiles a partir de la recepción de la solicitud o de \nsu corrección y el pago del Ministerio de Economía y Finanzas, le asignará el número de \nregistro sanitario de manera automática y concederá el respectivo Certificado de Registro \nSanitario como reconocimiento del Registro Sanitario extranjero, utilizando el formato \nestablecido.",
+          "start": 6681,
+          "end": 7609,
+          "translation": "Article 7. After the National Directorate of Pharmacy and Drugs verifies that the medicine's automatic-registration application corresponds to the product registered by a regulatory authority on the WHO WLA list, that the product type (vaccine or other medicine) is included in that list and that the authority has all WHO-approved regulatory functions for that product type, the Directorate shall, within a maximum of ten (10) working days from receipt of the application or its correction and payment to the Ministry of Economy and Finance, automatically assign the sanitary-registration number and grant the corresponding Sanitary Registration Certificate in recognition of the foreign registration, using the established format.",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "PAN-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.minsa.gob.pa/sites/default/files/normatividad/decreto_ejecutivo_no_2_de_7_de_enero_de_2025_-_reconocimiento_de_registros_sanitarios_a_medicamentos_con_registros_de_la_oms.pdf",
+          "raw_sha256": "cfcc24cd45d560fda8710a9ab6971ae07572ccf75e4bb7445522a7e9d5e341e3",
+          "text_sha256": "c8aa5f11075afe60766c0e35a8f458cdb96c315080505be32798e1fc870c1a17",
+          "exact_text": "Artículo l. Establecer el procedimiento de reconocimiento automático de registro sanitario \nde Medicamentos para uso humano a todo los productos fabricados y registrados en países \nque cuenten con autoridades reguladoras que forman parte de la lista de autoridades de la \nOrganización Mundial de la Salud (WLA, por sus siglas en inglés). \nPara la obtención del registro sanitario bajo el procedimiento de reconocimiento, no será \nrequerido el análisis de laboratorio previo, siempre y cuando el producto haya sido registrado \ny comercializado en países con autoridad regulatoria de la lista de autoridades de la \nOrganización Mundial de la Salud (WLA, por sus siglas en inglés). \nArtículo 2. Para optar por el procedimiento de reconocimiento automático, el profesional \nresponsable debe presentar: \na. Comprobante de pago según la tasa por servicio de expedición de registro sanitario \npor trámite abreviado. \nb. Formulario establecido por la Dirección Nacional de Farmacia y Drogas, a través de \nla plataforma Farmacia y Drogas Digital (FADDI), mediante abogado y contará con \nel refrendo del farmacéutico idóneo responsable técnico del trámite y del Colegio \nNacional de Farmacéuticos. \nc. Poder debidamente legalizado que acredite la representación legal o técnica otorgada \npor el titular del producto farmacéutico a la persona natural o jurídica que resida en \nforma permanente en la República de Panamá que solicita el reconocimiento. \nd. Poder debidamente legalizado al profesional responsable por parte de la persona \nnatural o jurídica que resida en forma permanente en la República de Panamá que lo \nfaculte para ello. \ne. Certificado de Producto Farmacéutico original, emitido por el país de origen, \ndebidamente legalizado o apostillado. Cuando en el proceso de fabricación se \ninvolucren dos o más laboratorios, la identificación de los mismos y el cumplimiento \nde las Buenas Prácticas de Manufactura deben incluirse como anexo y que haya sido \nemitido por el lugar de origen. \nf. \nEl interesado presentará una copia legalizada o apostillada del expediente completo \ndel presentado en el país en donde se realizó el registro, con la finalidad de contar con \nla información necesaria para realizar la vigilancia sanitaria posterior al \nReconocimiento. \ng. Presentar estudios de estabilidad en zona climática IVb a la que pertenece Panamá, \npara los medicamentos que lo requieran demostrar. \nh. El trámite presentado en la Plataforma Farmacia y Drogas Digital (F ADDI) debe \ntener el mismo país de origen del medicamento descrito en el Certificado de Producto \nFarmacéutico emitido por dicha autoridad. \nLos productos que requieran estudios de bioequivalencia quedan sujeto a la normativa \nvigente de cada país. \nArtículo 3. Una vez presentados los requisitos establecidos ante la Dirección Nacional de \nFarmacia y Drogas, se verificará la información presentada, y se deberá dar respuesta en el \nplazo de diez (1 O) días hábiles. \nArtículo 4. Si del análisis técnico se encuentran observaciones, se notificará por una sola vez \nal interesado a través de la plataforma FADDI. \nArtículo 5. El solicitante dispondrá del término de cinco ( 5) días hábiles, contados a partir \nde la fecha de notificación a través del Plataforma F ADDI, para subsanar las observaciones \nrelativas a la solicitud y sus anexos. \n\n\nPAGE 3\nNo. 30195-A\nGaceta Oficial Digital, lunes 13 de enero de 2025\n3\nArtículo 7. La Dirección Nacional de Farmacia y Drogas verificada que la solicitud de \nregistro sanitario automático del medicamento a registrar, corresponde al registrado en la \nautoridad reguladora que forma parte de la lista de autoridades de la Organización Mundial \nde la Salud (WLA, por sus siglas en inglés), que el tipo de producto a registrar (vacuna u otro \ntipo de medicamento) esté incluido en dicha lista y que la autoridad reguladora tiene todas \nlas funciones regulatorias aprobadas por la OMS para ese tipo de medicamento, la Dirección, \nen el término máximo de diez (10) días hábiles a partir de la recepción de la solicitud o de \nsu corrección y el pago del Ministerio de Economía y Finanzas, le asignará el número de \nregistro sanitario de manera automática y concederá el respectivo Certificado de Registro \nSanitario como reconocimiento del Registro Sanitario extranjero, utilizando el formato \nestablecido. \nArtículo 8. La Dirección Nacional de Farmacia y Drogas, podrá realizar inspecciones a \nestablecimientos que importen, distribuyan y comercialicen medicamentos registrados por \neste procedimiento según lo dispuesto en norma sanitaria vigente. \nArtículo 9. El presente Decreto Ejecutivo empezará a regir a partir de su promulgación. \nFUNDAMENTO DE DERECHO: Constitución Política de la República de Panamá, \nDecreto de Gabinete N.º ",
+          "start": 3290,
+          "end": 8040,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

@@ -215,5 +215,681 @@
     "source_hashes": [
       "0ad1b5c1c3088a33204005ab028aac43b07c82e074554d115b79521bcacabd29"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "FSM",
+    "country": "Micronesia (Federated States of)",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Conditional exemption tied to domestic list",
+    "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+    "document_id": "36400116c983759b5d18",
+    "genre": "Statute",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "FSM Safe Pharmaceutical Act 2022 §§1308/1310. List inclusion and designated jurisdiction are cumulative requirements. New compounds subject to separately adopted criteria.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Competent jurisdictions are designated by Secretary; FDA/EMA list not supplied in this statute.",
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Competent-jurisdiction registration AND inclusion on FSM Approved Medicines List.",
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Foreign-approved-list exemption does not identify assessment-report content/consent sufficiency.",
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Listed qualifying products may be exempt from specific registration review; Secretary defines criteria including new compounds.",
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Secretary reviews list/jurisdiction designations and may revise them.",
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "FSM-Q01",
+          "FSM-Q02",
+          "FSM-CONTEXT-1",
+          "FSM-CONTEXT-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "FSM-Q01",
+        "iso3": "FSM",
+        "event_id": "FSM_110",
+        "document_id": "36400116c983759b5d18",
+        "source_id": "ef34bc195981c923",
+        "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+        "raw_sha256": "6f70d674ccd0235d842f8a3274217f3a1afdba7a5678a7dfd85bdf12caa8eae3",
+        "text_sha256": "8ea72c5770bcf93fe951be8ff35eff882ed223a926f5061d0ecafb70a6506e21",
+        "start_offset": 18354,
+        "end_offset": 18917,
+        "pdf_page": 13,
+        "verbatim_extracted_text": "Only pharmaceuticals listed on the FSM Approved \n21 \nMedicines List from competent jurisdictions can be \n22 \nimported into the FSM by licensed Establishments without \n23 \nthe specific pharmaceutical registration approval from \n24 \nthe Pharmaceutical Unit.  \n25 \n\n\nPAGE 14\n \nCONGRESSIONAL BILL NO. 22-166 C.D.1 \n \nP.C. NO. 22-288 \nPUBLIC LAW NO. 22-136 \n \n \n \n14 of 21 \n(4) The Secretary of Health may add pharmaceuticals \n1 \nto the FSM Approved Medicines List upon certification of \n2 \nneed by the States’ health authorities and review of \n3 \npharmaceutical.”  \n4",
+        "display_text": "Only pharmaceuticals listed on the FSM Approved 21 Medicines List from competent jurisdictions can be 22 imported into the FSM by licensed Establishments without 23 the specific pharmaceutical registration approval from 24 the Pharmaceutical Unit. 25 PAGE 14 CONGRESSIONAL BILL NO. 22-166 C.D.1 P.C. NO. 22-288 PUBLIC LAW NO. 22-136 14 of 21 (4) The Secretary of Health may add pharmaceuticals 1 to the FSM Approved Medicines List upon certification of 2 need by the States’ health authorities and review of 3 pharmaceutical.” 4",
+        "feature_tags": [
+          "local_list"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "FSM-Q02",
+        "iso3": "FSM",
+        "event_id": "FSM_110",
+        "document_id": "36400116c983759b5d18",
+        "source_id": "ef34bc195981c923",
+        "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+        "raw_sha256": "6f70d674ccd0235d842f8a3274217f3a1afdba7a5678a7dfd85bdf12caa8eae3",
+        "text_sha256": "8ea72c5770bcf93fe951be8ff35eff882ed223a926f5061d0ecafb70a6506e21",
+        "start_offset": 20734,
+        "end_offset": 20975,
+        "pdf_page": 15,
+        "verbatim_extracted_text": "Pharmaceuticals registered in \n12 \ncompetent jurisdictions as determined by the Secretary of \n13 \nHealth and designated on the FSM Approved Medicines List \n14 \nmay be exempt from the pharmaceutical registration review \n15 \nrequirements.  \n16",
+        "display_text": "Pharmaceuticals registered in 12 competent jurisdictions as determined by the Secretary of 13 Health and designated on the FSM Approved Medicines List 14 may be exempt from the pharmaceutical registration review 15 requirements. 16",
+        "feature_tags": [
+          "local_list",
+          "discretion"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "FSM-CONTEXT-1",
+        "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+        "raw_sha256": "6f70d674ccd0235d842f8a3274217f3a1afdba7a5678a7dfd85bdf12caa8eae3",
+        "text_sha256": "8ea72c5770bcf93fe951be8ff35eff882ed223a926f5061d0ecafb70a6506e21",
+        "start_offset": 17604,
+        "end_offset": 19917,
+        "verbatim_extracted_text": "for pharmaceuticals to add, remove from, or modify on the \n8 \nFSM Approved Medicines List.  \n9 \n(2) The Secretary of Health shall review the FSM \n10 \nApproved Medicines List and the designation of competent \n11 \njurisdictions every five years or upon the Secretary of \n12 \nHealth certification to Congress that imminent peril to \n13 \nthe public health, safety, or welfare requires immediate \n14 \nreview and changes to the Approved Medicines List and/or \n15 \ncompetent jurisdiction designations. Upon review of the \n16 \nFSM Approved Medicines List and the competent \n17 \njurisdiction designations, the Secretary of Health shall \n18 \ndetermine whether pharmaceuticals and jurisdictions will \n19 \nbe added, removed, or modified, respectively. \n20 \n(3) \nOnly pharmaceuticals listed on the FSM Approved \n21 \nMedicines List from competent jurisdictions can be \n22 \nimported into the FSM by licensed Establishments without \n23 \nthe specific pharmaceutical registration approval from \n24 \nthe Pharmaceutical Unit.  \n25 \n\n\nPAGE 14\n \nCONGRESSIONAL BILL NO. 22-166 C.D.1 \n \nP.C. NO. 22-288 \nPUBLIC LAW NO. 22-136 \n \n \n \n14 of 21 \n(4) The Secretary of Health may add pharmaceuticals \n1 \nto the FSM Approved Medicines List upon certification of \n2 \nneed by the States’ health authorities and review of \n3 \npharmaceutical.”  \n4 \n \nSection 14.  Chapter 13 of title 41 of the Code of the \n5 \nFederated States of Micronesia (Annotated), as amended, is hereby \n6 \namended by inserting a new section 1309 of subchapter 4 to read as \n7 \nfollows: \n8 \n“Section 1309.  Establishment licensing requirements. \n9 \n (1) The Secretary of Health or his designee shall have \n10 \nthe authority to regulate the licensure requirements for \n11 \nEstablishments.  \n12 \n (2) All Establishments shall be licensed by the \n13 \nPharmaceutical Unit in order to be eligible to import \n14 \npharmaceuticals into the FSM [pharmaceuticals out of the \n15 \nFSM].  Establishments are prohibited from importing \n16 \npharmaceuticals without a valid license from the \n17 \nPharmaceutical Unit.  \n18 \n (3) All Establishments shall comply with the licensure \n19 \nstandards and conditions set by the Secretary of Health \n20 \nor his designee including but not limited to unannounced \n21 \nrandom collection of a sample of the pharmaceutical at \n22 \nthe authorized port of ",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "FSM-CONTEXT-2",
+        "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+        "raw_sha256": "6f70d674ccd0235d842f8a3274217f3a1afdba7a5678a7dfd85bdf12caa8eae3",
+        "text_sha256": "8ea72c5770bcf93fe951be8ff35eff882ed223a926f5061d0ecafb70a6506e21",
+        "start_offset": 19984,
+        "end_offset": 21975,
+        "verbatim_extracted_text": " Secretary of Health, with input from the \n25 \n\n\nPAGE 15\n \nCONGRESSIONAL BILL NO. 22-166 C.D.1 \n \nP.C. NO. 22-288 \nPUBLIC LAW NO. 22-136 \n \n \n \n15 of 21 \nPharmaceutical Unit Coordinator, shall determine the fee \n1 \nand rules for Establishments to apply for licensure from \n2 \nthe Pharmaceutical Unit.”  \n3 \n \nSection 15.  Chapter 13 of title 41 of the Code of the \n4 \nFederated States of Micronesia (Annotated), as amended, as \n5 \namended, is hereby amended by inserting a new section 1310 of \n6 \nsubchapter 4 to read as follows:   \n7 \n“Section 1310.  Pharmaceutical product registration \n8 \nsystem. \n9 \n(1) The Secretary of Health or his designee shall \n10 \nhave the authority to regulate the pharmaceutical product \n11 \nregistration requirements.  Pharmaceuticals registered in \n12 \ncompetent jurisdictions as determined by the Secretary of \n13 \nHealth and designated on the FSM Approved Medicines List \n14 \nmay be exempt from the pharmaceutical registration review \n15 \nrequirements.  \n16 \n (2) The Secretary of Health, with input from the \n17 \nPharmaceutical Unit Coordinator, shall establish the \n18 \ncriteria and conditions for pharmaceutical product \n19 \nregistration.  The criteria and conditions for \n20 \npharmaceutical product registration shall include but are \n21 \nnot limited to:  \n22 \n (a) only licensed Establishments eligible to \n23 \napply for pharmaceutical product registration with the \n24 \nPharmaceutical Unit \n25 \n\n\nPAGE 16\n \nCONGRESSIONAL BILL NO. 22-166 C.D.1 \n \nP.C. NO. 22-288 \nPUBLIC LAW NO. 22-136 \n \n \n \n16 of 21 \n (b) procurement, storage and disposal \n1 \nrequirements for pharmaceuticals; and \n2 \n(c) record-keeping requirements for \n3 \npharmaceuticals.  \n4 \n(3) The Secretary of Health or his designee shall \n5 \nregulate the criteria and procedure for registration of \n6 \nnew chemical compounds and/or variations to \n7 \npharmaceuticals currently registered in the \n8 \npharmaceutical product registration system. \n9 \n (4) The Secretary of Health, with input fro",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "FSM",
+      "country": "Micronesia (Federated States of)",
+      "selected_document_id": "36400116c983759b5d18",
+      "source_id": "ef34bc195981c923",
+      "pathway": "Conditional exemption tied to domestic list",
+      "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+      "document_title": "TWENTY-SECOND CONGRESS OF THE FEDERATED STATES OF MICRONESIA",
+      "source_type": "Statute",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "6f70d674ccd0235d842f8a3274217f3a1afdba7a5678a7dfd85bdf12caa8eae3",
+      "raw_hash_validated": true,
+      "text_sha256": "8ea72c5770bcf93fe951be8ff35eff882ed223a926f5061d0ecafb70a6506e21",
+      "version_dates": {},
+      "version_scope_note": "FSM Safe Pharmaceutical Act 2022 §§1308/1310. List inclusion and designated jurisdiction are cumulative requirements. New compounds subject to separately adopted criteria.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          17604,
+          19917
+        ],
+        [
+          19984,
+          21975
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Competent jurisdictions are designated by Secretary; FDA/EMA list not supplied in this statute.",
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Competent-jurisdiction registration AND inclusion on FSM Approved Medicines List.",
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Foreign-approved-list exemption does not identify assessment-report content/consent sufficiency.",
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Listed qualifying products may be exempt from specific registration review; Secretary defines criteria including new compounds.",
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Secretary reviews list/jurisdiction designations and may revise them.",
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "FSM-Q01",
+            "FSM-Q02",
+            "FSM-CONTEXT-1",
+            "FSM-CONTEXT-2"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "FSM-Q01",
+          "iso3": "FSM",
+          "event_id": "FSM_110",
+          "document_id": "36400116c983759b5d18",
+          "source_id": "ef34bc195981c923",
+          "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+          "raw_sha256": "6f70d674ccd0235d842f8a3274217f3a1afdba7a5678a7dfd85bdf12caa8eae3",
+          "text_sha256": "8ea72c5770bcf93fe951be8ff35eff882ed223a926f5061d0ecafb70a6506e21",
+          "start_offset": 18354,
+          "end_offset": 18917,
+          "pdf_page": 13,
+          "verbatim_extracted_text": "Only pharmaceuticals listed on the FSM Approved \n21 \nMedicines List from competent jurisdictions can be \n22 \nimported into the FSM by licensed Establishments without \n23 \nthe specific pharmaceutical registration approval from \n24 \nthe Pharmaceutical Unit.  \n25 \n\n\nPAGE 14\n \nCONGRESSIONAL BILL NO. 22-166 C.D.1 \n \nP.C. NO. 22-288 \nPUBLIC LAW NO. 22-136 \n \n \n \n14 of 21 \n(4) The Secretary of Health may add pharmaceuticals \n1 \nto the FSM Approved Medicines List upon certification of \n2 \nneed by the States’ health authorities and review of \n3 \npharmaceutical.”  \n4",
+          "display_text": "Only pharmaceuticals listed on the FSM Approved 21 Medicines List from competent jurisdictions can be 22 imported into the FSM by licensed Establishments without 23 the specific pharmaceutical registration approval from 24 the Pharmaceutical Unit. 25 PAGE 14 CONGRESSIONAL BILL NO. 22-166 C.D.1 P.C. NO. 22-288 PUBLIC LAW NO. 22-136 14 of 21 (4) The Secretary of Health may add pharmaceuticals 1 to the FSM Approved Medicines List upon certification of 2 need by the States’ health authorities and review of 3 pharmaceutical.” 4",
+          "feature_tags": [
+            "local_list"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "FSM-Q02",
+          "iso3": "FSM",
+          "event_id": "FSM_110",
+          "document_id": "36400116c983759b5d18",
+          "source_id": "ef34bc195981c923",
+          "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+          "raw_sha256": "6f70d674ccd0235d842f8a3274217f3a1afdba7a5678a7dfd85bdf12caa8eae3",
+          "text_sha256": "8ea72c5770bcf93fe951be8ff35eff882ed223a926f5061d0ecafb70a6506e21",
+          "start_offset": 20734,
+          "end_offset": 20975,
+          "pdf_page": 15,
+          "verbatim_extracted_text": "Pharmaceuticals registered in \n12 \ncompetent jurisdictions as determined by the Secretary of \n13 \nHealth and designated on the FSM Approved Medicines List \n14 \nmay be exempt from the pharmaceutical registration review \n15 \nrequirements.  \n16",
+          "display_text": "Pharmaceuticals registered in 12 competent jurisdictions as determined by the Secretary of 13 Health and designated on the FSM Approved Medicines List 14 may be exempt from the pharmaceutical registration review 15 requirements. 16",
+          "feature_tags": [
+            "local_list",
+            "discretion"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "FSM-CONTEXT-1",
+          "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+          "raw_sha256": "6f70d674ccd0235d842f8a3274217f3a1afdba7a5678a7dfd85bdf12caa8eae3",
+          "text_sha256": "8ea72c5770bcf93fe951be8ff35eff882ed223a926f5061d0ecafb70a6506e21",
+          "start_offset": 17604,
+          "end_offset": 19917,
+          "verbatim_extracted_text": "for pharmaceuticals to add, remove from, or modify on the \n8 \nFSM Approved Medicines List.  \n9 \n(2) The Secretary of Health shall review the FSM \n10 \nApproved Medicines List and the designation of competent \n11 \njurisdictions every five years or upon the Secretary of \n12 \nHealth certification to Congress that imminent peril to \n13 \nthe public health, safety, or welfare requires immediate \n14 \nreview and changes to the Approved Medicines List and/or \n15 \ncompetent jurisdiction designations. Upon review of the \n16 \nFSM Approved Medicines List and the competent \n17 \njurisdiction designations, the Secretary of Health shall \n18 \ndetermine whether pharmaceuticals and jurisdictions will \n19 \nbe added, removed, or modified, respectively. \n20 \n(3) \nOnly pharmaceuticals listed on the FSM Approved \n21 \nMedicines List from competent jurisdictions can be \n22 \nimported into the FSM by licensed Establishments without \n23 \nthe specific pharmaceutical registration approval from \n24 \nthe Pharmaceutical Unit.  \n25 \n\n\nPAGE 14\n \nCONGRESSIONAL BILL NO. 22-166 C.D.1 \n \nP.C. NO. 22-288 \nPUBLIC LAW NO. 22-136 \n \n \n \n14 of 21 \n(4) The Secretary of Health may add pharmaceuticals \n1 \nto the FSM Approved Medicines List upon certification of \n2 \nneed by the States’ health authorities and review of \n3 \npharmaceutical.”  \n4 \n \nSection 14.  Chapter 13 of title 41 of the Code of the \n5 \nFederated States of Micronesia (Annotated), as amended, is hereby \n6 \namended by inserting a new section 1309 of subchapter 4 to read as \n7 \nfollows: \n8 \n“Section 1309.  Establishment licensing requirements. \n9 \n (1) The Secretary of Health or his designee shall have \n10 \nthe authority to regulate the licensure requirements for \n11 \nEstablishments.  \n12 \n (2) All Establishments shall be licensed by the \n13 \nPharmaceutical Unit in order to be eligible to import \n14 \npharmaceuticals into the FSM [pharmaceuticals out of the \n15 \nFSM].  Establishments are prohibited from importing \n16 \npharmaceuticals without a valid license from the \n17 \nPharmaceutical Unit.  \n18 \n (3) All Establishments shall comply with the licensure \n19 \nstandards and conditions set by the Secretary of Health \n20 \nor his designee including but not limited to unannounced \n21 \nrandom collection of a sample of the pharmaceutical at \n22 \nthe authorized port of ",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "FSM-CONTEXT-2",
+          "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
+          "raw_sha256": "6f70d674ccd0235d842f8a3274217f3a1afdba7a5678a7dfd85bdf12caa8eae3",
+          "text_sha256": "8ea72c5770bcf93fe951be8ff35eff882ed223a926f5061d0ecafb70a6506e21",
+          "start_offset": 19984,
+          "end_offset": 21975,
+          "verbatim_extracted_text": " Secretary of Health, with input from the \n25 \n\n\nPAGE 15\n \nCONGRESSIONAL BILL NO. 22-166 C.D.1 \n \nP.C. NO. 22-288 \nPUBLIC LAW NO. 22-136 \n \n \n \n15 of 21 \nPharmaceutical Unit Coordinator, shall determine the fee \n1 \nand rules for Establishments to apply for licensure from \n2 \nthe Pharmaceutical Unit.”  \n3 \n \nSection 15.  Chapter 13 of title 41 of the Code of the \n4 \nFederated States of Micronesia (Annotated), as amended, as \n5 \namended, is hereby amended by inserting a new section 1310 of \n6 \nsubchapter 4 to read as follows:   \n7 \n“Section 1310.  Pharmaceutical product registration \n8 \nsystem. \n9 \n(1) The Secretary of Health or his designee shall \n10 \nhave the authority to regulate the pharmaceutical product \n11 \nregistration requirements.  Pharmaceuticals registered in \n12 \ncompetent jurisdictions as determined by the Secretary of \n13 \nHealth and designated on the FSM Approved Medicines List \n14 \nmay be exempt from the pharmaceutical registration review \n15 \nrequirements.  \n16 \n (2) The Secretary of Health, with input from the \n17 \nPharmaceutical Unit Coordinator, shall establish the \n18 \ncriteria and conditions for pharmaceutical product \n19 \nregistration.  The criteria and conditions for \n20 \npharmaceutical product registration shall include but are \n21 \nnot limited to:  \n22 \n (a) only licensed Establishments eligible to \n23 \napply for pharmaceutical product registration with the \n24 \nPharmaceutical Unit \n25 \n\n\nPAGE 16\n \nCONGRESSIONAL BILL NO. 22-166 C.D.1 \n \nP.C. NO. 22-288 \nPUBLIC LAW NO. 22-136 \n \n \n \n16 of 21 \n (b) procurement, storage and disposal \n1 \nrequirements for pharmaceuticals; and \n2 \n(c) record-keeping requirements for \n3 \npharmaceuticals.  \n4 \n(3) The Secretary of Health or his designee shall \n5 \nregulate the criteria and procedure for registration of \n6 \nnew chemical compounds and/or variations to \n7 \npharmaceuticals currently registered in the \n8 \npharmaceutical product registration system. \n9 \n (4) The Secretary of Health, with input fro",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

@@ -229,5 +229,668 @@
     "source_hashes": [
       "b666c2b28daeb1a6fcda7ff53972f10185f3bd197c1e9d1a17a6a362cd330657"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "NLD",
+    "country": "Netherlands (Kingdom of the)",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU sequential/simultaneous procedure required when another Member State is involved",
+    "source_url": "https://wetten.overheid.nl/BWBR0021505/",
+    "document_id": "84839ac60756f6746cbc",
+    "genre": "Statute",
+    "language": "nl",
+    "scope": "EU shared authorisation procedure implemented nationally",
+    "version_note": "Dutch consolidated Medicines Act Article 44 concerns EU multi-Member-State procedures. It is not a national FDA recognition route; the standardized EMA centralized approval must not be substituted for another Member State’s national MRP authorization.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "General human medicine provisions; selected text does not resolve all legal bases.",
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Other EU Member States; FDA not within the quoted procedure.",
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "One other Member State authorization or pending application triggers shared procedure; not FDA+EMA count.",
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Article delegates operational shared procedure to ministerial rules.",
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "General 210-day clock pauses for applicant information; expressly does not apply to sequential/simultaneous EU procedure.",
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "explicit requirement",
+        "finding": "Must stop ordinary handling for pending same-product Member State application; reject filing outside required shared route.",
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NLD-Q01",
+          "NLD-CTX-1"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": null,
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "passage_id": "NLD-Q01",
+        "source_document_id": "84839ac60756f6746cbc",
+        "evidence_role": "Selected primary document",
+        "section_article": "44(1)–(5)",
+        "pdf_page": null,
+        "source_url": "https://wetten.overheid.nl/BWBR0021505/",
+        "raw_sha256": "8fd5c9f1b001c6b622662f58bbc2be85d95de446e86db313c98b8b8af6a3b30f",
+        "text_sha256": "bca7ffce1adbff9f9f1d197d39904e40bbe398863cd0cb56112f3e0417303978",
+        "exact_text": "Het College bevestigt de ontvangst van een aanvraag om een handelsvergunning of van\n                                                een aanvulling daarop als bedoeld in\nartikel 4:5 van de Algemene wet bestuursrecht\n, schriftelijk binnen een week.\n2\nHet College neemt binnen 210 dagen na ontvangst van een aanvraag een besluit of een\n                                                handelsvergunning wordt verleend. Deze termijn wordt opgeschort gedurende een door\n                                                het College gestelde termijn waarbinnen de aanvrager de gelegenheid heeft door het\n                                                College verlangde aanvullende gegevens over te leggen.\n3\nBij ministeriële regeling worden, met het oog op de volgtijdelijke of de gelijktijdige\n                                                verlening van een handelsvergunning voor hetzelfde geneesmiddel in meer dan één lidstaat,\n                                                regels gesteld met betrekking tot de door de aanvrager en het College te volgen procedure.\n                                                De termijn van 210 dagen, bedoeld in het tweede lid, is niet van toepassing.\n4\nIndien bij het College een aanvraag om een handelsvergunning is ingediend en het College\n                                                constateert dat in een andere lidstaat reeds een aanvraag om een handelsvergunning\n                                                voor hetzelfde geneesmiddel in behandeling is, staakt hij de behandeling en deelt\n                                                de aanvrager mede dat de procedure, bedoeld in het derde lid, van toepassing is.\n5\nIndien de aanvraag een geneesmiddel betreft waarvoor in een andere lidstaat reeds\n                                                een handelsvergunning is verleend en de aanvraag niet overeenkomstig de procedure,\n                                                bedoeld in het derde lid, is ingediend, wijst het College de aanvraag af.\n6",
+        "start": 103994,
+        "end": 106002,
+        "translation": "The Board shall acknowledge receipt of an application for marketing authorisation or a supplement as referred to in Article 4:5 of the General Administrative Law Act in writing within one week. 2. The Board shall decide within 210 days of receipt whether to grant marketing authorisation. This period is suspended during the period set by the Board for the applicant to submit additional information requested by the Board. 3. Ministerial regulations shall establish the procedure for the applicant and the Board for sequential or simultaneous marketing authorisation of the same medicine in more than one Member State. The 210-day period in paragraph 2 does not apply. 4. If an application is filed with the Board and the Board finds that an application for the same medicine is already under consideration in another Member State, it shall stop processing and inform the applicant that paragraph 3 applies. 5. If the application concerns a medicine already authorised in another Member State and has not been submitted under the procedure in paragraph 3, the Board shall reject it. [Beginning of paragraph 6 outside selected provision.]",
+        "translation_status": "Assistant checked and corrected research translation; not official/certified",
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "NLD-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://wetten.overheid.nl/BWBR0021505/",
+        "raw_sha256": "8fd5c9f1b001c6b622662f58bbc2be85d95de446e86db313c98b8b8af6a3b30f",
+        "text_sha256": "bca7ffce1adbff9f9f1d197d39904e40bbe398863cd0cb56112f3e0417303978",
+        "exact_text": " van tien jaren volgend op de datum waarop de handelsvergunning\n                                                voor het referentiegeneesmiddel is verleend. Deze periode van bescherming voor het\n                                                referentiegeneesmiddel wordt verlengd tot ten hoogste elf jaren indien de handelsvergunning\n                                                voor het referentiegeneesmiddel binnen een periode van acht jaren nadat zij is verleend,\n                                                bij beslissing van het College, de bevoegde autoriteit van een andere lidstaat dan\n                                                wel de Europese Commissie, wordt uitgebreid met een nieuwe indicatie die kan worden\n                                                beschouwd als een belangrijk klinisch voordeel ten opzichte van bestaande indicaties.\n3\nIn aanvulling op het in het tweede lid bepaalde wordt bij een aanvraag voor een nieuwe\n                                                indicatie voor een bekende stof, aan de aanvrager gegevensexclusiviteit toegekend\n                                                voor een niet-cumulatieve periode van een jaar, mits de relevante preklinische of\n                                                klinische studies met betrekking tot de nieuwe indicatie zijn uitgevoerd.\nArtikel 44\nToon relaties in LiDO\nMaak een permanente link\nToon wetstechnische informatie\n...\nDruk het regelingonderdeel af\nSla het regelingonderdeel op\n1\nHet College bevestigt de ontvangst van een aanvraag om een handelsvergunning of van\n                                                een aanvulling daarop als bedoeld in\nartikel 4:5 van de Algemene wet bestuursrecht\n, schriftelijk binnen een week.\n2\nHet College neemt binnen 210 dagen na ontvangst van een aanvraag een besluit of een\n                                                handelsvergunning wordt verleend. Deze termijn wordt opgeschort gedurende een door\n                                                het College gestelde termijn waarbinnen de aanvrager de gelegenheid heeft door het\n                                                College verlangde aanvullende gegevens over te leggen.\n3\nBij ministeriële regeling worden, met het oog op de volgtijdelijke of de gelijktijdige\n                                                verlening van een handelsvergunning voor hetzelfde geneesmiddel in meer dan één lidstaat,\n                                                regels gesteld met betrekking tot de door de aanvrager en het College te volgen procedure.\n                                                De termijn van 210 dagen, bedoeld in het tweede lid, is niet van toepassing.\n4\nIndien bij het College een aanvraag om een handelsvergunning is ingediend en het College\n                                                constateert dat in een andere lidstaat reeds een aanvraag om een handelsvergunning\n                                                voor hetzelfde geneesmiddel in behandeling is, staakt hij de behandeling en deelt\n                                                de aanvrager mede dat de procedure, bedoeld in het derde lid, van toepassing is.\n5\nIndien de aanvraag een geneesmiddel betreft waarvoor in een andere lidstaat reeds\n                                                een handelsvergunning is verleend en de aanvraag niet overeenkomstig de procedure,\n                                                bedoeld in het derde lid, is ingediend, wijst het College de aanvraag af.\n6\nBehoudens gevallen waarin\nartikel 79\nvan toepassing is, maakt het College in gevallen als bedoeld in artikelen 30, eerste\n                                                lid, en 31, eerste lid, van richtlijn 2001/83 een arbitrageprocedure aanhangig bij\n                                                het Geneesmiddelencomité. Het College neemt daarbij artikelen 31 tot en met 34 van\n                                                deze richtlijn in acht.\n7\nDe aanvrager of houder van een handelsvergunning kan eveneens de arbitrageprocedure,\n                                                bedoeld in zesde lid, aanhangig maken indien hij van oordeel is dat ten aanzien van\n                                                het geneesmiddel waarvoor die handelsvergunning is verleend een situatie als bedoeld\n                                                in dat lid van toepassing is.\nArtikel 45\nToon relaties in LiDO\nMaak een permanente link\nToon wetstechnische informatie\n...\nDruk het regelingonderdeel af\nSla het regelingonderdeel op\n1\nHet College verleent een handelsvergunning voor een geneesmiddel, niet zijnde een\n                                                kruidengeneesmiddel als bedoeld in\nartikel 42, achtste lid\n, indien na onderzoek van de overgelegde gegevens en bescheiden blijkt dat:\na.\nde afweging van voordelen en risico’s gunstig uitvalt,\nb.\nhet geneesmiddel de gestelde therapeutische werking bezit,\nc.\nhet geneesmiddel de opgegeven kwalitatieve en kwantitatieve samenstelling bezit, en\nd.\nde tot staving van de aanvraag verstrekte gegevens of bescheiden in overeenstemming\n                                                      zijn met het bij of krachtens deze wet ter zake bepaalde.\n2\nHet College verleent een handelsvergunning voor een kruidengeneesmiddel als bedoeld\n                                                in\nartikel 42, achtste lid\n, – hierna te noemen handelsvergunning voor een traditioneel kruidengeneesmiddel –\n                                                indien na onderzoek blijkt dat:\na.\naan de voorwaarden, bedoeld in\nartikel 42, achtste lid\n, is voldaan,\nb.\nhet middel in normale gebruiksomstandigheden onschadelijk is,\nc.\nhet middel farmacologische effecten of een werkzaamheid heeft,\nd.\nde farmaceutische kwaliteit afdoende is aangetoond en\ne.\nhet middel geen homeopathisch geneesmiddel als bedoeld in\nartikel 42, derde lid\n, betreft.\n3\nDe aanvrager of houder van een handelsvergunning is verantwoordelijk voor de juistheid\n                                                van de ingediende gegevens en bescheiden.\n4\nHet College betrekt in zijn beoordeling van een aanvraag om een handelsvergunning\n                                                voor een traditioneel kruidengeneesmiddel door het Comité voor kruidengeneesmiddelen\n            ",
+        "start": 102500,
+        "end": 108800,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "NLD",
+      "country": "Netherlands (Kingdom of the)",
+      "selected_document_id": "84839ac60756f6746cbc",
+      "source_id": "eb8f15d34e929185",
+      "pathway": "EU sequential/simultaneous procedure required when another Member State is involved",
+      "source_url": "https://wetten.overheid.nl/BWBR0021505/",
+      "document_title": "Official law/legislation discovery seed; exact authorization provisions require validation",
+      "source_type": "Statute",
+      "scope": "EU shared authorisation procedure implemented nationally",
+      "language": "nl",
+      "translation_provenance": [
+        {
+          "NLD-Q01": "Assistant checked and corrected research translation; not official/certified"
+        }
+      ],
+      "raw_sha256": "8fd5c9f1b001c6b622662f58bbc2be85d95de446e86db313c98b8b8af6a3b30f",
+      "raw_hash_validated": true,
+      "text_sha256": "bca7ffce1adbff9f9f1d197d39904e40bbe398863cd0cb56112f3e0417303978",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "Dutch consolidated Medicines Act Article 44 concerns EU multi-Member-State procedures. It is not a national FDA recognition route; the standardized EMA centralized approval must not be substituted for another Member State’s national MRP authorization.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          103994,
+          106002
+        ],
+        [
+          102500,
+          108800
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "General human medicine provisions; selected text does not resolve all legal bases.",
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Other EU Member States; FDA not within the quoted procedure.",
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "One other Member State authorization or pending application triggers shared procedure; not FDA+EMA count.",
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Article delegates operational shared procedure to ministerial rules.",
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "General 210-day clock pauses for applicant information; expressly does not apply to sequential/simultaneous EU procedure.",
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "explicit requirement",
+          "finding": "Must stop ordinary handling for pending same-product Member State application; reject filing outside required shared route.",
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NLD-Q01",
+            "NLD-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "NLD-Q01",
+          "source_document_id": "84839ac60756f6746cbc",
+          "evidence_role": "Selected primary document",
+          "section_article": "44(1)–(5)",
+          "pdf_page": null,
+          "source_url": "https://wetten.overheid.nl/BWBR0021505/",
+          "raw_sha256": "8fd5c9f1b001c6b622662f58bbc2be85d95de446e86db313c98b8b8af6a3b30f",
+          "text_sha256": "bca7ffce1adbff9f9f1d197d39904e40bbe398863cd0cb56112f3e0417303978",
+          "exact_text": "Het College bevestigt de ontvangst van een aanvraag om een handelsvergunning of van\n                                                een aanvulling daarop als bedoeld in\nartikel 4:5 van de Algemene wet bestuursrecht\n, schriftelijk binnen een week.\n2\nHet College neemt binnen 210 dagen na ontvangst van een aanvraag een besluit of een\n                                                handelsvergunning wordt verleend. Deze termijn wordt opgeschort gedurende een door\n                                                het College gestelde termijn waarbinnen de aanvrager de gelegenheid heeft door het\n                                                College verlangde aanvullende gegevens over te leggen.\n3\nBij ministeriële regeling worden, met het oog op de volgtijdelijke of de gelijktijdige\n                                                verlening van een handelsvergunning voor hetzelfde geneesmiddel in meer dan één lidstaat,\n                                                regels gesteld met betrekking tot de door de aanvrager en het College te volgen procedure.\n                                                De termijn van 210 dagen, bedoeld in het tweede lid, is niet van toepassing.\n4\nIndien bij het College een aanvraag om een handelsvergunning is ingediend en het College\n                                                constateert dat in een andere lidstaat reeds een aanvraag om een handelsvergunning\n                                                voor hetzelfde geneesmiddel in behandeling is, staakt hij de behandeling en deelt\n                                                de aanvrager mede dat de procedure, bedoeld in het derde lid, van toepassing is.\n5\nIndien de aanvraag een geneesmiddel betreft waarvoor in een andere lidstaat reeds\n                                                een handelsvergunning is verleend en de aanvraag niet overeenkomstig de procedure,\n                                                bedoeld in het derde lid, is ingediend, wijst het College de aanvraag af.\n6",
+          "start": 103994,
+          "end": 106002,
+          "translation": "The Board shall acknowledge receipt of an application for marketing authorisation or a supplement as referred to in Article 4:5 of the General Administrative Law Act in writing within one week. 2. The Board shall decide within 210 days of receipt whether to grant marketing authorisation. This period is suspended during the period set by the Board for the applicant to submit additional information requested by the Board. 3. Ministerial regulations shall establish the procedure for the applicant and the Board for sequential or simultaneous marketing authorisation of the same medicine in more than one Member State. The 210-day period in paragraph 2 does not apply. 4. If an application is filed with the Board and the Board finds that an application for the same medicine is already under consideration in another Member State, it shall stop processing and inform the applicant that paragraph 3 applies. 5. If the application concerns a medicine already authorised in another Member State and has not been submitted under the procedure in paragraph 3, the Board shall reject it. [Beginning of paragraph 6 outside selected provision.]",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "NLD-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://wetten.overheid.nl/BWBR0021505/",
+          "raw_sha256": "8fd5c9f1b001c6b622662f58bbc2be85d95de446e86db313c98b8b8af6a3b30f",
+          "text_sha256": "bca7ffce1adbff9f9f1d197d39904e40bbe398863cd0cb56112f3e0417303978",
+          "exact_text": " van tien jaren volgend op de datum waarop de handelsvergunning\n                                                voor het referentiegeneesmiddel is verleend. Deze periode van bescherming voor het\n                                                referentiegeneesmiddel wordt verlengd tot ten hoogste elf jaren indien de handelsvergunning\n                                                voor het referentiegeneesmiddel binnen een periode van acht jaren nadat zij is verleend,\n                                                bij beslissing van het College, de bevoegde autoriteit van een andere lidstaat dan\n                                                wel de Europese Commissie, wordt uitgebreid met een nieuwe indicatie die kan worden\n                                                beschouwd als een belangrijk klinisch voordeel ten opzichte van bestaande indicaties.\n3\nIn aanvulling op het in het tweede lid bepaalde wordt bij een aanvraag voor een nieuwe\n                                                indicatie voor een bekende stof, aan de aanvrager gegevensexclusiviteit toegekend\n                                                voor een niet-cumulatieve periode van een jaar, mits de relevante preklinische of\n                                                klinische studies met betrekking tot de nieuwe indicatie zijn uitgevoerd.\nArtikel 44\nToon relaties in LiDO\nMaak een permanente link\nToon wetstechnische informatie\n...\nDruk het regelingonderdeel af\nSla het regelingonderdeel op\n1\nHet College bevestigt de ontvangst van een aanvraag om een handelsvergunning of van\n                                                een aanvulling daarop als bedoeld in\nartikel 4:5 van de Algemene wet bestuursrecht\n, schriftelijk binnen een week.\n2\nHet College neemt binnen 210 dagen na ontvangst van een aanvraag een besluit of een\n                                                handelsvergunning wordt verleend. Deze termijn wordt opgeschort gedurende een door\n                                                het College gestelde termijn waarbinnen de aanvrager de gelegenheid heeft door het\n                                                College verlangde aanvullende gegevens over te leggen.\n3\nBij ministeriële regeling worden, met het oog op de volgtijdelijke of de gelijktijdige\n                                                verlening van een handelsvergunning voor hetzelfde geneesmiddel in meer dan één lidstaat,\n                                                regels gesteld met betrekking tot de door de aanvrager en het College te volgen procedure.\n                                                De termijn van 210 dagen, bedoeld in het tweede lid, is niet van toepassing.\n4\nIndien bij het College een aanvraag om een handelsvergunning is ingediend en het College\n                                                constateert dat in een andere lidstaat reeds een aanvraag om een handelsvergunning\n                                                voor hetzelfde geneesmiddel in behandeling is, staakt hij de behandeling en deelt\n                                                de aanvrager mede dat de procedure, bedoeld in het derde lid, van toepassing is.\n5\nIndien de aanvraag een geneesmiddel betreft waarvoor in een andere lidstaat reeds\n                                                een handelsvergunning is verleend en de aanvraag niet overeenkomstig de procedure,\n                                                bedoeld in het derde lid, is ingediend, wijst het College de aanvraag af.\n6\nBehoudens gevallen waarin\nartikel 79\nvan toepassing is, maakt het College in gevallen als bedoeld in artikelen 30, eerste\n                                                lid, en 31, eerste lid, van richtlijn 2001/83 een arbitrageprocedure aanhangig bij\n                                                het Geneesmiddelencomité. Het College neemt daarbij artikelen 31 tot en met 34 van\n                                                deze richtlijn in acht.\n7\nDe aanvrager of houder van een handelsvergunning kan eveneens de arbitrageprocedure,\n                                                bedoeld in zesde lid, aanhangig maken indien hij van oordeel is dat ten aanzien van\n                                                het geneesmiddel waarvoor die handelsvergunning is verleend een situatie als bedoeld\n                                                in dat lid van toepassing is.\nArtikel 45\nToon relaties in LiDO\nMaak een permanente link\nToon wetstechnische informatie\n...\nDruk het regelingonderdeel af\nSla het regelingonderdeel op\n1\nHet College verleent een handelsvergunning voor een geneesmiddel, niet zijnde een\n                                                kruidengeneesmiddel als bedoeld in\nartikel 42, achtste lid\n, indien na onderzoek van de overgelegde gegevens en bescheiden blijkt dat:\na.\nde afweging van voordelen en risico’s gunstig uitvalt,\nb.\nhet geneesmiddel de gestelde therapeutische werking bezit,\nc.\nhet geneesmiddel de opgegeven kwalitatieve en kwantitatieve samenstelling bezit, en\nd.\nde tot staving van de aanvraag verstrekte gegevens of bescheiden in overeenstemming\n                                                      zijn met het bij of krachtens deze wet ter zake bepaalde.\n2\nHet College verleent een handelsvergunning voor een kruidengeneesmiddel als bedoeld\n                                                in\nartikel 42, achtste lid\n, – hierna te noemen handelsvergunning voor een traditioneel kruidengeneesmiddel –\n                                                indien na onderzoek blijkt dat:\na.\naan de voorwaarden, bedoeld in\nartikel 42, achtste lid\n, is voldaan,\nb.\nhet middel in normale gebruiksomstandigheden onschadelijk is,\nc.\nhet middel farmacologische effecten of een werkzaamheid heeft,\nd.\nde farmaceutische kwaliteit afdoende is aangetoond en\ne.\nhet middel geen homeopathisch geneesmiddel als bedoeld in\nartikel 42, derde lid\n, betreft.\n3\nDe aanvrager of houder van een handelsvergunning is verantwoordelijk voor de juistheid\n                                                van de ingediende gegevens en bescheiden.\n4\nHet College betrekt in zijn beoordeling van een aanvraag om een handelsvergunning\n                                                voor een traditioneel kruidengeneesmiddel door het Comité voor kruidengeneesmiddelen\n            ",
+          "start": 102500,
+          "end": 108800,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "NLD-SUP-b666c2b2-740",
+          "source_url": "https://business.gov.nl/regulations/trading-permit-medicines/",
+          "section_article": "Marketing authorisation procedures",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

@@ -242,5 +242,655 @@
       "6b74d03022a1b40447b3b6765acc51f2ec30a2fe75bcf4df4516e682103c3471",
       "be0a3ff181781a8e7d34d05d95362c2c2de433baac01b334b156d96ab576f57a"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "LKA",
+    "country": "Sri Lanka",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Conditional shall-register directive",
+    "source_url": "https://cdn.prod.website-files.com/666d0695ca3ba7fa496a5068/679c90bf660dfa9e9b05f552_Guideline%20on%20Reliance%20Practices%20in%20Marketing%20Authorization%20of%20Medicine%20-%20Revision%2001.pdf",
+    "document_id": "4871136124016cb83333",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Sri Lanka reliance guideline Rev 01, effective 31 January 2025. New API threshold differs from other abridged products. Preserve literal source term fullunreductant as an apparent drafting error rather than silently correcting it.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "New APIs and new fixed-dose combinations are eligible only subject to the specific two-reference-approval condition.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "The accepted-RRA list is incorporated elsewhere. FDA/EMA recognition is not assumed merely from the generic RRA wording.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Generally one RRA; new API/new fixed-dose combination requires two. A chemical-product alternative based on foreign GMP plus manufacturing-country approval and three additional countries is distinct.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Sameness, foreign registration/marketing proof and applicant–manufacturer contract documentation required.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "For new molecules, internal clinical/nonclinical evaluation verifies the fullunreductant assessment report. Earlier public report/CoPP proof of registration is not automatically the same scientific report.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "discretionary/conditional",
+        "finding": "A full-report condition is explicit, but the word unreductant appears erroneous. Its intended unredacted meaning is not silently imposed without verification.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Public-only sufficiency is unresolved against the explicit full-report wording for new molecules and the drafting error in unreductant.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "An applicant–manufacturer contract is not automatically permission to share regulator-owned assessment reports.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Internal clinical/nonclinical evaluation remains for new molecules; exclusions from external evaluation are not a general scientific-review waiver.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "Abridged assessment within 90 days after sameness and local-information checks; this is a stated timeline, not observed duration.",
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "explicitly ineligible for identified two-reference new-API route",
+        "finding": "FDA-only gives one approval, below the new-API two-RRA threshold. The separate manufacturing-country-plus-three-other-countries alternative is also not established by the fixed FDA-only facts.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "LKA-Q01",
+          "LKA-CONTEXT-1",
+          "LKA-CTX-1"
+        ],
+        "status": "explicitly ineligible for identified two-reference new-API route"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "LKA-Q01",
+        "iso3": "LKA",
+        "event_id": "LKA_070",
+        "document_id": "4871136124016cb83333",
+        "source_id": "373b0df67ee759ba",
+        "source_url": "https://cdn.prod.website-files.com/666d0695ca3ba7fa496a5068/679c90bf660dfa9e9b05f552_Guideline%20on%20Reliance%20Practices%20in%20Marketing%20Authorization%20of%20Medicine%20-%20Revision%2001.pdf",
+        "raw_sha256": "e551b9ba206e8a9f2db0e5b90d00d86d8d933ac55d56c0af7e93a8a2660fddc1",
+        "text_sha256": "574b10be07a7299e7a70700c0f7a0a184079decca0c29c14cc91b8aaa944a01b",
+        "start_offset": 13280,
+        "end_offset": 17196,
+        "pdf_page": 6,
+        "verbatim_extracted_text": "8.1 Abridged Registration for initial marketing authorisation  \n \n▪ Products with marketing authorisation from one reference regulatory authority (two if API \nor fixed dose combination is new) shall be registered at NMRA within 90 days after the \nverification of the sameness of a medicinal product and taking into consideration the \ncountry-specific information submitted for review.  \n \n▪ Chemical medicines finished products manufactured in a manufacturing site with a valid \nand relevant GMP certificate from a reference regulatory authority, and with a marketing \nauthorisation in the manufacturing country and at least 3 other countries shall be registered \nat NMRA within 90 days after the verification of the sameness, bridging assessment \ndepending on the scope of the GMP certificate, and taking into consideration the country-\nspecific information submitted for review. \n \n \n\n\nPAGE 7\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 7 of 12 \n \n \n Reduced dossier requirement for the abridged registration marketing authorization \npathways: (Please refer to Guideline on Registration of Medicines-GL-021)  \n \nReliance for Marketing Authorisation \n▪ Cover letter signed by the applicant’s responsible officer, including a commitment to \ninform NMRA immediately in case of withdrawal of marketing authorization in any \ncountry due to a quality, safety or conclusion of a benefit-risk review triggered by a safety \nissue. \n▪ Application form-Appendix 1 (including product, manufacturers, and applicant \ndetails); \n▪ Applicant business registration/licence information; \n▪ Contract between applicant and finished product manufacturer authorizing applicant \nto submit application and undertake related regulatory work during and after \nassessment; \n▪ Declaration of sameness of product  \n▪ Declaration on regulatory status in other countries. \n▪ Product information \n▪ Proof of approval and marketing in one or more reference country, with detailed \ndescription of the product approved*;  \n▪ Evidence of approval from the reference organization (CoPP/Public assessment \nreport)  \n▪ Stability study report as per Guideline on registration of medicine (GL-021,V1.0) \ncovering applicable climatic zone \n▪ Lot release certificate from at least one reference NRA for vaccines/sera \n \n \n* the detailed description should include the Applicant name and unique code, \nInvented/brand name, generic name  (as it should appear in printouts), Dosage form, Strength \n(needs to be consistent with generic name), Route of administration, Description of dosage \nform, presentation and pack size (including details of different forms/items in the same \npackage), Therapeutic classification, A detailed formula mentioning APIs with their quantities, \nand inactive ingredients with or without quantities, Names and addresses of API and finished \nproduct manufacturers, Indications, Authorized importer(s) (if applicable), Dispensing \ncategory, Storage conditions, Other classification (country-specific). \n \n \n** GMP certificate information should include certificate number, applicable standards,  site \nname, site address, issue date and validity, Scope: product and activities. \n \n• Clinical & non-clinical data will be verified from the full unreductant assessment report \nfrom reference NRA during the internal evaluation and external evaluation for biosimilars \nand NME are excluded. \n \n \n \n \n \n\n\nPAGE 8\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 8 of 12",
+        "display_text": "8.1 Abridged Registration for initial marketing authorisation ▪ Products with marketing authorisation from one reference regulatory authority (two if API or fixed dose combination is new) shall be registered at NMRA within 90 days after the verification of the sameness of a medicinal product and taking into consideration the country-specific information submitted for review. ▪ Chemical medicines finished products manufactured in a manufacturing site with a valid and relevant GMP certificate from a reference regulatory authority, and with a marketing authorisation in the manufacturing country and at least 3 other countries shall be registered at NMRA within 90 days after the verification of the sameness, bridging assessment depending on the scope of the GMP certificate, and taking into consideration the country- specific information submitted for review. PAGE 7 GL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products Effective Date: 31/01/2025 Version and Revision Number/Code: V 1.0 / Rev No :01 Once PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version. Page 7 of 12 Reduced dossier requirement for the abridged registration marketing authorization pathways: (Please refer to Guideline on Registration of Medicines-GL-021) Reliance for Marketing Authorisation ▪ Cover letter signed by the applicant’s responsible officer, including a commitment to inform NMRA immediately in case of withdrawal of marketing authorization in any country due to a quality, safety or conclusion of a benefit-risk review triggered by a safety issue. ▪ Application form-Appendix 1 (including product, manufacturers, and applicant details); ▪ Applicant business registration/licence information; ▪ Contract between applicant and finished product manufacturer authorizing applicant to submit application and undertake related regulatory work during and after assessment; ▪ Declaration of sameness of product ▪ Declaration on regulatory status in other countries. ▪ Product information ▪ Proof of approval and marketing in one or more reference country, with detailed description of the product approved*; ▪ Evidence of approval from the reference organization (CoPP/Public assessment report) ▪ Stability study report as per Guideline on registration of medicine (GL-021,V1.0) covering applicable climatic zone ▪ Lot release certificate from at least one reference NRA for vaccines/sera * the detailed description should include the Applicant name and unique code, Invented/brand name, generic name (as it should appear in printouts), Dosage form, Strength (needs to be consistent with generic name), Route of administration, Description of dosage form, presentation and pack size (including details of different forms/items in the same package), Therapeutic classification, A detailed formula mentioning APIs with their quantities, and inactive ingredients with or without quantities, Names and addresses of API and finished product manufacturers, Indications, Authorized importer(s) (if applicable), Dispensing category, Storage conditions, Other classification (country-specific). ** GMP certificate information should include certificate number, applicable standards, site name, site address, issue date and validity, Scope: product and activities. • Clinical & non-clinical data will be verified from the full unreductant assessment report from reference NRA during the internal evaluation and external evaluation for biosimilars and NME are excluded. PAGE 8 GL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products Effective Date: 31/01/2025 Version and Revision Number/Code: V 1.0 / Rev No :01 Once PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version. Page 8 of 12",
+        "feature_tags": [
+          "automatic",
+          "two_approvals",
+          "sameness",
+          "local_evidence",
+          "reports",
+          "unredacted",
+          "foreign_marketing",
+          "decision_clock"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "LKA-CONTEXT-1",
+        "source_url": "https://cdn.prod.website-files.com/666d0695ca3ba7fa496a5068/679c90bf660dfa9e9b05f552_Guideline%20on%20Reliance%20Practices%20in%20Marketing%20Authorization%20of%20Medicine%20-%20Revision%2001.pdf",
+        "raw_sha256": "e551b9ba206e8a9f2db0e5b90d00d86d8d933ac55d56c0af7e93a8a2660fddc1",
+        "text_sha256": "574b10be07a7299e7a70700c0f7a0a184079decca0c29c14cc91b8aaa944a01b",
+        "start_offset": 12530,
+        "end_offset": 18196,
+        "verbatim_extracted_text": "r translated. \n \n7. \nNMRA’S process for selecting a Reference Regulatory Authority \nConsidering the criterion for selecting a reference regulatory authority, the Medicine \nRegulatory Division (MRD) of NMRA can propose to the Medicine Evaluation Committee \nto consider one regulatory authority as a reference regulatory authority. In addition, based \non the same criterion, external stakeholders may request the NMRA to consider the \naddition of another reference authority. \nOn the same basis, the Medicine Evaluation Committee discuss and approves the proposed \nreference authorities. \nThe current list or reference regulatory authorities is published on the NMRA website. \n(www.nmra.gov.lk)  \n \n8. Reliance pathways for marketing authorizations \n \n8.1 Abridged Registration for initial marketing authorisation  \n \n▪ Products with marketing authorisation from one reference regulatory authority (two if API \nor fixed dose combination is new) shall be registered at NMRA within 90 days after the \nverification of the sameness of a medicinal product and taking into consideration the \ncountry-specific information submitted for review.  \n \n▪ Chemical medicines finished products manufactured in a manufacturing site with a valid \nand relevant GMP certificate from a reference regulatory authority, and with a marketing \nauthorisation in the manufacturing country and at least 3 other countries shall be registered \nat NMRA within 90 days after the verification of the sameness, bridging assessment \ndepending on the scope of the GMP certificate, and taking into consideration the country-\nspecific information submitted for review. \n \n \n\n\nPAGE 7\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 7 of 12 \n \n \n Reduced dossier requirement for the abridged registration marketing authorization \npathways: (Please refer to Guideline on Registration of Medicines-GL-021)  \n \nReliance for Marketing Authorisation \n▪ Cover letter signed by the applicant’s responsible officer, including a commitment to \ninform NMRA immediately in case of withdrawal of marketing authorization in any \ncountry due to a quality, safety or conclusion of a benefit-risk review triggered by a safety \nissue. \n▪ Application form-Appendix 1 (including product, manufacturers, and applicant \ndetails); \n▪ Applicant business registration/licence information; \n▪ Contract between applicant and finished product manufacturer authorizing applicant \nto submit application and undertake related regulatory work during and after \nassessment; \n▪ Declaration of sameness of product  \n▪ Declaration on regulatory status in other countries. \n▪ Product information \n▪ Proof of approval and marketing in one or more reference country, with detailed \ndescription of the product approved*;  \n▪ Evidence of approval from the reference organization (CoPP/Public assessment \nreport)  \n▪ Stability study report as per Guideline on registration of medicine (GL-021,V1.0) \ncovering applicable climatic zone \n▪ Lot release certificate from at least one reference NRA for vaccines/sera \n \n \n* the detailed description should include the Applicant name and unique code, \nInvented/brand name, generic name  (as it should appear in printouts), Dosage form, Strength \n(needs to be consistent with generic name), Route of administration, Description of dosage \nform, presentation and pack size (including details of different forms/items in the same \npackage), Therapeutic classification, A detailed formula mentioning APIs with their quantities, \nand inactive ingredients with or without quantities, Names and addresses of API and finished \nproduct manufacturers, Indications, Authorized importer(s) (if applicable), Dispensing \ncategory, Storage conditions, Other classification (country-specific). \n \n \n** GMP certificate information should include certificate number, applicable standards,  site \nname, site address, issue date and validity, Scope: product and activities. \n \n• Clinical & non-clinical data will be verified from the full unreductant assessment report \nfrom reference NRA during the internal evaluation and external evaluation for biosimilars \nand NME are excluded. \n \n \n \n \n \n\n\nPAGE 8\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 8 of 12 \n \n \n8.2 Reliance for APIs \n \n• Active Pharmaceutical Ingredients (APIs) prequalified by WHO Prequalification programme for \nAPIs or with a Certificate of Suitability (CEP) for monographs in the European Pharmacopoeia \nfor APIs are recognized by the NMRA without further assessment of the S-Part of the quality \nmodule.  \nThe applicant company must submit a commitment letter to inform NMRA in case of withdrawal or \nvariation. \n \n8.3 Reliance for Pack inserts \n \n \n \nNMRA relies on and takes into consideration information from approved reference \nregulatory authority for marketing authorisation as reference for: \no Initial pack Inserts (the product must adhere to the reference). \no Changes related to safety issues and confirmed by relevant NMRA committees. \n \n \n8.4 Reliance for withdrawal and cancellation of medicinal products due to quality, safety, \nand efficacy issues  \n▪ NMRA relies on and takes into consideration the information received concerning safety \nand efficacy issues of medi",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "LKA-CTX-1",
+        "source_url": "https://cdn.prod.website-files.com/666d0695ca3ba7fa496a5068/679c90bf660dfa9e9b05f552_Guideline%20on%20Reliance%20Practices%20in%20Marketing%20Authorization%20of%20Medicine%20-%20Revision%2001.pdf",
+        "raw_sha256": "e551b9ba206e8a9f2db0e5b90d00d86d8d933ac55d56c0af7e93a8a2660fddc1",
+        "text_sha256": "574b10be07a7299e7a70700c0f7a0a184079decca0c29c14cc91b8aaa944a01b",
+        "start_offset": 15200,
+        "end_offset": 18196,
+        "verbatim_extracted_text": " undertake related regulatory work during and after \nassessment; \n▪ Declaration of sameness of product  \n▪ Declaration on regulatory status in other countries. \n▪ Product information \n▪ Proof of approval and marketing in one or more reference country, with detailed \ndescription of the product approved*;  \n▪ Evidence of approval from the reference organization (CoPP/Public assessment \nreport)  \n▪ Stability study report as per Guideline on registration of medicine (GL-021,V1.0) \ncovering applicable climatic zone \n▪ Lot release certificate from at least one reference NRA for vaccines/sera \n \n \n* the detailed description should include the Applicant name and unique code, \nInvented/brand name, generic name  (as it should appear in printouts), Dosage form, Strength \n(needs to be consistent with generic name), Route of administration, Description of dosage \nform, presentation and pack size (including details of different forms/items in the same \npackage), Therapeutic classification, A detailed formula mentioning APIs with their quantities, \nand inactive ingredients with or without quantities, Names and addresses of API and finished \nproduct manufacturers, Indications, Authorized importer(s) (if applicable), Dispensing \ncategory, Storage conditions, Other classification (country-specific). \n \n \n** GMP certificate information should include certificate number, applicable standards,  site \nname, site address, issue date and validity, Scope: product and activities. \n \n• Clinical & non-clinical data will be verified from the full unreductant assessment report \nfrom reference NRA during the internal evaluation and external evaluation for biosimilars \nand NME are excluded. \n \n \n \n \n \n\n\nPAGE 8\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 8 of 12 \n \n \n8.2 Reliance for APIs \n \n• Active Pharmaceutical Ingredients (APIs) prequalified by WHO Prequalification programme for \nAPIs or with a Certificate of Suitability (CEP) for monographs in the European Pharmacopoeia \nfor APIs are recognized by the NMRA without further assessment of the S-Part of the quality \nmodule.  \nThe applicant company must submit a commitment letter to inform NMRA in case of withdrawal or \nvariation. \n \n8.3 Reliance for Pack inserts \n \n \n \nNMRA relies on and takes into consideration information from approved reference \nregulatory authority for marketing authorisation as reference for: \no Initial pack Inserts (the product must adhere to the reference). \no Changes related to safety issues and confirmed by relevant NMRA committees. \n \n \n8.4 Reliance for withdrawal and cancellation of medicinal products due to quality, safety, \nand efficacy issues  \n▪ NMRA relies on and takes into consideration the information received concerning safety \nand efficacy issues of medi",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "LKA",
+      "country": "Sri Lanka",
+      "selected_document_id": "4871136124016cb83333",
+      "source_id": "373b0df67ee759ba",
+      "pathway": "Conditional shall-register directive",
+      "source_url": "https://cdn.prod.website-files.com/666d0695ca3ba7fa496a5068/679c90bf660dfa9e9b05f552_Guideline%20on%20Reliance%20Practices%20in%20Marketing%20Authorization%20of%20Medicine%20-%20Revision%2001.pdf",
+      "document_title": "Guideline on Reliance Practices in Marketing Authorization of Medicine - Revision No.01",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "e551b9ba206e8a9f2db0e5b90d00d86d8d933ac55d56c0af7e93a8a2660fddc1",
+      "raw_hash_validated": true,
+      "text_sha256": "574b10be07a7299e7a70700c0f7a0a184079decca0c29c14cc91b8aaa944a01b",
+      "version_dates": {
+        "effective_date": "2025-01-31"
+      },
+      "version_scope_note": "Sri Lanka reliance guideline Rev 01, effective 31 January 2025. New API threshold differs from other abridged products. Preserve literal source term fullunreductant as an apparent drafting error rather than silently correcting it.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          12530,
+          18196
+        ],
+        [
+          15200,
+          18196
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New APIs and new fixed-dose combinations are eligible only subject to the specific two-reference-approval condition.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "The accepted-RRA list is incorporated elsewhere. FDA/EMA recognition is not assumed merely from the generic RRA wording.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Generally one RRA; new API/new fixed-dose combination requires two. A chemical-product alternative based on foreign GMP plus manufacturing-country approval and three additional countries is distinct.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Sameness, foreign registration/marketing proof and applicant–manufacturer contract documentation required.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "For new molecules, internal clinical/nonclinical evaluation verifies the fullunreductant assessment report. Earlier public report/CoPP proof of registration is not automatically the same scientific report.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "discretionary/conditional",
+          "finding": "A full-report condition is explicit, but the word unreductant appears erroneous. Its intended unredacted meaning is not silently imposed without verification.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Public-only sufficiency is unresolved against the explicit full-report wording for new molecules and the drafting error in unreductant.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "An applicant–manufacturer contract is not automatically permission to share regulator-owned assessment reports.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Internal clinical/nonclinical evaluation remains for new molecules; exclusions from external evaluation are not a general scientific-review waiver.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Abridged assessment within 90 days after sameness and local-information checks; this is a stated timeline, not observed duration.",
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "explicitly ineligible for identified two-reference new-API route",
+          "finding": "FDA-only gives one approval, below the new-API two-RRA threshold. The separate manufacturing-country-plus-three-other-countries alternative is also not established by the fixed FDA-only facts.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "LKA-Q01",
+            "LKA-CONTEXT-1",
+            "LKA-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "LKA-Q01",
+          "iso3": "LKA",
+          "event_id": "LKA_070",
+          "document_id": "4871136124016cb83333",
+          "source_id": "373b0df67ee759ba",
+          "source_url": "https://cdn.prod.website-files.com/666d0695ca3ba7fa496a5068/679c90bf660dfa9e9b05f552_Guideline%20on%20Reliance%20Practices%20in%20Marketing%20Authorization%20of%20Medicine%20-%20Revision%2001.pdf",
+          "raw_sha256": "e551b9ba206e8a9f2db0e5b90d00d86d8d933ac55d56c0af7e93a8a2660fddc1",
+          "text_sha256": "574b10be07a7299e7a70700c0f7a0a184079decca0c29c14cc91b8aaa944a01b",
+          "start_offset": 13280,
+          "end_offset": 17196,
+          "pdf_page": 6,
+          "verbatim_extracted_text": "8.1 Abridged Registration for initial marketing authorisation  \n \n▪ Products with marketing authorisation from one reference regulatory authority (two if API \nor fixed dose combination is new) shall be registered at NMRA within 90 days after the \nverification of the sameness of a medicinal product and taking into consideration the \ncountry-specific information submitted for review.  \n \n▪ Chemical medicines finished products manufactured in a manufacturing site with a valid \nand relevant GMP certificate from a reference regulatory authority, and with a marketing \nauthorisation in the manufacturing country and at least 3 other countries shall be registered \nat NMRA within 90 days after the verification of the sameness, bridging assessment \ndepending on the scope of the GMP certificate, and taking into consideration the country-\nspecific information submitted for review. \n \n \n\n\nPAGE 7\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 7 of 12 \n \n \n Reduced dossier requirement for the abridged registration marketing authorization \npathways: (Please refer to Guideline on Registration of Medicines-GL-021)  \n \nReliance for Marketing Authorisation \n▪ Cover letter signed by the applicant’s responsible officer, including a commitment to \ninform NMRA immediately in case of withdrawal of marketing authorization in any \ncountry due to a quality, safety or conclusion of a benefit-risk review triggered by a safety \nissue. \n▪ Application form-Appendix 1 (including product, manufacturers, and applicant \ndetails); \n▪ Applicant business registration/licence information; \n▪ Contract between applicant and finished product manufacturer authorizing applicant \nto submit application and undertake related regulatory work during and after \nassessment; \n▪ Declaration of sameness of product  \n▪ Declaration on regulatory status in other countries. \n▪ Product information \n▪ Proof of approval and marketing in one or more reference country, with detailed \ndescription of the product approved*;  \n▪ Evidence of approval from the reference organization (CoPP/Public assessment \nreport)  \n▪ Stability study report as per Guideline on registration of medicine (GL-021,V1.0) \ncovering applicable climatic zone \n▪ Lot release certificate from at least one reference NRA for vaccines/sera \n \n \n* the detailed description should include the Applicant name and unique code, \nInvented/brand name, generic name  (as it should appear in printouts), Dosage form, Strength \n(needs to be consistent with generic name), Route of administration, Description of dosage \nform, presentation and pack size (including details of different forms/items in the same \npackage), Therapeutic classification, A detailed formula mentioning APIs with their quantities, \nand inactive ingredients with or without quantities, Names and addresses of API and finished \nproduct manufacturers, Indications, Authorized importer(s) (if applicable), Dispensing \ncategory, Storage conditions, Other classification (country-specific). \n \n \n** GMP certificate information should include certificate number, applicable standards,  site \nname, site address, issue date and validity, Scope: product and activities. \n \n• Clinical & non-clinical data will be verified from the full unreductant assessment report \nfrom reference NRA during the internal evaluation and external evaluation for biosimilars \nand NME are excluded. \n \n \n \n \n \n\n\nPAGE 8\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 8 of 12",
+          "display_text": "8.1 Abridged Registration for initial marketing authorisation ▪ Products with marketing authorisation from one reference regulatory authority (two if API or fixed dose combination is new) shall be registered at NMRA within 90 days after the verification of the sameness of a medicinal product and taking into consideration the country-specific information submitted for review. ▪ Chemical medicines finished products manufactured in a manufacturing site with a valid and relevant GMP certificate from a reference regulatory authority, and with a marketing authorisation in the manufacturing country and at least 3 other countries shall be registered at NMRA within 90 days after the verification of the sameness, bridging assessment depending on the scope of the GMP certificate, and taking into consideration the country- specific information submitted for review. PAGE 7 GL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products Effective Date: 31/01/2025 Version and Revision Number/Code: V 1.0 / Rev No :01 Once PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version. Page 7 of 12 Reduced dossier requirement for the abridged registration marketing authorization pathways: (Please refer to Guideline on Registration of Medicines-GL-021) Reliance for Marketing Authorisation ▪ Cover letter signed by the applicant’s responsible officer, including a commitment to inform NMRA immediately in case of withdrawal of marketing authorization in any country due to a quality, safety or conclusion of a benefit-risk review triggered by a safety issue. ▪ Application form-Appendix 1 (including product, manufacturers, and applicant details); ▪ Applicant business registration/licence information; ▪ Contract between applicant and finished product manufacturer authorizing applicant to submit application and undertake related regulatory work during and after assessment; ▪ Declaration of sameness of product ▪ Declaration on regulatory status in other countries. ▪ Product information ▪ Proof of approval and marketing in one or more reference country, with detailed description of the product approved*; ▪ Evidence of approval from the reference organization (CoPP/Public assessment report) ▪ Stability study report as per Guideline on registration of medicine (GL-021,V1.0) covering applicable climatic zone ▪ Lot release certificate from at least one reference NRA for vaccines/sera * the detailed description should include the Applicant name and unique code, Invented/brand name, generic name (as it should appear in printouts), Dosage form, Strength (needs to be consistent with generic name), Route of administration, Description of dosage form, presentation and pack size (including details of different forms/items in the same package), Therapeutic classification, A detailed formula mentioning APIs with their quantities, and inactive ingredients with or without quantities, Names and addresses of API and finished product manufacturers, Indications, Authorized importer(s) (if applicable), Dispensing category, Storage conditions, Other classification (country-specific). ** GMP certificate information should include certificate number, applicable standards, site name, site address, issue date and validity, Scope: product and activities. • Clinical & non-clinical data will be verified from the full unreductant assessment report from reference NRA during the internal evaluation and external evaluation for biosimilars and NME are excluded. PAGE 8 GL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products Effective Date: 31/01/2025 Version and Revision Number/Code: V 1.0 / Rev No :01 Once PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version. Page 8 of 12",
+          "feature_tags": [
+            "automatic",
+            "two_approvals",
+            "sameness",
+            "local_evidence",
+            "reports",
+            "unredacted",
+            "foreign_marketing",
+            "decision_clock"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "LKA-CONTEXT-1",
+          "source_url": "https://cdn.prod.website-files.com/666d0695ca3ba7fa496a5068/679c90bf660dfa9e9b05f552_Guideline%20on%20Reliance%20Practices%20in%20Marketing%20Authorization%20of%20Medicine%20-%20Revision%2001.pdf",
+          "raw_sha256": "e551b9ba206e8a9f2db0e5b90d00d86d8d933ac55d56c0af7e93a8a2660fddc1",
+          "text_sha256": "574b10be07a7299e7a70700c0f7a0a184079decca0c29c14cc91b8aaa944a01b",
+          "start_offset": 12530,
+          "end_offset": 18196,
+          "verbatim_extracted_text": "r translated. \n \n7. \nNMRA’S process for selecting a Reference Regulatory Authority \nConsidering the criterion for selecting a reference regulatory authority, the Medicine \nRegulatory Division (MRD) of NMRA can propose to the Medicine Evaluation Committee \nto consider one regulatory authority as a reference regulatory authority. In addition, based \non the same criterion, external stakeholders may request the NMRA to consider the \naddition of another reference authority. \nOn the same basis, the Medicine Evaluation Committee discuss and approves the proposed \nreference authorities. \nThe current list or reference regulatory authorities is published on the NMRA website. \n(www.nmra.gov.lk)  \n \n8. Reliance pathways for marketing authorizations \n \n8.1 Abridged Registration for initial marketing authorisation  \n \n▪ Products with marketing authorisation from one reference regulatory authority (two if API \nor fixed dose combination is new) shall be registered at NMRA within 90 days after the \nverification of the sameness of a medicinal product and taking into consideration the \ncountry-specific information submitted for review.  \n \n▪ Chemical medicines finished products manufactured in a manufacturing site with a valid \nand relevant GMP certificate from a reference regulatory authority, and with a marketing \nauthorisation in the manufacturing country and at least 3 other countries shall be registered \nat NMRA within 90 days after the verification of the sameness, bridging assessment \ndepending on the scope of the GMP certificate, and taking into consideration the country-\nspecific information submitted for review. \n \n \n\n\nPAGE 7\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 7 of 12 \n \n \n Reduced dossier requirement for the abridged registration marketing authorization \npathways: (Please refer to Guideline on Registration of Medicines-GL-021)  \n \nReliance for Marketing Authorisation \n▪ Cover letter signed by the applicant’s responsible officer, including a commitment to \ninform NMRA immediately in case of withdrawal of marketing authorization in any \ncountry due to a quality, safety or conclusion of a benefit-risk review triggered by a safety \nissue. \n▪ Application form-Appendix 1 (including product, manufacturers, and applicant \ndetails); \n▪ Applicant business registration/licence information; \n▪ Contract between applicant and finished product manufacturer authorizing applicant \nto submit application and undertake related regulatory work during and after \nassessment; \n▪ Declaration of sameness of product  \n▪ Declaration on regulatory status in other countries. \n▪ Product information \n▪ Proof of approval and marketing in one or more reference country, with detailed \ndescription of the product approved*;  \n▪ Evidence of approval from the reference organization (CoPP/Public assessment \nreport)  \n▪ Stability study report as per Guideline on registration of medicine (GL-021,V1.0) \ncovering applicable climatic zone \n▪ Lot release certificate from at least one reference NRA for vaccines/sera \n \n \n* the detailed description should include the Applicant name and unique code, \nInvented/brand name, generic name  (as it should appear in printouts), Dosage form, Strength \n(needs to be consistent with generic name), Route of administration, Description of dosage \nform, presentation and pack size (including details of different forms/items in the same \npackage), Therapeutic classification, A detailed formula mentioning APIs with their quantities, \nand inactive ingredients with or without quantities, Names and addresses of API and finished \nproduct manufacturers, Indications, Authorized importer(s) (if applicable), Dispensing \ncategory, Storage conditions, Other classification (country-specific). \n \n \n** GMP certificate information should include certificate number, applicable standards,  site \nname, site address, issue date and validity, Scope: product and activities. \n \n• Clinical & non-clinical data will be verified from the full unreductant assessment report \nfrom reference NRA during the internal evaluation and external evaluation for biosimilars \nand NME are excluded. \n \n \n \n \n \n\n\nPAGE 8\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 8 of 12 \n \n \n8.2 Reliance for APIs \n \n• Active Pharmaceutical Ingredients (APIs) prequalified by WHO Prequalification programme for \nAPIs or with a Certificate of Suitability (CEP) for monographs in the European Pharmacopoeia \nfor APIs are recognized by the NMRA without further assessment of the S-Part of the quality \nmodule.  \nThe applicant company must submit a commitment letter to inform NMRA in case of withdrawal or \nvariation. \n \n8.3 Reliance for Pack inserts \n \n \n \nNMRA relies on and takes into consideration information from approved reference \nregulatory authority for marketing authorisation as reference for: \no Initial pack Inserts (the product must adhere to the reference). \no Changes related to safety issues and confirmed by relevant NMRA committees. \n \n \n8.4 Reliance for withdrawal and cancellation of medicinal products due to quality, safety, \nand efficacy issues  \n▪ NMRA relies on and takes into consideration the information received concerning safety \nand efficacy issues of medi",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "LKA-CTX-1",
+          "source_url": "https://cdn.prod.website-files.com/666d0695ca3ba7fa496a5068/679c90bf660dfa9e9b05f552_Guideline%20on%20Reliance%20Practices%20in%20Marketing%20Authorization%20of%20Medicine%20-%20Revision%2001.pdf",
+          "raw_sha256": "e551b9ba206e8a9f2db0e5b90d00d86d8d933ac55d56c0af7e93a8a2660fddc1",
+          "text_sha256": "574b10be07a7299e7a70700c0f7a0a184079decca0c29c14cc91b8aaa944a01b",
+          "start_offset": 15200,
+          "end_offset": 18196,
+          "verbatim_extracted_text": " undertake related regulatory work during and after \nassessment; \n▪ Declaration of sameness of product  \n▪ Declaration on regulatory status in other countries. \n▪ Product information \n▪ Proof of approval and marketing in one or more reference country, with detailed \ndescription of the product approved*;  \n▪ Evidence of approval from the reference organization (CoPP/Public assessment \nreport)  \n▪ Stability study report as per Guideline on registration of medicine (GL-021,V1.0) \ncovering applicable climatic zone \n▪ Lot release certificate from at least one reference NRA for vaccines/sera \n \n \n* the detailed description should include the Applicant name and unique code, \nInvented/brand name, generic name  (as it should appear in printouts), Dosage form, Strength \n(needs to be consistent with generic name), Route of administration, Description of dosage \nform, presentation and pack size (including details of different forms/items in the same \npackage), Therapeutic classification, A detailed formula mentioning APIs with their quantities, \nand inactive ingredients with or without quantities, Names and addresses of API and finished \nproduct manufacturers, Indications, Authorized importer(s) (if applicable), Dispensing \ncategory, Storage conditions, Other classification (country-specific). \n \n \n** GMP certificate information should include certificate number, applicable standards,  site \nname, site address, issue date and validity, Scope: product and activities. \n \n• Clinical & non-clinical data will be verified from the full unreductant assessment report \nfrom reference NRA during the internal evaluation and external evaluation for biosimilars \nand NME are excluded. \n \n \n \n \n \n\n\nPAGE 8\n \n \nGL-025-- Guideline on Reliance Practices in Market Authorization of Medicinal Products \n Effective Date: 31/01/2025 \nVersion and Revision Number/Code: V 1.0 / Rev No :01 \n \n \nOnce PRINTED, this is an UNCONTROLLED DOCUMENT. Refer to NMRA website for latest version.        Page 8 of 12 \n \n \n8.2 Reliance for APIs \n \n• Active Pharmaceutical Ingredients (APIs) prequalified by WHO Prequalification programme for \nAPIs or with a Certificate of Suitability (CEP) for monographs in the European Pharmacopoeia \nfor APIs are recognized by the NMRA without further assessment of the S-Part of the quality \nmodule.  \nThe applicant company must submit a commitment letter to inform NMRA in case of withdrawal or \nvariation. \n \n8.3 Reliance for Pack inserts \n \n \n \nNMRA relies on and takes into consideration information from approved reference \nregulatory authority for marketing authorisation as reference for: \no Initial pack Inserts (the product must adhere to the reference). \no Changes related to safety issues and confirmed by relevant NMRA committees. \n \n \n8.4 Reliance for withdrawal and cancellation of medicinal products due to quality, safety, \nand efficacy issues  \n▪ NMRA relies on and takes into consideration the information received concerning safety \nand efficacy issues of medi",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": true,
+      "gate_adjudication": "Explicit full-report wording for internal new-molecule evaluation, but unreductant is malformed and applicant delivery/nonpublic requirement is not independently explicit. Proof-of-approval public report option does not automatically replace later scientific report. Count only in sensitivity/possible-gate category, not confirmed public-only exclusion."
+    }
   }
 }

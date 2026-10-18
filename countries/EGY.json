@@ -302,5 +302,735 @@
       "986bbf523c7e924f9aeece38c105b63e7066f6e03a1ee8c8aed387cd243b5e85",
       "e44458e794f6e940806023de1072daf3cdda116474fc86934e4d16948208d975"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "EGY",
+    "country": "Egypt",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Verification and abridged review",
+    "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+    "document_id": "9fe3ccaccec2e90b0d53",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "EDA reliance guidelinev 4/2024 has verification and abridged alternatives. Report exception and the distinction between country and agency counts are retained.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA explicitly listed among SRAs; national European agencies listed. Do not assume EMA equals a separate second country without route proof.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Verification:2 SRAs or 1 SRA+WHO-PQ. Abridged:1 SRA orWHO-PQ.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Sameness declaration and foreign-approvedCTD modules 2–5.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Unredacted reports requested, otherwise justified with evidence; Q&A where applicable. Exception prevents unconditional report-gate claim.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "discretionary/conditional",
+        "finding": "Absence of unredacted report may be justified with evidence; acceptance not automatic.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "public_report_sufficiency": {
+        "state": "discretionary/conditional",
+        "finding": "Public-only eligibility depends on accepted justification and evidence, not established as sufficient.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "GMP documentation and quality requirements retained.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Verification/abridged checks and pharmacovigilance remain.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Proof of pricing submission is an administrative requirement, not proof of price level or fee amount.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "CPP and GMP evidence required.",
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ]
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established for abridged alternative; verification threshold fails",
+        "finding": "One FDA approval meets one-SRA threshold for abridged review; without a secondSRA/WHO-PQ verification threshold fails. Other conditions unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EGY-Q01",
+          "EGY-Q02",
+          "EGY-CONTEXT-1",
+          "EGY-CTX-1"
+        ],
+        "status": "condition established for abridged alternative; verification threshold fails"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "EGY-Q01",
+        "iso3": "EGY",
+        "event_id": "EGY_072",
+        "document_id": "9fe3ccaccec2e90b0d53",
+        "source_id": "e15ec4790ae8bee2",
+        "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+        "raw_sha256": "94df69419d847e25ce8a05d1d3f2595a120ac48d8b5d9568a9469f0154897993",
+        "text_sha256": "0d3443e0f4235dab1ba61b0394b33f6d7fd8752a94738f1fd6682b22a761cd13",
+        "start_offset": 11176,
+        "end_offset": 13935,
+        "pdf_page": 6,
+        "verbatim_extracted_text": "V. \nReliance based -review pathways: \n           EDA applies Good Reliance Practice to assess the safety, efficacy, and quality of \nhuman pharmaceutical products, encompassing both Verification and abridged \nevaluation routes that have specific eligibility criteria for each: \n▪ Verification: \nTo be eligible,  \n- The product must be approved by at least two stringent regulatory \nauthorities or one reference and WHO prequalification. \n- Full Sameness of product (where EDA ensures that the product for local \nmarketing is equal or similar to that approved by the stringent regulatory \nauthority or WHO prequalified including CMC). \n \n▪ Abridged: \nTo be eligible,  \n- The product must be approved by at least one stringent regulatory authority \nor WHO prequalification. \n- Sameness of product. \n \n \n \n \n \n \n\nPAGE 7\n    \n \n \n  \n \n7 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \nVI. \n Submission Requirements for each pathway: \nNo. \n                                      Required Document \nFor Verification Pathway \n1. \nEDA documents (Registration request approval, Naming Approval, proof for \nPricing submission, proof for pharmacovigilance submission) \n2. \nValid Certificate of Pharmaceutical Product \n3. \nGood Manufacturing Practice (GMP) \n4. \nProof of approval from at least two stringent regulatory authorities or one \nreference and WHO prequalification \n5. \nVerification of Full Sameness (for example sameness letter) \n6. \nUnredacted Assessment report (otherwise justified with evidence) \n7. \nQ & A documents (if applicable) \n8. \nCTD dossier should be the same as that submitted to the reference drug \nregulatory agency for modules 2-5. \nFor Abridged Pathway \n1. \nEDA documents (Registration request approval, Naming Approval, proof for \nPricing submission, proof for pharmacovigilance submission) \n2. \nValid Certificate of Pharmaceutical Product \n3. \nGood Manufacturing Practice (GMP) \n4. \nProof of approval from least one stringent regulatory authority or WHO \nprequalification \n5. \nVerification of Sameness (for example sameness letter) \n6. \nUnredacted Assessment report (otherwise justified with evidence) \n7. \nQ & A documents (if applicable) \n8. \nCTD dossier should be the same as that submitted to the reference drug \nregulatory agency for modules 2-5. \n \n \n \n\nPAGE 8\n    \n \n \n  \n \n8 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration",
+        "display_text": "V. Reliance based -review pathways: EDA applies Good Reliance Practice to assess the safety, efficacy, and quality of human pharmaceutical products, encompassing both Verification and abridged evaluation routes that have specific eligibility criteria for each: ▪ Verification: To be eligible, - The product must be approved by at least two stringent regulatory authorities or one reference and WHO prequalification. - Full Sameness of product (where EDA ensures that the product for local marketing is equal or similar to that approved by the stringent regulatory authority or WHO prequalified including CMC). ▪ Abridged: To be eligible, - The product must be approved by at least one stringent regulatory authority or WHO prequalification. - Sameness of product. PAGE 7 7 Guideline GUIDELINES ON Reliance Practices During Registration of Medicinal Products Code: EDREX:GL. CAPP.025 Version /year: 4/2024 Central Administration of Pharmaceutical Products General Administration of Human pharmaceuticals registration VI. Submission Requirements for each pathway: No. Required Document For Verification Pathway 1. EDA documents (Registration request approval, Naming Approval, proof for Pricing submission, proof for pharmacovigilance submission) 2. Valid Certificate of Pharmaceutical Product 3. Good Manufacturing Practice (GMP) 4. Proof of approval from at least two stringent regulatory authorities or one reference and WHO prequalification 5. Verification of Full Sameness (for example sameness letter) 6. Unredacted Assessment report (otherwise justified with evidence) 7. Q & A documents (if applicable) 8. CTD dossier should be the same as that submitted to the reference drug regulatory agency for modules 2-5. For Abridged Pathway 1. EDA documents (Registration request approval, Naming Approval, proof for Pricing submission, proof for pharmacovigilance submission) 2. Valid Certificate of Pharmaceutical Product 3. Good Manufacturing Practice (GMP) 4. Proof of approval from least one stringent regulatory authority or WHO prequalification 5. Verification of Sameness (for example sameness letter) 6. Unredacted Assessment report (otherwise justified with evidence) 7. Q & A documents (if applicable) 8. CTD dossier should be the same as that submitted to the reference drug regulatory agency for modules 2-5. PAGE 8 8 Guideline GUIDELINES ON Reliance Practices During Registration of Medicinal Products Code: EDREX:GL. CAPP.025 Version /year: 4/2024 Central Administration of Pharmaceutical Products General Administration of Human pharmaceuticals registration",
+        "feature_tags": [
+          "two_approvals",
+          "sameness",
+          "unredacted",
+          "reports"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version 4/2024, not the version-3 wording attributed to the older event",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "EGY-Q02",
+        "iso3": "EGY",
+        "event_id": "EGY_072",
+        "document_id": "9fe3ccaccec2e90b0d53",
+        "source_id": "e15ec4790ae8bee2",
+        "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+        "raw_sha256": "94df69419d847e25ce8a05d1d3f2595a120ac48d8b5d9568a9469f0154897993",
+        "text_sha256": "0d3443e0f4235dab1ba61b0394b33f6d7fd8752a94738f1fd6682b22a761cd13",
+        "start_offset": 13973,
+        "end_offset": 14573,
+        "pdf_page": 8,
+        "verbatim_extracted_text": "EDA relies on Stringent Regulatory Authorities (SRAs) included in the list of \nreference countries approved by the Technical Committee of Drug Control and \nalso gives significant strength to WHO prequalified products in registration of \nimported products that are registered and marketed in any of SRAs included in the \nlist of reference countries approved by the Technical Committee of Drug Control. \nEDA’s list of reference countries is approved by the Technical Committee of \nDrug Control on 31/12/2009, 16/9/2021 and 18/1/2024 chosen according to the \nWHO criteria and its definition to the SRAs.",
+        "display_text": "EDA relies on Stringent Regulatory Authorities (SRAs) included in the list of reference countries approved by the Technical Committee of Drug Control and also gives significant strength to WHO prequalified products in registration of imported products that are registered and marketed in any of SRAs included in the list of reference countries approved by the Technical Committee of Drug Control. EDA’s list of reference countries is approved by the Technical Committee of Drug Control on 31/12/2009, 16/9/2021 and 18/1/2024 chosen according to the WHO criteria and its definition to the SRAs.",
+        "feature_tags": [
+          "foreign_marketing"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version 4/2024, not the version-3 wording attributed to the older event",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "EGY-CONTEXT-1",
+        "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+        "raw_sha256": "94df69419d847e25ce8a05d1d3f2595a120ac48d8b5d9568a9469f0154897993",
+        "text_sha256": "0d3443e0f4235dab1ba61b0394b33f6d7fd8752a94738f1fd6682b22a761cd13",
+        "start_offset": 10426,
+        "end_offset": 15573,
+        "verbatim_extracted_text": ": 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \ninternational standards and best practices. Some transitional arrangements \nare in place for previously designated stringent regulatory authorities and \nregulatory authorities which had been previously assessed by WHO.   \nRAs that have reached a high-level regulatory capability and performance \n(WLA) may be used as a reference and to be relied on by other authorities, to \navoid duplicating activities, foster better use of human and economic resources, \nincrease oversight of the pharmaceutical products along the whole supply chain \nto ultimately enhance global access to high quality, efficacious and safe \nmedicines. \n \nV. \nReliance based -review pathways: \n           EDA applies Good Reliance Practice to assess the safety, efficacy, and quality of \nhuman pharmaceutical products, encompassing both Verification and abridged \nevaluation routes that have specific eligibility criteria for each: \n▪ Verification: \nTo be eligible,  \n- The product must be approved by at least two stringent regulatory \nauthorities or one reference and WHO prequalification. \n- Full Sameness of product (where EDA ensures that the product for local \nmarketing is equal or similar to that approved by the stringent regulatory \nauthority or WHO prequalified including CMC). \n \n▪ Abridged: \nTo be eligible,  \n- The product must be approved by at least one stringent regulatory authority \nor WHO prequalification. \n- Sameness of product. \n \n \n \n \n \n \n\nPAGE 7\n    \n \n \n  \n \n7 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \nVI. \n Submission Requirements for each pathway: \nNo. \n                                      Required Document \nFor Verification Pathway \n1. \nEDA documents (Registration request approval, Naming Approval, proof for \nPricing submission, proof for pharmacovigilance submission) \n2. \nValid Certificate of Pharmaceutical Product \n3. \nGood Manufacturing Practice (GMP) \n4. \nProof of approval from at least two stringent regulatory authorities or one \nreference and WHO prequalification \n5. \nVerification of Full Sameness (for example sameness letter) \n6. \nUnredacted Assessment report (otherwise justified with evidence) \n7. \nQ & A documents (if applicable) \n8. \nCTD dossier should be the same as that submitted to the reference drug \nregulatory agency for modules 2-5. \nFor Abridged Pathway \n1. \nEDA documents (Registration request approval, Naming Approval, proof for \nPricing submission, proof for pharmacovigilance submission) \n2. \nValid Certificate of Pharmaceutical Product \n3. \nGood Manufacturing Practice (GMP) \n4. \nProof of approval from least one stringent regulatory authority or WHO \nprequalification \n5. \nVerification of Sameness (for example sameness letter) \n6. \nUnredacted Assessment report (otherwise justified with evidence) \n7. \nQ & A documents (if applicable) \n8. \nCTD dossier should be the same as that submitted to the reference drug \nregulatory agency for modules 2-5. \n \n \n \n\nPAGE 8\n    \n \n \n  \n \n8 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \nVII. EDA’s approved reliance list: \nEDA relies on Stringent Regulatory Authorities (SRAs) included in the list of \nreference countries approved by the Technical Committee of Drug Control and \nalso gives significant strength to WHO prequalified products in registration of \nimported products that are registered and marketed in any of SRAs included in the \nlist of reference countries approved by the Technical Committee of Drug Control. \nEDA’s list of reference countries is approved by the Technical Committee of \nDrug Control on 31/12/2009, 16/9/2021 and 18/1/2024 chosen according to the \nWHO criteria and its definition to the SRAs. \n \nThe current list consists of 24 countries that EDA can rely on their regulatory \nauthorities includes: \n- Therapeutic Goods Administration (TGA), Australia \n- Federal Office for Safety in Health Care (Austrian Medicines & Medical Devices \nAgency), Austria \n- Federal Agency for Medicines and Health Products, Belgium \n- Health Canada, Canada \n- Danish Health & Medicines Authority, Denmark  \n- Finnish Medicines Agency, Finland \n- National Agency for the Safety of Medicines and Health Products (ANSM), France \n- Federal institute for drugs and medical devices, Germany  \n- Icelandic Medicines Agency, Iceland \n- Health Products Regulatory Authority (HPRA), Ireland \n- The Italian Medicines Agency (Agenzia italiana del farmaco, AIFA), Italy \n- Pharmaceuticals and Medical Devices Agency (PMDA), Japan \n- Luxembourg Agency for Medicines and Health Products (ALMPS), Luxembourg \n- Medicines Evaluation Board, Netherland \n- New Zealand Medicines & Medical Devices safety authority (Medsafe), New \nZ",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version 4/2024, not the version-3 wording attributed to the older event"
+      },
+      {
+        "clause_id": "EGY-CTX-1",
+        "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+        "raw_sha256": "94df69419d847e25ce8a05d1d3f2595a120ac48d8b5d9568a9469f0154897993",
+        "text_sha256": "0d3443e0f4235dab1ba61b0394b33f6d7fd8752a94738f1fd6682b22a761cd13",
+        "start_offset": 15350,
+        "end_offset": 16900,
+        "verbatim_extracted_text": "Devices Agency (PMDA), Japan \n- Luxembourg Agency for Medicines and Health Products (ALMPS), Luxembourg \n- Medicines Evaluation Board, Netherland \n- New Zealand Medicines & Medical Devices safety authority (Medsafe), New \nZealand \n- Norwegian Medical Products Agency, Norway \n- INFARMED - National Authority of Medicines and Health Products, Portugal \n- Spanish Agency for Medicines and Health Products (AEMPS), Spain \n- Swedish Medical Products Agency, Sweden \n- Swiss Institute of Therapeutic Products (Swissmedic), Switzerland \n- Medicines and Healthcare products Regulatory Agency (MHRA), United Kingdom \n- U.S Food and Drug Administration (FDA) United States of America \n- Health Sciences Authority (HSA), Singapore \n- Ministry of Food and Drug Safety of the Republic of Korea (MFDS), South \nKorea \n \n\nPAGE 9\n    \n \n \n  \n \n9 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \nVIII. \nBody of Data \nRegulatory reliance can take many forms and encompasses a wide range of \nregulatory practices. It may be limited to certain regulatory process or function or \ncomprise the full scope of regulatory functions throughout the life cycle of \nmedicinal product. \n \nThe examples below illustrate the currently used reliance mechanisms in \ndifferent regulatory functions at EDA. \n1 Detailed Examples of Reliance Practices \n \n1.1 \nEvaluation of Quality",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version 4/2024, not the version-3 wording attributed to the older event"
+      }
+    ],
+    "review_details": {
+      "iso3": "EGY",
+      "country": "Egypt",
+      "selected_document_id": "9fe3ccaccec2e90b0d53",
+      "source_id": "e15ec4790ae8bee2",
+      "pathway": "Verification and abridged review",
+      "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+      "document_title": "",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "94df69419d847e25ce8a05d1d3f2595a120ac48d8b5d9568a9469f0154897993",
+      "raw_hash_validated": true,
+      "text_sha256": "0d3443e0f4235dab1ba61b0394b33f6d7fd8752a94738f1fd6682b22a761cd13",
+      "version_dates": {},
+      "version_scope_note": "EDA reliance guidelinev 4/2024 has verification and abridged alternatives. Report exception and the distinction between country and agency counts are retained.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          10426,
+          15573
+        ],
+        [
+          15350,
+          16900
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA explicitly listed among SRAs; national European agencies listed. Do not assume EMA equals a separate second country without route proof.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Verification:2 SRAs or 1 SRA+WHO-PQ. Abridged:1 SRA orWHO-PQ.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Sameness declaration and foreign-approvedCTD modules 2–5.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Unredacted reports requested, otherwise justified with evidence; Q&A where applicable. Exception prevents unconditional report-gate claim.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "discretionary/conditional",
+          "finding": "Absence of unredacted report may be justified with evidence; acceptance not automatic.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "public_report_sufficiency": {
+          "state": "discretionary/conditional",
+          "finding": "Public-only eligibility depends on accepted justification and evidence, not established as sufficient.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "GMP documentation and quality requirements retained.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Verification/abridged checks and pharmacovigilance remain.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Proof of pricing submission is an administrative requirement, not proof of price level or fee amount.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "CPP and GMP evidence required.",
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established for abridged alternative; verification threshold fails",
+          "finding": "One FDA approval meets one-SRA threshold for abridged review; without a secondSRA/WHO-PQ verification threshold fails. Other conditions unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EGY-Q01",
+            "EGY-Q02",
+            "EGY-CONTEXT-1",
+            "EGY-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "EGY-Q01",
+          "iso3": "EGY",
+          "event_id": "EGY_072",
+          "document_id": "9fe3ccaccec2e90b0d53",
+          "source_id": "e15ec4790ae8bee2",
+          "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+          "raw_sha256": "94df69419d847e25ce8a05d1d3f2595a120ac48d8b5d9568a9469f0154897993",
+          "text_sha256": "0d3443e0f4235dab1ba61b0394b33f6d7fd8752a94738f1fd6682b22a761cd13",
+          "start_offset": 11176,
+          "end_offset": 13935,
+          "pdf_page": 6,
+          "verbatim_extracted_text": "V. \nReliance based -review pathways: \n           EDA applies Good Reliance Practice to assess the safety, efficacy, and quality of \nhuman pharmaceutical products, encompassing both Verification and abridged \nevaluation routes that have specific eligibility criteria for each: \n▪ Verification: \nTo be eligible,  \n- The product must be approved by at least two stringent regulatory \nauthorities or one reference and WHO prequalification. \n- Full Sameness of product (where EDA ensures that the product for local \nmarketing is equal or similar to that approved by the stringent regulatory \nauthority or WHO prequalified including CMC). \n \n▪ Abridged: \nTo be eligible,  \n- The product must be approved by at least one stringent regulatory authority \nor WHO prequalification. \n- Sameness of product. \n \n \n \n \n \n \n\nPAGE 7\n    \n \n \n  \n \n7 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \nVI. \n Submission Requirements for each pathway: \nNo. \n                                      Required Document \nFor Verification Pathway \n1. \nEDA documents (Registration request approval, Naming Approval, proof for \nPricing submission, proof for pharmacovigilance submission) \n2. \nValid Certificate of Pharmaceutical Product \n3. \nGood Manufacturing Practice (GMP) \n4. \nProof of approval from at least two stringent regulatory authorities or one \nreference and WHO prequalification \n5. \nVerification of Full Sameness (for example sameness letter) \n6. \nUnredacted Assessment report (otherwise justified with evidence) \n7. \nQ & A documents (if applicable) \n8. \nCTD dossier should be the same as that submitted to the reference drug \nregulatory agency for modules 2-5. \nFor Abridged Pathway \n1. \nEDA documents (Registration request approval, Naming Approval, proof for \nPricing submission, proof for pharmacovigilance submission) \n2. \nValid Certificate of Pharmaceutical Product \n3. \nGood Manufacturing Practice (GMP) \n4. \nProof of approval from least one stringent regulatory authority or WHO \nprequalification \n5. \nVerification of Sameness (for example sameness letter) \n6. \nUnredacted Assessment report (otherwise justified with evidence) \n7. \nQ & A documents (if applicable) \n8. \nCTD dossier should be the same as that submitted to the reference drug \nregulatory agency for modules 2-5. \n \n \n \n\nPAGE 8\n    \n \n \n  \n \n8 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration",
+          "display_text": "V. Reliance based -review pathways: EDA applies Good Reliance Practice to assess the safety, efficacy, and quality of human pharmaceutical products, encompassing both Verification and abridged evaluation routes that have specific eligibility criteria for each: ▪ Verification: To be eligible, - The product must be approved by at least two stringent regulatory authorities or one reference and WHO prequalification. - Full Sameness of product (where EDA ensures that the product for local marketing is equal or similar to that approved by the stringent regulatory authority or WHO prequalified including CMC). ▪ Abridged: To be eligible, - The product must be approved by at least one stringent regulatory authority or WHO prequalification. - Sameness of product. PAGE 7 7 Guideline GUIDELINES ON Reliance Practices During Registration of Medicinal Products Code: EDREX:GL. CAPP.025 Version /year: 4/2024 Central Administration of Pharmaceutical Products General Administration of Human pharmaceuticals registration VI. Submission Requirements for each pathway: No. Required Document For Verification Pathway 1. EDA documents (Registration request approval, Naming Approval, proof for Pricing submission, proof for pharmacovigilance submission) 2. Valid Certificate of Pharmaceutical Product 3. Good Manufacturing Practice (GMP) 4. Proof of approval from at least two stringent regulatory authorities or one reference and WHO prequalification 5. Verification of Full Sameness (for example sameness letter) 6. Unredacted Assessment report (otherwise justified with evidence) 7. Q & A documents (if applicable) 8. CTD dossier should be the same as that submitted to the reference drug regulatory agency for modules 2-5. For Abridged Pathway 1. EDA documents (Registration request approval, Naming Approval, proof for Pricing submission, proof for pharmacovigilance submission) 2. Valid Certificate of Pharmaceutical Product 3. Good Manufacturing Practice (GMP) 4. Proof of approval from least one stringent regulatory authority or WHO prequalification 5. Verification of Sameness (for example sameness letter) 6. Unredacted Assessment report (otherwise justified with evidence) 7. Q & A documents (if applicable) 8. CTD dossier should be the same as that submitted to the reference drug regulatory agency for modules 2-5. PAGE 8 8 Guideline GUIDELINES ON Reliance Practices During Registration of Medicinal Products Code: EDREX:GL. CAPP.025 Version /year: 4/2024 Central Administration of Pharmaceutical Products General Administration of Human pharmaceuticals registration",
+          "feature_tags": [
+            "two_approvals",
+            "sameness",
+            "unredacted",
+            "reports"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version 4/2024, not the version-3 wording attributed to the older event",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "EGY-Q02",
+          "iso3": "EGY",
+          "event_id": "EGY_072",
+          "document_id": "9fe3ccaccec2e90b0d53",
+          "source_id": "e15ec4790ae8bee2",
+          "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+          "raw_sha256": "94df69419d847e25ce8a05d1d3f2595a120ac48d8b5d9568a9469f0154897993",
+          "text_sha256": "0d3443e0f4235dab1ba61b0394b33f6d7fd8752a94738f1fd6682b22a761cd13",
+          "start_offset": 13973,
+          "end_offset": 14573,
+          "pdf_page": 8,
+          "verbatim_extracted_text": "EDA relies on Stringent Regulatory Authorities (SRAs) included in the list of \nreference countries approved by the Technical Committee of Drug Control and \nalso gives significant strength to WHO prequalified products in registration of \nimported products that are registered and marketed in any of SRAs included in the \nlist of reference countries approved by the Technical Committee of Drug Control. \nEDA’s list of reference countries is approved by the Technical Committee of \nDrug Control on 31/12/2009, 16/9/2021 and 18/1/2024 chosen according to the \nWHO criteria and its definition to the SRAs.",
+          "display_text": "EDA relies on Stringent Regulatory Authorities (SRAs) included in the list of reference countries approved by the Technical Committee of Drug Control and also gives significant strength to WHO prequalified products in registration of imported products that are registered and marketed in any of SRAs included in the list of reference countries approved by the Technical Committee of Drug Control. EDA’s list of reference countries is approved by the Technical Committee of Drug Control on 31/12/2009, 16/9/2021 and 18/1/2024 chosen according to the WHO criteria and its definition to the SRAs.",
+          "feature_tags": [
+            "foreign_marketing"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version 4/2024, not the version-3 wording attributed to the older event",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "EGY-CONTEXT-1",
+          "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+          "raw_sha256": "94df69419d847e25ce8a05d1d3f2595a120ac48d8b5d9568a9469f0154897993",
+          "text_sha256": "0d3443e0f4235dab1ba61b0394b33f6d7fd8752a94738f1fd6682b22a761cd13",
+          "start_offset": 10426,
+          "end_offset": 15573,
+          "verbatim_extracted_text": ": 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \ninternational standards and best practices. Some transitional arrangements \nare in place for previously designated stringent regulatory authorities and \nregulatory authorities which had been previously assessed by WHO.   \nRAs that have reached a high-level regulatory capability and performance \n(WLA) may be used as a reference and to be relied on by other authorities, to \navoid duplicating activities, foster better use of human and economic resources, \nincrease oversight of the pharmaceutical products along the whole supply chain \nto ultimately enhance global access to high quality, efficacious and safe \nmedicines. \n \nV. \nReliance based -review pathways: \n           EDA applies Good Reliance Practice to assess the safety, efficacy, and quality of \nhuman pharmaceutical products, encompassing both Verification and abridged \nevaluation routes that have specific eligibility criteria for each: \n▪ Verification: \nTo be eligible,  \n- The product must be approved by at least two stringent regulatory \nauthorities or one reference and WHO prequalification. \n- Full Sameness of product (where EDA ensures that the product for local \nmarketing is equal or similar to that approved by the stringent regulatory \nauthority or WHO prequalified including CMC). \n \n▪ Abridged: \nTo be eligible,  \n- The product must be approved by at least one stringent regulatory authority \nor WHO prequalification. \n- Sameness of product. \n \n \n \n \n \n \n\nPAGE 7\n    \n \n \n  \n \n7 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \nVI. \n Submission Requirements for each pathway: \nNo. \n                                      Required Document \nFor Verification Pathway \n1. \nEDA documents (Registration request approval, Naming Approval, proof for \nPricing submission, proof for pharmacovigilance submission) \n2. \nValid Certificate of Pharmaceutical Product \n3. \nGood Manufacturing Practice (GMP) \n4. \nProof of approval from at least two stringent regulatory authorities or one \nreference and WHO prequalification \n5. \nVerification of Full Sameness (for example sameness letter) \n6. \nUnredacted Assessment report (otherwise justified with evidence) \n7. \nQ & A documents (if applicable) \n8. \nCTD dossier should be the same as that submitted to the reference drug \nregulatory agency for modules 2-5. \nFor Abridged Pathway \n1. \nEDA documents (Registration request approval, Naming Approval, proof for \nPricing submission, proof for pharmacovigilance submission) \n2. \nValid Certificate of Pharmaceutical Product \n3. \nGood Manufacturing Practice (GMP) \n4. \nProof of approval from least one stringent regulatory authority or WHO \nprequalification \n5. \nVerification of Sameness (for example sameness letter) \n6. \nUnredacted Assessment report (otherwise justified with evidence) \n7. \nQ & A documents (if applicable) \n8. \nCTD dossier should be the same as that submitted to the reference drug \nregulatory agency for modules 2-5. \n \n \n \n\nPAGE 8\n    \n \n \n  \n \n8 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \nVII. EDA’s approved reliance list: \nEDA relies on Stringent Regulatory Authorities (SRAs) included in the list of \nreference countries approved by the Technical Committee of Drug Control and \nalso gives significant strength to WHO prequalified products in registration of \nimported products that are registered and marketed in any of SRAs included in the \nlist of reference countries approved by the Technical Committee of Drug Control. \nEDA’s list of reference countries is approved by the Technical Committee of \nDrug Control on 31/12/2009, 16/9/2021 and 18/1/2024 chosen according to the \nWHO criteria and its definition to the SRAs. \n \nThe current list consists of 24 countries that EDA can rely on their regulatory \nauthorities includes: \n- Therapeutic Goods Administration (TGA), Australia \n- Federal Office for Safety in Health Care (Austrian Medicines & Medical Devices \nAgency), Austria \n- Federal Agency for Medicines and Health Products, Belgium \n- Health Canada, Canada \n- Danish Health & Medicines Authority, Denmark  \n- Finnish Medicines Agency, Finland \n- National Agency for the Safety of Medicines and Health Products (ANSM), France \n- Federal institute for drugs and medical devices, Germany  \n- Icelandic Medicines Agency, Iceland \n- Health Products Regulatory Authority (HPRA), Ireland \n- The Italian Medicines Agency (Agenzia italiana del farmaco, AIFA), Italy \n- Pharmaceuticals and Medical Devices Agency (PMDA), Japan \n- Luxembourg Agency for Medicines and Health Products (ALMPS), Luxembourg \n- Medicines Evaluation Board, Netherland \n- New Zealand Medicines & Medical Devices safety authority (Medsafe), New \nZ",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version 4/2024, not the version-3 wording attributed to the older event"
+        },
+        {
+          "clause_id": "EGY-CTX-1",
+          "source_url": "https://www.edaegypt.gov.eg/media/wjmbodsf/guide-line-reliance-practices-during-registration-of-medicinal-products.pdf",
+          "raw_sha256": "94df69419d847e25ce8a05d1d3f2595a120ac48d8b5d9568a9469f0154897993",
+          "text_sha256": "0d3443e0f4235dab1ba61b0394b33f6d7fd8752a94738f1fd6682b22a761cd13",
+          "start_offset": 15350,
+          "end_offset": 16900,
+          "verbatim_extracted_text": "Devices Agency (PMDA), Japan \n- Luxembourg Agency for Medicines and Health Products (ALMPS), Luxembourg \n- Medicines Evaluation Board, Netherland \n- New Zealand Medicines & Medical Devices safety authority (Medsafe), New \nZealand \n- Norwegian Medical Products Agency, Norway \n- INFARMED - National Authority of Medicines and Health Products, Portugal \n- Spanish Agency for Medicines and Health Products (AEMPS), Spain \n- Swedish Medical Products Agency, Sweden \n- Swiss Institute of Therapeutic Products (Swissmedic), Switzerland \n- Medicines and Healthcare products Regulatory Agency (MHRA), United Kingdom \n- U.S Food and Drug Administration (FDA) United States of America \n- Health Sciences Authority (HSA), Singapore \n- Ministry of Food and Drug Safety of the Republic of Korea (MFDS), South \nKorea \n \n\nPAGE 9\n    \n \n \n  \n \n9 \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCode: EDREX:GL. CAPP.025 \nVersion /year: 4/2024 \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \nVIII. \nBody of Data \nRegulatory reliance can take many forms and encompasses a wide range of \nregulatory practices. It may be limited to certain regulatory process or function or \ncomprise the full scope of regulatory functions throughout the life cycle of \nmedicinal product. \n \nThe examples below illustrate the currently used reliance mechanisms in \ndifferent regulatory functions at EDA. \n1 Detailed Examples of Reliance Practices \n \n1.1 \nEvaluation of Quality",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version 4/2024, not the version-3 wording attributed to the older event"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

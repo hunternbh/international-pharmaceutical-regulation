@@ -231,5 +231,568 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ZMB",
+    "country": "Zambia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Bilateral recognition of Egyptian-manufactured EDA-approved medicines",
+    "source_url": "https://www.zamra.co.zm/wp-content/uploads/2025/07/ZAMRA-EDA-MoU-Public-Notice-July-2025.pdf",
+    "document_id": "F250_6e22a4d2e1e27d449a52_ed58b50b9c35",
+    "genre": "Official implementation notice",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "ZAMRA 22 July 2025 public notice implements bilateral EDA recognition exclusively for medicines manufactured in Egypt and approved there. Fixed US manufacturing + FDA/EMA approvals is outside this selected route. No national absence inference.",
+    "components": {
+      "new_active_substance": {
+        "state": "outside pathway scope",
+        "finding": "US-manufactured FDA/EMA case lacks Egyptian manufacture and EDA approval.",
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Egyptian Drug Authority only for stated bilateral pathway.",
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "EDA authorization and Egyptian-market manufacture required.",
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "CTD approved by EDA and EDA-endorsed quality summary.",
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Valid cGMP certificate issued by EDA.",
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Signed cover, form, fee, English labeling and electronic submission.",
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "30 working days from submission if all requirements met; effective immediately on dated notice.",
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside pathway scope",
+        "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+        "decisive_conditions": [
+          "Egyptian manufacture and EDA approval absent."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ],
+        "status": "outside pathway scope"
+      },
+      "B": {
+        "eligibility": "outside pathway scope",
+        "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+        "decisive_conditions": [
+          "Egyptian manufacture and EDA approval absent."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ],
+        "status": "outside pathway scope"
+      },
+      "C": {
+        "eligibility": "outside pathway scope",
+        "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+        "decisive_conditions": [
+          "Egyptian manufacture and EDA approval absent."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ],
+        "status": "outside pathway scope"
+      },
+      "D": {
+        "eligibility": "outside pathway scope",
+        "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+        "decisive_conditions": [
+          "Egyptian manufacture and EDA approval absent."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ],
+        "status": "outside pathway scope"
+      },
+      "E": {
+        "eligibility": "outside pathway scope",
+        "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+        "decisive_conditions": [
+          "Egyptian manufacture and EDA approval absent."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "ZMB-R01",
+          "ZMB-R02"
+        ],
+        "status": "outside pathway scope"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "ZMB-R01",
+        "source_document_id": "F250_6e22a4d2e1e27d449a52_ed58b50b9c35",
+        "evidence_role": "Selected primary document",
+        "section_article": "Implementation, product scope, timetable and dossier",
+        "pdf_page": 1,
+        "source_url": "https://www.zamra.co.zm/wp-content/uploads/2025/07/ZAMRA-EDA-MoU-Public-Notice-July-2025.pdf",
+        "raw_sha256": "ed58b50b9c3515fbce3d5229d2738da625875f5594815e684dbb4befdbe9832e",
+        "text_sha256": "ece54c51ed02f6d20b193d2e5b5895182b65291febe2b29522fe3a0fde73dbfa",
+        "exact_text": "The Zambia Medicines Regulatory Authority (ZAMRA) wishes to officially inform all Marketing \nAuthorisation Holders, pharmaceutical manufacturers, importers, and other stakeholders that \nthe implementation of the Memorandum of Understanding (MoU) between ZAMRA and the \nEgyptian Drug Authority (EDA) has now commenced. \nThis collaboration establishes a regulatory reliance mechanism to facilitate the timely availability \nof quality-assured, safe, and effective medicines on the Zambian market. \n \nKEY FEATURES OF THE RELIANCE FRAMEWORK \nZAMRA will recognise marketing authorisations issued by EDA for medicines manufactured in \nEgypt and approved for the Egyptian market. \nThe review and approval process will follow the Recognition Framework for EDA-Approved \nProducts developed jointly by ZAMRA and EDA. \nApplications will be processed within 30 working days of submission, provided all requirements \nare met. \n \nREQUIREMENTS FOR APPLICANTS \nApplicants seeking marketing authorisation under this reliance pathway must submit the \nfollowing: \n1) Signed Cover Letter and completed ZAMRA application form \n2) Quality Information Summary (QIS) endorsed and signed by EDA \n3) CTD Dossier as approved by EDA \n4) Labelling information in English (cartons, blisters, inserts, and patient leaﬂets) \n5) A valid cGMP Certiﬁcate issued by EDA \n6) Proof of payment of the prescribed ZAMRA application fees (as per the SI No. 38 of 2016) \n7) Electronic submissions should be sent to:  ៾\n៿\n᠀\n᠁\n᠂ ma.reliance@zamra.co.zm (CC: \nforeign.affairs@edaegypt.gov.eg | export@edaegypt.gov.eg) \n \n",
+        "start": 195,
+        "end": 1769,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "ZMB-R02",
+        "source_document_id": "F250_6e22a4d2e1e27d449a52_ed58b50b9c35",
+        "evidence_role": "Selected primary document",
+        "section_article": "Effective-date and signature block",
+        "pdf_page": 2,
+        "source_url": "https://www.zamra.co.zm/wp-content/uploads/2025/07/ZAMRA-EDA-MoU-Public-Notice-July-2025.pdf",
+        "raw_sha256": "ed58b50b9c3515fbce3d5229d2738da625875f5594815e684dbb4befdbe9832e",
+        "text_sha256": "ece54c51ed02f6d20b193d2e5b5895182b65291febe2b29522fe3a0fde73dbfa",
+        "exact_text": "EFFECTIVE DATE \nThe reliance pathway is effective immediately. All stakeholders are encouraged to submit eligible \napplications in line with these requirements. \n \nFor further information, contact the undersigned by email: pharmacy@zamra.co.zm | or phone \nnumber +260 211 432 350 \n \n \nissued by: \nMakomani Siyanga (Mr.) \nDIRECTOR-GENERAL \nZAMBIA MEDICINES REGULATORY AUTHORITY \n \nDate: 22nd July 2025 \n \n",
+        "start": 2020,
+        "end": 2424,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      }
+    ],
+    "review_details": {
+      "iso3": "ZMB",
+      "country": "Zambia",
+      "selected_document_id": "F250_6e22a4d2e1e27d449a52_ed58b50b9c35",
+      "source_id": "F250_6e22a4d2e1e27d449a52",
+      "pathway": "Bilateral recognition of Egyptian-manufactured EDA-approved medicines",
+      "source_url": "https://www.zamra.co.zm/wp-content/uploads/2025/07/ZAMRA-EDA-MoU-Public-Notice-July-2025.pdf",
+      "document_title": "ZAMRA public notice: commencement of EDA recognition, 22 July 2025",
+      "source_type": "Official implementation notice",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "ZMB-R01": null
+        },
+        {
+          "ZMB-R02": null
+        }
+      ],
+      "raw_sha256": "ed58b50b9c3515fbce3d5229d2738da625875f5594815e684dbb4befdbe9832e",
+      "raw_hash_validated": true,
+      "text_sha256": "ece54c51ed02f6d20b193d2e5b5895182b65291febe2b29522fe3a0fde73dbfa",
+      "version_dates": {
+        "notice_date": "2025-07-22",
+        "effect": "Immediately per notice"
+      },
+      "version_scope_note": "ZAMRA 22 July 2025 public notice implements bilateral EDA recognition exclusively for medicines manufactured in Egypt and approved there. Fixed US manufacturing + FDA/EMA approvals is outside this selected route. No national absence inference.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          195,
+          1769
+        ],
+        [
+          2020,
+          2424
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "outside pathway scope",
+          "finding": "US-manufactured FDA/EMA case lacks Egyptian manufacture and EDA approval.",
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Egyptian Drug Authority only for stated bilateral pathway.",
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "EDA authorization and Egyptian-market manufacture required.",
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "CTD approved by EDA and EDA-endorsed quality summary.",
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Valid cGMP certificate issued by EDA.",
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Signed cover, form, fee, English labeling and electronic submission.",
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "30 working days from submission if all requirements met; effective immediately on dated notice.",
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside pathway scope",
+          "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+          "decisive_conditions": [
+            "Egyptian manufacture and EDA approval absent."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "B": {
+          "eligibility": "outside pathway scope",
+          "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+          "decisive_conditions": [
+            "Egyptian manufacture and EDA approval absent."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "C": {
+          "eligibility": "outside pathway scope",
+          "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+          "decisive_conditions": [
+            "Egyptian manufacture and EDA approval absent."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "D": {
+          "eligibility": "outside pathway scope",
+          "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+          "decisive_conditions": [
+            "Egyptian manufacture and EDA approval absent."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        },
+        "E": {
+          "eligibility": "outside pathway scope",
+          "finding": "US-manufactured medicine with FDA/EMA approvals does not meet Egyptian manufacture plus EDA approval requirement.",
+          "decisive_conditions": [
+            "Egyptian manufacture and EDA approval absent."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "ZMB-R01",
+            "ZMB-R02"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "ZMB-R01",
+          "source_document_id": "F250_6e22a4d2e1e27d449a52_ed58b50b9c35",
+          "evidence_role": "Selected primary document",
+          "section_article": "Implementation, product scope, timetable and dossier",
+          "pdf_page": 1,
+          "source_url": "https://www.zamra.co.zm/wp-content/uploads/2025/07/ZAMRA-EDA-MoU-Public-Notice-July-2025.pdf",
+          "raw_sha256": "ed58b50b9c3515fbce3d5229d2738da625875f5594815e684dbb4befdbe9832e",
+          "text_sha256": "ece54c51ed02f6d20b193d2e5b5895182b65291febe2b29522fe3a0fde73dbfa",
+          "exact_text": "The Zambia Medicines Regulatory Authority (ZAMRA) wishes to officially inform all Marketing \nAuthorisation Holders, pharmaceutical manufacturers, importers, and other stakeholders that \nthe implementation of the Memorandum of Understanding (MoU) between ZAMRA and the \nEgyptian Drug Authority (EDA) has now commenced. \nThis collaboration establishes a regulatory reliance mechanism to facilitate the timely availability \nof quality-assured, safe, and effective medicines on the Zambian market. \n \nKEY FEATURES OF THE RELIANCE FRAMEWORK \nZAMRA will recognise marketing authorisations issued by EDA for medicines manufactured in \nEgypt and approved for the Egyptian market. \nThe review and approval process will follow the Recognition Framework for EDA-Approved \nProducts developed jointly by ZAMRA and EDA. \nApplications will be processed within 30 working days of submission, provided all requirements \nare met. \n \nREQUIREMENTS FOR APPLICANTS \nApplicants seeking marketing authorisation under this reliance pathway must submit the \nfollowing: \n1) Signed Cover Letter and completed ZAMRA application form \n2) Quality Information Summary (QIS) endorsed and signed by EDA \n3) CTD Dossier as approved by EDA \n4) Labelling information in English (cartons, blisters, inserts, and patient leaﬂets) \n5) A valid cGMP Certiﬁcate issued by EDA \n6) Proof of payment of the prescribed ZAMRA application fees (as per the SI No. 38 of 2016) \n7) Electronic submissions should be sent to:  ៾\n៿\n᠀\n᠁\n᠂ ma.reliance@zamra.co.zm (CC: \nforeign.affairs@edaegypt.gov.eg | export@edaegypt.gov.eg) \n \n",
+          "start": 195,
+          "end": 1769,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "ZMB-R02",
+          "source_document_id": "F250_6e22a4d2e1e27d449a52_ed58b50b9c35",
+          "evidence_role": "Selected primary document",
+          "section_article": "Effective-date and signature block",
+          "pdf_page": 2,
+          "source_url": "https://www.zamra.co.zm/wp-content/uploads/2025/07/ZAMRA-EDA-MoU-Public-Notice-July-2025.pdf",
+          "raw_sha256": "ed58b50b9c3515fbce3d5229d2738da625875f5594815e684dbb4befdbe9832e",
+          "text_sha256": "ece54c51ed02f6d20b193d2e5b5895182b65291febe2b29522fe3a0fde73dbfa",
+          "exact_text": "EFFECTIVE DATE \nThe reliance pathway is effective immediately. All stakeholders are encouraged to submit eligible \napplications in line with these requirements. \n \nFor further information, contact the undersigned by email: pharmacy@zamra.co.zm | or phone \nnumber +260 211 432 350 \n \n \nissued by: \nMakomani Siyanga (Mr.) \nDIRECTOR-GENERAL \nZAMBIA MEDICINES REGULATORY AUTHORITY \n \nDate: 22nd July 2025 \n \n",
+          "start": 2020,
+          "end": 2424,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

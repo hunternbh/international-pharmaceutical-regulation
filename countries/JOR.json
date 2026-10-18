@@ -184,5 +184,585 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "JOR",
+    "country": "Jordan",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Verification/abridged review with screening and national decision",
+    "source_url": "https://www.jfda.jo/ebv4.0/root_storage/ar/eb_list_page/jfda_good_reliance_practice.pdf",
+    "document_id": "F250_0460797d80f9b3e21c3a_45cef08522a8",
+    "genre": "Official guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Jordan Good Reliance Practice, general unilateral requirements versus WHO/CRP sharing distinguished. Public assessment and possible additional unredacted material are not identical.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "Qualifying RRA registration/marketing supports general reliance; precise verification versus abridged route eligibility not fully fixed by selected clauses.",
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "explicit requirement",
+        "finding": "Registration and marketed status/CPP evidence.",
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Product sameness and comparative tables/declarations with differences explained.",
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Public quality/nonclinical/clinical assessment reports including variations; unredacted reports may be requested. FullCTD 1–5 retained.",
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "discretionary/conditional",
+        "finding": "Public assessment expressly allowed as input, subject to possible unredacted requests and local conditions.",
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "discretionary/conditional",
+        "finding": "WHO-CRP consent/sharing arrangements apply to collaborative option, not automatically all unilateral FDA reliance.",
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "Local population, disease patterns and clinical relevance can require evaluation.",
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ]
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Local quality/stability and GMP requirements remain.",
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Local clinical/quality/RMP review and national decision retained.",
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JOR-WEB01",
+          "JOR-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "JOR-WEB01",
+        "iso3": "JOR",
+        "event_id": null,
+        "document_id": "F250_0460797d80f9b3e21c3a_45cef08522a8",
+        "source_id": "F250_0460797d80f9b3e21c3a",
+        "source_url": "https://www.jfda.jo/ebv4.0/root_storage/ar/eb_list_page/jfda_good_reliance_practice.pdf",
+        "raw_sha256": "45cef08522a88f2e4c11eca83f9a178b048c521218c482cf8de9196786862a62",
+        "text_sha256": "f337efe162942b4b3aeebccc23040b35ca74ad3c3f3cfef284172369f1d5a594",
+        "start_offset": 16454,
+        "end_offset": 21382,
+        "pdf_page": 9,
+        "verbatim_extracted_text": "8.1 JFDA Screening Phase for initial marketing authorizations \nJFDA performs a screening before accepting a reliance application. If the \napplication does not meet the selection criteria, JFDA may request to transfer \nthe application to the regular pathway. Nevertheless, JFDA is committed to \nclarify the decisions for any case.   \nThe screening process encompasses, but is not limited to, verification of the \nsubmission’s completeness, payment of applicable fees, compliance with \nformat requirements, and inclusion of all necessary supporting documents. In \naddition, the screening evaluates the following: \n\n\nPAGE 10\nPage 10 of 34 \n \n Identification of the reference regulatory authority to be followed \n(Annex II) . \n A commitment from MAH to submit all post approval changes, safety \nupdates, and regulatory actions taken by the selected reference authority  \n Certificate of Pharmaceutical Product (CPP) from the reference \nregulatory authority confirming that the product is registered and \nmarketed. \n \n(*) Availability of public assessment reports covering the quality, non-\nclinical, and clinical sections of the dossier, including all variations \napproved by the reference authority up to the date of submission, Un-\nredacted assessment reports may be requested if deemed necessary. \n Approval of all post-approval variations by the reference regulatory \nauthority. \n Submission of a sameness letter accompanied by a comparison table \ndetailing all differences between the submitted dossier and the most \nrecently approved version by the reference regulatory authority if any \n(Annex III) . \n Appropriateness of the selected reliance pathway, as outlined in point 5. \n Complete eCTD submission, including all Modules (1–5). \n \n(*) For CRP‑SRA Applications:  \n-  Reference authority full assessment report, GMP inspection reports and \nvalidated QIS-SRA (Quality information summary); in addition to \ninformation and documentation on variations, as well as information and \ndocumentation on any actions taken by the reference authority after national \nregistration of the Product are provided to JFDA through MAH and/or WHO  \n - A commitment to submit all post approval changes, safety updates, and \nregulatory actions communicated through WHO Participation.  \nJFDA has the right to contact the reference authority directly for any \ninquiries or deficiencies.  \n \n\n\nPAGE 11\nPage 11 of 34 \n \n CRP- SRA does not oblige JFDA to grant marketing authorization. JFDA \nretains the right to request additional information, impose conditions, limit \nreliance, or diverge from WHO‑facilitated recommendations were justified \nby national public‑health, legal, or regulatory considerations. \n \n8.1A Confidentiality and Regulatory Information Management \nAll assessment reports, inspection reports, and regulatory information received \nfrom reference regulatory authorities shall be handled in accordance with \napplicable confidentiality and information-protection requirements. \nWhere un-redacted assessment or inspection reports are requested, their use \nshall be limited to regulatory purposes within JFDA and subject to internal \naccess controls. \nReliance on regulatory information originating from trusted regulatory \nauthorities shall be supported by lawful access mechanisms and documented \nverification of authenticity. \n8.2 Scientific Assessment Phase for initial marketing authorizations \nThe extent of the assessment is determined by the selected reliance pathway. \nDuring the evaluation of the safety, efficacy, and quality sections, JFDA may \nrequest additional data as necessary. The assessment will include, but is not \nlimited to: \n Stability under the appropriate climatic conditions \n Differences in risk–benefit profiles (i.e.: specifications, manufacturing \nsites) \n Accuracy and completeness of labeling and patient information, taking \ninto consideration that the submitted clinical studies must be conducted on \na representative ethnic population.  \n Critical CMC elements affecting product robustness \n \n8.2A Reliance Decision Record \nFor each application assessed under a reliance pathway, JFDA shall document \nthe scientific evaluation (Annex V) and the final reliance decision in an \ninternal reliance decision record (Annex IV). \nThe reliance decision record shall include, at a minimum: \n the selected reliance pathway (verification or abridged); \n the reference regulatory authority or trusted institution relied upon; \n confirmation of product sameness or a summary of justified differences \nand their impact; \n\n\nPAGE 12\nPage 12 of 34 \n \n the scope of reliance applied and the elements subject to national \nreview; \n the scientific and regulatory rationale supporting the use of reliance; \nand \n the final regulatory decision. \nThis record shall form part of the official regulatory file and support \ntransparency, traceability, and accountability of reliance-based decisions. \n \n",
+        "display_text": "8.1 JFDA Screening Phase for initial marketing authorizations JFDA performs a screening before accepting a reliance application. If the application does not meet the selection criteria, JFDA may request to transfer the application to the regular pathway. Nevertheless, JFDA is committed to clarify the decisions for any case. The screening process encompasses, but is not limited to, verification of the submission’s completeness, payment of applicable fees, compliance with format requirements, and inclusion of all necessary supporting documents. In addition, the screening evaluates the following: PAGE 10 Page 10 of 34  Identification of the reference regulatory authority to be followed (Annex II) .  A commitment from MAH to submit all post approval changes, safety updates, and regulatory actions taken by the selected reference authority  Certificate of Pharmaceutical Product (CPP) from the reference regulatory authority confirming that the product is registered and marketed.  (*) Availability of public assessment reports covering the quality, non- clinical, and clinical sections of the dossier, including all variations approved by the reference authority up to the date of submission, Un- redacted assessment reports may be requested if deemed necessary.  Approval of all post-approval variations by the reference regulatory authority.  Submission of a sameness letter accompanied by a comparison table detailing all differences between the submitted dossier and the most recently approved version by the reference regulatory authority if any (Annex III) .  Appropriateness of the selected reliance pathway, as outlined in point 5.  Complete eCTD submission, including all Modules (1–5). (*) For CRP‑SRA Applications: - Reference authority full assessment report, GMP inspection reports and validated QIS-SRA (Quality information summary); in addition to information and documentation on variations, as well as information and documentation on any actions taken by the reference authority after national registration of the Product are provided to JFDA through MAH and/or WHO - A commitment to submit all post approval changes, safety updates, and regulatory actions communicated through WHO Participation. JFDA has the right to contact the reference authority directly for any inquiries or deficiencies. PAGE 11 Page 11 of 34 CRP- SRA does not oblige JFDA to grant marketing authorization. JFDA retains the right to request additional information, impose conditions, limit reliance, or diverge from WHO‑facilitated recommendations were justified by national public‑health, legal, or regulatory considerations. 8.1A Confidentiality and Regulatory Information Management All assessment reports, inspection reports, and regulatory information received from reference regulatory authorities shall be handled in accordance with applicable confidentiality and information-protection requirements. Where un-redacted assessment or inspection reports are requested, their use shall be limited to regulatory purposes within JFDA and subject to internal access controls. Reliance on regulatory information originating from trusted regulatory authorities shall be supported by lawful access mechanisms and documented verification of authenticity. 8.2 Scientific Assessment Phase for initial marketing authorizations The extent of the assessment is determined by the selected reliance pathway. During the evaluation of the safety, efficacy, and quality sections, JFDA may request additional data as necessary. The assessment will include, but is not limited to:  Stability under the appropriate climatic conditions  Differences in risk–benefit profiles (i.e.: specifications, manufacturing sites)  Accuracy and completeness of labeling and patient information, taking into consideration that the submitted clinical studies must be conducted on a representative ethnic population.  Critical CMC elements affecting product robustness 8.2A Reliance Decision Record For each application assessed under a reliance pathway, JFDA shall document the scientific evaluation (Annex V) and the final reliance decision in an internal reliance decision record (Annex IV). The reliance decision record shall include, at a minimum:  the selected reliance pathway (verification or abridged);  the reference regulatory authority or trusted institution relied upon;  confirmation of product sameness or a summary of justified differences and their impact; PAGE 12 Page 12 of 34  the scope of reliance applied and the elements subject to national review;  the scientific and regulatory rationale supporting the use of reliance; and  the final regulatory decision. This record shall form part of the official regulatory file and support transparency, traceability, and accountability of reliance-based decisions.",
+        "feature_tags": [
+          "reports",
+          "unredacted",
+          "sameness",
+          "foreign_marketing",
+          "discretion",
+          "local_evidence",
+          "scope_limit"
+        ],
+        "role": "Sections 8.1–8.2A: screening, assessment and decision record",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "The reference product must be registered and marketed; public assessment reports and complete eCTD are required. Unredacted reports may be requested; CRP-SRA has additional full-report conditions. JFDA can seek local data or diverge.",
+        "version_alignment": "Undated preserved official guideline; no operative start date imputed.",
+        "evidence_tier": "national_rule",
+        "section_article": "Sections 8.1–8.2A: screening, assessment and decision record",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "JOR-CONTEXT-1",
+        "source_url": "https://www.jfda.jo/ebv4.0/root_storage/ar/eb_list_page/jfda_good_reliance_practice.pdf",
+        "raw_sha256": "45cef08522a88f2e4c11eca83f9a178b048c521218c482cf8de9196786862a62",
+        "text_sha256": "f337efe162942b4b3aeebccc23040b35ca74ad3c3f3cfef284172369f1d5a594",
+        "start_offset": 15704,
+        "end_offset": 22382,
+        "verbatim_extracted_text": "g Reference Regulatory Authorities' will be reviewed at least \nannually or upon significant updates to regulatory systems. \nReference regulatory authorities may be reclassified based on their performance, \nchanges in transparency, or updates to WHO evaluations \nIn addition, the Reliance Committee shall monitor and evaluate the effectiveness of \nreliance implementation through defined performance indicators, which may include \nreview timelines, consistency of decisions, resource utilization, and post-\nauthorization regulatory outcomes \n8. Operational Workflow for Reliance \nThis section provides detailed steps that applicants must follow. The goal is to \nensure transparency, predictability, and consistency across all reliance \napplications. \n8.1 JFDA Screening Phase for initial marketing authorizations \nJFDA performs a screening before accepting a reliance application. If the \napplication does not meet the selection criteria, JFDA may request to transfer \nthe application to the regular pathway. Nevertheless, JFDA is committed to \nclarify the decisions for any case.   \nThe screening process encompasses, but is not limited to, verification of the \nsubmission’s completeness, payment of applicable fees, compliance with \nformat requirements, and inclusion of all necessary supporting documents. In \naddition, the screening evaluates the following: \n\n\nPAGE 10\nPage 10 of 34 \n \n Identification of the reference regulatory authority to be followed \n(Annex II) . \n A commitment from MAH to submit all post approval changes, safety \nupdates, and regulatory actions taken by the selected reference authority  \n Certificate of Pharmaceutical Product (CPP) from the reference \nregulatory authority confirming that the product is registered and \nmarketed. \n \n(*) Availability of public assessment reports covering the quality, non-\nclinical, and clinical sections of the dossier, including all variations \napproved by the reference authority up to the date of submission, Un-\nredacted assessment reports may be requested if deemed necessary. \n Approval of all post-approval variations by the reference regulatory \nauthority. \n Submission of a sameness letter accompanied by a comparison table \ndetailing all differences between the submitted dossier and the most \nrecently approved version by the reference regulatory authority if any \n(Annex III) . \n Appropriateness of the selected reliance pathway, as outlined in point 5. \n Complete eCTD submission, including all Modules (1–5). \n \n(*) For CRP‑SRA Applications:  \n-  Reference authority full assessment report, GMP inspection reports and \nvalidated QIS-SRA (Quality information summary); in addition to \ninformation and documentation on variations, as well as information and \ndocumentation on any actions taken by the reference authority after national \nregistration of the Product are provided to JFDA through MAH and/or WHO  \n - A commitment to submit all post approval changes, safety updates, and \nregulatory actions communicated through WHO Participation.  \nJFDA has the right to contact the reference authority directly for any \ninquiries or deficiencies.  \n \n\n\nPAGE 11\nPage 11 of 34 \n \n CRP- SRA does not oblige JFDA to grant marketing authorization. JFDA \nretains the right to request additional information, impose conditions, limit \nreliance, or diverge from WHO‑facilitated recommendations were justified \nby national public‑health, legal, or regulatory considerations. \n \n8.1A Confidentiality and Regulatory Information Management \nAll assessment reports, inspection reports, and regulatory information received \nfrom reference regulatory authorities shall be handled in accordance with \napplicable confidentiality and information-protection requirements. \nWhere un-redacted assessment or inspection reports are requested, their use \nshall be limited to regulatory purposes within JFDA and subject to internal \naccess controls. \nReliance on regulatory information originating from trusted regulatory \nauthorities shall be supported by lawful access mechanisms and documented \nverification of authenticity. \n8.2 Scientific Assessment Phase for initial marketing authorizations \nThe extent of the assessment is determined by the selected reliance pathway. \nDuring the evaluation of the safety, efficacy, and quality sections, JFDA may \nrequest additional data as necessary. The assessment will include, but is not \nlimited to: \n Stability under the appropriate climatic conditions \n Differences in risk–benefit profiles (i.e.: specifications, manufacturing \nsites) \n Accuracy and completeness of labeling and patient information, taking \ninto consideration that the submitted clinical studies must be conducted on \na representative ethnic population.  \n Critical CMC elements affecting product robustness \n \n8.2A Reliance Decision Record \nFor each application assessed under a reliance pathway, JFDA shall document \nthe scientific evaluation (Annex V) and the final reliance decision in an \ninternal reliance decision record (Annex IV). \nThe reliance decision record shall include, at a minimum: \n the selected reliance pathway (verification or abridged); \n the reference regulatory authority or trusted institution relied upon; \n confirmation of product sameness or a summary of justified differences \nand their impact; \n\n\nPAGE 12\nPage 12 of 34 \n \n the scope of reliance applied and the elements subject to national \nreview; \n the scientific and regulatory rationale supporting the use of reliance; \nand \n the final regulatory decision. \nThis record shall form part of the official regulatory file and support \ntransparency, traceability, and accountability of reliance-based decisions. \n \n8.3 Post-approval changes  \nIn accordance with the same principles as for initial marketing authorization, \nreliance can also be applied broadly in assessing post-approval changes already \napproved by the reference regulatory authorities, this approach helps minimize \nduplication of effort and enhance efficiency as part of the effective life cycle \nmanagement of registered therapeutic medicinal products.  \n \nThe following requirements should be provided: \n Identification of the reference regulatory authority to be followed. \n(Annex II) . \n Detailed Approval of the post-approval change by the reference \nregulatory authority. \n Certificate of Pharmaceutical Product (CPP) from the reference \nregulatory authority, confirming that the product is registered and \nmarketed, as required and depending on the type of variation. \n \n(**) Public assessment report covering the proposed variation; un-\nredacted assessment reports may be requested if deemed necessary. \n Submission of a sameness let",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Undated preserved official guideline; no operative start date imputed."
+      }
+    ],
+    "review_details": {
+      "iso3": "JOR",
+      "country": "Jordan",
+      "selected_document_id": "F250_0460797d80f9b3e21c3a_45cef08522a8",
+      "source_id": "F250_0460797d80f9b3e21c3a",
+      "pathway": "Verification/abridged review with screening and national decision",
+      "source_url": "https://www.jfda.jo/ebv4.0/root_storage/ar/eb_list_page/jfda_good_reliance_practice.pdf",
+      "document_title": "JFDA Good Reliance Practice Guideline",
+      "source_type": "Official guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "45cef08522a88f2e4c11eca83f9a178b048c521218c482cf8de9196786862a62",
+      "raw_hash_validated": true,
+      "text_sha256": "f337efe162942b4b3aeebccc23040b35ca74ad3c3f3cfef284172369f1d5a594",
+      "version_dates": {},
+      "version_scope_note": "Jordan Good Reliance Practice, general unilateral requirements versus WHO/CRP sharing distinguished. Public assessment and possible additional unredacted material are not identical.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          15704,
+          22382
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "Qualifying RRA registration/marketing supports general reliance; precise verification versus abridged route eligibility not fully fixed by selected clauses.",
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Registration and marketed status/CPP evidence.",
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Product sameness and comparative tables/declarations with differences explained.",
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Public quality/nonclinical/clinical assessment reports including variations; unredacted reports may be requested. FullCTD 1–5 retained.",
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "discretionary/conditional",
+          "finding": "Public assessment expressly allowed as input, subject to possible unredacted requests and local conditions.",
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "discretionary/conditional",
+          "finding": "WHO-CRP consent/sharing arrangements apply to collaborative option, not automatically all unilateral FDA reliance.",
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "Local population, disease patterns and clinical relevance can require evaluation.",
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Local quality/stability and GMP requirements remain.",
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Local clinical/quality/RMP review and national decision retained.",
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JOR-WEB01",
+            "JOR-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "JOR-WEB01",
+          "iso3": "JOR",
+          "event_id": null,
+          "document_id": "F250_0460797d80f9b3e21c3a_45cef08522a8",
+          "source_id": "F250_0460797d80f9b3e21c3a",
+          "source_url": "https://www.jfda.jo/ebv4.0/root_storage/ar/eb_list_page/jfda_good_reliance_practice.pdf",
+          "raw_sha256": "45cef08522a88f2e4c11eca83f9a178b048c521218c482cf8de9196786862a62",
+          "text_sha256": "f337efe162942b4b3aeebccc23040b35ca74ad3c3f3cfef284172369f1d5a594",
+          "start_offset": 16454,
+          "end_offset": 21382,
+          "pdf_page": 9,
+          "verbatim_extracted_text": "8.1 JFDA Screening Phase for initial marketing authorizations \nJFDA performs a screening before accepting a reliance application. If the \napplication does not meet the selection criteria, JFDA may request to transfer \nthe application to the regular pathway. Nevertheless, JFDA is committed to \nclarify the decisions for any case.   \nThe screening process encompasses, but is not limited to, verification of the \nsubmission’s completeness, payment of applicable fees, compliance with \nformat requirements, and inclusion of all necessary supporting documents. In \naddition, the screening evaluates the following: \n\n\nPAGE 10\nPage 10 of 34 \n \n Identification of the reference regulatory authority to be followed \n(Annex II) . \n A commitment from MAH to submit all post approval changes, safety \nupdates, and regulatory actions taken by the selected reference authority  \n Certificate of Pharmaceutical Product (CPP) from the reference \nregulatory authority confirming that the product is registered and \nmarketed. \n \n(*) Availability of public assessment reports covering the quality, non-\nclinical, and clinical sections of the dossier, including all variations \napproved by the reference authority up to the date of submission, Un-\nredacted assessment reports may be requested if deemed necessary. \n Approval of all post-approval variations by the reference regulatory \nauthority. \n Submission of a sameness letter accompanied by a comparison table \ndetailing all differences between the submitted dossier and the most \nrecently approved version by the reference regulatory authority if any \n(Annex III) . \n Appropriateness of the selected reliance pathway, as outlined in point 5. \n Complete eCTD submission, including all Modules (1–5). \n \n(*) For CRP‑SRA Applications:  \n-  Reference authority full assessment report, GMP inspection reports and \nvalidated QIS-SRA (Quality information summary); in addition to \ninformation and documentation on variations, as well as information and \ndocumentation on any actions taken by the reference authority after national \nregistration of the Product are provided to JFDA through MAH and/or WHO  \n - A commitment to submit all post approval changes, safety updates, and \nregulatory actions communicated through WHO Participation.  \nJFDA has the right to contact the reference authority directly for any \ninquiries or deficiencies.  \n \n\n\nPAGE 11\nPage 11 of 34 \n \n CRP- SRA does not oblige JFDA to grant marketing authorization. JFDA \nretains the right to request additional information, impose conditions, limit \nreliance, or diverge from WHO‑facilitated recommendations were justified \nby national public‑health, legal, or regulatory considerations. \n \n8.1A Confidentiality and Regulatory Information Management \nAll assessment reports, inspection reports, and regulatory information received \nfrom reference regulatory authorities shall be handled in accordance with \napplicable confidentiality and information-protection requirements. \nWhere un-redacted assessment or inspection reports are requested, their use \nshall be limited to regulatory purposes within JFDA and subject to internal \naccess controls. \nReliance on regulatory information originating from trusted regulatory \nauthorities shall be supported by lawful access mechanisms and documented \nverification of authenticity. \n8.2 Scientific Assessment Phase for initial marketing authorizations \nThe extent of the assessment is determined by the selected reliance pathway. \nDuring the evaluation of the safety, efficacy, and quality sections, JFDA may \nrequest additional data as necessary. The assessment will include, but is not \nlimited to: \n Stability under the appropriate climatic conditions \n Differences in risk–benefit profiles (i.e.: specifications, manufacturing \nsites) \n Accuracy and completeness of labeling and patient information, taking \ninto consideration that the submitted clinical studies must be conducted on \na representative ethnic population.  \n Critical CMC elements affecting product robustness \n \n8.2A Reliance Decision Record \nFor each application assessed under a reliance pathway, JFDA shall document \nthe scientific evaluation (Annex V) and the final reliance decision in an \ninternal reliance decision record (Annex IV). \nThe reliance decision record shall include, at a minimum: \n the selected reliance pathway (verification or abridged); \n the reference regulatory authority or trusted institution relied upon; \n confirmation of product sameness or a summary of justified differences \nand their impact; \n\n\nPAGE 12\nPage 12 of 34 \n \n the scope of reliance applied and the elements subject to national \nreview; \n the scientific and regulatory rationale supporting the use of reliance; \nand \n the final regulatory decision. \nThis record shall form part of the official regulatory file and support \ntransparency, traceability, and accountability of reliance-based decisions. \n \n",
+          "display_text": "8.1 JFDA Screening Phase for initial marketing authorizations JFDA performs a screening before accepting a reliance application. If the application does not meet the selection criteria, JFDA may request to transfer the application to the regular pathway. Nevertheless, JFDA is committed to clarify the decisions for any case. The screening process encompasses, but is not limited to, verification of the submission’s completeness, payment of applicable fees, compliance with format requirements, and inclusion of all necessary supporting documents. In addition, the screening evaluates the following: PAGE 10 Page 10 of 34  Identification of the reference regulatory authority to be followed (Annex II) .  A commitment from MAH to submit all post approval changes, safety updates, and regulatory actions taken by the selected reference authority  Certificate of Pharmaceutical Product (CPP) from the reference regulatory authority confirming that the product is registered and marketed.  (*) Availability of public assessment reports covering the quality, non- clinical, and clinical sections of the dossier, including all variations approved by the reference authority up to the date of submission, Un- redacted assessment reports may be requested if deemed necessary.  Approval of all post-approval variations by the reference regulatory authority.  Submission of a sameness letter accompanied by a comparison table detailing all differences between the submitted dossier and the most recently approved version by the reference regulatory authority if any (Annex III) .  Appropriateness of the selected reliance pathway, as outlined in point 5.  Complete eCTD submission, including all Modules (1–5). (*) For CRP‑SRA Applications: - Reference authority full assessment report, GMP inspection reports and validated QIS-SRA (Quality information summary); in addition to information and documentation on variations, as well as information and documentation on any actions taken by the reference authority after national registration of the Product are provided to JFDA through MAH and/or WHO - A commitment to submit all post approval changes, safety updates, and regulatory actions communicated through WHO Participation. JFDA has the right to contact the reference authority directly for any inquiries or deficiencies. PAGE 11 Page 11 of 34 CRP- SRA does not oblige JFDA to grant marketing authorization. JFDA retains the right to request additional information, impose conditions, limit reliance, or diverge from WHO‑facilitated recommendations were justified by national public‑health, legal, or regulatory considerations. 8.1A Confidentiality and Regulatory Information Management All assessment reports, inspection reports, and regulatory information received from reference regulatory authorities shall be handled in accordance with applicable confidentiality and information-protection requirements. Where un-redacted assessment or inspection reports are requested, their use shall be limited to regulatory purposes within JFDA and subject to internal access controls. Reliance on regulatory information originating from trusted regulatory authorities shall be supported by lawful access mechanisms and documented verification of authenticity. 8.2 Scientific Assessment Phase for initial marketing authorizations The extent of the assessment is determined by the selected reliance pathway. During the evaluation of the safety, efficacy, and quality sections, JFDA may request additional data as necessary. The assessment will include, but is not limited to:  Stability under the appropriate climatic conditions  Differences in risk–benefit profiles (i.e.: specifications, manufacturing sites)  Accuracy and completeness of labeling and patient information, taking into consideration that the submitted clinical studies must be conducted on a representative ethnic population.  Critical CMC elements affecting product robustness 8.2A Reliance Decision Record For each application assessed under a reliance pathway, JFDA shall document the scientific evaluation (Annex V) and the final reliance decision in an internal reliance decision record (Annex IV). The reliance decision record shall include, at a minimum:  the selected reliance pathway (verification or abridged);  the reference regulatory authority or trusted institution relied upon;  confirmation of product sameness or a summary of justified differences and their impact; PAGE 12 Page 12 of 34  the scope of reliance applied and the elements subject to national review;  the scientific and regulatory rationale supporting the use of reliance; and  the final regulatory decision. This record shall form part of the official regulatory file and support transparency, traceability, and accountability of reliance-based decisions.",
+          "feature_tags": [
+            "reports",
+            "unredacted",
+            "sameness",
+            "foreign_marketing",
+            "discretion",
+            "local_evidence",
+            "scope_limit"
+          ],
+          "role": "Sections 8.1–8.2A: screening, assessment and decision record",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "The reference product must be registered and marketed; public assessment reports and complete eCTD are required. Unredacted reports may be requested; CRP-SRA has additional full-report conditions. JFDA can seek local data or diverge.",
+          "version_alignment": "Undated preserved official guideline; no operative start date imputed.",
+          "evidence_tier": "national_rule",
+          "section_article": "Sections 8.1–8.2A: screening, assessment and decision record",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "JOR-CONTEXT-1",
+          "source_url": "https://www.jfda.jo/ebv4.0/root_storage/ar/eb_list_page/jfda_good_reliance_practice.pdf",
+          "raw_sha256": "45cef08522a88f2e4c11eca83f9a178b048c521218c482cf8de9196786862a62",
+          "text_sha256": "f337efe162942b4b3aeebccc23040b35ca74ad3c3f3cfef284172369f1d5a594",
+          "start_offset": 15704,
+          "end_offset": 22382,
+          "verbatim_extracted_text": "g Reference Regulatory Authorities' will be reviewed at least \nannually or upon significant updates to regulatory systems. \nReference regulatory authorities may be reclassified based on their performance, \nchanges in transparency, or updates to WHO evaluations \nIn addition, the Reliance Committee shall monitor and evaluate the effectiveness of \nreliance implementation through defined performance indicators, which may include \nreview timelines, consistency of decisions, resource utilization, and post-\nauthorization regulatory outcomes \n8. Operational Workflow for Reliance \nThis section provides detailed steps that applicants must follow. The goal is to \nensure transparency, predictability, and consistency across all reliance \napplications. \n8.1 JFDA Screening Phase for initial marketing authorizations \nJFDA performs a screening before accepting a reliance application. If the \napplication does not meet the selection criteria, JFDA may request to transfer \nthe application to the regular pathway. Nevertheless, JFDA is committed to \nclarify the decisions for any case.   \nThe screening process encompasses, but is not limited to, verification of the \nsubmission’s completeness, payment of applicable fees, compliance with \nformat requirements, and inclusion of all necessary supporting documents. In \naddition, the screening evaluates the following: \n\n\nPAGE 10\nPage 10 of 34 \n \n Identification of the reference regulatory authority to be followed \n(Annex II) . \n A commitment from MAH to submit all post approval changes, safety \nupdates, and regulatory actions taken by the selected reference authority  \n Certificate of Pharmaceutical Product (CPP) from the reference \nregulatory authority confirming that the product is registered and \nmarketed. \n \n(*) Availability of public assessment reports covering the quality, non-\nclinical, and clinical sections of the dossier, including all variations \napproved by the reference authority up to the date of submission, Un-\nredacted assessment reports may be requested if deemed necessary. \n Approval of all post-approval variations by the reference regulatory \nauthority. \n Submission of a sameness letter accompanied by a comparison table \ndetailing all differences between the submitted dossier and the most \nrecently approved version by the reference regulatory authority if any \n(Annex III) . \n Appropriateness of the selected reliance pathway, as outlined in point 5. \n Complete eCTD submission, including all Modules (1–5). \n \n(*) For CRP‑SRA Applications:  \n-  Reference authority full assessment report, GMP inspection reports and \nvalidated QIS-SRA (Quality information summary); in addition to \ninformation and documentation on variations, as well as information and \ndocumentation on any actions taken by the reference authority after national \nregistration of the Product are provided to JFDA through MAH and/or WHO  \n - A commitment to submit all post approval changes, safety updates, and \nregulatory actions communicated through WHO Participation.  \nJFDA has the right to contact the reference authority directly for any \ninquiries or deficiencies.  \n \n\n\nPAGE 11\nPage 11 of 34 \n \n CRP- SRA does not oblige JFDA to grant marketing authorization. JFDA \nretains the right to request additional information, impose conditions, limit \nreliance, or diverge from WHO‑facilitated recommendations were justified \nby national public‑health, legal, or regulatory considerations. \n \n8.1A Confidentiality and Regulatory Information Management \nAll assessment reports, inspection reports, and regulatory information received \nfrom reference regulatory authorities shall be handled in accordance with \napplicable confidentiality and information-protection requirements. \nWhere un-redacted assessment or inspection reports are requested, their use \nshall be limited to regulatory purposes within JFDA and subject to internal \naccess controls. \nReliance on regulatory information originating from trusted regulatory \nauthorities shall be supported by lawful access mechanisms and documented \nverification of authenticity. \n8.2 Scientific Assessment Phase for initial marketing authorizations \nThe extent of the assessment is determined by the selected reliance pathway. \nDuring the evaluation of the safety, efficacy, and quality sections, JFDA may \nrequest additional data as necessary. The assessment will include, but is not \nlimited to: \n Stability under the appropriate climatic conditions \n Differences in risk–benefit profiles (i.e.: specifications, manufacturing \nsites) \n Accuracy and completeness of labeling and patient information, taking \ninto consideration that the submitted clinical studies must be conducted on \na representative ethnic population.  \n Critical CMC elements affecting product robustness \n \n8.2A Reliance Decision Record \nFor each application assessed under a reliance pathway, JFDA shall document \nthe scientific evaluation (Annex V) and the final reliance decision in an \ninternal reliance decision record (Annex IV). \nThe reliance decision record shall include, at a minimum: \n the selected reliance pathway (verification or abridged); \n the reference regulatory authority or trusted institution relied upon; \n confirmation of product sameness or a summary of justified differences \nand their impact; \n\n\nPAGE 12\nPage 12 of 34 \n \n the scope of reliance applied and the elements subject to national \nreview; \n the scientific and regulatory rationale supporting the use of reliance; \nand \n the final regulatory decision. \nThis record shall form part of the official regulatory file and support \ntransparency, traceability, and accountability of reliance-based decisions. \n \n8.3 Post-approval changes  \nIn accordance with the same principles as for initial marketing authorization, \nreliance can also be applied broadly in assessing post-approval changes already \napproved by the reference regulatory authorities, this approach helps minimize \nduplication of effort and enhance efficiency as part of the effective life cycle \nmanagement of registered therapeutic medicinal products.  \n \nThe following requirements should be provided: \n Identification of the reference regulatory authority to be followed. \n(Annex II) . \n Detailed Approval of the post-approval change by the reference \nregulatory authority. \n Certificate of Pharmaceutical Product (CPP) from the reference \nregulatory authority, confirming that the product is registered and \nmarketed, as required and depending on the type of variation. \n \n(**) Public assessment report covering the proposed variation; un-\nredacted assessment reports may be requested if deemed necessary. \n Submission of a sameness let",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Undated preserved official guideline; no operative start date imputed."
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

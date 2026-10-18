@@ -193,5 +193,70 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ALB",
+    "country": "Albania",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "historical_fast_track",
+    "fixed_case_scope_status": "historical_only",
+    "finding": "The older law names EMEA/FDA approvals for accelerated registration by ministerial order while retaining domestic registration and efficacy/safety criteria. A detailed ministerial procedure and current validity remain unresolved.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The older law names EMEA/FDA approvals for accelerated registration by ministerial order while retaining domestic registration and efficacy/safety criteria. A detailed ministerial procedure and current validity remain unresolved."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The older law names EMEA/FDA approvals for accelerated registration by ministerial order while retaining domestic registration and efficacy/safety criteria. A detailed ministerial procedure and current validity remain unresolved."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The older law names EMEA/FDA approvals for accelerated registration by ministerial order while retaining domestic registration and efficacy/safety criteria. A detailed ministerial procedure and current validity remain unresolved."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The older law names EMEA/FDA approvals for accelerated registration by ministerial order while retaining domestic registration and efficacy/safety criteria. A detailed ministerial procedure and current validity remain unresolved."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The older law names EMEA/FDA approvals for accelerated registration by ministerial order while retaining domestic registration and efficacy/safety criteria. A detailed ministerial procedure and current validity remain unresolved."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "ALB-R01",
+        "source_url": "https://srd.gov.al/ligji-nr-9323-date-25-11-2004-per-barnat-dhe-sherbimin-farmaceuti-i-ndryshuar/",
+        "raw_sha256": "5906383f9f5a1705030de8cc1c406e7e4620449feae92c1382db3dc027a9f07a",
+        "text_sha256": "be6fdf7b65fc186ab044c3082f01ca2f5c0da1f624872be654dae582f036a46a",
+        "start_offset": 10151,
+        "end_offset": 10894,
+        "verbatim_extracted_text": "Neni 13\nAplikimi dhe praktika e regjistrimit\n1. Aplikimi dhe praktika e regjistrimit te barnave bëhen nga mbajtësi i licencës edhe kur ky\nnuk është prodhuesi i barit ne QKKB, sipas rregullores se miratuar nga Ministri i Shëndetësisë.\n2. QKKB-ja pranon për regjistrim vetëm barnat nga prodhues vendas, barnat e regjistruara dhe qe qarkullojnë ne një nga vendet e Bashkimit Evropian, SHBA, Kanada, Japoni, Australi, si dhe ne shtetet e Ballkanit Perëndimor te përfshira ne marrëveshjet e ratifikuara për tregtinë e lire.\n3. Regjistrimi i barnave behet ne QKKB, sipas rregullores se miratuar nga Ministri i\nShëndetësisë.\n4. Barnat regjistrohen vetëm kur plotësojnë kriteret e efektshmerise dhe te sigurisë, ne\npërputhje me qëllimin e përdorimit.\n",
+        "pdf_page": null,
+        "language": "sq",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "evidence_tier": "historical_rule",
+        "version_alignment": "Law 9323, 25 November 2004, amended reproduction; current applicability not established.",
+        "translation_review": null
+      },
+      {
+        "clause_id": "ALB-R02",
+        "source_url": "https://srd.gov.al/ligji-nr-9323-date-25-11-2004-per-barnat-dhe-sherbimin-farmaceuti-i-ndryshuar/",
+        "raw_sha256": "5906383f9f5a1705030de8cc1c406e7e4620449feae92c1382db3dc027a9f07a",
+        "text_sha256": "be6fdf7b65fc186ab044c3082f01ca2f5c0da1f624872be654dae582f036a46a",
+        "start_offset": 12160,
+        "end_offset": 12581,
+        "verbatim_extracted_text": "Neni 17\nProcedura e përshpejtuar e regjistrimit\nPër barnat e regjistruara ne Agjencinë Evropiane te Vlerësimit te Barnave (EMEA), ne Administratën Amerikane për Ushqimin dhe Barnat (FDA), si dhe për barnat e vendeve me te cilat ekzistojnë marrëveshje zyrtare te ndërsjella, regjistrimi i tyre realizohet sipas dispozitave përkatëse te këtij ligji, por me procedure te përshpejtuar me urdhër te Ministrit te Shëndetësisë.\n",
+        "pdf_page": null,
+        "language": "sq",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "evidence_tier": "historical_rule",
+        "version_alignment": "Law 9323, 25 November 2004, amended reproduction; current applicability not established.",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Human-medicine authorisation",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

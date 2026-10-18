@@ -130,5 +130,551 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "GUY",
+    "country": "Guyana",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Foreign certification and CARPHA recommendation followed by domestic registration",
+    "source_url": "https://www.gafdd.gy/press-releases/press-advisory-drug-registration-requirements-and-enforcement-to-prevent-importation-and-distribution-of-substandard-falsified-sf-medicines/",
+    "document_id": "F250_e6ed459ddd04ad152a4b_775773d89880",
+    "genre": "Official registration and implementation advisory",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "GA-FDD official 2020 explanation of Food/Drug Regulations 78/80. A qualifying foreign approval supports local registration; press evidence of completed CARPHA reviews is not a statutory review-time estimate.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA, MHRA, HealthCanada and TGA explicitly named; any manufacturing country can qualify if certified by these authorities.",
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "One named reference approval may support local registration.",
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Report content/consent not settled by this official explanation.",
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "GA-FDD registration remains required; unregistered products cannot be imported/distributed merely because approved abroad.",
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Past CARPHA recommendations in under 60 days are observations for a set of products, not statutory target for this fixed medicine.",
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GUY-R01",
+          "GUY-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "GUY-R01",
+        "iso3": "GUY",
+        "event_id": null,
+        "document_id": "F250_e6ed459ddd04ad152a4b_775773d89880",
+        "source_id": "F250_e6ed459ddd04ad152a4b",
+        "source_url": "https://www.gafdd.gy/press-releases/press-advisory-drug-registration-requirements-and-enforcement-to-prevent-importation-and-distribution-of-substandard-falsified-sf-medicines/",
+        "raw_sha256": "775773d898801a80ea6c624b03c87160ad6fcf244c1e2e50e5d8e28814034a4d",
+        "text_sha256": "c94475a2ab7a8711c3845ee8698c68878f50cc6fd94074703642e408f1e1f3bc",
+        "start_offset": 2987,
+        "end_offset": 4490,
+        "pdf_page": null,
+        "verbatim_extracted_text": "Our current Food and Drug Regulations stipulates that medicines manufactured in any country can be registered by the GA-FDD after being\ncertified\nby the United States – Food and Drug Administration (US.FDA), the Medicines and Healthcare products Regulatory Agency (MHRA\n)-\nUnited Kingdom (UK), Health Canada (HC) or the Australian Government Department of Health – Therapeutic Goods Administration (TGA).\nAdditionally, Guyana has signed onto the CARPHA’s Caribbean Regulatory System (CRS) in March of 2017, (\nhttps://www.carpha.org/What-We-Do/CRS/Caribbean-Regulatory-System\n), where prescription medicines manufactured in any country are assessed by CARPHA’s-CRS electronically after being certified for use in Brazil, Mexico, Chile, Colombia, Cuba, or Argentina.  With CRS’s recommendation, these drugs are then registered by the GA-FDD for use in Guyana.  The GA-FDD has earned the distinction of registering the first (1\nst\n) CRS recommended Drugs/\nMedicines on the 18\nth\nSeptember 2017, taking less than sixty (60) days to complete the process. To date, approximately forty-nine (49) CRS recommended medicines have been registered\nby the GA-FDD for use in Guyana.\nImporters and manufacturers are being reminded to ensure compliance with the registration procedures if products are to be released for sale and use in our health care delivery system.  The Department reiterates that no waivers will be granted to any entity for the sale and/or distribution of unregistered drugs/medicines in Guyana.\n",
+        "display_text": "Our current Food and Drug Regulations stipulates that medicines manufactured in any country can be registered by the GA-FDD after being certified by the United States – Food and Drug Administration (US.FDA), the Medicines and Healthcare products Regulatory Agency (MHRA )- United Kingdom (UK), Health Canada (HC) or the Australian Government Department of Health – Therapeutic Goods Administration (TGA). Additionally, Guyana has signed onto the CARPHA’s Caribbean Regulatory System (CRS) in March of 2017, ( https://www.carpha.org/What-We-Do/CRS/Caribbean-Regulatory-System ), where prescription medicines manufactured in any country are assessed by CARPHA’s-CRS electronically after being certified for use in Brazil, Mexico, Chile, Colombia, Cuba, or Argentina. With CRS’s recommendation, these drugs are then registered by the GA-FDD for use in Guyana. The GA-FDD has earned the distinction of registering the first (1 st ) CRS recommended Drugs/ Medicines on the 18 th September 2017, taking less than sixty (60) days to complete the process. To date, approximately forty-nine (49) CRS recommended medicines have been registered by the GA-FDD for use in Guyana. Importers and manufacturers are being reminded to ensure compliance with the registration procedures if products are to be released for sale and use in our health care delivery system. The Department reiterates that no waivers will be granted to any entity for the sale and/or distribution of unregistered drugs/medicines in Guyana.",
+        "feature_tags": [
+          "scope_limit",
+          "discretion"
+        ],
+        "role": "Foreign certification, CRS recommendation and domestic registration",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "The department states that medicines manufactured in any country may be registered following FDA, MHRA, Health Canada or TGA certification. It also describes registration after CRS recommendation using specified Latin American approvals, with actual registrations reported. Its first CRS registration taking under 60 days is a reported historical example, not a statutory deadline for all drugs.",
+        "version_alignment": "Preserved official advisory describes March/September 2017 participation/registration milestones. Exact regulation amendment and first operative date not inferred from those milestones.",
+        "evidence_tier": "national_rule",
+        "section_article": "Foreign certification, CRS recommendation and domestic registration",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GUY-CONTEXT-1",
+        "source_url": "https://www.gafdd.gy/press-releases/press-advisory-drug-registration-requirements-and-enforcement-to-prevent-importation-and-distribution-of-substandard-falsified-sf-medicines/",
+        "raw_sha256": "775773d898801a80ea6c624b03c87160ad6fcf244c1e2e50e5d8e28814034a4d",
+        "text_sha256": "c94475a2ab7a8711c3845ee8698c68878f50cc6fd94074703642e408f1e1f3bc",
+        "start_offset": 0,
+        "end_offset": 6122,
+        "verbatim_extracted_text": "DRUG REGISTRATION REQUIREMENTS AND ENFORCEMENT TO PREVENT IMPORTATION AND DISTRIBUTION OF SUBSTANDARD / FALSIFIED (SF) MEDICINES – Government Analyst Food and Drug Department\nMenu\nCAPITAL CORP. SYDNEY\n73 Ocean Street, New South Wales 2000, SYDNEY\nContact Person: Callum S Ansell\nE: callum.aus@capital.com\nP: (02) 8252 5319\nWILD KEY CAPITAL\n22 Guild Street, NW8 2UP,\nLONDON\nContact Person: Matilda O Dunn\nE: matilda.uk@capital.com\nP: 070 8652 7276\nLECHMERE CAPITAL\nGenslerstraße 9, Berlin Schöneberg 10829, BERLIN\nContact Person: Thorsten S Kohl\nE: thorsten.bl@capital.com\nP: 030 62 91 92\nDRUG REGISTRATION REQUIREMENTS AND ENFORCEMENT TO PREVENT IMPORTATION AND DISTRIBUTION OF SUBSTANDARD / FALSIFIED (SF) MEDICINES\nGovernment Analyst Food and Drug Department\n>\nNews\n>\nPress Releases\n>\nDRUG REGISTRATION REQUIREMENTS AND ENFORCEMENT TO PREVENT IMPORTATION AND DISTRIBUTION OF SUBSTANDARD / FALSIFIED (SF) MEDICINES\nAugust 25, 2020\nCBollers\nPress Releases\n0\nThe Government Analyst –Food and Drug Department (GA-FDD) wishes to remind the general public, particularly importers and manufacturers of prescription drugs\n/medicines of the\nimportance and legal requirement fo\nr drug registration compliance.\nAccording to the law\ns\nof Guyana Food and Drug Act Chapter 34:03 and\nthe Food and Drug Regulations:\nRegulation\ns 78 and 80\n,\nall\nnew\ndrugs\n/ medicines\nmust be register\ned with the D\nepartment\n. Registration is the first line of\ndefense\nagainst\nthe\nproliferation of\nSubstandard\nor\nFalsified\n(SF)\nmedicines\nin our health care d\nelivery system\n,\nboth\nat\nprivate and public\ninstitutions\n.\nThe World Health Organizatio\nn (WHO) in its publication, “A S\ntudy on the\nPublic Health and Socioeconomic\nImpact\nof\nSubstandard and Falsified Medical P\nroducts” in 2017\n(\nhttps://www.who.int/medicines/regulation/ssffc/publications/se-study-sf/en/\n)\n,\ndetermined that\napproximately 1 in 10 or 10\n%\nof\ndrugs tested in Low- an\nd Middle-Income countries\nwere falsified or substandard.\nTo this end, over the past eighteen (18) months the GA-FDD has participated in a pilot project to determine the safety, efficacy and quality of prescription drugs used\non our\nlocal market. This was done in collaboration with the Caribbean Public Health Agency’s (CARPHA) –\nMedicines Quality Control and Surveillance Department’s (\nMQCSD) – accredited laboratory located in Kingston, Jamaica.  During this sampling and testing exercise, it was discovered that of thirty – six (36) drugs sampled and tested from our market, at the MQCSD- laboratory and at our own Drug Testing Laboratory, approximately 3 in 10 or 30\n%\nwere\nsubstandard\n.  Drugs tested so far ranged from Anti-Diabetic, Anti-Coagulant, Diuretic, Anti- Bacterial and Anti-Hypertensive Drugs.\nIn considering the risks associated with the distribution of such elevated numbers of substandard drugs; 30% on our local market, which is significantly more than the global average, the Department will be stringently enforcing our drug registration requirements.\nOur current Food and Drug Regulations stipulates that medicines manufactured in any country can be registered by the GA-FDD after being\ncertified\nby the United States – Food and Drug Administration (US.FDA), the Medicines and Healthcare products Regulatory Agency (MHRA\n)-\nUnited Kingdom (UK), Health Canada (HC) or the Australian Government Department of Health – Therapeutic Goods Administration (TGA).\nAdditionally, Guyana has signed onto the CARPHA’s Caribbean Regulatory System (CRS) in March of 2017, (\nhttps://www.carpha.org/What-We-Do/CRS/Caribbean-Regulatory-System\n), where prescription medicines manufactured in any country are assessed by CARPHA’s-CRS electronically after being certified for use in Brazil, Mexico, Chile, Colombia, Cuba, or Argentina.  With CRS’s recommendation, these drugs are then registered by the GA-FDD for use in Guyana.  The GA-FDD has earned the distinction of registering the first (1\nst\n) CRS recommended Drugs/\nMedicines on the 18\nth\nSeptember 2017, taking less than sixty (60) days to complete the process. To date, approximately forty-nine (49) CRS recommended medicines have been registered\nby the GA-FDD for use in Guyana.\nImporters and manufacturers are being reminded to ensure compliance with the registration procedures if products are to be released for sale and use in our health care delivery system.  The Department reiterates that no waivers will be granted to any entity for the sale and/or distribution of unregistered drugs/medicines in Guyana.\nThe GA-FDD;\nin the\nbest interest of consumer protection and safety\nand\naccording to the laws of Guyana Food and Drug Act Chapter 34:03, Section 21 (d)\n,\nhereby\nwarns\nthat\nany\nunregistered\nDrug\ns\n/ Medicine\ns\nin circulation\nor\nthose found on the prem\nises of local distributors with\nout authorization from the GA-FDD will be seize\nd and removed from premises by O\nfficers\n/ Inspectors of the D\nepartment\n.\nPrevious\nFREE SALE / HEALTH CERTIFICATE REQUIREMENT FOR COSMETIC, MEDICAL DEVICES AND OVER- THE-COUNTER  MEDICINE IMPORTS\nNext\nPRESS RELEASE : (ISO) 17020 ACCREDITATION OF GOVERNMENT ANALYST-FOOD AND DRUG DEPARTMENT-INSPECTORATE DIVISION.\nSHARE IT\nRecent Posts\nPRESS ADVISORY Food, Drugs, Cosmetics, and Medical Devices Importers\nGuyana Single Electronic Window Application Submission Process\nWORLD FOOD SAFETY DAY FAIR 2023\nWORLD FOOD SAFETY DAY SYMPOSIUM 2023\nLIST OF LICENSED WATER PROCESSORS 2022\nArchives\nArchives\nSelect Month\nMay 2026\nMay 2023\nMarch 2023\nMay 2022\nApril 2022\nAugust 2021\nJuly 2021\nJune 2021\nMay 2021\nApril 2021\nJanuary 2021\nDecember 2020\nNovember 2020\nOctober 2020\nSeptember 2020\nAugust 2020\nJuly 2020\nJune 2020\nApril 2020\nJanuary 2020\nDecember 2019\nNovember 2019\nOctober 2019\nSeptember 2019\nAugust 2019\nJuly 2019\nApril 2019\nMarch 2019\nJanuary 2019\nOctober 2018\nSeptember 2018\nJanuary 2014\nCategories\nCategories\nSelect Category\nAchievements\nActivities\nConsumer Alert\nNews\nPress Releases\nTraining\nUncategorized\nCategories\nAchievements\n(3)\nActivities\n(3)\nConsumer Alert\n(1)\nNews\n(29)\nPress Releases\n(23)\nTraining\n(20)\nUncategorized\n(8)\n© 2018 Government Analyst Food and Drug Department. All Rights Reserved",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Preserved official advisory describes March/September 2017 participation/registration milestones. Exact regulation amendment and first operative date not inferred from those milestones."
+      }
+    ],
+    "review_details": {
+      "iso3": "GUY",
+      "country": "Guyana",
+      "selected_document_id": "F250_e6ed459ddd04ad152a4b_775773d89880",
+      "source_id": "F250_e6ed459ddd04ad152a4b",
+      "pathway": "Foreign certification and CARPHA recommendation followed by domestic registration",
+      "source_url": "https://www.gafdd.gy/press-releases/press-advisory-drug-registration-requirements-and-enforcement-to-prevent-importation-and-distribution-of-substandard-falsified-sf-medicines/",
+      "document_title": "Guyana GA-FDD: registration requirements and enforcement advisory",
+      "source_type": "Official registration and implementation advisory",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "775773d898801a80ea6c624b03c87160ad6fcf244c1e2e50e5d8e28814034a4d",
+      "raw_hash_validated": true,
+      "text_sha256": "c94475a2ab7a8711c3845ee8698c68878f50cc6fd94074703642e408f1e1f3bc",
+      "version_dates": {},
+      "version_scope_note": "GA-FDD official 2020 explanation of Food/Drug Regulations 78/80. A qualifying foreign approval supports local registration; press evidence of completed CARPHA reviews is not a statutory review-time estimate.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          0,
+          6122
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA, MHRA, HealthCanada and TGA explicitly named; any manufacturing country can qualify if certified by these authorities.",
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "One named reference approval may support local registration.",
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Report content/consent not settled by this official explanation.",
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "GA-FDD registration remains required; unregistered products cannot be imported/distributed merely because approved abroad.",
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Past CARPHA recommendations in under 60 days are observations for a set of products, not statutory target for this fixed medicine.",
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GUY-R01",
+            "GUY-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "GUY-R01",
+          "iso3": "GUY",
+          "event_id": null,
+          "document_id": "F250_e6ed459ddd04ad152a4b_775773d89880",
+          "source_id": "F250_e6ed459ddd04ad152a4b",
+          "source_url": "https://www.gafdd.gy/press-releases/press-advisory-drug-registration-requirements-and-enforcement-to-prevent-importation-and-distribution-of-substandard-falsified-sf-medicines/",
+          "raw_sha256": "775773d898801a80ea6c624b03c87160ad6fcf244c1e2e50e5d8e28814034a4d",
+          "text_sha256": "c94475a2ab7a8711c3845ee8698c68878f50cc6fd94074703642e408f1e1f3bc",
+          "start_offset": 2987,
+          "end_offset": 4490,
+          "pdf_page": null,
+          "verbatim_extracted_text": "Our current Food and Drug Regulations stipulates that medicines manufactured in any country can be registered by the GA-FDD after being\ncertified\nby the United States – Food and Drug Administration (US.FDA), the Medicines and Healthcare products Regulatory Agency (MHRA\n)-\nUnited Kingdom (UK), Health Canada (HC) or the Australian Government Department of Health – Therapeutic Goods Administration (TGA).\nAdditionally, Guyana has signed onto the CARPHA’s Caribbean Regulatory System (CRS) in March of 2017, (\nhttps://www.carpha.org/What-We-Do/CRS/Caribbean-Regulatory-System\n), where prescription medicines manufactured in any country are assessed by CARPHA’s-CRS electronically after being certified for use in Brazil, Mexico, Chile, Colombia, Cuba, or Argentina.  With CRS’s recommendation, these drugs are then registered by the GA-FDD for use in Guyana.  The GA-FDD has earned the distinction of registering the first (1\nst\n) CRS recommended Drugs/\nMedicines on the 18\nth\nSeptember 2017, taking less than sixty (60) days to complete the process. To date, approximately forty-nine (49) CRS recommended medicines have been registered\nby the GA-FDD for use in Guyana.\nImporters and manufacturers are being reminded to ensure compliance with the registration procedures if products are to be released for sale and use in our health care delivery system.  The Department reiterates that no waivers will be granted to any entity for the sale and/or distribution of unregistered drugs/medicines in Guyana.\n",
+          "display_text": "Our current Food and Drug Regulations stipulates that medicines manufactured in any country can be registered by the GA-FDD after being certified by the United States – Food and Drug Administration (US.FDA), the Medicines and Healthcare products Regulatory Agency (MHRA )- United Kingdom (UK), Health Canada (HC) or the Australian Government Department of Health – Therapeutic Goods Administration (TGA). Additionally, Guyana has signed onto the CARPHA’s Caribbean Regulatory System (CRS) in March of 2017, ( https://www.carpha.org/What-We-Do/CRS/Caribbean-Regulatory-System ), where prescription medicines manufactured in any country are assessed by CARPHA’s-CRS electronically after being certified for use in Brazil, Mexico, Chile, Colombia, Cuba, or Argentina. With CRS’s recommendation, these drugs are then registered by the GA-FDD for use in Guyana. The GA-FDD has earned the distinction of registering the first (1 st ) CRS recommended Drugs/ Medicines on the 18 th September 2017, taking less than sixty (60) days to complete the process. To date, approximately forty-nine (49) CRS recommended medicines have been registered by the GA-FDD for use in Guyana. Importers and manufacturers are being reminded to ensure compliance with the registration procedures if products are to be released for sale and use in our health care delivery system. The Department reiterates that no waivers will be granted to any entity for the sale and/or distribution of unregistered drugs/medicines in Guyana.",
+          "feature_tags": [
+            "scope_limit",
+            "discretion"
+          ],
+          "role": "Foreign certification, CRS recommendation and domestic registration",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "The department states that medicines manufactured in any country may be registered following FDA, MHRA, Health Canada or TGA certification. It also describes registration after CRS recommendation using specified Latin American approvals, with actual registrations reported. Its first CRS registration taking under 60 days is a reported historical example, not a statutory deadline for all drugs.",
+          "version_alignment": "Preserved official advisory describes March/September 2017 participation/registration milestones. Exact regulation amendment and first operative date not inferred from those milestones.",
+          "evidence_tier": "national_rule",
+          "section_article": "Foreign certification, CRS recommendation and domestic registration",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GUY-CONTEXT-1",
+          "source_url": "https://www.gafdd.gy/press-releases/press-advisory-drug-registration-requirements-and-enforcement-to-prevent-importation-and-distribution-of-substandard-falsified-sf-medicines/",
+          "raw_sha256": "775773d898801a80ea6c624b03c87160ad6fcf244c1e2e50e5d8e28814034a4d",
+          "text_sha256": "c94475a2ab7a8711c3845ee8698c68878f50cc6fd94074703642e408f1e1f3bc",
+          "start_offset": 0,
+          "end_offset": 6122,
+          "verbatim_extracted_text": "DRUG REGISTRATION REQUIREMENTS AND ENFORCEMENT TO PREVENT IMPORTATION AND DISTRIBUTION OF SUBSTANDARD / FALSIFIED (SF) MEDICINES – Government Analyst Food and Drug Department\nMenu\nCAPITAL CORP. SYDNEY\n73 Ocean Street, New South Wales 2000, SYDNEY\nContact Person: Callum S Ansell\nE: callum.aus@capital.com\nP: (02) 8252 5319\nWILD KEY CAPITAL\n22 Guild Street, NW8 2UP,\nLONDON\nContact Person: Matilda O Dunn\nE: matilda.uk@capital.com\nP: 070 8652 7276\nLECHMERE CAPITAL\nGenslerstraße 9, Berlin Schöneberg 10829, BERLIN\nContact Person: Thorsten S Kohl\nE: thorsten.bl@capital.com\nP: 030 62 91 92\nDRUG REGISTRATION REQUIREMENTS AND ENFORCEMENT TO PREVENT IMPORTATION AND DISTRIBUTION OF SUBSTANDARD / FALSIFIED (SF) MEDICINES\nGovernment Analyst Food and Drug Department\n>\nNews\n>\nPress Releases\n>\nDRUG REGISTRATION REQUIREMENTS AND ENFORCEMENT TO PREVENT IMPORTATION AND DISTRIBUTION OF SUBSTANDARD / FALSIFIED (SF) MEDICINES\nAugust 25, 2020\nCBollers\nPress Releases\n0\nThe Government Analyst –Food and Drug Department (GA-FDD) wishes to remind the general public, particularly importers and manufacturers of prescription drugs\n/medicines of the\nimportance and legal requirement fo\nr drug registration compliance.\nAccording to the law\ns\nof Guyana Food and Drug Act Chapter 34:03 and\nthe Food and Drug Regulations:\nRegulation\ns 78 and 80\n,\nall\nnew\ndrugs\n/ medicines\nmust be register\ned with the D\nepartment\n. Registration is the first line of\ndefense\nagainst\nthe\nproliferation of\nSubstandard\nor\nFalsified\n(SF)\nmedicines\nin our health care d\nelivery system\n,\nboth\nat\nprivate and public\ninstitutions\n.\nThe World Health Organizatio\nn (WHO) in its publication, “A S\ntudy on the\nPublic Health and Socioeconomic\nImpact\nof\nSubstandard and Falsified Medical P\nroducts” in 2017\n(\nhttps://www.who.int/medicines/regulation/ssffc/publications/se-study-sf/en/\n)\n,\ndetermined that\napproximately 1 in 10 or 10\n%\nof\ndrugs tested in Low- an\nd Middle-Income countries\nwere falsified or substandard.\nTo this end, over the past eighteen (18) months the GA-FDD has participated in a pilot project to determine the safety, efficacy and quality of prescription drugs used\non our\nlocal market. This was done in collaboration with the Caribbean Public Health Agency’s (CARPHA) –\nMedicines Quality Control and Surveillance Department’s (\nMQCSD) – accredited laboratory located in Kingston, Jamaica.  During this sampling and testing exercise, it was discovered that of thirty – six (36) drugs sampled and tested from our market, at the MQCSD- laboratory and at our own Drug Testing Laboratory, approximately 3 in 10 or 30\n%\nwere\nsubstandard\n.  Drugs tested so far ranged from Anti-Diabetic, Anti-Coagulant, Diuretic, Anti- Bacterial and Anti-Hypertensive Drugs.\nIn considering the risks associated with the distribution of such elevated numbers of substandard drugs; 30% on our local market, which is significantly more than the global average, the Department will be stringently enforcing our drug registration requirements.\nOur current Food and Drug Regulations stipulates that medicines manufactured in any country can be registered by the GA-FDD after being\ncertified\nby the United States – Food and Drug Administration (US.FDA), the Medicines and Healthcare products Regulatory Agency (MHRA\n)-\nUnited Kingdom (UK), Health Canada (HC) or the Australian Government Department of Health – Therapeutic Goods Administration (TGA).\nAdditionally, Guyana has signed onto the CARPHA’s Caribbean Regulatory System (CRS) in March of 2017, (\nhttps://www.carpha.org/What-We-Do/CRS/Caribbean-Regulatory-System\n), where prescription medicines manufactured in any country are assessed by CARPHA’s-CRS electronically after being certified for use in Brazil, Mexico, Chile, Colombia, Cuba, or Argentina.  With CRS’s recommendation, these drugs are then registered by the GA-FDD for use in Guyana.  The GA-FDD has earned the distinction of registering the first (1\nst\n) CRS recommended Drugs/\nMedicines on the 18\nth\nSeptember 2017, taking less than sixty (60) days to complete the process. To date, approximately forty-nine (49) CRS recommended medicines have been registered\nby the GA-FDD for use in Guyana.\nImporters and manufacturers are being reminded to ensure compliance with the registration procedures if products are to be released for sale and use in our health care delivery system.  The Department reiterates that no waivers will be granted to any entity for the sale and/or distribution of unregistered drugs/medicines in Guyana.\nThe GA-FDD;\nin the\nbest interest of consumer protection and safety\nand\naccording to the laws of Guyana Food and Drug Act Chapter 34:03, Section 21 (d)\n,\nhereby\nwarns\nthat\nany\nunregistered\nDrug\ns\n/ Medicine\ns\nin circulation\nor\nthose found on the prem\nises of local distributors with\nout authorization from the GA-FDD will be seize\nd and removed from premises by O\nfficers\n/ Inspectors of the D\nepartment\n.\nPrevious\nFREE SALE / HEALTH CERTIFICATE REQUIREMENT FOR COSMETIC, MEDICAL DEVICES AND OVER- THE-COUNTER  MEDICINE IMPORTS\nNext\nPRESS RELEASE : (ISO) 17020 ACCREDITATION OF GOVERNMENT ANALYST-FOOD AND DRUG DEPARTMENT-INSPECTORATE DIVISION.\nSHARE IT\nRecent Posts\nPRESS ADVISORY Food, Drugs, Cosmetics, and Medical Devices Importers\nGuyana Single Electronic Window Application Submission Process\nWORLD FOOD SAFETY DAY FAIR 2023\nWORLD FOOD SAFETY DAY SYMPOSIUM 2023\nLIST OF LICENSED WATER PROCESSORS 2022\nArchives\nArchives\nSelect Month\nMay 2026\nMay 2023\nMarch 2023\nMay 2022\nApril 2022\nAugust 2021\nJuly 2021\nJune 2021\nMay 2021\nApril 2021\nJanuary 2021\nDecember 2020\nNovember 2020\nOctober 2020\nSeptember 2020\nAugust 2020\nJuly 2020\nJune 2020\nApril 2020\nJanuary 2020\nDecember 2019\nNovember 2019\nOctober 2019\nSeptember 2019\nAugust 2019\nJuly 2019\nApril 2019\nMarch 2019\nJanuary 2019\nOctober 2018\nSeptember 2018\nJanuary 2014\nCategories\nCategories\nSelect Category\nAchievements\nActivities\nConsumer Alert\nNews\nPress Releases\nTraining\nUncategorized\nCategories\nAchievements\n(3)\nActivities\n(3)\nConsumer Alert\n(1)\nNews\n(29)\nPress Releases\n(23)\nTraining\n(20)\nUncategorized\n(8)\n© 2018 Government Analyst Food and Drug Department. All Rights Reserved",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Preserved official advisory describes March/September 2017 participation/registration milestones. Exact regulation amendment and first operative date not inferred from those milestones."
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

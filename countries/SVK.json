@@ -134,5 +134,611 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SVK",
+    "country": "Slovakia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition and decentralised assessment",
+    "source_url": "https://static.slov-lex.sk/static/SK/ZZ/2011/362/20220526.print.html",
+    "document_id": "F250_b7e8b6e7605171399e32_72d7e5ab4e42",
+    "genre": "Official historical consolidated statute",
+    "language": "sk",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Slovak Act section 57 describes EU MRP/DCP, not a third-country FDA pathway. Original-language targeted section/context reviewed; no checked full English translation on hand. Qualifying national Member-State approval differs from EMA centralized authorization.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Reference EU Member State; EU coordination/Commission referral.",
+        "evidence_ids": [
+          "SVK-R01"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "Existing Member-State authorization for MRP; joint pending applications for DCP.",
+        "evidence_ids": [
+          "SVK-R01"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "explicit requirement",
+        "finding": "Reference Member State sends assessment report and approved product information.",
+        "evidence_ids": [
+          "SVK-R01"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Member State accepts report subject to serious-public-health-risk objection/referral.",
+        "evidence_ids": [
+          "SVK-R01"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "90-day report stages, 30-day national decision after agreed procedure; not one combined unconditional clock.",
+        "evidence_ids": [
+          "SVK-R01"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Serious-risk objections and EU referral remain.",
+        "evidence_ids": [
+          "SVK-R01"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVK-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVK-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVK-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVK-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+        "decisive_conditions": [
+          "Reference Member State national authorization not established."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SVK-R01"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": null,
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "passage_id": "SVK-R01",
+        "source_document_id": "F250_b7e8b6e7605171399e32_72d7e5ab4e42",
+        "evidence_role": "Selected primary document",
+        "section_article": "Section 57",
+        "pdf_page": null,
+        "source_url": "https://static.slov-lex.sk/static/SK/ZZ/2011/362/20220526.print.html",
+        "raw_sha256": "72d7e5ab4e423d28cc0e3e4b4b0b5389bb21d66205c22d789cc3fa523bda60fa",
+        "text_sha256": "e4763e66b9bb94eb7e1e7e04baff7fe694734c30ef915b1d8a2c040b2aa08b54",
+        "exact_text": "Decentralizovaný postup registrácie humánneho lieku a postup vzájomného uznania registrácie\n                  humánneho lieku medzi členskými štátmi\n§ 57\n(1)\nAk humánny liek nie je registrovaný v žiadnom členskom štáte, rovnakú žiadosť o registráciu\n                        humánneho lieku vo viac ako v jednom členskom štáte predkladá žiadateľ príslušným\n                        orgánom dotknutých členských štátov. Žiadosť o registráciu humánneho lieku obsahuje\n                        údaje a doklady uvedené v\n§ 48 ods. 1\na\n§ 49\n; súčasťou žiadosti je zoznam členských štátov, ktorým bola žiadosť o registráciu\n                        humánneho lieku predložená.\n(2)\nŽiadateľ požiada jeden z členských štátov, v ktorých predkladá rovnakú žiadosť o\n                        registráciu lieku (ďalej len „referenčný členský štát“), aby vypracoval hodnotiacu\n                        správu o humánnom lieku, ktorý je predmetom žiadosti.\n(3)\nAk je humánny liek registrovaný v členskom štáte, držiteľ registrácie humánneho lieku\n                        pred podaním žiadosti o vzájomné uznanie registrácie lieku v Slovenskej republike\n                        informuje referenčný členský štát, že predkladá štátnemu ústavu žiadosť o vzájomné\n                        uznanie registrácie humánneho lieku, ktorá obsahuje náležitosti uvedené v\n§ 48 ods. 1 až 3\n.\n(4)\nDržiteľ registrácie humánneho lieku požiada referenčný členský štát o vypracovanie\n                        hodnotiacej správy o humánnom lieku alebo o aktualizáciu už vypracovanej hodnotiacej\n                        správy o danom lieku a o jej zaslanie štátnemu ústavu.\n(5)\nAk je referenčným členským štátom Slovenská republika, štátny ústav vypracuje alebo\n                        aktualizuje hodnotiacu správu, ktorá sa týka predmetného humánneho lieku, do 90 dní\n                        od doručenia žiadosti a pošle ju so schváleným súhrnom charakteristických vlastností\n                        humánneho lieku, schváleným označovaním humánneho lieku a s písomnou informáciou pre\n                        používateľa humánneho lieku členskému štátu, ktorému držiteľ registrácie humánneho\n                        lieku predložil žiadosť o vzájomné uznanie registrácie, a žiadateľovi.\n(6)\nAk v čase podania žiadosti o registráciu humánneho lieku štátnemu ústavu už bola\n                        podaná žiadosť o registráciu toho istého humánneho lieku v inom členskom štáte a žiadosť\n                        o registráciu humánneho lieku v tomto členskom štáte je v štádiu posudzovania, žiadateľ\n                        požiada referenčný členský štát o vypracovanie návrhu hodnotiacej správy, návrhu súhrnu\n                        charakteristických vlastností humánneho lieku, návrhu označovania humánneho lieku\n                        a návrhu písomnej informácie pre používateľa humánneho lieku a zaslanie požadovaných\n                        dokumentov štátnemu ústavu, dotknutým členským štátom a žiadateľovi.\n(7)\nAk štátny ústav nemá námietky k návrhu hodnotiacej správy, návrhu súhrnu charakteristických\n                        vlastností humánneho lieku, návrhu označovania humánneho lieku a návrhu písomnej informácie\n                        pre používateľa humánneho lieku, do 90 dní od doručenia požadovaných dokumentov od\n                        referenčného členského štátu schváli hodnotiacu správu, súhrn charakteristických vlastností\n                        humánneho lieku, označovanie humánneho lieku a písomnú informáciu pre používateľa\n                        humánneho lieku a informuje o tom referenčný členský štát.\n(8)\nAk v čase podania žiadosti o registráciu humánneho lieku nebolo pre humánny liek\n                        vydané rozhodnutie o registrácii humánneho lieku v žiadnom členskom štáte a referenčným\n                        členským štátom je Slovenská republika, štátny ústav vypracuje návrh hodnotiacej správy,\n                        návrh súhrnu charakteristických vlastností humánneho lieku, návrh označovania humánneho\n                        lieku a návrh písomnej informácie pre používateľa humánneho lieku a v lehote do 120\n                        dní od doručenia žiadosti pošle požadované dokumenty príslušným členským štátom a\n                        žiadateľovi.\n(9)\nAk je referenčným členským štátom Slovenská republika, štátny ústav po prijatí informácie\n                        od členských štátov o schválení hodnotiacej správy, súhrnu charakteristických vlastností\n                        humánneho lieku, označovania humánneho lieku a písomnej informácie pre používateľa\n                        humánneho lieku zaznamená dohodu všetkých dotknutých členských štátov, skončí konanie\n                        o vzájomnom uznaní registrácie medzi členskými štátmi a písomne informuje žiadateľa.\n(10)\nŠtátny ústav, ktorému bola podaná žiadosť podľa odseku 1 alebo odseku 3, prijme rozhodnutie\n                        v súlade so schválenou hodnotiacou správou, schváleným súhrnom charakteristických\n                        vlastností humánneho lieku, schváleným označovaním humánneho lieku a schválenou písomnou\n                        informáciou pre používateľa humánneho lieku do 30 dní od skončenia konania o vzájomnom\n                        uznaní registrácie medzi členskými štátmi v referenčnom členskom štáte.\n(11)\nAk štátny ústav nemôže v lehote uvedenej v odseku 7 schváliť hodnotiacu správu, súhrn\n                        charakteristických vlastností humánneho lieku, označovanie humánneho lieku a písomnú\n                        informáciu pre používateľa humánneho lieku z dôvodu možného závažného rizika pre verejné\n                        zdravie, pošle vysvetlenie a odôvodnenie svojho stanoviska referenčnému členskému\n                        štátu, dotknutým členským štátom a žiadateľovi. Sporné body bezodkladne oznámi koordinačnej\n                        skupine pre humánne lieky.\n(12)\nAk do 60 dní od oznámenia sporných otázok dotknuté členské štáty dospejú k dohode,\n                        štátny ústav, ak je Slovenská republika referenčným členským štátom, zaznamená túto\n                        dohodu, skončí konanie o vzájomnom uznaní registrácie medzi členskými štátmi, písomne\n                        informuje žiadateľa a ďalej sa postupuje podľa odseku 10.\n(13)\nAk sa členské štáty nedohodnú do 60 dní od oznámenia sporných otázok, štátny ústav,\n                        ak je Slovenská republika referenčným členským štátom, o tom bezodkladne informuje\n                        agentúru, ktorej pošle podrobné stanovisko k sporným otázkam, pri ktorých členské\n                        štáty nedosiahli dohodu, a o príčinách sporu. Kópiu stanoviska pošle žiadateľovi.\n(14)\nŽiadateľ po prijatí informácie a stanoviska od štátneho ústavu o tom, že sa členské\n                        štáty nedohodli na vyriešení sporných otázok uvedených v odseku 11 a že riešenie tejto\n                        veci štátny ústav postúpil agentúre, musí bezodkladne poslať agentúre kópie údajov\n                        a dokladov uvedených v odseku 1.\n(15)\nAk sa členské štáty nedohodnú do 60 dní od oznámenia sporných otázok a štátny ústav\n                        schválil hodnotiacu správu, súhrn charakteristických vlastností humánneho lieku, označovanie\n                        humánneho lieku a písomnú informáciu pre používateľa humánneho lieku, ktoré navrhol\n                        referenčný členský štát, na požiadanie žiadateľa môže vydať rozhodnutie o registrácii\n                        humánneho lieku bez toho, aby čakal na konečné rozhodnutie Komisie.\n(16)\nKeď Komisia vydá konečné rozhodnutie, štátny ústav do 30 dní od úradného oznámenia\n                        tohto rozhodnutia vydá rozhodnutie o registrácii humánneho lieku, rozhodnutie o zrušení\n                        registrácie humánneho lieku, rozhodnutie o zmene v rozhodnutí o registrácii humánneho\n                        lieku alebo rozhodnutie o zamietnutí registrácie humánneho lieku tak, aby bolo v súlade\n                        s rozhodnutím Komisie; v odôvodnení uvedie, že sa vydáva na základe rozhodnutia Komisie.\n                        Štátny ústav o vydanom rozhodnutí informuje Komisiu a agentúru. Agentúre predloží\n                        kópiu rozhodnutia o registrácii humánneho lieku a súhrn charakteristických vlastností\n                        humánneho lieku.\n(17)\nDržiteľ rozhodnutia o vzájomnom uznaní registrácie humánneho lieku môže požiadať\n                        o zmenu v rozhodnutí o vzájomnom uznaní registrácie humánneho lieku; žiadosť predloží\n                        všetkým členským štátom, ktoré vydali rozhodnutie o vzájomnom uznaní registrácie humánneho\n                        lieku. Na rozhodovanie o žiadosti o zmenu v rozhodnutí o vzájomnom uznaní registrácie\n                        humánneho lieku sa vzťahujú ustanovenia odsekov 1 až 16 a 18.\n(18)\nAk členské štáty a štátny ústav nedosiahnu dohodu podľa odseku 13 a ak je rozhodujúca\n                        rýchlosť konania, môže štátny ústav pozastaviť distribúciu a terapeutické používanie\n                        tohto humánneho lieku na území Slovenskej republiky až do vydania rozhodnutia Komisiou\n                        podľa odseku 16 k spornej otázke. O dôvodoch konania informuje Komisiu a členské štáty\n                        v nasledujúci pracovný deň odo dňa pozastavenia distribúcie a terapeutického používania\n                        tohto humánneho lieku v Slovenskej republike.\n(19)\nKonanie uvedené v odsekoch 1 až 18 a v\n§ 58 ods. 1 až 3\nsa nevzťahuje na rozhodovanie o vzájomnom uznaní registrácie homeopatického lieku\n                        podľa\n§ 50\n.\n",
+        "start": 415265,
+        "end": 424941,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "SVK",
+      "country": "Slovakia",
+      "selected_document_id": "F250_b7e8b6e7605171399e32_72d7e5ab4e42",
+      "source_id": "F250_b7e8b6e7605171399e32",
+      "pathway": "EU/EEA mutual recognition and decentralised assessment",
+      "source_url": "https://static.slov-lex.sk/static/SK/ZZ/2011/362/20220526.print.html",
+      "document_title": "Slovakia Act 362/2011, section 57, May 2022 version",
+      "source_type": "Official historical consolidated statute",
+      "scope": "Human-medicine authorisation",
+      "language": "sk",
+      "translation_provenance": [
+        {
+          "SVK-R01": null
+        }
+      ],
+      "raw_sha256": "72d7e5ab4e423d28cc0e3e4b4b0b5389bb21d66205c22d789cc3fa523bda60fa",
+      "raw_hash_validated": true,
+      "text_sha256": "e4763e66b9bb94eb7e1e7e04baff7fe694734c30ef915b1d8a2c040b2aa08b54",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "Slovak Act section 57 describes EU MRP/DCP, not a third-country FDA pathway. Original-language targeted section/context reviewed; no checked full English translation on hand. Qualifying national Member-State approval differs from EMA centralized authorization.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          415265,
+          424941
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Reference EU Member State; EU coordination/Commission referral.",
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "Existing Member-State authorization for MRP; joint pending applications for DCP.",
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "explicit requirement",
+          "finding": "Reference Member State sends assessment report and approved product information.",
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Member State accepts report subject to serious-public-health-risk objection/referral.",
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "90-day report stages, 30-day national decision after agreed procedure; not one combined unconditional clock.",
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Serious-risk objections and EU referral remain.",
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "Fixed facts provide FDA and/or EMA centralized approval, not a separate national authorization by another EU/EEA reference Member State. Centralized EU legal effect remains a separate shared-system question.",
+          "decisive_conditions": [
+            "Reference Member State national authorization not established."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SVK-R01"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "SVK-R01",
+          "source_document_id": "F250_b7e8b6e7605171399e32_72d7e5ab4e42",
+          "evidence_role": "Selected primary document",
+          "section_article": "Section 57",
+          "pdf_page": null,
+          "source_url": "https://static.slov-lex.sk/static/SK/ZZ/2011/362/20220526.print.html",
+          "raw_sha256": "72d7e5ab4e423d28cc0e3e4b4b0b5389bb21d66205c22d789cc3fa523bda60fa",
+          "text_sha256": "e4763e66b9bb94eb7e1e7e04baff7fe694734c30ef915b1d8a2c040b2aa08b54",
+          "exact_text": "Decentralizovaný postup registrácie humánneho lieku a postup vzájomného uznania registrácie\n                  humánneho lieku medzi členskými štátmi\n§ 57\n(1)\nAk humánny liek nie je registrovaný v žiadnom členskom štáte, rovnakú žiadosť o registráciu\n                        humánneho lieku vo viac ako v jednom členskom štáte predkladá žiadateľ príslušným\n                        orgánom dotknutých členských štátov. Žiadosť o registráciu humánneho lieku obsahuje\n                        údaje a doklady uvedené v\n§ 48 ods. 1\na\n§ 49\n; súčasťou žiadosti je zoznam členských štátov, ktorým bola žiadosť o registráciu\n                        humánneho lieku predložená.\n(2)\nŽiadateľ požiada jeden z členských štátov, v ktorých predkladá rovnakú žiadosť o\n                        registráciu lieku (ďalej len „referenčný členský štát“), aby vypracoval hodnotiacu\n                        správu o humánnom lieku, ktorý je predmetom žiadosti.\n(3)\nAk je humánny liek registrovaný v členskom štáte, držiteľ registrácie humánneho lieku\n                        pred podaním žiadosti o vzájomné uznanie registrácie lieku v Slovenskej republike\n                        informuje referenčný členský štát, že predkladá štátnemu ústavu žiadosť o vzájomné\n                        uznanie registrácie humánneho lieku, ktorá obsahuje náležitosti uvedené v\n§ 48 ods. 1 až 3\n.\n(4)\nDržiteľ registrácie humánneho lieku požiada referenčný členský štát o vypracovanie\n                        hodnotiacej správy o humánnom lieku alebo o aktualizáciu už vypracovanej hodnotiacej\n                        správy o danom lieku a o jej zaslanie štátnemu ústavu.\n(5)\nAk je referenčným členským štátom Slovenská republika, štátny ústav vypracuje alebo\n                        aktualizuje hodnotiacu správu, ktorá sa týka predmetného humánneho lieku, do 90 dní\n                        od doručenia žiadosti a pošle ju so schváleným súhrnom charakteristických vlastností\n                        humánneho lieku, schváleným označovaním humánneho lieku a s písomnou informáciou pre\n                        používateľa humánneho lieku členskému štátu, ktorému držiteľ registrácie humánneho\n                        lieku predložil žiadosť o vzájomné uznanie registrácie, a žiadateľovi.\n(6)\nAk v čase podania žiadosti o registráciu humánneho lieku štátnemu ústavu už bola\n                        podaná žiadosť o registráciu toho istého humánneho lieku v inom členskom štáte a žiadosť\n                        o registráciu humánneho lieku v tomto členskom štáte je v štádiu posudzovania, žiadateľ\n                        požiada referenčný členský štát o vypracovanie návrhu hodnotiacej správy, návrhu súhrnu\n                        charakteristických vlastností humánneho lieku, návrhu označovania humánneho lieku\n                        a návrhu písomnej informácie pre používateľa humánneho lieku a zaslanie požadovaných\n                        dokumentov štátnemu ústavu, dotknutým členským štátom a žiadateľovi.\n(7)\nAk štátny ústav nemá námietky k návrhu hodnotiacej správy, návrhu súhrnu charakteristických\n                        vlastností humánneho lieku, návrhu označovania humánneho lieku a návrhu písomnej informácie\n                        pre používateľa humánneho lieku, do 90 dní od doručenia požadovaných dokumentov od\n                        referenčného členského štátu schváli hodnotiacu správu, súhrn charakteristických vlastností\n                        humánneho lieku, označovanie humánneho lieku a písomnú informáciu pre používateľa\n                        humánneho lieku a informuje o tom referenčný členský štát.\n(8)\nAk v čase podania žiadosti o registráciu humánneho lieku nebolo pre humánny liek\n                        vydané rozhodnutie o registrácii humánneho lieku v žiadnom členskom štáte a referenčným\n                        členským štátom je Slovenská republika, štátny ústav vypracuje návrh hodnotiacej správy,\n                        návrh súhrnu charakteristických vlastností humánneho lieku, návrh označovania humánneho\n                        lieku a návrh písomnej informácie pre používateľa humánneho lieku a v lehote do 120\n                        dní od doručenia žiadosti pošle požadované dokumenty príslušným členským štátom a\n                        žiadateľovi.\n(9)\nAk je referenčným členským štátom Slovenská republika, štátny ústav po prijatí informácie\n                        od členských štátov o schválení hodnotiacej správy, súhrnu charakteristických vlastností\n                        humánneho lieku, označovania humánneho lieku a písomnej informácie pre používateľa\n                        humánneho lieku zaznamená dohodu všetkých dotknutých členských štátov, skončí konanie\n                        o vzájomnom uznaní registrácie medzi členskými štátmi a písomne informuje žiadateľa.\n(10)\nŠtátny ústav, ktorému bola podaná žiadosť podľa odseku 1 alebo odseku 3, prijme rozhodnutie\n                        v súlade so schválenou hodnotiacou správou, schváleným súhrnom charakteristických\n                        vlastností humánneho lieku, schváleným označovaním humánneho lieku a schválenou písomnou\n                        informáciou pre používateľa humánneho lieku do 30 dní od skončenia konania o vzájomnom\n                        uznaní registrácie medzi členskými štátmi v referenčnom členskom štáte.\n(11)\nAk štátny ústav nemôže v lehote uvedenej v odseku 7 schváliť hodnotiacu správu, súhrn\n                        charakteristických vlastností humánneho lieku, označovanie humánneho lieku a písomnú\n                        informáciu pre používateľa humánneho lieku z dôvodu možného závažného rizika pre verejné\n                        zdravie, pošle vysvetlenie a odôvodnenie svojho stanoviska referenčnému členskému\n                        štátu, dotknutým členským štátom a žiadateľovi. Sporné body bezodkladne oznámi koordinačnej\n                        skupine pre humánne lieky.\n(12)\nAk do 60 dní od oznámenia sporných otázok dotknuté členské štáty dospejú k dohode,\n                        štátny ústav, ak je Slovenská republika referenčným členským štátom, zaznamená túto\n                        dohodu, skončí konanie o vzájomnom uznaní registrácie medzi členskými štátmi, písomne\n                        informuje žiadateľa a ďalej sa postupuje podľa odseku 10.\n(13)\nAk sa členské štáty nedohodnú do 60 dní od oznámenia sporných otázok, štátny ústav,\n                        ak je Slovenská republika referenčným členským štátom, o tom bezodkladne informuje\n                        agentúru, ktorej pošle podrobné stanovisko k sporným otázkam, pri ktorých členské\n                        štáty nedosiahli dohodu, a o príčinách sporu. Kópiu stanoviska pošle žiadateľovi.\n(14)\nŽiadateľ po prijatí informácie a stanoviska od štátneho ústavu o tom, že sa členské\n                        štáty nedohodli na vyriešení sporných otázok uvedených v odseku 11 a že riešenie tejto\n                        veci štátny ústav postúpil agentúre, musí bezodkladne poslať agentúre kópie údajov\n                        a dokladov uvedených v odseku 1.\n(15)\nAk sa členské štáty nedohodnú do 60 dní od oznámenia sporných otázok a štátny ústav\n                        schválil hodnotiacu správu, súhrn charakteristických vlastností humánneho lieku, označovanie\n                        humánneho lieku a písomnú informáciu pre používateľa humánneho lieku, ktoré navrhol\n                        referenčný členský štát, na požiadanie žiadateľa môže vydať rozhodnutie o registrácii\n                        humánneho lieku bez toho, aby čakal na konečné rozhodnutie Komisie.\n(16)\nKeď Komisia vydá konečné rozhodnutie, štátny ústav do 30 dní od úradného oznámenia\n                        tohto rozhodnutia vydá rozhodnutie o registrácii humánneho lieku, rozhodnutie o zrušení\n                        registrácie humánneho lieku, rozhodnutie o zmene v rozhodnutí o registrácii humánneho\n                        lieku alebo rozhodnutie o zamietnutí registrácie humánneho lieku tak, aby bolo v súlade\n                        s rozhodnutím Komisie; v odôvodnení uvedie, že sa vydáva na základe rozhodnutia Komisie.\n                        Štátny ústav o vydanom rozhodnutí informuje Komisiu a agentúru. Agentúre predloží\n                        kópiu rozhodnutia o registrácii humánneho lieku a súhrn charakteristických vlastností\n                        humánneho lieku.\n(17)\nDržiteľ rozhodnutia o vzájomnom uznaní registrácie humánneho lieku môže požiadať\n                        o zmenu v rozhodnutí o vzájomnom uznaní registrácie humánneho lieku; žiadosť predloží\n                        všetkým členským štátom, ktoré vydali rozhodnutie o vzájomnom uznaní registrácie humánneho\n                        lieku. Na rozhodovanie o žiadosti o zmenu v rozhodnutí o vzájomnom uznaní registrácie\n                        humánneho lieku sa vzťahujú ustanovenia odsekov 1 až 16 a 18.\n(18)\nAk členské štáty a štátny ústav nedosiahnu dohodu podľa odseku 13 a ak je rozhodujúca\n                        rýchlosť konania, môže štátny ústav pozastaviť distribúciu a terapeutické používanie\n                        tohto humánneho lieku na území Slovenskej republiky až do vydania rozhodnutia Komisiou\n                        podľa odseku 16 k spornej otázke. O dôvodoch konania informuje Komisiu a členské štáty\n                        v nasledujúci pracovný deň odo dňa pozastavenia distribúcie a terapeutického používania\n                        tohto humánneho lieku v Slovenskej republike.\n(19)\nKonanie uvedené v odsekoch 1 až 18 a v\n§ 58 ods. 1 až 3\nsa nevzťahuje na rozhodovanie o vzájomnom uznaní registrácie homeopatického lieku\n                        podľa\n§ 50\n.\n",
+          "start": 415265,
+          "end": 424941,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

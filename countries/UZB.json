@@ -163,5 +163,627 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "UZB",
+    "country": "Uzbekistan",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Recognition by domestic register entry and documentary review",
+    "source_url": "https://www.lex.uz/uz/acts/4017223?ONDATE=27.10.2022+00",
+    "document_id": "F250_8dbc49f420435a8eaaf6_c3d9cb935d2b",
+    "genre": "Official legal portal version",
+    "language": "ru",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Russian official LexUZ consolidated text, includes amendment markers; exact effective-date layer not reconstructed. Recognition list delegated to Presidential PP-3948. Selected full regulation reviewed for documentary workflow; no checked full English analysis text.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "Medicines/active substances and new presentations covered; listed reference eligibility unresolved.",
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Countries/international organizations in external PP-3948 list; FDA/EMA status cannot be invented from unreviewed list.",
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "One qualifying foreign registration under delegated list, not general two-agency threshold.",
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Domestic documentary expertise, committee recommendations and registration entry; refusal grounds constrained.",
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Application, registration documents/samples, review fee; no extra documents beyond regulation allowed.",
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "Instructions in state and Russian languages; documentary/label information and samples retained.",
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ]
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "15 working days from review-fee payment; corrected resubmission five working days.",
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Expert council decision; denial limited to incomplete/false documents, not general expediency.",
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "B": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "C": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "D": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "E": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "UZB-WEB01",
+          "UZB-WEB02",
+          "UZB-CTX-1"
+        ],
+        "status": "unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "UZB-WEB01",
+        "source_document_id": "F250_8dbc49f420435a8eaaf6_c3d9cb935d2b",
+        "evidence_role": "Selected primary document",
+        "section_article": "Sections 4–8: recognition and domestic legal effect",
+        "pdf_page": null,
+        "source_url": "https://www.lex.uz/uz/acts/4017223?ONDATE=27.10.2022+00",
+        "raw_sha256": "c3d9cb935d2b146bbe5b9477323defc0fdad6111b5c066ebb2216be8f644b5e5",
+        "text_sha256": "36d9cb96b07db61c41ca277accd92dc6089ae10a40c0e6f5f944818a1165c507",
+        "exact_text": "1. Настоящее Положение определяет порядок признания результатов регистрации лекарственных средств, осуществленной за пределами Республики Узбекистан.\n2. Требования настоящего Положения распространяются на импортируемые в Республику Узбекистан лекарственные средства, прошедшие регистрацию в странах и международных организациях, указанных в\nПеречне\nстран и международных организаций, результаты регистрации лекарственных средств которых признаются в Республике Узбекистан, утвержденном постановлением Президента Республики Узбекистан от 24 сентября 2018 года № ПП-3948 «О дополнительных мерах по совершенствованию порядка государственной регистрации и оборота лекарственных средств» (далее — Перечень).\n3. В настоящем Положении применяются следующие основные понятия:\nлекарственные средства — средства, полученные на основе лекарственных веществ (субстанций) и вспомогательных веществ, лекарственные вещества (субстанции), лекарственные препараты, разрешенные к применению в медицинской практике для профилактики, диагностики и лечения заболеваний, а также для изменения состояния и функций организма человека;\nлекарственные вещества (субстанции) — вещества природного или синтетического происхождения, обладающие фармакологической, иммунологической или метаболической активностью либо используемые для диагностических целей, разрешенные к применению в медицинской практике;\nлекарственные препараты — дозированные, упакованные лекарственные средства, готовые к применению;\nнормативный документ лекарственного средства — документ, содержащий перечень показателей качества, норм и методов контроля качества лекарственных средств, описания физико-химических, физических, биологических, биохимических, микробиологических и других методов контроля качества данных лекарственных средств;\nинструкция по медицинскому применению лекарственного средства — документ, включающий фармакологические свойства, показания к применению, противопоказания, особенности применения, сведения о передозировке, взаимодействии с другими лекарственными средствами, условиях хранения, формах выпуска, а также сведения о производителе и другую информацию о лекарственном средстве;\nзаявитель — организация-производитель лекарственных средств, держатель регистрационного удостоверения или их доверенные лица, уполномоченные подавать заявление, документы и материалы для признания результатов регистрации лекарственных средств, осуществленной за пределами Республики Узбекистан (далее — признание).\n4. Признание осуществляется Государственным центром экспертизы и стандартизации лекарственных средств, изделий медицинского назначения и медицинской техники Агентства по развитию фармацевтической отрасли при Министерстве здравоохранения Республики Узбекистан (далее — Государственный центр) путем изучения представляемых документов и включения записи о признании в Государственный реестр лекарственных средств, изделий медицинского назначения и медицинской техники, разрешенных к применению в медицинской практике (далее — Государственный реестр).\n5. Признание предусматривает включение результатов государственной регистрации и записи о признании в Государственный реестр и выдачу заявителям по их желанию выписки из данного реестра.\n6. Результаты признания включаются в виде записи в Государственный реестр сроком на пять лет.\nПо истечении срока первого признания по заявлению заявителя результаты признания могут быть включены в Государственный реестр без ограничения срока их действия.\n7. Признанию подлежат:\nлекарственные средства;\nСм.\nпоследующую\nредакцию.\nновые комбинации лекарственных средств, зарегистрированных в Республике Узбекистан;\nлекарственные средства, ранее зарегистрированные (признанные) в Республике Узбекистан, но произведенные в других лекарственных формах, дозировках или иным производителем;\nлекарственные средства, ранее зарегистрированные (признанные) в Республике Узбекистан в другой упаковке и/или с другой маркировкой.\n8. Запись о признании в Государственном реестре подтверждает факт государственной регистрации и разрешение Министерства здравоохранения Республики Узбекистан на применение лекарственного средства в медицинской практике.\n9. Не допускается признание лекарственных средств с различными лекарственными веществами — под одинаковым торговым наименованием, а также одного производителя, имеющих одинаковый состав лекарственных веществ — под разными торговыми наименованиями.\n",
+        "start": 2006,
+        "end": 6392,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "UZB-WEB02",
+        "source_document_id": "F250_8dbc49f420435a8eaaf6_c3d9cb935d2b",
+        "evidence_role": "Selected primary document",
+        "section_article": "Sections 16–17: clock and domestic document assessment",
+        "pdf_page": null,
+        "source_url": "https://www.lex.uz/uz/acts/4017223?ONDATE=27.10.2022+00",
+        "raw_sha256": "c3d9cb935d2b146bbe5b9477323defc0fdad6111b5c066ebb2216be8f644b5e5",
+        "text_sha256": "36d9cb96b07db61c41ca277accd92dc6089ae10a40c0e6f5f944818a1165c507",
+        "exact_text": "16. Заявление рассматривается Государственным центром в сроки, не превышающие 15 рабочих дней. Данный срок исчисляется со дня уплаты заявителем сбора за рассмотрение заявления о признании.\n17. Государственный центр в рамках оценки регистрационных документов может самостоятельно или с привлечением независимых экспертов проводить изучение регистрационных документов лекарственного средства.\n",
+        "start": 9575,
+        "end": 9966,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "UZB-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.lex.uz/uz/acts/4017223?ONDATE=27.10.2022+00",
+        "raw_sha256": "c3d9cb935d2b146bbe5b9477323defc0fdad6111b5c066ebb2216be8f644b5e5",
+        "text_sha256": "36d9cb96b07db61c41ca277accd92dc6089ae10a40c0e6f5f944818a1165c507",
+        "exact_text": "лением Президента Республики Узбекистан от 24 сентября 2018 года № ПП-3948 «О дополнительных мерах по совершенствованию порядка государственной регистрации и оборота лекарственных средств» (далее — Перечень).\n3. В настоящем Положении применяются следующие основные понятия:\nлекарственные средства — средства, полученные на основе лекарственных веществ (субстанций) и вспомогательных веществ, лекарственные вещества (субстанции), лекарственные препараты, разрешенные к применению в медицинской практике для профилактики, диагностики и лечения заболеваний, а также для изменения состояния и функций организма человека;\nлекарственные вещества (субстанции) — вещества природного или синтетического происхождения, обладающие фармакологической, иммунологической или метаболической активностью либо используемые для диагностических целей, разрешенные к применению в медицинской практике;\nлекарственные препараты — дозированные, упакованные лекарственные средства, готовые к применению;\nнормативный документ лекарственного средства — документ, содержащий перечень показателей качества, норм и методов контроля качества лекарственных средств, описания физико-химических, физических, биологических, биохимических, микробиологических и других методов контроля качества данных лекарственных средств;\nинструкция по медицинскому применению лекарственного средства — документ, включающий фармакологические свойства, показания к применению, противопоказания, особенности применения, сведения о передозировке, взаимодействии с другими лекарственными средствами, условиях хранения, формах выпуска, а также сведения о производителе и другую информацию о лекарственном средстве;\nзаявитель — организация-производитель лекарственных средств, держатель регистрационного удостоверения или их доверенные лица, уполномоченные подавать заявление, документы и материалы для признания результатов регистрации лекарственных средств, осуществленной за пределами Республики Узбекистан (далее — признание).\n4. Признание осуществляется Государственным центром экспертизы и стандартизации лекарственных средств, изделий медицинского назначения и медицинской техники Агентства по развитию фармацевтической отрасли при Министерстве здравоохранения Республики Узбекистан (далее — Государственный центр) путем изучения представляемых документов и включения записи о признании в Государственный реестр лекарственных средств, изделий медицинского назначения и медицинской техники, разрешенных к применению в медицинской практике (далее — Государственный реестр).\n5. Признание предусматривает включение результатов государственной регистрации и записи о признании в Государственный реестр и выдачу заявителям по их желанию выписки из данного реестра.\n6. Результаты признания включаются в виде записи в Государственный реестр сроком на пять лет.\nПо истечении срока первого признания по заявлению заявителя результаты признания могут быть включены в Государственный реестр без ограничения срока их действия.\n7. Признанию подлежат:\nлекарственные средства;\nСм.\nпоследующую\nредакцию.\nновые комбинации лекарственных средств, зарегистрированных в Республике Узбекистан;\nлекарственные средства, ранее зарегистрированные (признанные) в Республике Узбекистан, но произведенные в других лекарственных формах, дозировках или иным производителем;\nлекарственные средства, ранее зарегистрированные (признанные) в Республике Узбекистан в другой упаковке и/или с другой маркировкой.\n8. Запись о признании в Государственном реестре подтверждает факт государственной регистрации и разрешение Министерства здравоохранения Республики Узбекистан на применение лекарственного средства в медицинской практике.\n9. Не допускается признание лекарственных средств с различными лекарственными веществами — под одинаковым торговым наименованием, а также одного производителя, имеющих одинаковый состав лекарственных веществ — под разными торговыми наименованиями.\nГлава 2. Документы, необходимые для признания\n10. Для признания лекарственных средств заявитель представляет в Государственный центр заявление по форме согласно\nприложению № 1\nк настоящему Положению с приложением:\nа) инструкции по медицинскому применению, авторизованный перевод инструкции на государственный язык и русский язык;\nб) документации лекарственного средства, в которой указаны:\nлекарственная форма;\nдозировка;\nдата, до истечения которой лекарственное средство разрешено к применению в медицинской практике в стране, указанной в Перечне, или качество, безопасность и эффективность которого подтверждена международной организацией, указанной в Перечне;\nуникальный номер (авторизация) допуска лекарственного препарата на соответствующий рынок;\nв) оригинала образца маркировки в бумажной или электронной форме;\nСм.\nпредыдущую\nредакцию.\n(подпункт «г» пункта 10 исключен\nпостановлением\nПрезидента Республики Узбекистан от 26 октября 2022 года № ПП-411 — Национальная база данных законодательства, 27.10.2022 г., № 07/22/411/0961)\nд) образца лекарственного средства — достаточного для проведения трехкратных испытаний в соответствии с требованиями нормативного документа фирмы-производителя с приложением сертификата анализа лекарственного средства;\nе) сертификата фармацевтического продукта (CPP), выданного иностранным уполномоченным органом, регулирующим иностранные или межгосударственные фармацевтические продукты, или копии, заверенной в установленном порядке. При этом, может быть представлен документ, эквивалентный сертификату фармацевтического продукта (CPP) или его копия, заверенная в установленном порядке;\nж) проект нормативного документа лекарственного средства.\nЕсли документ, предусмотренный в одном из подпунктов настоящего пункта, включает и другую информацию, указанную в другом подпункте настоящего пункта, ее представление в виде отдельного документа не требуется.\nСм.\nпредыдущую\nредакцию.\n(пункт 11 утратил силу\nпостановлением\nПрезидента Республики Узбекистан от 26 октября 2022 года № ПП-411 — Национальная база данных законодательства, 27.10.2022 г., № 07/22/411/0961)\n12. Требование от заявителя представления документов, не предусмотренных настоящим Положением, не допускается.\n13. Заявление с приложением необходимых документов представляется в Государственный центр непосредственно, через средства почтовой связи или в электронной форме с уведомлением о его получении. Заявление, представленное в электронной форме, подтверждается электронной цифровой подписью заявителя.\nОбразцы лекарственных средств представляются непосредственно или через средства почтовой связи.\n14. Заявление и документы принимаются ответственным лицом Государственного центра по описи, копия которой в тот же день направляется (вручается) заявителю с отметкой о дате их приема.\nГлава 3. Рассмотрение заявления и принятие решения о признании или об отказе в признании\n15. За рассмотрение заявления о признании взимается сбор в пятидесятикратном размере минимальной заработной платы, установленной на день подачи заявления.\nСумма сбора зачисляется на счет Государственного центра.\nВ случае отказа заявителя от поданного заявления, сумма уплаченного сбора возврату не подлежит.\n16. Заявление рассматривается Государственным центром в сроки, не превышающие 15 рабочих дней. Данный срок исчисляется со дня уплаты заявителем сбора за рассмотрение заявления о признании.\n17. Государственный центр в рамках оценки регистрационных документов может самостоятельно или с привлечением независимых экспертов проводить изучение регистрационных документов лекарственного средства.\n18. Признание и включение записи в Государственный реестр осуществляется Государственным центром по схеме согласно\nприложению № 3\nк настоящему Положению в следующем порядке:\nа) Отдел регистрации:\nпосле принятия заявления в однодневный срок проводит первичное (предварительное) изучение заявления и прилагаемых к нему документов и образцов;\nведет соответствующую переписку с заявителем по вопросам признания;\nна основании положительных результатов первичного (предварительного) изучения оформляет заявителю счет на оплату сбора за рассмотрение заявления;\nпосле оплаты заявителем в срок не более 30 календарных дней установленной суммы сбора передает заявление и прилагаемые к нему документы и образцы в Фармакологический комитет, Фармакопейный комитет, Комитет по контролю за наркотиками (в случае если в составе лекарственного средства содержатся наркотические средства, психотропные вещества и прекурсоры) для проведения дальнейших изучений;\nб) Фармакопейный комитет в течение 12 рабочих дней:\nпроводит изучение представленных заявителем документов;\nутверждает нормативный документ лекарственного средства;\nна основании представленных заявителем документов и заключений экспертов вносит рекомендации о признании или об отказе в признании в Экспертный совет, созданный в установленном порядке Министерством здравоохранения Республики Узбекистан (далее — Экспертный совет);\nв) Фармакологический комитет в течение 12 рабочих дней:\nпроводит изучение представленных заявителем документов;\nна основании представленных заявителем документов и заключений экспертов вносит рекомендации о признании или об отказе в признании в Экспертный совет;\nодобряет инструкцию по медицинскому применению лекарственного средства или вносимые в них изменения;\nг) Комитет по контролю за наркотиками в течение 3 рабочих дней:\nпроводит изучение представленных заявителем документов;\nпри проведении изучения представленных заявителем документов лекарственных средств, имеющих в составе наркотические средства, психотропные вещества и прекурсоры, рассматривает наличие данных веществ в Списке наркотических средств, психотропных веществ и прекурсоров, разрешения на медицинское применение которых находится под государственным контролем, а также необходимость отпуска по рецепту врача и вносит предложения в Фармакологический и Фармакопейный комитеты.\n19. Экспертный совет на основании рекомендаций Фармакопейного и Фармакологического комитетов в однодневный срок принимает решение о признании и включении лекарственного средства в Государственный реестр или об отказе в признании.\n20. Государственный центр обязан уведомить заявителя в письменной либо электронной форме через сеть Интернет о принятом решении не позднее дня, следующего за днем принятия решения Экспертного совета.\n21. Сведения, содержащиеся в Государственном реестре, открыты для всеобщего ознакомления через официальные веб-сайты Государственного центра и Министерства здравоохранения Республики Узбекистан.\nЗаявитель вправе на бесплатной основе самостоятельно сформировать и распечатать на бумажный носитель выписку из Государственного реестра через сеть Интернет по форме согласно\nприложению № 4\nк настоящему Положению.\n22. Основанием для отказа в признании и внесении записи в Государственный реестр является:\nпредставление заявителем документов, необходимых для экспертизы, и образцов лекарственных средств не в полном объеме;\nналичие в документах, представленных заявителем, недостоверных или искаженных сведений.\nОтказ в признании и включении записи в Государственный реестр по иным основаниям, в том числе по мотивам нецелесообразности, не допускается.\n23. В уведомлении об отказе в признании и внесении записи в Государственный реестр указываются причины отказа и срок, в течение которого заявитель, устранив указанные причины, может представить документы для повторного рассмотрения.\nСрок, в течение которого заявитель вправе устранить причины отказа и представить документы для повторного рассмотрения, не может быть менее пятнадцати рабочих дней со дня получения письменного или электронного уведомления об отказе.\n24. В случае устранения заявителем причин, послуживших основанием для отказа, повторное рассмотрение заявления осуществляется Государственным центром в срок, не превышающий 5 рабочих дней со дня получения заявления об устранении причин отказа и соответствующих документов, удостоверяющих устранение причин отказа.\nЗа повторное рассмотрение заявления сбор не взимается.\n25. При повторном рассмотрении заявления не допускается приведение причин, ранее не изложенных в уведомлении об отказе, за исключением причин, связанных с документами, удостоверяющими устранение ранее указанных причин.\n26. Заявление, поданное заявителем по истечении срока, указанного в уведомлении об отказе, считается вновь поданным и рассматривается Государственным центром на общих основаниях.\n27. Заявитель имеет право обжаловать в установленном порядке отказ в признании и включение записи в Государственный реестр, а также действия (бездействие) должностного лица Государственного центра.\nКомментарий LexUz\nСм.:\nЗакон\nРеспублики Узбекистан «Об обращениях физических и юридических лиц».\n28. По истечении срока признания, подтвержденного записью в Государственном реестре, допускается реализация и применение в медицинской практике лекарственных средств при условии, что они произведены в период действия их государственной регистрации.\nГлава 4. Внесение изменений и дополнений в регистрационные документы и Государственный реестр, а также продление их срока\n29. В случае изменения сведений, указанных в регистрационных документах, заявитель обращается в Государственный центр с заявлением о внесении изменений и дополнений с приложением соответствующих документов, подтверждающих данные изменения.\n30. Государственный центр отказывает во внесении изменений и дополнений в Государственный реестр в случае, если предлагаемые изменения и дополнения повлекут ухудшение качества, эффективности и безопасности лекарственного средства.\n31. Заявление о внесении изменений и дополнений в Государственн",
+        "start": 2500,
+        "end": 16000,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "UZB",
+      "country": "Uzbekistan",
+      "selected_document_id": "F250_8dbc49f420435a8eaaf6_c3d9cb935d2b",
+      "source_id": "F250_8dbc49f420435a8eaaf6",
+      "pathway": "Recognition by domestic register entry and documentary review",
+      "source_url": "https://www.lex.uz/uz/acts/4017223?ONDATE=27.10.2022+00",
+      "document_title": "Uzbekistan Resolution 862/2018, version as of 27 October 2022",
+      "source_type": "Official legal portal version",
+      "scope": "Human-medicine authorisation",
+      "language": "ru",
+      "translation_provenance": [
+        {
+          "UZB-WEB01": null
+        },
+        {
+          "UZB-WEB02": null
+        }
+      ],
+      "raw_sha256": "c3d9cb935d2b146bbe5b9477323defc0fdad6111b5c066ebb2216be8f644b5e5",
+      "raw_hash_validated": true,
+      "text_sha256": "36d9cb96b07db61c41ca277accd92dc6089ae10a40c0e6f5f944818a1165c507",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "Russian official LexUZ consolidated text, includes amendment markers; exact effective-date layer not reconstructed. Recognition list delegated to Presidential PP-3948. Selected full regulation reviewed for documentary workflow; no checked full English analysis text.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          2006,
+          6392
+        ],
+        [
+          9575,
+          9966
+        ],
+        [
+          2500,
+          16000
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "Medicines/active substances and new presentations covered; listed reference eligibility unresolved.",
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Countries/international organizations in external PP-3948 list; FDA/EMA status cannot be invented from unreviewed list.",
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "One qualifying foreign registration under delegated list, not general two-agency threshold.",
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Domestic documentary expertise, committee recommendations and registration entry; refusal grounds constrained.",
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Application, registration documents/samples, review fee; no extra documents beyond regulation allowed.",
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Instructions in state and Russian languages; documentary/label information and samples retained.",
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "15 working days from review-fee payment; corrected resubmission five working days.",
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Expert council decision; denial limited to incomplete/false documents, not general expediency.",
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "UZB-WEB01",
+            "UZB-WEB02",
+            "UZB-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "UZB-WEB01",
+          "source_document_id": "F250_8dbc49f420435a8eaaf6_c3d9cb935d2b",
+          "evidence_role": "Selected primary document",
+          "section_article": "Sections 4–8: recognition and domestic legal effect",
+          "pdf_page": null,
+          "source_url": "https://www.lex.uz/uz/acts/4017223?ONDATE=27.10.2022+00",
+          "raw_sha256": "c3d9cb935d2b146bbe5b9477323defc0fdad6111b5c066ebb2216be8f644b5e5",
+          "text_sha256": "36d9cb96b07db61c41ca277accd92dc6089ae10a40c0e6f5f944818a1165c507",
+          "exact_text": "1. Настоящее Положение определяет порядок признания результатов регистрации лекарственных средств, осуществленной за пределами Республики Узбекистан.\n2. Требования настоящего Положения распространяются на импортируемые в Республику Узбекистан лекарственные средства, прошедшие регистрацию в странах и международных организациях, указанных в\nПеречне\nстран и международных организаций, результаты регистрации лекарственных средств которых признаются в Республике Узбекистан, утвержденном постановлением Президента Республики Узбекистан от 24 сентября 2018 года № ПП-3948 «О дополнительных мерах по совершенствованию порядка государственной регистрации и оборота лекарственных средств» (далее — Перечень).\n3. В настоящем Положении применяются следующие основные понятия:\nлекарственные средства — средства, полученные на основе лекарственных веществ (субстанций) и вспомогательных веществ, лекарственные вещества (субстанции), лекарственные препараты, разрешенные к применению в медицинской практике для профилактики, диагностики и лечения заболеваний, а также для изменения состояния и функций организма человека;\nлекарственные вещества (субстанции) — вещества природного или синтетического происхождения, обладающие фармакологической, иммунологической или метаболической активностью либо используемые для диагностических целей, разрешенные к применению в медицинской практике;\nлекарственные препараты — дозированные, упакованные лекарственные средства, готовые к применению;\nнормативный документ лекарственного средства — документ, содержащий перечень показателей качества, норм и методов контроля качества лекарственных средств, описания физико-химических, физических, биологических, биохимических, микробиологических и других методов контроля качества данных лекарственных средств;\nинструкция по медицинскому применению лекарственного средства — документ, включающий фармакологические свойства, показания к применению, противопоказания, особенности применения, сведения о передозировке, взаимодействии с другими лекарственными средствами, условиях хранения, формах выпуска, а также сведения о производителе и другую информацию о лекарственном средстве;\nзаявитель — организация-производитель лекарственных средств, держатель регистрационного удостоверения или их доверенные лица, уполномоченные подавать заявление, документы и материалы для признания результатов регистрации лекарственных средств, осуществленной за пределами Республики Узбекистан (далее — признание).\n4. Признание осуществляется Государственным центром экспертизы и стандартизации лекарственных средств, изделий медицинского назначения и медицинской техники Агентства по развитию фармацевтической отрасли при Министерстве здравоохранения Республики Узбекистан (далее — Государственный центр) путем изучения представляемых документов и включения записи о признании в Государственный реестр лекарственных средств, изделий медицинского назначения и медицинской техники, разрешенных к применению в медицинской практике (далее — Государственный реестр).\n5. Признание предусматривает включение результатов государственной регистрации и записи о признании в Государственный реестр и выдачу заявителям по их желанию выписки из данного реестра.\n6. Результаты признания включаются в виде записи в Государственный реестр сроком на пять лет.\nПо истечении срока первого признания по заявлению заявителя результаты признания могут быть включены в Государственный реестр без ограничения срока их действия.\n7. Признанию подлежат:\nлекарственные средства;\nСм.\nпоследующую\nредакцию.\nновые комбинации лекарственных средств, зарегистрированных в Республике Узбекистан;\nлекарственные средства, ранее зарегистрированные (признанные) в Республике Узбекистан, но произведенные в других лекарственных формах, дозировках или иным производителем;\nлекарственные средства, ранее зарегистрированные (признанные) в Республике Узбекистан в другой упаковке и/или с другой маркировкой.\n8. Запись о признании в Государственном реестре подтверждает факт государственной регистрации и разрешение Министерства здравоохранения Республики Узбекистан на применение лекарственного средства в медицинской практике.\n9. Не допускается признание лекарственных средств с различными лекарственными веществами — под одинаковым торговым наименованием, а также одного производителя, имеющих одинаковый состав лекарственных веществ — под разными торговыми наименованиями.\n",
+          "start": 2006,
+          "end": 6392,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "UZB-WEB02",
+          "source_document_id": "F250_8dbc49f420435a8eaaf6_c3d9cb935d2b",
+          "evidence_role": "Selected primary document",
+          "section_article": "Sections 16–17: clock and domestic document assessment",
+          "pdf_page": null,
+          "source_url": "https://www.lex.uz/uz/acts/4017223?ONDATE=27.10.2022+00",
+          "raw_sha256": "c3d9cb935d2b146bbe5b9477323defc0fdad6111b5c066ebb2216be8f644b5e5",
+          "text_sha256": "36d9cb96b07db61c41ca277accd92dc6089ae10a40c0e6f5f944818a1165c507",
+          "exact_text": "16. Заявление рассматривается Государственным центром в сроки, не превышающие 15 рабочих дней. Данный срок исчисляется со дня уплаты заявителем сбора за рассмотрение заявления о признании.\n17. Государственный центр в рамках оценки регистрационных документов может самостоятельно или с привлечением независимых экспертов проводить изучение регистрационных документов лекарственного средства.\n",
+          "start": 9575,
+          "end": 9966,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "UZB-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.lex.uz/uz/acts/4017223?ONDATE=27.10.2022+00",
+          "raw_sha256": "c3d9cb935d2b146bbe5b9477323defc0fdad6111b5c066ebb2216be8f644b5e5",
+          "text_sha256": "36d9cb96b07db61c41ca277accd92dc6089ae10a40c0e6f5f944818a1165c507",
+          "exact_text": "лением Президента Республики Узбекистан от 24 сентября 2018 года № ПП-3948 «О дополнительных мерах по совершенствованию порядка государственной регистрации и оборота лекарственных средств» (далее — Перечень).\n3. В настоящем Положении применяются следующие основные понятия:\nлекарственные средства — средства, полученные на основе лекарственных веществ (субстанций) и вспомогательных веществ, лекарственные вещества (субстанции), лекарственные препараты, разрешенные к применению в медицинской практике для профилактики, диагностики и лечения заболеваний, а также для изменения состояния и функций организма человека;\nлекарственные вещества (субстанции) — вещества природного или синтетического происхождения, обладающие фармакологической, иммунологической или метаболической активностью либо используемые для диагностических целей, разрешенные к применению в медицинской практике;\nлекарственные препараты — дозированные, упакованные лекарственные средства, готовые к применению;\nнормативный документ лекарственного средства — документ, содержащий перечень показателей качества, норм и методов контроля качества лекарственных средств, описания физико-химических, физических, биологических, биохимических, микробиологических и других методов контроля качества данных лекарственных средств;\nинструкция по медицинскому применению лекарственного средства — документ, включающий фармакологические свойства, показания к применению, противопоказания, особенности применения, сведения о передозировке, взаимодействии с другими лекарственными средствами, условиях хранения, формах выпуска, а также сведения о производителе и другую информацию о лекарственном средстве;\nзаявитель — организация-производитель лекарственных средств, держатель регистрационного удостоверения или их доверенные лица, уполномоченные подавать заявление, документы и материалы для признания результатов регистрации лекарственных средств, осуществленной за пределами Республики Узбекистан (далее — признание).\n4. Признание осуществляется Государственным центром экспертизы и стандартизации лекарственных средств, изделий медицинского назначения и медицинской техники Агентства по развитию фармацевтической отрасли при Министерстве здравоохранения Республики Узбекистан (далее — Государственный центр) путем изучения представляемых документов и включения записи о признании в Государственный реестр лекарственных средств, изделий медицинского назначения и медицинской техники, разрешенных к применению в медицинской практике (далее — Государственный реестр).\n5. Признание предусматривает включение результатов государственной регистрации и записи о признании в Государственный реестр и выдачу заявителям по их желанию выписки из данного реестра.\n6. Результаты признания включаются в виде записи в Государственный реестр сроком на пять лет.\nПо истечении срока первого признания по заявлению заявителя результаты признания могут быть включены в Государственный реестр без ограничения срока их действия.\n7. Признанию подлежат:\nлекарственные средства;\nСм.\nпоследующую\nредакцию.\nновые комбинации лекарственных средств, зарегистрированных в Республике Узбекистан;\nлекарственные средства, ранее зарегистрированные (признанные) в Республике Узбекистан, но произведенные в других лекарственных формах, дозировках или иным производителем;\nлекарственные средства, ранее зарегистрированные (признанные) в Республике Узбекистан в другой упаковке и/или с другой маркировкой.\n8. Запись о признании в Государственном реестре подтверждает факт государственной регистрации и разрешение Министерства здравоохранения Республики Узбекистан на применение лекарственного средства в медицинской практике.\n9. Не допускается признание лекарственных средств с различными лекарственными веществами — под одинаковым торговым наименованием, а также одного производителя, имеющих одинаковый состав лекарственных веществ — под разными торговыми наименованиями.\nГлава 2. Документы, необходимые для признания\n10. Для признания лекарственных средств заявитель представляет в Государственный центр заявление по форме согласно\nприложению № 1\nк настоящему Положению с приложением:\nа) инструкции по медицинскому применению, авторизованный перевод инструкции на государственный язык и русский язык;\nб) документации лекарственного средства, в которой указаны:\nлекарственная форма;\nдозировка;\nдата, до истечения которой лекарственное средство разрешено к применению в медицинской практике в стране, указанной в Перечне, или качество, безопасность и эффективность которого подтверждена международной организацией, указанной в Перечне;\nуникальный номер (авторизация) допуска лекарственного препарата на соответствующий рынок;\nв) оригинала образца маркировки в бумажной или электронной форме;\nСм.\nпредыдущую\nредакцию.\n(подпункт «г» пункта 10 исключен\nпостановлением\nПрезидента Республики Узбекистан от 26 октября 2022 года № ПП-411 — Национальная база данных законодательства, 27.10.2022 г., № 07/22/411/0961)\nд) образца лекарственного средства — достаточного для проведения трехкратных испытаний в соответствии с требованиями нормативного документа фирмы-производителя с приложением сертификата анализа лекарственного средства;\nе) сертификата фармацевтического продукта (CPP), выданного иностранным уполномоченным органом, регулирующим иностранные или межгосударственные фармацевтические продукты, или копии, заверенной в установленном порядке. При этом, может быть представлен документ, эквивалентный сертификату фармацевтического продукта (CPP) или его копия, заверенная в установленном порядке;\nж) проект нормативного документа лекарственного средства.\nЕсли документ, предусмотренный в одном из подпунктов настоящего пункта, включает и другую информацию, указанную в другом подпункте настоящего пункта, ее представление в виде отдельного документа не требуется.\nСм.\nпредыдущую\nредакцию.\n(пункт 11 утратил силу\nпостановлением\nПрезидента Республики Узбекистан от 26 октября 2022 года № ПП-411 — Национальная база данных законодательства, 27.10.2022 г., № 07/22/411/0961)\n12. Требование от заявителя представления документов, не предусмотренных настоящим Положением, не допускается.\n13. Заявление с приложением необходимых документов представляется в Государственный центр непосредственно, через средства почтовой связи или в электронной форме с уведомлением о его получении. Заявление, представленное в электронной форме, подтверждается электронной цифровой подписью заявителя.\nОбразцы лекарственных средств представляются непосредственно или через средства почтовой связи.\n14. Заявление и документы принимаются ответственным лицом Государственного центра по описи, копия которой в тот же день направляется (вручается) заявителю с отметкой о дате их приема.\nГлава 3. Рассмотрение заявления и принятие решения о признании или об отказе в признании\n15. За рассмотрение заявления о признании взимается сбор в пятидесятикратном размере минимальной заработной платы, установленной на день подачи заявления.\nСумма сбора зачисляется на счет Государственного центра.\nВ случае отказа заявителя от поданного заявления, сумма уплаченного сбора возврату не подлежит.\n16. Заявление рассматривается Государственным центром в сроки, не превышающие 15 рабочих дней. Данный срок исчисляется со дня уплаты заявителем сбора за рассмотрение заявления о признании.\n17. Государственный центр в рамках оценки регистрационных документов может самостоятельно или с привлечением независимых экспертов проводить изучение регистрационных документов лекарственного средства.\n18. Признание и включение записи в Государственный реестр осуществляется Государственным центром по схеме согласно\nприложению № 3\nк настоящему Положению в следующем порядке:\nа) Отдел регистрации:\nпосле принятия заявления в однодневный срок проводит первичное (предварительное) изучение заявления и прилагаемых к нему документов и образцов;\nведет соответствующую переписку с заявителем по вопросам признания;\nна основании положительных результатов первичного (предварительного) изучения оформляет заявителю счет на оплату сбора за рассмотрение заявления;\nпосле оплаты заявителем в срок не более 30 календарных дней установленной суммы сбора передает заявление и прилагаемые к нему документы и образцы в Фармакологический комитет, Фармакопейный комитет, Комитет по контролю за наркотиками (в случае если в составе лекарственного средства содержатся наркотические средства, психотропные вещества и прекурсоры) для проведения дальнейших изучений;\nб) Фармакопейный комитет в течение 12 рабочих дней:\nпроводит изучение представленных заявителем документов;\nутверждает нормативный документ лекарственного средства;\nна основании представленных заявителем документов и заключений экспертов вносит рекомендации о признании или об отказе в признании в Экспертный совет, созданный в установленном порядке Министерством здравоохранения Республики Узбекистан (далее — Экспертный совет);\nв) Фармакологический комитет в течение 12 рабочих дней:\nпроводит изучение представленных заявителем документов;\nна основании представленных заявителем документов и заключений экспертов вносит рекомендации о признании или об отказе в признании в Экспертный совет;\nодобряет инструкцию по медицинскому применению лекарственного средства или вносимые в них изменения;\nг) Комитет по контролю за наркотиками в течение 3 рабочих дней:\nпроводит изучение представленных заявителем документов;\nпри проведении изучения представленных заявителем документов лекарственных средств, имеющих в составе наркотические средства, психотропные вещества и прекурсоры, рассматривает наличие данных веществ в Списке наркотических средств, психотропных веществ и прекурсоров, разрешения на медицинское применение которых находится под государственным контролем, а также необходимость отпуска по рецепту врача и вносит предложения в Фармакологический и Фармакопейный комитеты.\n19. Экспертный совет на основании рекомендаций Фармакопейного и Фармакологического комитетов в однодневный срок принимает решение о признании и включении лекарственного средства в Государственный реестр или об отказе в признании.\n20. Государственный центр обязан уведомить заявителя в письменной либо электронной форме через сеть Интернет о принятом решении не позднее дня, следующего за днем принятия решения Экспертного совета.\n21. Сведения, содержащиеся в Государственном реестре, открыты для всеобщего ознакомления через официальные веб-сайты Государственного центра и Министерства здравоохранения Республики Узбекистан.\nЗаявитель вправе на бесплатной основе самостоятельно сформировать и распечатать на бумажный носитель выписку из Государственного реестра через сеть Интернет по форме согласно\nприложению № 4\nк настоящему Положению.\n22. Основанием для отказа в признании и внесении записи в Государственный реестр является:\nпредставление заявителем документов, необходимых для экспертизы, и образцов лекарственных средств не в полном объеме;\nналичие в документах, представленных заявителем, недостоверных или искаженных сведений.\nОтказ в признании и включении записи в Государственный реестр по иным основаниям, в том числе по мотивам нецелесообразности, не допускается.\n23. В уведомлении об отказе в признании и внесении записи в Государственный реестр указываются причины отказа и срок, в течение которого заявитель, устранив указанные причины, может представить документы для повторного рассмотрения.\nСрок, в течение которого заявитель вправе устранить причины отказа и представить документы для повторного рассмотрения, не может быть менее пятнадцати рабочих дней со дня получения письменного или электронного уведомления об отказе.\n24. В случае устранения заявителем причин, послуживших основанием для отказа, повторное рассмотрение заявления осуществляется Государственным центром в срок, не превышающий 5 рабочих дней со дня получения заявления об устранении причин отказа и соответствующих документов, удостоверяющих устранение причин отказа.\nЗа повторное рассмотрение заявления сбор не взимается.\n25. При повторном рассмотрении заявления не допускается приведение причин, ранее не изложенных в уведомлении об отказе, за исключением причин, связанных с документами, удостоверяющими устранение ранее указанных причин.\n26. Заявление, поданное заявителем по истечении срока, указанного в уведомлении об отказе, считается вновь поданным и рассматривается Государственным центром на общих основаниях.\n27. Заявитель имеет право обжаловать в установленном порядке отказ в признании и включение записи в Государственный реестр, а также действия (бездействие) должностного лица Государственного центра.\nКомментарий LexUz\nСм.:\nЗакон\nРеспублики Узбекистан «Об обращениях физических и юридических лиц».\n28. По истечении срока признания, подтвержденного записью в Государственном реестре, допускается реализация и применение в медицинской практике лекарственных средств при условии, что они произведены в период действия их государственной регистрации.\nГлава 4. Внесение изменений и дополнений в регистрационные документы и Государственный реестр, а также продление их срока\n29. В случае изменения сведений, указанных в регистрационных документах, заявитель обращается в Государственный центр с заявлением о внесении изменений и дополнений с приложением соответствующих документов, подтверждающих данные изменения.\n30. Государственный центр отказывает во внесении изменений и дополнений в Государственный реестр в случае, если предлагаемые изменения и дополнения повлекут ухудшение качества, эффективности и безопасности лекарственного средства.\n31. Заявление о внесении изменений и дополнений в Государственн",
+          "start": 2500,
+          "end": 16000,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

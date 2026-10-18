@@ -1,0 +1,49 @@
+{
+  "unit": "Country–pathway–document version–standardized medicine case. One broad country label cannot replace this unit.",
+  "fixed_facts": "Use an originator, nonemergency, nonorphan new small-molecule medicine for an adult indication. Hold the manufacturer, authorized applicant, full CTD dossier, drug-data rights, formulation, strength, indication, US manufacturing site and accepted GMP status constant. Fix foreign approvals at 18 months old and assume the product is marketed in the approving jurisdictions. FDA and EMA approvals arise from full standalone reviews. Analyze biologics, generics and emergency routes separately.",
+  "cases": [
+    {
+      "case_id": "A",
+      "foreign_approvals": "FDA and EMA",
+      "report_access": "Public assessment material only; any separately required sharing permissions assumed available.",
+      "purpose": "Baseline: is public information enough for the specific route?"
+    },
+    {
+      "case_id": "B",
+      "foreign_approvals": "FDA and EMA",
+      "report_access": "Complete underlying assessment reports available; all separately required permissions available.",
+      "purpose": "B minus A isolates the value of additional report content for legal route access."
+    },
+    {
+      "case_id": "C",
+      "foreign_approvals": "FDA and EMA",
+      "report_access": "Complete reports obtainable; applicant/manufacturer consent unavailable where it is separately required. Do not submit material without lawful permission.",
+      "purpose": "B minus C isolates the explicit applicant-consent condition."
+    },
+    {
+      "case_id": "D",
+      "foreign_approvals": "FDA and EMA",
+      "report_access": "Complete reports obtainable; reference-regulator disclosure/sharing authorization unavailable where separately required.",
+      "purpose": "B minus D isolates permission controlled by the reference authority or sharing arrangement."
+    },
+    {
+      "case_id": "E",
+      "foreign_approvals": "FDA only",
+      "report_access": "Complete FDA report and all separately required permissions available; other product facts unchanged.",
+      "purpose": "B minus E isolates the legal eligibility gain from a second approval."
+    }
+  ],
+  "qualification": "Evaluate each case only against the preserved rule’s date and scope. A route may be unavailable while another domestic route remains available. Where public material, permission requirements, or other eligibility conditions are not specified clearly, code unresolved rather than making an assumption. For B–E, differences reflect both explicit approval-count thresholds and any named-authority or EMA-specific route conditions; report those reasons separately.",
+  "secondary_case_extensions": [
+    "FDA/EMA plus Japan, for explicit three-approval rules such as the preserved Taiwan notice.",
+    "Reference approval based on another authority’s assessment, compared with an otherwise identical standalone reference review, to study whether recognition is legally transitive.",
+    "Same dossier manufactured in an eligible partner country rather than the US, restricted to rules whose geography clauses can be held otherwise constant.",
+    "Same medicine as a biologic, separately stratified rather than pooled into the small-molecule baseline."
+  ],
+  "interpretations": {
+    "EMA": "EMA scientific assessment followed by European Commission centralized marketing authorization; not merely an EMA opinion, and not an EU member-state national MRP reference authorization.",
+    "case_A": "Only public summaries are accessible to the domestic regulator. The complete underlying assessment package is unavailable through both applicant and authorized regulator-sharing channels. All otherwise needed permissions are available. Public reports are not assumed inherently incomplete; the case fixes the missing content explicitly.",
+    "permissions": "Applicant/manufacturer consent and reference-authority permission are varied separately. Drug-data rights and the CTD are held fixed. No unlawful disclosure is assumed.",
+    "case_eligibility": "Eligibility for the selected documented route, not proof that no other route exists or that the whole destination market is closed."
+  }
+}

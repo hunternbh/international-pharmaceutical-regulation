@@ -129,5 +129,55 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "WSM",
+    "country": "Samoa",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "policy_acceptance",
+    "fixed_case_scope_status": "policy_not_complete_route",
+    "finding": "The policy refers to distribution of locally registered or internationally recognized TGA/FDA medicines but also requires compliance with the Food and Drugs Act. Complete operational conditions remain unresolved.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The policy refers to distribution of locally registered or internationally recognized TGA/FDA medicines but also requires compliance with the Food and Drugs Act. Complete operational conditions remain unresolved."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The policy refers to distribution of locally registered or internationally recognized TGA/FDA medicines but also requires compliance with the Food and Drugs Act. Complete operational conditions remain unresolved."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The policy refers to distribution of locally registered or internationally recognized TGA/FDA medicines but also requires compliance with the Food and Drugs Act. Complete operational conditions remain unresolved."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The policy refers to distribution of locally registered or internationally recognized TGA/FDA medicines but also requires compliance with the Food and Drugs Act. Complete operational conditions remain unresolved."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The policy refers to distribution of locally registered or internationally recognized TGA/FDA medicines but also requires compliance with the Food and Drugs Act. Complete operational conditions remain unresolved."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "WSM-R01",
+        "source_url": "https://health.gov.ws/wp-content/uploads/2023/02/Samoa-National-Medicines-Policy-2008.pdf",
+        "raw_sha256": "355b10d8bbd11f275834c5bac8584d42acf7e64306ba415487806ee51540d0ce",
+        "text_sha256": "3b10bd206ae48d0f686f23183a4be31ac45a8c3d585401121f0b50b4575b6c15",
+        "start_offset": 18557,
+        "end_offset": 18830,
+        "verbatim_extracted_text": "6.1    Only medicines registered in Samoa, or internationally recognized   by authorities \nsuch as TGA and FDA shall be distributed in the country. Any outstanding or new \nmedicines to be brought into the country must be in accordance with the Food and \nDrugs Act 1967. \n \n",
+        "pdf_page": 10,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "official_policy_explanation",
+        "version_alignment": "National Medicines Policy 2008; current statutory implementation and amendments not established.",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Human-medicine authorisation",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

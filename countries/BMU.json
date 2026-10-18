@@ -222,5 +222,55 @@
     "source_hashes": [
       "5c87ac7eb7234c28d76ae606f26d049608eebf1c10822ce1ad9801727885edd2"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "BMU",
+    "country": "Bermuda",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "dispensing_classification",
+    "fixed_case_scope_status": "outside_full_authorisation_scope",
+    "finding": "The two-of-three foreign-agency comparison governs medicine scheduling/classification. It is not a two-approval marketing-authorization requirement.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "outside selected route/function",
+        "finding": "The two-of-three foreign-agency comparison governs medicine scheduling/classification. It is not a two-approval marketing-authorization requirement."
+      },
+      "B": {
+        "status": "outside selected route/function",
+        "finding": "The two-of-three foreign-agency comparison governs medicine scheduling/classification. It is not a two-approval marketing-authorization requirement."
+      },
+      "C": {
+        "status": "outside selected route/function",
+        "finding": "The two-of-three foreign-agency comparison governs medicine scheduling/classification. It is not a two-approval marketing-authorization requirement."
+      },
+      "D": {
+        "status": "outside selected route/function",
+        "finding": "The two-of-three foreign-agency comparison governs medicine scheduling/classification. It is not a two-approval marketing-authorization requirement."
+      },
+      "E": {
+        "status": "outside selected route/function",
+        "finding": "The two-of-three foreign-agency comparison governs medicine scheduling/classification. It is not a two-approval marketing-authorization requirement."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "BMU-Q01",
+        "source_url": "https://www.gov.bm/news/ministerial-statement-concerning-updates-and-modernization-drug-schedules",
+        "raw_sha256": "bf133136763b424e5e158d1dcf549828a04c7a7faa385045024874f307996618",
+        "text_sha256": "9760543fef40c610348fa25b7987aa225630b8ab6813a9e70333bf641539c1cb",
+        "start_offset": 1789,
+        "end_offset": 2698,
+        "verbatim_extracted_text": "As in other areas of drug control and regulation, the Ministry primarily relies on the expertise and resources of larger jurisdictions to direct our local drug classifications. Accordingly, the standard criterion typically used for adding drugs to any of the Schedules is that local classification aligns with the classification of the drug by two out of three of the approved jurisdictions’ regulatory authorities.  These regulatory authorities are:\ni. Canada - Health Canada;\nii. USA - Federal Drug Administration\niii. UK - Medicines and Healthcare products Regulatory Agency\nMr Speaker\n, for a number of reasons, these Schedules had not been updated recently to reflect changes over the years. I am pleased to report that the Ministry of Health and the Pharmacy Council have implemented administrative practices that will assist in capturing drugs more readily and identifying needed updates going forward.",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Statement announcing 2017 schedules/orders; not a general FDA approval law",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Drug scheduling/classification, not initial scientific marketing approval",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

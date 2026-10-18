@@ -341,5 +341,682 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "VNM",
+    "country": "Viet Nam",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Reference assessment and emergency recognition have distinct conditions and timelines",
+    "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+    "document_id": "696c8b4a15829edc8a8c",
+    "genre": "Statutory amendment",
+    "language": "vi",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "Official Vietnamese Law 44/2024/QH15, general effect 1 July 2025. Targeted original Article 56 contexts reviewed; prior Argos English rejected/quarantined, not reused. Broad reference-assessment route and emergency recognition/clinical waiver must remain separate. Detailed implementation/list and translation adjudication unresolved.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "General foreign-assessment-reference application provision covers drug registration; exceptional epidemic branch narrower.",
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "SRA or Ministry-recognized agency under WHO classification; detailed accepted list not established.",
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Application requesting foreign assessment reference must provide additional assessment-result material; full/unredacted/public nature unresolved.",
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "No full/private report gate can be inferred from assessment-result wording.",
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "General route shortened assessment; technical/GMP waiver specifically declared group-A epidemic recognition, outside fixed nonemergency case.",
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "General reference-assessment target no more than nine months from complete dossier versus general twelve months; fifteen-day epidemic branch excluded.",
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Written reasons required for refusal; implementing rules not fully resolved.",
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "B": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "C": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "D": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "E": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "VNM-Q01",
+          "VNM-Q02",
+          "VNM-Q03",
+          "VNM-CTX-1"
+        ],
+        "status": "unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "VNM-Q01",
+        "source_document_id": "696c8b4a15829edc8a8c",
+        "evidence_role": "Selected primary document",
+        "section_article": "Amended Article 56(3)(b)",
+        "pdf_page": 19,
+        "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+        "raw_sha256": "13a2558e2b6d360478d3c4d49fb3d5bf90f2e76989d39f273bc4f9458d0f7aa7",
+        "text_sha256": "6ff56e0525547b84c3956c61e86663b6e8926a49ac1c1ee3bb16244e5a4d7e8d",
+        "exact_text": "trường hợp cơ sở đăng ký có đề nghị được áp dụng hình thức tham \nchiếu kết quả thẩm định hồ sơ đăng ký thuốc phải có thêm tài liệu về kết quả thẩm \nđịnh của cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ quan quản lý về dược được \nBộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y tế thế giới. \nĐối với thuốc mới (trừ vắc xin) sản xuất trong nước có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm và có cùng hoạt chất, dạng \nbào chế, đường dùng, chỉ định với thuốc đã được cấp phép lưu hành hoặc cấp phép \nsử dụng trong trường hợp khẩn cấp hoặc cấp phép lưu hành, sử dụng có điều kiện \nbởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ quan quản lý về \ndược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y tế thế giới được \nmiễn nộp hồ sơ lâm sàng trong hồ sơ đề nghị cấp giấy đăng ký lưu hành thuốc;",
+        "start": 39797,
+        "end": 40721,
+        "translation": null,
+        "translation_status": "Rejected/quarantined machine output",
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "VNM-Q02",
+        "source_document_id": "696c8b4a15829edc8a8c",
+        "evidence_role": "Selected primary document",
+        "section_article": "Amended Article 56(6)–(7)",
+        "pdf_page": 20,
+        "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+        "raw_sha256": "13a2558e2b6d360478d3c4d49fb3d5bf90f2e76989d39f273bc4f9458d0f7aa7",
+        "text_sha256": "6ff56e0525547b84c3956c61e86663b6e8926a49ac1c1ee3bb16244e5a4d7e8d",
+        "exact_text": "6. Thời hạn cấp, gia hạn hoặc thay đổi, bổ sung giấy đăng ký lưu hành thuốc, \nnguyên liệu làm thuốc được quy định như sau: \na) Không quá 12 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 3 Điều \nnày, trừ trường hợp quy định tại điểm b và điểm e khoản này;  \nb) Không quá 09 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 3 Điều \nnày đối với trường hợp có đề nghị áp dụng hình thức tham chiếu kết quả thẩm định; \nc) Không quá 03 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 4 Điều này;  \nd) Không quá 03 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 5 Điều \nnày, trừ trường hợp quy định tại điểm đ khoản này;  \nđ) Không quá 20 ngày kể từ ngày nhận đủ hồ sơ quy định tại khoản 5 Điều này \nđối với trường hợp thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu làm \nthuốc có nội dung thay đổi, bổ sung không ảnh hưởng đến chất lượng, an toàn và \nhiệu quả của thuốc;  \ne) Không quá 15 ngày kể từ ngày nhận đủ hồ sơ theo quy định tại khoản 3 \nĐiều này đối với hồ sơ đăng ký lưu hành của thuốc mới có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm đã được cấp phép lưu hành \nhoặc cấp phép sử dụng trong trường hợp khẩn cấp hoặc cấp phép lưu hành, sử \ndụng có điều kiện bởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ \nquan quản lý về dược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y \ntế thế giới. \n7. Bộ Y tế cấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên \nliệu làm thuốc trong thời hạn quy định tại khoản 6 Điều này; trường hợp không \ncấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nthì phải trả lời bằng văn bản và nêu rõ lý do. \nTrường hợp thuốc đã được cấp giấy đăng ký lưu hành nhưng không lưu hành \ntrên thị trường trong thời hạn 05 năm kể từ ngày giấy đăng ký lưu hành thuốc có \n\n\nPAGE 21\n \n \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n23 \n \nhiệu lực thì không tiếp tục gia hạn hiệu lực giấy đăng ký lưu hành thuốc, trừ thuốc \nhiếm và thuốc có không quá 03 thuốc của 03 hãng sản xuất có cùng dược chất, \ndược liệu, dạng bào chế, hàm lượng hoặc nồng độ dược chất, khối lượng dược liệu \ntrong một đơn vị liều đã được cấp giấy đăng ký lưu hành thuốc mà giấy đăng ký \nlưu hành thuốc đó còn thời hạn hiệu lực.",
+        "start": 41517,
+        "end": 43829,
+        "translation": null,
+        "translation_status": "Rejected/quarantined machine output",
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "VNM-Q03",
+        "source_document_id": "696c8b4a15829edc8a8c",
+        "evidence_role": "Selected primary document",
+        "section_article": "Amended Article 56 enabling implementing provision for epidemic recognition",
+        "pdf_page": 21,
+        "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+        "raw_sha256": "13a2558e2b6d360478d3c4d49fb3d5bf90f2e76989d39f273bc4f9458d0f7aa7",
+        "text_sha256": "6ff56e0525547b84c3956c61e86663b6e8926a49ac1c1ee3bb16244e5a4d7e8d",
+        "exact_text": "c) Việc cấp giấy đăng ký lưu hành thuốc đối với thuốc mới có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm trên cơ sở thừa nhận kết \nquả cấp phép bởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ \nquan quản lý về dược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y \ntế thế giới mà không phải thẩm định hồ sơ kỹ thuật và không phải đánh giá việc \nđáp ứng Thực hành tốt sản xuất.”. \n\n\nPAGE 22\n \n24 \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024",
+        "start": 45337,
+        "end": 45899,
+        "translation": null,
+        "translation_status": "Rejected/quarantined machine output",
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "VNM-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+        "raw_sha256": "13a2558e2b6d360478d3c4d49fb3d5bf90f2e76989d39f273bc4f9458d0f7aa7",
+        "text_sha256": "6ff56e0525547b84c3956c61e86663b6e8926a49ac1c1ee3bb16244e5a4d7e8d",
+        "exact_text": "hứng nhận đủ điều kiện kinh doanh dược đối với cơ sở kinh \ndoanh thuốc, nguyên liệu làm thuốc của Việt Nam; Giấy chứng nhận sản phẩm \n\n\nPAGE 19\n \n \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n21 \n \ndược phẩm còn thời hạn hiệu lực đối với thuốc nhập khẩu; mẫu nhãn thuốc, \nnguyên liệu làm thuốc; thông tin về thuốc và tài liệu khác về kinh doanh và lưu \nhành thuốc, nguyên liệu làm thuốc. \nTrường hợp để đáp ứng nhu cầu phòng, điều trị bệnh truyền nhiễm thuộc nhóm A \nđã được công bố dịch theo quy định của pháp luật về phòng, chống bệnh truyền \nnhiễm, Giấy chứng nhận sản phẩm dược phẩm có thể được thay thế bằng tài liệu \nkhác do cơ quan có thẩm quyền cấp, trong đó xác nhận thuốc được phép lưu hành, \nsử dụng tại nước sở tại và thể hiện đầy đủ thông tin về tên, địa chỉ cơ sở sản xuất \nvà điều kiện cấp phép; \nb) Hồ sơ kỹ thuật chứng minh thuốc, nguyên liệu làm thuốc đáp ứng yêu cầu \nquy định tại khoản 4 Điều 54 của Luật này; đối với thuốc mới, sinh phẩm tham \nchiếu, vắc xin phải có thêm hồ sơ lâm sàng chứng minh đạt an toàn, hiệu quả; đối \nvới sinh phẩm tương tự phải có thêm hồ sơ chứng minh tương tự về chất lượng, an \ntoàn, hiệu quả so với một sinh phẩm tham chiếu; đối với thuốc có yêu cầu thử \ntương đương sinh học phải có thêm báo cáo số liệu nghiên cứu tương đương sinh \nhọc của thuốc; trường hợp cơ sở đăng ký có đề nghị được áp dụng hình thức tham \nchiếu kết quả thẩm định hồ sơ đăng ký thuốc phải có thêm tài liệu về kết quả thẩm \nđịnh của cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ quan quản lý về dược được \nBộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y tế thế giới. \nĐối với thuốc mới (trừ vắc xin) sản xuất trong nước có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm và có cùng hoạt chất, dạng \nbào chế, đường dùng, chỉ định với thuốc đã được cấp phép lưu hành hoặc cấp phép \nsử dụng trong trường hợp khẩn cấp hoặc cấp phép lưu hành, sử dụng có điều kiện \nbởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ quan quản lý về \ndược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y tế thế giới được \nmiễn nộp hồ sơ lâm sàng trong hồ sơ đề nghị cấp giấy đăng ký lưu hành thuốc; \nc) Mẫu nhãn thực tế của thuốc, nguyên liệu làm thuốc lưu hành tại nước sở tại \nhoặc nước tham chiếu đối với thuốc nhập khẩu. \n4. Hồ sơ đề nghị gia hạn giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nbao gồm: \na) Đơn đề nghị gia hạn giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc;  \nb) Giấy chứng nhận sản phẩm dược phẩm còn thời hạn hiệu lực đối với thuốc \nnhập khẩu; \nc) Báo cáo an toàn, hiệu quả của thuốc trong quá trình lưu hành. \n\n\nPAGE 20\n \n22 \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n  \n5. Hồ sơ đề nghị thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu \nlàm thuốc bao gồm: \na) Đơn đề nghị thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu \nlàm thuốc; \nb) Hồ sơ kỹ thuật đối với nội dung thay đổi, bổ sung giấy đăng ký lưu hành \nthuốc, nguyên liệu làm thuốc. \n6. Thời hạn cấp, gia hạn hoặc thay đổi, bổ sung giấy đăng ký lưu hành thuốc, \nnguyên liệu làm thuốc được quy định như sau: \na) Không quá 12 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 3 Điều \nnày, trừ trường hợp quy định tại điểm b và điểm e khoản này;  \nb) Không quá 09 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 3 Điều \nnày đối với trường hợp có đề nghị áp dụng hình thức tham chiếu kết quả thẩm định; \nc) Không quá 03 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 4 Điều này;  \nd) Không quá 03 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 5 Điều \nnày, trừ trường hợp quy định tại điểm đ khoản này;  \nđ) Không quá 20 ngày kể từ ngày nhận đủ hồ sơ quy định tại khoản 5 Điều này \nđối với trường hợp thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu làm \nthuốc có nội dung thay đổi, bổ sung không ảnh hưởng đến chất lượng, an toàn và \nhiệu quả của thuốc;  \ne) Không quá 15 ngày kể từ ngày nhận đủ hồ sơ theo quy định tại khoản 3 \nĐiều này đối với hồ sơ đăng ký lưu hành của thuốc mới có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm đã được cấp phép lưu hành \nhoặc cấp phép sử dụng trong trường hợp khẩn cấp hoặc cấp phép lưu hành, sử \ndụng có điều kiện bởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ \nquan quản lý về dược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y \ntế thế giới. \n7. Bộ Y tế cấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên \nliệu làm thuốc trong thời hạn quy định tại khoản 6 Điều này; trường hợp không \ncấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nthì phải trả lời bằng văn bản và nêu rõ lý do. \nTrường hợp thuốc đã được cấp giấy đăng ký lưu hành nhưng không lưu hành \ntrên thị trường trong thời hạn 05 năm kể từ ngày giấy đăng ký lưu hành thuốc có \n\n\nPAGE 21\n \n \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n23 \n \nhiệu lực thì không tiếp tục gia hạn hiệu lực giấy đăng ký lưu hành thuốc, trừ thuốc \nhiếm và thuốc có không quá 03 thuốc của 03 hãng sản xuất có cùng dược chất, \ndược liệu, dạng bào chế, hàm lượng hoặc nồng độ dược chất, khối lượng dược liệu \ntrong một đơn vị liều đã được cấp giấy đăng ký lưu hành thuốc mà giấy đăng ký \nlưu hành thuốc đó còn thời hạn hiệu lực. \n8. Thời hạn hiệu lực của giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nđược quy định như sau: \na) Thời hạn hiệu lực của giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nlà 05 năm kể từ ngày cấp hoặc gia hạn, trừ trường hợp quy định tại điểm b và điểm c \nkhoản này; \nb) Thời hạn hiệu lực của giấy đăng ký lưu hành thuốc là 03 năm kể từ ngày \ncấp hoặc gia hạn đối với thuốc có yêu cầu tiếp tục theo dõi an toàn, hiệu quả; \nc) Giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc khi hết thời hạn hiệu \nlực mà đã được Bộ Y tế tiếp nhận hồ sơ gia hạn theo quy định thì được tiếp tục sử \ndụng cho đến khi được gia hạn hoặc khi Bộ Y tế có văn bản thông báo không gia \nhạn hoặc thông báo tạm dừng sử dụng giấy đăng ký lưu hành thuốc, nguyên liệu \nlàm thuốc do phát hiện thuốc, nguyên liệu làm thuốc có nguy cơ không an toàn cho \nngười sử dụng hoặc nghi ngờ giả mạo tài liệu pháp lý. \n9. Bộ trưởng Bộ Y tế quy định chi tiết hồ sơ cấp, gia hạn, thay đổi, bổ sung \ngiấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc quy định tại các khoản 3, 4 và 5 \nĐiều này và quy định nội dung sau đây: \na) Thủ tục cấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên \nliệu làm thuốc;  \nb) Trường hợp hồ sơ gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, \nnguyên liệu làm thuốc không yêu cầu thẩm định hồ sơ, tư vấn của Hội đồng tư vấn \ncấp giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc trên cơ sở đánh giá nguy \ncơ liên quan đến chất lượng, an toàn, hiệu quả của thuốc, nguyên liệu làm thuốc; \nc) Việc cấp giấy đăng ký lưu hành thuốc đối với thuốc mới có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm trên cơ sở thừa nhận kết \nquả cấp phép bởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ \nquan quản lý về dược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y \ntế thế giới mà không phải thẩm định hồ sơ kỹ thuật và không phải đánh giá việc \nđáp ứng Thực hành tốt sản xuất.”. \n\n\nPAGE 22\n \n24 \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n  \n31. Sửa đổi, bổ sung điểm b khoản 1 Điều 59 như sau: \n “b) Thuốc, nguyên liệu làm thuốc nhập khẩu quy định tại các khoản 1, 2, 3, 4 \nvà 5a Điều 60 của Luật này;”. \n32. Sửa đổi, bổ sung một số điểm, khoản của Điều 60 như sau: \na) Sửa đổi, bổ sung điểm h và điểm i khoản 2 như sau: \n“h) Thử tương đương sinh học, đánh giá sinh khả dụng, làm mẫu đăng ký, mẫu \nkiểm nghiệm, nghiên cứu khoa học, tham ",
+        "start": 38500,
+        "end": 46300,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "VNM",
+      "country": "Viet Nam",
+      "selected_document_id": "696c8b4a15829edc8a8c",
+      "source_id": "5391a1f8831d6784",
+      "pathway": "Reference assessment and emergency recognition have distinct conditions and timelines",
+      "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+      "document_title": "2024_1519 + 1520_44-2024-QH15.pdf",
+      "source_type": "Statutory amendment",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "vi",
+      "translation_provenance": [
+        {
+          "VNM-Q01": "Rejected/quarantined machine output"
+        },
+        {
+          "VNM-Q02": "Rejected/quarantined machine output"
+        },
+        {
+          "VNM-Q03": "Rejected/quarantined machine output"
+        }
+      ],
+      "raw_sha256": "13a2558e2b6d360478d3c4d49fb3d5bf90f2e76989d39f273bc4f9458d0f7aa7",
+      "raw_hash_validated": true,
+      "text_sha256": "6ff56e0525547b84c3956c61e86663b6e8926a49ac1c1ee3bb16244e5a4d7e8d",
+      "version_dates": {
+        "general_effective_date": "2025-07-01"
+      },
+      "version_scope_note": "Official Vietnamese Law 44/2024/QH15, general effect 1 July 2025. Targeted original Article 56 contexts reviewed; prior Argos English rejected/quarantined, not reused. Broad reference-assessment route and emergency recognition/clinical waiver must remain separate. Detailed implementation/list and translation adjudication unresolved.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          39797,
+          40721
+        ],
+        [
+          41517,
+          43829
+        ],
+        [
+          45337,
+          45899
+        ],
+        [
+          38500,
+          46300
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "General foreign-assessment-reference application provision covers drug registration; exceptional epidemic branch narrower.",
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "SRA or Ministry-recognized agency under WHO classification; detailed accepted list not established.",
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Application requesting foreign assessment reference must provide additional assessment-result material; full/unredacted/public nature unresolved.",
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "No full/private report gate can be inferred from assessment-result wording.",
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "General route shortened assessment; technical/GMP waiver specifically declared group-A epidemic recognition, outside fixed nonemergency case.",
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "General reference-assessment target no more than nine months from complete dossier versus general twelve months; fifteen-day epidemic branch excluded.",
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Written reasons required for refusal; implementing rules not fully resolved.",
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "VNM-Q01",
+            "VNM-Q02",
+            "VNM-Q03",
+            "VNM-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "VNM-Q01",
+          "source_document_id": "696c8b4a15829edc8a8c",
+          "evidence_role": "Selected primary document",
+          "section_article": "Amended Article 56(3)(b)",
+          "pdf_page": 19,
+          "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+          "raw_sha256": "13a2558e2b6d360478d3c4d49fb3d5bf90f2e76989d39f273bc4f9458d0f7aa7",
+          "text_sha256": "6ff56e0525547b84c3956c61e86663b6e8926a49ac1c1ee3bb16244e5a4d7e8d",
+          "exact_text": "trường hợp cơ sở đăng ký có đề nghị được áp dụng hình thức tham \nchiếu kết quả thẩm định hồ sơ đăng ký thuốc phải có thêm tài liệu về kết quả thẩm \nđịnh của cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ quan quản lý về dược được \nBộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y tế thế giới. \nĐối với thuốc mới (trừ vắc xin) sản xuất trong nước có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm và có cùng hoạt chất, dạng \nbào chế, đường dùng, chỉ định với thuốc đã được cấp phép lưu hành hoặc cấp phép \nsử dụng trong trường hợp khẩn cấp hoặc cấp phép lưu hành, sử dụng có điều kiện \nbởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ quan quản lý về \ndược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y tế thế giới được \nmiễn nộp hồ sơ lâm sàng trong hồ sơ đề nghị cấp giấy đăng ký lưu hành thuốc;",
+          "start": 39797,
+          "end": 40721,
+          "translation": null,
+          "translation_status": "Rejected/quarantined machine output",
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "VNM-Q02",
+          "source_document_id": "696c8b4a15829edc8a8c",
+          "evidence_role": "Selected primary document",
+          "section_article": "Amended Article 56(6)–(7)",
+          "pdf_page": 20,
+          "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+          "raw_sha256": "13a2558e2b6d360478d3c4d49fb3d5bf90f2e76989d39f273bc4f9458d0f7aa7",
+          "text_sha256": "6ff56e0525547b84c3956c61e86663b6e8926a49ac1c1ee3bb16244e5a4d7e8d",
+          "exact_text": "6. Thời hạn cấp, gia hạn hoặc thay đổi, bổ sung giấy đăng ký lưu hành thuốc, \nnguyên liệu làm thuốc được quy định như sau: \na) Không quá 12 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 3 Điều \nnày, trừ trường hợp quy định tại điểm b và điểm e khoản này;  \nb) Không quá 09 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 3 Điều \nnày đối với trường hợp có đề nghị áp dụng hình thức tham chiếu kết quả thẩm định; \nc) Không quá 03 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 4 Điều này;  \nd) Không quá 03 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 5 Điều \nnày, trừ trường hợp quy định tại điểm đ khoản này;  \nđ) Không quá 20 ngày kể từ ngày nhận đủ hồ sơ quy định tại khoản 5 Điều này \nđối với trường hợp thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu làm \nthuốc có nội dung thay đổi, bổ sung không ảnh hưởng đến chất lượng, an toàn và \nhiệu quả của thuốc;  \ne) Không quá 15 ngày kể từ ngày nhận đủ hồ sơ theo quy định tại khoản 3 \nĐiều này đối với hồ sơ đăng ký lưu hành của thuốc mới có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm đã được cấp phép lưu hành \nhoặc cấp phép sử dụng trong trường hợp khẩn cấp hoặc cấp phép lưu hành, sử \ndụng có điều kiện bởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ \nquan quản lý về dược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y \ntế thế giới. \n7. Bộ Y tế cấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên \nliệu làm thuốc trong thời hạn quy định tại khoản 6 Điều này; trường hợp không \ncấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nthì phải trả lời bằng văn bản và nêu rõ lý do. \nTrường hợp thuốc đã được cấp giấy đăng ký lưu hành nhưng không lưu hành \ntrên thị trường trong thời hạn 05 năm kể từ ngày giấy đăng ký lưu hành thuốc có \n\n\nPAGE 21\n \n \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n23 \n \nhiệu lực thì không tiếp tục gia hạn hiệu lực giấy đăng ký lưu hành thuốc, trừ thuốc \nhiếm và thuốc có không quá 03 thuốc của 03 hãng sản xuất có cùng dược chất, \ndược liệu, dạng bào chế, hàm lượng hoặc nồng độ dược chất, khối lượng dược liệu \ntrong một đơn vị liều đã được cấp giấy đăng ký lưu hành thuốc mà giấy đăng ký \nlưu hành thuốc đó còn thời hạn hiệu lực.",
+          "start": 41517,
+          "end": 43829,
+          "translation": null,
+          "translation_status": "Rejected/quarantined machine output",
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "VNM-Q03",
+          "source_document_id": "696c8b4a15829edc8a8c",
+          "evidence_role": "Selected primary document",
+          "section_article": "Amended Article 56 enabling implementing provision for epidemic recognition",
+          "pdf_page": 21,
+          "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+          "raw_sha256": "13a2558e2b6d360478d3c4d49fb3d5bf90f2e76989d39f273bc4f9458d0f7aa7",
+          "text_sha256": "6ff56e0525547b84c3956c61e86663b6e8926a49ac1c1ee3bb16244e5a4d7e8d",
+          "exact_text": "c) Việc cấp giấy đăng ký lưu hành thuốc đối với thuốc mới có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm trên cơ sở thừa nhận kết \nquả cấp phép bởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ \nquan quản lý về dược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y \ntế thế giới mà không phải thẩm định hồ sơ kỹ thuật và không phải đánh giá việc \nđáp ứng Thực hành tốt sản xuất.”. \n\n\nPAGE 22\n \n24 \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024",
+          "start": 45337,
+          "end": 45899,
+          "translation": null,
+          "translation_status": "Rejected/quarantined machine output",
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "VNM-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRYQdeYFXNQAm44nFBGtzVz4po0HykLSwMAXoZjp2IatR9zYNaM5m5XwgBnzmEd7rkBrPeXqnlB6BNPAwBO_Sqgw~~&file_name=2024_1519+%2b+1520_44-2024-QH15.pdf",
+          "raw_sha256": "13a2558e2b6d360478d3c4d49fb3d5bf90f2e76989d39f273bc4f9458d0f7aa7",
+          "text_sha256": "6ff56e0525547b84c3956c61e86663b6e8926a49ac1c1ee3bb16244e5a4d7e8d",
+          "exact_text": "hứng nhận đủ điều kiện kinh doanh dược đối với cơ sở kinh \ndoanh thuốc, nguyên liệu làm thuốc của Việt Nam; Giấy chứng nhận sản phẩm \n\n\nPAGE 19\n \n \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n21 \n \ndược phẩm còn thời hạn hiệu lực đối với thuốc nhập khẩu; mẫu nhãn thuốc, \nnguyên liệu làm thuốc; thông tin về thuốc và tài liệu khác về kinh doanh và lưu \nhành thuốc, nguyên liệu làm thuốc. \nTrường hợp để đáp ứng nhu cầu phòng, điều trị bệnh truyền nhiễm thuộc nhóm A \nđã được công bố dịch theo quy định của pháp luật về phòng, chống bệnh truyền \nnhiễm, Giấy chứng nhận sản phẩm dược phẩm có thể được thay thế bằng tài liệu \nkhác do cơ quan có thẩm quyền cấp, trong đó xác nhận thuốc được phép lưu hành, \nsử dụng tại nước sở tại và thể hiện đầy đủ thông tin về tên, địa chỉ cơ sở sản xuất \nvà điều kiện cấp phép; \nb) Hồ sơ kỹ thuật chứng minh thuốc, nguyên liệu làm thuốc đáp ứng yêu cầu \nquy định tại khoản 4 Điều 54 của Luật này; đối với thuốc mới, sinh phẩm tham \nchiếu, vắc xin phải có thêm hồ sơ lâm sàng chứng minh đạt an toàn, hiệu quả; đối \nvới sinh phẩm tương tự phải có thêm hồ sơ chứng minh tương tự về chất lượng, an \ntoàn, hiệu quả so với một sinh phẩm tham chiếu; đối với thuốc có yêu cầu thử \ntương đương sinh học phải có thêm báo cáo số liệu nghiên cứu tương đương sinh \nhọc của thuốc; trường hợp cơ sở đăng ký có đề nghị được áp dụng hình thức tham \nchiếu kết quả thẩm định hồ sơ đăng ký thuốc phải có thêm tài liệu về kết quả thẩm \nđịnh của cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ quan quản lý về dược được \nBộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y tế thế giới. \nĐối với thuốc mới (trừ vắc xin) sản xuất trong nước có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm và có cùng hoạt chất, dạng \nbào chế, đường dùng, chỉ định với thuốc đã được cấp phép lưu hành hoặc cấp phép \nsử dụng trong trường hợp khẩn cấp hoặc cấp phép lưu hành, sử dụng có điều kiện \nbởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ quan quản lý về \ndược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y tế thế giới được \nmiễn nộp hồ sơ lâm sàng trong hồ sơ đề nghị cấp giấy đăng ký lưu hành thuốc; \nc) Mẫu nhãn thực tế của thuốc, nguyên liệu làm thuốc lưu hành tại nước sở tại \nhoặc nước tham chiếu đối với thuốc nhập khẩu. \n4. Hồ sơ đề nghị gia hạn giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nbao gồm: \na) Đơn đề nghị gia hạn giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc;  \nb) Giấy chứng nhận sản phẩm dược phẩm còn thời hạn hiệu lực đối với thuốc \nnhập khẩu; \nc) Báo cáo an toàn, hiệu quả của thuốc trong quá trình lưu hành. \n\n\nPAGE 20\n \n22 \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n  \n5. Hồ sơ đề nghị thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu \nlàm thuốc bao gồm: \na) Đơn đề nghị thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu \nlàm thuốc; \nb) Hồ sơ kỹ thuật đối với nội dung thay đổi, bổ sung giấy đăng ký lưu hành \nthuốc, nguyên liệu làm thuốc. \n6. Thời hạn cấp, gia hạn hoặc thay đổi, bổ sung giấy đăng ký lưu hành thuốc, \nnguyên liệu làm thuốc được quy định như sau: \na) Không quá 12 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 3 Điều \nnày, trừ trường hợp quy định tại điểm b và điểm e khoản này;  \nb) Không quá 09 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 3 Điều \nnày đối với trường hợp có đề nghị áp dụng hình thức tham chiếu kết quả thẩm định; \nc) Không quá 03 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 4 Điều này;  \nd) Không quá 03 tháng kể từ ngày nhận đủ hồ sơ quy định tại khoản 5 Điều \nnày, trừ trường hợp quy định tại điểm đ khoản này;  \nđ) Không quá 20 ngày kể từ ngày nhận đủ hồ sơ quy định tại khoản 5 Điều này \nđối với trường hợp thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu làm \nthuốc có nội dung thay đổi, bổ sung không ảnh hưởng đến chất lượng, an toàn và \nhiệu quả của thuốc;  \ne) Không quá 15 ngày kể từ ngày nhận đủ hồ sơ theo quy định tại khoản 3 \nĐiều này đối với hồ sơ đăng ký lưu hành của thuốc mới có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm đã được cấp phép lưu hành \nhoặc cấp phép sử dụng trong trường hợp khẩn cấp hoặc cấp phép lưu hành, sử \ndụng có điều kiện bởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ \nquan quản lý về dược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y \ntế thế giới. \n7. Bộ Y tế cấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên \nliệu làm thuốc trong thời hạn quy định tại khoản 6 Điều này; trường hợp không \ncấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nthì phải trả lời bằng văn bản và nêu rõ lý do. \nTrường hợp thuốc đã được cấp giấy đăng ký lưu hành nhưng không lưu hành \ntrên thị trường trong thời hạn 05 năm kể từ ngày giấy đăng ký lưu hành thuốc có \n\n\nPAGE 21\n \n \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n23 \n \nhiệu lực thì không tiếp tục gia hạn hiệu lực giấy đăng ký lưu hành thuốc, trừ thuốc \nhiếm và thuốc có không quá 03 thuốc của 03 hãng sản xuất có cùng dược chất, \ndược liệu, dạng bào chế, hàm lượng hoặc nồng độ dược chất, khối lượng dược liệu \ntrong một đơn vị liều đã được cấp giấy đăng ký lưu hành thuốc mà giấy đăng ký \nlưu hành thuốc đó còn thời hạn hiệu lực. \n8. Thời hạn hiệu lực của giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nđược quy định như sau: \na) Thời hạn hiệu lực của giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc \nlà 05 năm kể từ ngày cấp hoặc gia hạn, trừ trường hợp quy định tại điểm b và điểm c \nkhoản này; \nb) Thời hạn hiệu lực của giấy đăng ký lưu hành thuốc là 03 năm kể từ ngày \ncấp hoặc gia hạn đối với thuốc có yêu cầu tiếp tục theo dõi an toàn, hiệu quả; \nc) Giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc khi hết thời hạn hiệu \nlực mà đã được Bộ Y tế tiếp nhận hồ sơ gia hạn theo quy định thì được tiếp tục sử \ndụng cho đến khi được gia hạn hoặc khi Bộ Y tế có văn bản thông báo không gia \nhạn hoặc thông báo tạm dừng sử dụng giấy đăng ký lưu hành thuốc, nguyên liệu \nlàm thuốc do phát hiện thuốc, nguyên liệu làm thuốc có nguy cơ không an toàn cho \nngười sử dụng hoặc nghi ngờ giả mạo tài liệu pháp lý. \n9. Bộ trưởng Bộ Y tế quy định chi tiết hồ sơ cấp, gia hạn, thay đổi, bổ sung \ngiấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc quy định tại các khoản 3, 4 và 5 \nĐiều này và quy định nội dung sau đây: \na) Thủ tục cấp, gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, nguyên \nliệu làm thuốc;  \nb) Trường hợp hồ sơ gia hạn, thay đổi, bổ sung giấy đăng ký lưu hành thuốc, \nnguyên liệu làm thuốc không yêu cầu thẩm định hồ sơ, tư vấn của Hội đồng tư vấn \ncấp giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc trên cơ sở đánh giá nguy \ncơ liên quan đến chất lượng, an toàn, hiệu quả của thuốc, nguyên liệu làm thuốc; \nc) Việc cấp giấy đăng ký lưu hành thuốc đối với thuốc mới có chỉ định sử dụng \nphòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy \nđịnh của pháp luật về phòng, chống bệnh truyền nhiễm trên cơ sở thừa nhận kết \nquả cấp phép bởi một trong các cơ quan quản lý dược chặt chẽ (SRA) hoặc cơ \nquan quản lý về dược được Bộ Y tế công nhận trên cơ sở phân loại của Tổ chức Y \ntế thế giới mà không phải thẩm định hồ sơ kỹ thuật và không phải đánh giá việc \nđáp ứng Thực hành tốt sản xuất.”. \n\n\nPAGE 22\n \n24 \nCÔNG BÁO/Số 1519 + 1520/Ngày 29-12-2024 \n  \n31. Sửa đổi, bổ sung điểm b khoản 1 Điều 59 như sau: \n “b) Thuốc, nguyên liệu làm thuốc nhập khẩu quy định tại các khoản 1, 2, 3, 4 \nvà 5a Điều 60 của Luật này;”. \n32. Sửa đổi, bổ sung một số điểm, khoản của Điều 60 như sau: \na) Sửa đổi, bổ sung điểm h và điểm i khoản 2 như sau: \n“h) Thử tương đương sinh học, đánh giá sinh khả dụng, làm mẫu đăng ký, mẫu \nkiểm nghiệm, nghiên cứu khoa học, tham ",
+          "start": 38500,
+          "end": 46300,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

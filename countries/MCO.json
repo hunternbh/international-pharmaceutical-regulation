@@ -317,5 +317,969 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "MCO",
+    "country": "Monaco",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Designated foreign authority; authorisation separate from payment",
+    "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+    "document_id": "21f3b9d01f7ae085e5e7",
+    "genre": "Sovereign ordinance",
+    "language": "fr",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Sovereign Ordinance 15.712, Article 2; preserved consolidated French source. Marketing authorisation by French agency or European Agency under Regulation 2309/93 is distinct from pricing and reimbursement provisions.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "French authority or European Agency authorisation expressly accepted; FDA alone is not named in Article 2.",
+        "evidence_ids": [
+          "MCO-Q01",
+          "MCO-Q02",
+          "MCO-Q03",
+          "MCO-CONTEXT-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "One qualifying French/European authorisation is the express condition.",
+        "evidence_ids": [
+          "MCO-Q01",
+          "MCO-Q02",
+          "MCO-Q03",
+          "MCO-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not an assessment-report comparison: legal authorisation is the expressed trigger.",
+        "evidence_ids": [
+          "MCO-Q01",
+          "MCO-Q02",
+          "MCO-Q03",
+          "MCO-CONTEXT-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Article 2 establishes qualifying authorisation without describing a separate duplicate scientific assessment; do not infer waiver of all requirements.",
+        "evidence_ids": [
+          "MCO-Q01",
+          "MCO-Q02",
+          "MCO-Q03",
+          "MCO-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MCO-Q01",
+          "MCO-Q02",
+          "MCO-Q03",
+          "MCO-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MCO-Q01",
+          "MCO-Q02",
+          "MCO-Q03",
+          "MCO-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MCO-Q01",
+          "MCO-Q02",
+          "MCO-Q03",
+          "MCO-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MCO-Q01",
+          "MCO-Q02",
+          "MCO-Q03",
+          "MCO-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "outside selected recognition pathway on fixed facts",
+        "finding": "FDA-only authorisation is not the French/European authorisation required by Article 2.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MCO-Q01",
+          "MCO-Q02",
+          "MCO-Q03",
+          "MCO-CONTEXT-1"
+        ],
+        "status": "outside selected recognition pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Report availability is not shown to be decisive by Article 2; cannot infer all unmentioned paperwork waived."
+      },
+      "B_minus_E": {
+        "status": "reviewed contextual interpretation",
+        "finding": "FDA-only lacks the named French/European authorisation trigger."
+      },
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "explicit qualifying authorisation",
+      "finding": "Article 2 permits marketing following authorisation by the French authority or European Agency under the cited EU Regulation, subject to applicable national rules; reimbursement and pricing remain separate.",
+      "evidence_ids": [
+        "MCO-Q02"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "MCO-Q01",
+        "iso3": "MCO",
+        "event_id": "MCO_115",
+        "document_id": "21f3b9d01f7ae085e5e7",
+        "source_id": "eb98b08736d98c1d",
+        "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+        "raw_sha256": "f92bf37d83f36fbcccfd292f15297ec35c44315893c740183ac0576fcaedf43e",
+        "text_sha256": "aaee2a7dfe20036de9d19c551d4e5986d2d2902c084380d4d08b5ecc21290e65",
+        "start_offset": 114,
+        "end_offset": 297,
+        "pdf_page": null,
+        "verbatim_extracted_text": "L'Agence française de sécurité sanitaire des produits de santé est désignée comme l'autorité compétente au sens de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain.",
+        "display_text": "L'Agence française de sécurité sanitaire des produits de santé est désignée comme l'autorité compétente au sens de la loi n° 1.254 du 12 juillet 2002 sur le médicament à usage humain.",
+        "feature_tags": [],
+        "role": "Designation of the competent authority",
+        "language": "fr",
+        "language_status": "Original French legal text",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Designation of the competent authority",
+        "translation_review": {
+          "id": "MCO-Q01",
+          "source_language": "fr",
+          "source_text": "L'Agence française de sécurité sanitaire des produits de santé est désignée comme l'autorité compétente au sens de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain.",
+          "document_id": "21f3b9d01f7ae085e5e7",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "fr",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-fr_en-1_9.argosmodel",
+            "model_sha256": "3b3052fee6bb1e8e8e632a26a723eb2a2c7710dfe73ba61ffd9b83e85d4f14c1",
+            "model_bytes": 66585033,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "fr",
+              "from_name": "French",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "00c549f3c1b3a42831f48faaf461c173b86a038fad597465289f33abc3a3a2e9",
+          "translated_utc": "2026-10-18T00:48:22.725093+00:00",
+          "source_characters": 183,
+          "segments": 1,
+          "raw_machine_translation": "The French Agency for the Safety of Health Products is designated as the competent authority within the meaning of Act No. 1.254 of 12 July 2002 on medicinal products for human use.",
+          "checked_translation": "The French Agency for the Safety of Health Products is designated as the competent authority within the meaning of Law 1.254 of 12 July 2002 on medicines for human use.",
+          "check_note": "Checked designated authority and statutory reference; historical agency name retained.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MCO-Q02",
+        "iso3": "MCO",
+        "event_id": "MCO_115",
+        "document_id": "21f3b9d01f7ae085e5e7",
+        "source_id": "eb98b08736d98c1d",
+        "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+        "raw_sha256": "f92bf37d83f36fbcccfd292f15297ec35c44315893c740183ac0576fcaedf43e",
+        "text_sha256": "aaee2a7dfe20036de9d19c551d4e5986d2d2902c084380d4d08b5ecc21290e65",
+        "start_offset": 437,
+        "end_offset": 1409,
+        "pdf_page": null,
+        "verbatim_extracted_text": "En application de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, toute spécialité pharmaceutique ou tout autre médicament fabriqué industriellement ainsi que tout générateur, trousse ou précurseur, doit faire l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros ou au détail sur le territoire monégasque, soit :\nd'une autorisation de mise sur le marché prévue à l'\narticle 12 de la loi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain et délivrée par l'autorité compétente désignée à l'article premier de la présente ordonnance, dans les conditions fixées par arrêté ministériel, ou par l'Agence européenne pour l'évaluation du médicament, en application du Règlement (CEE) n° 2309/93/CEE du Conseil du 22 juillet 1993 établissant des procédures communautaires pour l'autorisation et la surveillance des médicaments à usage humain et instituant une Agence européenne pour l'évaluation des médicaments, modifié ;",
+        "display_text": "En application de la loi n° 1.254 du 12 juillet 2002 sur le médicament à usage humain, toute spécialité pharmaceutique ou tout autre médicament fabriqué industriellement ainsi que tout générateur, trousse ou précurseur, doit faire l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros ou au détail sur le territoire monégasque, soit : d'une autorisation de mise sur le marché prévue à l' article 12 de la loi n° 1.254 du 12 juillet 2002 sur le médicament à usage humain et délivrée par l'autorité compétente désignée à l'article premier de la présente ordonnance, dans les conditions fixées par arrêté ministériel, ou par l'Agence européenne pour l'évaluation du médicament, en application du Règlement (CEE) n° 2309/93/CEE du Conseil du 22 juillet 1993 établissant des procédures communautaires pour l'autorisation et la surveillance des médicaments à usage humain et instituant une Agence européenne pour l'évaluation des médicaments, modifié ;",
+        "feature_tags": [
+          "automatic"
+        ],
+        "role": "Permission and conditions",
+        "language": "fr",
+        "language_status": "Original French legal text",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": {
+          "id": "MCO-Q02",
+          "source_language": "fr",
+          "source_text": "En application de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, toute spécialité pharmaceutique ou tout autre médicament fabriqué industriellement ainsi que tout générateur, trousse ou précurseur, doit faire l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros ou au détail sur le territoire monégasque, soit :\nd'une autorisation de mise sur le marché prévue à l'\narticle 12 de la loi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain et délivrée par l'autorité compétente désignée à l'article premier de la présente ordonnance, dans les conditions fixées par arrêté ministériel, ou par l'Agence européenne pour l'évaluation du médicament, en application du Règlement (CEE) n° 2309/93/CEE du Conseil du 22 juillet 1993 établissant des procédures communautaires pour l'autorisation et la surveillance des médicaments à usage humain et instituant une Agence européenne pour l'évaluation des médicaments, modifié ;",
+          "document_id": "21f3b9d01f7ae085e5e7",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "fr",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-fr_en-1_9.argosmodel",
+            "model_sha256": "3b3052fee6bb1e8e8e632a26a723eb2a2c7710dfe73ba61ffd9b83e85d4f14c1",
+            "model_bytes": 66585033,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "fr",
+              "from_name": "French",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "e24d126e93d82595c64c205c1593ea4941ed10219a2722c719e92993bc76f54b",
+          "translated_utc": "2026-10-18T00:48:23.362870+00:00",
+          "source_characters": 972,
+          "segments": 1,
+          "raw_machine_translation": " Pursuant to Law No 1.254 of 12 July 2002 on medicinal products for human use, any proprietary medicinal product or any other industrially manufactured medicinal product, and any generator, kit or precursor, shall be subject to a marketing authorisation provided for in Article 12 of Law No 1.254 of 12 July 2002 on medicinal products for human use and issued by the competent authority designated in Article 1 of this Order under the conditions laid down by ministerial order or by the European Agency for the Evaluation of the Medicinal Product pursuant to Council Regulation (EEC) No 2309/93/EEC of 22 July 1993 laying down Community procedures for the authorisation and supervision of medicinal products for human use and establishing a European Agency for the Evaluation of Medicinal Products, as amended;",
+          "checked_translation": "Under Law 1.254 of 12 July 2002 on medicines for human use, every proprietary medicinal product or other industrially manufactured medicine, and every generator, kit or precursor, must, before being marketed or distributed free of charge, wholesale or retail, in Monaco, have either: a marketing authorisation under Article 12 of that law, issued by the competent authority designated in Article 1 of this ordinance under conditions laid down by ministerial order, or an authorisation issued by the European Agency for the Evaluation of Medicinal Products under Council Regulation (EEC) 2309/93 of 22 July 1993 establishing Community procedures for authorising and supervising medicines for human use and establishing a European Agency for the Evaluation of Medicinal Products, as amended;",
+          "check_note": "Material repair: restored before marketing OR free distribution, wholesale OR retail, in Monaco. Preserved the either/alternative structure; source excerpt ends at a semicolon and is not claimed as the complete ordinance.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MCO-Q03",
+        "iso3": "MCO",
+        "event_id": "MCO_115",
+        "document_id": "21f3b9d01f7ae085e5e7",
+        "source_id": "eb98b08736d98c1d",
+        "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+        "raw_sha256": "f92bf37d83f36fbcccfd292f15297ec35c44315893c740183ac0576fcaedf43e",
+        "text_sha256": "aaee2a7dfe20036de9d19c551d4e5986d2d2902c084380d4d08b5ecc21290e65",
+        "start_offset": 2672,
+        "end_offset": 2999,
+        "pdf_page": null,
+        "verbatim_extracted_text": "Les conditions de remboursement des médicaments commercialisés à Monaco sont déterminées conformément à la réglementation en vigueur.\nArticle\n4\n🔗\nCopier le texte de ce bloc\nLes prix des médicaments sont arrêtés selon les procédures mises en œuvre par l'autorité compétente à l'occasion de la mise sur le marché des médicaments.",
+        "display_text": "Les conditions de remboursement des médicaments commercialisés à Monaco sont déterminées conformément à la réglementation en vigueur. Article 4 🔗 Copier le texte de ce bloc Les prix des médicaments sont arrêtés selon les procédures mises en œuvre par l'autorité compétente à l'occasion de la mise sur le marché des médicaments.",
+        "feature_tags": [
+          "approval_not_reimbursement"
+        ],
+        "role": "Distinct pricing and reimbursement articles",
+        "language": "fr",
+        "language_status": "Original French legal text",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Distinct pricing and reimbursement articles",
+        "translation_review": {
+          "id": "MCO-Q03",
+          "source_language": "fr",
+          "source_text": "Les conditions de remboursement des médicaments commercialisés à Monaco sont déterminées conformément à la réglementation en vigueur.\nArticle\n4\n🔗\nCopier le texte de ce bloc\nLes prix des médicaments sont arrêtés selon les procédures mises en œuvre par l'autorité compétente à l'occasion de la mise sur le marché des médicaments.",
+          "document_id": "21f3b9d01f7ae085e5e7",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "fr",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-fr_en-1_9.argosmodel",
+            "model_sha256": "3b3052fee6bb1e8e8e632a26a723eb2a2c7710dfe73ba61ffd9b83e85d4f14c1",
+            "model_bytes": 66585033,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "fr",
+              "from_name": "French",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "c3cc404b00e8d3ef5d372eb6ede7ea7ec223c0017c5a7f90079033ae81dc915e",
+          "translated_utc": "2026-10-18T00:48:23.501711+00:00",
+          "source_characters": 327,
+          "segments": 2,
+          "raw_machine_translation": "The conditions for reimbursement of medicinal products marketed in Monaco shall be determined in accordance with the rules in force. Article 4",
+          "checked_translation": "The reimbursement conditions for medicines marketed in Monaco are determined in accordance with the regulations in force. Article 4. Medicine prices are set according to the procedures implemented by the competent authority when medicines are placed on the market.",
+          "check_note": "Material repair: restored the whole Article 4 price-setting sentence omitted by the model. Removed only website copy-button UI from the reading translation; exact source field remains unchanged.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MCO-CONTEXT-1",
+        "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+        "raw_sha256": "f92bf37d83f36fbcccfd292f15297ec35c44315893c740183ac0576fcaedf43e",
+        "text_sha256": "aaee2a7dfe20036de9d19c551d4e5986d2d2902c084380d4d08b5ecc21290e65",
+        "start_offset": 0,
+        "end_offset": 3374,
+        "verbatim_extracted_text": "Vu la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain ;\nArticle\n1er\n🔗\nCopier le texte de ce bloc\nL'Agence française de sécurité sanitaire des produits de santé est désignée comme l'autorité compétente au sens de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain.\nArticle\n2\n🔗\nCopier le texte de ce bloc\nModifié par l'\nordonnance n° 16.144 du 5 novembre 2003\nà compter d'une date fixée par son article 2\nEn application de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, toute spécialité pharmaceutique ou tout autre médicament fabriqué industriellement ainsi que tout générateur, trousse ou précurseur, doit faire l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros ou au détail sur le territoire monégasque, soit :\nd'une autorisation de mise sur le marché prévue à l'\narticle 12 de la loi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain et délivrée par l'autorité compétente désignée à l'article premier de la présente ordonnance, dans les conditions fixées par arrêté ministériel, ou par l'Agence européenne pour l'évaluation du médicament, en application du Règlement (CEE) n° 2309/93/CEE du Conseil du 22 juillet 1993 établissant des procédures communautaires pour l'autorisation et la surveillance des médicaments à usage humain et instituant une Agence européenne pour l'évaluation des médicaments, modifié ;\npour les médicaments homéopathiques visés à l'\narticle 15 de la loi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, d'un enregistrement délivré par l'Agence française de sécurité sanitaire des produits de santé, dans les conditions fixées par arrêté ministériel. L'enregistrement des médicaments homéopathiques peut être refusé, suspendu ou supprimé par l'autorité compétente désignée à l'article premier. Les conditions dans lesquelles interviennent les décisions de refus, de suspension ou de suppression sont déterminées par arrêté ministériel ;\nd'une autorisation temporaire d'utilisation, en application de l'article 14\na)\nde la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, délivrée par l'Agence française de sécurité sanitaire des produits de santé, dans les conditions fixées par arrêté ministériel ;\nd'une autorisation temporaire d'utilisation, en application de l'article 14\nb)\nde la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, délivrée par le Ministre d'État, dans les conditions fixées par arrêté ministériel ;\nd'une autorisation d'importation délivrée par le Directeur de l'action sanitaire et sociale, dans les conditions fixées par arrêté ministériel.\nArticle\n3\n🔗\nCopier le texte de ce bloc\nLes conditions de remboursement des médicaments commercialisés à Monaco sont déterminées conformément à la réglementation en vigueur.\nArticle\n4\n🔗\nCopier le texte de ce bloc\nLes prix des médicaments sont arrêtés selon les procédures mises en œuvre par l'autorité compétente à l'occasion de la mise sur le marché des médicaments.\nConsulter le PDF\nCopier le texte de la page\nEnvoyer par email\nCopier le lien\nÉlargir\nComparer\nAnnuler\nVersion du texte\nChargement en cours...\nLiens\nDocuments cités\nTextes législatifs\nloi n° 1.254 du 12 juillet 2002\narticle 12 de la loi n° 1.254 du 12 juillet 2002\narticle 15 de la loi n° 1.254 du 12 juillet 2002\nTextes réglementaires\nordonnance n° 16.144 du 5 novembre 2003",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "fr",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "MCO",
+      "country": "Monaco",
+      "selected_document_id": "21f3b9d01f7ae085e5e7",
+      "source_id": "eb98b08736d98c1d",
+      "pathway": "Designated foreign authority; authorisation separate from payment",
+      "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+      "document_title": "Ordonnance Souveraine n° 15.712 du 3 mars 2003 relative à la mise sur le marché des médicaments à usage humain [Legimonaco]",
+      "source_type": "Sovereign ordinance",
+      "scope": "Human-medicine authorisation",
+      "language": "fr",
+      "translation_provenance": "Checked English selected-clause translation plus contextual original-language interpretation",
+      "raw_sha256": "f92bf37d83f36fbcccfd292f15297ec35c44315893c740183ac0576fcaedf43e",
+      "raw_hash_validated": true,
+      "text_sha256": "aaee2a7dfe20036de9d19c551d4e5986d2d2902c084380d4d08b5ecc21290e65",
+      "version_dates": {},
+      "version_scope_note": "Sovereign Ordinance 15.712, Article 2; preserved consolidated French source. Marketing authorisation by French agency or European Agency under Regulation 2309/93 is distinct from pricing and reimbursement provisions.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          0,
+          3374
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "French authority or European Agency authorisation expressly accepted; FDA alone is not named in Article 2.",
+          "evidence_ids": [
+            "MCO-Q01",
+            "MCO-Q02",
+            "MCO-Q03",
+            "MCO-CONTEXT-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "One qualifying French/European authorisation is the express condition.",
+          "evidence_ids": [
+            "MCO-Q01",
+            "MCO-Q02",
+            "MCO-Q03",
+            "MCO-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not an assessment-report comparison: legal authorisation is the expressed trigger.",
+          "evidence_ids": [
+            "MCO-Q01",
+            "MCO-Q02",
+            "MCO-Q03",
+            "MCO-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Article 2 establishes qualifying authorisation without describing a separate duplicate scientific assessment; do not infer waiver of all requirements.",
+          "evidence_ids": [
+            "MCO-Q01",
+            "MCO-Q02",
+            "MCO-Q03",
+            "MCO-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MCO-Q01",
+            "MCO-Q02",
+            "MCO-Q03",
+            "MCO-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MCO-Q01",
+            "MCO-Q02",
+            "MCO-Q03",
+            "MCO-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MCO-Q01",
+            "MCO-Q02",
+            "MCO-Q03",
+            "MCO-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MCO-Q01",
+            "MCO-Q02",
+            "MCO-Q03",
+            "MCO-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected recognition pathway on fixed facts",
+          "finding": "FDA-only authorisation is not the French/European authorisation required by Article 2.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MCO-Q01",
+            "MCO-Q02",
+            "MCO-Q03",
+            "MCO-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "explicit qualifying authorisation",
+        "finding": "Article 2 permits marketing following authorisation by the French authority or European Agency under the cited EU Regulation, subject to applicable national rules; reimbursement and pricing remain separate.",
+        "evidence_ids": [
+          "MCO-Q02"
+        ]
+      },
+      "paired_comparisons": {
+        "B_vs_A": "Report availability is not shown to be decisive by Article 2; cannot infer all unmentioned paperwork waived.",
+        "E_vs_B": "FDA-only lacks the named French/European authorisation trigger.",
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "MCO-Q01",
+          "iso3": "MCO",
+          "event_id": "MCO_115",
+          "document_id": "21f3b9d01f7ae085e5e7",
+          "source_id": "eb98b08736d98c1d",
+          "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+          "raw_sha256": "f92bf37d83f36fbcccfd292f15297ec35c44315893c740183ac0576fcaedf43e",
+          "text_sha256": "aaee2a7dfe20036de9d19c551d4e5986d2d2902c084380d4d08b5ecc21290e65",
+          "start_offset": 114,
+          "end_offset": 297,
+          "pdf_page": null,
+          "verbatim_extracted_text": "L'Agence française de sécurité sanitaire des produits de santé est désignée comme l'autorité compétente au sens de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain.",
+          "display_text": "L'Agence française de sécurité sanitaire des produits de santé est désignée comme l'autorité compétente au sens de la loi n° 1.254 du 12 juillet 2002 sur le médicament à usage humain.",
+          "feature_tags": [],
+          "role": "Designation of the competent authority",
+          "language": "fr",
+          "language_status": "Original French legal text",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Designation of the competent authority",
+          "translation_review": {
+            "id": "MCO-Q01",
+            "source_language": "fr",
+            "source_text": "L'Agence française de sécurité sanitaire des produits de santé est désignée comme l'autorité compétente au sens de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain.",
+            "document_id": "21f3b9d01f7ae085e5e7",
+            "target_language": "en",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "model_provenance": {
+              "language": "fr",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-fr_en-1_9.argosmodel",
+              "model_sha256": "3b3052fee6bb1e8e8e632a26a723eb2a2c7710dfe73ba61ffd9b83e85d4f14c1",
+              "model_bytes": 66585033,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "fr",
+                "from_name": "French",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "00c549f3c1b3a42831f48faaf461c173b86a038fad597465289f33abc3a3a2e9",
+            "translated_utc": "2026-10-18T00:48:22.725093+00:00",
+            "source_characters": 183,
+            "segments": 1,
+            "raw_machine_translation": "The French Agency for the Safety of Health Products is designated as the competent authority within the meaning of Act No. 1.254 of 12 July 2002 on medicinal products for human use.",
+            "checked_translation": "The French Agency for the Safety of Health Products is designated as the competent authority within the meaning of Law 1.254 of 12 July 2002 on medicines for human use.",
+            "check_note": "Checked designated authority and statutory reference; historical agency name retained.",
+            "approved_for_display": true,
+            "approved_for_text_sensitivity": true,
+            "check_scope": [
+              "permission/modals",
+              "negation and conjunctions",
+              "numerical conditions and units",
+              "actors, scope and retained conditions"
+            ],
+            "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MCO-Q02",
+          "iso3": "MCO",
+          "event_id": "MCO_115",
+          "document_id": "21f3b9d01f7ae085e5e7",
+          "source_id": "eb98b08736d98c1d",
+          "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+          "raw_sha256": "f92bf37d83f36fbcccfd292f15297ec35c44315893c740183ac0576fcaedf43e",
+          "text_sha256": "aaee2a7dfe20036de9d19c551d4e5986d2d2902c084380d4d08b5ecc21290e65",
+          "start_offset": 437,
+          "end_offset": 1409,
+          "pdf_page": null,
+          "verbatim_extracted_text": "En application de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, toute spécialité pharmaceutique ou tout autre médicament fabriqué industriellement ainsi que tout générateur, trousse ou précurseur, doit faire l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros ou au détail sur le territoire monégasque, soit :\nd'une autorisation de mise sur le marché prévue à l'\narticle 12 de la loi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain et délivrée par l'autorité compétente désignée à l'article premier de la présente ordonnance, dans les conditions fixées par arrêté ministériel, ou par l'Agence européenne pour l'évaluation du médicament, en application du Règlement (CEE) n° 2309/93/CEE du Conseil du 22 juillet 1993 établissant des procédures communautaires pour l'autorisation et la surveillance des médicaments à usage humain et instituant une Agence européenne pour l'évaluation des médicaments, modifié ;",
+          "display_text": "En application de la loi n° 1.254 du 12 juillet 2002 sur le médicament à usage humain, toute spécialité pharmaceutique ou tout autre médicament fabriqué industriellement ainsi que tout générateur, trousse ou précurseur, doit faire l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros ou au détail sur le territoire monégasque, soit : d'une autorisation de mise sur le marché prévue à l' article 12 de la loi n° 1.254 du 12 juillet 2002 sur le médicament à usage humain et délivrée par l'autorité compétente désignée à l'article premier de la présente ordonnance, dans les conditions fixées par arrêté ministériel, ou par l'Agence européenne pour l'évaluation du médicament, en application du Règlement (CEE) n° 2309/93/CEE du Conseil du 22 juillet 1993 établissant des procédures communautaires pour l'autorisation et la surveillance des médicaments à usage humain et instituant une Agence européenne pour l'évaluation des médicaments, modifié ;",
+          "feature_tags": [
+            "automatic"
+          ],
+          "role": "Permission and conditions",
+          "language": "fr",
+          "language_status": "Original French legal text",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": {
+            "id": "MCO-Q02",
+            "source_language": "fr",
+            "source_text": "En application de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, toute spécialité pharmaceutique ou tout autre médicament fabriqué industriellement ainsi que tout générateur, trousse ou précurseur, doit faire l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros ou au détail sur le territoire monégasque, soit :\nd'une autorisation de mise sur le marché prévue à l'\narticle 12 de la loi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain et délivrée par l'autorité compétente désignée à l'article premier de la présente ordonnance, dans les conditions fixées par arrêté ministériel, ou par l'Agence européenne pour l'évaluation du médicament, en application du Règlement (CEE) n° 2309/93/CEE du Conseil du 22 juillet 1993 établissant des procédures communautaires pour l'autorisation et la surveillance des médicaments à usage humain et instituant une Agence européenne pour l'évaluation des médicaments, modifié ;",
+            "document_id": "21f3b9d01f7ae085e5e7",
+            "target_language": "en",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "model_provenance": {
+              "language": "fr",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-fr_en-1_9.argosmodel",
+              "model_sha256": "3b3052fee6bb1e8e8e632a26a723eb2a2c7710dfe73ba61ffd9b83e85d4f14c1",
+              "model_bytes": 66585033,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "fr",
+                "from_name": "French",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "e24d126e93d82595c64c205c1593ea4941ed10219a2722c719e92993bc76f54b",
+            "translated_utc": "2026-10-18T00:48:23.362870+00:00",
+            "source_characters": 972,
+            "segments": 1,
+            "raw_machine_translation": " Pursuant to Law No 1.254 of 12 July 2002 on medicinal products for human use, any proprietary medicinal product or any other industrially manufactured medicinal product, and any generator, kit or precursor, shall be subject to a marketing authorisation provided for in Article 12 of Law No 1.254 of 12 July 2002 on medicinal products for human use and issued by the competent authority designated in Article 1 of this Order under the conditions laid down by ministerial order or by the European Agency for the Evaluation of the Medicinal Product pursuant to Council Regulation (EEC) No 2309/93/EEC of 22 July 1993 laying down Community procedures for the authorisation and supervision of medicinal products for human use and establishing a European Agency for the Evaluation of Medicinal Products, as amended;",
+            "checked_translation": "Under Law 1.254 of 12 July 2002 on medicines for human use, every proprietary medicinal product or other industrially manufactured medicine, and every generator, kit or precursor, must, before being marketed or distributed free of charge, wholesale or retail, in Monaco, have either: a marketing authorisation under Article 12 of that law, issued by the competent authority designated in Article 1 of this ordinance under conditions laid down by ministerial order, or an authorisation issued by the European Agency for the Evaluation of Medicinal Products under Council Regulation (EEC) 2309/93 of 22 July 1993 establishing Community procedures for authorising and supervising medicines for human use and establishing a European Agency for the Evaluation of Medicinal Products, as amended;",
+            "check_note": "Material repair: restored before marketing OR free distribution, wholesale OR retail, in Monaco. Preserved the either/alternative structure; source excerpt ends at a semicolon and is not claimed as the complete ordinance.",
+            "approved_for_display": true,
+            "approved_for_text_sensitivity": true,
+            "check_scope": [
+              "permission/modals",
+              "negation and conjunctions",
+              "numerical conditions and units",
+              "actors, scope and retained conditions"
+            ],
+            "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MCO-Q03",
+          "iso3": "MCO",
+          "event_id": "MCO_115",
+          "document_id": "21f3b9d01f7ae085e5e7",
+          "source_id": "eb98b08736d98c1d",
+          "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+          "raw_sha256": "f92bf37d83f36fbcccfd292f15297ec35c44315893c740183ac0576fcaedf43e",
+          "text_sha256": "aaee2a7dfe20036de9d19c551d4e5986d2d2902c084380d4d08b5ecc21290e65",
+          "start_offset": 2672,
+          "end_offset": 2999,
+          "pdf_page": null,
+          "verbatim_extracted_text": "Les conditions de remboursement des médicaments commercialisés à Monaco sont déterminées conformément à la réglementation en vigueur.\nArticle\n4\n🔗\nCopier le texte de ce bloc\nLes prix des médicaments sont arrêtés selon les procédures mises en œuvre par l'autorité compétente à l'occasion de la mise sur le marché des médicaments.",
+          "display_text": "Les conditions de remboursement des médicaments commercialisés à Monaco sont déterminées conformément à la réglementation en vigueur. Article 4 🔗 Copier le texte de ce bloc Les prix des médicaments sont arrêtés selon les procédures mises en œuvre par l'autorité compétente à l'occasion de la mise sur le marché des médicaments.",
+          "feature_tags": [
+            "approval_not_reimbursement"
+          ],
+          "role": "Distinct pricing and reimbursement articles",
+          "language": "fr",
+          "language_status": "Original French legal text",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Distinct pricing and reimbursement articles",
+          "translation_review": {
+            "id": "MCO-Q03",
+            "source_language": "fr",
+            "source_text": "Les conditions de remboursement des médicaments commercialisés à Monaco sont déterminées conformément à la réglementation en vigueur.\nArticle\n4\n🔗\nCopier le texte de ce bloc\nLes prix des médicaments sont arrêtés selon les procédures mises en œuvre par l'autorité compétente à l'occasion de la mise sur le marché des médicaments.",
+            "document_id": "21f3b9d01f7ae085e5e7",
+            "target_language": "en",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "model_provenance": {
+              "language": "fr",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-fr_en-1_9.argosmodel",
+              "model_sha256": "3b3052fee6bb1e8e8e632a26a723eb2a2c7710dfe73ba61ffd9b83e85d4f14c1",
+              "model_bytes": 66585033,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "fr",
+                "from_name": "French",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "c3cc404b00e8d3ef5d372eb6ede7ea7ec223c0017c5a7f90079033ae81dc915e",
+            "translated_utc": "2026-10-18T00:48:23.501711+00:00",
+            "source_characters": 327,
+            "segments": 2,
+            "raw_machine_translation": "The conditions for reimbursement of medicinal products marketed in Monaco shall be determined in accordance with the rules in force. Article 4",
+            "checked_translation": "The reimbursement conditions for medicines marketed in Monaco are determined in accordance with the regulations in force. Article 4. Medicine prices are set according to the procedures implemented by the competent authority when medicines are placed on the market.",
+            "check_note": "Material repair: restored the whole Article 4 price-setting sentence omitted by the model. Removed only website copy-button UI from the reading translation; exact source field remains unchanged.",
+            "approved_for_display": true,
+            "approved_for_text_sensitivity": true,
+            "check_scope": [
+              "permission/modals",
+              "negation and conjunctions",
+              "numerical conditions and units",
+              "actors, scope and retained conditions"
+            ],
+            "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MCO-CONTEXT-1",
+          "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
+          "raw_sha256": "f92bf37d83f36fbcccfd292f15297ec35c44315893c740183ac0576fcaedf43e",
+          "text_sha256": "aaee2a7dfe20036de9d19c551d4e5986d2d2902c084380d4d08b5ecc21290e65",
+          "start_offset": 0,
+          "end_offset": 3374,
+          "verbatim_extracted_text": "Vu la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain ;\nArticle\n1er\n🔗\nCopier le texte de ce bloc\nL'Agence française de sécurité sanitaire des produits de santé est désignée comme l'autorité compétente au sens de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain.\nArticle\n2\n🔗\nCopier le texte de ce bloc\nModifié par l'\nordonnance n° 16.144 du 5 novembre 2003\nà compter d'une date fixée par son article 2\nEn application de la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, toute spécialité pharmaceutique ou tout autre médicament fabriqué industriellement ainsi que tout générateur, trousse ou précurseur, doit faire l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros ou au détail sur le territoire monégasque, soit :\nd'une autorisation de mise sur le marché prévue à l'\narticle 12 de la loi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain et délivrée par l'autorité compétente désignée à l'article premier de la présente ordonnance, dans les conditions fixées par arrêté ministériel, ou par l'Agence européenne pour l'évaluation du médicament, en application du Règlement (CEE) n° 2309/93/CEE du Conseil du 22 juillet 1993 établissant des procédures communautaires pour l'autorisation et la surveillance des médicaments à usage humain et instituant une Agence européenne pour l'évaluation des médicaments, modifié ;\npour les médicaments homéopathiques visés à l'\narticle 15 de la loi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, d'un enregistrement délivré par l'Agence française de sécurité sanitaire des produits de santé, dans les conditions fixées par arrêté ministériel. L'enregistrement des médicaments homéopathiques peut être refusé, suspendu ou supprimé par l'autorité compétente désignée à l'article premier. Les conditions dans lesquelles interviennent les décisions de refus, de suspension ou de suppression sont déterminées par arrêté ministériel ;\nd'une autorisation temporaire d'utilisation, en application de l'article 14\na)\nde la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, délivrée par l'Agence française de sécurité sanitaire des produits de santé, dans les conditions fixées par arrêté ministériel ;\nd'une autorisation temporaire d'utilisation, en application de l'article 14\nb)\nde la\nloi n° 1.254 du 12 juillet 2002\nsur le médicament à usage humain, délivrée par le Ministre d'État, dans les conditions fixées par arrêté ministériel ;\nd'une autorisation d'importation délivrée par le Directeur de l'action sanitaire et sociale, dans les conditions fixées par arrêté ministériel.\nArticle\n3\n🔗\nCopier le texte de ce bloc\nLes conditions de remboursement des médicaments commercialisés à Monaco sont déterminées conformément à la réglementation en vigueur.\nArticle\n4\n🔗\nCopier le texte de ce bloc\nLes prix des médicaments sont arrêtés selon les procédures mises en œuvre par l'autorité compétente à l'occasion de la mise sur le marché des médicaments.\nConsulter le PDF\nCopier le texte de la page\nEnvoyer par email\nCopier le lien\nÉlargir\nComparer\nAnnuler\nVersion du texte\nChargement en cours...\nLiens\nDocuments cités\nTextes législatifs\nloi n° 1.254 du 12 juillet 2002\narticle 12 de la loi n° 1.254 du 12 juillet 2002\narticle 15 de la loi n° 1.254 du 12 juillet 2002\nTextes réglementaires\nordonnance n° 16.144 du 5 novembre 2003",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "fr",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

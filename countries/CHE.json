@@ -304,5 +304,735 @@
       "09b91b954d9e596300ef65de0502db42f3907989049a0d23f5345eb525e399b2",
       "92a3710e27b2a8399cf6dd522f4503d41b4697afca5aa37ca7a1e9365dba923a"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "CHE",
+    "country": "Switzerland",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Reduced assessment under Article 13; product-specific eligibility",
+    "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+    "document_id": "e213156612d1c76c73a4",
+    "genre": "Official FAQ",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Swissmedic Art 13 TPAFAQ dated 1 March 2026, Q 11 settles NAS scope. A nonorphan NAS is outside this selected shortcut even though FDA/EMA approved it; ordinary Swiss route remains.",
+    "components": {
+      "new_active_substance": {
+        "state": "outside pathway scope",
+        "finding": "Q 11: NAS can use Art 13 only if EMA/FDA orphan status plus Swiss orphan status approved before filing. Fixed nonorphan case fails.",
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA/EMA expressly accepted for qualifying orphan NAS; foreign approval alone insufficient for nonorphan NAS.",
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Identical foreign final dossier and variations, final assessment reports and comparison of changes required for in-scope applications.",
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "NAS scope failure precedes report-content contrast in the fixed case.",
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Swissmedic factors foreign results into its own review and decides Art 13 eligibility.",
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside pathway scope",
+        "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ],
+        "status": "outside pathway scope"
+      },
+      "B": {
+        "eligibility": "outside pathway scope",
+        "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ],
+        "status": "outside pathway scope"
+      },
+      "C": {
+        "eligibility": "outside pathway scope",
+        "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ],
+        "status": "outside pathway scope"
+      },
+      "D": {
+        "eligibility": "outside pathway scope",
+        "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ],
+        "status": "outside pathway scope"
+      },
+      "E": {
+        "eligibility": "outside pathway scope",
+        "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CHE-Q01",
+          "CHE-Q02",
+          "CHE-CONTEXT-1",
+          "CHE-CONTEXT-2",
+          "CHE-CTX-1"
+        ],
+        "status": "outside pathway scope"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "CHE-Q01",
+        "iso3": "CHE",
+        "event_id": "CHE_078",
+        "document_id": "e213156612d1c76c73a4",
+        "source_id": "d33caa10e6919949",
+        "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+        "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+        "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+        "start_offset": 1414,
+        "end_offset": 2868,
+        "pdf_page": 1,
+        "verbatim_extracted_text": "Yes, the documentation submitted to Swissmedic has to be identical to that on which the reference \nauthority based its authorisation of the medicinal product (see also Chapter 5.1 of guidance document \nAuthorisation of human medicinal products under Art. 13 TPA). \n \n4 \nIf pharmacovigilance planning or other updated documents are available for an \napplication for authorisation of or for a variation to a medicinal product under Art. 13 \nTPA, should applicants provide the documents submitted to the reference authority for \nthe original procedure or the updated versions of those documents? And in what form \nshould they submit the documents? \nThe documentation submitted to Swissmedic must be identical to that on which the reference \nauthority based its authorisation of the medicinal product or a variation to the product (final version). \nIn parallel with the application, the variations and/or additions approved since the reference authority \ngranted authorisation must also be submitted to Swissmedic. This additional or replacement \ndocumentation can either be integrated within the application documentation or the module in \nquestion, or it can be submitted separately. The variations must be referred to in the cover letter, and \na comparison showing the changes (old/new) must be appended to the corresponding final \nassessment report (see also Chapter 5.1 of guidance document Authorisation of human medicinal \nproducts under Art. 13 TPA).",
+        "display_text": "Yes, the documentation submitted to Swissmedic has to be identical to that on which the reference authority based its authorisation of the medicinal product (see also Chapter 5.1 of guidance document Authorisation of human medicinal products under Art. 13 TPA). 4 If pharmacovigilance planning or other updated documents are available for an application for authorisation of or for a variation to a medicinal product under Art. 13 TPA, should applicants provide the documents submitted to the reference authority for the original procedure or the updated versions of those documents? And in what form should they submit the documents? The documentation submitted to Swissmedic must be identical to that on which the reference authority based its authorisation of the medicinal product or a variation to the product (final version). In parallel with the application, the variations and/or additions approved since the reference authority granted authorisation must also be submitted to Swissmedic. This additional or replacement documentation can either be integrated within the application documentation or the module in question, or it can be submitted separately. The variations must be referred to in the cover letter, and a comparison showing the changes (old/new) must be appended to the corresponding final assessment report (see also Chapter 5.1 of guidance document Authorisation of human medicinal products under Art. 13 TPA).",
+        "feature_tags": [
+          "sameness",
+          "reports"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "CHE-Q02",
+        "iso3": "CHE",
+        "event_id": "CHE_078",
+        "document_id": "e213156612d1c76c73a4",
+        "source_id": "d33caa10e6919949",
+        "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+        "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+        "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+        "start_offset": 9590,
+        "end_offset": 11077,
+        "pdf_page": 3,
+        "verbatim_extracted_text": "Are oncologicals also eligible for a reduced assessment under Art. 13 TPA for medicinal \nproducts with a new active substance (NAS)? \nYes, provided the product has been granted orphan drug status by the EMA COMP or by the US FDA \nunder the Orphan Drug Act and the product has been authorised by the EMA or FDA. In addition, an \napplication for orphan drug status in Switzerland must already have been approved. \n \n15 \nAre applications for the authorisation of biosimilars under Art. 13 TPA subject to \nadditional requirements? \nThe criteria for applying Art. 13 TPA to applications for the authorisation of biosimilars are geared to \nthe requirements in Chapter 6 of guidance document Authorisation of human medicinal products \nunder Art. 13 TPA. If the criteria for applying Art. 13 TPA are not fulfilled, an interim decision to refuse \napplication of Art. 13 TPA will be issued and the application for authorisation of the biosimilar will be \nreviewed in a normal authorisation procedure. \n \n16 \nIf Swissmedic has rejected an indication for a biosimilar, is it possible to submit this \nindication as an indication extension under Art. 13 TPA? \nYes. Since Swissmedic has rejected the indication in question, however, the reference authority’s \nAssessment Report will have to be evaluated. If this evaluation does not resolve the concerns that led \nto Swissmedic rejecting the indication, the Agency will inspect the basic documentation, but limit this \ninspection to its major concerns.",
+        "display_text": "Are oncologicals also eligible for a reduced assessment under Art. 13 TPA for medicinal products with a new active substance (NAS)? Yes, provided the product has been granted orphan drug status by the EMA COMP or by the US FDA under the Orphan Drug Act and the product has been authorised by the EMA or FDA. In addition, an application for orphan drug status in Switzerland must already have been approved. 15 Are applications for the authorisation of biosimilars under Art. 13 TPA subject to additional requirements? The criteria for applying Art. 13 TPA to applications for the authorisation of biosimilars are geared to the requirements in Chapter 6 of guidance document Authorisation of human medicinal products under Art. 13 TPA. If the criteria for applying Art. 13 TPA are not fulfilled, an interim decision to refuse application of Art. 13 TPA will be issued and the application for authorisation of the biosimilar will be reviewed in a normal authorisation procedure. 16 If Swissmedic has rejected an indication for a biosimilar, is it possible to submit this indication as an indication extension under Art. 13 TPA? Yes. Since Swissmedic has rejected the indication in question, however, the reference authority’s Assessment Report will have to be evaluated. If this evaluation does not resolve the concerns that led to Swissmedic rejecting the indication, the Agency will inspect the basic documentation, but limit this inspection to its major concerns.",
+        "feature_tags": [
+          "discretion",
+          "reports",
+          "scope_limit"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "CHE-CONTEXT-1",
+        "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+        "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+        "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+        "start_offset": 664,
+        "end_offset": 3868,
+        "verbatim_extracted_text": ". 59 TPA and Arts. 61 and 62 TPO. In such cases, Swissmedic has to be \nnotified of the withdrawal. Consequently, a medicinal product may be withdrawn in another country for \nentirely market-related reasons without the withdrawal affecting its authorisation status in Switzerland. \n \n2 \nIs it possible to apply for authorisation of a co-marketing product of a medicinal product \nthat has been authorised under Art. 13 TPA, and, if so, are the requirements the same as \nfor applications for medicinal products authorised under the regular procedure? \nYes, the requirements are identical. \n \n3 \nThe final report on readability testing has been inserted as section 1.3.4 of the reference \ncountry’s Module 1. Does this report also have to be submitted? \nYes, the documentation submitted to Swissmedic has to be identical to that on which the reference \nauthority based its authorisation of the medicinal product (see also Chapter 5.1 of guidance document \nAuthorisation of human medicinal products under Art. 13 TPA). \n \n4 \nIf pharmacovigilance planning or other updated documents are available for an \napplication for authorisation of or for a variation to a medicinal product under Art. 13 \nTPA, should applicants provide the documents submitted to the reference authority for \nthe original procedure or the updated versions of those documents? And in what form \nshould they submit the documents? \nThe documentation submitted to Swissmedic must be identical to that on which the reference \nauthority based its authorisation of the medicinal product or a variation to the product (final version). \nIn parallel with the application, the variations and/or additions approved since the reference authority \ngranted authorisation must also be submitted to Swissmedic. This additional or replacement \ndocumentation can either be integrated within the application documentation or the module in \nquestion, or it can be submitted separately. The variations must be referred to in the cover letter, and \na comparison showing the changes (old/new) must be appended to the corresponding final \nassessment report (see also Chapter 5.1 of guidance document Authorisation of human medicinal \nproducts under Art. 13 TPA). \n \n5 \nWhen applying for authorisation of a medicinal product that has been authorised in over \n20 EU states under a DCP, do the decisions of all 20 states have to be submitted? \nAny application for a medicinal product under Art. 13 TPA that is based on an EU DCP only needs to \ninclude the assessment results and authorisation decision of the Reference Member State (RMS). \nThe decisions and authorisation certificates of the Concerned Member States (CMS) no longer have \nto be submitted to Swissmedic. \n \n6 \nIf a medicinal product was approved under Art. 13 TPA, can variations also only be \nsubmitted under Art. 13 TPA? \nNo, once a medicinal product has been authorised under Art. 13 TPA, applications for variations can \nbe submitted either with or without a request for application of Art. 13 TPA. \n \n7 \nHow does Swissmedic deal with variations in the procedure according to Art. 13 TPA that \nare submitted to Swissmedic after 1 February 2026, but that were approved in the EU \naccording to the ",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "CHE-CONTEXT-2",
+        "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+        "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+        "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+        "start_offset": 8840,
+        "end_offset": 12077,
+        "verbatim_extracted_text": "withdrawn, the Agency will review the documents under the regular procedure. \n \n13 \nIs prior notification of submission (a letter of intent) needed for procedures under Art. 13 \nTPA? \nNo. When completing the form New authorisation of human medicinal products or the form Variations \nand authorisation extensions, applicants should instead answer “yes” to the question of whether they \nwant to request consideration of the results of foreign authorities’ assessments in accordance with \nArt. 13 TPA. The appropriate additional forms (e.g. form Information for application Art.13 TPA) \nshould then be completed in full and returned to Swissmedic in accordance with guidance document \nAuthorisation of human medicinal products under Art. 13 TPA. \n \n14 \nAre oncologicals also eligible for a reduced assessment under Art. 13 TPA for medicinal \nproducts with a new active substance (NAS)? \nYes, provided the product has been granted orphan drug status by the EMA COMP or by the US FDA \nunder the Orphan Drug Act and the product has been authorised by the EMA or FDA. In addition, an \napplication for orphan drug status in Switzerland must already have been approved. \n \n15 \nAre applications for the authorisation of biosimilars under Art. 13 TPA subject to \nadditional requirements? \nThe criteria for applying Art. 13 TPA to applications for the authorisation of biosimilars are geared to \nthe requirements in Chapter 6 of guidance document Authorisation of human medicinal products \nunder Art. 13 TPA. If the criteria for applying Art. 13 TPA are not fulfilled, an interim decision to refuse \napplication of Art. 13 TPA will be issued and the application for authorisation of the biosimilar will be \nreviewed in a normal authorisation procedure. \n \n16 \nIf Swissmedic has rejected an indication for a biosimilar, is it possible to submit this \nindication as an indication extension under Art. 13 TPA? \nYes. Since Swissmedic has rejected the indication in question, however, the reference authority’s \nAssessment Report will have to be evaluated. If this evaluation does not resolve the concerns that led \nto Swissmedic rejecting the indication, the Agency will inspect the basic documentation, but limit this \ninspection to its major concerns. \n \n17 \nIs the CHMP opinion sufficient for an application for authorisation under Art. 13 TPA or is \nit necessary to wait for the Commission Decision? \nThe CxMP / HMPC opinion can be submitted to Swissmedic for first submissions that are based on \nthe EMA's Centralised Procedure. \n \n18 \nBy how much are fees reduced if an application is made to switch a regular authorisation \nprocedure to Art. 13 TPA? \nIf there are parallel procedures, and Swissmedic permits the application of Art. 13 TPA, and the \nresults of the foreign reference authority’s assessment provide a suitable basis, the flat-rate fees \napplicable to individual cases under Art. 10 FeeO-Swissmedic are reduced by 60%. \n \n19 \nDo major objections in the foreign authority’s List of Questions count as major \nconcerns? \nIf the foreign authority has authorised the medicinal product, it can be assumed that the case made by \nthe applicant and/or the data it has supplied have been sufficient to resolve the major objections. \n\n\nPAGE 4\nQ",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "CHE-CTX-1",
+        "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+        "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+        "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+        "start_offset": 1,
+        "end_offset": 8850,
+        "verbatim_extracted_text": "AGE 1\nQuestions and answers \nArt. 13 TPA \nVersion dated 1 March 2026 \n \n \n \n1 / 5 \nSwissmedic  •  Hallerstrasse 7  •  3012 Berne  •  www.swissmedic.ch  •  Tel. +41 58 414 08 00 \n1 \nIs it no longer necessary to notify Swissmedic if it is more than two years since a \nmedicinal product was last marketed in the countries in which it was authorised? \nNo. Provided the product was withdrawn on purely commercial grounds, there is no longer any \nrequirement to notify Swissmedic. However, if sale of the product has been restricted or stopped in \nother countries because of safety signals, these signals are subject to the mandatory notification \nrequirement under Art. 59 TPA and Arts. 61 and 62 TPO. In such cases, Swissmedic has to be \nnotified of the withdrawal. Consequently, a medicinal product may be withdrawn in another country for \nentirely market-related reasons without the withdrawal affecting its authorisation status in Switzerland. \n \n2 \nIs it possible to apply for authorisation of a co-marketing product of a medicinal product \nthat has been authorised under Art. 13 TPA, and, if so, are the requirements the same as \nfor applications for medicinal products authorised under the regular procedure? \nYes, the requirements are identical. \n \n3 \nThe final report on readability testing has been inserted as section 1.3.4 of the reference \ncountry’s Module 1. Does this report also have to be submitted? \nYes, the documentation submitted to Swissmedic has to be identical to that on which the reference \nauthority based its authorisation of the medicinal product (see also Chapter 5.1 of guidance document \nAuthorisation of human medicinal products under Art. 13 TPA). \n \n4 \nIf pharmacovigilance planning or other updated documents are available for an \napplication for authorisation of or for a variation to a medicinal product under Art. 13 \nTPA, should applicants provide the documents submitted to the reference authority for \nthe original procedure or the updated versions of those documents? And in what form \nshould they submit the documents? \nThe documentation submitted to Swissmedic must be identical to that on which the reference \nauthority based its authorisation of the medicinal product or a variation to the product (final version). \nIn parallel with the application, the variations and/or additions approved since the reference authority \ngranted authorisation must also be submitted to Swissmedic. This additional or replacement \ndocumentation can either be integrated within the application documentation or the module in \nquestion, or it can be submitted separately. The variations must be referred to in the cover letter, and \na comparison showing the changes (old/new) must be appended to the corresponding final \nassessment report (see also Chapter 5.1 of guidance document Authorisation of human medicinal \nproducts under Art. 13 TPA). \n \n5 \nWhen applying for authorisation of a medicinal product that has been authorised in over \n20 EU states under a DCP, do the decisions of all 20 states have to be submitted? \nAny application for a medicinal product under Art. 13 TPA that is based on an EU DCP only needs to \ninclude the assessment results and authorisation decision of the Reference Member State (RMS). \nThe decisions and authorisation certificates of the Concerned Member States (CMS) no longer have \nto be submitted to Swissmedic. \n \n6 \nIf a medicinal product was approved under Art. 13 TPA, can variations also only be \nsubmitted under Art. 13 TPA? \nNo, once a medicinal product has been authorised under Art. 13 TPA, applications for variations can \nbe submitted either with or without a request for application of Art. 13 TPA. \n \n7 \nHow does Swissmedic deal with variations in the procedure according to Art. 13 TPA that \nare submitted to Swissmedic after 1 February 2026, but that were approved in the EU \naccording to the \"old\" catalogue of variations? New from March 2026 \nFor variations that were approved by the EMA according to the \"old\" catalogue, but that are submitted \nto us after 1 February 2026 in the procedure according to Art 13 TPA, the company must submit the \ncorresponding variation using the new Variations and extensions HMP form. The EMA decision is \n\n\nPAGE 2\nQuestions and answers \nArt. 13 TPA \nVersion dated 1 March 2026 \n \n \n \n2 / 5 \nSwissmedic  •  Hallerstrasse 7  •  3012 Berne  •  www.swissmedic.ch  •  Tel. +41 58 414 08 00 \naccepted. The number (e.g. B.II.b.1.c) under which the variation was submitted to the EMA and \napproved is irrelevant, what matters is the EMA's Assessment Report on the variation. However, the \ncompany must check the box for the appropriate variation number in the new Swissmedic form (e.g. \nQ.II.b.1.c). \n \n8 \nCan applications for the authorisation of herbal and complementary medicinal products \nbe submitted under Article 13 TPA? \nYes, Art. 13 TPA can also be applied to applications for the authorisation of herbal and \ncomplementary medicinal products. \n \n9 \nIs it possible to have orphan drugs authorised under Art. 13 TPA using the EU dossier as \nthe reference dossier? \nWe are planning to submit an application for rapid authorisation in Switzerland of a chemical NAS. \nThe substance has Orphan Drug Designation for the indication in question in Switzerland, the EU and \nthe USA. The EMA has issued a positive opinion recommending authorisation, and the EU \nCommission is expected to approve the medicinal product soon. This raises the following questions: \n \na) Is it possible to have the product authorised under Art. 13 TPA using the EU dossier as the \nreference dossier? \nYes, a medicinal product with a new active substance or an indication extension of that product is \neligible for a reduced assessment under Art. 13 TPA if the product has been classified and authorised \nas an orphan drug by the EMA Committee for Orphan Medicinal Products (COMP) or under the FDA \nOrphan Drug Act (see also Chapter 7.1 of guidance document Authorisation of human medicinal \nproducts under Art. 13 TPA). \n \nb) How much time does submitting under Art. 13 TPA save? \nThe processing times for authorisation procedures under Art. 13 TPA are those set out in guidance \ndocument Time limits for authorisation applications for the relevant application type. The procedure \nfor applications under Art. 13 TPA will be shorter if no List of Questions has to be issued and the \npreliminary decision can be issued straight away. \n \n10 \nCan authorisation of a medicinal product (NAS) with orphan drug status in Switzerland \nand the USA but not in the EU be applied for in application of Art. 13 TPA with reference \nto the EMA authorisation?  \nYes, the reference country for the status (ODS) and that for the authorisation (in the procedure \naccording to Art. 13 TPA) do not have to be the same. \nWhat is important is that the medicinal product notified in Switzerland under Art. 13 TPA is the same \nproduct (or the same active substance) as that recognised or authorised abroad (in this case, in the \nUSA and EU). \n \n11 \nAre medicinal products with a new active substance (NAS) that have orphan drug status \nin Switzerland but not in the EU or USA, but which are nevertheless authorised in the EU \nand/or USA, eligible for Article 13 TPA?  \nNo. Art. 13 TPA can only be applied to an application for authorisation of a medicinal product with a \nnew active substance if the product in question has been granted orphan drug status by the EMA or \nFDA. In addition, the medicinal product must have been authorised by the EMA or FDA and an \napplication for orphan drug status in Switzerland must already have been approved before the \napplication for authorisation is submitted. \n \n12 \nWhat is the further procedure if an assessment under Art. 13 TPA is not “approved”? \nSwissmedic does not “approve” assessments under Art. 13 TPA. Article 13 TPA states that \nSwissmedic will factor the results of foreign authorities’ assessments into its own review. Arts. 16–20 \nTPO specify which documents have to be submitted to Swissmedic to ensure that the Agency \n\n\nPAGE 3\nQuestions and answers \nArt. 13 TPA \nVersion dated 1 March 2026 \n \n \n \n3 / 5 \nSwissmedic  •  Hallerstrasse 7  •  3012 Berne  •  www.swissmedic.ch  •  Tel. +41 58 414 08 00 \nconsiders the results of assessments carried out abroad in its authorisation decision. Swissmedic \nexamines whether the criteria set out in Arts. 16–20 TPO for the application of Art. 13 TPA have been \nfulfilled. If they have not, the applicant will be notified accordingly by means of a preliminary decision \nRejection of application to apply Art. 13 TPA. The applicant then has the option of responding to the \npreliminary decision or of withdrawing its application. Swissmedic will examine the applicant’s \nresponse and decide if Art. 13 TPA can be applied. Unless informed otherwise, and assuming the \napplication is not withdrawn,",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "CHE",
+      "country": "Switzerland",
+      "selected_document_id": "e213156612d1c76c73a4",
+      "source_id": "d33caa10e6919949",
+      "pathway": "Reduced assessment under Article 13; product-specific eligibility",
+      "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+      "document_title": "SwissmedicArticle13 current official FAQ PDF",
+      "source_type": "Official FAQ",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+      "raw_hash_validated": true,
+      "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+      "version_dates": {},
+      "version_scope_note": "Swissmedic Art 13 TPAFAQ dated 1 March 2026, Q 11 settles NAS scope. A nonorphan NAS is outside this selected shortcut even though FDA/EMA approved it; ordinary Swiss route remains.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          664,
+          3868
+        ],
+        [
+          8840,
+          12077
+        ],
+        [
+          1,
+          8850
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "outside pathway scope",
+          "finding": "Q 11: NAS can use Art 13 only if EMA/FDA orphan status plus Swiss orphan status approved before filing. Fixed nonorphan case fails.",
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA/EMA expressly accepted for qualifying orphan NAS; foreign approval alone insufficient for nonorphan NAS.",
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Identical foreign final dossier and variations, final assessment reports and comparison of changes required for in-scope applications.",
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "NAS scope failure precedes report-content contrast in the fixed case.",
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Swissmedic factors foreign results into its own review and decides Art 13 eligibility.",
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed nonorphan new active substance fails FAQ Q 11 orphan condition for selected Art 13 shortcut. No conclusion that ordinary Swiss authorisation is unavailable.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CHE-Q01",
+            "CHE-Q02",
+            "CHE-CONTEXT-1",
+            "CHE-CONTEXT-2",
+            "CHE-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "CHE-Q01",
+          "iso3": "CHE",
+          "event_id": "CHE_078",
+          "document_id": "e213156612d1c76c73a4",
+          "source_id": "d33caa10e6919949",
+          "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+          "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+          "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+          "start_offset": 1414,
+          "end_offset": 2868,
+          "pdf_page": 1,
+          "verbatim_extracted_text": "Yes, the documentation submitted to Swissmedic has to be identical to that on which the reference \nauthority based its authorisation of the medicinal product (see also Chapter 5.1 of guidance document \nAuthorisation of human medicinal products under Art. 13 TPA). \n \n4 \nIf pharmacovigilance planning or other updated documents are available for an \napplication for authorisation of or for a variation to a medicinal product under Art. 13 \nTPA, should applicants provide the documents submitted to the reference authority for \nthe original procedure or the updated versions of those documents? And in what form \nshould they submit the documents? \nThe documentation submitted to Swissmedic must be identical to that on which the reference \nauthority based its authorisation of the medicinal product or a variation to the product (final version). \nIn parallel with the application, the variations and/or additions approved since the reference authority \ngranted authorisation must also be submitted to Swissmedic. This additional or replacement \ndocumentation can either be integrated within the application documentation or the module in \nquestion, or it can be submitted separately. The variations must be referred to in the cover letter, and \na comparison showing the changes (old/new) must be appended to the corresponding final \nassessment report (see also Chapter 5.1 of guidance document Authorisation of human medicinal \nproducts under Art. 13 TPA).",
+          "display_text": "Yes, the documentation submitted to Swissmedic has to be identical to that on which the reference authority based its authorisation of the medicinal product (see also Chapter 5.1 of guidance document Authorisation of human medicinal products under Art. 13 TPA). 4 If pharmacovigilance planning or other updated documents are available for an application for authorisation of or for a variation to a medicinal product under Art. 13 TPA, should applicants provide the documents submitted to the reference authority for the original procedure or the updated versions of those documents? And in what form should they submit the documents? The documentation submitted to Swissmedic must be identical to that on which the reference authority based its authorisation of the medicinal product or a variation to the product (final version). In parallel with the application, the variations and/or additions approved since the reference authority granted authorisation must also be submitted to Swissmedic. This additional or replacement documentation can either be integrated within the application documentation or the module in question, or it can be submitted separately. The variations must be referred to in the cover letter, and a comparison showing the changes (old/new) must be appended to the corresponding final assessment report (see also Chapter 5.1 of guidance document Authorisation of human medicinal products under Art. 13 TPA).",
+          "feature_tags": [
+            "sameness",
+            "reports"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "CHE-Q02",
+          "iso3": "CHE",
+          "event_id": "CHE_078",
+          "document_id": "e213156612d1c76c73a4",
+          "source_id": "d33caa10e6919949",
+          "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+          "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+          "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+          "start_offset": 9590,
+          "end_offset": 11077,
+          "pdf_page": 3,
+          "verbatim_extracted_text": "Are oncologicals also eligible for a reduced assessment under Art. 13 TPA for medicinal \nproducts with a new active substance (NAS)? \nYes, provided the product has been granted orphan drug status by the EMA COMP or by the US FDA \nunder the Orphan Drug Act and the product has been authorised by the EMA or FDA. In addition, an \napplication for orphan drug status in Switzerland must already have been approved. \n \n15 \nAre applications for the authorisation of biosimilars under Art. 13 TPA subject to \nadditional requirements? \nThe criteria for applying Art. 13 TPA to applications for the authorisation of biosimilars are geared to \nthe requirements in Chapter 6 of guidance document Authorisation of human medicinal products \nunder Art. 13 TPA. If the criteria for applying Art. 13 TPA are not fulfilled, an interim decision to refuse \napplication of Art. 13 TPA will be issued and the application for authorisation of the biosimilar will be \nreviewed in a normal authorisation procedure. \n \n16 \nIf Swissmedic has rejected an indication for a biosimilar, is it possible to submit this \nindication as an indication extension under Art. 13 TPA? \nYes. Since Swissmedic has rejected the indication in question, however, the reference authority’s \nAssessment Report will have to be evaluated. If this evaluation does not resolve the concerns that led \nto Swissmedic rejecting the indication, the Agency will inspect the basic documentation, but limit this \ninspection to its major concerns.",
+          "display_text": "Are oncologicals also eligible for a reduced assessment under Art. 13 TPA for medicinal products with a new active substance (NAS)? Yes, provided the product has been granted orphan drug status by the EMA COMP or by the US FDA under the Orphan Drug Act and the product has been authorised by the EMA or FDA. In addition, an application for orphan drug status in Switzerland must already have been approved. 15 Are applications for the authorisation of biosimilars under Art. 13 TPA subject to additional requirements? The criteria for applying Art. 13 TPA to applications for the authorisation of biosimilars are geared to the requirements in Chapter 6 of guidance document Authorisation of human medicinal products under Art. 13 TPA. If the criteria for applying Art. 13 TPA are not fulfilled, an interim decision to refuse application of Art. 13 TPA will be issued and the application for authorisation of the biosimilar will be reviewed in a normal authorisation procedure. 16 If Swissmedic has rejected an indication for a biosimilar, is it possible to submit this indication as an indication extension under Art. 13 TPA? Yes. Since Swissmedic has rejected the indication in question, however, the reference authority’s Assessment Report will have to be evaluated. If this evaluation does not resolve the concerns that led to Swissmedic rejecting the indication, the Agency will inspect the basic documentation, but limit this inspection to its major concerns.",
+          "feature_tags": [
+            "discretion",
+            "reports",
+            "scope_limit"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "CHE-CONTEXT-1",
+          "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+          "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+          "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+          "start_offset": 664,
+          "end_offset": 3868,
+          "verbatim_extracted_text": ". 59 TPA and Arts. 61 and 62 TPO. In such cases, Swissmedic has to be \nnotified of the withdrawal. Consequently, a medicinal product may be withdrawn in another country for \nentirely market-related reasons without the withdrawal affecting its authorisation status in Switzerland. \n \n2 \nIs it possible to apply for authorisation of a co-marketing product of a medicinal product \nthat has been authorised under Art. 13 TPA, and, if so, are the requirements the same as \nfor applications for medicinal products authorised under the regular procedure? \nYes, the requirements are identical. \n \n3 \nThe final report on readability testing has been inserted as section 1.3.4 of the reference \ncountry’s Module 1. Does this report also have to be submitted? \nYes, the documentation submitted to Swissmedic has to be identical to that on which the reference \nauthority based its authorisation of the medicinal product (see also Chapter 5.1 of guidance document \nAuthorisation of human medicinal products under Art. 13 TPA). \n \n4 \nIf pharmacovigilance planning or other updated documents are available for an \napplication for authorisation of or for a variation to a medicinal product under Art. 13 \nTPA, should applicants provide the documents submitted to the reference authority for \nthe original procedure or the updated versions of those documents? And in what form \nshould they submit the documents? \nThe documentation submitted to Swissmedic must be identical to that on which the reference \nauthority based its authorisation of the medicinal product or a variation to the product (final version). \nIn parallel with the application, the variations and/or additions approved since the reference authority \ngranted authorisation must also be submitted to Swissmedic. This additional or replacement \ndocumentation can either be integrated within the application documentation or the module in \nquestion, or it can be submitted separately. The variations must be referred to in the cover letter, and \na comparison showing the changes (old/new) must be appended to the corresponding final \nassessment report (see also Chapter 5.1 of guidance document Authorisation of human medicinal \nproducts under Art. 13 TPA). \n \n5 \nWhen applying for authorisation of a medicinal product that has been authorised in over \n20 EU states under a DCP, do the decisions of all 20 states have to be submitted? \nAny application for a medicinal product under Art. 13 TPA that is based on an EU DCP only needs to \ninclude the assessment results and authorisation decision of the Reference Member State (RMS). \nThe decisions and authorisation certificates of the Concerned Member States (CMS) no longer have \nto be submitted to Swissmedic. \n \n6 \nIf a medicinal product was approved under Art. 13 TPA, can variations also only be \nsubmitted under Art. 13 TPA? \nNo, once a medicinal product has been authorised under Art. 13 TPA, applications for variations can \nbe submitted either with or without a request for application of Art. 13 TPA. \n \n7 \nHow does Swissmedic deal with variations in the procedure according to Art. 13 TPA that \nare submitted to Swissmedic after 1 February 2026, but that were approved in the EU \naccording to the ",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "CHE-CONTEXT-2",
+          "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+          "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+          "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+          "start_offset": 8840,
+          "end_offset": 12077,
+          "verbatim_extracted_text": "withdrawn, the Agency will review the documents under the regular procedure. \n \n13 \nIs prior notification of submission (a letter of intent) needed for procedures under Art. 13 \nTPA? \nNo. When completing the form New authorisation of human medicinal products or the form Variations \nand authorisation extensions, applicants should instead answer “yes” to the question of whether they \nwant to request consideration of the results of foreign authorities’ assessments in accordance with \nArt. 13 TPA. The appropriate additional forms (e.g. form Information for application Art.13 TPA) \nshould then be completed in full and returned to Swissmedic in accordance with guidance document \nAuthorisation of human medicinal products under Art. 13 TPA. \n \n14 \nAre oncologicals also eligible for a reduced assessment under Art. 13 TPA for medicinal \nproducts with a new active substance (NAS)? \nYes, provided the product has been granted orphan drug status by the EMA COMP or by the US FDA \nunder the Orphan Drug Act and the product has been authorised by the EMA or FDA. In addition, an \napplication for orphan drug status in Switzerland must already have been approved. \n \n15 \nAre applications for the authorisation of biosimilars under Art. 13 TPA subject to \nadditional requirements? \nThe criteria for applying Art. 13 TPA to applications for the authorisation of biosimilars are geared to \nthe requirements in Chapter 6 of guidance document Authorisation of human medicinal products \nunder Art. 13 TPA. If the criteria for applying Art. 13 TPA are not fulfilled, an interim decision to refuse \napplication of Art. 13 TPA will be issued and the application for authorisation of the biosimilar will be \nreviewed in a normal authorisation procedure. \n \n16 \nIf Swissmedic has rejected an indication for a biosimilar, is it possible to submit this \nindication as an indication extension under Art. 13 TPA? \nYes. Since Swissmedic has rejected the indication in question, however, the reference authority’s \nAssessment Report will have to be evaluated. If this evaluation does not resolve the concerns that led \nto Swissmedic rejecting the indication, the Agency will inspect the basic documentation, but limit this \ninspection to its major concerns. \n \n17 \nIs the CHMP opinion sufficient for an application for authorisation under Art. 13 TPA or is \nit necessary to wait for the Commission Decision? \nThe CxMP / HMPC opinion can be submitted to Swissmedic for first submissions that are based on \nthe EMA's Centralised Procedure. \n \n18 \nBy how much are fees reduced if an application is made to switch a regular authorisation \nprocedure to Art. 13 TPA? \nIf there are parallel procedures, and Swissmedic permits the application of Art. 13 TPA, and the \nresults of the foreign reference authority’s assessment provide a suitable basis, the flat-rate fees \napplicable to individual cases under Art. 10 FeeO-Swissmedic are reduced by 60%. \n \n19 \nDo major objections in the foreign authority’s List of Questions count as major \nconcerns? \nIf the foreign authority has authorised the medicinal product, it can be assumed that the case made by \nthe applicant and/or the data it has supplied have been sufficient to resolve the major objections. \n\n\nPAGE 4\nQ",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "CHE-CTX-1",
+          "source_url": "https://www.swissmedic.ch/dam/swissmedic/en/dokumente/zulassung/zl_hmv_iv/faq-art-13.pdf.download.pdf/191101_QA_Art13_HMG_EN.pdf",
+          "raw_sha256": "f29f29429ec1efbf60061d2591a5387413f252b58f1bda291c044e0dc6954da9",
+          "text_sha256": "5eda85808e4b874f6a638f7cd6cccf3d07edf3ea474bdbf354ebed9e156b866e",
+          "start_offset": 1,
+          "end_offset": 8850,
+          "verbatim_extracted_text": "AGE 1\nQuestions and answers \nArt. 13 TPA \nVersion dated 1 March 2026 \n \n \n \n1 / 5 \nSwissmedic  •  Hallerstrasse 7  •  3012 Berne  •  www.swissmedic.ch  •  Tel. +41 58 414 08 00 \n1 \nIs it no longer necessary to notify Swissmedic if it is more than two years since a \nmedicinal product was last marketed in the countries in which it was authorised? \nNo. Provided the product was withdrawn on purely commercial grounds, there is no longer any \nrequirement to notify Swissmedic. However, if sale of the product has been restricted or stopped in \nother countries because of safety signals, these signals are subject to the mandatory notification \nrequirement under Art. 59 TPA and Arts. 61 and 62 TPO. In such cases, Swissmedic has to be \nnotified of the withdrawal. Consequently, a medicinal product may be withdrawn in another country for \nentirely market-related reasons without the withdrawal affecting its authorisation status in Switzerland. \n \n2 \nIs it possible to apply for authorisation of a co-marketing product of a medicinal product \nthat has been authorised under Art. 13 TPA, and, if so, are the requirements the same as \nfor applications for medicinal products authorised under the regular procedure? \nYes, the requirements are identical. \n \n3 \nThe final report on readability testing has been inserted as section 1.3.4 of the reference \ncountry’s Module 1. Does this report also have to be submitted? \nYes, the documentation submitted to Swissmedic has to be identical to that on which the reference \nauthority based its authorisation of the medicinal product (see also Chapter 5.1 of guidance document \nAuthorisation of human medicinal products under Art. 13 TPA). \n \n4 \nIf pharmacovigilance planning or other updated documents are available for an \napplication for authorisation of or for a variation to a medicinal product under Art. 13 \nTPA, should applicants provide the documents submitted to the reference authority for \nthe original procedure or the updated versions of those documents? And in what form \nshould they submit the documents? \nThe documentation submitted to Swissmedic must be identical to that on which the reference \nauthority based its authorisation of the medicinal product or a variation to the product (final version). \nIn parallel with the application, the variations and/or additions approved since the reference authority \ngranted authorisation must also be submitted to Swissmedic. This additional or replacement \ndocumentation can either be integrated within the application documentation or the module in \nquestion, or it can be submitted separately. The variations must be referred to in the cover letter, and \na comparison showing the changes (old/new) must be appended to the corresponding final \nassessment report (see also Chapter 5.1 of guidance document Authorisation of human medicinal \nproducts under Art. 13 TPA). \n \n5 \nWhen applying for authorisation of a medicinal product that has been authorised in over \n20 EU states under a DCP, do the decisions of all 20 states have to be submitted? \nAny application for a medicinal product under Art. 13 TPA that is based on an EU DCP only needs to \ninclude the assessment results and authorisation decision of the Reference Member State (RMS). \nThe decisions and authorisation certificates of the Concerned Member States (CMS) no longer have \nto be submitted to Swissmedic. \n \n6 \nIf a medicinal product was approved under Art. 13 TPA, can variations also only be \nsubmitted under Art. 13 TPA? \nNo, once a medicinal product has been authorised under Art. 13 TPA, applications for variations can \nbe submitted either with or without a request for application of Art. 13 TPA. \n \n7 \nHow does Swissmedic deal with variations in the procedure according to Art. 13 TPA that \nare submitted to Swissmedic after 1 February 2026, but that were approved in the EU \naccording to the \"old\" catalogue of variations? New from March 2026 \nFor variations that were approved by the EMA according to the \"old\" catalogue, but that are submitted \nto us after 1 February 2026 in the procedure according to Art 13 TPA, the company must submit the \ncorresponding variation using the new Variations and extensions HMP form. The EMA decision is \n\n\nPAGE 2\nQuestions and answers \nArt. 13 TPA \nVersion dated 1 March 2026 \n \n \n \n2 / 5 \nSwissmedic  •  Hallerstrasse 7  •  3012 Berne  •  www.swissmedic.ch  •  Tel. +41 58 414 08 00 \naccepted. The number (e.g. B.II.b.1.c) under which the variation was submitted to the EMA and \napproved is irrelevant, what matters is the EMA's Assessment Report on the variation. However, the \ncompany must check the box for the appropriate variation number in the new Swissmedic form (e.g. \nQ.II.b.1.c). \n \n8 \nCan applications for the authorisation of herbal and complementary medicinal products \nbe submitted under Article 13 TPA? \nYes, Art. 13 TPA can also be applied to applications for the authorisation of herbal and \ncomplementary medicinal products. \n \n9 \nIs it possible to have orphan drugs authorised under Art. 13 TPA using the EU dossier as \nthe reference dossier? \nWe are planning to submit an application for rapid authorisation in Switzerland of a chemical NAS. \nThe substance has Orphan Drug Designation for the indication in question in Switzerland, the EU and \nthe USA. The EMA has issued a positive opinion recommending authorisation, and the EU \nCommission is expected to approve the medicinal product soon. This raises the following questions: \n \na) Is it possible to have the product authorised under Art. 13 TPA using the EU dossier as the \nreference dossier? \nYes, a medicinal product with a new active substance or an indication extension of that product is \neligible for a reduced assessment under Art. 13 TPA if the product has been classified and authorised \nas an orphan drug by the EMA Committee for Orphan Medicinal Products (COMP) or under the FDA \nOrphan Drug Act (see also Chapter 7.1 of guidance document Authorisation of human medicinal \nproducts under Art. 13 TPA). \n \nb) How much time does submitting under Art. 13 TPA save? \nThe processing times for authorisation procedures under Art. 13 TPA are those set out in guidance \ndocument Time limits for authorisation applications for the relevant application type. The procedure \nfor applications under Art. 13 TPA will be shorter if no List of Questions has to be issued and the \npreliminary decision can be issued straight away. \n \n10 \nCan authorisation of a medicinal product (NAS) with orphan drug status in Switzerland \nand the USA but not in the EU be applied for in application of Art. 13 TPA with reference \nto the EMA authorisation?  \nYes, the reference country for the status (ODS) and that for the authorisation (in the procedure \naccording to Art. 13 TPA) do not have to be the same. \nWhat is important is that the medicinal product notified in Switzerland under Art. 13 TPA is the same \nproduct (or the same active substance) as that recognised or authorised abroad (in this case, in the \nUSA and EU). \n \n11 \nAre medicinal products with a new active substance (NAS) that have orphan drug status \nin Switzerland but not in the EU or USA, but which are nevertheless authorised in the EU \nand/or USA, eligible for Article 13 TPA?  \nNo. Art. 13 TPA can only be applied to an application for authorisation of a medicinal product with a \nnew active substance if the product in question has been granted orphan drug status by the EMA or \nFDA. In addition, the medicinal product must have been authorised by the EMA or FDA and an \napplication for orphan drug status in Switzerland must already have been approved before the \napplication for authorisation is submitted. \n \n12 \nWhat is the further procedure if an assessment under Art. 13 TPA is not “approved”? \nSwissmedic does not “approve” assessments under Art. 13 TPA. Article 13 TPA states that \nSwissmedic will factor the results of foreign authorities’ assessments into its own review. Arts. 16–20 \nTPO specify which documents have to be submitted to Swissmedic to ensure that the Agency \n\n\nPAGE 3\nQuestions and answers \nArt. 13 TPA \nVersion dated 1 March 2026 \n \n \n \n3 / 5 \nSwissmedic  •  Hallerstrasse 7  •  3012 Berne  •  www.swissmedic.ch  •  Tel. +41 58 414 08 00 \nconsiders the results of assessments carried out abroad in its authorisation decision. Swissmedic \nexamines whether the criteria set out in Arts. 16–20 TPO for the application of Art. 13 TPA have been \nfulfilled. If they have not, the applicant will be notified accordingly by means of a preliminary decision \nRejection of application to apply Art. 13 TPA. The applicant then has the option of responding to the \npreliminary decision or of withdrawing its application. Swissmedic will examine the applicant’s \nresponse and decide if Art. 13 TPA can be applied. Unless informed otherwise, and assuming the \napplication is not withdrawn,",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

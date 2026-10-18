@@ -130,5 +130,608 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "TON",
+    "country": "Tonga",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Foreign registration as alternative evidence; local suitability",
+    "source_url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/2001/2001-0003/TherapeuticGoodsAct2001_1.pdf",
+    "document_id": "4140a88c359818ed3674",
+    "genre": "Statute",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Therapeutic Goods Act 2001 section 7 plus section 8 and Schedule reviewed. Schedule headed countries of manufacture includes USA. Foreign registration is alternative evidence inside domestic suitability/quality/safety/efficacy test; no automatic waiver of every assessment.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "Any medicinal drug subject to registered-list criteria.",
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Scheduled countries: Australia, Canada, Fiji, Sweden, UK, USA, New Zealand.",
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "Registration in one scheduled country OR assessed detailed submission.",
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Manufacturer establishes foreign registration; registered list records brand, INN and manufacture.",
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Committee satisfied quality, safety, efficacy, pharmacopeial standard and appropriateness for Tonga.",
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Manufacturer/licensed importer applies before new drug imported or offered; detailed-submission branch mentions prescribed fee.",
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Committee must be satisfied with criteria; foreign approval not alone sufficient.",
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TON-Q01",
+          "TON-CTX-1",
+          "TON-CTX-2"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "TON-Q01",
+        "source_document_id": "4140a88c359818ed3674",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 13,
+        "source_url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/2001/2001-0003/TherapeuticGoodsAct2001_1.pdf",
+        "raw_sha256": "ac71893d558a8513c663840494a4a7cb0d80ca4e3cbebd88466d9ffcdee45647",
+        "text_sha256": "ec470c1f73cb6bdf5c29028ee1ca2318fe7e23939ed8dc0944441075fbe9f7fc",
+        "exact_text": "Criteria for inclusion in the Registered List \nA medicinal drug may be included in the registered list only if the Committee is \nsatisfied that the medicinal drug— \n(a) \nis of acceptable quality; \n(b) \nmeets an acceptable safety profile; \n(c) \nis of demonstrated efficacy;` \n(d) \nis of United States Pharmacopoeia or British Pharmacopoeia \nstandard or proven equivalent standard; \n(e) \nhas been proven by the manufacturer to be registered in one of the \ncountries listed in the Schedule or following assessment of a \ndetailed submission by the manufacturer, and payment of the \nprescribed fee, is found to meet the requirements of subsections (1) \nto (4); and \n(f) \nwould be appropriate for use in Tonga.",
+        "start": 20785,
+        "end": 21489,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "TON-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/2001/2001-0003/TherapeuticGoodsAct2001_1.pdf",
+        "raw_sha256": "ac71893d558a8513c663840494a4a7cb0d80ca4e3cbebd88466d9ffcdee45647",
+        "text_sha256": "ec470c1f73cb6bdf5c29028ee1ca2318fe7e23939ed8dc0944441075fbe9f7fc",
+        "exact_text": " \nSection 6\n \n \nNo. 3 of 2001 \nto\n   \nPage 13 \n \n(3) \nThe Committee shall annually review the content of the registered list and \nmay amend any of the Classes of the registered list and give notice in the \nGazette. \n(4) \nThe registered list may be kept in electronic format. \n6 \nAdvice as to content of registered list \nThe registered list shall record the medicinal drugs both by brand name and \nInternational Non-propriety Name (INN) and chall include the place of \nmanufacture. \n7 \nCriteria for inclusion in the Registered List \nA medicinal drug may be included in the registered list only if the Committee is \nsatisfied that the medicinal drug— \n(a) \nis of acceptable quality; \n(b) \nmeets an acceptable safety profile; \n(c) \nis of demonstrated efficacy;` \n(d) \nis of United States Pharmacopoeia or British Pharmacopoeia \nstandard or proven equivalent standard; \n(e) \nhas been proven by the manufacturer to be registered in one of the \ncountries listed in the Schedule or following assessment of a \ndetailed submission by the manufacturer, and payment of the \nprescribed fee, is found to meet the requirements of subsections (1) \nto (4); and \n(f) \nwould be appropriate for use in Tonga. \n8 \nApplication for inclusion in registered list \n(1) \nBefore any new medicinal drug is imported or offered for sale, the \nmanufacturer of the medicinal drug or the licensed importer shall make an \napplication to the Committee for— \n(a) \ninclusion of the medicinal drug in the registered list; and \n(b) \nallocation to the Class of the registered list in which it is to be \nincluded. \n(2) \nAny application for inclusion shall be made in the manner and form \nspecified by the Committee and shall be accompanied by— \n(a) \ninclusion of the medicinal drug in the registered list; and \n(b) \nallocation to the Class of the registered list in which it is to be \nincluded. \n\n\nPAGE 14\nSection 9 \nTherapeutic Goods Act 2001\n \n \nNo. 3 of 2001 \nPage 14 \n  \nto \n \n(2) \nAny application for inclusion shall be made in the manner and form \nspecified by the Committee and shall be accompanied by— \n(a) \nthe specified fee; \n(b) \na World Health Organization Certificate for a Pharmaceutical \nProduct Moving in International Commerce, in the prescribed \nformat and signed by the government regulatory authority in a \ncountry which is a signatory to the World Health Organization \nCertification Scheme, the country being that in which the \nmanufacture has occurred, so long as the medicinal drug has been \nregistered for sale on the local market in the country of \nmanufacture; and \n(c) \nany other documentation required under the power contained within \nsubsection (3). \n(3) \n \n(a) \nThe secretary of the Committee may, by notice in writing given to \nthe applicant, require the applicant to give the Committee, within \nsuch reasonab",
+        "start": 20300,
+        "end": 23100,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "TON-CTX-2",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/2001/2001-0003/TherapeuticGoodsAct2001_1.pdf",
+        "raw_sha256": "ac71893d558a8513c663840494a4a7cb0d80ca4e3cbebd88466d9ffcdee45647",
+        "text_sha256": "ec470c1f73cb6bdf5c29028ee1ca2318fe7e23939ed8dc0944441075fbe9f7fc",
+        "exact_text": "mporary registered list shall cease to exist upon the creation of the \nregistered list. \n\n\nPAGE 37\nTherapeutic Goods Act 2001 \nSCHEDULE\n \n \nNo. 3 of 2001 \nto\n   \nPage 37 \n \nSCHEDULE \n(Section 7(e)) \nCOUNTRIES OF MANUFACTURE \nAustralia \nCanada \nFiji \nSweden \nUnited Kingdom \nUnited States of America \nNew Zealand \n \nPassed by the Legislative Assembly this 11 day of July, 2001. \n \n",
+        "start": 72400,
+        "end": 72780,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "TON",
+      "country": "Tonga",
+      "selected_document_id": "4140a88c359818ed3674",
+      "source_id": "c8a2b2a7e4f2b7f8",
+      "pathway": "Foreign registration as alternative evidence; local suitability",
+      "source_url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/2001/2001-0003/TherapeuticGoodsAct2001_1.pdf",
+      "document_title": "Tonga Therapeutic Goods Act2001 original",
+      "source_type": "Statute",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "TON-Q01": null
+        }
+      ],
+      "raw_sha256": "ac71893d558a8513c663840494a4a7cb0d80ca4e3cbebd88466d9ffcdee45647",
+      "raw_hash_validated": true,
+      "text_sha256": "ec470c1f73cb6bdf5c29028ee1ca2318fe7e23939ed8dc0944441075fbe9f7fc",
+      "version_dates": {
+        "passage_date": "2001-07-11"
+      },
+      "version_scope_note": "Therapeutic Goods Act 2001 section 7 plus section 8 and Schedule reviewed. Schedule headed countries of manufacture includes USA. Foreign registration is alternative evidence inside domestic suitability/quality/safety/efficacy test; no automatic waiver of every assessment.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          20785,
+          21489
+        ],
+        [
+          20300,
+          23100
+        ],
+        [
+          72400,
+          72780
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "Any medicinal drug subject to registered-list criteria.",
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Scheduled countries: Australia, Canada, Fiji, Sweden, UK, USA, New Zealand.",
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "Registration in one scheduled country OR assessed detailed submission.",
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Manufacturer establishes foreign registration; registered list records brand, INN and manufacture.",
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Committee satisfied quality, safety, efficacy, pharmacopeial standard and appropriateness for Tonga.",
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Manufacturer/licensed importer applies before new drug imported or offered; detailed-submission branch mentions prescribed fee.",
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Committee must be satisfied with criteria; foreign approval not alone sufficient.",
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TON-Q01",
+            "TON-CTX-1",
+            "TON-CTX-2"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "TON-Q01",
+          "source_document_id": "4140a88c359818ed3674",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 13,
+          "source_url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/2001/2001-0003/TherapeuticGoodsAct2001_1.pdf",
+          "raw_sha256": "ac71893d558a8513c663840494a4a7cb0d80ca4e3cbebd88466d9ffcdee45647",
+          "text_sha256": "ec470c1f73cb6bdf5c29028ee1ca2318fe7e23939ed8dc0944441075fbe9f7fc",
+          "exact_text": "Criteria for inclusion in the Registered List \nA medicinal drug may be included in the registered list only if the Committee is \nsatisfied that the medicinal drug— \n(a) \nis of acceptable quality; \n(b) \nmeets an acceptable safety profile; \n(c) \nis of demonstrated efficacy;` \n(d) \nis of United States Pharmacopoeia or British Pharmacopoeia \nstandard or proven equivalent standard; \n(e) \nhas been proven by the manufacturer to be registered in one of the \ncountries listed in the Schedule or following assessment of a \ndetailed submission by the manufacturer, and payment of the \nprescribed fee, is found to meet the requirements of subsections (1) \nto (4); and \n(f) \nwould be appropriate for use in Tonga.",
+          "start": 20785,
+          "end": 21489,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "TON-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/2001/2001-0003/TherapeuticGoodsAct2001_1.pdf",
+          "raw_sha256": "ac71893d558a8513c663840494a4a7cb0d80ca4e3cbebd88466d9ffcdee45647",
+          "text_sha256": "ec470c1f73cb6bdf5c29028ee1ca2318fe7e23939ed8dc0944441075fbe9f7fc",
+          "exact_text": " \nSection 6\n \n \nNo. 3 of 2001 \nto\n   \nPage 13 \n \n(3) \nThe Committee shall annually review the content of the registered list and \nmay amend any of the Classes of the registered list and give notice in the \nGazette. \n(4) \nThe registered list may be kept in electronic format. \n6 \nAdvice as to content of registered list \nThe registered list shall record the medicinal drugs both by brand name and \nInternational Non-propriety Name (INN) and chall include the place of \nmanufacture. \n7 \nCriteria for inclusion in the Registered List \nA medicinal drug may be included in the registered list only if the Committee is \nsatisfied that the medicinal drug— \n(a) \nis of acceptable quality; \n(b) \nmeets an acceptable safety profile; \n(c) \nis of demonstrated efficacy;` \n(d) \nis of United States Pharmacopoeia or British Pharmacopoeia \nstandard or proven equivalent standard; \n(e) \nhas been proven by the manufacturer to be registered in one of the \ncountries listed in the Schedule or following assessment of a \ndetailed submission by the manufacturer, and payment of the \nprescribed fee, is found to meet the requirements of subsections (1) \nto (4); and \n(f) \nwould be appropriate for use in Tonga. \n8 \nApplication for inclusion in registered list \n(1) \nBefore any new medicinal drug is imported or offered for sale, the \nmanufacturer of the medicinal drug or the licensed importer shall make an \napplication to the Committee for— \n(a) \ninclusion of the medicinal drug in the registered list; and \n(b) \nallocation to the Class of the registered list in which it is to be \nincluded. \n(2) \nAny application for inclusion shall be made in the manner and form \nspecified by the Committee and shall be accompanied by— \n(a) \ninclusion of the medicinal drug in the registered list; and \n(b) \nallocation to the Class of the registered list in which it is to be \nincluded. \n\n\nPAGE 14\nSection 9 \nTherapeutic Goods Act 2001\n \n \nNo. 3 of 2001 \nPage 14 \n  \nto \n \n(2) \nAny application for inclusion shall be made in the manner and form \nspecified by the Committee and shall be accompanied by— \n(a) \nthe specified fee; \n(b) \na World Health Organization Certificate for a Pharmaceutical \nProduct Moving in International Commerce, in the prescribed \nformat and signed by the government regulatory authority in a \ncountry which is a signatory to the World Health Organization \nCertification Scheme, the country being that in which the \nmanufacture has occurred, so long as the medicinal drug has been \nregistered for sale on the local market in the country of \nmanufacture; and \n(c) \nany other documentation required under the power contained within \nsubsection (3). \n(3) \n \n(a) \nThe secretary of the Committee may, by notice in writing given to \nthe applicant, require the applicant to give the Committee, within \nsuch reasonab",
+          "start": 20300,
+          "end": 23100,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "TON-CTX-2",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/2001/2001-0003/TherapeuticGoodsAct2001_1.pdf",
+          "raw_sha256": "ac71893d558a8513c663840494a4a7cb0d80ca4e3cbebd88466d9ffcdee45647",
+          "text_sha256": "ec470c1f73cb6bdf5c29028ee1ca2318fe7e23939ed8dc0944441075fbe9f7fc",
+          "exact_text": "mporary registered list shall cease to exist upon the creation of the \nregistered list. \n\n\nPAGE 37\nTherapeutic Goods Act 2001 \nSCHEDULE\n \n \nNo. 3 of 2001 \nto\n   \nPage 37 \n \nSCHEDULE \n(Section 7(e)) \nCOUNTRIES OF MANUFACTURE \nAustralia \nCanada \nFiji \nSweden \nUnited Kingdom \nUnited States of America \nNew Zealand \n \nPassed by the Legislative Assembly this 11 day of July, 2001. \n \n",
+          "start": 72400,
+          "end": 72780,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

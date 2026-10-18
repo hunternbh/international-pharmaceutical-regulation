@@ -304,5 +304,741 @@
     "source_hashes": [
       "cfe64be330a434935beca391ef27ba037bb6baefe776dd1e436bd50394905f40"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ETH",
+    "country": "Ethiopia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Verification and abridged review",
+    "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+    "document_id": "e5b95dcffdfbc1f11b0f",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "EFDA guidelinev 0032024, unilateral abridged versus WHO/regional/bilateral mechanisms separated. Public reports and nonpublic requests are not an unconditional report gate.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "One or more listed reference approvals; ordinary nationalRRA approvals categoryB abridged, WHO/IGAD/AMA/global-health categoryA verification.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "explicit requirement",
+        "finding": "Reference-registered product marketed in relevant market.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same formulation, manufacturers/sites, APIs/excipients and relevant product information; full CTD and variations documented.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Reference assessment or portal link, publicEPAR/acceptance material accepted; unredacted reports if applicable and nonpublic reports may be requested.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "discretionary/conditional",
+        "finding": "Public material expressly allowed as supporting information; further nonpublic material may be requested.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "discretionary/conditional",
+        "finding": "Consent explicit for WHO collaborative pathway; not silently imposed universally on unilateral FDA abridged route.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "discretionary/conditional",
+        "finding": "Bilateral written information-exchange arrangement concerns bilateral sharing; not established mandatory for every public-material unilateral route.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "discretionary/conditional",
+        "finding": "Foreign/EFDA GMP evidence and local stability/quality information retained.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Local benefit/risk, climate/storage, population and use assessed; optional bridging report.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Timeline incorporated by MA directive 963/2023; no invented universal numeric target.",
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ETH-Q01",
+          "ETH-Q02",
+          "ETH-CONTEXT-1",
+          "ETH-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "ETH-Q01",
+        "iso3": "ETH",
+        "event_id": "ETH_096",
+        "document_id": "e5b95dcffdfbc1f11b0f",
+        "source_id": "513a5e906cc6e637",
+        "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+        "raw_sha256": "852f42d855d388e9dc9ab11a5f89aec8b3eef5d2e79c69161fefb2bbb8cf7283",
+        "text_sha256": "faf8734d0515a33069d1f1339a4e45104b82554a8028f09be7cd303efe25bb8c",
+        "start_offset": 15056,
+        "end_offset": 18690,
+        "pdf_page": 8,
+        "verbatim_extracted_text": "6.1. Verification Review \nVerification and recognition focus on verifying the authenticity and completeness of documented \nevidence submitted by the applicant.  It is applicable for products approved by reference authorities or \ninstitution. The verifications involve confirmation of sameness of submitted data with the applications \nsubmitted to the reference authority or institution. Both the medicine and the dossier submitted to \nEFDA should be the same as the one that has been assessed by the reference regulatory authority or \ntrusted institution with respect to its essential characteristics (e.g. same qualitative and quantitative \ncomposition, strength, pharmaceutical form, intended use, manufacturing process, suppliers of active \npharmaceutical ingredients, and quality of all excipients and manufactured at the same manufacturing \nsite). This involves procedures in which the EFDA accepts the decision of reference regulatory \nauthority or trusted institution except country specific requirements. \nVerification is particularly applicable for products approved under WHO-prequalification programs, \nthose assessed and accepted under AMA and IGAD.  \n\nPAGE 9\nEFDA/GDL/042 \nVersion: 003 \nPage 9 of 24 \n \n6.2. Abridged Review \nThe reference regulatory authority`s or trusted institution’s assessments may not always account for \nspecific circumstances that can significantly affect the benefit-risk of a medicines in other countries or \nregions.  Hence, this review focuses on assessing specific aspects of the dossier that are relevant to the \nEthiopian context while relying on prior evaluations conducted by trusted authorities or institutions. It \ninvolves either confirmation of the applicability of the assessment outcomes or performing assessment \nof a specific section of the application dossier regarding the safety, efficacy and quality data, in view of \nthe information provided in the assessment reports of the reference regulatory authority or trusted \ninstitution. \nIn the case of products approved by the reference regulatory authorities or institutions with which the \nauthority has no mutual recognition agreements, EFDA may accept the decision of the RRAs or \ntrusted institutions based on the partial review of selected sections and/or modules of the application \ndossier.  Such review is applicable for products assessed and accepted by the regional economic \ncommunities (RECs) other than AMA and IGAD or agencies evaluating medicines for global health \nprogram such as EMA article 58 and through the Swiss medic’s Marketing Authorization for Global \nHealth products or the International Generic Drug Regulatory Programme could also considered \nunder this scheme \n \n6.3. Eligibility for granting Marketing Authorization through reliance procedures  \n \n1) Medicines prequalified by WHO collaborative registration. \n2) Medicines approved by EFDA recognized reference regulatory authority,  \n3) Medicines evaluated for Global Health Program:  Medicine approved by Swissmedic’s, Health \nCanada, EU-Medicines for all or 'EU-M4all' \n4) For medicines that has been evaluated and accepted via joint assessment (e.g. by IGAD, \nAMA). \n5) For medicines that has been granted marketing authorization by NRA of a country that has \nsigned   mutual or multilateral recognition agreement with EFDA,  \n6) For medicines that have been approved by different regional economic communities (RECs) \nas part of African Medicines Regulatory Harmonization (AMRH) initiatives, and WHO-listed \n\nPAGE 10\nEFDA/GDL/042 \nVersion: 003 \nPage 10 of 24 \n \nagencies may be considered through the reliance pathways in a case by case basis.",
+        "display_text": "6.1. Verification Review Verification and recognition focus on verifying the authenticity and completeness of documented evidence submitted by the applicant. It is applicable for products approved by reference authorities or institution. The verifications involve confirmation of sameness of submitted data with the applications submitted to the reference authority or institution. Both the medicine and the dossier submitted to EFDA should be the same as the one that has been assessed by the reference regulatory authority or trusted institution with respect to its essential characteristics (e.g. same qualitative and quantitative composition, strength, pharmaceutical form, intended use, manufacturing process, suppliers of active pharmaceutical ingredients, and quality of all excipients and manufactured at the same manufacturing site). This involves procedures in which the EFDA accepts the decision of reference regulatory authority or trusted institution except country specific requirements. Verification is particularly applicable for products approved under WHO-prequalification programs, those assessed and accepted under AMA and IGAD. PAGE 9 EFDA/GDL/042 Version: 003 Page 9 of 24 6.2. Abridged Review The reference regulatory authority`s or trusted institution’s assessments may not always account for specific circumstances that can significantly affect the benefit-risk of a medicines in other countries or regions. Hence, this review focuses on assessing specific aspects of the dossier that are relevant to the Ethiopian context while relying on prior evaluations conducted by trusted authorities or institutions. It involves either confirmation of the applicability of the assessment outcomes or performing assessment of a specific section of the application dossier regarding the safety, efficacy and quality data, in view of the information provided in the assessment reports of the reference regulatory authority or trusted institution. In the case of products approved by the reference regulatory authorities or institutions with which the authority has no mutual recognition agreements, EFDA may accept the decision of the RRAs or trusted institutions based on the partial review of selected sections and/or modules of the application dossier. Such review is applicable for products assessed and accepted by the regional economic communities (RECs) other than AMA and IGAD or agencies evaluating medicines for global health program such as EMA article 58 and through the Swiss medic’s Marketing Authorization for Global Health products or the International Generic Drug Regulatory Programme could also considered under this scheme 6.3. Eligibility for granting Marketing Authorization through reliance procedures 1) Medicines prequalified by WHO collaborative registration. 2) Medicines approved by EFDA recognized reference regulatory authority, 3) Medicines evaluated for Global Health Program: Medicine approved by Swissmedic’s, Health Canada, EU-Medicines for all or 'EU-M4all' 4) For medicines that has been evaluated and accepted via joint assessment (e.g. by IGAD, AMA). 5) For medicines that has been granted marketing authorization by NRA of a country that has signed mutual or multilateral recognition agreement with EFDA, 6) For medicines that have been approved by different regional economic communities (RECs) as part of African Medicines Regulatory Harmonization (AMRH) initiatives, and WHO-listed PAGE 10 EFDA/GDL/042 Version: 003 Page 10 of 24 agencies may be considered through the reliance pathways in a case by case basis.",
+        "feature_tags": [
+          "sameness",
+          "local_evidence",
+          "discretion",
+          "reports",
+          "scope_limit"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version 003/2024; supplements older event text without claiming it is the 2022 wording",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "ETH-Q02",
+        "iso3": "ETH",
+        "event_id": "ETH_096",
+        "document_id": "e5b95dcffdfbc1f11b0f",
+        "source_id": "513a5e906cc6e637",
+        "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+        "raw_sha256": "852f42d855d388e9dc9ab11a5f89aec8b3eef5d2e79c69161fefb2bbb8cf7283",
+        "text_sha256": "faf8734d0515a33069d1f1339a4e45104b82554a8028f09be7cd303efe25bb8c",
+        "start_offset": 18761,
+        "end_offset": 22830,
+        "pdf_page": 10,
+        "verbatim_extracted_text": "a) Applications dossier should be only for products assessed and accepted by the reference \nregulatory authorities or trusted institutions \nb) The applicant should declare the “sameness” of the reference regulatory authority or trust \ninstitution-approved medicine with the one applied for marketing authorization of \nmedicine by the authority. These shall include, but not limited to:  \n qualitative and quantitative formulation; \n manufacturing site(s) for API and FPP including specific block(s)/unit(s),  \n processes, control of materials and final product,  \n in the case of vaccines, batch release scheme; \n specifications for excipient, API and FPP \n essential elements of product information \nc) If any differences exist between the dossier submitted to EFDA and the dossier submitted to a \nrecognized regulatory authority or institution, all such differences should be clearly indicated and \njustified.  \nd) The submitted product should be prequalified and/or registered and marketed in the market \nof one of the reference regulatory authority’s countries, except for products prequalified \nby WHO jointly assessed products and products approved for global health program. \ne)  Submission of the application dossier should be through the electronic Regulatory \nInformation System (eRIS) portal, via appropriate route of application \nf) For WHO prequalified product, the applicant should provide the “Quality information \nsummary” together with the dossier.   \ng) The applicant should confirm in writing that the review(s) provided is/are complete and \nunaltered.  \nh) The reference regulatory authority(s) or trusted institutions assessment reports or at least \naccess or link to the portal on the web site of that reference regulatory authority should be \nprovided \ni) Commitment letter to notify the EFDA when there is pending variation, withdrawal from \n\nPAGE 11\nEFDA/GDL/042 \nVersion: 003 \nPage 11 of 24 \n \nthe market or banned by reference regulatory or trusted body due to any notice of concern   \nj) GMP waiver certificate/letter issued by EFDA and copy of valid GMP issued by any of \nthe RRA, laboratory testing report (when applicable), and safety report (when applicable)  \nk) Unredacted assessment report from the Reference regulatory authority, if applicable \nl) Full modules with CTD document as per the Guideline for Registration of Medicines  \nm) A declaration indicating that any post approval changes were reported and accepted by the \nreference regulatory authority or trusted institution. This declaration should include the list \nof variations not yet accepted by reference regulatory authority or trusted institution and \nsection of the dossier affected by the accepted variations. \nn) A copy of the marketing authorization, or the equivalent thereof, issued by the reference \nNRA or institution to demonstrate that the product is registered or licensed in accordance \nwith the reference NRA or institution requirements. If applicable, a copy of the latest \nrenewal of the marketing authorization should also be provided. \no) Public assessment report(s) and/or final acceptance letter issued by the NRA or institution \nsuch as the Scientific Discussion of the European Public Assessment Report (EPAR), \nissued by the reference NRAs or institution. Assessment report(s) issued by the reference \nSRA that are not publicly available may be requested. \np) The latest SRA-approved product information (summary of product characteristics \n(SmPC), or an equivalent thereof, the patient information leaflet (PIL), or equivalent \nthereof, and the labelling).  \nq) A copy of the currently approved FPP specifications (release and shelf-life), dated and \nsigned or certified by authorized personnel, with the analytical test procedures in \nappropriate section of the dossier. \nr) Stability study report conduct as per the conditions prescribed in the Medicine Registration \nGuideline of the Authority. \ns) A copy of the recent Annual Product quality review Report as described in Appendix 1 of \nMedicine Registration Guideline of the Authority.",
+        "display_text": "a) Applications dossier should be only for products assessed and accepted by the reference regulatory authorities or trusted institutions b) The applicant should declare the “sameness” of the reference regulatory authority or trust institution-approved medicine with the one applied for marketing authorization of medicine by the authority. These shall include, but not limited to:  qualitative and quantitative formulation;  manufacturing site(s) for API and FPP including specific block(s)/unit(s),  processes, control of materials and final product,  in the case of vaccines, batch release scheme;  specifications for excipient, API and FPP  essential elements of product information c) If any differences exist between the dossier submitted to EFDA and the dossier submitted to a recognized regulatory authority or institution, all such differences should be clearly indicated and justified. d) The submitted product should be prequalified and/or registered and marketed in the market of one of the reference regulatory authority’s countries, except for products prequalified by WHO jointly assessed products and products approved for global health program. e) Submission of the application dossier should be through the electronic Regulatory Information System (eRIS) portal, via appropriate route of application f) For WHO prequalified product, the applicant should provide the “Quality information summary” together with the dossier. g) The applicant should confirm in writing that the review(s) provided is/are complete and unaltered. h) The reference regulatory authority(s) or trusted institutions assessment reports or at least access or link to the portal on the web site of that reference regulatory authority should be provided i) Commitment letter to notify the EFDA when there is pending variation, withdrawal from PAGE 11 EFDA/GDL/042 Version: 003 Page 11 of 24 the market or banned by reference regulatory or trusted body due to any notice of concern j) GMP waiver certificate/letter issued by EFDA and copy of valid GMP issued by any of the RRA, laboratory testing report (when applicable), and safety report (when applicable) k) Unredacted assessment report from the Reference regulatory authority, if applicable l) Full modules with CTD document as per the Guideline for Registration of Medicines m) A declaration indicating that any post approval changes were reported and accepted by the reference regulatory authority or trusted institution. This declaration should include the list of variations not yet accepted by reference regulatory authority or trusted institution and section of the dossier affected by the accepted variations. n) A copy of the marketing authorization, or the equivalent thereof, issued by the reference NRA or institution to demonstrate that the product is registered or licensed in accordance with the reference NRA or institution requirements. If applicable, a copy of the latest renewal of the marketing authorization should also be provided. o) Public assessment report(s) and/or final acceptance letter issued by the NRA or institution such as the Scientific Discussion of the European Public Assessment Report (EPAR), issued by the reference NRAs or institution. Assessment report(s) issued by the reference SRA that are not publicly available may be requested. p) The latest SRA-approved product information (summary of product characteristics (SmPC), or an equivalent thereof, the patient information leaflet (PIL), or equivalent thereof, and the labelling). q) A copy of the currently approved FPP specifications (release and shelf-life), dated and signed or certified by authorized personnel, with the analytical test procedures in appropriate section of the dossier. r) Stability study report conduct as per the conditions prescribed in the Medicine Registration Guideline of the Authority. s) A copy of the recent Annual Product quality review Report as described in Appendix 1 of Medicine Registration Guideline of the Authority.",
+        "feature_tags": [
+          "sameness",
+          "foreign_marketing",
+          "reports"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version 003/2024; supplements older event text without claiming it is the 2022 wording",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "ETH-CONTEXT-1",
+        "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+        "raw_sha256": "852f42d855d388e9dc9ab11a5f89aec8b3eef5d2e79c69161fefb2bbb8cf7283",
+        "text_sha256": "faf8734d0515a33069d1f1339a4e45104b82554a8028f09be7cd303efe25bb8c",
+        "start_offset": 14306,
+        "end_offset": 23830,
+        "verbatim_extracted_text": "e its decision after \nconfirmation of the applicability of the assessment outcomes. \nConformity of the assessment outcome includes assessing legal and regulatory settings, benefit-risk \nassessment, comorbidities, unmet medical needs, risk management plans, and quality-related \nspecificities such as climatic zones for product stability. In case of any differences, such as in the \ntarget population, epidemiology, and other disease-related features, concomitantly used medicines, \nand other factors that can substantially affect the benefit-risk profile of the medicine, as well as quality \nparameters, particularly related to the stability under different climatic conditions, the authority may \nrequest additional data or reject the application. \n6.1. Verification Review \nVerification and recognition focus on verifying the authenticity and completeness of documented \nevidence submitted by the applicant.  It is applicable for products approved by reference authorities or \ninstitution. The verifications involve confirmation of sameness of submitted data with the applications \nsubmitted to the reference authority or institution. Both the medicine and the dossier submitted to \nEFDA should be the same as the one that has been assessed by the reference regulatory authority or \ntrusted institution with respect to its essential characteristics (e.g. same qualitative and quantitative \ncomposition, strength, pharmaceutical form, intended use, manufacturing process, suppliers of active \npharmaceutical ingredients, and quality of all excipients and manufactured at the same manufacturing \nsite). This involves procedures in which the EFDA accepts the decision of reference regulatory \nauthority or trusted institution except country specific requirements. \nVerification is particularly applicable for products approved under WHO-prequalification programs, \nthose assessed and accepted under AMA and IGAD.  \n\nPAGE 9\nEFDA/GDL/042 \nVersion: 003 \nPage 9 of 24 \n \n6.2. Abridged Review \nThe reference regulatory authority`s or trusted institution’s assessments may not always account for \nspecific circumstances that can significantly affect the benefit-risk of a medicines in other countries or \nregions.  Hence, this review focuses on assessing specific aspects of the dossier that are relevant to the \nEthiopian context while relying on prior evaluations conducted by trusted authorities or institutions. It \ninvolves either confirmation of the applicability of the assessment outcomes or performing assessment \nof a specific section of the application dossier regarding the safety, efficacy and quality data, in view of \nthe information provided in the assessment reports of the reference regulatory authority or trusted \ninstitution. \nIn the case of products approved by the reference regulatory authorities or institutions with which the \nauthority has no mutual recognition agreements, EFDA may accept the decision of the RRAs or \ntrusted institutions based on the partial review of selected sections and/or modules of the application \ndossier.  Such review is applicable for products assessed and accepted by the regional economic \ncommunities (RECs) other than AMA and IGAD or agencies evaluating medicines for global health \nprogram such as EMA article 58 and through the Swiss medic’s Marketing Authorization for Global \nHealth products or the International Generic Drug Regulatory Programme could also considered \nunder this scheme \n \n6.3. Eligibility for granting Marketing Authorization through reliance procedures  \n \n1) Medicines prequalified by WHO collaborative registration. \n2) Medicines approved by EFDA recognized reference regulatory authority,  \n3) Medicines evaluated for Global Health Program:  Medicine approved by Swissmedic’s, Health \nCanada, EU-Medicines for all or 'EU-M4all' \n4) For medicines that has been evaluated and accepted via joint assessment (e.g. by IGAD, \nAMA). \n5) For medicines that has been granted marketing authorization by NRA of a country that has \nsigned   mutual or multilateral recognition agreement with EFDA,  \n6) For medicines that have been approved by different regional economic communities (RECs) \nas part of African Medicines Regulatory Harmonization (AMRH) initiatives, and WHO-listed \n\nPAGE 10\nEFDA/GDL/042 \nVersion: 003 \nPage 10 of 24 \n \nagencies may be considered through the reliance pathways in a case by case basis. \n7. Requirements for application submission \n7.1. General conditions \na) Applications dossier should be only for products assessed and accepted by the reference \nregulatory authorities or trusted institutions \nb) The applicant should declare the “sameness” of the reference regulatory authority or trust \ninstitution-approved medicine with the one applied for marketing authorization of \nmedicine by the authority. These shall include, but not limited to:  \n qualitative and quantitative formulation; \n manufacturing site(s) for API and FPP including specific block(s)/unit(s),  \n processes, control of materials and final product,  \n in the case of vaccines, batch release scheme; \n specifications for excipient, API and FPP \n essential elements of product information \nc) If any differences exist between the dossier submitted to EFDA and the dossier submitted to a \nrecognized regulatory authority or institution, all such differences should be clearly indicated and \njustified.  \nd) The submitted product should be prequalified and/or registered and marketed in the market \nof one of the reference regulatory authority’s countries, except for products prequalified \nby WHO jointly assessed products and products approved for global health program. \ne)  Submission of the application dossier should be through the electronic Regulatory \nInformation System (eRIS) portal, via appropriate route of application \nf) For WHO prequalified product, the applicant should provide the “Quality information \nsummary” together with the dossier.   \ng) The applicant should confirm in writing that the review(s) provided is/are complete and \nunaltered.  \nh) The reference regulatory authority(s) or trusted institutions assessment reports or at least \naccess or link to the portal on the web site of that reference regulatory authority should be \nprovided \ni) Commitment letter to notify the EFDA when there is pending variation, withdrawal from \n\nPAGE 11\nEFDA/GDL/042 \nVersion: 003 \nPage 11 of 24 \n \nthe market or banned by reference regulatory or trusted body due to any notice of concern   \nj) GMP waiver certificate/letter issued by EFDA and copy of valid GMP issued by any of \nthe RRA, laboratory testing report (when applicable), and safety report (when applicable)  \nk) Unredacted assessment report from the Reference regulatory authority, if applicable \nl) Full modules with CTD document as per the Guideline for Registration of Medicines  \nm) A declaration indicating that any post approval changes were reported and accepted by the \nreference regulatory authority or trusted institution. This declaration should include the list \nof variations not yet accepted by reference regulatory authority or trusted institution and \nsection of the dossier affected by the accepted variations. \nn) A copy of the marketing authorization, or the equivalent thereof, issued by the reference \nNRA or institution to demonstrate that the product is registered or licensed in accordance \nwith the reference NRA or institution requirements. If applicable, a copy of the latest \nrenewal of the marketing authorization should also be provided. \no) Public assessment report(s) and/or final acceptance letter issued by the NRA or institution \nsuch as the Scientific Discussion of the European Public Assessment Report (EPAR), \nissued by the reference NRAs or institution. Assessment report(s) issued by the reference \nSRA that are not publicly available may be requested. \np) The latest SRA-approved product information (summary of product characteristics \n(SmPC), or an equivalent thereof, the patient information leaflet (PIL), or equivalent \nthereof, and the labelling).  \nq) A copy of the currently approved FPP specifications (release and shelf-life), dated and \nsigned or certified by authorized personnel, with the analytical test procedures in \nappropriate section of the dossier. \nr) Stability study report conduct as per the conditions prescribed in the Medicine Registration \nGuideline of the Authority. \ns) A copy of the recent Annual Product quality review Report as described in Appendix 1 of \nMedicine Registration Guideline of the Authority. \n \n7.2. Specific Requirements \nA. For the WHO-prequalified products,  \na) the medicines for which application is submitted to EFDA should be in the list of WHO \n\nPAGE 12\nEFDA/GDL/042 \nVersion: 003 \nPage 12 of 24 \n \nprequalified \nproducts \non \nthe \nWHO \nPQT \nwebsite \n(https://extranet.who.int/prequal/content/prequalified-lists)  \nb) Consent/agreement letter sent by the applicant to WHO PQ for the exchange of \ninformation between the EFDA and WHO PQT. This also holds true for the WHO \ncollaborative registration through SRA CRP. \nc) For detail procedure the applicants should refer EFDA guideline for registration of WHO \nPQ medicines. \nB. For products assessed and accepted by reference regulatory authority with which EFDA has \nagreement \nWritten agreement for the exchange of information between the EFDA and the Reference \nAuthority should be provided.   \nC. For products accepted by the reference authority(s) or institution(s) unilaterally recognized by \nEFDA \na) A bridge(redacted) assessm",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version 003/2024; supplements older event text without claiming it is the 2022 wording"
+      },
+      {
+        "clause_id": "ETH-CTX-1",
+        "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+        "raw_sha256": "852f42d855d388e9dc9ab11a5f89aec8b3eef5d2e79c69161fefb2bbb8cf7283",
+        "text_sha256": "faf8734d0515a33069d1f1339a4e45104b82554a8028f09be7cd303efe25bb8c",
+        "start_offset": 23830,
+        "end_offset": 30100,
+        "verbatim_extracted_text": "ent report of the reference regulatory authority (optional) \nb) The bridge report should be dated and signed by authorized personnel and should \nindicate: \ni. \ncomparability of the studied population to the target population (e.g. ethnicity, \ngender representation, age groups) as regards demonstration of efficacy and \nsafety;  \nii. \nrelevance of reference regulatory authority/ institution-approved conditions of \nuse as regards epidemiology and disease pattern in Ethiopia as well as other \nimplications for efficacy and safety \niii. \ninteractions with food and with other medications relevant in Ethiopia that are \nnot discussed in the reference regulatory Authority`s or institution`s  \nassessment report;  \niv. \ntherapeutic role of a product and its recommended use according to relevant \nnational and international treatment guidelines;  \nv. \nquality issues, including but not limited to, storage conditions and conditions \nof administration and use;  \nvi. \n risk management plan for a new molecule \n\nPAGE 13\nEFDA/GDL/042 \nVersion: 003 \nPage 13 of 24 \n \n \nNote: Provision of a bridging report may substantially facilitate conduct of the regulatory assessment, \nreduce the number of potential regulatory questions and shorten the duration of the regulatory \napproval process.  \n \nD. For products accepted by IGAD joint assessment \nA letter for the expression of interest including the reference number of the application \nsubmitted to IGAD \n \n8. Requirement for selection of Reference regulatory Authority or trusted Institutions \nRegulatory authorities or institutions shall fulfil at least the following criteria to be included in the list \nof EFDA recognized reference regulatory authorities/trusted institutions. \n \n1) NRA or institution that publishes detailed information on the approved medicines (like public \nassessment report, labeling information and regulatory action, deferred or rejected product \ninformation) on its website or include in the approved or qualified list of medicines \nthroughout the product life cycle as applicable \n2)  Member of the International Council for Harmonization of Technical Requirements for \nPharmaceuticals for Human Use (ICH), and an ICH observer, being the European Free Trade \nAssociation,  \n3)  A regulatory authority associated with an ICH member through a legally-binding, mutual \nrecognition agreement,  \n4) National regulatory authority or institution that has signed memorandum of understanding or \nlegally binding agreement with authority \n5) WHO PQP  \n6) Global health program such as EMA article 58 and through the Swiss medic’s Marketing \nAuthorization for Global Health products or the International Generic Drug Regulatory \nProgramme (Swissmedic, Health Canada and EU Medicine for all) \n7) Compliance history of the reference country  \n8) Regional Economic communities should be considered  \n \n\nPAGE 14\nEFDA/GDL/042 \nVersion: 003 \nPage 14 of 24 \n \n9. List of Reference Regulatory Authorities/ trusted Institutions \nThe EFDA lists the National Regulatory Authorities, and regional and international institutions as \nReference Regulatory Authorities or trusted institutions based on the above criteria lusted in section 9.  \nThe list is dynamic and is subject to change by the EFDA as needed.  The authority relies on decisions, \nreports or information of the Reference Regulatory Authorities or trusted institution to ensure the \nsafety, efficacy, and quality of medicines for   decision for registration and marketing authorization.  To \nqualify for a market authorization through reliance pathway, an application must have been approved \nby one or more of the RRAs or trusted institutions. The authority relies on the following reference \nregulatory authorities or trusted institutions: \na. Category A:  Reference Regulatory Authorities or trusted institutions \nApplications submitted for products evaluated and approved by WHO PQP, IGAD or AMA and \nAgencies for global health program are registered after the verification of documented evidences and \nthe sameness of the medicine.   \n \nb. Category B Reference Regulatory Authorities or trusted institutions- \nApplications submitted for products assessed and approved by NRAs/institutions listed in annex 1 of \nthis guideline and products approved by the NRAs that have mutual agreement with EFDA.  \nshall undergo abbreviated review.  \n \n10.  Application submission and assessment \n \n10.1. \nApplication Submission \n \na) For both types of reliance-based application submission (under routine and non-routine \nsituation) applicants are recommended to submit their application through eRIS portal. \nb) For specific requirements on the electronic submission using eRIS portal and methods of \nsubmission of all documentation (e.g. application submission format, screening check list), \nrefer to the respective registration guidelines (Medicine, Biological, Vaccine, etc.) and \npost-approval changes authorization guidelines.   \nc) The Pre-evaluation and Pre-import Approval Desk may be contacted for pre-submission \n\nPAGE 15\nEFDA/GDL/042 \nVersion: 003 \nPage 15 of 24 \n \ntechnical support for verifying the required documents and get guidance to the most \nsuitable review and approval pathways. \nd) The applicant should submit the application through the relevant application pathway of \neRIS portal and specify the desired path according to his/her need and upload the required \nCTD data and annexed documents (cGMP, CPP, payment receipt, all data required to  be \nfilled). \n10.2. \nAssessment \na) Assessment of applications will be conducted in accordance with the relevant marketing \nauthorization guidelines and assessment SOPs \nb) The assessment time line shall be in line with the MA directive no 963/2023  \n11. Evaluation of Post-Approval Changes \nFollowing the same reliance principles and mechanisms adopted in the new marketing authorization, \nEFDA may also broadly apply those mechanisms in managing post-approval changes that are \nalready approved by reference authorities or institutions \n12. Evaluation of Renewal \nEFDA apply same reliance principles and mechanisms adopted in the new marketing authorization \nmanaging renewal application submitted by already approved by reference authorities or institutions \n \n13. Withdrawal and cancellation o",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version 003/2024; supplements older event text without claiming it is the 2022 wording"
+      }
+    ],
+    "review_details": {
+      "iso3": "ETH",
+      "country": "Ethiopia",
+      "selected_document_id": "e5b95dcffdfbc1f11b0f",
+      "source_id": "513a5e906cc6e637",
+      "pathway": "Verification and abridged review",
+      "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+      "document_title": "",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "852f42d855d388e9dc9ab11a5f89aec8b3eef5d2e79c69161fefb2bbb8cf7283",
+      "raw_hash_validated": true,
+      "text_sha256": "faf8734d0515a33069d1f1339a4e45104b82554a8028f09be7cd303efe25bb8c",
+      "version_dates": {},
+      "version_scope_note": "EFDA guidelinev 0032024, unilateral abridged versus WHO/regional/bilateral mechanisms separated. Public reports and nonpublic requests are not an unconditional report gate.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          14306,
+          23830
+        ],
+        [
+          23830,
+          30100
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "One or more listed reference approvals; ordinary nationalRRA approvals categoryB abridged, WHO/IGAD/AMA/global-health categoryA verification.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Reference-registered product marketed in relevant market.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same formulation, manufacturers/sites, APIs/excipients and relevant product information; full CTD and variations documented.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Reference assessment or portal link, publicEPAR/acceptance material accepted; unredacted reports if applicable and nonpublic reports may be requested.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "discretionary/conditional",
+          "finding": "Public material expressly allowed as supporting information; further nonpublic material may be requested.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "discretionary/conditional",
+          "finding": "Consent explicit for WHO collaborative pathway; not silently imposed universally on unilateral FDA abridged route.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "discretionary/conditional",
+          "finding": "Bilateral written information-exchange arrangement concerns bilateral sharing; not established mandatory for every public-material unilateral route.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "discretionary/conditional",
+          "finding": "Foreign/EFDA GMP evidence and local stability/quality information retained.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Local benefit/risk, climate/storage, population and use assessed; optional bridging report.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Timeline incorporated by MA directive 963/2023; no invented universal numeric target.",
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ETH-Q01",
+            "ETH-Q02",
+            "ETH-CONTEXT-1",
+            "ETH-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "ETH-Q01",
+          "iso3": "ETH",
+          "event_id": "ETH_096",
+          "document_id": "e5b95dcffdfbc1f11b0f",
+          "source_id": "513a5e906cc6e637",
+          "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+          "raw_sha256": "852f42d855d388e9dc9ab11a5f89aec8b3eef5d2e79c69161fefb2bbb8cf7283",
+          "text_sha256": "faf8734d0515a33069d1f1339a4e45104b82554a8028f09be7cd303efe25bb8c",
+          "start_offset": 15056,
+          "end_offset": 18690,
+          "pdf_page": 8,
+          "verbatim_extracted_text": "6.1. Verification Review \nVerification and recognition focus on verifying the authenticity and completeness of documented \nevidence submitted by the applicant.  It is applicable for products approved by reference authorities or \ninstitution. The verifications involve confirmation of sameness of submitted data with the applications \nsubmitted to the reference authority or institution. Both the medicine and the dossier submitted to \nEFDA should be the same as the one that has been assessed by the reference regulatory authority or \ntrusted institution with respect to its essential characteristics (e.g. same qualitative and quantitative \ncomposition, strength, pharmaceutical form, intended use, manufacturing process, suppliers of active \npharmaceutical ingredients, and quality of all excipients and manufactured at the same manufacturing \nsite). This involves procedures in which the EFDA accepts the decision of reference regulatory \nauthority or trusted institution except country specific requirements. \nVerification is particularly applicable for products approved under WHO-prequalification programs, \nthose assessed and accepted under AMA and IGAD.  \n\nPAGE 9\nEFDA/GDL/042 \nVersion: 003 \nPage 9 of 24 \n \n6.2. Abridged Review \nThe reference regulatory authority`s or trusted institution’s assessments may not always account for \nspecific circumstances that can significantly affect the benefit-risk of a medicines in other countries or \nregions.  Hence, this review focuses on assessing specific aspects of the dossier that are relevant to the \nEthiopian context while relying on prior evaluations conducted by trusted authorities or institutions. It \ninvolves either confirmation of the applicability of the assessment outcomes or performing assessment \nof a specific section of the application dossier regarding the safety, efficacy and quality data, in view of \nthe information provided in the assessment reports of the reference regulatory authority or trusted \ninstitution. \nIn the case of products approved by the reference regulatory authorities or institutions with which the \nauthority has no mutual recognition agreements, EFDA may accept the decision of the RRAs or \ntrusted institutions based on the partial review of selected sections and/or modules of the application \ndossier.  Such review is applicable for products assessed and accepted by the regional economic \ncommunities (RECs) other than AMA and IGAD or agencies evaluating medicines for global health \nprogram such as EMA article 58 and through the Swiss medic’s Marketing Authorization for Global \nHealth products or the International Generic Drug Regulatory Programme could also considered \nunder this scheme \n \n6.3. Eligibility for granting Marketing Authorization through reliance procedures  \n \n1) Medicines prequalified by WHO collaborative registration. \n2) Medicines approved by EFDA recognized reference regulatory authority,  \n3) Medicines evaluated for Global Health Program:  Medicine approved by Swissmedic’s, Health \nCanada, EU-Medicines for all or 'EU-M4all' \n4) For medicines that has been evaluated and accepted via joint assessment (e.g. by IGAD, \nAMA). \n5) For medicines that has been granted marketing authorization by NRA of a country that has \nsigned   mutual or multilateral recognition agreement with EFDA,  \n6) For medicines that have been approved by different regional economic communities (RECs) \nas part of African Medicines Regulatory Harmonization (AMRH) initiatives, and WHO-listed \n\nPAGE 10\nEFDA/GDL/042 \nVersion: 003 \nPage 10 of 24 \n \nagencies may be considered through the reliance pathways in a case by case basis.",
+          "display_text": "6.1. Verification Review Verification and recognition focus on verifying the authenticity and completeness of documented evidence submitted by the applicant. It is applicable for products approved by reference authorities or institution. The verifications involve confirmation of sameness of submitted data with the applications submitted to the reference authority or institution. Both the medicine and the dossier submitted to EFDA should be the same as the one that has been assessed by the reference regulatory authority or trusted institution with respect to its essential characteristics (e.g. same qualitative and quantitative composition, strength, pharmaceutical form, intended use, manufacturing process, suppliers of active pharmaceutical ingredients, and quality of all excipients and manufactured at the same manufacturing site). This involves procedures in which the EFDA accepts the decision of reference regulatory authority or trusted institution except country specific requirements. Verification is particularly applicable for products approved under WHO-prequalification programs, those assessed and accepted under AMA and IGAD. PAGE 9 EFDA/GDL/042 Version: 003 Page 9 of 24 6.2. Abridged Review The reference regulatory authority`s or trusted institution’s assessments may not always account for specific circumstances that can significantly affect the benefit-risk of a medicines in other countries or regions. Hence, this review focuses on assessing specific aspects of the dossier that are relevant to the Ethiopian context while relying on prior evaluations conducted by trusted authorities or institutions. It involves either confirmation of the applicability of the assessment outcomes or performing assessment of a specific section of the application dossier regarding the safety, efficacy and quality data, in view of the information provided in the assessment reports of the reference regulatory authority or trusted institution. In the case of products approved by the reference regulatory authorities or institutions with which the authority has no mutual recognition agreements, EFDA may accept the decision of the RRAs or trusted institutions based on the partial review of selected sections and/or modules of the application dossier. Such review is applicable for products assessed and accepted by the regional economic communities (RECs) other than AMA and IGAD or agencies evaluating medicines for global health program such as EMA article 58 and through the Swiss medic’s Marketing Authorization for Global Health products or the International Generic Drug Regulatory Programme could also considered under this scheme 6.3. Eligibility for granting Marketing Authorization through reliance procedures 1) Medicines prequalified by WHO collaborative registration. 2) Medicines approved by EFDA recognized reference regulatory authority, 3) Medicines evaluated for Global Health Program: Medicine approved by Swissmedic’s, Health Canada, EU-Medicines for all or 'EU-M4all' 4) For medicines that has been evaluated and accepted via joint assessment (e.g. by IGAD, AMA). 5) For medicines that has been granted marketing authorization by NRA of a country that has signed mutual or multilateral recognition agreement with EFDA, 6) For medicines that have been approved by different regional economic communities (RECs) as part of African Medicines Regulatory Harmonization (AMRH) initiatives, and WHO-listed PAGE 10 EFDA/GDL/042 Version: 003 Page 10 of 24 agencies may be considered through the reliance pathways in a case by case basis.",
+          "feature_tags": [
+            "sameness",
+            "local_evidence",
+            "discretion",
+            "reports",
+            "scope_limit"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version 003/2024; supplements older event text without claiming it is the 2022 wording",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "ETH-Q02",
+          "iso3": "ETH",
+          "event_id": "ETH_096",
+          "document_id": "e5b95dcffdfbc1f11b0f",
+          "source_id": "513a5e906cc6e637",
+          "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+          "raw_sha256": "852f42d855d388e9dc9ab11a5f89aec8b3eef5d2e79c69161fefb2bbb8cf7283",
+          "text_sha256": "faf8734d0515a33069d1f1339a4e45104b82554a8028f09be7cd303efe25bb8c",
+          "start_offset": 18761,
+          "end_offset": 22830,
+          "pdf_page": 10,
+          "verbatim_extracted_text": "a) Applications dossier should be only for products assessed and accepted by the reference \nregulatory authorities or trusted institutions \nb) The applicant should declare the “sameness” of the reference regulatory authority or trust \ninstitution-approved medicine with the one applied for marketing authorization of \nmedicine by the authority. These shall include, but not limited to:  \n qualitative and quantitative formulation; \n manufacturing site(s) for API and FPP including specific block(s)/unit(s),  \n processes, control of materials and final product,  \n in the case of vaccines, batch release scheme; \n specifications for excipient, API and FPP \n essential elements of product information \nc) If any differences exist between the dossier submitted to EFDA and the dossier submitted to a \nrecognized regulatory authority or institution, all such differences should be clearly indicated and \njustified.  \nd) The submitted product should be prequalified and/or registered and marketed in the market \nof one of the reference regulatory authority’s countries, except for products prequalified \nby WHO jointly assessed products and products approved for global health program. \ne)  Submission of the application dossier should be through the electronic Regulatory \nInformation System (eRIS) portal, via appropriate route of application \nf) For WHO prequalified product, the applicant should provide the “Quality information \nsummary” together with the dossier.   \ng) The applicant should confirm in writing that the review(s) provided is/are complete and \nunaltered.  \nh) The reference regulatory authority(s) or trusted institutions assessment reports or at least \naccess or link to the portal on the web site of that reference regulatory authority should be \nprovided \ni) Commitment letter to notify the EFDA when there is pending variation, withdrawal from \n\nPAGE 11\nEFDA/GDL/042 \nVersion: 003 \nPage 11 of 24 \n \nthe market or banned by reference regulatory or trusted body due to any notice of concern   \nj) GMP waiver certificate/letter issued by EFDA and copy of valid GMP issued by any of \nthe RRA, laboratory testing report (when applicable), and safety report (when applicable)  \nk) Unredacted assessment report from the Reference regulatory authority, if applicable \nl) Full modules with CTD document as per the Guideline for Registration of Medicines  \nm) A declaration indicating that any post approval changes were reported and accepted by the \nreference regulatory authority or trusted institution. This declaration should include the list \nof variations not yet accepted by reference regulatory authority or trusted institution and \nsection of the dossier affected by the accepted variations. \nn) A copy of the marketing authorization, or the equivalent thereof, issued by the reference \nNRA or institution to demonstrate that the product is registered or licensed in accordance \nwith the reference NRA or institution requirements. If applicable, a copy of the latest \nrenewal of the marketing authorization should also be provided. \no) Public assessment report(s) and/or final acceptance letter issued by the NRA or institution \nsuch as the Scientific Discussion of the European Public Assessment Report (EPAR), \nissued by the reference NRAs or institution. Assessment report(s) issued by the reference \nSRA that are not publicly available may be requested. \np) The latest SRA-approved product information (summary of product characteristics \n(SmPC), or an equivalent thereof, the patient information leaflet (PIL), or equivalent \nthereof, and the labelling).  \nq) A copy of the currently approved FPP specifications (release and shelf-life), dated and \nsigned or certified by authorized personnel, with the analytical test procedures in \nappropriate section of the dossier. \nr) Stability study report conduct as per the conditions prescribed in the Medicine Registration \nGuideline of the Authority. \ns) A copy of the recent Annual Product quality review Report as described in Appendix 1 of \nMedicine Registration Guideline of the Authority.",
+          "display_text": "a) Applications dossier should be only for products assessed and accepted by the reference regulatory authorities or trusted institutions b) The applicant should declare the “sameness” of the reference regulatory authority or trust institution-approved medicine with the one applied for marketing authorization of medicine by the authority. These shall include, but not limited to:  qualitative and quantitative formulation;  manufacturing site(s) for API and FPP including specific block(s)/unit(s),  processes, control of materials and final product,  in the case of vaccines, batch release scheme;  specifications for excipient, API and FPP  essential elements of product information c) If any differences exist between the dossier submitted to EFDA and the dossier submitted to a recognized regulatory authority or institution, all such differences should be clearly indicated and justified. d) The submitted product should be prequalified and/or registered and marketed in the market of one of the reference regulatory authority’s countries, except for products prequalified by WHO jointly assessed products and products approved for global health program. e) Submission of the application dossier should be through the electronic Regulatory Information System (eRIS) portal, via appropriate route of application f) For WHO prequalified product, the applicant should provide the “Quality information summary” together with the dossier. g) The applicant should confirm in writing that the review(s) provided is/are complete and unaltered. h) The reference regulatory authority(s) or trusted institutions assessment reports or at least access or link to the portal on the web site of that reference regulatory authority should be provided i) Commitment letter to notify the EFDA when there is pending variation, withdrawal from PAGE 11 EFDA/GDL/042 Version: 003 Page 11 of 24 the market or banned by reference regulatory or trusted body due to any notice of concern j) GMP waiver certificate/letter issued by EFDA and copy of valid GMP issued by any of the RRA, laboratory testing report (when applicable), and safety report (when applicable) k) Unredacted assessment report from the Reference regulatory authority, if applicable l) Full modules with CTD document as per the Guideline for Registration of Medicines m) A declaration indicating that any post approval changes were reported and accepted by the reference regulatory authority or trusted institution. This declaration should include the list of variations not yet accepted by reference regulatory authority or trusted institution and section of the dossier affected by the accepted variations. n) A copy of the marketing authorization, or the equivalent thereof, issued by the reference NRA or institution to demonstrate that the product is registered or licensed in accordance with the reference NRA or institution requirements. If applicable, a copy of the latest renewal of the marketing authorization should also be provided. o) Public assessment report(s) and/or final acceptance letter issued by the NRA or institution such as the Scientific Discussion of the European Public Assessment Report (EPAR), issued by the reference NRAs or institution. Assessment report(s) issued by the reference SRA that are not publicly available may be requested. p) The latest SRA-approved product information (summary of product characteristics (SmPC), or an equivalent thereof, the patient information leaflet (PIL), or equivalent thereof, and the labelling). q) A copy of the currently approved FPP specifications (release and shelf-life), dated and signed or certified by authorized personnel, with the analytical test procedures in appropriate section of the dossier. r) Stability study report conduct as per the conditions prescribed in the Medicine Registration Guideline of the Authority. s) A copy of the recent Annual Product quality review Report as described in Appendix 1 of Medicine Registration Guideline of the Authority.",
+          "feature_tags": [
+            "sameness",
+            "foreign_marketing",
+            "reports"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version 003/2024; supplements older event text without claiming it is the 2022 wording",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "ETH-CONTEXT-1",
+          "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+          "raw_sha256": "852f42d855d388e9dc9ab11a5f89aec8b3eef5d2e79c69161fefb2bbb8cf7283",
+          "text_sha256": "faf8734d0515a33069d1f1339a4e45104b82554a8028f09be7cd303efe25bb8c",
+          "start_offset": 14306,
+          "end_offset": 23830,
+          "verbatim_extracted_text": "e its decision after \nconfirmation of the applicability of the assessment outcomes. \nConformity of the assessment outcome includes assessing legal and regulatory settings, benefit-risk \nassessment, comorbidities, unmet medical needs, risk management plans, and quality-related \nspecificities such as climatic zones for product stability. In case of any differences, such as in the \ntarget population, epidemiology, and other disease-related features, concomitantly used medicines, \nand other factors that can substantially affect the benefit-risk profile of the medicine, as well as quality \nparameters, particularly related to the stability under different climatic conditions, the authority may \nrequest additional data or reject the application. \n6.1. Verification Review \nVerification and recognition focus on verifying the authenticity and completeness of documented \nevidence submitted by the applicant.  It is applicable for products approved by reference authorities or \ninstitution. The verifications involve confirmation of sameness of submitted data with the applications \nsubmitted to the reference authority or institution. Both the medicine and the dossier submitted to \nEFDA should be the same as the one that has been assessed by the reference regulatory authority or \ntrusted institution with respect to its essential characteristics (e.g. same qualitative and quantitative \ncomposition, strength, pharmaceutical form, intended use, manufacturing process, suppliers of active \npharmaceutical ingredients, and quality of all excipients and manufactured at the same manufacturing \nsite). This involves procedures in which the EFDA accepts the decision of reference regulatory \nauthority or trusted institution except country specific requirements. \nVerification is particularly applicable for products approved under WHO-prequalification programs, \nthose assessed and accepted under AMA and IGAD.  \n\nPAGE 9\nEFDA/GDL/042 \nVersion: 003 \nPage 9 of 24 \n \n6.2. Abridged Review \nThe reference regulatory authority`s or trusted institution’s assessments may not always account for \nspecific circumstances that can significantly affect the benefit-risk of a medicines in other countries or \nregions.  Hence, this review focuses on assessing specific aspects of the dossier that are relevant to the \nEthiopian context while relying on prior evaluations conducted by trusted authorities or institutions. It \ninvolves either confirmation of the applicability of the assessment outcomes or performing assessment \nof a specific section of the application dossier regarding the safety, efficacy and quality data, in view of \nthe information provided in the assessment reports of the reference regulatory authority or trusted \ninstitution. \nIn the case of products approved by the reference regulatory authorities or institutions with which the \nauthority has no mutual recognition agreements, EFDA may accept the decision of the RRAs or \ntrusted institutions based on the partial review of selected sections and/or modules of the application \ndossier.  Such review is applicable for products assessed and accepted by the regional economic \ncommunities (RECs) other than AMA and IGAD or agencies evaluating medicines for global health \nprogram such as EMA article 58 and through the Swiss medic’s Marketing Authorization for Global \nHealth products or the International Generic Drug Regulatory Programme could also considered \nunder this scheme \n \n6.3. Eligibility for granting Marketing Authorization through reliance procedures  \n \n1) Medicines prequalified by WHO collaborative registration. \n2) Medicines approved by EFDA recognized reference regulatory authority,  \n3) Medicines evaluated for Global Health Program:  Medicine approved by Swissmedic’s, Health \nCanada, EU-Medicines for all or 'EU-M4all' \n4) For medicines that has been evaluated and accepted via joint assessment (e.g. by IGAD, \nAMA). \n5) For medicines that has been granted marketing authorization by NRA of a country that has \nsigned   mutual or multilateral recognition agreement with EFDA,  \n6) For medicines that have been approved by different regional economic communities (RECs) \nas part of African Medicines Regulatory Harmonization (AMRH) initiatives, and WHO-listed \n\nPAGE 10\nEFDA/GDL/042 \nVersion: 003 \nPage 10 of 24 \n \nagencies may be considered through the reliance pathways in a case by case basis. \n7. Requirements for application submission \n7.1. General conditions \na) Applications dossier should be only for products assessed and accepted by the reference \nregulatory authorities or trusted institutions \nb) The applicant should declare the “sameness” of the reference regulatory authority or trust \ninstitution-approved medicine with the one applied for marketing authorization of \nmedicine by the authority. These shall include, but not limited to:  \n qualitative and quantitative formulation; \n manufacturing site(s) for API and FPP including specific block(s)/unit(s),  \n processes, control of materials and final product,  \n in the case of vaccines, batch release scheme; \n specifications for excipient, API and FPP \n essential elements of product information \nc) If any differences exist between the dossier submitted to EFDA and the dossier submitted to a \nrecognized regulatory authority or institution, all such differences should be clearly indicated and \njustified.  \nd) The submitted product should be prequalified and/or registered and marketed in the market \nof one of the reference regulatory authority’s countries, except for products prequalified \nby WHO jointly assessed products and products approved for global health program. \ne)  Submission of the application dossier should be through the electronic Regulatory \nInformation System (eRIS) portal, via appropriate route of application \nf) For WHO prequalified product, the applicant should provide the “Quality information \nsummary” together with the dossier.   \ng) The applicant should confirm in writing that the review(s) provided is/are complete and \nunaltered.  \nh) The reference regulatory authority(s) or trusted institutions assessment reports or at least \naccess or link to the portal on the web site of that reference regulatory authority should be \nprovided \ni) Commitment letter to notify the EFDA when there is pending variation, withdrawal from \n\nPAGE 11\nEFDA/GDL/042 \nVersion: 003 \nPage 11 of 24 \n \nthe market or banned by reference regulatory or trusted body due to any notice of concern   \nj) GMP waiver certificate/letter issued by EFDA and copy of valid GMP issued by any of \nthe RRA, laboratory testing report (when applicable), and safety report (when applicable)  \nk) Unredacted assessment report from the Reference regulatory authority, if applicable \nl) Full modules with CTD document as per the Guideline for Registration of Medicines  \nm) A declaration indicating that any post approval changes were reported and accepted by the \nreference regulatory authority or trusted institution. This declaration should include the list \nof variations not yet accepted by reference regulatory authority or trusted institution and \nsection of the dossier affected by the accepted variations. \nn) A copy of the marketing authorization, or the equivalent thereof, issued by the reference \nNRA or institution to demonstrate that the product is registered or licensed in accordance \nwith the reference NRA or institution requirements. If applicable, a copy of the latest \nrenewal of the marketing authorization should also be provided. \no) Public assessment report(s) and/or final acceptance letter issued by the NRA or institution \nsuch as the Scientific Discussion of the European Public Assessment Report (EPAR), \nissued by the reference NRAs or institution. Assessment report(s) issued by the reference \nSRA that are not publicly available may be requested. \np) The latest SRA-approved product information (summary of product characteristics \n(SmPC), or an equivalent thereof, the patient information leaflet (PIL), or equivalent \nthereof, and the labelling).  \nq) A copy of the currently approved FPP specifications (release and shelf-life), dated and \nsigned or certified by authorized personnel, with the analytical test procedures in \nappropriate section of the dossier. \nr) Stability study report conduct as per the conditions prescribed in the Medicine Registration \nGuideline of the Authority. \ns) A copy of the recent Annual Product quality review Report as described in Appendix 1 of \nMedicine Registration Guideline of the Authority. \n \n7.2. Specific Requirements \nA. For the WHO-prequalified products,  \na) the medicines for which application is submitted to EFDA should be in the list of WHO \n\nPAGE 12\nEFDA/GDL/042 \nVersion: 003 \nPage 12 of 24 \n \nprequalified \nproducts \non \nthe \nWHO \nPQT \nwebsite \n(https://extranet.who.int/prequal/content/prequalified-lists)  \nb) Consent/agreement letter sent by the applicant to WHO PQ for the exchange of \ninformation between the EFDA and WHO PQT. This also holds true for the WHO \ncollaborative registration through SRA CRP. \nc) For detail procedure the applicants should refer EFDA guideline for registration of WHO \nPQ medicines. \nB. For products assessed and accepted by reference regulatory authority with which EFDA has \nagreement \nWritten agreement for the exchange of information between the EFDA and the Reference \nAuthority should be provided.   \nC. For products accepted by the reference authority(s) or institution(s) unilaterally recognized by \nEFDA \na) A bridge(redacted) assessm",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version 003/2024; supplements older event text without claiming it is the 2022 wording"
+        },
+        {
+          "clause_id": "ETH-CTX-1",
+          "source_url": "https://www.efda.gov.et/wp-content/uploads/2025/01/Guidelines-on-Reliance-for-Marketing-Authorization-2024.pdf",
+          "raw_sha256": "852f42d855d388e9dc9ab11a5f89aec8b3eef5d2e79c69161fefb2bbb8cf7283",
+          "text_sha256": "faf8734d0515a33069d1f1339a4e45104b82554a8028f09be7cd303efe25bb8c",
+          "start_offset": 23830,
+          "end_offset": 30100,
+          "verbatim_extracted_text": "ent report of the reference regulatory authority (optional) \nb) The bridge report should be dated and signed by authorized personnel and should \nindicate: \ni. \ncomparability of the studied population to the target population (e.g. ethnicity, \ngender representation, age groups) as regards demonstration of efficacy and \nsafety;  \nii. \nrelevance of reference regulatory authority/ institution-approved conditions of \nuse as regards epidemiology and disease pattern in Ethiopia as well as other \nimplications for efficacy and safety \niii. \ninteractions with food and with other medications relevant in Ethiopia that are \nnot discussed in the reference regulatory Authority`s or institution`s  \nassessment report;  \niv. \ntherapeutic role of a product and its recommended use according to relevant \nnational and international treatment guidelines;  \nv. \nquality issues, including but not limited to, storage conditions and conditions \nof administration and use;  \nvi. \n risk management plan for a new molecule \n\nPAGE 13\nEFDA/GDL/042 \nVersion: 003 \nPage 13 of 24 \n \n \nNote: Provision of a bridging report may substantially facilitate conduct of the regulatory assessment, \nreduce the number of potential regulatory questions and shorten the duration of the regulatory \napproval process.  \n \nD. For products accepted by IGAD joint assessment \nA letter for the expression of interest including the reference number of the application \nsubmitted to IGAD \n \n8. Requirement for selection of Reference regulatory Authority or trusted Institutions \nRegulatory authorities or institutions shall fulfil at least the following criteria to be included in the list \nof EFDA recognized reference regulatory authorities/trusted institutions. \n \n1) NRA or institution that publishes detailed information on the approved medicines (like public \nassessment report, labeling information and regulatory action, deferred or rejected product \ninformation) on its website or include in the approved or qualified list of medicines \nthroughout the product life cycle as applicable \n2)  Member of the International Council for Harmonization of Technical Requirements for \nPharmaceuticals for Human Use (ICH), and an ICH observer, being the European Free Trade \nAssociation,  \n3)  A regulatory authority associated with an ICH member through a legally-binding, mutual \nrecognition agreement,  \n4) National regulatory authority or institution that has signed memorandum of understanding or \nlegally binding agreement with authority \n5) WHO PQP  \n6) Global health program such as EMA article 58 and through the Swiss medic’s Marketing \nAuthorization for Global Health products or the International Generic Drug Regulatory \nProgramme (Swissmedic, Health Canada and EU Medicine for all) \n7) Compliance history of the reference country  \n8) Regional Economic communities should be considered  \n \n\nPAGE 14\nEFDA/GDL/042 \nVersion: 003 \nPage 14 of 24 \n \n9. List of Reference Regulatory Authorities/ trusted Institutions \nThe EFDA lists the National Regulatory Authorities, and regional and international institutions as \nReference Regulatory Authorities or trusted institutions based on the above criteria lusted in section 9.  \nThe list is dynamic and is subject to change by the EFDA as needed.  The authority relies on decisions, \nreports or information of the Reference Regulatory Authorities or trusted institution to ensure the \nsafety, efficacy, and quality of medicines for   decision for registration and marketing authorization.  To \nqualify for a market authorization through reliance pathway, an application must have been approved \nby one or more of the RRAs or trusted institutions. The authority relies on the following reference \nregulatory authorities or trusted institutions: \na. Category A:  Reference Regulatory Authorities or trusted institutions \nApplications submitted for products evaluated and approved by WHO PQP, IGAD or AMA and \nAgencies for global health program are registered after the verification of documented evidences and \nthe sameness of the medicine.   \n \nb. Category B Reference Regulatory Authorities or trusted institutions- \nApplications submitted for products assessed and approved by NRAs/institutions listed in annex 1 of \nthis guideline and products approved by the NRAs that have mutual agreement with EFDA.  \nshall undergo abbreviated review.  \n \n10.  Application submission and assessment \n \n10.1. \nApplication Submission \n \na) For both types of reliance-based application submission (under routine and non-routine \nsituation) applicants are recommended to submit their application through eRIS portal. \nb) For specific requirements on the electronic submission using eRIS portal and methods of \nsubmission of all documentation (e.g. application submission format, screening check list), \nrefer to the respective registration guidelines (Medicine, Biological, Vaccine, etc.) and \npost-approval changes authorization guidelines.   \nc) The Pre-evaluation and Pre-import Approval Desk may be contacted for pre-submission \n\nPAGE 15\nEFDA/GDL/042 \nVersion: 003 \nPage 15 of 24 \n \ntechnical support for verifying the required documents and get guidance to the most \nsuitable review and approval pathways. \nd) The applicant should submit the application through the relevant application pathway of \neRIS portal and specify the desired path according to his/her need and upload the required \nCTD data and annexed documents (cGMP, CPP, payment receipt, all data required to  be \nfilled). \n10.2. \nAssessment \na) Assessment of applications will be conducted in accordance with the relevant marketing \nauthorization guidelines and assessment SOPs \nb) The assessment time line shall be in line with the MA directive no 963/2023  \n11. Evaluation of Post-Approval Changes \nFollowing the same reliance principles and mechanisms adopted in the new marketing authorization, \nEFDA may also broadly apply those mechanisms in managing post-approval changes that are \nalready approved by reference authorities or institutions \n12. Evaluation of Renewal \nEFDA apply same reliance principles and mechanisms adopted in the new marketing authorization \nmanaging renewal application submitted by already approved by reference authorities or institutions \n \n13. Withdrawal and cancellation o",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version 003/2024; supplements older event text without claiming it is the 2022 wording"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

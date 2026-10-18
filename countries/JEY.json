@@ -130,5 +130,661 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "JEY",
+    "country": "Jersey",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Default recognition with local veto and one-month wait",
+    "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+    "document_id": "42c557848250164c255a",
+    "genre": "Statute",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Jersey Medicines Law preserved 2021 consolidation, Art 7 with definitions and Art 44(10). Marketing authorisation includes Community MA; recognition effect one month after foreign licence takes effect, subject to minister exception.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Valid UK product licence or defined marketing authorisation, including EC Community MA; FDA alone not specified.",
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "explicit requirement",
+        "finding": "One-month delay after qualifying foreign authorisation effective; fixed 18 months satisfies duration condition.",
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Existing qualifying foreign licence has legal effect; public-versus-full report comparison is not the trigger. Other business/import rules not waived.",
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit waiver/not required",
+        "finding": "Qualifying foreign licence has same legal effect as locally granted product licence under Art 7, subject to minister exception; this is legal recognition rather than an application-report assessment route.",
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Minister may prescribe that a foreign licence does not have effect after AdvisoryCouncil consultation.",
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "outside selected recognition pathway on fixed facts",
+        "finding": "FDA-only is not a valid UK/defined EC marketing authorisation under the reviewed Jersey provisions.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "JEY-Q01",
+          "JEY-CONTEXT-1",
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ],
+        "status": "outside selected recognition pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "defined Community MA has local licence effect",
+      "finding": "Art 7 recognises qualifying UK/defined marketing authorisation after 1 month. Definitions and Art 44 identify EC Community MA within that concept. Fixed EC MA meets that foreign licence type; minister exception and other commercial requirements remain.",
+      "evidence_ids": [
+        "JEY-CTX-1",
+        "JEY-CTX-2"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "JEY-Q01",
+        "iso3": "JEY",
+        "event_id": "JEY_113",
+        "document_id": "42c557848250164c255a",
+        "source_id": "d02e03884e16f299",
+        "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+        "raw_sha256": "411b71938cca6ac3edce2324162b3b07b20564224eb9f3202f2e97d98f3b6527",
+        "text_sha256": "95ba4864ad64ab422af4b5c17160c840b889b4a5fd31c02252656c1e17664939",
+        "start_offset": 27348,
+        "end_offset": 28213,
+        "pdf_page": null,
+        "verbatim_extracted_text": "A valid United Kingdom\n\nproduct licence or a valid marketing authorization shall, subject to paragraphs (4)\n\nand (5), have effect for the purposes of this Law as though it were a product\n\nlicence granted by the Minister for the purposes of Article 8.\n(\n3\n)\nAccordingly in Article 8\n\na reference to a product licence shall be taken to include a reference to a\n\nUnited Kingdom product licence or a marketing authorization.\n(\n4\n)\nA United Kingdom\n\nproduct licence or a marketing authorization shall not have effect for the\n\npurposes of this Law for a period of one month following the date on which it\n\ncomes into effect.\n(\n5\n)\nThe Minister may, after\n\nconsultation with the Advisory Council, in relation to a United Kingdom product\n\nlicence or a marketing authorization, prescribe that the licence or\n\nauthorization shall not have effect for the purposes of this Law.",
+        "display_text": "A valid United Kingdom product licence or a valid marketing authorization shall, subject to paragraphs (4) and (5), have effect for the purposes of this Law as though it were a product licence granted by the Minister for the purposes of Article 8. ( 3 ) Accordingly in Article 8 a reference to a product licence shall be taken to include a reference to a United Kingdom product licence or a marketing authorization. ( 4 ) A United Kingdom product licence or a marketing authorization shall not have effect for the purposes of this Law for a period of one month following the date on which it comes into effect. ( 5 ) The Minister may, after consultation with the Advisory Council, in relation to a United Kingdom product licence or a marketing authorization, prescribe that the licence or authorization shall not have effect for the purposes of this Law.",
+        "feature_tags": [
+          "automatic",
+          "discretion",
+          "decision_clock"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "JEY-CONTEXT-1",
+        "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+        "raw_sha256": "411b71938cca6ac3edce2324162b3b07b20564224eb9f3202f2e97d98f3b6527",
+        "text_sha256": "95ba4864ad64ab422af4b5c17160c840b889b4a5fd31c02252656c1e17664939",
+        "start_offset": 26598,
+        "end_offset": 29213,
+        "verbatim_extracted_text": "ncil –\n(\na\n)\nto\n\nadvise the Minister on the safety, quality or efficacy of medicinal products\n\ngenerally;\n(\nb\n)\nto\n\npromote the collection and investigation of information relating to adverse\n\nreactions, for the purpose of enabling such advice to be given;\n(\nc\n)\nto\n\nadvise the Minister with regard to applications for licences and certificates\n\nunder this Law;\n(\nd\n)\nto\n\nperform such other functions as may from time to time be determined by the\n\nMinister.\nPART 3\nLICENCES AND CERTIFICATES\n\nRELATING TO MEDICINAL PRODUCTS\n7\nLicences and certificates\n[5]\n(\n1\n)\nSubject\n\nto paragraph (2), the Minister shall be responsible for the grant,\n\nrenewal, variation, suspension and revocation of licences and certificates for\n\nthe purposes of this Law.\n(\n2\n)\nA valid United Kingdom\n\nproduct licence or a valid marketing authorization shall, subject to paragraphs (4)\n\nand (5), have effect for the purposes of this Law as though it were a product\n\nlicence granted by the Minister for the purposes of Article 8.\n(\n3\n)\nAccordingly in Article 8\n\na reference to a product licence shall be taken to include a reference to a\n\nUnited Kingdom product licence or a marketing authorization.\n(\n4\n)\nA United Kingdom\n\nproduct licence or a marketing authorization shall not have effect for the\n\npurposes of this Law for a period of one month following the date on which it\n\ncomes into effect.\n(\n5\n)\nThe Minister may, after\n\nconsultation with the Advisory Council, in relation to a United Kingdom product\n\nlicence or a marketing authorization, prescribe that the licence or\n\nauthorization shall not have effect for the purposes of this Law.\n8\nGeneral provisions as to dealing with medicinal products\n(\n1\n)\nThis\n\nArticle shall have effect subject to –\n(\na\n)\nany\n\nexemptions conferred by or under this Part;\n(\nb\n)\nthe\n\nprovisions of this Part relating to clinical trials;\n(\nc\n)\nArticle 47;\n\nand\n(\nd\n)\nthe\n\nprovisions of Part 4 and any Order made under that Part.\n[6]\n(\n2\n)\nExcept\n\nin accordance with a licence granted for the purposes of this Article (in\n\nthis Law referred to as a “product licence”) no person shall, in\n\nthe course of a business carried on by him or her, and in circumstances to\n\nwhich this paragraph applies –\n(\na\n)\nsell,\n\nsupply or export any medicinal product;\n(\nb\n)\nprocure\n\nthe sale, supply or exportation of any medicinal product;\n(\nc\n)\nprocure\n\nthe manufacture or assembly of any medicinal product for sale, supply or\n\nexportation.\n(\n2A\n)\nWhere\n\na medicinal product is subject to a marketing authorization and it is a\n\ncondition of the marketing authorization that the product is to be available on\n\none or more of th",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "JEY-CTX-1",
+        "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+        "raw_sha256": "411b71938cca6ac3edce2324162b3b07b20564224eb9f3202f2e97d98f3b6527",
+        "text_sha256": "95ba4864ad64ab422af4b5c17160c840b889b4a5fd31c02252656c1e17664939",
+        "start_offset": 11800,
+        "end_offset": 12500,
+        "verbatim_extracted_text": "for the purpose of administering it and does not include the\n\nincorporation of the product in any animal feeding stuff;\n“marketing\n\nauthorization” means a marketing authorisation as defined by the Marketing\n\nAuthorisations for Veterinary Medical Products Regulations 1994 of the United\n\nKingdom or a marketing authorization as defined by the Medicines for Human Use\n\n(Marketing Authorisations Etc.) Regulations 1994 of the United Kingdom, both Regulations\n\nbeing Regulations made under section 2(2) of the European Communities Act\n\n1972 of the United Kingdom;\n“medicinal test on\n\nanimals” has the meaning assigned to it by Article 33;\n“Medicines Act”\n\nmeans the Medicines Act 1968 of the United Kingd",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "JEY-CTX-2",
+        "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+        "raw_sha256": "411b71938cca6ac3edce2324162b3b07b20564224eb9f3202f2e97d98f3b6527",
+        "text_sha256": "95ba4864ad64ab422af4b5c17160c840b889b4a5fd31c02252656c1e17664939",
+        "start_offset": 108000,
+        "end_offset": 109300,
+        "verbatim_extracted_text": "nce under paragraph (7) shall be liable to a fine not exceeding level\n\n2 on the standard scale.\n(\n10\n)\nIn this Article “the\n\nlicensing authority” –\n(\na\n)\nin\n\nrelation to a United Kingdom product licence, has the same meaning as in\n\nsection 6 of the Medicines Act of the United Kingdom;\n(\nb\n)\nin\n\nrelation to a marketing authorization that is a marketing authorisation as\n\ndefined by the Veterinary Medicines Products Regulations 1994 of the United\n\nKingdom, means the Ministers as defined in those Regulations or any one of\n\nthose Ministers acting alone or any 2 or more of them acting jointly;\n(\nc\n)\nin\n\nrelation to a marketing authorization which is a Community marketing\n\nauthorization as defined by the Medicines for Human Use (Marketing\n\nAuthorisations Etc.) Regulations 1994 of the United Kingdom, means the European\n\nCommission; and\n(\nd\n)\nin\n\nrelation to a marketing authorization which is a United Kingdom marketing\n\nauthorization as defined by the Medicines for Human Use (Marketing\n\nAuthorisations Etc.) Regulations 1994 of the United Kingdom, means the\n\nlicensing authority under those Regulations.\n45\nSpecial defences under Article 44\n(\n1\n)\nWhere\n\nthe holder of a product licence, a United Kingdom product licence or marketing\n\nauthorization which has effect for the purposes of this Law ",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "JEY",
+      "country": "Jersey",
+      "selected_document_id": "42c557848250164c255a",
+      "source_id": "d02e03884e16f299",
+      "pathway": "Default recognition with local veto and one-month wait",
+      "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+      "document_title": "Medicines (Jersey) Law 1995",
+      "source_type": "Statute",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "411b71938cca6ac3edce2324162b3b07b20564224eb9f3202f2e97d98f3b6527",
+      "raw_hash_validated": true,
+      "text_sha256": "95ba4864ad64ab422af4b5c17160c840b889b4a5fd31c02252656c1e17664939",
+      "version_dates": {},
+      "version_scope_note": "Jersey Medicines Law preserved 2021 consolidation, Art 7 with definitions and Art 44(10). Marketing authorisation includes Community MA; recognition effect one month after foreign licence takes effect, subject to minister exception.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          26598,
+          29213
+        ],
+        [
+          11800,
+          12500
+        ],
+        [
+          108000,
+          109300
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Valid UK product licence or defined marketing authorisation, including EC Community MA; FDA alone not specified.",
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "One-month delay after qualifying foreign authorisation effective; fixed 18 months satisfies duration condition.",
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Existing qualifying foreign licence has legal effect; public-versus-full report comparison is not the trigger. Other business/import rules not waived.",
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicitly waived/not required",
+          "finding": "Qualifying foreign licence has same legal effect as locally granted product licence under Art 7, subject to minister exception; this is legal recognition rather than an application-report assessment route.",
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Minister may prescribe that a foreign licence does not have effect after AdvisoryCouncil consultation.",
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected recognition pathway on fixed facts",
+          "finding": "FDA-only is not a valid UK/defined EC marketing authorisation under the reviewed Jersey provisions.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "JEY-Q01",
+            "JEY-CONTEXT-1",
+            "JEY-CTX-1",
+            "JEY-CTX-2"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "defined Community MA has local licence effect",
+        "finding": "Art 7 recognises qualifying UK/defined marketing authorisation after 1 month. Definitions and Art 44 identify EC Community MA within that concept. Fixed EC MA meets that foreign licence type; minister exception and other commercial requirements remain.",
+        "evidence_ids": [
+          "JEY-CTX-1",
+          "JEY-CTX-2"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "JEY-Q01",
+          "iso3": "JEY",
+          "event_id": "JEY_113",
+          "document_id": "42c557848250164c255a",
+          "source_id": "d02e03884e16f299",
+          "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+          "raw_sha256": "411b71938cca6ac3edce2324162b3b07b20564224eb9f3202f2e97d98f3b6527",
+          "text_sha256": "95ba4864ad64ab422af4b5c17160c840b889b4a5fd31c02252656c1e17664939",
+          "start_offset": 27348,
+          "end_offset": 28213,
+          "pdf_page": null,
+          "verbatim_extracted_text": "A valid United Kingdom\n\nproduct licence or a valid marketing authorization shall, subject to paragraphs (4)\n\nand (5), have effect for the purposes of this Law as though it were a product\n\nlicence granted by the Minister for the purposes of Article 8.\n(\n3\n)\nAccordingly in Article 8\n\na reference to a product licence shall be taken to include a reference to a\n\nUnited Kingdom product licence or a marketing authorization.\n(\n4\n)\nA United Kingdom\n\nproduct licence or a marketing authorization shall not have effect for the\n\npurposes of this Law for a period of one month following the date on which it\n\ncomes into effect.\n(\n5\n)\nThe Minister may, after\n\nconsultation with the Advisory Council, in relation to a United Kingdom product\n\nlicence or a marketing authorization, prescribe that the licence or\n\nauthorization shall not have effect for the purposes of this Law.",
+          "display_text": "A valid United Kingdom product licence or a valid marketing authorization shall, subject to paragraphs (4) and (5), have effect for the purposes of this Law as though it were a product licence granted by the Minister for the purposes of Article 8. ( 3 ) Accordingly in Article 8 a reference to a product licence shall be taken to include a reference to a United Kingdom product licence or a marketing authorization. ( 4 ) A United Kingdom product licence or a marketing authorization shall not have effect for the purposes of this Law for a period of one month following the date on which it comes into effect. ( 5 ) The Minister may, after consultation with the Advisory Council, in relation to a United Kingdom product licence or a marketing authorization, prescribe that the licence or authorization shall not have effect for the purposes of this Law.",
+          "feature_tags": [
+            "automatic",
+            "discretion",
+            "decision_clock"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "JEY-CONTEXT-1",
+          "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+          "raw_sha256": "411b71938cca6ac3edce2324162b3b07b20564224eb9f3202f2e97d98f3b6527",
+          "text_sha256": "95ba4864ad64ab422af4b5c17160c840b889b4a5fd31c02252656c1e17664939",
+          "start_offset": 26598,
+          "end_offset": 29213,
+          "verbatim_extracted_text": "ncil –\n(\na\n)\nto\n\nadvise the Minister on the safety, quality or efficacy of medicinal products\n\ngenerally;\n(\nb\n)\nto\n\npromote the collection and investigation of information relating to adverse\n\nreactions, for the purpose of enabling such advice to be given;\n(\nc\n)\nto\n\nadvise the Minister with regard to applications for licences and certificates\n\nunder this Law;\n(\nd\n)\nto\n\nperform such other functions as may from time to time be determined by the\n\nMinister.\nPART 3\nLICENCES AND CERTIFICATES\n\nRELATING TO MEDICINAL PRODUCTS\n7\nLicences and certificates\n[5]\n(\n1\n)\nSubject\n\nto paragraph (2), the Minister shall be responsible for the grant,\n\nrenewal, variation, suspension and revocation of licences and certificates for\n\nthe purposes of this Law.\n(\n2\n)\nA valid United Kingdom\n\nproduct licence or a valid marketing authorization shall, subject to paragraphs (4)\n\nand (5), have effect for the purposes of this Law as though it were a product\n\nlicence granted by the Minister for the purposes of Article 8.\n(\n3\n)\nAccordingly in Article 8\n\na reference to a product licence shall be taken to include a reference to a\n\nUnited Kingdom product licence or a marketing authorization.\n(\n4\n)\nA United Kingdom\n\nproduct licence or a marketing authorization shall not have effect for the\n\npurposes of this Law for a period of one month following the date on which it\n\ncomes into effect.\n(\n5\n)\nThe Minister may, after\n\nconsultation with the Advisory Council, in relation to a United Kingdom product\n\nlicence or a marketing authorization, prescribe that the licence or\n\nauthorization shall not have effect for the purposes of this Law.\n8\nGeneral provisions as to dealing with medicinal products\n(\n1\n)\nThis\n\nArticle shall have effect subject to –\n(\na\n)\nany\n\nexemptions conferred by or under this Part;\n(\nb\n)\nthe\n\nprovisions of this Part relating to clinical trials;\n(\nc\n)\nArticle 47;\n\nand\n(\nd\n)\nthe\n\nprovisions of Part 4 and any Order made under that Part.\n[6]\n(\n2\n)\nExcept\n\nin accordance with a licence granted for the purposes of this Article (in\n\nthis Law referred to as a “product licence”) no person shall, in\n\nthe course of a business carried on by him or her, and in circumstances to\n\nwhich this paragraph applies –\n(\na\n)\nsell,\n\nsupply or export any medicinal product;\n(\nb\n)\nprocure\n\nthe sale, supply or exportation of any medicinal product;\n(\nc\n)\nprocure\n\nthe manufacture or assembly of any medicinal product for sale, supply or\n\nexportation.\n(\n2A\n)\nWhere\n\na medicinal product is subject to a marketing authorization and it is a\n\ncondition of the marketing authorization that the product is to be available on\n\none or more of th",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "JEY-CTX-1",
+          "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+          "raw_sha256": "411b71938cca6ac3edce2324162b3b07b20564224eb9f3202f2e97d98f3b6527",
+          "text_sha256": "95ba4864ad64ab422af4b5c17160c840b889b4a5fd31c02252656c1e17664939",
+          "start_offset": 11800,
+          "end_offset": 12500,
+          "verbatim_extracted_text": "for the purpose of administering it and does not include the\n\nincorporation of the product in any animal feeding stuff;\n“marketing\n\nauthorization” means a marketing authorisation as defined by the Marketing\n\nAuthorisations for Veterinary Medical Products Regulations 1994 of the United\n\nKingdom or a marketing authorization as defined by the Medicines for Human Use\n\n(Marketing Authorisations Etc.) Regulations 1994 of the United Kingdom, both Regulations\n\nbeing Regulations made under section 2(2) of the European Communities Act\n\n1972 of the United Kingdom;\n“medicinal test on\n\nanimals” has the meaning assigned to it by Article 33;\n“Medicines Act”\n\nmeans the Medicines Act 1968 of the United Kingd",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "JEY-CTX-2",
+          "source_url": "https://www.jerseylaw.je/laws/current/l_31_1995_20210927",
+          "raw_sha256": "411b71938cca6ac3edce2324162b3b07b20564224eb9f3202f2e97d98f3b6527",
+          "text_sha256": "95ba4864ad64ab422af4b5c17160c840b889b4a5fd31c02252656c1e17664939",
+          "start_offset": 108000,
+          "end_offset": 109300,
+          "verbatim_extracted_text": "nce under paragraph (7) shall be liable to a fine not exceeding level\n\n2 on the standard scale.\n(\n10\n)\nIn this Article “the\n\nlicensing authority” –\n(\na\n)\nin\n\nrelation to a United Kingdom product licence, has the same meaning as in\n\nsection 6 of the Medicines Act of the United Kingdom;\n(\nb\n)\nin\n\nrelation to a marketing authorization that is a marketing authorisation as\n\ndefined by the Veterinary Medicines Products Regulations 1994 of the United\n\nKingdom, means the Ministers as defined in those Regulations or any one of\n\nthose Ministers acting alone or any 2 or more of them acting jointly;\n(\nc\n)\nin\n\nrelation to a marketing authorization which is a Community marketing\n\nauthorization as defined by the Medicines for Human Use (Marketing\n\nAuthorisations Etc.) Regulations 1994 of the United Kingdom, means the European\n\nCommission; and\n(\nd\n)\nin\n\nrelation to a marketing authorization which is a United Kingdom marketing\n\nauthorization as defined by the Medicines for Human Use (Marketing\n\nAuthorisations Etc.) Regulations 1994 of the United Kingdom, means the\n\nlicensing authority under those Regulations.\n45\nSpecial defences under Article 44\n(\n1\n)\nWhere\n\nthe holder of a product licence, a United Kingdom product licence or marketing\n\nauthorization which has effect for the purposes of this Law ",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

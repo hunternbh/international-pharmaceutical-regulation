@@ -129,5 +129,623 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ROU",
+    "country": "Romania",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition and decentralised assessment",
+    "source_url": "https://www.anm.ro/en/_/HCS/Decision%2021%20-%2003.09.2010%20and%20Annexes.pdf",
+    "document_id": "F250_baef07a0353322c21cda_c2874eeaba24",
+    "genre": "Regulator-provided decision translation",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "English NAMMD decision on drafting authorization documents, not a full route-eligibility guideline. Source itself says EMA issues authorization; preserve wording but analytically distinguish EMA assessment from Commission centralized authorization. Shared system, not FDA reliance.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "discretionary/conditional",
+        "finding": "EU centralized/decentralized/MRP procedures referenced.",
+        "evidence_ids": [
+          "ROU-R01",
+          "ROU-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Administrative form rules do not define complete scientific review scope.",
+        "evidence_ids": [
+          "ROU-R01",
+          "ROU-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "discretionary/conditional",
+        "finding": "Prescribes authorization and annex contents, not complete application procedure.",
+        "evidence_ids": [
+          "ROU-R01",
+          "ROU-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ROU-R01",
+          "ROU-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "B": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ROU-R01",
+          "ROU-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "C": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ROU-R01",
+          "ROU-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "D": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ROU-R01",
+          "ROU-CTX-1"
+        ],
+        "status": "unresolved"
+      },
+      "E": {
+        "eligibility": "unresolved",
+        "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ROU-R01",
+          "ROU-CTX-1"
+        ],
+        "status": "unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": null,
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "passage_id": "ROU-R01",
+        "source_document_id": "F250_baef07a0353322c21cda_c2874eeaba24",
+        "evidence_role": "Selected primary document",
+        "section_article": "Annex guideline Articles 1–4",
+        "pdf_page": 1,
+        "source_url": "https://www.anm.ro/en/_/HCS/Decision%2021%20-%2003.09.2010%20and%20Annexes.pdf",
+        "raw_sha256": "c2874eeaba2490a63e74d6c5385bc47a40227a1eb894437f5b64bd424f5fb751",
+        "text_sha256": "9193672a991dbab8adc0c1a092b1316ea5a14f299e273888a1f9f26809d7f753",
+        "exact_text": "Art. 1. - The Guideline on the writing of the marketing authorisation and \nannexes to the marketing authorisation is approved, in accordance with the \nAnnexes which are integral part of this Decision.  \nArt. 2. – On the date of the coming into force of this Decision, the NMA \nScientific Council Decision No. 1/02.06.2005 on approval of the new structure \nof the marketing authorisation and Norms for marketing authorisation writing is \nhereby repealed. \n \n \n \n \n \n \n \n \n \n \n \nPRESIDENT \nof the Scientific Council \nof the National Agency for Medicines and Medical Devices, \nAcad. Prof. Dr. Leonida Gherasim \n \n \n \n \n\n\nPAGE 2\nANNEX I \n \nGuideline on the writing of the marketing authorisation and annexes to the marketing \nauthorisation \n \n \nArt. 1. – (1) This Guideline is issued in accordance with the provisions of Law No. \n95/2006 on the healthcare reform, Title XVII – The medicinal product (hereinafter “the \nLaw”) transposing Directive 2001/83/EC, as amended. \n(2) This Guideline applies to medicinal products authorised for marketing in Romania \nthrough centralised/decentralised/mutual recognition procedure. \nArt. 2. – In accordance with Art. 700 of the Law, transposing Art. 6. of Directive \n2001/83/EC, no medicinal product may be placed on the market of Romania unless a \nmarketing authorisation has been issued by the National Agency for Medicines and Medical \nDevices (ANMDM) or by the European Medicines Agency (EMA). \nArt. 3. – This Guideline provides recommendations concerning the writing of the \nmarketing authorisation and annexes to the marketing authorisation, replacing the previous \nrelated norms for medicinal products authorised by the NAMMD through national, \ndecentralised or mutual recognition procedure. \nArt. 4. – Under the heading referring to the legal basis of the marketing authorisation, \na combination of the following legal bases is to be used, as required: <Art. 700 (1), <Art. 702 \n(4)>, <Art. 704 (1) and (2)>, <Art. 704 (3)>, <Art. 704 (4)>, <Art. 705>, <Art. 706>, <Art. \n707>, <Art. 710>, <Art. 714>, <Art. 730 (2)>, <Art. 730 (5)>, <Art. 736 (2)>, <Art. 736 (3)> \nor  <Art. 736 (4)>. \n",
+        "start": 676,
+        "end": 2806,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "ROU-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.anm.ro/en/_/HCS/Decision%2021%20-%2003.09.2010%20and%20Annexes.pdf",
+        "raw_sha256": "c2874eeaba2490a63e74d6c5385bc47a40227a1eb894437f5b64bd424f5fb751",
+        "text_sha256": "9193672a991dbab8adc0c1a092b1316ea5a14f299e273888a1f9f26809d7f753",
+        "exact_text": "PAGE 1\nDECISION \nNo. 21/03.09.2010 \n \non approval of the Guideline on the writing of the marketing authorisation \nand annexes to the marketing authorisation \n \n \nThe Scientific Council of the National Agency for Medicines and \nMedical Devices (NAMMD), set up based on Order of the Minister of Public \nHealth no. 1123/18.08.2010, as amended, reunited on summons of the President \nof the National Agency for Medicines and Medical Devices in the ordinary \nmeeting of 03.09.2010, in accordance with Article 12(5) of Government \nOrdinance no. 734/2010 related to the set up, organisation and operation of the \nNational Medicines Agency, agrees on the following  \n \n \nDECISION \n \n \nArt. 1. - The Guideline on the writing of the marketing authorisation and \nannexes to the marketing authorisation is approved, in accordance with the \nAnnexes which are integral part of this Decision.  \nArt. 2. – On the date of the coming into force of this Decision, the NMA \nScientific Council Decision No. 1/02.06.2005 on approval of the new structure \nof the marketing authorisation and Norms for marketing authorisation writing is \nhereby repealed. \n \n \n \n \n \n \n \n \n \n \n \nPRESIDENT \nof the Scientific Council \nof the National Agency for Medicines and Medical Devices, \nAcad. Prof. Dr. Leonida Gherasim \n \n \n \n \n\n\nPAGE 2\nANNEX I \n \nGuideline on the writing of the marketing authorisation and annexes to the marketing \nauthorisation \n \n \nArt. 1. – (1) This Guideline is issued in accordance with the provisions of Law No. \n95/2006 on the healthcare reform, Title XVII – The medicinal product (hereinafter “the \nLaw”) transposing Directive 2001/83/EC, as amended. \n(2) This Guideline applies to medicinal products authorised for marketing in Romania \nthrough centralised/decentralised/mutual recognition procedure. \nArt. 2. – In accordance with Art. 700 of the Law, transposing Art. 6. of Directive \n2001/83/EC, no medicinal product may be placed on the market of Romania unless a \nmarketing authorisation has been issued by the National Agency for Medicines and Medical \nDevices (ANMDM) or by the European Medicines Agency (EMA). \nArt. 3. – This Guideline provides recommendations concerning the writing of the \nmarketing authorisation and annexes to the marketing authorisation, replacing the previous \nrelated norms for medicinal products authorised by the NAMMD through national, \ndecentralised or mutual recognition procedure. \nArt. 4. – Under the heading referring to the legal basis of the marketing authorisation, \na combination of the following legal bases is to be used, as required: <Art. 700 (1), <Art. 702 \n(4)>, <Art. 704 (1) and (2)>, <Art. 704 (3)>, <Art. 704 (4)>, <Art. 705>, <Art. 706>, <Art. \n707>, <Art. 710>, <Art. 714>, <Art. 730 (2)>, <Art. 730 (5)>, <Art. 736 (2)>, <Art. 736 (3)> \nor  <Art. 736 (4)>. \nArt. 5. – (1) According to Art. 730 (1) of the Law, a marketing authorisation shall be \nvalid for 5 years. \n(2) The marketing authorisation shall contain the following specification: “This \nmarketing authorisation is valid for 5 years as of the date of its issue”. \nArt. 6. – (1) In accordance with Art. 730. (5) of the Law, once renewed, the marketing \nauthorisation is valid for an unlimited period, in which case the marketing authorisation shall \nnot specify anything related to the validity of the marketing authorisation. \n \nArt. 7. – (1) Under the heading “Registration name”, the name, strength and \npharmaceutical form of the medicinal product shall be specified.  \n(2) In accordance with Art. 695, point 20 of the Law, the name of the medicinal \nproduct “may be an invented name not liable to confusion with the common name/ a common \nname or a scientific name, accompanied by the trademark or the name of the Marketing \nAuthorisation Holder”; \n(3) The strength is expressed in accordance with the “Guideline on the expression of \nstrength in the name of centrally authorised medicinal products for human use”, approved \nthrough Scientific Council Decision No. 11/07.06.2010; \n \n(4) The registered mark symbol, ®, TM, for the medicinal product invented trade \nname is not entered; \n \n(5) The pharmaceutical form shall be named in accordance with the Regulations in \nforce concerning the Romanian standard terms for pharmaceutical forms, routes of \nadministration, closure and administration systems, in accordance with those adopted by the \nEuropean Pharmacopoeia Commission. \n \nArt. 8. – (1) The following are entered in the marketing authorisation under the \nheading “Composition”: active substance(s) in terms of quality and quantity and auxiliary \nsubstance(s) in terms of quality; \n(2) The quantity of active substance is expressed per dosage unit, per volume unit or \nweight unit, depending on the type of pharmaceutical form; \n\n\nPAGE 3\n \n(3) In the case of active substance(s) under the form of salt, ester, hydrated form etc., \nthe quantity of the respective substance and its equivalent in anhydrous base are entered; \n(4) Components are entered using the common name or the scientific name or the \ncommon standard name according to the European Pharmacopoeia or the Romanian \nPharmacopoeia or some international pharmacopoeia giving official status to the respective \ncomponent (the name of the components is to be entered in the mentioned order); \n \n(5) For certain auxiliary substances, specifications have to be made on the following: \n- the colour index (colouring matters, for instance, E171) \n- granulometry (for instance: Lactose monohydrate 200mesh); \n \n(6) For cert",
+        "start": 0,
+        "end": 5500,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "ROU",
+      "country": "Romania",
+      "selected_document_id": "F250_baef07a0353322c21cda_c2874eeaba24",
+      "source_id": "F250_baef07a0353322c21cda",
+      "pathway": "EU/EEA mutual recognition and decentralised assessment",
+      "source_url": "https://www.anm.ro/en/_/HCS/Decision%2021%20-%2003.09.2010%20and%20Annexes.pdf",
+      "document_title": "NAMMD Decision 21/2010: marketing authorisation and annexes",
+      "source_type": "Regulator-provided decision translation",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "ROU-R01": null
+        }
+      ],
+      "raw_sha256": "c2874eeaba2490a63e74d6c5385bc47a40227a1eb894437f5b64bd424f5fb751",
+      "raw_hash_validated": true,
+      "text_sha256": "9193672a991dbab8adc0c1a092b1316ea5a14f299e273888a1f9f26809d7f753",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "English NAMMD decision on drafting authorization documents, not a full route-eligibility guideline. Source itself says EMA issues authorization; preserve wording but analytically distinguish EMA assessment from Commission centralized authorization. Shared system, not FDA reliance.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          676,
+          2806
+        ],
+        [
+          0,
+          5500
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "discretionary/conditional",
+          "finding": "EU centralized/decentralized/MRP procedures referenced.",
+          "evidence_ids": [
+            "ROU-R01",
+            "ROU-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Administrative form rules do not define complete scientific review scope.",
+          "evidence_ids": [
+            "ROU-R01",
+            "ROU-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "discretionary/conditional",
+          "finding": "Prescribes authorization and annex contents, not complete application procedure.",
+          "evidence_ids": [
+            "ROU-R01",
+            "ROU-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ROU-R01",
+            "ROU-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ROU-R01",
+            "ROU-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ROU-R01",
+            "ROU-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ROU-R01",
+            "ROU-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "unresolved",
+          "finding": "Foreign approval and dossier facts alone do not resolve all local conditions in this preserved route/version.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ROU-R01",
+            "ROU-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "ROU-R01",
+          "source_document_id": "F250_baef07a0353322c21cda_c2874eeaba24",
+          "evidence_role": "Selected primary document",
+          "section_article": "Annex guideline Articles 1–4",
+          "pdf_page": 1,
+          "source_url": "https://www.anm.ro/en/_/HCS/Decision%2021%20-%2003.09.2010%20and%20Annexes.pdf",
+          "raw_sha256": "c2874eeaba2490a63e74d6c5385bc47a40227a1eb894437f5b64bd424f5fb751",
+          "text_sha256": "9193672a991dbab8adc0c1a092b1316ea5a14f299e273888a1f9f26809d7f753",
+          "exact_text": "Art. 1. - The Guideline on the writing of the marketing authorisation and \nannexes to the marketing authorisation is approved, in accordance with the \nAnnexes which are integral part of this Decision.  \nArt. 2. – On the date of the coming into force of this Decision, the NMA \nScientific Council Decision No. 1/02.06.2005 on approval of the new structure \nof the marketing authorisation and Norms for marketing authorisation writing is \nhereby repealed. \n \n \n \n \n \n \n \n \n \n \n \nPRESIDENT \nof the Scientific Council \nof the National Agency for Medicines and Medical Devices, \nAcad. Prof. Dr. Leonida Gherasim \n \n \n \n \n\n\nPAGE 2\nANNEX I \n \nGuideline on the writing of the marketing authorisation and annexes to the marketing \nauthorisation \n \n \nArt. 1. – (1) This Guideline is issued in accordance with the provisions of Law No. \n95/2006 on the healthcare reform, Title XVII – The medicinal product (hereinafter “the \nLaw”) transposing Directive 2001/83/EC, as amended. \n(2) This Guideline applies to medicinal products authorised for marketing in Romania \nthrough centralised/decentralised/mutual recognition procedure. \nArt. 2. – In accordance with Art. 700 of the Law, transposing Art. 6. of Directive \n2001/83/EC, no medicinal product may be placed on the market of Romania unless a \nmarketing authorisation has been issued by the National Agency for Medicines and Medical \nDevices (ANMDM) or by the European Medicines Agency (EMA). \nArt. 3. – This Guideline provides recommendations concerning the writing of the \nmarketing authorisation and annexes to the marketing authorisation, replacing the previous \nrelated norms for medicinal products authorised by the NAMMD through national, \ndecentralised or mutual recognition procedure. \nArt. 4. – Under the heading referring to the legal basis of the marketing authorisation, \na combination of the following legal bases is to be used, as required: <Art. 700 (1), <Art. 702 \n(4)>, <Art. 704 (1) and (2)>, <Art. 704 (3)>, <Art. 704 (4)>, <Art. 705>, <Art. 706>, <Art. \n707>, <Art. 710>, <Art. 714>, <Art. 730 (2)>, <Art. 730 (5)>, <Art. 736 (2)>, <Art. 736 (3)> \nor  <Art. 736 (4)>. \n",
+          "start": 676,
+          "end": 2806,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "ROU-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.anm.ro/en/_/HCS/Decision%2021%20-%2003.09.2010%20and%20Annexes.pdf",
+          "raw_sha256": "c2874eeaba2490a63e74d6c5385bc47a40227a1eb894437f5b64bd424f5fb751",
+          "text_sha256": "9193672a991dbab8adc0c1a092b1316ea5a14f299e273888a1f9f26809d7f753",
+          "exact_text": "PAGE 1\nDECISION \nNo. 21/03.09.2010 \n \non approval of the Guideline on the writing of the marketing authorisation \nand annexes to the marketing authorisation \n \n \nThe Scientific Council of the National Agency for Medicines and \nMedical Devices (NAMMD), set up based on Order of the Minister of Public \nHealth no. 1123/18.08.2010, as amended, reunited on summons of the President \nof the National Agency for Medicines and Medical Devices in the ordinary \nmeeting of 03.09.2010, in accordance with Article 12(5) of Government \nOrdinance no. 734/2010 related to the set up, organisation and operation of the \nNational Medicines Agency, agrees on the following  \n \n \nDECISION \n \n \nArt. 1. - The Guideline on the writing of the marketing authorisation and \nannexes to the marketing authorisation is approved, in accordance with the \nAnnexes which are integral part of this Decision.  \nArt. 2. – On the date of the coming into force of this Decision, the NMA \nScientific Council Decision No. 1/02.06.2005 on approval of the new structure \nof the marketing authorisation and Norms for marketing authorisation writing is \nhereby repealed. \n \n \n \n \n \n \n \n \n \n \n \nPRESIDENT \nof the Scientific Council \nof the National Agency for Medicines and Medical Devices, \nAcad. Prof. Dr. Leonida Gherasim \n \n \n \n \n\n\nPAGE 2\nANNEX I \n \nGuideline on the writing of the marketing authorisation and annexes to the marketing \nauthorisation \n \n \nArt. 1. – (1) This Guideline is issued in accordance with the provisions of Law No. \n95/2006 on the healthcare reform, Title XVII – The medicinal product (hereinafter “the \nLaw”) transposing Directive 2001/83/EC, as amended. \n(2) This Guideline applies to medicinal products authorised for marketing in Romania \nthrough centralised/decentralised/mutual recognition procedure. \nArt. 2. – In accordance with Art. 700 of the Law, transposing Art. 6. of Directive \n2001/83/EC, no medicinal product may be placed on the market of Romania unless a \nmarketing authorisation has been issued by the National Agency for Medicines and Medical \nDevices (ANMDM) or by the European Medicines Agency (EMA). \nArt. 3. – This Guideline provides recommendations concerning the writing of the \nmarketing authorisation and annexes to the marketing authorisation, replacing the previous \nrelated norms for medicinal products authorised by the NAMMD through national, \ndecentralised or mutual recognition procedure. \nArt. 4. – Under the heading referring to the legal basis of the marketing authorisation, \na combination of the following legal bases is to be used, as required: <Art. 700 (1), <Art. 702 \n(4)>, <Art. 704 (1) and (2)>, <Art. 704 (3)>, <Art. 704 (4)>, <Art. 705>, <Art. 706>, <Art. \n707>, <Art. 710>, <Art. 714>, <Art. 730 (2)>, <Art. 730 (5)>, <Art. 736 (2)>, <Art. 736 (3)> \nor  <Art. 736 (4)>. \nArt. 5. – (1) According to Art. 730 (1) of the Law, a marketing authorisation shall be \nvalid for 5 years. \n(2) The marketing authorisation shall contain the following specification: “This \nmarketing authorisation is valid for 5 years as of the date of its issue”. \nArt. 6. – (1) In accordance with Art. 730. (5) of the Law, once renewed, the marketing \nauthorisation is valid for an unlimited period, in which case the marketing authorisation shall \nnot specify anything related to the validity of the marketing authorisation. \n \nArt. 7. – (1) Under the heading “Registration name”, the name, strength and \npharmaceutical form of the medicinal product shall be specified.  \n(2) In accordance with Art. 695, point 20 of the Law, the name of the medicinal \nproduct “may be an invented name not liable to confusion with the common name/ a common \nname or a scientific name, accompanied by the trademark or the name of the Marketing \nAuthorisation Holder”; \n(3) The strength is expressed in accordance with the “Guideline on the expression of \nstrength in the name of centrally authorised medicinal products for human use”, approved \nthrough Scientific Council Decision No. 11/07.06.2010; \n \n(4) The registered mark symbol, ®, TM, for the medicinal product invented trade \nname is not entered; \n \n(5) The pharmaceutical form shall be named in accordance with the Regulations in \nforce concerning the Romanian standard terms for pharmaceutical forms, routes of \nadministration, closure and administration systems, in accordance with those adopted by the \nEuropean Pharmacopoeia Commission. \n \nArt. 8. – (1) The following are entered in the marketing authorisation under the \nheading “Composition”: active substance(s) in terms of quality and quantity and auxiliary \nsubstance(s) in terms of quality; \n(2) The quantity of active substance is expressed per dosage unit, per volume unit or \nweight unit, depending on the type of pharmaceutical form; \n\n\nPAGE 3\n \n(3) In the case of active substance(s) under the form of salt, ester, hydrated form etc., \nthe quantity of the respective substance and its equivalent in anhydrous base are entered; \n(4) Components are entered using the common name or the scientific name or the \ncommon standard name according to the European Pharmacopoeia or the Romanian \nPharmacopoeia or some international pharmacopoeia giving official status to the respective \ncomponent (the name of the components is to be entered in the mentioned order); \n \n(5) For certain auxiliary substances, specifications have to be made on the following: \n- the colour index (colouring matters, for instance, E171) \n- granulometry (for instance: Lactose monohydrate 200mesh); \n \n(6) For cert",
+          "start": 0,
+          "end": 5500,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

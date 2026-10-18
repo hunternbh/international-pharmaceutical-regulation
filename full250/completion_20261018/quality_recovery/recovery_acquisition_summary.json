@@ -1,0 +1,29 @@
+{
+  "completed_utc": "2026-10-18T05:27:25.136395+00:00",
+  "priority_URLs_accounted_for": 334,
+  "known_database_records_reused": 66,
+  "new_jobs_accounted_for": 268,
+  "new_job_status_counts": {
+    "downloaded": 223,
+    "failed": 45
+  },
+  "all_status_counts": {
+    "downloaded": 276,
+    "failed": 58
+  },
+  "all_source_quality_counts": {
+    "text_extracted_relevance_unreviewed": 254,
+    "failed": 58,
+    "no_or_short_text_ocr_or_original_review_needed": 21,
+    "challenge_or_access_response": 1
+  },
+  "new_jobs_reusing_original_on_hand_bytes": 19,
+  "explicit_timeout_URL": "https://www.agemed.gob.bo/resoluciones/RA_042_2024.pdf",
+  "sqlite_closed": true,
+  "sqlite_quick_check": "ok",
+  "HTTP_background_jobs_remaining": 0,
+  "integrity_status": "passed",
+  "integrity_warnings": [],
+  "lower_priority_unreviewed_URLs": 1567,
+  "new_national_laws_automatically_coded": 0
+}

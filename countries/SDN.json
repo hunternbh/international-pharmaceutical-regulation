@@ -132,5 +132,55 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SDN",
+    "country": "Sudan",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "registration_documentation",
+    "fixed_case_scope_status": "registration_requirements_not_reliance",
+    "finding": "The registration instructions require plant registration, origin marketing or justification, application/fees, English documents, authenticated CPP and foreign authorizations. These are documented local steps, with no reduced-review pathway established by the selected passage.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The registration instructions require plant registration, origin marketing or justification, application/fees, English documents, authenticated CPP and foreign authorizations. These are documented local steps, with no reduced-review pathway established by the selected passage."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The registration instructions require plant registration, origin marketing or justification, application/fees, English documents, authenticated CPP and foreign authorizations. These are documented local steps, with no reduced-review pathway established by the selected passage."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The registration instructions require plant registration, origin marketing or justification, application/fees, English documents, authenticated CPP and foreign authorizations. These are documented local steps, with no reduced-review pathway established by the selected passage."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The registration instructions require plant registration, origin marketing or justification, application/fees, English documents, authenticated CPP and foreign authorizations. These are documented local steps, with no reduced-review pathway established by the selected passage."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The registration instructions require plant registration, origin marketing or justification, application/fees, English documents, authenticated CPP and foreign authorizations. These are documented local steps, with no reduced-review pathway established by the selected passage."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "SDN-R01",
+        "source_url": "https://nmpb.gov.sd/en/drug_hu_forgin.php?num=4",
+        "raw_sha256": "bbedd79e41afed69f211f70dd9dd452696176ae73a988e1cad9c23e6afbdabb3",
+        "text_sha256": "55d6a108380250746d2d16001583506e43974d080953adbc9f1096a289ec28e4",
+        "start_offset": 449,
+        "end_offset": 1710,
+        "verbatim_extracted_text": "Requirements for the registration of Human medicines\nA.\nGeneral Requirements:\n1.\nThe manufacturing plants should be registered within the NMPB.\n2.\nThe pharmaceutical product with the same specification should be registered and freely sold in the country of origin and if not please give justifications.\n3.\nThe application form should be filled by the applicant.\n4.\nThe prescribed fees should be paid.\n5.\nAll documents should be in English.\nB.\nSpecific Requirements:\n1.\nCertificate of Pharmaceutical Product (CPP):\n·\nAs WHO format (or at least containing the same information).\n·\nShould be valid and issued by the health authority in the exporting country and authenticated by Sudan Ministry of Foreign Affairs.\n·\nThe composition formula in (CPP)should show the active and inactive ingredients with quantitative formula. (If detailed composition formula is not attached with the CPP, a stamped document from the drug authority at\ncountry of origin consists of the composition formula\nshould be submitted along with the registration file).\n2.\nMarketing licensing or authorization in other countries\n:\n·\nProvide a list of the countries in which this product has been granted license for marketing,\n·\nPhotocopy of marketing authorization in each of these countries\n",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Current preserved source version; date of first adoption not inferred",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Foreign-marketing and certification requirements; no review reduction demonstrated",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

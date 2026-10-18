@@ -117,5 +117,55 @@
     "source_hashes": [
       "5e1d9b85ed741afea4b00d63f393ab274a761ae86b1b040923c0078e16c96bd2"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "DMA",
+    "country": "Dominica",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "historical_profile",
+    "fixed_case_scope_status": "historical_survey_only",
+    "finding": "The2012 country profile reports no product-registration requirement and no mutual recognition mechanism. It does not identify current domestic or later regional requirements.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The2012 country profile reports no product-registration requirement and no mutual recognition mechanism. It does not identify current domestic or later regional requirements."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The2012 country profile reports no product-registration requirement and no mutual recognition mechanism. It does not identify current domestic or later regional requirements."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The2012 country profile reports no product-registration requirement and no mutual recognition mechanism. It does not identify current domestic or later regional requirements."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The2012 country profile reports no product-registration requirement and no mutual recognition mechanism. It does not identify current domestic or later regional requirements."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The2012 country profile reports no product-registration requirement and no mutual recognition mechanism. It does not identify current domestic or later regional requirements."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "DMA-SUP-5e1d9b85-26417",
+        "source_url": "https://www.paho.org/sites/default/files/2025-06/pharmaceutical-country-profile-dominica.pdf",
+        "raw_sha256": "5e1d9b85ed741afea4b00d63f393ab274a761ae86b1b040923c0078e16c96bd2",
+        "text_sha256": "47b267e9c01e8011674f8e615f79eae6aa3d8bd6d93f1e906e079dc9de5ddf2e",
+        "start_offset": 26417,
+        "end_offset": 26711,
+        "verbatim_extracted_text": "5.2 Marketing Authorization (Registration) \n \nIn Dominica, legal provisions do not require marketing authorization (registration) \nfor pharmaceutical products on the market7. Mutual recognition mechanisms are \nnot in place. Information from the WHO prequalification programme is not used. \n \n \n",
+        "pdf_page": 24,
+        "language": "en",
+        "language_status": "Supplemental original-language source; Official ministry/PAHO descriptive country profile",
+        "evidence_tier": "Supplemental: Official ministry/PAHO descriptive country profile",
+        "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Supplemental evidence, scope/version retained in source records",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

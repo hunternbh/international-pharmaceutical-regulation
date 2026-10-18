@@ -247,5 +247,55 @@
     "source_hashes": [
       "fa3849182e578f43126a1e903aae6be4d2eb01b3b0d79757733fff69045ea4a8"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "BWA",
+    "country": "Botswana",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "enabling_power",
+    "fixed_case_scope_status": "operational_conditions_unresolved",
+    "finding": "Section109 permits use of another authority’s reports, information or decisions. It does not resolve which foreign approvals and application conditions qualify the fixed medicine.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "Section109 permits use of another authority’s reports, information or decisions. It does not resolve which foreign approvals and application conditions qualify the fixed medicine."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "Section109 permits use of another authority’s reports, information or decisions. It does not resolve which foreign approvals and application conditions qualify the fixed medicine."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "Section109 permits use of another authority’s reports, information or decisions. It does not resolve which foreign approvals and application conditions qualify the fixed medicine."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "Section109 permits use of another authority’s reports, information or decisions. It does not resolve which foreign approvals and application conditions qualify the fixed medicine."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "Section109 permits use of another authority’s reports, information or decisions. It does not resolve which foreign approvals and application conditions qualify the fixed medicine."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "BWA-Q01",
+        "source_url": "https://www.bomra.co.bw/wp-content/uploads/2026/06/Medicines-and-Related-Substances-Act-2025-2.pdf",
+        "raw_sha256": "76cb1f084cf52e0015623ac180a8aa95b4aeda065d0a540987fd178cdca171b8",
+        "text_sha256": "4178eaa8eaaa7f815ce37031b48ff6c855215703776b61db0f656cc5a061bf6c",
+        "start_offset": 114655,
+        "end_offset": 115036,
+        "verbatim_extracted_text": "109. (1) The Authority may make or adopt regulatory decisions \nbased on reports, information or decisions made by another regulatory \nauthority or trusted institution in reaching its own decision. \n(2) The Authority may enter into mutual agreements, mutual \nrecognitions with other regulatory authorities for the purpose of \nfacilitating performance and regulatory decision making.",
+        "pdf_page": 46,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Enabling framework; operational route not established",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

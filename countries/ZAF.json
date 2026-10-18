@@ -283,5 +283,783 @@
     "source_hashes": [
       "1cfda0b439b5bb0ae019a116f2fe58556c92a6cd3a031edcc86c88687ec53ca9"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ZAF",
+    "country": "South Africa",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Abridged/verified review; recognition agreements pending",
+    "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+    "document_id": "ef4ab05c11769d459684",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "SAHPRA v5 6 August 2025. Assess clinical and quality/BE independently: new chemical entity clinical abridged and quality verified. “Recognition” agreements being negotiated, not an operative blanket recognition route. FDA-specific proprietary-owner letter differs from other reference routes.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "RRA-approved NCE eligible for clinical abridged and quality verified consideration.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA, EU centralized/DCP, Canada, MHRA, Japan, Swissmedic, TGA, WLA.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "One or more RRAs; two foreign approvals not a universal threshold.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Latest approved product, all approved variations incorporated; pending variations excluded.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Full report package where indicated; quality/BE table specifies complete staged assessments and correspondence.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Public summary alone cannot establish full package; no express blanket public-domain ban.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "applicant_consent": {
+        "state": "discretionary/conditional",
+        "finding": "For USFDA RRA, proprietary MA holder confirmation wishing to share should be provided; EMA route separate, so no universal B–C loss inferred.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "discretionary/conditional",
+        "finding": "Applicant sources reports; SAHPRA generally does not source non-FDA/non-WHO reports; FDA/WHO exceptions retained.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Clinical module-overview assessment, quality sameness verification, localized requirements and pathway discretion retained.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "Non-English full reports translated in line with regulations.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Final pathway fully at SAHPRA discretion; absent reports can default full review after stated window.",
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "explicitly ineligible for identified full-report route",
+        "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+        "decisive_conditions": [
+          "Complete underlying assessment report requirement"
+        ],
+        "unresolved_conditions": [
+          "Other eligibility remains unresolved; route alternatives assessed separately."
+        ],
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ],
+        "status": "explicitly ineligible for identified full-report route"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "unresolved across alternative references",
+        "finding": "FDA-based application asks proprietary-owner sharing confirmation; EMA-based alternative is distinct. Cannot conclude loss of every pathway when applicant consent unavailable.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ],
+        "status": "unresolved across alternative references"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ZAF-Q01",
+          "ZAF-Q02",
+          "ZAF-CTX-1",
+          "ZAF-CTX-2",
+          "ZAF-CTX-3"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "explicit full-report condition; overall access gain not fully resolved",
+        "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+      },
+      "B_minus_C": {
+        "status": "conditional sharing provision",
+        "finding": "Applicant consent is explicitly mentioned but scope/alternative channels matter; do not force a country-wide binary gate."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "ZAF-Q01",
+        "source_document_id": "ef4ab05c11769d459684",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 7,
+        "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+        "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+        "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+        "exact_text": "The World Health Organization (WHO) defines reliance as the act whereby the regulatory authority in one \njurisdiction may take into account and give significant weight to – i.e. totally or partially rely upon – evaluations \nperformed by another regulatory authority or trusted institution in reaching its own decision. The relying \nauthority remains responsible and accountable for decisions taken, even when it relies on the decisions and \ninformation of others. Wherever possible, SAHPRA will leverage these pathways, relying on the evaluation \nefforts of Recognised Regulatory Authorities (RRAs) to reduce evaluation times. \nReliance-based evaluation pathways of medicine applications for new registrations and variations in South \nAfrica will follow one of three evaluation/ review pathways: \na) \nAbridged review \nb) \nVerified review \nc) \nRecognition \nNOTE: Pathways (a), (b), and (c) replace the prior Abbreviated Medicines Review Process (AMRP). The \napplication of and use-cases for reliance-based evaluation pathways differ between the Clinical and Quality \nand Bioequivalence units (see Section 2.2 below). For clones and replicas, please refer to the Communication \nto Industry on Clones and Replicas. \n4. \nGENERAL DESCRIPTIONS OF THE RELIANCE-BASED EVALUATION PATHWAYS \na) \nAbridged review: A streamlined review based primarily on full assessment reports from RRAs, \nreplacing the need to evaluate all data (and summaries thereof) submitted in support of an \napplication. \nb) \nVerified review: A streamlined review based primarily on verifying, instead of evaluating, \ninformation submitted in the application against information which has already been approved by \nSAHPRA or an RRA. Note that full assessment reports are required for Quality and Bioequivalence \nPEM-verified reviews as a fallback option for evaluators. \nc) \nRecognition: A streamlined registration/approval process based on directly recognising the outcome \nof a review from an RRA with which SAHPRA shares a recognition agreement. \n\n\nPAGE 8\nSAHPGL-BAU-01_v5 \nPage 8 of 23\nReliance Guideline \n6 August 2025 \n \n \nNOTE: SAHPRA is currently in the process of negotiating recognition agreements with RRAs. Once such an \nagreement is in place, SAHPRA will publish a framework for the practical implementation thereof. The \nguiding principle is that applications approved by RRAs with which SAHPRA shares a recognition agreement \nmay not need to be evaluated separately by SAHPRA. Please note that this is not to be confused with \ncollaborative/work-sharing procedures (e.g., ZAZIBONA).",
+        "start": 13068,
+        "end": 15627,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "ZAF-Q02",
+        "source_document_id": "ef4ab05c11769d459684",
+        "evidence_role": "Selected primary document",
+        "section_article": "Retained evidence-request power",
+        "pdf_page": 1,
+        "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+        "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+        "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+        "exact_text": "SAHPRA reserves the right to request any additional information to establish the safety, efficacy, and quality \nof a medicine in keeping with the knowledge current at the time of evaluation. Alternative approaches may be used, but \nthese should be scientifically and technically justified. The Authority is committed to ensuring that all registered \nmedicines will be of the required safety, efficacy, and quality. It is important that applicants adhere to the administrative \nrequirements to avoid delays in the processing and evaluation of applications.",
+        "start": 484,
+        "end": 1039,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "ZAF-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+        "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+        "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+        "exact_text": "iew Process (AMRP). The \napplication of and use-cases for reliance-based evaluation pathways differ between the Clinical and Quality \nand Bioequivalence units (see Section 2.2 below). For clones and replicas, please refer to the Communication \nto Industry on Clones and Replicas. \n4. \nGENERAL DESCRIPTIONS OF THE RELIANCE-BASED EVALUATION PATHWAYS \na) \nAbridged review: A streamlined review based primarily on full assessment reports from RRAs, \nreplacing the need to evaluate all data (and summaries thereof) submitted in support of an \napplication. \nb) \nVerified review: A streamlined review based primarily on verifying, instead of evaluating, \ninformation submitted in the application against information which has already been approved by \nSAHPRA or an RRA. Note that full assessment reports are required for Quality and Bioequivalence \nPEM-verified reviews as a fallback option for evaluators. \nc) \nRecognition: A streamlined registration/approval process based on directly recognising the outcome \nof a review from an RRA with which SAHPRA shares a recognition agreement. \n\n\nPAGE 8\nSAHPGL-BAU-01_v5 \nPage 8 of 23\nReliance Guideline \n6 August 2025 \n \n \nNOTE: SAHPRA is currently in the process of negotiating recognition agreements with RRAs. Once such an \nagreement is in place, SAHPRA will publish a framework for the practical implementation thereof. The \nguiding principle is that applications approved by RRAs with which SAHPRA shares a recognition agreement \nmay not need to be evaluated separately by SAHPRA. Please note that this is not to be confused with \ncollaborative/work-sharing procedures (e.g., ZAZIBONA). \n4.1 \nSAHPRA’s Recognised Regulatory Authorities \nTo qualify for a reliance evaluation pathway, an application must have been approved by one or more of \nthe RRAs with which SAHPRA aligns itself. \nSAHPRA’s current RRAs include: \n \nEuropean Union Centralised Procedure (EU CP) \n \nEuropean Union Decentralised Procedure (EU DCP) (no restrictions on which member state acts \nas the reference member state) \n \nHealth Canada \n \nMedicines and Health Products Regulatory Agency (MHRA (UK)) \n \nMinistry of Health, Labour and Welfare (MHLW)/ Pharmaceutical and Medical Devices Agency \n(PMDA) - Japan \n \nSwiss Agency for Therapeutic Products (SwissMedic) \n \nTherapeutic Goods Administration (TGA) -Australia \n \nUS Food and Drug Administration (US FDA) \n \nWHO listed Authorities (WLA) \nSAHPRA has certain MOUs and agreements in place with organisations and regulatory authorities. The \nscope of these agreements determines the applicability of certain reliance or work-sharing procedures. \nInformation on the use of these agreements or related procedures is communicated by SAHPRA when \napplicable. \nThe following additional procedures can be used for reliance/collaborative review, which are not strictly \nregulatory authorities: \n \nWorld Health Organization (WHO) collaborative registration process: \no \nPrequalification \no \nSRA approved \n \nZAZIBONA collaborative procedure \n\n\nPAGE 9\nSAHPGL-BAU-01_v5 \nPage 9 of 23\nReliance Guideline \n6 August 2025 \n \n \n \nEuropean Medicines Agency \no \nMutual Recognition procedure and National Procedures within the EU \n \nSwissMedic Marketing Authorization for Global Health Products (MAGHP) procedure \n \nPIC/s Member States \n \nAMA \n \nEU-M4all \nSAHPRA’s recognised regulatory authorities for registration of veterinary medicines include: \n \nEMA_CVMP \n \nUS FDA \n \nJMAFF \n \nAPVMA \n \nUKVMD \n \nHC \n \nMEDSAFE \n \nSwissMedic \n \nAMA \n \nVeterinary Zazibona \n4.2 \nIndependent application of reliance for Quality & Bioequivalence (quality and \nbioequivalence and clinical) \nA given application often differs in complexity for Clinical versus Quality and Bioequivalence evaluation. For \nexample, a typical application for a generic/multisource medicine requires a relatively straightforward \nverification of PIs for Clinical, yet Quality and Bioequivalence faces the added complexity of bioequivalence \nassessment. As a result, SAHPRA’s reliance pathways are applied independently for Quality and \nBioequivalence, and Clinical. This has the following two key implications: \n \nEvaluation pathways may differ for Quality and Bioequivalence and Clinical evaluation (e.g., Clinical \nmay follow a verification procedure, while Quality and Bioequivalence follow a full review, based on \nthe nature of the application and the quality of reliance documents submitted) \n \nThe RRAs referenced in an application may differ for Quality and Bioequivalence and Clinical evaluation \n\n\nPAGE 10\nSAHPGL-BAU-01_v5 \nPage 10 of 23\nReliance Guideline \n6 August 2025 \n \n \n(e.g., Clinical may refer to the SAHPRA-approved local innovator PI and latest EMA SmPC as part of a \nverified review, while the Quality and Bioequivalence evaluation refers to information approved by \nthe TGA). \nThis approach widens the use of reliance, by not limiting an application to the same pathway/reference \nRRA for Quality and Bioequivalence, and Clinical evaluation. \n4.3 \nTechnical Screening of Applications \nApplicants are to provide SAHPRA with the intended evaluation pathways for Quality and Bioequivalence \nand Clinical evaluation, along with a brief motivation. The intended evaluation pathways should be \nindicated on the new registration/variation validation template in the relevant sections. Providing the \nintended pathways prevents unnecessary screening for reliance documentation in instances where a full \nreview is intended by the applicant. \nDecisions related to an application’s final evaluation pathway and the extent of reliance on an RRA’s \nevaluation are fully at SAHPRA’s discretion and will depend on the availability and quality of reliance \ndocumentation submitted. SAHPRA will share screening queries with applicants regarding insufficient \nreliance documentation to ensure that as many applications as possible qualify for abridged and verified \nreviews. Where applicable, applications will default to a full review in the absence of a suitable reliance \npathway. \n4.4 \nAssessment Reports \nWhere indicated as a requirement for an abridged or verified review, applicants are to provide SAHPRA \nwith full assessment reports from an RRA (submitted in Module 1.10). \nThe following requirements apply: \n \nFull assessment/ evaluation reports should at least include safety, efficacy, and quality report(s) \nprepared by the RRA upon which the registration/approval decision was based (refer to Table 2 for a \nlist of documents required for Q-BE). \n \nWhere full assessment/evaluation reports from the RRA are in languages other than English, translated \nversions need to be provided in line with Regulation 16 (4). \nNOTE: SAHPRA requires assessment reports to be sent directly from the applicant. If the reports are not \nobtained, the application in question will most likely default to a full review, extending evaluation time. \nFor applications where the USFDA is the RRA, a letter of confirmation from the USFDA marketing \nauthorisation holder (proprietary owner) confirming that they are the legal holder of the proprietary \ninformation and that they wish to share information about this product with SAHPRA should be provided. \nFor applications with RRAs listed in Section 2.1, except for WHO collaborative procedures and US FDA-based \napplications, SAHPRA will not source the RRA assessment reports, and the letter of access for reliance (GLF-\nPEM-02E) will not be applicable. Applicants are required to source the full reports from the Marketing \nAuthorisation Holder.  \n\n\nPAGE 11\nSAHPGL-BAU-01_v5 \nPage 11 of 23\nReliance Guideline \n6 August 2025 \n \n \nNOTE: SAHPRA retains the right to request additional information from applicants with regard to the \napplication. If no full assessment reports are received from the RRA within three (3) months of the request, \nthe application will be reviewed using a full review. \nAll other Marketing Authorisation Holders that wish to submit assessment reports directly to SAHPRA \nshould use the dedicate",
+        "start": 14000,
+        "end": 22000,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "ZAF-CTX-2",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+        "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+        "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+        "exact_text": " that has not yet been registered by SAHPRA will be considered as a New \nChemical Entity (NCE) in South Africa, regardless of whether the molecule has already been registered by other \nregulatory authorities. \n5.1 \nAbridged Review \nThe abridged review is based primarily on the overviews of pre-clinical and clinical data in CTD Modules 2.4 \nand 2.5. All supporting documents as stipulated in Section 4 of this guideline should be included in the \nsubmission to qualify for an abridged review. \nAll NCE and biological applications, generic applications with clinical data, Type II variations, and EAs that \nhave prior approval from an RRA will be considered for an abridged review. In addition, all applications for \nbiosimilar medicines will be considered for an abridged review. \nAn abridged review is indicated specifically for the following types of applications: \n5.1.1 \nMonocomponent medicines \n \nFor registration of an NCE already approved by an RRA \n \nFor registration of an NCE based on well-established use (relying on literature), where the \nmedicine has already been registered on the same basis by an RRA \n \nFor a monocomponent multisource medicine/generic registered by an RRA, and where clinical \ndata generated with the generic has been supplied in support of the application \n \nBiological medicine registered by an RRA \n \nBiosimilar medicine where the reference biological medicine has already been registered by \nSAHPRA \n5.1.2 \nMulticomponent medicines \n \nFor a multicomponent fixed dose combination of two or more chemical entities, where the \ncombination is not registered by SAHPRA, but registered by an RRA \n\n\nPAGE 13\nSAHPGL-BAU-01_v5 \nPage 13 of 23\nReliance Guideline \n6 August 2025 \n \n \n5.1.3 \nType II variations \n \nFor Type II variations where the amendment applied for has already been approved by an RRA \n(e.g., additional/amended therapeutic indications, safety amendments, posology, and method \nof administration) \n5.1.4 \nEAs \n \nFor all EAs that have not yet been approved by SAHPRA for a given molecule but have been \napproved by an RRA. \n5.2 \nVerified Review \nThe verified review is initiated to limit the evaluation time of applications for APIs already registered by \nSAHPRA. The verified review is effectively a comparison of an applicant’s proposed PI against an up-to-date \nreference PI (from a Clinical safety perspective). The primary reference is the latest approved PI of the \nassociated local innovator product. The latest-approved foreign innovator PI may be supplied as an \nadditional/alternative reference only where the local innovator is materially outdated or no longer \nmarketed (see SAHPGL-CEM-02 Guideline on Professional Information for Human Use for which sections \nrequire complete localisation to the SA innovator product). \nAll Type IB variations and generic applications (without clinical data) for APIs already registered by SAHPRA \nwill be considered for a verified review. In addition, EAs that have already been approved by SAHPRA will \nbe considered for a verified review. \nA verified review is indicated specifically for the following types of applications: \n5.2.1 \nMonocomponent medicines \n \nFor duplicates/clones of medicines registered by SAHPRA \n \nFor a multisource medicine/generic with identical therapeutic indications, formulation/dosage \nform, and strength for APIs previously approved by SAHPRA \n5.2.2 \nMulticomponent medicines \n \nFor a multicomponent fixed dose combination of two or more chemical entities, where the \ncombination is already registered by SAHPRA \n5.2.3 \nType IB variations \n \nFor all Type IB variations reviewed by SAHPRA \n5.2.4 \nEAs \n \nFor all EAs that have already been approved by SAHPRA for a given molecule \n \nFor all EAs related to new pharmaceutical forms which follow the same route of administration \n\n\nPAGE 14\nSAHPGL-BAU-01_v5 \nPage 14 of 23\nReliance Guideline \n6 August 2025 \n \n \nas that which has already been approved by SAHPRA (e.g., EA for a capsule, where SAHPRA has \nalready approved use of a tablet) 1 \n1Regardless of whether SAHPRA or an RRA has previously approved the EA for a given molecule (i.e., the EA \nfor a capsule may not have been approved by SAHPRA or an RRA, but the application qualifies for verification \nas SAHPRA has previously approved the same [oral] route of administration). \n6. \nDOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION – CLINICAL  \n6.1 \nAbridged Review Requirements \nNOTE: Some requirements may not apply to a certain application type for abridged",
+        "start": 25000,
+        "end": 29500,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "ZAF-CTX-3",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+        "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+        "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+        "exact_text": "ine already registered by an RRA \n(ii) \nFor a new registration for a WHO PQ product: \n \nApplicants are required to follow SAHPRA’s process for the WHO Collaborative Registration Procedure \nhttps://www.sahpra.org.za/document/expression-of-interest-who-pre-qualification-collaborative-\nregistration-procedure/ \n(i) \nFor a Type II variation where the variation applied for has already been approved by an RRA \n7.2 \nVerified Review Requirements \nA verified review is a reliance-based review comprising: \n \nValidation by SAHPRA to ensure that the product application submitted for registration by SAHPRA is \nthe same as the product registered by the specified RRA \n \nEvaluation of Module 1: Regional administrative information (as required). A verified review applies \nto the following types of applications: \n(i) \nFor a new registration application for an NCE medicine already registered by an RRA \n(ii) \nFor a Type IB variation where the variation applied for has already been approved by an RRA \n8. \nDOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION – QUALITY/ BIO- \nEQUIVALENCE \nTo qualify for a reliance-based review, an applicant needs to submit additional documentation to the \ndocumentation required for a full review. \nTable 1: Documentation required for reliance-based evaluation. \nDocument required \nApplicable types of applications \nCompleted abridged review template \n5.1 i, ii \n\n\nPAGE 17\nSAHPGL-BAU-01_v5 \nPage 17 of 23\nReliance Guideline \n6 August 2025 \n \n \nDocument required \nApplicable types of applications \nCompleted verified review template \n5.2 i \nFull assessment/evaluation reports from the RRA \nwhere the product is registered. \nDetails of the outcomes of the application in all \njurisdictions where it has been submitted, and \nForeign registration certificate(s), and \nSmPC, a copy of the patient information leaflet (PIL) \nand label of the product that has been registered by \nthe RRA, and \nIf available: initial scientific assessments, \nregulatory correspondence with the \nsponsor/applicant, follow-up assessments, and \nany other documentation from the RRA related to \nthe final registration decision, and \nIf available and where applicable: risk management \nplans and on-site inspection reports (or equivalent), \nfor example GCP/ GRP. This does not include the data \npackage filed with the RRA \n \n \n \n \n \n \n \n \ni, iv \ni, iii \nLetter of approval from the RRA \n5.1 iv \niii \nDeclaration: Sameness \n5.1 i, ii \ni \n \nTable 2: Documents that comprise a complete assessment of each RRA. \nThe table below lists the documents that comprise a complete assessment for each RRA. The full set of \ndocuments must be submitted in your reliance report-based application. \nRRA \nRequired documentation \nTherapeutic Goods Administration, Australia \n• Comprehensive details of all studies \nsubmitted and assessed \n• All assessment report(s) \n• Questions from the regulator to the \nMarket Authorisation Holder (and \nanswers) \n\n\nPAGE 18\nSAHPGL-BAU-01_v5 \nPage 18 of 23\nReliance Guideline \n6 August 2025 \n \n \nRRA \nRequired documentation \n• Summaries of meetings with TGA \n(including presubmission advice, where \nrelevant) \n• Approval letter \n• Post marketing reviews \n• Note: All relevant milestone dates are \nspecified in the submission evaluation \nplan. \nEuropean Medicines Agency (EMA) \n• Comprehensive details of all studies \nsubmitted and assessed \n• Centralised procedure assessment \nreports (where applicable): \n• Day 80 Quality, Non-Clinical, Clinical, \nand Overview Assessment Reports \n• Day 120 List of Questions (and \nanswers) \n• Day 150 Quality, Non-Clinical, Clinical, \nand Overview Assessment Reports \n• Day 180 Joint Assessment Report \n• Day 180 List of Outstanding Issues \n• Final Assessment Report \n• Decentralised procedure assessment \nreports (where applicable): \no All assessment reports \no Questions from the regulator to the \nMarket Authorisation Holder (and \nresponses) \no Summaries of meetings with the EMA \nand/or assessors (including \npresubmission advice, where \nrelevant) \no Committee for Medicinal Products for \nHuman Use (CHMP) Summary of \nOpinion \no Any other questions from the \n\n\nPAGE 19\nSAHPGL-BAU-01_v5 \nPage 19 of 23\nReliance Guideline \n6 August 2025 \n \n \nRRA \nRequired documentation \nregulator to the Market Authorisation \nHolder \no Letter of undertaking \no European Commission decision \no Risk Management Plan review(s) \no Post marketing review(s) (e.g., \nPeriodic Safety Update Reports) \nPharmaceutical and Medical Devices Agency \n(PMDA), Japan \n• Comprehensive details of all studies \nsubmitted and assessed \n• Discussion documents, questions from \nPMDA and answers provided, and \nfinalised minutes from Scientific \nConsultation Meetings (if applicable) \n• Outcome of Orphan designation, \npriority or SAKIGAKE determination (if \nrelevant) \n• Copies of questions and answers \nexchanged between Sponsor and \nPMDA \n• Un-redacted English Translated Review \nReport consisting of: \no Review Report 1 \no Review Report 2 \no Review Result \no Report on the Deliberation Results \no Approval Letter \no Post-marketing review(s) (e.g., Re-\nexamination Review Report, \nPeriodic Safety Reports) \nHealth Canada \n• Comprehensive details of all studies \nsubmitted and assessed \n• Screening: Screening Report \n• Clinical Review: Pharmaceutical Safety \nand Efficacy Assessment Report \n(PSEAR) \n\n\nPAGE 20\nSAHPGL-BAU-01_v5 \nPage 20 of 23\nReliance Guideline \n6 August 2025 \n \n \nRRA \nRequired documentation \n• Quality: Quality Evaluation Summary \n(QES) and Manager’s Memo \n• Bioequivalence: Comprehensive \nSummary – Bioequivalence (CS-BE) and \nManager’s Memo \n• Biostatistics: Biostatistics Consult \nReport (if applicable) \n• Risk Management Plan: Risk \nManagement Plan Assessment Report \n(if applicable) \n• Questions from the regulator to the \nMarket Authorisation Holder (and \nresponses) \n• Summaries of meetings with Health \nCanada (including presubmission \nadvice, where relevant) \n• Final Manager’s Memo, and Executive \nSummary \nMedicines and Healthcare products Regulatory \nAgency (MHRA), United Kingdom \n• Comprehensive details of all studies \nsubmitted and assessed \n• All assessment reports as part of the \niterative process \n• Questions from the regulator to the \nMarket Authorisation Holder (and \nresponses) \n• Committee for Medicinal Products for \nHuman Use \n• (CHMP) Summary of Opinion \n• Summaries of other meetings with the \nMHRA (including presubmission advice, \nwhere relevant) \n• Approval letter \n• Post marketing review(s) (e.g., Periodic \nSafety Update Reports) \nSwissMedic, Switzerland \n• Comprehensive details of all studies \nsubmitted and assessed \n\n\nPAGE 21\nSAHPGL-BAU-01_v5 \nPage 21 of 23\nReliance Guideline \n6 August 2025 \n \n \nRRA \nRequired documentation \n• All assessment report(s) \n• Questions from the regulator to the Market \nAuthorisation Holder (and answers) \n• Summaries of meetings with \nSwissMedic (including presubmission \nadvice, where relevant) \n• Approval letter \n• Post marketing reviews \nUnited States Food and Drug Administration (US \nFDA) \n• Comprehensive details of all studies \nsubmitted and assessed \n• Medical review(s) \n• Chemistry review(s) \n• Pharmacology review(s) \n• Statistical review(s) \n• Clinical pharmacology biopharmaceutics \nreview(s) \n• Risk assessment and risk mitigation review(s) \n• Administrative document(s) and \ncorrespondence \n• Cross discipline team leader review \n• Office Director memo \n• Summaries of meetings with the US \nFDA (including presubmission advice, \nwhere relevant) \n• Summary review \n• Complete response letter \n• Approval letter \n• Post marketing reviews \nAdditional documentation requirements for the various types of applications may be stipulated in other \nsections of this guideline or other guidelines. Additional documentation requirements for WHO PQ products \nare detailed in SAHPRA’s process for the WHO Collaborative Registration Procedure. \nAdditional documentation requirements for reliance-based review of variations applications are detailed in \nSAHPRA’s Variations Addendum for Orthodox Medicines. \n\n\nPAGE 22\nSAHPGL-BAU-01_v5 \nPage 22 of 23\nReliance Guideline \n6 August 2025 \n \n \nPlease note that public assessment reports will not be accepted. \n9. \nGOOD MANUFACTURING PRACTICE (GMP INSPECTIONS) \nGood Manufacturing Practice (GMP) describes a set of principles and procedures that, when followed, ensure \nthat medicines and related substances are of high quality, safety, and efficacy. SAHPRA is a participating \nauthority of the Pharmaceutical Inspection Cooperation Scheme (jointly known as PIC/S). PIC/S aims to develop \ninternational standards between countries and pharmaceutical in",
+        "start": 33600,
+        "end": 42200,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "ZAF",
+      "country": "South Africa",
+      "selected_document_id": "ef4ab05c11769d459684",
+      "source_id": "ea9e6f68e06b253c",
+      "pathway": "Abridged/verified review; recognition agreements pending",
+      "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+      "document_title": "SAHPRA Reliance Guideline v5 6August2025",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "ZAF-Q01": null
+        },
+        {
+          "ZAF-Q02": null
+        }
+      ],
+      "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+      "raw_hash_validated": true,
+      "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+      "version_dates": {
+        "version_date": "2025-08-06",
+        "version": "5"
+      },
+      "version_scope_note": "SAHPRA v5 6 August 2025. Assess clinical and quality/BE independently: new chemical entity clinical abridged and quality verified. “Recognition” agreements being negotiated, not an operative blanket recognition route. FDA-specific proprietary-owner letter differs from other reference routes.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          13068,
+          15627
+        ],
+        [
+          484,
+          1039
+        ],
+        [
+          14000,
+          22000
+        ],
+        [
+          25000,
+          29500
+        ],
+        [
+          33600,
+          42200
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "RRA-approved NCE eligible for clinical abridged and quality verified consideration.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA, EU centralized/DCP, Canada, MHRA, Japan, Swissmedic, TGA, WLA.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "One or more RRAs; two foreign approvals not a universal threshold.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Latest approved product, all approved variations incorporated; pending variations excluded.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Full report package where indicated; quality/BE table specifies complete staged assessments and correspondence.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Public summary alone cannot establish full package; no express blanket public-domain ban.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "applicant_consent": {
+          "state": "discretionary/conditional",
+          "finding": "For USFDA RRA, proprietary MA holder confirmation wishing to share should be provided; EMA route separate, so no universal B–C loss inferred.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "discretionary/conditional",
+          "finding": "Applicant sources reports; SAHPRA generally does not source non-FDA/non-WHO reports; FDA/WHO exceptions retained.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Clinical module-overview assessment, quality sameness verification, localized requirements and pathway discretion retained.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Non-English full reports translated in line with regulations.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Final pathway fully at SAHPRA discretion; absent reports can default full review after stated window.",
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "explicitly ineligible for identified full-report route",
+          "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+          "decisive_conditions": [
+            "Complete underlying assessment report requirement"
+          ],
+          "unresolved_conditions": [
+            "Other eligibility remains unresolved; route alternatives assessed separately."
+          ],
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "C": {
+          "eligibility": "unresolved across alternative references",
+          "finding": "FDA-based application asks proprietary-owner sharing confirmation; EMA-based alternative is distinct. Cannot conclude loss of every pathway when applicant consent unavailable.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ZAF-Q01",
+            "ZAF-Q02",
+            "ZAF-CTX-1",
+            "ZAF-CTX-2",
+            "ZAF-CTX-3"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "explicit full-report condition; overall access gain not fully resolved",
+          "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+        },
+        "B_minus_C": {
+          "status": "conditional sharing provision",
+          "finding": "Applicant consent is explicitly mentioned but scope/alternative channels matter; do not force a country-wide binary gate."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "ZAF-Q01",
+          "source_document_id": "ef4ab05c11769d459684",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 7,
+          "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+          "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+          "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+          "exact_text": "The World Health Organization (WHO) defines reliance as the act whereby the regulatory authority in one \njurisdiction may take into account and give significant weight to – i.e. totally or partially rely upon – evaluations \nperformed by another regulatory authority or trusted institution in reaching its own decision. The relying \nauthority remains responsible and accountable for decisions taken, even when it relies on the decisions and \ninformation of others. Wherever possible, SAHPRA will leverage these pathways, relying on the evaluation \nefforts of Recognised Regulatory Authorities (RRAs) to reduce evaluation times. \nReliance-based evaluation pathways of medicine applications for new registrations and variations in South \nAfrica will follow one of three evaluation/ review pathways: \na) \nAbridged review \nb) \nVerified review \nc) \nRecognition \nNOTE: Pathways (a), (b), and (c) replace the prior Abbreviated Medicines Review Process (AMRP). The \napplication of and use-cases for reliance-based evaluation pathways differ between the Clinical and Quality \nand Bioequivalence units (see Section 2.2 below). For clones and replicas, please refer to the Communication \nto Industry on Clones and Replicas. \n4. \nGENERAL DESCRIPTIONS OF THE RELIANCE-BASED EVALUATION PATHWAYS \na) \nAbridged review: A streamlined review based primarily on full assessment reports from RRAs, \nreplacing the need to evaluate all data (and summaries thereof) submitted in support of an \napplication. \nb) \nVerified review: A streamlined review based primarily on verifying, instead of evaluating, \ninformation submitted in the application against information which has already been approved by \nSAHPRA or an RRA. Note that full assessment reports are required for Quality and Bioequivalence \nPEM-verified reviews as a fallback option for evaluators. \nc) \nRecognition: A streamlined registration/approval process based on directly recognising the outcome \nof a review from an RRA with which SAHPRA shares a recognition agreement. \n\n\nPAGE 8\nSAHPGL-BAU-01_v5 \nPage 8 of 23\nReliance Guideline \n6 August 2025 \n \n \nNOTE: SAHPRA is currently in the process of negotiating recognition agreements with RRAs. Once such an \nagreement is in place, SAHPRA will publish a framework for the practical implementation thereof. The \nguiding principle is that applications approved by RRAs with which SAHPRA shares a recognition agreement \nmay not need to be evaluated separately by SAHPRA. Please note that this is not to be confused with \ncollaborative/work-sharing procedures (e.g., ZAZIBONA).",
+          "start": 13068,
+          "end": 15627,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "ZAF-Q02",
+          "source_document_id": "ef4ab05c11769d459684",
+          "evidence_role": "Selected primary document",
+          "section_article": "Retained evidence-request power",
+          "pdf_page": 1,
+          "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+          "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+          "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+          "exact_text": "SAHPRA reserves the right to request any additional information to establish the safety, efficacy, and quality \nof a medicine in keeping with the knowledge current at the time of evaluation. Alternative approaches may be used, but \nthese should be scientifically and technically justified. The Authority is committed to ensuring that all registered \nmedicines will be of the required safety, efficacy, and quality. It is important that applicants adhere to the administrative \nrequirements to avoid delays in the processing and evaluation of applications.",
+          "start": 484,
+          "end": 1039,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "ZAF-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+          "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+          "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+          "exact_text": "iew Process (AMRP). The \napplication of and use-cases for reliance-based evaluation pathways differ between the Clinical and Quality \nand Bioequivalence units (see Section 2.2 below). For clones and replicas, please refer to the Communication \nto Industry on Clones and Replicas. \n4. \nGENERAL DESCRIPTIONS OF THE RELIANCE-BASED EVALUATION PATHWAYS \na) \nAbridged review: A streamlined review based primarily on full assessment reports from RRAs, \nreplacing the need to evaluate all data (and summaries thereof) submitted in support of an \napplication. \nb) \nVerified review: A streamlined review based primarily on verifying, instead of evaluating, \ninformation submitted in the application against information which has already been approved by \nSAHPRA or an RRA. Note that full assessment reports are required for Quality and Bioequivalence \nPEM-verified reviews as a fallback option for evaluators. \nc) \nRecognition: A streamlined registration/approval process based on directly recognising the outcome \nof a review from an RRA with which SAHPRA shares a recognition agreement. \n\n\nPAGE 8\nSAHPGL-BAU-01_v5 \nPage 8 of 23\nReliance Guideline \n6 August 2025 \n \n \nNOTE: SAHPRA is currently in the process of negotiating recognition agreements with RRAs. Once such an \nagreement is in place, SAHPRA will publish a framework for the practical implementation thereof. The \nguiding principle is that applications approved by RRAs with which SAHPRA shares a recognition agreement \nmay not need to be evaluated separately by SAHPRA. Please note that this is not to be confused with \ncollaborative/work-sharing procedures (e.g., ZAZIBONA). \n4.1 \nSAHPRA’s Recognised Regulatory Authorities \nTo qualify for a reliance evaluation pathway, an application must have been approved by one or more of \nthe RRAs with which SAHPRA aligns itself. \nSAHPRA’s current RRAs include: \n \nEuropean Union Centralised Procedure (EU CP) \n \nEuropean Union Decentralised Procedure (EU DCP) (no restrictions on which member state acts \nas the reference member state) \n \nHealth Canada \n \nMedicines and Health Products Regulatory Agency (MHRA (UK)) \n \nMinistry of Health, Labour and Welfare (MHLW)/ Pharmaceutical and Medical Devices Agency \n(PMDA) - Japan \n \nSwiss Agency for Therapeutic Products (SwissMedic) \n \nTherapeutic Goods Administration (TGA) -Australia \n \nUS Food and Drug Administration (US FDA) \n \nWHO listed Authorities (WLA) \nSAHPRA has certain MOUs and agreements in place with organisations and regulatory authorities. The \nscope of these agreements determines the applicability of certain reliance or work-sharing procedures. \nInformation on the use of these agreements or related procedures is communicated by SAHPRA when \napplicable. \nThe following additional procedures can be used for reliance/collaborative review, which are not strictly \nregulatory authorities: \n \nWorld Health Organization (WHO) collaborative registration process: \no \nPrequalification \no \nSRA approved \n \nZAZIBONA collaborative procedure \n\n\nPAGE 9\nSAHPGL-BAU-01_v5 \nPage 9 of 23\nReliance Guideline \n6 August 2025 \n \n \n \nEuropean Medicines Agency \no \nMutual Recognition procedure and National Procedures within the EU \n \nSwissMedic Marketing Authorization for Global Health Products (MAGHP) procedure \n \nPIC/s Member States \n \nAMA \n \nEU-M4all \nSAHPRA’s recognised regulatory authorities for registration of veterinary medicines include: \n \nEMA_CVMP \n \nUS FDA \n \nJMAFF \n \nAPVMA \n \nUKVMD \n \nHC \n \nMEDSAFE \n \nSwissMedic \n \nAMA \n \nVeterinary Zazibona \n4.2 \nIndependent application of reliance for Quality & Bioequivalence (quality and \nbioequivalence and clinical) \nA given application often differs in complexity for Clinical versus Quality and Bioequivalence evaluation. For \nexample, a typical application for a generic/multisource medicine requires a relatively straightforward \nverification of PIs for Clinical, yet Quality and Bioequivalence faces the added complexity of bioequivalence \nassessment. As a result, SAHPRA’s reliance pathways are applied independently for Quality and \nBioequivalence, and Clinical. This has the following two key implications: \n \nEvaluation pathways may differ for Quality and Bioequivalence and Clinical evaluation (e.g., Clinical \nmay follow a verification procedure, while Quality and Bioequivalence follow a full review, based on \nthe nature of the application and the quality of reliance documents submitted) \n \nThe RRAs referenced in an application may differ for Quality and Bioequivalence and Clinical evaluation \n\n\nPAGE 10\nSAHPGL-BAU-01_v5 \nPage 10 of 23\nReliance Guideline \n6 August 2025 \n \n \n(e.g., Clinical may refer to the SAHPRA-approved local innovator PI and latest EMA SmPC as part of a \nverified review, while the Quality and Bioequivalence evaluation refers to information approved by \nthe TGA). \nThis approach widens the use of reliance, by not limiting an application to the same pathway/reference \nRRA for Quality and Bioequivalence, and Clinical evaluation. \n4.3 \nTechnical Screening of Applications \nApplicants are to provide SAHPRA with the intended evaluation pathways for Quality and Bioequivalence \nand Clinical evaluation, along with a brief motivation. The intended evaluation pathways should be \nindicated on the new registration/variation validation template in the relevant sections. Providing the \nintended pathways prevents unnecessary screening for reliance documentation in instances where a full \nreview is intended by the applicant. \nDecisions related to an application’s final evaluation pathway and the extent of reliance on an RRA’s \nevaluation are fully at SAHPRA’s discretion and will depend on the availability and quality of reliance \ndocumentation submitted. SAHPRA will share screening queries with applicants regarding insufficient \nreliance documentation to ensure that as many applications as possible qualify for abridged and verified \nreviews. Where applicable, applications will default to a full review in the absence of a suitable reliance \npathway. \n4.4 \nAssessment Reports \nWhere indicated as a requirement for an abridged or verified review, applicants are to provide SAHPRA \nwith full assessment reports from an RRA (submitted in Module 1.10). \nThe following requirements apply: \n \nFull assessment/ evaluation reports should at least include safety, efficacy, and quality report(s) \nprepared by the RRA upon which the registration/approval decision was based (refer to Table 2 for a \nlist of documents required for Q-BE). \n \nWhere full assessment/evaluation reports from the RRA are in languages other than English, translated \nversions need to be provided in line with Regulation 16 (4). \nNOTE: SAHPRA requires assessment reports to be sent directly from the applicant. If the reports are not \nobtained, the application in question will most likely default to a full review, extending evaluation time. \nFor applications where the USFDA is the RRA, a letter of confirmation from the USFDA marketing \nauthorisation holder (proprietary owner) confirming that they are the legal holder of the proprietary \ninformation and that they wish to share information about this product with SAHPRA should be provided. \nFor applications with RRAs listed in Section 2.1, except for WHO collaborative procedures and US FDA-based \napplications, SAHPRA will not source the RRA assessment reports, and the letter of access for reliance (GLF-\nPEM-02E) will not be applicable. Applicants are required to source the full reports from the Marketing \nAuthorisation Holder.  \n\n\nPAGE 11\nSAHPGL-BAU-01_v5 \nPage 11 of 23\nReliance Guideline \n6 August 2025 \n \n \nNOTE: SAHPRA retains the right to request additional information from applicants with regard to the \napplication. If no full assessment reports are received from the RRA within three (3) months of the request, \nthe application will be reviewed using a full review. \nAll other Marketing Authorisation Holders that wish to submit assessment reports directly to SAHPRA \nshould use the dedicate",
+          "start": 14000,
+          "end": 22000,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "ZAF-CTX-2",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+          "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+          "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+          "exact_text": " that has not yet been registered by SAHPRA will be considered as a New \nChemical Entity (NCE) in South Africa, regardless of whether the molecule has already been registered by other \nregulatory authorities. \n5.1 \nAbridged Review \nThe abridged review is based primarily on the overviews of pre-clinical and clinical data in CTD Modules 2.4 \nand 2.5. All supporting documents as stipulated in Section 4 of this guideline should be included in the \nsubmission to qualify for an abridged review. \nAll NCE and biological applications, generic applications with clinical data, Type II variations, and EAs that \nhave prior approval from an RRA will be considered for an abridged review. In addition, all applications for \nbiosimilar medicines will be considered for an abridged review. \nAn abridged review is indicated specifically for the following types of applications: \n5.1.1 \nMonocomponent medicines \n \nFor registration of an NCE already approved by an RRA \n \nFor registration of an NCE based on well-established use (relying on literature), where the \nmedicine has already been registered on the same basis by an RRA \n \nFor a monocomponent multisource medicine/generic registered by an RRA, and where clinical \ndata generated with the generic has been supplied in support of the application \n \nBiological medicine registered by an RRA \n \nBiosimilar medicine where the reference biological medicine has already been registered by \nSAHPRA \n5.1.2 \nMulticomponent medicines \n \nFor a multicomponent fixed dose combination of two or more chemical entities, where the \ncombination is not registered by SAHPRA, but registered by an RRA \n\n\nPAGE 13\nSAHPGL-BAU-01_v5 \nPage 13 of 23\nReliance Guideline \n6 August 2025 \n \n \n5.1.3 \nType II variations \n \nFor Type II variations where the amendment applied for has already been approved by an RRA \n(e.g., additional/amended therapeutic indications, safety amendments, posology, and method \nof administration) \n5.1.4 \nEAs \n \nFor all EAs that have not yet been approved by SAHPRA for a given molecule but have been \napproved by an RRA. \n5.2 \nVerified Review \nThe verified review is initiated to limit the evaluation time of applications for APIs already registered by \nSAHPRA. The verified review is effectively a comparison of an applicant’s proposed PI against an up-to-date \nreference PI (from a Clinical safety perspective). The primary reference is the latest approved PI of the \nassociated local innovator product. The latest-approved foreign innovator PI may be supplied as an \nadditional/alternative reference only where the local innovator is materially outdated or no longer \nmarketed (see SAHPGL-CEM-02 Guideline on Professional Information for Human Use for which sections \nrequire complete localisation to the SA innovator product). \nAll Type IB variations and generic applications (without clinical data) for APIs already registered by SAHPRA \nwill be considered for a verified review. In addition, EAs that have already been approved by SAHPRA will \nbe considered for a verified review. \nA verified review is indicated specifically for the following types of applications: \n5.2.1 \nMonocomponent medicines \n \nFor duplicates/clones of medicines registered by SAHPRA \n \nFor a multisource medicine/generic with identical therapeutic indications, formulation/dosage \nform, and strength for APIs previously approved by SAHPRA \n5.2.2 \nMulticomponent medicines \n \nFor a multicomponent fixed dose combination of two or more chemical entities, where the \ncombination is already registered by SAHPRA \n5.2.3 \nType IB variations \n \nFor all Type IB variations reviewed by SAHPRA \n5.2.4 \nEAs \n \nFor all EAs that have already been approved by SAHPRA for a given molecule \n \nFor all EAs related to new pharmaceutical forms which follow the same route of administration \n\n\nPAGE 14\nSAHPGL-BAU-01_v5 \nPage 14 of 23\nReliance Guideline \n6 August 2025 \n \n \nas that which has already been approved by SAHPRA (e.g., EA for a capsule, where SAHPRA has \nalready approved use of a tablet) 1 \n1Regardless of whether SAHPRA or an RRA has previously approved the EA for a given molecule (i.e., the EA \nfor a capsule may not have been approved by SAHPRA or an RRA, but the application qualifies for verification \nas SAHPRA has previously approved the same [oral] route of administration). \n6. \nDOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION – CLINICAL  \n6.1 \nAbridged Review Requirements \nNOTE: Some requirements may not apply to a certain application type for abridged",
+          "start": 25000,
+          "end": 29500,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "ZAF-CTX-3",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.sahpra.org.za/wp-content/uploads/2025/08/SAHPGL-BAU-01_v5-Reliance-Guideline.pdf",
+          "raw_sha256": "bdb7370d3d7f435270112b7340cc291d5ce459de0bccd8958694f9ebf2d4dd31",
+          "text_sha256": "9cafeb9ad75826185508e0d54a02e44edf6b7cc273c391bcc12cfb116cd84f93",
+          "exact_text": "ine already registered by an RRA \n(ii) \nFor a new registration for a WHO PQ product: \n \nApplicants are required to follow SAHPRA’s process for the WHO Collaborative Registration Procedure \nhttps://www.sahpra.org.za/document/expression-of-interest-who-pre-qualification-collaborative-\nregistration-procedure/ \n(i) \nFor a Type II variation where the variation applied for has already been approved by an RRA \n7.2 \nVerified Review Requirements \nA verified review is a reliance-based review comprising: \n \nValidation by SAHPRA to ensure that the product application submitted for registration by SAHPRA is \nthe same as the product registered by the specified RRA \n \nEvaluation of Module 1: Regional administrative information (as required). A verified review applies \nto the following types of applications: \n(i) \nFor a new registration application for an NCE medicine already registered by an RRA \n(ii) \nFor a Type IB variation where the variation applied for has already been approved by an RRA \n8. \nDOCUMENT/ DATA REQUIREMENTS FOR NEW REGISTRATION – QUALITY/ BIO- \nEQUIVALENCE \nTo qualify for a reliance-based review, an applicant needs to submit additional documentation to the \ndocumentation required for a full review. \nTable 1: Documentation required for reliance-based evaluation. \nDocument required \nApplicable types of applications \nCompleted abridged review template \n5.1 i, ii \n\n\nPAGE 17\nSAHPGL-BAU-01_v5 \nPage 17 of 23\nReliance Guideline \n6 August 2025 \n \n \nDocument required \nApplicable types of applications \nCompleted verified review template \n5.2 i \nFull assessment/evaluation reports from the RRA \nwhere the product is registered. \nDetails of the outcomes of the application in all \njurisdictions where it has been submitted, and \nForeign registration certificate(s), and \nSmPC, a copy of the patient information leaflet (PIL) \nand label of the product that has been registered by \nthe RRA, and \nIf available: initial scientific assessments, \nregulatory correspondence with the \nsponsor/applicant, follow-up assessments, and \nany other documentation from the RRA related to \nthe final registration decision, and \nIf available and where applicable: risk management \nplans and on-site inspection reports (or equivalent), \nfor example GCP/ GRP. This does not include the data \npackage filed with the RRA \n \n \n \n \n \n \n \n \ni, iv \ni, iii \nLetter of approval from the RRA \n5.1 iv \niii \nDeclaration: Sameness \n5.1 i, ii \ni \n \nTable 2: Documents that comprise a complete assessment of each RRA. \nThe table below lists the documents that comprise a complete assessment for each RRA. The full set of \ndocuments must be submitted in your reliance report-based application. \nRRA \nRequired documentation \nTherapeutic Goods Administration, Australia \n• Comprehensive details of all studies \nsubmitted and assessed \n• All assessment report(s) \n• Questions from the regulator to the \nMarket Authorisation Holder (and \nanswers) \n\n\nPAGE 18\nSAHPGL-BAU-01_v5 \nPage 18 of 23\nReliance Guideline \n6 August 2025 \n \n \nRRA \nRequired documentation \n• Summaries of meetings with TGA \n(including presubmission advice, where \nrelevant) \n• Approval letter \n• Post marketing reviews \n• Note: All relevant milestone dates are \nspecified in the submission evaluation \nplan. \nEuropean Medicines Agency (EMA) \n• Comprehensive details of all studies \nsubmitted and assessed \n• Centralised procedure assessment \nreports (where applicable): \n• Day 80 Quality, Non-Clinical, Clinical, \nand Overview Assessment Reports \n• Day 120 List of Questions (and \nanswers) \n• Day 150 Quality, Non-Clinical, Clinical, \nand Overview Assessment Reports \n• Day 180 Joint Assessment Report \n• Day 180 List of Outstanding Issues \n• Final Assessment Report \n• Decentralised procedure assessment \nreports (where applicable): \no All assessment reports \no Questions from the regulator to the \nMarket Authorisation Holder (and \nresponses) \no Summaries of meetings with the EMA \nand/or assessors (including \npresubmission advice, where \nrelevant) \no Committee for Medicinal Products for \nHuman Use (CHMP) Summary of \nOpinion \no Any other questions from the \n\n\nPAGE 19\nSAHPGL-BAU-01_v5 \nPage 19 of 23\nReliance Guideline \n6 August 2025 \n \n \nRRA \nRequired documentation \nregulator to the Market Authorisation \nHolder \no Letter of undertaking \no European Commission decision \no Risk Management Plan review(s) \no Post marketing review(s) (e.g., \nPeriodic Safety Update Reports) \nPharmaceutical and Medical Devices Agency \n(PMDA), Japan \n• Comprehensive details of all studies \nsubmitted and assessed \n• Discussion documents, questions from \nPMDA and answers provided, and \nfinalised minutes from Scientific \nConsultation Meetings (if applicable) \n• Outcome of Orphan designation, \npriority or SAKIGAKE determination (if \nrelevant) \n• Copies of questions and answers \nexchanged between Sponsor and \nPMDA \n• Un-redacted English Translated Review \nReport consisting of: \no Review Report 1 \no Review Report 2 \no Review Result \no Report on the Deliberation Results \no Approval Letter \no Post-marketing review(s) (e.g., Re-\nexamination Review Report, \nPeriodic Safety Reports) \nHealth Canada \n• Comprehensive details of all studies \nsubmitted and assessed \n• Screening: Screening Report \n• Clinical Review: Pharmaceutical Safety \nand Efficacy Assessment Report \n(PSEAR) \n\n\nPAGE 20\nSAHPGL-BAU-01_v5 \nPage 20 of 23\nReliance Guideline \n6 August 2025 \n \n \nRRA \nRequired documentation \n• Quality: Quality Evaluation Summary \n(QES) and Manager’s Memo \n• Bioequivalence: Comprehensive \nSummary – Bioequivalence (CS-BE) and \nManager’s Memo \n• Biostatistics: Biostatistics Consult \nReport (if applicable) \n• Risk Management Plan: Risk \nManagement Plan Assessment Report \n(if applicable) \n• Questions from the regulator to the \nMarket Authorisation Holder (and \nresponses) \n• Summaries of meetings with Health \nCanada (including presubmission \nadvice, where relevant) \n• Final Manager’s Memo, and Executive \nSummary \nMedicines and Healthcare products Regulatory \nAgency (MHRA), United Kingdom \n• Comprehensive details of all studies \nsubmitted and assessed \n• All assessment reports as part of the \niterative process \n• Questions from the regulator to the \nMarket Authorisation Holder (and \nresponses) \n• Committee for Medicinal Products for \nHuman Use \n• (CHMP) Summary of Opinion \n• Summaries of other meetings with the \nMHRA (including presubmission advice, \nwhere relevant) \n• Approval letter \n• Post marketing review(s) (e.g., Periodic \nSafety Update Reports) \nSwissMedic, Switzerland \n• Comprehensive details of all studies \nsubmitted and assessed \n\n\nPAGE 21\nSAHPGL-BAU-01_v5 \nPage 21 of 23\nReliance Guideline \n6 August 2025 \n \n \nRRA \nRequired documentation \n• All assessment report(s) \n• Questions from the regulator to the Market \nAuthorisation Holder (and answers) \n• Summaries of meetings with \nSwissMedic (including presubmission \nadvice, where relevant) \n• Approval letter \n• Post marketing reviews \nUnited States Food and Drug Administration (US \nFDA) \n• Comprehensive details of all studies \nsubmitted and assessed \n• Medical review(s) \n• Chemistry review(s) \n• Pharmacology review(s) \n• Statistical review(s) \n• Clinical pharmacology biopharmaceutics \nreview(s) \n• Risk assessment and risk mitigation review(s) \n• Administrative document(s) and \ncorrespondence \n• Cross discipline team leader review \n• Office Director memo \n• Summaries of meetings with the US \nFDA (including presubmission advice, \nwhere relevant) \n• Summary review \n• Complete response letter \n• Approval letter \n• Post marketing reviews \nAdditional documentation requirements for the various types of applications may be stipulated in other \nsections of this guideline or other guidelines. Additional documentation requirements for WHO PQ products \nare detailed in SAHPRA’s process for the WHO Collaborative Registration Procedure. \nAdditional documentation requirements for reliance-based review of variations applications are detailed in \nSAHPRA’s Variations Addendum for Orthodox Medicines. \n\n\nPAGE 22\nSAHPGL-BAU-01_v5 \nPage 22 of 23\nReliance Guideline \n6 August 2025 \n \n \nPlease note that public assessment reports will not be accepted. \n9. \nGOOD MANUFACTURING PRACTICE (GMP INSPECTIONS) \nGood Manufacturing Practice (GMP) describes a set of principles and procedures that, when followed, ensure \nthat medicines and related substances are of high quality, safety, and efficacy. SAHPRA is a participating \nauthority of the Pharmaceutical Inspection Cooperation Scheme (jointly known as PIC/S). PIC/S aims to develop \ninternational standards between countries and pharmaceutical in",
+          "start": 33600,
+          "end": 42200,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "ZAF-SUP-1cfda0b4-510",
+          "source_url": "https://www.tmda.go.tz/uploads/publications/en1761117745-MoU%20Reliance%20on%20Regulatory%20Decisions%20by%20WHO%20maturity%20Level%203.pdf",
+          "section_article": "Seven-authority MoU Article2, page5",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

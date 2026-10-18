@@ -271,5 +271,55 @@
     "source_hashes": [
       "e95a2de87f04fb29f24e0b7249a347594c60decd61960ba94476956685487491"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "IDN",
+    "country": "Indonesia",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "official_explanation",
+    "fixed_case_scope_status": "official_explanation_not_complete_route",
+    "finding": "The official statement says FDA technical evaluations support BPOM assessment and US-site FDA GMP inspections need not be repeated; BPOM retains the final decision. This supports a specific inspection benefit for the fixed US site, with full-route conditions still unresolved.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The official statement says FDA technical evaluations support BPOM assessment and US-site FDA GMP inspections need not be repeated; BPOM retains the final decision. This supports a specific inspection benefit for the fixed US site, with full-route conditions still unresolved."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The official statement says FDA technical evaluations support BPOM assessment and US-site FDA GMP inspections need not be repeated; BPOM retains the final decision. This supports a specific inspection benefit for the fixed US site, with full-route conditions still unresolved."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The official statement says FDA technical evaluations support BPOM assessment and US-site FDA GMP inspections need not be repeated; BPOM retains the final decision. This supports a specific inspection benefit for the fixed US site, with full-route conditions still unresolved."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The official statement says FDA technical evaluations support BPOM assessment and US-site FDA GMP inspections need not be repeated; BPOM retains the final decision. This supports a specific inspection benefit for the fixed US site, with full-route conditions still unresolved."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The official statement says FDA technical evaluations support BPOM assessment and US-site FDA GMP inspections need not be repeated; BPOM retains the final decision. This supports a specific inspection benefit for the fixed US site, with full-route conditions still unresolved."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "IDN-Q01",
+        "source_url": "https://www.pom.go.id/penjelasan-publik/pemberitaan-perjanjian-perdagangan-resiprokal-indonesia-amerika-serikat-terkait-produk-farmasi",
+        "raw_sha256": "a8047c86c1d4dd5f35b4dd036b19b08752a4b0cc19ebb138a0efec4e297ffba7",
+        "text_sha256": "315b02873249c798ceee3634eab4a96082de0c9eefa3f575fea23822c9e315d4",
+        "start_offset": 1747,
+        "end_offset": 3080,
+        "verbatim_extracted_text": "Indonesia menjadikan US FDA sebagai salah satu otoritas negara referensi melalui mekanisme\nreliance\nsehingga hasil evaluasi dokumen teknis yang telah dilakukan US FDA digunakan sebagai penunjang dalam proses evaluasi produk farmasi di Indonesia. Pendekatan ini bertujuan menghindari duplikasi evaluasi terhadap dokumen teknis yang sama dan meningkatkan efisiensi pemanfaatan sumber daya dalam keseluruhan proses regulatori.\nDalam proses penerbitan izin edar, pemenuhan terhadap standar\nCara Pembuatan Obat yang Baik (CPOB) atau\nGood Manufacturing Practice\n(GMP) merupakan persyaratan yang wajib dipenuhi oleh manufaktur/produsen farmasi. BPOM menerima hasil inspeksi CPOB atau GMP\nyang dilakukan oleh US FDA terhadap fasilitas produksi farmasi di Amerika Serikat tanpa memerlukan inspeksi ulang atau re-inspeksi tambahan oleh BPOM. Hal ini sebagai bagian dari kerangka kerja sama mengingat BPOM dan US FDA juga merupakan Negara Anggota Pharmaceutical Inspection Cooperation Scheme (PICs).\nBPOM tetap memiliki kewenangan penuh dalam menerbitkan keputusan akhir terhadap produk farmasi yang dapat memperoleh izin edar di Indonesia m\neskipun menggunakan hasil evaluasi teknis US FDA sebagai referensi\n. BPOM memastikan\ns\netiap produk farmasi telah melalui seluruh tahapan proses perizinan di Indonesia dan berada di bawah otoritas BPOM.",
+        "pdf_page": null,
+        "language": "id",
+        "language_status": "Official original-language source",
+        "evidence_tier": "official_policy_explanation",
+        "version_alignment": "BPOM clarification HM.01.2.1.02.26.107, 25 February 2026; underlying trade agreement and implementing legislation are not quoted as separately obtained",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Human-medicine initial marketing authorisation",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

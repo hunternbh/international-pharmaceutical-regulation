@@ -131,5 +131,692 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "EST",
+    "country": "Estonia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA recognition of another state assessment",
+    "source_url": "https://www.wipo.int/wipolex/en/legislation/details/16463",
+    "document_id": "F250_8f7fb58947ce713f0a8d_284ed3a2639c",
+    "genre": "Law translation preserved by official international legal repository",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Medicinal Products Act §68: national agency defers to EEA reference assessment, subject to health-risk objections.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "outside pathway scope",
+        "finding": "Selected MRP requires a national EEA reference Member State authorisation; FDA and an EC centralised authorisation are not that national RMS approval.",
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "The selected official explanation establishes the RMS assessment mechanism but does not itself resolve all exact dossier, strength and manufacturing-site identity conditions.",
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Full/public report contrast is not decisive because national RMS prior approval is missing on fixed facts.",
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "explicit requirement",
+        "finding": "RMS scientific assessment is circulated/shared for national recognition; not a manufacturer public-report-only shortcut.",
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "National authorities consider the RMS assessment; the source retains national decision-making rather than automatic foreign effect. Precise limits require the incorporated procedure rules.",
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "EST-R01",
+          "EST-CONTEXT-1",
+          "EST-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "EST-SHARED-EC"
+        ]
+      },
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "EST-R01",
+        "iso3": "EST",
+        "event_id": null,
+        "document_id": "F250_8f7fb58947ce713f0a8d_284ed3a2639c",
+        "source_id": "F250_8f7fb58947ce713f0a8d",
+        "source_url": "https://www.wipo.int/wipolex/en/legislation/details/16463",
+        "raw_sha256": "284ed3a2639c27c42ee78a36fbf91e362f5f3fa161bbddf158e70a6d01a32986",
+        "text_sha256": "75e7845476678d93517f4091d6a8f15d17ddc47cd7cdab110675918e5adda187",
+        "start_offset": 164874,
+        "end_offset": 169635,
+        "pdf_page": null,
+        "verbatim_extracted_text": "§ 68. Processing of applications for marketing authorisation of medicinal product\n(1) Before acceptance of an application for processing, the State Agency of Medicines will evaluate the compliance of the application and supplementary documentation submitted with the requirements established under clause 65 (12) 1) of this Act and, if necessary, set the applicant a term for elimination of deficiencies. [RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(2) After acceptance of an application for processing, the State Agency of Medicines may request additional information and documents concerning the medicinal product from the applicant and set a reasonable term for submission thereof. The requested information must be submitted to the State Agency of Medicines in written form. In the event of failure to submit the information and documents by the due date, the State Agency of Medicines will terminate the processing of the application and inform the applicant thereof in writing.\n(2\n1\n) After acceptance of an application for processing, the State Agency of Medicines may, in the event of justified need, inspect at the expense of the applicant the sites located outside of the European Union required for the attestation of the compliance of clinical trials and the manufacturing facilities of the medicinal product and active substance.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(3) Based on an application and other materials, the State Agency of Medicines will assess the compliance of the efficacy, safety and quality of the medicinal product with the requirements provided by this Act and legislation established on the basis thereof and draw up an assessment report on the medicinal product, including explanations concerning the results of pharmaceutical, pre-clinical and clinical studies of the medicinal\nproducts, the risk management system and the master file of the pharmacovigilance system, as well as reasons regarding each indication separately. The State Agency of Medicines has the right to involve non-staff experts in the assessment of an application.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(4) The State Agency of Medicines will submit the assessment of the efficacy, safety and quality of the medicinal product to the marketing authorisation committee for medicinal products for human use, and in the event of a veterinary medicinal product, to the marketing authorisation committee for veterinary medicinal products for obtaining an opinion.\n(5) If it becomes known to the State Agency of Medicines that a competent authority of another Member State of the European Economic Area has commenced examining an application for a marketing authorisation in respect of a medicinal product concerning which the Agency is currently processing an application, or that such competent authority has granted marketing authorisation in respect of such medicinal product, the State Agency of Medicines will suspend the processing of the application for a marketing authorisation until an assessment report is obtained from the competent authority.\n(6) The provisions of subsections (2)-(4) of this section do not apply to the processing of an application for a marketing authorisation in the event of suspension of the processing of the marketing authorisation under the circumstances specified in subsection (5) of this section. The State Agency of Medicines will address the\ncompetent authority specified in subsection (5) of this section in issues related to the assessment report prepared by the competent authority.\n(7) The State Agency of Medicines will recognise the assessment provided by the competent authority of\na Member State of the European Economic Area concerning the efficacy, safety and quality of a medicinal\nproduct, unless additional information leads the Agency to believe that granting a marketing authorisation to the\nmedicinal product may result in a risk to public health or, in the event of a veterinary medicinal product, to the\nhealth of animals or humans.\n(8) Any disagreements arising from the failure by the State Agency of Medicines or competent authorities of other Member States participating in the processing of an application for a marketing authorisation to recognise the assessment report will be settled in accordance with the procedure provided by Directive 2001/83/EC of the European Parliament and of the Council on the Community Code relating to medicinal products for human use (OJ L 311, 28.11.2001, pp. 67–128). In making its final decision, the State Agency of Medicines must comply with the decision of the Committee for Human Medicinal Products of the European Medicines Agency, and of the European Commission.\n[RT I, 17.04.2013, 2 – entry into force 27.04.2013]\n",
+        "display_text": "§ 68. Processing of applications for marketing authorisation of medicinal product (1) Before acceptance of an application for processing, the State Agency of Medicines will evaluate the compliance of the application and supplementary documentation submitted with the requirements established under clause 65 (12) 1) of this Act and, if necessary, set the applicant a term for elimination of deficiencies. [RT I, 05.07.2012, 13 – entry into force 21.07.2012] (2) After acceptance of an application for processing, the State Agency of Medicines may request additional information and documents concerning the medicinal product from the applicant and set a reasonable term for submission thereof. The requested information must be submitted to the State Agency of Medicines in written form. In the event of failure to submit the information and documents by the due date, the State Agency of Medicines will terminate the processing of the application and inform the applicant thereof in writing. (2 1 ) After acceptance of an application for processing, the State Agency of Medicines may, in the event of justified need, inspect at the expense of the applicant the sites located outside of the European Union required for the attestation of the compliance of clinical trials and the manufacturing facilities of the medicinal product and active substance. [RT I, 05.07.2012, 13 – entry into force 21.07.2012] (3) Based on an application and other materials, the State Agency of Medicines will assess the compliance of the efficacy, safety and quality of the medicinal product with the requirements provided by this Act and legislation established on the basis thereof and draw up an assessment report on the medicinal product, including explanations concerning the results of pharmaceutical, pre-clinical and clinical studies of the medicinal products, the risk management system and the master file of the pharmacovigilance system, as well as reasons regarding each indication separately. The State Agency of Medicines has the right to involve non-staff experts in the assessment of an application. [RT I, 05.07.2012, 13 – entry into force 21.07.2012] (4) The State Agency of Medicines will submit the assessment of the efficacy, safety and quality of the medicinal product to the marketing authorisation committee for medicinal products for human use, and in the event of a veterinary medicinal product, to the marketing authorisation committee for veterinary medicinal products for obtaining an opinion. (5) If it becomes known to the State Agency of Medicines that a competent authority of another Member State of the European Economic Area has commenced examining an application for a marketing authorisation in respect of a medicinal product concerning which the Agency is currently processing an application, or that such competent authority has granted marketing authorisation in respect of such medicinal product, the State Agency of Medicines will suspend the processing of the application for a marketing authorisation until an assessment report is obtained from the competent authority. (6) The provisions of subsections (2)-(4) of this section do not apply to the processing of an application for a marketing authorisation in the event of suspension of the processing of the marketing authorisation under the circumstances specified in subsection (5) of this section. The State Agency of Medicines will address the competent authority specified in subsection (5) of this section in issues related to the assessment report prepared by the competent authority. (7) The State Agency of Medicines will recognise the assessment provided by the competent authority of a Member State of the European Economic Area concerning the efficacy, safety and quality of a medicinal product, unless additional information leads the Agency to believe that granting a marketing authorisation to the medicinal product may result in a risk to public health or, in the event of a veterinary medicinal product, to the health of animals or humans. (8) Any disagreements arising from the failure by the State Agency of Medicines or competent authorities of other Member States participating in the processing of an application for a marketing authorisation to recognise the assessment report will be settled in accordance with the procedure provided by Directive 2001/83/EC of the European Parliament and of the Council on the Community Code relating to medicinal products for human use (OJ L 311, 28.11.2001, pp. 67–128). In making its final decision, the State Agency of Medicines must comply with the decision of the Committee for Human Medicinal Products of the European Medicines Agency, and of the European Commission. [RT I, 17.04.2013, 2 – entry into force 27.04.2013]",
+        "feature_tags": [
+          "reports",
+          "discretion",
+          "scope_limit"
+        ],
+        "role": "Section 68",
+        "language": "en",
+        "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "Section 68(5) suspends local processing when another EEA authority is examining or has approved the same product until its report is obtained. Subsections 6–8 substitute recognition for the ordinary local assessment, subject to public-health-risk objections and European dispute decisions. National authorisation remains required.",
+        "version_alignment": "WIPO Lex record describes consolidated 14 May 2016 version; English translation, Estonian text authoritative.",
+        "evidence_tier": "national_rule",
+        "section_article": "Section 68",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "EST-CONTEXT-1",
+        "source_url": "https://www.wipo.int/wipolex/en/legislation/details/16463",
+        "raw_sha256": "284ed3a2639c27c42ee78a36fbf91e362f5f3fa161bbddf158e70a6d01a32986",
+        "text_sha256": "75e7845476678d93517f4091d6a8f15d17ddc47cd7cdab110675918e5adda187",
+        "start_offset": 164124,
+        "end_offset": 170635,
+        "verbatim_extracted_text": "equests that Estonia participate in the decentralised marketing authorisation procedure or marketing authorisation procedure of mutual recognition as a reference country, the amount of 14 000 euros will be added to the assessment fee.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(3) In the event of a repeated marketing authorisation procedure of mutual recognition and, upon renewal of a marketing authorisation in the event of decentralised marketing authorisation procedure or marketing authorisation procedure of mutual recognition in which Estonia participates as a reference country, the amount of 3000 euros will be added to the assessment fee.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\nPage 36 / 65 Medicinal Products Act\n§ 68. Processing of applications for marketing authorisation of medicinal product\n(1) Before acceptance of an application for processing, the State Agency of Medicines will evaluate the compliance of the application and supplementary documentation submitted with the requirements established under clause 65 (12) 1) of this Act and, if necessary, set the applicant a term for elimination of deficiencies. [RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(2) After acceptance of an application for processing, the State Agency of Medicines may request additional information and documents concerning the medicinal product from the applicant and set a reasonable term for submission thereof. The requested information must be submitted to the State Agency of Medicines in written form. In the event of failure to submit the information and documents by the due date, the State Agency of Medicines will terminate the processing of the application and inform the applicant thereof in writing.\n(2\n1\n) After acceptance of an application for processing, the State Agency of Medicines may, in the event of justified need, inspect at the expense of the applicant the sites located outside of the European Union required for the attestation of the compliance of clinical trials and the manufacturing facilities of the medicinal product and active substance.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(3) Based on an application and other materials, the State Agency of Medicines will assess the compliance of the efficacy, safety and quality of the medicinal product with the requirements provided by this Act and legislation established on the basis thereof and draw up an assessment report on the medicinal product, including explanations concerning the results of pharmaceutical, pre-clinical and clinical studies of the medicinal\nproducts, the risk management system and the master file of the pharmacovigilance system, as well as reasons regarding each indication separately. The State Agency of Medicines has the right to involve non-staff experts in the assessment of an application.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(4) The State Agency of Medicines will submit the assessment of the efficacy, safety and quality of the medicinal product to the marketing authorisation committee for medicinal products for human use, and in the event of a veterinary medicinal product, to the marketing authorisation committee for veterinary medicinal products for obtaining an opinion.\n(5) If it becomes known to the State Agency of Medicines that a competent authority of another Member State of the European Economic Area has commenced examining an application for a marketing authorisation in respect of a medicinal product concerning which the Agency is currently processing an application, or that such competent authority has granted marketing authorisation in respect of such medicinal product, the State Agency of Medicines will suspend the processing of the application for a marketing authorisation until an assessment report is obtained from the competent authority.\n(6) The provisions of subsections (2)-(4) of this section do not apply to the processing of an application for a marketing authorisation in the event of suspension of the processing of the marketing authorisation under the circumstances specified in subsection (5) of this section. The State Agency of Medicines will address the\ncompetent authority specified in subsection (5) of this section in issues related to the assessment report prepared by the competent authority.\n(7) The State Agency of Medicines will recognise the assessment provided by the competent authority of\na Member State of the European Economic Area concerning the efficacy, safety and quality of a medicinal\nproduct, unless additional information leads the Agency to believe that granting a marketing authorisation to the\nmedicinal product may result in a risk to public health or, in the event of a veterinary medicinal product, to the\nhealth of animals or humans.\n(8) Any disagreements arising from the failure by the State Agency of Medicines or competent authorities of other Member States participating in the processing of an application for a marketing authorisation to recognise the assessment report will be settled in accordance with the procedure provided by Directive 2001/83/EC of the European Parliament and of the Council on the Community Code relating to medicinal products for human use (OJ L 311, 28.11.2001, pp. 67–128). In making its final decision, the State Agency of Medicines must comply with the decision of the Committee for Human Medicinal Products of the European Medicines Agency, and of the European Commission.\n[RT I, 17.04.2013, 2 – entry into force 27.04.2013]\n§ 69. Marketing authorisation committee for medicinal products for human use and marketing authorisation committee for veterinary medicinal products\n(1) The marketing authorisation committee for medicinal products for human use and the marketing authorisation committee for veterinary medicinal products are advisory committees of the director general of the State Agency of Medicines whose opinion, however, is not binding on the director general of the State Agency\nof Medicines upon making a decision.\nMedicinal Products Act Page 37 / 65\n(2) The function of the committees specified in subsection (1) of this section is to provide consultations to the director general of the State Agency of Medicines in issues relating to the processing of marketing authorisations in respect of medicinal products.\n(3) The marketing authorisation committee for medicinal products for human use consists of up to ten members and the marketing authorisation committee for veterinary medicinal products consists of",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "WIPO Lex record describes consolidated 14 May 2016 version; English translation, Estonian text authoritative."
+      },
+      {
+        "clause_id": "EST-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "EST",
+      "country": "Estonia",
+      "selected_document_id": "F250_8f7fb58947ce713f0a8d_284ed3a2639c",
+      "source_id": "F250_8f7fb58947ce713f0a8d",
+      "pathway": "EU/EEA recognition of another state assessment",
+      "source_url": "https://www.wipo.int/wipolex/en/legislation/details/16463",
+      "document_title": "Estonia Medicinal Products Act, consolidated May 2016 English text in WIPO Lex",
+      "source_type": "Law translation preserved by official international legal repository",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "284ed3a2639c27c42ee78a36fbf91e362f5f3fa161bbddf158e70a6d01a32986",
+      "raw_hash_validated": true,
+      "text_sha256": "75e7845476678d93517f4091d6a8f15d17ddc47cd7cdab110675918e5adda187",
+      "version_dates": {},
+      "version_scope_note": "Medicinal Products Act §68: national agency defers to EEA reference assessment, subject to health-risk objections.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          164124,
+          170635
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "outside pathway scope",
+          "finding": "Selected MRP requires a national EEA reference Member State authorisation; FDA and an EC centralised authorisation are not that national RMS approval.",
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "The selected official explanation establishes the RMS assessment mechanism but does not itself resolve all exact dossier, strength and manufacturing-site identity conditions.",
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Full/public report contrast is not decisive because national RMS prior approval is missing on fixed facts.",
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "explicit requirement",
+          "finding": "RMS scientific assessment is circulated/shared for national recognition; not a manufacturer public-report-only shortcut.",
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "National authorities consider the RMS assessment; the source retains national decision-making rather than automatic foreign effect. Precise limits require the incorporated procedure rules.",
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "EST-R01",
+            "EST-CONTEXT-1",
+            "EST-SHARED-EC"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "EST-SHARED-EC"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "EST-R01",
+          "iso3": "EST",
+          "event_id": null,
+          "document_id": "F250_8f7fb58947ce713f0a8d_284ed3a2639c",
+          "source_id": "F250_8f7fb58947ce713f0a8d",
+          "source_url": "https://www.wipo.int/wipolex/en/legislation/details/16463",
+          "raw_sha256": "284ed3a2639c27c42ee78a36fbf91e362f5f3fa161bbddf158e70a6d01a32986",
+          "text_sha256": "75e7845476678d93517f4091d6a8f15d17ddc47cd7cdab110675918e5adda187",
+          "start_offset": 164874,
+          "end_offset": 169635,
+          "pdf_page": null,
+          "verbatim_extracted_text": "§ 68. Processing of applications for marketing authorisation of medicinal product\n(1) Before acceptance of an application for processing, the State Agency of Medicines will evaluate the compliance of the application and supplementary documentation submitted with the requirements established under clause 65 (12) 1) of this Act and, if necessary, set the applicant a term for elimination of deficiencies. [RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(2) After acceptance of an application for processing, the State Agency of Medicines may request additional information and documents concerning the medicinal product from the applicant and set a reasonable term for submission thereof. The requested information must be submitted to the State Agency of Medicines in written form. In the event of failure to submit the information and documents by the due date, the State Agency of Medicines will terminate the processing of the application and inform the applicant thereof in writing.\n(2\n1\n) After acceptance of an application for processing, the State Agency of Medicines may, in the event of justified need, inspect at the expense of the applicant the sites located outside of the European Union required for the attestation of the compliance of clinical trials and the manufacturing facilities of the medicinal product and active substance.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(3) Based on an application and other materials, the State Agency of Medicines will assess the compliance of the efficacy, safety and quality of the medicinal product with the requirements provided by this Act and legislation established on the basis thereof and draw up an assessment report on the medicinal product, including explanations concerning the results of pharmaceutical, pre-clinical and clinical studies of the medicinal\nproducts, the risk management system and the master file of the pharmacovigilance system, as well as reasons regarding each indication separately. The State Agency of Medicines has the right to involve non-staff experts in the assessment of an application.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(4) The State Agency of Medicines will submit the assessment of the efficacy, safety and quality of the medicinal product to the marketing authorisation committee for medicinal products for human use, and in the event of a veterinary medicinal product, to the marketing authorisation committee for veterinary medicinal products for obtaining an opinion.\n(5) If it becomes known to the State Agency of Medicines that a competent authority of another Member State of the European Economic Area has commenced examining an application for a marketing authorisation in respect of a medicinal product concerning which the Agency is currently processing an application, or that such competent authority has granted marketing authorisation in respect of such medicinal product, the State Agency of Medicines will suspend the processing of the application for a marketing authorisation until an assessment report is obtained from the competent authority.\n(6) The provisions of subsections (2)-(4) of this section do not apply to the processing of an application for a marketing authorisation in the event of suspension of the processing of the marketing authorisation under the circumstances specified in subsection (5) of this section. The State Agency of Medicines will address the\ncompetent authority specified in subsection (5) of this section in issues related to the assessment report prepared by the competent authority.\n(7) The State Agency of Medicines will recognise the assessment provided by the competent authority of\na Member State of the European Economic Area concerning the efficacy, safety and quality of a medicinal\nproduct, unless additional information leads the Agency to believe that granting a marketing authorisation to the\nmedicinal product may result in a risk to public health or, in the event of a veterinary medicinal product, to the\nhealth of animals or humans.\n(8) Any disagreements arising from the failure by the State Agency of Medicines or competent authorities of other Member States participating in the processing of an application for a marketing authorisation to recognise the assessment report will be settled in accordance with the procedure provided by Directive 2001/83/EC of the European Parliament and of the Council on the Community Code relating to medicinal products for human use (OJ L 311, 28.11.2001, pp. 67–128). In making its final decision, the State Agency of Medicines must comply with the decision of the Committee for Human Medicinal Products of the European Medicines Agency, and of the European Commission.\n[RT I, 17.04.2013, 2 – entry into force 27.04.2013]\n",
+          "display_text": "§ 68. Processing of applications for marketing authorisation of medicinal product (1) Before acceptance of an application for processing, the State Agency of Medicines will evaluate the compliance of the application and supplementary documentation submitted with the requirements established under clause 65 (12) 1) of this Act and, if necessary, set the applicant a term for elimination of deficiencies. [RT I, 05.07.2012, 13 – entry into force 21.07.2012] (2) After acceptance of an application for processing, the State Agency of Medicines may request additional information and documents concerning the medicinal product from the applicant and set a reasonable term for submission thereof. The requested information must be submitted to the State Agency of Medicines in written form. In the event of failure to submit the information and documents by the due date, the State Agency of Medicines will terminate the processing of the application and inform the applicant thereof in writing. (2 1 ) After acceptance of an application for processing, the State Agency of Medicines may, in the event of justified need, inspect at the expense of the applicant the sites located outside of the European Union required for the attestation of the compliance of clinical trials and the manufacturing facilities of the medicinal product and active substance. [RT I, 05.07.2012, 13 – entry into force 21.07.2012] (3) Based on an application and other materials, the State Agency of Medicines will assess the compliance of the efficacy, safety and quality of the medicinal product with the requirements provided by this Act and legislation established on the basis thereof and draw up an assessment report on the medicinal product, including explanations concerning the results of pharmaceutical, pre-clinical and clinical studies of the medicinal products, the risk management system and the master file of the pharmacovigilance system, as well as reasons regarding each indication separately. The State Agency of Medicines has the right to involve non-staff experts in the assessment of an application. [RT I, 05.07.2012, 13 – entry into force 21.07.2012] (4) The State Agency of Medicines will submit the assessment of the efficacy, safety and quality of the medicinal product to the marketing authorisation committee for medicinal products for human use, and in the event of a veterinary medicinal product, to the marketing authorisation committee for veterinary medicinal products for obtaining an opinion. (5) If it becomes known to the State Agency of Medicines that a competent authority of another Member State of the European Economic Area has commenced examining an application for a marketing authorisation in respect of a medicinal product concerning which the Agency is currently processing an application, or that such competent authority has granted marketing authorisation in respect of such medicinal product, the State Agency of Medicines will suspend the processing of the application for a marketing authorisation until an assessment report is obtained from the competent authority. (6) The provisions of subsections (2)-(4) of this section do not apply to the processing of an application for a marketing authorisation in the event of suspension of the processing of the marketing authorisation under the circumstances specified in subsection (5) of this section. The State Agency of Medicines will address the competent authority specified in subsection (5) of this section in issues related to the assessment report prepared by the competent authority. (7) The State Agency of Medicines will recognise the assessment provided by the competent authority of a Member State of the European Economic Area concerning the efficacy, safety and quality of a medicinal product, unless additional information leads the Agency to believe that granting a marketing authorisation to the medicinal product may result in a risk to public health or, in the event of a veterinary medicinal product, to the health of animals or humans. (8) Any disagreements arising from the failure by the State Agency of Medicines or competent authorities of other Member States participating in the processing of an application for a marketing authorisation to recognise the assessment report will be settled in accordance with the procedure provided by Directive 2001/83/EC of the European Parliament and of the Council on the Community Code relating to medicinal products for human use (OJ L 311, 28.11.2001, pp. 67–128). In making its final decision, the State Agency of Medicines must comply with the decision of the Committee for Human Medicinal Products of the European Medicines Agency, and of the European Commission. [RT I, 17.04.2013, 2 – entry into force 27.04.2013]",
+          "feature_tags": [
+            "reports",
+            "discretion",
+            "scope_limit"
+          ],
+          "role": "Section 68",
+          "language": "en",
+          "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "Section 68(5) suspends local processing when another EEA authority is examining or has approved the same product until its report is obtained. Subsections 6–8 substitute recognition for the ordinary local assessment, subject to public-health-risk objections and European dispute decisions. National authorisation remains required.",
+          "version_alignment": "WIPO Lex record describes consolidated 14 May 2016 version; English translation, Estonian text authoritative.",
+          "evidence_tier": "national_rule",
+          "section_article": "Section 68",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "EST-CONTEXT-1",
+          "source_url": "https://www.wipo.int/wipolex/en/legislation/details/16463",
+          "raw_sha256": "284ed3a2639c27c42ee78a36fbf91e362f5f3fa161bbddf158e70a6d01a32986",
+          "text_sha256": "75e7845476678d93517f4091d6a8f15d17ddc47cd7cdab110675918e5adda187",
+          "start_offset": 164124,
+          "end_offset": 170635,
+          "verbatim_extracted_text": "equests that Estonia participate in the decentralised marketing authorisation procedure or marketing authorisation procedure of mutual recognition as a reference country, the amount of 14 000 euros will be added to the assessment fee.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(3) In the event of a repeated marketing authorisation procedure of mutual recognition and, upon renewal of a marketing authorisation in the event of decentralised marketing authorisation procedure or marketing authorisation procedure of mutual recognition in which Estonia participates as a reference country, the amount of 3000 euros will be added to the assessment fee.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\nPage 36 / 65 Medicinal Products Act\n§ 68. Processing of applications for marketing authorisation of medicinal product\n(1) Before acceptance of an application for processing, the State Agency of Medicines will evaluate the compliance of the application and supplementary documentation submitted with the requirements established under clause 65 (12) 1) of this Act and, if necessary, set the applicant a term for elimination of deficiencies. [RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(2) After acceptance of an application for processing, the State Agency of Medicines may request additional information and documents concerning the medicinal product from the applicant and set a reasonable term for submission thereof. The requested information must be submitted to the State Agency of Medicines in written form. In the event of failure to submit the information and documents by the due date, the State Agency of Medicines will terminate the processing of the application and inform the applicant thereof in writing.\n(2\n1\n) After acceptance of an application for processing, the State Agency of Medicines may, in the event of justified need, inspect at the expense of the applicant the sites located outside of the European Union required for the attestation of the compliance of clinical trials and the manufacturing facilities of the medicinal product and active substance.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(3) Based on an application and other materials, the State Agency of Medicines will assess the compliance of the efficacy, safety and quality of the medicinal product with the requirements provided by this Act and legislation established on the basis thereof and draw up an assessment report on the medicinal product, including explanations concerning the results of pharmaceutical, pre-clinical and clinical studies of the medicinal\nproducts, the risk management system and the master file of the pharmacovigilance system, as well as reasons regarding each indication separately. The State Agency of Medicines has the right to involve non-staff experts in the assessment of an application.\n[RT I, 05.07.2012, 13 – entry into force 21.07.2012]\n(4) The State Agency of Medicines will submit the assessment of the efficacy, safety and quality of the medicinal product to the marketing authorisation committee for medicinal products for human use, and in the event of a veterinary medicinal product, to the marketing authorisation committee for veterinary medicinal products for obtaining an opinion.\n(5) If it becomes known to the State Agency of Medicines that a competent authority of another Member State of the European Economic Area has commenced examining an application for a marketing authorisation in respect of a medicinal product concerning which the Agency is currently processing an application, or that such competent authority has granted marketing authorisation in respect of such medicinal product, the State Agency of Medicines will suspend the processing of the application for a marketing authorisation until an assessment report is obtained from the competent authority.\n(6) The provisions of subsections (2)-(4) of this section do not apply to the processing of an application for a marketing authorisation in the event of suspension of the processing of the marketing authorisation under the circumstances specified in subsection (5) of this section. The State Agency of Medicines will address the\ncompetent authority specified in subsection (5) of this section in issues related to the assessment report prepared by the competent authority.\n(7) The State Agency of Medicines will recognise the assessment provided by the competent authority of\na Member State of the European Economic Area concerning the efficacy, safety and quality of a medicinal\nproduct, unless additional information leads the Agency to believe that granting a marketing authorisation to the\nmedicinal product may result in a risk to public health or, in the event of a veterinary medicinal product, to the\nhealth of animals or humans.\n(8) Any disagreements arising from the failure by the State Agency of Medicines or competent authorities of other Member States participating in the processing of an application for a marketing authorisation to recognise the assessment report will be settled in accordance with the procedure provided by Directive 2001/83/EC of the European Parliament and of the Council on the Community Code relating to medicinal products for human use (OJ L 311, 28.11.2001, pp. 67–128). In making its final decision, the State Agency of Medicines must comply with the decision of the Committee for Human Medicinal Products of the European Medicines Agency, and of the European Commission.\n[RT I, 17.04.2013, 2 – entry into force 27.04.2013]\n§ 69. Marketing authorisation committee for medicinal products for human use and marketing authorisation committee for veterinary medicinal products\n(1) The marketing authorisation committee for medicinal products for human use and the marketing authorisation committee for veterinary medicinal products are advisory committees of the director general of the State Agency of Medicines whose opinion, however, is not binding on the director general of the State Agency\nof Medicines upon making a decision.\nMedicinal Products Act Page 37 / 65\n(2) The function of the committees specified in subsection (1) of this section is to provide consultations to the director general of the State Agency of Medicines in issues relating to the processing of marketing authorisations in respect of medicinal products.\n(3) The marketing authorisation committee for medicinal products for human use consists of up to ten members and the marketing authorisation committee for veterinary medicinal products consists of",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "WIPO Lex record describes consolidated 14 May 2016 version; English translation, Estonian text authoritative."
+        },
+        {
+          "clause_id": "EST-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

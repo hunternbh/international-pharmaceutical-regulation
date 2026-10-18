@@ -163,5 +163,556 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SRB",
+    "country": "Serbia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Accelerated review following centralised authorisation",
+    "source_url": "https://www.alims.gov.rs/english/wp-content/uploads/2022/01/Law-on-Medicines-and-Medical-Devices-2010.pdf",
+    "document_id": "F250_7b038f391bd63867e51b_dbbecf0e171a",
+    "genre": "Regulator-provided law translation",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "English official-hosted medicines law Article 34, section reviewed alongside surrounding authorization provisions. Accelerated route for centralised authorization or specified public-health interest. Centralized EMA case is a qualifying trigger, not automatic domestic approval.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "Human medicines including qualifying centralized authorization; other legal requirements retained.",
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Existing centralized-procedure authorization qualifies; FDA-only does not satisfy that branch.",
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "One centralized authorization or independent high-public-health-interest branch; not generic two-approval rule.",
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "National opinions and quality/safety/efficacy documentation evaluation retained.",
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Complete statutory/implementing documentation and reasons for accelerated filing required.",
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "150 days from complete application; clock suspended for additional information; initial deficiency response 30 days.",
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Decision may grant or deny.",
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "unresolved",
+        "finding": "FDA-only lacks centralized-authorization trigger; separate high-public-health-interest accelerated branch requires additional facts.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SRB-WEB01",
+          "SRB-CTX-1"
+        ],
+        "status": "unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "explicit selected-route threshold",
+        "finding": "Selected route requires two approvals or EMA-centralized trigger."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "SRB-WEB01",
+        "source_document_id": "F250_7b038f391bd63867e51b_dbbecf0e171a",
+        "evidence_role": "Selected primary document",
+        "section_article": "Article 34",
+        "pdf_page": 27,
+        "source_url": "https://www.alims.gov.rs/english/wp-content/uploads/2022/01/Law-on-Medicines-and-Medical-Devices-2010.pdf",
+        "raw_sha256": "dbbecf0e171ae052a17b0d2444c541cc83406927beff64dd2e89d03d345608cd",
+        "text_sha256": "1889cb38c46c898d25690bb8d6ef4433ab2d99d3ad54360de7e39c7dfb760bc5",
+        "exact_text": "Marketing Authorisation Issuance according to the \nAccelerated Procedure \n \nArticle 34 \nMarketing authorisation shall be issued following an accelerated procedure for: \n1) medicinal product used in human medicine, and of the highest interest for \npublic health protection, but above all, particularly in relation to therapeutic innovation; \n2) medicinal product for which a license has already been issued following \ncentralized procedure. \nIn the application for a marketing authorisation following an accelerated \nprocedure, there must be provided all the reasons related to protection of public health, \nand documentation required by this law and the regulations passed for the \nimplementation of this law,  attached.  \nIf the application for a marketing authorisation issued following an accelerated \nprocedure is incomplete, the Agency shall notify the applicant that additional \ninformation be submitted within 30 days from the date the written notice has been \nreceived. \nWithin the period of 150 days, after receiving the complete application, the \nAgency is obliged to decide whether to grant a marketing authorisation or deny a \n\n\nPAGE 28\nmarketing authorisation application, based on the opinions and evaluation of the \ndocumentation on medicinal product quality, safety and efficacy. \nDeadline referred to in Paragraph 4 of this Article shall be temporarily suspended \nfrom the date the Agency applications additional information from the applicant and be \nresumed upon the date the applicationed data are submitted.  \nMarketing authorisation issued following an expedited procedure contains \ninformation listed under Article 33, Paragraphs 8 and 9 of this Law. \nMarketing authorisation issued following an expedited procedure remains valid \nfor five years, starting from the date the decision to grant the marketing authorisation is \nmade, unless this Law stipulates otherwise.  \n  \n",
+        "start": 72039,
+        "end": 73935,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SRB-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.alims.gov.rs/english/wp-content/uploads/2022/01/Law-on-Medicines-and-Medical-Devices-2010.pdf",
+        "raw_sha256": "dbbecf0e171ae052a17b0d2444c541cc83406927beff64dd2e89d03d345608cd",
+        "text_sha256": "1889cb38c46c898d25690bb8d6ef4433ab2d99d3ad54360de7e39c7dfb760bc5",
+        "exact_text": " \nmedicinal product, and medicinal product cannot contain more than one part of the \nparent tincture to ten thousand parts or more than 1 / 100 of a minimum dose used in \nallopathic   (conventional) medicinal product, when it comes to active substances whose \npresence in allopathic medicinal product usually imposes the obligation of issuing \nprescription.  \nBased on changed scientific views, the Agency can decide to enter the \nhomeopathic medicinal product in the Register of Homeopathic Medicinal Products \neven though it does not meet the requirements prescribed in Paragraph 3, Item 3) of \nthis Article. \nFor homeopathic medicinal products that do not meet the requirements of \nParagraphs 3 and 4 of this Article, one must file a application to the Agency for dug \nlicense. \nMinister in charge of the health care issues and the Minister in charge of the \nveterinary affairs shall agree to prescribe detailed conditions and manner of registration \nin the Register of Homeopathic Medicinal Products, as well as issuance of marketing \nauthorisation for homeopathic medicinal products. \n \nVeterinary Medicinal Products \n \nArticle 23 \nVeterinary medicinal product is a medicinal product in terms of Article 14, Article \n16, Paragraph 4 and Article 18 - 22 of this Law. \nPremix is a pharmaceutical form of veterinary medicinal product intended to be \nmixed with feed.  \nPremix for medicated feed is a special pharmaceutical form of a veterinary \nmedicinal product, manufactured to be used exclusively for medicated feed production. \n \nMagistral and Galenic Medicinal Products \n \nArticle 24 \nMagistral medicinal product is a medicinal product prepared in the pharmacy \nand following a recipe (formula) for a particular patient or user. \nPreparation of a magistral medicinal product is not considered to be production \nin terms of this Law. \nGalenic medicinal product is a medicinal product prepared on the basis of the \ncurrent pharmacopoeia or existing magistral formulas in a galenic laboratory and is \nintended for patients of pharmacies or other health care facilities and/or other forms of \nHealth Services (hereinafter referred to as: private practice), when the medicinal \n\n\nPAGE 20\nproduct for which the license was issued, under the conditions prescribed by this Law \nand regulations issued to implement this law, does not exist or is not available.  \nGalenic medicinal product in Paragraph 3 of this Article can be made in galenic \nlaboratories of pharmacies conducting business as healthcare facilities at primary \nhealthcare level (hereinafter referred to as: pharmacy's galenic laboratory) in small \nbatches, up to 300 individual finished packages per batch and is intended for the \ndispensing, sale, or use and application for patients of those pharmacies, or pharmacies \nwhich are a part of other healthcare facilities conducting business at primary healthcare \nlevel, and/or pharmacies founded as private practices, as well as in the appropriate \nveterinary institution, with whom the pharmacy whose laboratory developed the \ngalenic medicinal product, concluded the contract on delivery of certain amounts of the \ngalenic medicinal product, and in veterinary pharmacies, with whom the pharmacy in \nwhose laboratory the galenic medicinal product was made, concluded a contract for \ndelivery of certain quantities of the galenic medicinal product. \nGalenic medicinal product, referred to in Paragraph 3 of this Article, exclusively \nused in veterinary medicine, is made in galenic laboratories of veterinary pharmacies in \nquantities of up to 100 finished consumer packages per day. Active substances, for \nwhich there is a withdrawal period, can not be used to produce galenic and magistral \nmedicinal products for use in veterinary medicine for the treatment of food-producing \nanimals. \nPreparation of a galenic medicinal product from Paragraphs 4 and 5 of this \nArticle in the total amount of up to 300 individual finished medicinal product packages \nper batch, or up to 100 finish",
+        "start": 49300,
+        "end": 53300,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "SRB",
+      "country": "Serbia",
+      "selected_document_id": "F250_7b038f391bd63867e51b_dbbecf0e171a",
+      "source_id": "F250_7b038f391bd63867e51b",
+      "pathway": "Accelerated review following centralised authorisation",
+      "source_url": "https://www.alims.gov.rs/english/wp-content/uploads/2022/01/Law-on-Medicines-and-Medical-Devices-2010.pdf",
+      "document_title": "Serbian Law on Medicines and Medical Devices 2010, English version",
+      "source_type": "Regulator-provided law translation",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "SRB-WEB01": null
+        }
+      ],
+      "raw_sha256": "dbbecf0e171ae052a17b0d2444c541cc83406927beff64dd2e89d03d345608cd",
+      "raw_hash_validated": true,
+      "text_sha256": "1889cb38c46c898d25690bb8d6ef4433ab2d99d3ad54360de7e39c7dfb760bc5",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "English official-hosted medicines law Article 34, section reviewed alongside surrounding authorization provisions. Accelerated route for centralised authorization or specified public-health interest. Centralized EMA case is a qualifying trigger, not automatic domestic approval.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          72039,
+          73935
+        ],
+        [
+          49300,
+          53300
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "Human medicines including qualifying centralized authorization; other legal requirements retained.",
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Existing centralized-procedure authorization qualifies; FDA-only does not satisfy that branch.",
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "One centralized authorization or independent high-public-health-interest branch; not generic two-approval rule.",
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "National opinions and quality/safety/efficacy documentation evaluation retained.",
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Complete statutory/implementing documentation and reasons for accelerated filing required.",
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "150 days from complete application; clock suspended for additional information; initial deficiency response 30 days.",
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Decision may grant or deny.",
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "unresolved",
+          "finding": "FDA-only lacks centralized-authorization trigger; separate high-public-health-interest accelerated branch requires additional facts.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SRB-WEB01",
+            "SRB-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "explicit selected-route threshold",
+          "finding": "Selected route requires two approvals or EMA-centralized trigger."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "SRB-WEB01",
+          "source_document_id": "F250_7b038f391bd63867e51b_dbbecf0e171a",
+          "evidence_role": "Selected primary document",
+          "section_article": "Article 34",
+          "pdf_page": 27,
+          "source_url": "https://www.alims.gov.rs/english/wp-content/uploads/2022/01/Law-on-Medicines-and-Medical-Devices-2010.pdf",
+          "raw_sha256": "dbbecf0e171ae052a17b0d2444c541cc83406927beff64dd2e89d03d345608cd",
+          "text_sha256": "1889cb38c46c898d25690bb8d6ef4433ab2d99d3ad54360de7e39c7dfb760bc5",
+          "exact_text": "Marketing Authorisation Issuance according to the \nAccelerated Procedure \n \nArticle 34 \nMarketing authorisation shall be issued following an accelerated procedure for: \n1) medicinal product used in human medicine, and of the highest interest for \npublic health protection, but above all, particularly in relation to therapeutic innovation; \n2) medicinal product for which a license has already been issued following \ncentralized procedure. \nIn the application for a marketing authorisation following an accelerated \nprocedure, there must be provided all the reasons related to protection of public health, \nand documentation required by this law and the regulations passed for the \nimplementation of this law,  attached.  \nIf the application for a marketing authorisation issued following an accelerated \nprocedure is incomplete, the Agency shall notify the applicant that additional \ninformation be submitted within 30 days from the date the written notice has been \nreceived. \nWithin the period of 150 days, after receiving the complete application, the \nAgency is obliged to decide whether to grant a marketing authorisation or deny a \n\n\nPAGE 28\nmarketing authorisation application, based on the opinions and evaluation of the \ndocumentation on medicinal product quality, safety and efficacy. \nDeadline referred to in Paragraph 4 of this Article shall be temporarily suspended \nfrom the date the Agency applications additional information from the applicant and be \nresumed upon the date the applicationed data are submitted.  \nMarketing authorisation issued following an expedited procedure contains \ninformation listed under Article 33, Paragraphs 8 and 9 of this Law. \nMarketing authorisation issued following an expedited procedure remains valid \nfor five years, starting from the date the decision to grant the marketing authorisation is \nmade, unless this Law stipulates otherwise.  \n  \n",
+          "start": 72039,
+          "end": 73935,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SRB-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.alims.gov.rs/english/wp-content/uploads/2022/01/Law-on-Medicines-and-Medical-Devices-2010.pdf",
+          "raw_sha256": "dbbecf0e171ae052a17b0d2444c541cc83406927beff64dd2e89d03d345608cd",
+          "text_sha256": "1889cb38c46c898d25690bb8d6ef4433ab2d99d3ad54360de7e39c7dfb760bc5",
+          "exact_text": " \nmedicinal product, and medicinal product cannot contain more than one part of the \nparent tincture to ten thousand parts or more than 1 / 100 of a minimum dose used in \nallopathic   (conventional) medicinal product, when it comes to active substances whose \npresence in allopathic medicinal product usually imposes the obligation of issuing \nprescription.  \nBased on changed scientific views, the Agency can decide to enter the \nhomeopathic medicinal product in the Register of Homeopathic Medicinal Products \neven though it does not meet the requirements prescribed in Paragraph 3, Item 3) of \nthis Article. \nFor homeopathic medicinal products that do not meet the requirements of \nParagraphs 3 and 4 of this Article, one must file a application to the Agency for dug \nlicense. \nMinister in charge of the health care issues and the Minister in charge of the \nveterinary affairs shall agree to prescribe detailed conditions and manner of registration \nin the Register of Homeopathic Medicinal Products, as well as issuance of marketing \nauthorisation for homeopathic medicinal products. \n \nVeterinary Medicinal Products \n \nArticle 23 \nVeterinary medicinal product is a medicinal product in terms of Article 14, Article \n16, Paragraph 4 and Article 18 - 22 of this Law. \nPremix is a pharmaceutical form of veterinary medicinal product intended to be \nmixed with feed.  \nPremix for medicated feed is a special pharmaceutical form of a veterinary \nmedicinal product, manufactured to be used exclusively for medicated feed production. \n \nMagistral and Galenic Medicinal Products \n \nArticle 24 \nMagistral medicinal product is a medicinal product prepared in the pharmacy \nand following a recipe (formula) for a particular patient or user. \nPreparation of a magistral medicinal product is not considered to be production \nin terms of this Law. \nGalenic medicinal product is a medicinal product prepared on the basis of the \ncurrent pharmacopoeia or existing magistral formulas in a galenic laboratory and is \nintended for patients of pharmacies or other health care facilities and/or other forms of \nHealth Services (hereinafter referred to as: private practice), when the medicinal \n\n\nPAGE 20\nproduct for which the license was issued, under the conditions prescribed by this Law \nand regulations issued to implement this law, does not exist or is not available.  \nGalenic medicinal product in Paragraph 3 of this Article can be made in galenic \nlaboratories of pharmacies conducting business as healthcare facilities at primary \nhealthcare level (hereinafter referred to as: pharmacy's galenic laboratory) in small \nbatches, up to 300 individual finished packages per batch and is intended for the \ndispensing, sale, or use and application for patients of those pharmacies, or pharmacies \nwhich are a part of other healthcare facilities conducting business at primary healthcare \nlevel, and/or pharmacies founded as private practices, as well as in the appropriate \nveterinary institution, with whom the pharmacy whose laboratory developed the \ngalenic medicinal product, concluded the contract on delivery of certain amounts of the \ngalenic medicinal product, and in veterinary pharmacies, with whom the pharmacy in \nwhose laboratory the galenic medicinal product was made, concluded a contract for \ndelivery of certain quantities of the galenic medicinal product. \nGalenic medicinal product, referred to in Paragraph 3 of this Article, exclusively \nused in veterinary medicine, is made in galenic laboratories of veterinary pharmacies in \nquantities of up to 100 finished consumer packages per day. Active substances, for \nwhich there is a withdrawal period, can not be used to produce galenic and magistral \nmedicinal products for use in veterinary medicine for the treatment of food-producing \nanimals. \nPreparation of a galenic medicinal product from Paragraphs 4 and 5 of this \nArticle in the total amount of up to 300 individual finished medicinal product packages \nper batch, or up to 100 finish",
+          "start": 49300,
+          "end": 53300,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

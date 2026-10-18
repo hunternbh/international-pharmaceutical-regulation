@@ -414,5 +414,755 @@
     "source_hashes": [
       "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "TWN",
+    "country": "Taiwan",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Abridged review after FDA AND EMA approval and bridging",
+    "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+    "document_id": "c70f4ff42574704085d3",
+    "genre": "Administrative procedure",
+    "language": "zh-Hant",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Historical 2011 attachment with original Chinese scan. Pages 1–3 visually checked in this run: FDA AND EMA, bridging finding, risk-plan progress and reports; complete clinical and CMC review retained. Separate priority-review attachment is not pooled. No assumption about subsequent amendments.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "New active-substance registration explicitly covered.",
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA AND EMA, not FDA alone.",
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Both FDA and EMA approvals plus bridging finding and further conditions.",
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Image-confirmed page 3: absent US/EU authorization proof, or inconsistency with submitted full formulation/site information, sends abridged filing to ordinary review.",
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "FDA and EMA assessment reports required in OCR context; completeness/unredaction not specified.",
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Public sufficiency/unredaction cannot be inferred from generic report wording.",
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "explicit requirement",
+        "finding": "Bridging-study evaluation finding no ethnic difference required; no ethnicity finding assumed from prior FDA/EMA approval.",
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ]
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Image-confirmed pages 2–3: clinical and CMC undergo complete review; preclinical/pharmacology-toxicology and statistics generally accept foreign views subject to necessity and safety checks. This is partial reuse, not wholesale scientific delegation.",
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "May receive abridged review if further requirements satisfied.",
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "explicitly ineligible for selected route",
+        "finding": "FDA-only fails explicit FDA AND EMA requirement.",
+        "decisive_conditions": [
+          "Two prior approvals/named-authority condition."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TWN-Q01",
+          "TWN-CTX-1",
+          "TWN-VISUAL-1",
+          "TWN-VISUAL-2",
+          "TWN-VISUAL-3"
+        ],
+        "status": "explicitly ineligible for selected route"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "explicit selected-route threshold",
+        "finding": "Selected route requires two approvals or EMA-centralized trigger."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "TWN-Q01",
+        "source_document_id": "c70f4ff42574704085d3",
+        "evidence_role": "Selected primary document",
+        "section_article": "Eligibility threshold; section III",
+        "pdf_page": 1,
+        "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+        "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+        "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+        "exact_text": null,
+        "start": null,
+        "end": null,
+        "translation": "For registration of a new active-substance medicine, where proof of approval by both the US FDA and the EU EMA is available, a bridging-study evaluation finds no ethnic differences, and the following two conditions are met, marketing may be approved with priority through an abridged review:",
+        "translation_status": "Assistant checked and corrected research translation; not official/certified",
+        "image_transcription": "申請新成分新藥查驗登記，具有美國FDA及歐盟EMA核准證明，經銜接性試驗評估未具族群差異者，且符合下列二項條件，得優先以精簡審查核准上市：",
+        "image_sha256": "ed4ec42ca9aec0a23bb4410615d49da11365dbd2520940d2c01c55259c483908",
+        "exact_offset_validated": false,
+        "validation_note": "Image transcription is not a substring of noisy OCR; no invented text offsets."
+      },
+      {
+        "passage_id": "TWN-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+        "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+        "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+        "exact_text": "PAGE 1\n[MACHINE OCR; original image authoritative]\n\\u\n\nAR\n\n「 新藥查驗登記精簡審查程序」\n\n、目的:\n\n針對美國食品藥物管理局 (FDA) 與歐洲藥物管理局 CEMA)\n均已上市的新藥,制定精簡審查程序,使新藥早日上市,嘉\n\n惠病患使用。\n\n、說明:\n\n針對美國 FDA 與歐盟 EMA 艾已核准上市的新成分新藥,因\n其技術性資料業已歷經醫藥先進國家法規單位之審查核\n可,相對於其他新藥屬於風險等級較低者,擬於現行審查程\n序外,增加制定精簡審查程序,以期該類新藥能快速上市,\n使病患早日獲得治療並保障病人的權益。\n\n、適用對象:\n\n申請新成分新藥查驗登記,具有美國FDA 及歐盟 EMA 核准\n證明,經銜接性試驗評估未具族群差異者,且符合下列三項\n人條件,得優先以精簡審查核准上市:\n\n( 一) 對英國\n\nFDA 及歐盟 EMA 所要求之藥品風險管理計\n\n畫 (Risk Evaluation and Mitigation Strategies/Risk\n\nManagement Plan ;  REMS/RMP ) 及上市後承諾\n\n(Post-marketing Commitment)提出最新進度報告。\n\n(二)提供美國 FDA 及歐盟 EMA 審查報告。\n\n、申請適用精簡審查程序應檢送之資料:\n\n(一)依本署「藥品查驗登記審查準則」第六條之規定,提\n出該品已在美國與歐盟核准上市之證明。送件時得以\n\n1\n\n\nPAGE 2\n[MACHINE OCR; original image authoritative]\n美國與歐盟核准函和核准仿單替代,惟領證前應補齊\n前述資料。\n\n(二)美國 FDA 及歐盟 EMA 之審查報告 “(assessment\nreport )。\n\n(三)依本署「藥品查驗登記審查準則」第三十九條附件三\n之規定,檢附相關之技術性資料。\n\n( 四)經本局審核得免除銜接性試驗核備函。\n\n五、審查重點:\n\n精簡審查程序原則上以 CMC、PK/PD 與臨床等資料為主要審\n查內容,臨床前之藥理夷理與統計部分,原則上認可美國\nFDA 與歐盟 EMA 之審查意見。,於必要時才加入審查。各專\n\n業領域之技術性資料審查重點。說明如下:\n\n(一)臨床部分: 進行完整審查,重點如下:\n1.在國外族群所執行之臨床試驗結果,審查能否外推\n(bridge)對國人亦可接受之療效、安全及用法用量。\n2.在我國所申請之新爍適應症,與美國 FDA 與歐盟 EMA\n所核准之適應症內容差異。\n若有美國 FDA 與歐盟 EMA 所要求之 phase_IV\n\ncommitment or requirement ,是否比照要求,或新增\n要求執行其他上市後研究。\n\n4.評估是否要求我國執行藥品風險管理計畫 (Risk\nEvaluation and Mitigation Strategies/Risk Management\n\nplan ; REMS/RMP) 。,並審查其適當性。\n5.若上市後之藥品定期安全性報告(PSUR : Periodic\nSafety Update Reports)出現新發現之不良反應,廠商\n\n\nPAGE 3\n[MACHINE OCR; original image authoritative]\n必須報告是否有新增安全性議題。\n(=) 化學製造管制部分:進行完整審查。\n重點如下:\n1. 原料藥: 若提供原料藥之規格與包裝同 FDA 或 EMA\n之聲明,可只審查其物化性質、規格與檢驗成績書\n\n(COA)。\n2. 成品:發展沿革、製程、規格與 COA、包裝與安定\n性。\n\n(三)藥動藥效部份: 原則上認可美國 FDA 與歐盟 EMA 之審\n查意見。在特殊旅群與交互作用部份,對美國 FDA RK\n盟 EMA 意見不同時作用法用量的審查評估。\n\n(四)臨床前,藥、毒理部份: 原則上認可美國 FDA 與歐盟 EMA\n之審查意見。將依據所檢送的臨床前藥、壽理總結報告\n或 FDA/EMA Assessment report,檢視非臨床安全性資料\n\n是否足以支持臨床使用族群的安全性。\n\n意\n&\n\n若領證前無法檢送該品在美國與歐盟核准上市之證明或檢\n\n送證明與申請所載全處方及工廠資訊不符時,本局將此精簡\n審查案改為一般程序審查案件\n\n\nPAGE 4\n\n\nPAGE 5\n[MACHINE OCR; original image authoritative]\n「 新藥查驗登記優先審查機制」\n\n一、目的:\n針對國人生命及健康維護有迫切需求的藥物,制定新藥優先\n審查程序,使新藥早日上市,嘉惠病患使用。\n二、適用對象,須符合下述三點:\n( 一) 屬藥事法第七條定義之新成分新爍。\n(二) 申請人應向中央衛生主管機關提出申請,以評估其所\n\n擬提送件之藥品是否適用優先審查程序。\n\n(三)該藥品仿單宣稱之適應症,應同時符合下列二條件:\n\n1. 適應症為嚴重疾病。係指嚴重威脅生命的疾病、若\n未經治療,疾病過程將隨時間更趨嚴重,且顯",
+        "start": 0,
+        "end": 2100,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "TWN-VISUAL-1",
+        "pdf_page": 1,
+        "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+        "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+        "image_sha256": "8a7d092bf82654e2ce1a918bc0068597c0047460c297654aa2a4976f16dfeaae",
+        "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+        "start": null,
+        "end": null,
+        "exact_text": null,
+        "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+      },
+      {
+        "passage_id": "TWN-VISUAL-2",
+        "pdf_page": 2,
+        "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+        "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+        "image_sha256": "67cf8e74f622a4dbdbf8a3af150289fd6f27ba264838b89769e85e207a78a2e9",
+        "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+        "start": null,
+        "end": null,
+        "exact_text": null,
+        "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+      },
+      {
+        "passage_id": "TWN-VISUAL-3",
+        "pdf_page": 3,
+        "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+        "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+        "image_sha256": "eb76811ac7470c96b425a82f9767a91aa96c59d342db09768c15d403ad87a7d2",
+        "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+        "start": null,
+        "end": null,
+        "exact_text": null,
+        "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+      }
+    ],
+    "review_details": {
+      "iso3": "TWN",
+      "country": "Taiwan",
+      "selected_document_id": "c70f4ff42574704085d3",
+      "source_id": "80e552255880b31a",
+      "pathway": "Abridged review after FDA AND EMA approval and bridging",
+      "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+      "document_title": "Taiwan2011 original signed scan tw_2011_original_procedure.pdf",
+      "source_type": "Administrative procedure",
+      "scope": "Human-medicine authorisation",
+      "language": "zh-Hant",
+      "translation_provenance": [
+        {
+          "TWN-Q01": "Assistant checked and corrected research translation; not official/certified"
+        }
+      ],
+      "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+      "raw_hash_validated": true,
+      "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+      "version_dates": {
+        "version": "2011 attachment; exact operative start not reconstructed"
+      },
+      "version_scope_note": "Historical 2011 attachment with original Chinese scan. Pages 1–3 visually checked in this run: FDA AND EMA, bridging finding, risk-plan progress and reports; complete clinical and CMC review retained. Separate priority-review attachment is not pooled. No assumption about subsequent amendments.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          0,
+          2100
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New active-substance registration explicitly covered.",
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA AND EMA, not FDA alone.",
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Both FDA and EMA approvals plus bridging finding and further conditions.",
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Image-confirmed page 3: absent US/EU authorization proof, or inconsistency with submitted full formulation/site information, sends abridged filing to ordinary review.",
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "FDA and EMA assessment reports required in OCR context; completeness/unredaction not specified.",
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Public sufficiency/unredaction cannot be inferred from generic report wording.",
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "explicit requirement",
+          "finding": "Bridging-study evaluation finding no ethnic difference required; no ethnicity finding assumed from prior FDA/EMA approval.",
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Image-confirmed pages 2–3: clinical and CMC undergo complete review; preclinical/pharmacology-toxicology and statistics generally accept foreign views subject to necessity and safety checks. This is partial reuse, not wholesale scientific delegation.",
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "May receive abridged review if further requirements satisfied.",
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        },
+        "E": {
+          "eligibility": "explicitly ineligible for selected route",
+          "finding": "FDA-only fails explicit FDA AND EMA requirement.",
+          "decisive_conditions": [
+            "Two prior approvals/named-authority condition."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TWN-Q01",
+            "TWN-CTX-1",
+            "TWN-VISUAL-1",
+            "TWN-VISUAL-2",
+            "TWN-VISUAL-3"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "explicit selected-route threshold",
+          "finding": "Selected route requires two approvals or EMA-centralized trigger."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "TWN-Q01",
+          "source_document_id": "c70f4ff42574704085d3",
+          "evidence_role": "Selected primary document",
+          "section_article": "Eligibility threshold; section III",
+          "pdf_page": 1,
+          "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+          "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+          "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+          "exact_text": null,
+          "start": null,
+          "end": null,
+          "translation": "For registration of a new active-substance medicine, where proof of approval by both the US FDA and the EU EMA is available, a bridging-study evaluation finds no ethnic differences, and the following two conditions are met, marketing may be approved with priority through an abridged review:",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "image_transcription": "申請新成分新藥查驗登記，具有美國FDA及歐盟EMA核准證明，經銜接性試驗評估未具族群差異者，且符合下列二項條件，得優先以精簡審查核准上市：",
+          "image_sha256": "ed4ec42ca9aec0a23bb4410615d49da11365dbd2520940d2c01c55259c483908",
+          "exact_offset_validated": false,
+          "validation_note": "Image transcription is not a substring of noisy OCR; no invented text offsets."
+        },
+        {
+          "passage_id": "TWN-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+          "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+          "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+          "exact_text": "PAGE 1\n[MACHINE OCR; original image authoritative]\n\\u\n\nAR\n\n「 新藥查驗登記精簡審查程序」\n\n、目的:\n\n針對美國食品藥物管理局 (FDA) 與歐洲藥物管理局 CEMA)\n均已上市的新藥,制定精簡審查程序,使新藥早日上市,嘉\n\n惠病患使用。\n\n、說明:\n\n針對美國 FDA 與歐盟 EMA 艾已核准上市的新成分新藥,因\n其技術性資料業已歷經醫藥先進國家法規單位之審查核\n可,相對於其他新藥屬於風險等級較低者,擬於現行審查程\n序外,增加制定精簡審查程序,以期該類新藥能快速上市,\n使病患早日獲得治療並保障病人的權益。\n\n、適用對象:\n\n申請新成分新藥查驗登記,具有美國FDA 及歐盟 EMA 核准\n證明,經銜接性試驗評估未具族群差異者,且符合下列三項\n人條件,得優先以精簡審查核准上市:\n\n( 一) 對英國\n\nFDA 及歐盟 EMA 所要求之藥品風險管理計\n\n畫 (Risk Evaluation and Mitigation Strategies/Risk\n\nManagement Plan ;  REMS/RMP ) 及上市後承諾\n\n(Post-marketing Commitment)提出最新進度報告。\n\n(二)提供美國 FDA 及歐盟 EMA 審查報告。\n\n、申請適用精簡審查程序應檢送之資料:\n\n(一)依本署「藥品查驗登記審查準則」第六條之規定,提\n出該品已在美國與歐盟核准上市之證明。送件時得以\n\n1\n\n\nPAGE 2\n[MACHINE OCR; original image authoritative]\n美國與歐盟核准函和核准仿單替代,惟領證前應補齊\n前述資料。\n\n(二)美國 FDA 及歐盟 EMA 之審查報告 “(assessment\nreport )。\n\n(三)依本署「藥品查驗登記審查準則」第三十九條附件三\n之規定,檢附相關之技術性資料。\n\n( 四)經本局審核得免除銜接性試驗核備函。\n\n五、審查重點:\n\n精簡審查程序原則上以 CMC、PK/PD 與臨床等資料為主要審\n查內容,臨床前之藥理夷理與統計部分,原則上認可美國\nFDA 與歐盟 EMA 之審查意見。,於必要時才加入審查。各專\n\n業領域之技術性資料審查重點。說明如下:\n\n(一)臨床部分: 進行完整審查,重點如下:\n1.在國外族群所執行之臨床試驗結果,審查能否外推\n(bridge)對國人亦可接受之療效、安全及用法用量。\n2.在我國所申請之新爍適應症,與美國 FDA 與歐盟 EMA\n所核准之適應症內容差異。\n若有美國 FDA 與歐盟 EMA 所要求之 phase_IV\n\ncommitment or requirement ,是否比照要求,或新增\n要求執行其他上市後研究。\n\n4.評估是否要求我國執行藥品風險管理計畫 (Risk\nEvaluation and Mitigation Strategies/Risk Management\n\nplan ; REMS/RMP) 。,並審查其適當性。\n5.若上市後之藥品定期安全性報告(PSUR : Periodic\nSafety Update Reports)出現新發現之不良反應,廠商\n\n\nPAGE 3\n[MACHINE OCR; original image authoritative]\n必須報告是否有新增安全性議題。\n(=) 化學製造管制部分:進行完整審查。\n重點如下:\n1. 原料藥: 若提供原料藥之規格與包裝同 FDA 或 EMA\n之聲明,可只審查其物化性質、規格與檢驗成績書\n\n(COA)。\n2. 成品:發展沿革、製程、規格與 COA、包裝與安定\n性。\n\n(三)藥動藥效部份: 原則上認可美國 FDA 與歐盟 EMA 之審\n查意見。在特殊旅群與交互作用部份,對美國 FDA RK\n盟 EMA 意見不同時作用法用量的審查評估。\n\n(四)臨床前,藥、毒理部份: 原則上認可美國 FDA 與歐盟 EMA\n之審查意見。將依據所檢送的臨床前藥、壽理總結報告\n或 FDA/EMA Assessment report,檢視非臨床安全性資料\n\n是否足以支持臨床使用族群的安全性。\n\n意\n&\n\n若領證前無法檢送該品在美國與歐盟核准上市之證明或檢\n\n送證明與申請所載全處方及工廠資訊不符時,本局將此精簡\n審查案改為一般程序審查案件\n\n\nPAGE 4\n\n\nPAGE 5\n[MACHINE OCR; original image authoritative]\n「 新藥查驗登記優先審查機制」\n\n一、目的:\n針對國人生命及健康維護有迫切需求的藥物,制定新藥優先\n審查程序,使新藥早日上市,嘉惠病患使用。\n二、適用對象,須符合下述三點:\n( 一) 屬藥事法第七條定義之新成分新爍。\n(二) 申請人應向中央衛生主管機關提出申請,以評估其所\n\n擬提送件之藥品是否適用優先審查程序。\n\n(三)該藥品仿單宣稱之適應症,應同時符合下列二條件:\n\n1. 適應症為嚴重疾病。係指嚴重威脅生命的疾病、若\n未經治療,疾病過程將隨時間更趨嚴重,且顯",
+          "start": 0,
+          "end": 2100,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "TWN-VISUAL-1",
+          "pdf_page": 1,
+          "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+          "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+          "image_sha256": "8a7d092bf82654e2ce1a918bc0068597c0047460c297654aa2a4976f16dfeaae",
+          "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+          "start": null,
+          "end": null,
+          "exact_text": null,
+          "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+        },
+        {
+          "passage_id": "TWN-VISUAL-2",
+          "pdf_page": 2,
+          "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+          "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+          "image_sha256": "67cf8e74f622a4dbdbf8a3af150289fd6f27ba264838b89769e85e207a78a2e9",
+          "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+          "start": null,
+          "end": null,
+          "exact_text": null,
+          "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+        },
+        {
+          "passage_id": "TWN-VISUAL-3",
+          "pdf_page": 3,
+          "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
+          "raw_sha256": "96071b243c300df1e3c415f0a8f13136c34cbd8620c8037a0bbb5aae42bcc915",
+          "image_sha256": "eb76811ac7470c96b425a82f9767a91aa96c59d342db09768c15d403ad87a7d2",
+          "text_sha256": "958f567c545999a4eb8123c9877a2aa550c918f0d9acc1b3f6b48c94205bad3d",
+          "start": null,
+          "end": null,
+          "exact_text": null,
+          "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "TWN-SUP-1020fe06-41",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "section_article": "Sections1–2",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "TWN-SUP-1020fe06-379",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "section_article": "Section3, qualification request",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "TWN-SUP-1020fe06-2039",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "section_article": "Section6",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "TWN-SUP-1020fe06-1624",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "section_article": "Section4,CMCrequirements(3)",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

@@ -130,5 +130,712 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "HRV",
+    "country": "Croatia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition and decentralised assessment",
+    "source_url": "https://mvep.gov.hr/UserDocsImages/files/file/dokumenti/prevodenje/zakoni/zakon-o-lijekovima-nn-76-13-eng.pdf",
+    "document_id": "F250_527419a07270d84c8c5f_da42a7cedfa7",
+    "genre": "Government-provided law translation",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Official national authorisation procedures, preserved version; centralised and MRP mechanisms separated.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Source distinguishes EC/centralised authorisation from national EU/EEA mutual recognition; FDA alone is not an MRP RMS.",
+        "evidence_ids": [
+          "HRV-R01",
+          "HRV-CONTEXT-1",
+          "HRV-SHARED-EC",
+          "HRV-SHARED-EC"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Existing EC MA rather than public-versus-full report availability supplies the shared authorisation effect.",
+        "evidence_ids": [
+          "HRV-R01",
+          "HRV-CONTEXT-1",
+          "HRV-SHARED-EC",
+          "HRV-SHARED-EC"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Shared EC centralised authorisation is distinct from a repeat national scientific assessment; MRP/DCP procedures have their own assessments/objections.",
+        "evidence_ids": [
+          "HRV-R01",
+          "HRV-CONTEXT-1",
+          "HRV-SHARED-EC",
+          "HRV-SHARED-EC"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HRV-R01",
+          "HRV-CONTEXT-1",
+          "HRV-SHARED-EC",
+          "HRV-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HRV-R01",
+          "HRV-CONTEXT-1",
+          "HRV-SHARED-EC",
+          "HRV-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HRV-R01",
+          "HRV-CONTEXT-1",
+          "HRV-SHARED-EC",
+          "HRV-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HRV-R01",
+          "HRV-CONTEXT-1",
+          "HRV-SHARED-EC",
+          "HRV-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "outside selected shared authorisation pathway",
+        "finding": "FDA alone does not supply EC centralised marketing authorisation or a national EEA MRP RMS approval; ordinary national route remains separate.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HRV-R01",
+          "HRV-CONTEXT-1",
+          "HRV-SHARED-EC",
+          "HRV-SHARED-EC"
+        ],
+        "status": "outside selected shared authorisation pathway"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "HRV-SHARED-EC"
+        ]
+      },
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "HRV-R01",
+        "iso3": "HRV",
+        "event_id": null,
+        "document_id": "F250_527419a07270d84c8c5f_da42a7cedfa7",
+        "source_id": "F250_527419a07270d84c8c5f",
+        "source_url": "https://mvep.gov.hr/UserDocsImages/files/file/dokumenti/prevodenje/zakoni/zakon-o-lijekovima-nn-76-13-eng.pdf",
+        "raw_sha256": "da42a7cedfa7ccb4ece4339f28018b6ad5a26e5ada20316b691cb86cc7695e31",
+        "text_sha256": "4e1122570d7548e1924574c0c1b3527bac5241c02789c4cff01171239d8f8607",
+        "start_offset": 54481,
+        "end_offset": 56139,
+        "pdf_page": 20,
+        "verbatim_extracted_text": "Article 22 \n(1) The Agency or the European Commission shall grant marketing authorisations for \nmedicinal products in the Republic of Croatia. \n(2) For the purpose of placing a medicinal product on the market, its quality, safety and \nefficacy shall be determined.  \n(3) The Agency shall grant marketing authorisations for medicinal products through the \nnational procedure, the mutual recognition procedure and the decentralised procedure by \nmeans of the decision which shall mark the completion of the authorisation procedure carried \nout in accordance with this Act and ordinances issued persuant to this Act.  \n(4) The Republic of Croatia can be either the reference state or the concerned state in the \nmutual recognition procedure and decentralised procedure. \n(5) The European Commission shall grant marketing authorisations based on the centralised \nprocedure in accordance with the provisions of the Regulation (EC) No 726/2004. \n(6) The marketing authorisation shall also be granted for radionuclide generators, \nradionuclide kits, radiopharmaceuticals, radionuclide precursors and industrially produced \nradiopharmaceuticals.  \n(7) When a medicinal product has been granted an initial authorisation for marketing in the \nEuropean Union, any additional strengths, pharmaceutical forms, administration routes, types \nand sizes of packaging, as well as any variations and extensions shall also be granted an \nauthorisation or shall be included in the initial marketing authorisation.  \n(8) All authorisations referred to in paragraph 7 of this Article shall be considered as \nbelonging to the same global marketing authorisation.  \n\n\nPAGE 21\n \n \n21\n",
+        "display_text": "Article 22 (1) The Agency or the European Commission shall grant marketing authorisations for medicinal products in the Republic of Croatia. (2) For the purpose of placing a medicinal product on the market, its quality, safety and efficacy shall be determined. (3) The Agency shall grant marketing authorisations for medicinal products through the national procedure, the mutual recognition procedure and the decentralised procedure by means of the decision which shall mark the completion of the authorisation procedure carried out in accordance with this Act and ordinances issued persuant to this Act. (4) The Republic of Croatia can be either the reference state or the concerned state in the mutual recognition procedure and decentralised procedure. (5) The European Commission shall grant marketing authorisations based on the centralised procedure in accordance with the provisions of the Regulation (EC) No 726/2004. (6) The marketing authorisation shall also be granted for radionuclide generators, radionuclide kits, radiopharmaceuticals, radionuclide precursors and industrially produced radiopharmaceuticals. (7) When a medicinal product has been granted an initial authorisation for marketing in the European Union, any additional strengths, pharmaceutical forms, administration routes, types and sizes of packaging, as well as any variations and extensions shall also be granted an authorisation or shall be included in the initial marketing authorisation. (8) All authorisations referred to in paragraph 7 of this Article shall be considered as belonging to the same global marketing authorisation. PAGE 21 21",
+        "feature_tags": [
+          "scope_limit",
+          "joint_review"
+        ],
+        "role": "Article 22",
+        "language": "en",
+        "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "Article 22 authorises national, MRP and DCP decisions and distinguishes the European Commission centralised route. This is a national enactment within the shared European system, not a separate independent reliance reform.",
+        "version_alignment": "2013 Act, government English translation; authoritative Croatian wording and later amendments require alignment.",
+        "evidence_tier": "national_rule",
+        "section_article": "Article 22",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "HRV-CONTEXT-1",
+        "source_url": "https://mvep.gov.hr/UserDocsImages/files/file/dokumenti/prevodenje/zakoni/zakon-o-lijekovima-nn-76-13-eng.pdf",
+        "raw_sha256": "da42a7cedfa7ccb4ece4339f28018b6ad5a26e5ada20316b691cb86cc7695e31",
+        "text_sha256": "4e1122570d7548e1924574c0c1b3527bac5241c02789c4cff01171239d8f8607",
+        "start_offset": 53731,
+        "end_offset": 57139,
+        "verbatim_extracted_text": " the \ninvestigator. \n(3) The declaration/explanation referred to in paragraph 2 of this Article shall be provided \nwithin seven days from the date of receipt of the Ministry's request, except in case of an \nimmediate and significant risk. \nArticle 21 \nIn the process of development and manufacture of an investigational medicinal product, while \ndrafting the documentation relating to clinical trials, and in the course of clinical trials, the \nclinical trial sponsors and investigators shall comply with the provisions of this Act and \nobserve the ordinances issued pursuant to this Act as well as the principles and standards laid \ndown in relevant guidelines of the European Commission or the EMA.   \n3. PLACING MEDICINAL PRODUCTS ON THE MARKET  \nArticle 22 \n(1) The Agency or the European Commission shall grant marketing authorisations for \nmedicinal products in the Republic of Croatia. \n(2) For the purpose of placing a medicinal product on the market, its quality, safety and \nefficacy shall be determined.  \n(3) The Agency shall grant marketing authorisations for medicinal products through the \nnational procedure, the mutual recognition procedure and the decentralised procedure by \nmeans of the decision which shall mark the completion of the authorisation procedure carried \nout in accordance with this Act and ordinances issued persuant to this Act.  \n(4) The Republic of Croatia can be either the reference state or the concerned state in the \nmutual recognition procedure and decentralised procedure. \n(5) The European Commission shall grant marketing authorisations based on the centralised \nprocedure in accordance with the provisions of the Regulation (EC) No 726/2004. \n(6) The marketing authorisation shall also be granted for radionuclide generators, \nradionuclide kits, radiopharmaceuticals, radionuclide precursors and industrially produced \nradiopharmaceuticals.  \n(7) When a medicinal product has been granted an initial authorisation for marketing in the \nEuropean Union, any additional strengths, pharmaceutical forms, administration routes, types \nand sizes of packaging, as well as any variations and extensions shall also be granted an \nauthorisation or shall be included in the initial marketing authorisation.  \n(8) All authorisations referred to in paragraph 7 of this Article shall be considered as \nbelonging to the same global marketing authorisation.  \n\n\nPAGE 21\n \n \n21\nArticle 23 \nA marketing authorisation shall not be required for a radiopharmaceutical prepared at the time \nof use from authorised radionuclide generators, kits or radionuclide precursors by a person or \nby an establishment authorised to use such medicinal products in accordance with the \nmanufacturer's instructions, and used exclusively in an approved health care establishment in \naccordance with special regulations.  \nArticle 24 \n(1) The Agency may use professional services of institutions engaging in science and of \ncertain experts in the field of medicinal products for some of the tasks involved in the \nmarketing authorisation procedure. \n(2) The persons referred to in paragraph 1 of this Article shall keep confidential all data that \ncome to their knowledge while performing the entrusted tasks. \n(3) , Employees of the Agency and experts referred to in paragraph 1 of this Article, \nresponsible for reviewing the medicinal product dossiers within the marketing authorisation \nprocedur",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "2013 Act, government English translation; authoritative Croatian wording and later amendments require alignment."
+      },
+      {
+        "clause_id": "HRV-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "HRV-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "HRV",
+      "country": "Croatia",
+      "selected_document_id": "F250_527419a07270d84c8c5f_da42a7cedfa7",
+      "source_id": "F250_527419a07270d84c8c5f",
+      "pathway": "EU/EEA mutual recognition and decentralised assessment",
+      "source_url": "https://mvep.gov.hr/UserDocsImages/files/file/dokumenti/prevodenje/zakoni/zakon-o-lijekovima-nn-76-13-eng.pdf",
+      "document_title": "Croatian Medicinal Products Act 2013, government-provided English translation",
+      "source_type": "Government-provided law translation",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "da42a7cedfa7ccb4ece4339f28018b6ad5a26e5ada20316b691cb86cc7695e31",
+      "raw_hash_validated": true,
+      "text_sha256": "4e1122570d7548e1924574c0c1b3527bac5241c02789c4cff01171239d8f8607",
+      "version_dates": {},
+      "version_scope_note": "Official national authorisation procedures, preserved version; centralised and MRP mechanisms separated.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          53731,
+          57139
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Source distinguishes EC/centralised authorisation from national EU/EEA mutual recognition; FDA alone is not an MRP RMS.",
+          "evidence_ids": [
+            "HRV-R01",
+            "HRV-CONTEXT-1",
+            "HRV-SHARED-EC",
+            "HRV-SHARED-EC"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Existing EC MA rather than public-versus-full report availability supplies the shared authorisation effect.",
+          "evidence_ids": [
+            "HRV-R01",
+            "HRV-CONTEXT-1",
+            "HRV-SHARED-EC",
+            "HRV-SHARED-EC"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Shared EC centralised authorisation is distinct from a repeat national scientific assessment; MRP/DCP procedures have their own assessments/objections.",
+          "evidence_ids": [
+            "HRV-R01",
+            "HRV-CONTEXT-1",
+            "HRV-SHARED-EC",
+            "HRV-SHARED-EC"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HRV-R01",
+            "HRV-CONTEXT-1",
+            "HRV-SHARED-EC",
+            "HRV-SHARED-EC"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HRV-R01",
+            "HRV-CONTEXT-1",
+            "HRV-SHARED-EC",
+            "HRV-SHARED-EC"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HRV-R01",
+            "HRV-CONTEXT-1",
+            "HRV-SHARED-EC",
+            "HRV-SHARED-EC"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HRV-R01",
+            "HRV-CONTEXT-1",
+            "HRV-SHARED-EC",
+            "HRV-SHARED-EC"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected shared authorisation pathway",
+          "finding": "FDA alone does not supply EC centralised marketing authorisation or a national EEA MRP RMS approval; ordinary national route remains separate.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HRV-R01",
+            "HRV-CONTEXT-1",
+            "HRV-SHARED-EC",
+            "HRV-SHARED-EC"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "HRV-SHARED-EC"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "HRV-R01",
+          "iso3": "HRV",
+          "event_id": null,
+          "document_id": "F250_527419a07270d84c8c5f_da42a7cedfa7",
+          "source_id": "F250_527419a07270d84c8c5f",
+          "source_url": "https://mvep.gov.hr/UserDocsImages/files/file/dokumenti/prevodenje/zakoni/zakon-o-lijekovima-nn-76-13-eng.pdf",
+          "raw_sha256": "da42a7cedfa7ccb4ece4339f28018b6ad5a26e5ada20316b691cb86cc7695e31",
+          "text_sha256": "4e1122570d7548e1924574c0c1b3527bac5241c02789c4cff01171239d8f8607",
+          "start_offset": 54481,
+          "end_offset": 56139,
+          "pdf_page": 20,
+          "verbatim_extracted_text": "Article 22 \n(1) The Agency or the European Commission shall grant marketing authorisations for \nmedicinal products in the Republic of Croatia. \n(2) For the purpose of placing a medicinal product on the market, its quality, safety and \nefficacy shall be determined.  \n(3) The Agency shall grant marketing authorisations for medicinal products through the \nnational procedure, the mutual recognition procedure and the decentralised procedure by \nmeans of the decision which shall mark the completion of the authorisation procedure carried \nout in accordance with this Act and ordinances issued persuant to this Act.  \n(4) The Republic of Croatia can be either the reference state or the concerned state in the \nmutual recognition procedure and decentralised procedure. \n(5) The European Commission shall grant marketing authorisations based on the centralised \nprocedure in accordance with the provisions of the Regulation (EC) No 726/2004. \n(6) The marketing authorisation shall also be granted for radionuclide generators, \nradionuclide kits, radiopharmaceuticals, radionuclide precursors and industrially produced \nradiopharmaceuticals.  \n(7) When a medicinal product has been granted an initial authorisation for marketing in the \nEuropean Union, any additional strengths, pharmaceutical forms, administration routes, types \nand sizes of packaging, as well as any variations and extensions shall also be granted an \nauthorisation or shall be included in the initial marketing authorisation.  \n(8) All authorisations referred to in paragraph 7 of this Article shall be considered as \nbelonging to the same global marketing authorisation.  \n\n\nPAGE 21\n \n \n21\n",
+          "display_text": "Article 22 (1) The Agency or the European Commission shall grant marketing authorisations for medicinal products in the Republic of Croatia. (2) For the purpose of placing a medicinal product on the market, its quality, safety and efficacy shall be determined. (3) The Agency shall grant marketing authorisations for medicinal products through the national procedure, the mutual recognition procedure and the decentralised procedure by means of the decision which shall mark the completion of the authorisation procedure carried out in accordance with this Act and ordinances issued persuant to this Act. (4) The Republic of Croatia can be either the reference state or the concerned state in the mutual recognition procedure and decentralised procedure. (5) The European Commission shall grant marketing authorisations based on the centralised procedure in accordance with the provisions of the Regulation (EC) No 726/2004. (6) The marketing authorisation shall also be granted for radionuclide generators, radionuclide kits, radiopharmaceuticals, radionuclide precursors and industrially produced radiopharmaceuticals. (7) When a medicinal product has been granted an initial authorisation for marketing in the European Union, any additional strengths, pharmaceutical forms, administration routes, types and sizes of packaging, as well as any variations and extensions shall also be granted an authorisation or shall be included in the initial marketing authorisation. (8) All authorisations referred to in paragraph 7 of this Article shall be considered as belonging to the same global marketing authorisation. PAGE 21 21",
+          "feature_tags": [
+            "scope_limit",
+            "joint_review"
+          ],
+          "role": "Article 22",
+          "language": "en",
+          "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "Article 22 authorises national, MRP and DCP decisions and distinguishes the European Commission centralised route. This is a national enactment within the shared European system, not a separate independent reliance reform.",
+          "version_alignment": "2013 Act, government English translation; authoritative Croatian wording and later amendments require alignment.",
+          "evidence_tier": "national_rule",
+          "section_article": "Article 22",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "HRV-CONTEXT-1",
+          "source_url": "https://mvep.gov.hr/UserDocsImages/files/file/dokumenti/prevodenje/zakoni/zakon-o-lijekovima-nn-76-13-eng.pdf",
+          "raw_sha256": "da42a7cedfa7ccb4ece4339f28018b6ad5a26e5ada20316b691cb86cc7695e31",
+          "text_sha256": "4e1122570d7548e1924574c0c1b3527bac5241c02789c4cff01171239d8f8607",
+          "start_offset": 53731,
+          "end_offset": 57139,
+          "verbatim_extracted_text": " the \ninvestigator. \n(3) The declaration/explanation referred to in paragraph 2 of this Article shall be provided \nwithin seven days from the date of receipt of the Ministry's request, except in case of an \nimmediate and significant risk. \nArticle 21 \nIn the process of development and manufacture of an investigational medicinal product, while \ndrafting the documentation relating to clinical trials, and in the course of clinical trials, the \nclinical trial sponsors and investigators shall comply with the provisions of this Act and \nobserve the ordinances issued pursuant to this Act as well as the principles and standards laid \ndown in relevant guidelines of the European Commission or the EMA.   \n3. PLACING MEDICINAL PRODUCTS ON THE MARKET  \nArticle 22 \n(1) The Agency or the European Commission shall grant marketing authorisations for \nmedicinal products in the Republic of Croatia. \n(2) For the purpose of placing a medicinal product on the market, its quality, safety and \nefficacy shall be determined.  \n(3) The Agency shall grant marketing authorisations for medicinal products through the \nnational procedure, the mutual recognition procedure and the decentralised procedure by \nmeans of the decision which shall mark the completion of the authorisation procedure carried \nout in accordance with this Act and ordinances issued persuant to this Act.  \n(4) The Republic of Croatia can be either the reference state or the concerned state in the \nmutual recognition procedure and decentralised procedure. \n(5) The European Commission shall grant marketing authorisations based on the centralised \nprocedure in accordance with the provisions of the Regulation (EC) No 726/2004. \n(6) The marketing authorisation shall also be granted for radionuclide generators, \nradionuclide kits, radiopharmaceuticals, radionuclide precursors and industrially produced \nradiopharmaceuticals.  \n(7) When a medicinal product has been granted an initial authorisation for marketing in the \nEuropean Union, any additional strengths, pharmaceutical forms, administration routes, types \nand sizes of packaging, as well as any variations and extensions shall also be granted an \nauthorisation or shall be included in the initial marketing authorisation.  \n(8) All authorisations referred to in paragraph 7 of this Article shall be considered as \nbelonging to the same global marketing authorisation.  \n\n\nPAGE 21\n \n \n21\nArticle 23 \nA marketing authorisation shall not be required for a radiopharmaceutical prepared at the time \nof use from authorised radionuclide generators, kits or radionuclide precursors by a person or \nby an establishment authorised to use such medicinal products in accordance with the \nmanufacturer's instructions, and used exclusively in an approved health care establishment in \naccordance with special regulations.  \nArticle 24 \n(1) The Agency may use professional services of institutions engaging in science and of \ncertain experts in the field of medicinal products for some of the tasks involved in the \nmarketing authorisation procedure. \n(2) The persons referred to in paragraph 1 of this Article shall keep confidential all data that \ncome to their knowledge while performing the entrusted tasks. \n(3) , Employees of the Agency and experts referred to in paragraph 1 of this Article, \nresponsible for reviewing the medicinal product dossiers within the marketing authorisation \nprocedur",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "2013 Act, government English translation; authoritative Croatian wording and later amendments require alignment."
+        },
+        {
+          "clause_id": "HRV-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "HRV-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

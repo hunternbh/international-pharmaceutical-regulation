@@ -207,5 +207,647 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "MOZ",
+    "country": "Mozambique",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Recognition and collaborative registration are distinct from the old-molecule abridged route",
+    "source_url": "https://anarme.gov.mz/download/decreto-n-o-93-2018-de-31-de-dezembro-regulamento-de-autorizacao-de-introducao-no-mercado-de-medicamentos-vacinas-e-outros-produtos-biologicos/?wpdmdl=1126&refresh=6ad3da61e82311792268897",
+    "document_id": "62a4a24ddba0d28b1b21",
+    "genre": "Regulations",
+    "language": "pt",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "Mozambique Decree 93/2018 Article 20. The well-established-use 10 year abbreviated route differs from foreign recognition; the fixed new medicine is evaluated under the latter. The original scan is authoritative over OCR.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "The fixed 18 month product cannot establish 10 years of well-established use. The separate foreign-recognition clause does not apply that 10 year condition.",
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Foreign-recognition clause references EU, USA, Brazil, UK, SADC and recognised/bilateral countries.",
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Valid prior MA in a recognised country is required for foreign recognition.",
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Article 20 incorporates AnnexII partB for recognition documents. Report-completeness requirements are unresolved from the reviewed permission clause.",
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "No public-only sufficiency inference from Article 20 recognition permission.",
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "No mandatory foreign report-sharing consent is established by the reviewed permission clause.",
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Foreign recognition is subject to national requirements. A separate collaborative route requires an identical dossier, national module 1 and fees.",
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MOZ-Q01",
+          "MOZ-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "MOZ-Q01",
+        "iso3": "MOZ",
+        "event_id": null,
+        "document_id": "62a4a24ddba0d28b1b21",
+        "source_id": "97673a02341201bb",
+        "source_url": "https://anarme.gov.mz/download/decreto-n-o-93-2018-de-31-de-dezembro-regulamento-de-autorizacao-de-introducao-no-mercado-de-medicamentos-vacinas-e-outros-produtos-biologicos/?wpdmdl=1126&refresh=6ad3da61e82311792268897",
+        "raw_sha256": "cf8038c21ab21fb65d1e94edc105177ae91cb9c2f0b09f77dd93e806d3723563",
+        "text_sha256": "bbb6125791e4039e9df1f2a2ea2a74f4a2bc5b15e970c9a873c8981ec3513a7f",
+        "start_offset": 12100,
+        "end_offset": 13511,
+        "pdf_page": 3,
+        "section_article": "20(1)(c)–(5)",
+        "verbatim_extracted_text": "Processa por Reconhecimento de um regista já existeme\nem outro País que corresponde ao pedido de AIM\nde um produto jt registado em outro País, no qual\nMogumbique tem como referência ou que tenham\nacordos bilaterais específicos nesta área: os mesmos\ndevem apresentar uma AIM válida;\n\nd) Processo Colaborativo que corresponde av pedido de\nAIM de um produto cuja qualidade, segurança e\neficácia foi ou será avaliada por uma entidade regional\nou internacional na qual Moçambique é membro. *\n\n2. Para 0 disposto na alínea d) do número anterior, o requerente\ndeve manifestar o.interesse na ANARME e na entidade regional\nou internacional.\n\n3. A documentação a ser submetida à ANARME, no âmbito do\nprocesso colaborativo, deve ser idêntica ao submetido na entidade\nregional ou internacional, mediante o pagamento da devida taxa.\n\n4. Sem prejuízo do número anterior, o Módulo 1 previsto na\nalínea a) do artigo 17 deve estar de acordo com as recomendações\nda ANARME.\n\n5, Os países de referência para o procedimento previsto\nna alínea c) do n.º | do presente artigo são: países da União\nEuropeia, Os Estados Unidos da América, Brasil, Reino Unido\ne Países membros da Comunidade para o Desenvolvimento da\nÁfrica Austral (SADC), assim como outros Países com os quais\na República de Moçambique venha a estabelecer acordos nesse\nsentido.\n\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\n3762 --- (20)\n\n1 SERIE — NUMERO 255",
+        "display_text": "Processa por Reconhecimento de um regista já existeme em outro País que corresponde ao pedido de AIM de um produto jt registado em outro País, no qual Mogumbique tem como referência ou que tenham acordos bilaterais específicos nesta área: os mesmos devem apresentar uma AIM válida; d) Processo Colaborativo que corresponde av pedido de AIM de um produto cuja qualidade, segurança e eficácia foi ou será avaliada por uma entidade regional ou internacional na qual Moçambique é membro. * 2. Para 0 disposto na alínea d) do número anterior, o requerente deve manifestar o.interesse na ANARME e na entidade regional ou internacional. 3. A documentação a ser submetida à ANARME, no âmbito do processo colaborativo, deve ser idêntica ao submetido na entidade regional ou internacional, mediante o pagamento da devida taxa. 4. Sem prejuízo do número anterior, o Módulo 1 previsto na alínea a) do artigo 17 deve estar de acordo com as recomendações da ANARME. 5, Os países de referência para o procedimento previsto na alínea c) do n.º | do presente artigo são: países da União Europeia, Os Estados Unidos da América, Brasil, Reino Unido e Países membros da Comunidade para o Desenvolvimento da África Austral (SADC), assim como outros Países com os quais a República de Moçambique venha a estabelecer acordos nesse sentido. PAGE 4 [MACHINE OCR; original image authoritative] 3762 --- (20) 1 SERIE — NUMERO 255",
+        "feature_tags": [
+          "sameness",
+          "joint_review",
+          "scope_limit"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "pt",
+        "language_status": "Official original-language source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": true,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "Recognition concerns a valid authorisation from a reference country or bilateral partner; collaborative review uses identical dossiers with local Module 1. The separate abridged route concerns well-known molecules, not every new medicine.",
+        "version_alignment": "Decree 93/2018 of 31 December, Article 20; preserved gazette scan",
+        "evidence_tier": "national_rule",
+        "product_scope": "Human-medicine initial marketing authorisation",
+        "image_checked_pages": [
+          3
+        ],
+        "image_review_note": "Article 20(c)–(5) visually checked on original physical page 3; OCR errors retained in the exact extracted field.",
+        "translation_review": {
+          "id": "MOZ-Q01",
+          "source_language": "pt",
+          "source_text": "Processa por Reconhecimento de um regista já existeme\nem outro País que corresponde ao pedido de AIM\nde um produto jt registado em outro País, no qual\nMogumbique tem como referência ou que tenham\nacordos bilaterais específicos nesta área: os mesmos\ndevem apresentar uma AIM válida;\n\nd) Processo Colaborativo que corresponde av pedido de\nAIM de um produto cuja qualidade, segurança e\neficácia foi ou será avaliada por uma entidade regional\nou internacional na qual Moçambique é membro. *\n\n2. Para 0 disposto na alínea d) do número anterior, o requerente\ndeve manifestar o.interesse na ANARME e na entidade regional\nou internacional.\n\n3. A documentação a ser submetida à ANARME, no âmbito do\nprocesso colaborativo, deve ser idêntica ao submetido na entidade\nregional ou internacional, mediante o pagamento da devida taxa.\n\n4. Sem prejuízo do número anterior, o Módulo 1 previsto na\nalínea a) do artigo 17 deve estar de acordo com as recomendações\nda ANARME.\n\n5, Os países de referência para o procedimento previsto\nna alínea c) do n.º | do presente artigo são: países da União\nEuropeia, Os Estados Unidos da América, Brasil, Reino Unido\ne Países membros da Comunidade para o Desenvolvimento da\nÁfrica Austral (SADC), assim como outros Países com os quais\na República de Moçambique venha a estabelecer acordos nesse\nsentido.\n\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\n3762 --- (20)\n\n1 SERIE — NUMERO 255",
+          "document_id": "62a4a24ddba0d28b1b21",
+          "target_language": "en",
+          "translation_status": "Rejected/quarantined machine output",
+          "model_provenance": {
+            "language": "pt",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-pt_en-1_9.argosmodel",
+            "model_sha256": "ae76df6f650895c16f2b582065014fab496755ca846ecb19fae81d51f332a38e",
+            "model_bytes": 69447231,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "pt",
+              "from_name": "Portuguese",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "cdca66d11366d31f9f8162a50da12643ca6a2d0f7251c74646ebdaca525318a9",
+          "translated_utc": "2026-10-18T00:48:22.399093+00:00",
+          "source_characters": 1411,
+          "segments": 8,
+          "raw_machine_translation": "Process for Recognition of a registrar already exists in another country that corresponds to the request of AIM of a product jt registered in another country, in which Mozambique has as its reference or have specific bilateral agreements in this area: they must submit a valid IMA; d) Collaborative process corresponding to the request of AIM of a product whose quality, safety and effectiveness has been or will be evaluated by a regional or international entity in which Mozambique is a member. * 2. For the first subparagraph of point (d), the applicant shall express the interest in ANARME and the regional or international entity. 3. The documentation to be submitted to ANARME in the context of the collaborative process shall be identical to that submitted to the regional or international entity by paying the due fee. 4.  Without prejudice to the previous paragraph, Module 1 provided for in Article 17(a) shall comply with the recommendations of ANARME. 5, The reference countries for the procedure referred to in paragraph (c) of this Article shall be: countries of the European Union, the United States of America, Brazil, the United Kingdom and the Member States of the Southern African Development Community (SADC), as well as other countries with which the Republic of Mozambique will enter into agreements to this end.  PAGE 4 [MACHINE OCR; original image authoritative] 3762 --- (20) 1 SIE - NUMERA 255",
+          "checked_translation": null,
+          "check_note": "Scan/OCR errors and administrative acronyms require a clean page-checked transcript before translation approval; exact extract and page review retained.",
+          "approved_for_display": false,
+          "approved_for_text_sensitivity": false,
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MOZ-CONTEXT-1",
+        "source_url": "https://anarme.gov.mz/download/decreto-n-o-93-2018-de-31-de-dezembro-regulamento-de-autorizacao-de-introducao-no-mercado-de-medicamentos-vacinas-e-outros-produtos-biologicos/?wpdmdl=1126&refresh=6ad3da61e82311792268897",
+        "raw_sha256": "cf8038c21ab21fb65d1e94edc105177ae91cb9c2f0b09f77dd93e806d3723563",
+        "text_sha256": "bbb6125791e4039e9df1f2a2ea2a74f4a2bc5b15e970c9a873c8981ec3513a7f",
+        "start_offset": 11350,
+        "end_offset": 14511,
+        "verbatim_extracted_text": "esso Completo que corresponde ao pedido de AIM\nde moléculas novas. novas combinações de doses\nfixas. moléculas estabelecidas com novas indies ções,\nmoléculas em fase de ensáios clínicos, vacinas ¢ outros\nmedicumemos biológicas. que necessitam de estudos\npré-elínicos e clínicos como suporte de segurança é\neficácia: .\n\nby Processo Abreviado que corresponde an pedido de AIM\nde moléculas já conhecidas (mais de 10 (dez) anos no\nmercado Mundial). bem estabelecidas, com eficácia\nreconhecida e com nível de segurança aceitável e. que\nsejam essencialmente similares dos medicamentos\nde referência. contendo os mesmos princípios\nactivos, sob a'mesma forma farmacéutica, as mesmas\ncaracterísticas farmavovinéticas e farmacodinâmicas\ne a mesma dosagem;\n\n€) Processa por Reconhecimento de um regista já existeme\nem outro País que corresponde ao pedido de AIM\nde um produto jt registado em outro País, no qual\nMogumbique tem como referência ou que tenham\nacordos bilaterais específicos nesta área: os mesmos\ndevem apresentar uma AIM válida;\n\nd) Processo Colaborativo que corresponde av pedido de\nAIM de um produto cuja qualidade, segurança e\neficácia foi ou será avaliada por uma entidade regional\nou internacional na qual Moçambique é membro. *\n\n2. Para 0 disposto na alínea d) do número anterior, o requerente\ndeve manifestar o.interesse na ANARME e na entidade regional\nou internacional.\n\n3. A documentação a ser submetida à ANARME, no âmbito do\nprocesso colaborativo, deve ser idêntica ao submetido na entidade\nregional ou internacional, mediante o pagamento da devida taxa.\n\n4. Sem prejuízo do número anterior, o Módulo 1 previsto na\nalínea a) do artigo 17 deve estar de acordo com as recomendações\nda ANARME.\n\n5, Os países de referência para o procedimento previsto\nna alínea c) do n.º | do presente artigo são: países da União\nEuropeia, Os Estados Unidos da América, Brasil, Reino Unido\ne Países membros da Comunidade para o Desenvolvimento da\nÁfrica Austral (SADC), assim como outros Países com os quais\na República de Moçambique venha a estabelecer acordos nesse\nsentido.\n\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\n3762 --- (20)\n\n1 SERIE — NUMERO 255\n\nARTIGO 21\ntPré-qualificação)\n\n1. Os produtos das áreas terapêuticas abrangidas pelo\nprograma de pré-qualificação da Organização Mundial da Saúde\nestão sujeitos a apresentação do respectivo comprovativo de\nsubmissão no programa de pré-gualificação da Organização\nMundiat da Saúde, nos Países da região da Comunidade\npara o Desenvolvimento da África Austral e nas Autoridades\nReguladoras dos Países recomendados pela Organização Mundial\nda Saúde.\n\n2. Todos os produtos pré-qualificados pela Organização\nMundial da Saúde estão sujeitos ao registo colaborativo,\n€ o requerente deve proceder conforme o disposto no n.º 4 da\nparte B do Anexo IE.\n\nARTIGO 22\n(Comunicação da decisão de AIM)\n\n1, Após a decisão favorável sobre o pedido de AIM, é emitido\nO certificado acompanhado do Resumo das Características\ndo Medicamento (RCM), o Projecto de Embalagem e o Folheto\nInformativo.\n\n2. A decisão é notificada ao requerente e divulgada na página\nelectrónica da ANARME.\n\nARTIGO 23\n(indeferimento de AIM)\n\nO req",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "pt",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Decree 93/2018 of 31 December, Article 20; preserved gazette scan"
+      }
+    ],
+    "review_details": {
+      "iso3": "MOZ",
+      "country": "Mozambique",
+      "selected_document_id": "62a4a24ddba0d28b1b21",
+      "source_id": "97673a02341201bb",
+      "pathway": "Recognition and collaborative registration are distinct from the old-molecule abridged route",
+      "source_url": "https://anarme.gov.mz/download/decreto-n-o-93-2018-de-31-de-dezembro-regulamento-de-autorizacao-de-introducao-no-mercado-de-medicamentos-vacinas-e-outros-produtos-biologicos/?wpdmdl=1126&refresh=6ad3da61e82311792268897",
+      "document_title": "MOZ | Official document Download",
+      "source_type": "Regulations",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "pt",
+      "translation_provenance": "Original-language contextual interpretation; no unchecked machine translation treated as authoritative",
+      "raw_sha256": "cf8038c21ab21fb65d1e94edc105177ae91cb9c2f0b09f77dd93e806d3723563",
+      "raw_hash_validated": true,
+      "text_sha256": "bbb6125791e4039e9df1f2a2ea2a74f4a2bc5b15e970c9a873c8981ec3513a7f",
+      "version_dates": {},
+      "version_scope_note": "Mozambique Decree 93/2018 Article 20. The well-established-use 10 year abbreviated route differs from foreign recognition; the fixed new medicine is evaluated under the latter. The original scan is authoritative over OCR.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          11350,
+          14511
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "The fixed 18 month product cannot establish 10 years of well-established use. The separate foreign-recognition clause does not apply that 10 year condition.",
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Foreign-recognition clause references EU, USA, Brazil, UK, SADC and recognised/bilateral countries.",
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Valid prior MA in a recognised country is required for foreign recognition.",
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Article 20 incorporates AnnexII partB for recognition documents. Report-completeness requirements are unresolved from the reviewed permission clause.",
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "No public-only sufficiency inference from Article 20 recognition permission.",
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "No mandatory foreign report-sharing consent is established by the reviewed permission clause.",
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Foreign recognition is subject to national requirements. A separate collaborative route requires an identical dossier, national module 1 and fees.",
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MOZ-Q01",
+            "MOZ-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "MOZ-Q01",
+          "iso3": "MOZ",
+          "event_id": null,
+          "document_id": "62a4a24ddba0d28b1b21",
+          "source_id": "97673a02341201bb",
+          "source_url": "https://anarme.gov.mz/download/decreto-n-o-93-2018-de-31-de-dezembro-regulamento-de-autorizacao-de-introducao-no-mercado-de-medicamentos-vacinas-e-outros-produtos-biologicos/?wpdmdl=1126&refresh=6ad3da61e82311792268897",
+          "raw_sha256": "cf8038c21ab21fb65d1e94edc105177ae91cb9c2f0b09f77dd93e806d3723563",
+          "text_sha256": "bbb6125791e4039e9df1f2a2ea2a74f4a2bc5b15e970c9a873c8981ec3513a7f",
+          "start_offset": 12100,
+          "end_offset": 13511,
+          "pdf_page": 3,
+          "section_article": "20(1)(c)–(5)",
+          "verbatim_extracted_text": "Processa por Reconhecimento de um regista já existeme\nem outro País que corresponde ao pedido de AIM\nde um produto jt registado em outro País, no qual\nMogumbique tem como referência ou que tenham\nacordos bilaterais específicos nesta área: os mesmos\ndevem apresentar uma AIM válida;\n\nd) Processo Colaborativo que corresponde av pedido de\nAIM de um produto cuja qualidade, segurança e\neficácia foi ou será avaliada por uma entidade regional\nou internacional na qual Moçambique é membro. *\n\n2. Para 0 disposto na alínea d) do número anterior, o requerente\ndeve manifestar o.interesse na ANARME e na entidade regional\nou internacional.\n\n3. A documentação a ser submetida à ANARME, no âmbito do\nprocesso colaborativo, deve ser idêntica ao submetido na entidade\nregional ou internacional, mediante o pagamento da devida taxa.\n\n4. Sem prejuízo do número anterior, o Módulo 1 previsto na\nalínea a) do artigo 17 deve estar de acordo com as recomendações\nda ANARME.\n\n5, Os países de referência para o procedimento previsto\nna alínea c) do n.º | do presente artigo são: países da União\nEuropeia, Os Estados Unidos da América, Brasil, Reino Unido\ne Países membros da Comunidade para o Desenvolvimento da\nÁfrica Austral (SADC), assim como outros Países com os quais\na República de Moçambique venha a estabelecer acordos nesse\nsentido.\n\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\n3762 --- (20)\n\n1 SERIE — NUMERO 255",
+          "display_text": "Processa por Reconhecimento de um regista já existeme em outro País que corresponde ao pedido de AIM de um produto jt registado em outro País, no qual Mogumbique tem como referência ou que tenham acordos bilaterais específicos nesta área: os mesmos devem apresentar uma AIM válida; d) Processo Colaborativo que corresponde av pedido de AIM de um produto cuja qualidade, segurança e eficácia foi ou será avaliada por uma entidade regional ou internacional na qual Moçambique é membro. * 2. Para 0 disposto na alínea d) do número anterior, o requerente deve manifestar o.interesse na ANARME e na entidade regional ou internacional. 3. A documentação a ser submetida à ANARME, no âmbito do processo colaborativo, deve ser idêntica ao submetido na entidade regional ou internacional, mediante o pagamento da devida taxa. 4. Sem prejuízo do número anterior, o Módulo 1 previsto na alínea a) do artigo 17 deve estar de acordo com as recomendações da ANARME. 5, Os países de referência para o procedimento previsto na alínea c) do n.º | do presente artigo são: países da União Europeia, Os Estados Unidos da América, Brasil, Reino Unido e Países membros da Comunidade para o Desenvolvimento da África Austral (SADC), assim como outros Países com os quais a República de Moçambique venha a estabelecer acordos nesse sentido. PAGE 4 [MACHINE OCR; original image authoritative] 3762 --- (20) 1 SERIE — NUMERO 255",
+          "feature_tags": [
+            "sameness",
+            "joint_review",
+            "scope_limit"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "pt",
+          "language_status": "Official original-language source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": true,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "Recognition concerns a valid authorisation from a reference country or bilateral partner; collaborative review uses identical dossiers with local Module 1. The separate abridged route concerns well-known molecules, not every new medicine.",
+          "version_alignment": "Decree 93/2018 of 31 December, Article 20; preserved gazette scan",
+          "evidence_tier": "national_rule",
+          "product_scope": "Human-medicine initial marketing authorisation",
+          "image_checked_pages": [
+            3
+          ],
+          "image_review_note": "Article 20(c)–(5) visually checked on original physical page 3; OCR errors retained in the exact extracted field.",
+          "translation_review": {
+            "id": "MOZ-Q01",
+            "source_language": "pt",
+            "source_text": "Processa por Reconhecimento de um regista já existeme\nem outro País que corresponde ao pedido de AIM\nde um produto jt registado em outro País, no qual\nMogumbique tem como referência ou que tenham\nacordos bilaterais específicos nesta área: os mesmos\ndevem apresentar uma AIM válida;\n\nd) Processo Colaborativo que corresponde av pedido de\nAIM de um produto cuja qualidade, segurança e\neficácia foi ou será avaliada por uma entidade regional\nou internacional na qual Moçambique é membro. *\n\n2. Para 0 disposto na alínea d) do número anterior, o requerente\ndeve manifestar o.interesse na ANARME e na entidade regional\nou internacional.\n\n3. A documentação a ser submetida à ANARME, no âmbito do\nprocesso colaborativo, deve ser idêntica ao submetido na entidade\nregional ou internacional, mediante o pagamento da devida taxa.\n\n4. Sem prejuízo do número anterior, o Módulo 1 previsto na\nalínea a) do artigo 17 deve estar de acordo com as recomendações\nda ANARME.\n\n5, Os países de referência para o procedimento previsto\nna alínea c) do n.º | do presente artigo são: países da União\nEuropeia, Os Estados Unidos da América, Brasil, Reino Unido\ne Países membros da Comunidade para o Desenvolvimento da\nÁfrica Austral (SADC), assim como outros Países com os quais\na República de Moçambique venha a estabelecer acordos nesse\nsentido.\n\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\n3762 --- (20)\n\n1 SERIE — NUMERO 255",
+            "document_id": "62a4a24ddba0d28b1b21",
+            "target_language": "en",
+            "translation_status": "Rejected/quarantined machine output",
+            "model_provenance": {
+              "language": "pt",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-pt_en-1_9.argosmodel",
+              "model_sha256": "ae76df6f650895c16f2b582065014fab496755ca846ecb19fae81d51f332a38e",
+              "model_bytes": 69447231,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "pt",
+                "from_name": "Portuguese",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "cdca66d11366d31f9f8162a50da12643ca6a2d0f7251c74646ebdaca525318a9",
+            "translated_utc": "2026-10-18T00:48:22.399093+00:00",
+            "source_characters": 1411,
+            "segments": 8,
+            "raw_machine_translation": "Process for Recognition of a registrar already exists in another country that corresponds to the request of AIM of a product jt registered in another country, in which Mozambique has as its reference or have specific bilateral agreements in this area: they must submit a valid IMA; d) Collaborative process corresponding to the request of AIM of a product whose quality, safety and effectiveness has been or will be evaluated by a regional or international entity in which Mozambique is a member. * 2. For the first subparagraph of point (d), the applicant shall express the interest in ANARME and the regional or international entity. 3. The documentation to be submitted to ANARME in the context of the collaborative process shall be identical to that submitted to the regional or international entity by paying the due fee. 4.  Without prejudice to the previous paragraph, Module 1 provided for in Article 17(a) shall comply with the recommendations of ANARME. 5, The reference countries for the procedure referred to in paragraph (c) of this Article shall be: countries of the European Union, the United States of America, Brazil, the United Kingdom and the Member States of the Southern African Development Community (SADC), as well as other countries with which the Republic of Mozambique will enter into agreements to this end.  PAGE 4 [MACHINE OCR; original image authoritative] 3762 --- (20) 1 SIE - NUMERA 255",
+            "checked_translation": null,
+            "check_note": "Scan/OCR errors and administrative acronyms require a clean page-checked transcript before translation approval; exact extract and page review retained.",
+            "approved_for_display": false,
+            "approved_for_text_sensitivity": false,
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MOZ-CONTEXT-1",
+          "source_url": "https://anarme.gov.mz/download/decreto-n-o-93-2018-de-31-de-dezembro-regulamento-de-autorizacao-de-introducao-no-mercado-de-medicamentos-vacinas-e-outros-produtos-biologicos/?wpdmdl=1126&refresh=6ad3da61e82311792268897",
+          "raw_sha256": "cf8038c21ab21fb65d1e94edc105177ae91cb9c2f0b09f77dd93e806d3723563",
+          "text_sha256": "bbb6125791e4039e9df1f2a2ea2a74f4a2bc5b15e970c9a873c8981ec3513a7f",
+          "start_offset": 11350,
+          "end_offset": 14511,
+          "verbatim_extracted_text": "esso Completo que corresponde ao pedido de AIM\nde moléculas novas. novas combinações de doses\nfixas. moléculas estabelecidas com novas indies ções,\nmoléculas em fase de ensáios clínicos, vacinas ¢ outros\nmedicumemos biológicas. que necessitam de estudos\npré-elínicos e clínicos como suporte de segurança é\neficácia: .\n\nby Processo Abreviado que corresponde an pedido de AIM\nde moléculas já conhecidas (mais de 10 (dez) anos no\nmercado Mundial). bem estabelecidas, com eficácia\nreconhecida e com nível de segurança aceitável e. que\nsejam essencialmente similares dos medicamentos\nde referência. contendo os mesmos princípios\nactivos, sob a'mesma forma farmacéutica, as mesmas\ncaracterísticas farmavovinéticas e farmacodinâmicas\ne a mesma dosagem;\n\n€) Processa por Reconhecimento de um regista já existeme\nem outro País que corresponde ao pedido de AIM\nde um produto jt registado em outro País, no qual\nMogumbique tem como referência ou que tenham\nacordos bilaterais específicos nesta área: os mesmos\ndevem apresentar uma AIM válida;\n\nd) Processo Colaborativo que corresponde av pedido de\nAIM de um produto cuja qualidade, segurança e\neficácia foi ou será avaliada por uma entidade regional\nou internacional na qual Moçambique é membro. *\n\n2. Para 0 disposto na alínea d) do número anterior, o requerente\ndeve manifestar o.interesse na ANARME e na entidade regional\nou internacional.\n\n3. A documentação a ser submetida à ANARME, no âmbito do\nprocesso colaborativo, deve ser idêntica ao submetido na entidade\nregional ou internacional, mediante o pagamento da devida taxa.\n\n4. Sem prejuízo do número anterior, o Módulo 1 previsto na\nalínea a) do artigo 17 deve estar de acordo com as recomendações\nda ANARME.\n\n5, Os países de referência para o procedimento previsto\nna alínea c) do n.º | do presente artigo são: países da União\nEuropeia, Os Estados Unidos da América, Brasil, Reino Unido\ne Países membros da Comunidade para o Desenvolvimento da\nÁfrica Austral (SADC), assim como outros Países com os quais\na República de Moçambique venha a estabelecer acordos nesse\nsentido.\n\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\n3762 --- (20)\n\n1 SERIE — NUMERO 255\n\nARTIGO 21\ntPré-qualificação)\n\n1. Os produtos das áreas terapêuticas abrangidas pelo\nprograma de pré-qualificação da Organização Mundial da Saúde\nestão sujeitos a apresentação do respectivo comprovativo de\nsubmissão no programa de pré-gualificação da Organização\nMundiat da Saúde, nos Países da região da Comunidade\npara o Desenvolvimento da África Austral e nas Autoridades\nReguladoras dos Países recomendados pela Organização Mundial\nda Saúde.\n\n2. Todos os produtos pré-qualificados pela Organização\nMundial da Saúde estão sujeitos ao registo colaborativo,\n€ o requerente deve proceder conforme o disposto no n.º 4 da\nparte B do Anexo IE.\n\nARTIGO 22\n(Comunicação da decisão de AIM)\n\n1, Após a decisão favorável sobre o pedido de AIM, é emitido\nO certificado acompanhado do Resumo das Características\ndo Medicamento (RCM), o Projecto de Embalagem e o Folheto\nInformativo.\n\n2. A decisão é notificada ao requerente e divulgada na página\nelectrónica da ANARME.\n\nARTIGO 23\n(indeferimento de AIM)\n\nO req",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "pt",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Decree 93/2018 of 31 December, Article 20; preserved gazette scan"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

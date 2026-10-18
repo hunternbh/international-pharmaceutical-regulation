@@ -361,5 +361,917 @@
     "source_hashes": [
       "e236567e5c78ce9f873f1b7f5c338f57f646290cef3d0f288a9b71665a459257"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ARG",
+    "country": "Argentina",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Conditional automatic registration",
+    "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+    "document_id": "2e4615c9d52a3d567f20",
+    "genre": "Executive decree",
+    "language": "es",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Decree 150/1992 preserved version, Arts 3(c,d),4 and AnnexI. Automatic entry is conditioned on certificate, labelling, leaflet and bioavailability documents; do not silently import 2025 post-registration rules.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "AnnexI includes the United States and named European states; one qualifying country approval for public consumption can suffice.",
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "At least one AnnexI country authorisation.",
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "explicit requirement",
+        "finding": "Authorised for public consumption in the domestic market of the AnnexI country.",
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Automatic registration clause specifies official certificate and local documents; it does not expressly settle an underlying-report requirement or waiver.",
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Art 4 provides automatic registration subject to stated documents; bioavailability information remains. Do not equate automatic entry with absence of all technical requirements.",
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "Local proposed label and leaflet requirements in Art 3(c,d) remain.",
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ]
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ARG-Q01",
+          "ARG-Q02",
+          "ARG-CONTEXT-1",
+          "ARG-CONTEXT-2",
+          "ARG-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "ARG-Q01",
+        "iso3": "ARG",
+        "event_id": "ARG_001",
+        "document_id": "2e4615c9d52a3d567f20",
+        "source_id": "ae16299bcbdb9856",
+        "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+        "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+        "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+        "start_offset": 6835,
+        "end_offset": 7533,
+        "pdf_page": null,
+        "verbatim_extracted_text": "Los medicamentos autorizados para su consumo público en el mercado interno en al menos uno de los países que se indican en el Anexo I del presente serán automáticamente inscriptos en el registro de la autoridad sanitaria nacional, con el requisito de presentar certificación oficial vigente de dicha autorización y la documentación indicada en los incisos c) y d) del artículo precedente e información sobre biodisponibilidad. La presente disposición se aplicará tanto a las especialidades medicinales o farmacéuticas que ya se encontraran inscriptas como a los nuevos principios activos o nuevas especialidades medicinales o farmacéuticas que aún no se encontraren inscriptos en el registro local.",
+        "display_text": "Los medicamentos autorizados para su consumo público en el mercado interno en al menos uno de los países que se indican en el Anexo I del presente serán automáticamente inscriptos en el registro de la autoridad sanitaria nacional, con el requisito de presentar certificación oficial vigente de dicha autorización y la documentación indicada en los incisos c) y d) del artículo precedente e información sobre biodisponibilidad. La presente disposición se aplicará tanto a las especialidades medicinales o farmacéuticas que ya se encontraran inscriptas como a los nuevos principios activos o nuevas especialidades medicinales o farmacéuticas que aún no se encontraren inscriptos en el registro local.",
+        "feature_tags": [
+          "automatic",
+          "reports",
+          "local_evidence"
+        ],
+        "role": "Permission and conditions",
+        "language": "es",
+        "language_status": "Original Spanish legal text",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": {
+          "id": "ARG-Q01",
+          "source_language": "es",
+          "source_text": "Los medicamentos autorizados para su consumo público en el mercado interno en al menos uno de los países que se indican en el Anexo I del presente serán automáticamente inscriptos en el registro de la autoridad sanitaria nacional, con el requisito de presentar certificación oficial vigente de dicha autorización y la documentación indicada en los incisos c) y d) del artículo precedente e información sobre biodisponibilidad. La presente disposición se aplicará tanto a las especialidades medicinales o farmacéuticas que ya se encontraran inscriptas como a los nuevos principios activos o nuevas especialidades medicinales o farmacéuticas que aún no se encontraren inscriptos en el registro local.",
+          "document_id": "2e4615c9d52a3d567f20",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "es",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+            "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+            "model_bytes": 285208831,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "es",
+              "from_name": "Spanish",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "c5bc79719347daad2697ff75cbe6b33130e6dd541926ba68c5c3e952d45451ac",
+          "translated_utc": "2026-10-18T00:48:09.631481+00:00",
+          "source_characters": 698,
+          "segments": 2,
+          "raw_machine_translation": "Medicines authorized for public consumption on the domestic market in at least one of the countries listed in Annex I to this Regulation shall be automatically entered in the register of the national health authority with the requirement to submit an official certification of that authorisation and the documentation referred to in points (c) and (d) of the preceding Article and information about bioavailability. That provision shall apply both to medicinal or pharmaceutical specialities that have been registered and to new active substances or new medicinal or pharmaceutical specialities that have not been registered with the local registry.",
+          "checked_translation": "Medicines authorised for public consumption in the domestic market of at least one country listed in Annex I shall be automatically entered in the national health authority's register, subject to presentation of a valid official certificate of that authorisation, the documentation specified in points (c) and (d) of the preceding article, and information on bioavailability. This provision applies both to medicinal or pharmaceutical specialities already registered and to new active substances or new medicinal or pharmaceutical specialities not yet entered in the local register.",
+          "check_note": "Restored vigente: the official certificate must be valid/current. Checked automatic entry, at least one country, required documents and new-active-substance scope.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "ARG-Q02",
+        "iso3": "ARG",
+        "event_id": "ARG_001",
+        "document_id": "2e4615c9d52a3d567f20",
+        "source_id": "ae16299bcbdb9856",
+        "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+        "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+        "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+        "start_offset": 14961,
+        "end_offset": 15276,
+        "pdf_page": null,
+        "verbatim_extracted_text": "El presente decreto entrará en vigencia a los TREINTA (30) días corridos de su publicación en el Boletín Oficial. Durante este período las autoridades de aplicación deberán proceder a la reglamentación de sus aspectos más relevantes para el resguardo de salud de la población y el normal funcionamiento del mercado.",
+        "display_text": "El presente decreto entrará en vigencia a los TREINTA (30) días corridos de su publicación en el Boletín Oficial. Durante este período las autoridades de aplicación deberán proceder a la reglamentación de sus aspectos más relevantes para el resguardo de salud de la población y el normal funcionamiento del mercado.",
+        "feature_tags": [
+          "commencement_rule"
+        ],
+        "role": "Relative commencement rule; not an approval-processing deadline",
+        "language": "es",
+        "language_status": "Original Spanish legal text",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Relative commencement rule; not an approval-processing deadline",
+        "translation_review": {
+          "id": "ARG-Q02",
+          "source_language": "es",
+          "source_text": "El presente decreto entrará en vigencia a los TREINTA (30) días corridos de su publicación en el Boletín Oficial. Durante este período las autoridades de aplicación deberán proceder a la reglamentación de sus aspectos más relevantes para el resguardo de salud de la población y el normal funcionamiento del mercado.",
+          "document_id": "2e4615c9d52a3d567f20",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "es",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+            "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+            "model_bytes": 285208831,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "es",
+              "from_name": "Spanish",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "62bd59689b4146423f73edcfb18936a45048db905f64399f6861b581c8f37617",
+          "translated_utc": "2026-10-18T00:48:09.741416+00:00",
+          "source_characters": 315,
+          "segments": 2,
+          "raw_machine_translation": "The present Decree shall come into force for TREINTA (30) days after its publication in the Official Bulletin. During this period, the implementing authorities will have to regulate its most important aspects for public health care and market performance.",
+          "checked_translation": "This decree shall enter into force thirty (30) calendar days after its publication in the Official Gazette. During that period the implementing authorities shall issue regulations on its most relevant aspects to protect public health and the normal functioning of the market.",
+          "check_note": "Corrected 'for thirty days' to 'thirty calendar days after'; timing is an entry-into-force delay, not a duration of validity.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "ARG-CONTEXT-1",
+        "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+        "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+        "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+        "start_offset": 6085,
+        "end_offset": 8533,
+        "verbatim_extracted_text": "ínicas precisas y con advertencias, precauciones y contraindicaciones y, cuando corresponda, de antagonismos y antidotismos y de los efectos adversos que puedan llegar a desencadenar, posología habitual y dosis máximas y mínimas, forma de administración, presentaciones.\nA partir de la presentación de la solicitud, el MINISTERIO DE SALUD Y ACCION SOCIAL tendrá un plazo de CUARENTA (40) días para expedirse, con excepción del caso de las especialidades medicinales a que se hace referencia en el artículo 5º. Cumplido este plazo, la inscripción del medicamento tendrá carácter automático. El plazo de vigencia de la autorización, de acuerdo al artículo 7º de la Ley Nº 16.463, podrá ser prorrogado a su término a solicitud del interesado.\nArt. 4º —\nLos medicamentos autorizados para su consumo público en el mercado interno en al menos uno de los países que se indican en el Anexo I del presente serán automáticamente inscriptos en el registro de la autoridad sanitaria nacional, con el requisito de presentar certificación oficial vigente de dicha autorización y la documentación indicada en los incisos c) y d) del artículo precedente e información sobre biodisponibilidad. La presente disposición se aplicará tanto a las especialidades medicinales o farmacéuticas que ya se encontraran inscriptas como a los nuevos principios activos o nuevas especialidades medicinales o farmacéuticas que aún no se encontraren inscriptos en el registro local.\nArt. 5º —\nLos interesados en inscribir especialidades medicinales que constituyen una asociación a dosis fija o una novedad por contener una droga nueva en su composición o aplicación o por ofrecer una ventaja en su acción terapéutica o en su forma de administración, cuyo expendio y consumo no se encuentre autorizado en los países indicados en el Anexo I, deberán acompañar a su solicitud la información y la documentación que acredite la eficacia y la inocuidad del producto para el uso propuesto, según lo determine la reglamentación del presente.\nArt. 6º —\nEl MINISTERIO DE SALUD Y ACCION SOCIAL establecerá y publicará:\na) El listado de medicamentos genéricos autorizados, clasificados farmacológicamente, con indicación de sus formas farmacéuticas, contenido o composición dentro de los CUARENTA Y CINCO (45) días de la publicación del presente decreto.\nb) El listado de especialidades medicinales registradas agrupadas según el listado de genéricos autorizados, dentro de los SESENTA (60) dí",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "es",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "ARG-CONTEXT-2",
+        "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+        "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+        "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+        "start_offset": 14211,
+        "end_offset": 15601,
+        "verbatim_extracted_text": ".463.\nArt. 19. —\nDeróganse el decreto Nº 908/91 y los artículos 3º, 9º, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36 y 40 del decreto Nº 9763/64.\nArt. 20. —\nLa SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL será la autoridad de aplicación del presente decreto, salvo en materia de registro, importación, exportación y comercialización en las que la misma se ejercerá en forma conjunta con la SECRETARIA DE INDUSTRIA Y COMERCIO del MINISTERIO DE ECONOMIA, OBRAS Y SERVICIOS PUBLICOS.\nArt. 21. —\nEl cumplimiento de los requisitos exigidos por el presente decreto será condición suficiente para realizar las actividades mencionadas en el Artículo 1º de la Ley Nº 16.463.\nArt. 22. —\nEl presente decreto entrará en vigencia a los TREINTA (30) días corridos de su publicación en el Boletín Oficial. Durante este período las autoridades de aplicación deberán proceder a la reglamentación de sus aspectos más relevantes para el resguardo de salud de la población y el normal funcionamiento del mercado.\nArt. 23. —\nComuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — MENEM. — Julio C. Aráoz. — Domingo F. Cavallo.\nANEXO I\nESTADOS UNIDOS\nJAPON\nSUECIA\nCONFEDERACION HELVETICA\nISRAEL\nCANADA\nAUSTRIA\nALEMANIA\nFRANCIA\nREINO UNIDO\nPAISES BAJOS\nBELGICA\nDINAMARCA\nESPAÑA\nITALIA\nAcerca de esta norma",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "es",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "ARG-CTX-1",
+        "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+        "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+        "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+        "start_offset": 4500,
+        "end_offset": 6850,
+        "verbatim_extracted_text": "les o farmacéuticas no registradas ante la autoridad sanitaria, salvo las excepciones que de acuerdo a la reglamentación disponga la autoridad sanitaria.\nArt. 3º —\nLas solicitudes de inscripción al registro de especialidades medicinales o farmacéuticas autorizadas deberán incluir la siguiente información, con carácter de declaración jurada:\na) del producto: nombre propuesto para el mismo; fórmula (definida y verificable); forma o formas farmacéuticas en que se presentará; clasificación farmacológica, haciendo referencia al número de código, si existiere, de la clasificación internacional de medicamentos de la Organización Mundial de la Salud (OMS); condición de expendio.\nb) información técnica: Método de control; período de vida útil; método de elaboración en conformidad con las prácticas adecuadas de fabricación vigentes; datos sobre la biodisponibilidad del producto.\nc) proyecto de rótulos y etiquetas que deberán contener las siguientes inscripciones: Nombre del laboratorio, dirección del mismo, nombre del director técnico, nombre del producto y nombre genérico en igual tamaño y realce; fórmula por unidad de forma farmacéutica o porcentual, contenido por unidad de venta; fecha de vencimiento, forma de conservación y condición de venta, número de partida y serie de fabricación; y la leyenda MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD Y ACCION SOCIAL CERTIFICADO Nro.\nd) proyecto de prospectos que reproducirán: Las inscripciones no variables de los rótulos y etiquetas, la acción o acciones farmacológicas y terapéuticas que se atribuyen al producto con clínicas precisas y con advertencias, precauciones y contraindicaciones y, cuando corresponda, de antagonismos y antidotismos y de los efectos adversos que puedan llegar a desencadenar, posología habitual y dosis máximas y mínimas, forma de administración, presentaciones.\nA partir de la presentación de la solicitud, el MINISTERIO DE SALUD Y ACCION SOCIAL tendrá un plazo de CUARENTA (40) días para expedirse, con excepción del caso de las especialidades medicinales a que se hace referencia en el artículo 5º. Cumplido este plazo, la inscripción del medicamento tendrá carácter automático. El plazo de vigencia de la autorización, de acuerdo al artículo 7º de la Ley Nº 16.463, podrá ser prorrogado a su término a solicitud del interesado.\nArt. 4º —\nLos medicamento",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "es",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "ARG",
+      "country": "Argentina",
+      "selected_document_id": "2e4615c9d52a3d567f20",
+      "source_id": "ae16299bcbdb9856",
+      "pathway": "Conditional automatic registration",
+      "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+      "document_title": "Decree1501992 original enactment",
+      "source_type": "Executive decree",
+      "scope": "Human-medicine authorisation",
+      "language": "es",
+      "translation_provenance": "Checked English selected-clause translation plus contextual original-language interpretation",
+      "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+      "raw_hash_validated": true,
+      "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+      "version_dates": {},
+      "version_scope_note": "Decree 150/1992 preserved version, Arts 3(c,d),4 and AnnexI. Automatic entry is conditioned on certificate, labelling, leaflet and bioavailability documents; do not silently import 2025 post-registration rules.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          6085,
+          8533
+        ],
+        [
+          14211,
+          15601
+        ],
+        [
+          4500,
+          6850
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "AnnexI includes the United States and named European states; one qualifying country approval for public consumption can suffice.",
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "At least one AnnexI country authorisation.",
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Authorised for public consumption in the domestic market of the AnnexI country.",
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Automatic registration clause specifies official certificate and local documents; it does not expressly settle an underlying-report requirement or waiver.",
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Art 4 provides automatic registration subject to stated documents; bioavailability information remains. Do not equate automatic entry with absence of all technical requirements.",
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Local proposed label and leaflet requirements in Art 3(c,d) remain.",
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ARG-Q01",
+            "ARG-Q02",
+            "ARG-CONTEXT-1",
+            "ARG-CONTEXT-2",
+            "ARG-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "ARG-Q01",
+          "iso3": "ARG",
+          "event_id": "ARG_001",
+          "document_id": "2e4615c9d52a3d567f20",
+          "source_id": "ae16299bcbdb9856",
+          "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+          "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+          "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+          "start_offset": 6835,
+          "end_offset": 7533,
+          "pdf_page": null,
+          "verbatim_extracted_text": "Los medicamentos autorizados para su consumo público en el mercado interno en al menos uno de los países que se indican en el Anexo I del presente serán automáticamente inscriptos en el registro de la autoridad sanitaria nacional, con el requisito de presentar certificación oficial vigente de dicha autorización y la documentación indicada en los incisos c) y d) del artículo precedente e información sobre biodisponibilidad. La presente disposición se aplicará tanto a las especialidades medicinales o farmacéuticas que ya se encontraran inscriptas como a los nuevos principios activos o nuevas especialidades medicinales o farmacéuticas que aún no se encontraren inscriptos en el registro local.",
+          "display_text": "Los medicamentos autorizados para su consumo público en el mercado interno en al menos uno de los países que se indican en el Anexo I del presente serán automáticamente inscriptos en el registro de la autoridad sanitaria nacional, con el requisito de presentar certificación oficial vigente de dicha autorización y la documentación indicada en los incisos c) y d) del artículo precedente e información sobre biodisponibilidad. La presente disposición se aplicará tanto a las especialidades medicinales o farmacéuticas que ya se encontraran inscriptas como a los nuevos principios activos o nuevas especialidades medicinales o farmacéuticas que aún no se encontraren inscriptos en el registro local.",
+          "feature_tags": [
+            "automatic",
+            "reports",
+            "local_evidence"
+          ],
+          "role": "Permission and conditions",
+          "language": "es",
+          "language_status": "Original Spanish legal text",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": {
+            "id": "ARG-Q01",
+            "source_language": "es",
+            "source_text": "Los medicamentos autorizados para su consumo público en el mercado interno en al menos uno de los países que se indican en el Anexo I del presente serán automáticamente inscriptos en el registro de la autoridad sanitaria nacional, con el requisito de presentar certificación oficial vigente de dicha autorización y la documentación indicada en los incisos c) y d) del artículo precedente e información sobre biodisponibilidad. La presente disposición se aplicará tanto a las especialidades medicinales o farmacéuticas que ya se encontraran inscriptas como a los nuevos principios activos o nuevas especialidades medicinales o farmacéuticas que aún no se encontraren inscriptos en el registro local.",
+            "document_id": "2e4615c9d52a3d567f20",
+            "target_language": "en",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "model_provenance": {
+              "language": "es",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+              "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+              "model_bytes": 285208831,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "es",
+                "from_name": "Spanish",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "c5bc79719347daad2697ff75cbe6b33130e6dd541926ba68c5c3e952d45451ac",
+            "translated_utc": "2026-10-18T00:48:09.631481+00:00",
+            "source_characters": 698,
+            "segments": 2,
+            "raw_machine_translation": "Medicines authorized for public consumption on the domestic market in at least one of the countries listed in Annex I to this Regulation shall be automatically entered in the register of the national health authority with the requirement to submit an official certification of that authorisation and the documentation referred to in points (c) and (d) of the preceding Article and information about bioavailability. That provision shall apply both to medicinal or pharmaceutical specialities that have been registered and to new active substances or new medicinal or pharmaceutical specialities that have not been registered with the local registry.",
+            "checked_translation": "Medicines authorised for public consumption in the domestic market of at least one country listed in Annex I shall be automatically entered in the national health authority's register, subject to presentation of a valid official certificate of that authorisation, the documentation specified in points (c) and (d) of the preceding article, and information on bioavailability. This provision applies both to medicinal or pharmaceutical specialities already registered and to new active substances or new medicinal or pharmaceutical specialities not yet entered in the local register.",
+            "check_note": "Restored vigente: the official certificate must be valid/current. Checked automatic entry, at least one country, required documents and new-active-substance scope.",
+            "approved_for_display": true,
+            "approved_for_text_sensitivity": true,
+            "check_scope": [
+              "permission/modals",
+              "negation and conjunctions",
+              "numerical conditions and units",
+              "actors, scope and retained conditions"
+            ],
+            "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "ARG-Q02",
+          "iso3": "ARG",
+          "event_id": "ARG_001",
+          "document_id": "2e4615c9d52a3d567f20",
+          "source_id": "ae16299bcbdb9856",
+          "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+          "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+          "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+          "start_offset": 14961,
+          "end_offset": 15276,
+          "pdf_page": null,
+          "verbatim_extracted_text": "El presente decreto entrará en vigencia a los TREINTA (30) días corridos de su publicación en el Boletín Oficial. Durante este período las autoridades de aplicación deberán proceder a la reglamentación de sus aspectos más relevantes para el resguardo de salud de la población y el normal funcionamiento del mercado.",
+          "display_text": "El presente decreto entrará en vigencia a los TREINTA (30) días corridos de su publicación en el Boletín Oficial. Durante este período las autoridades de aplicación deberán proceder a la reglamentación de sus aspectos más relevantes para el resguardo de salud de la población y el normal funcionamiento del mercado.",
+          "feature_tags": [
+            "commencement_rule"
+          ],
+          "role": "Relative commencement rule; not an approval-processing deadline",
+          "language": "es",
+          "language_status": "Original Spanish legal text",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Relative commencement rule; not an approval-processing deadline",
+          "translation_review": {
+            "id": "ARG-Q02",
+            "source_language": "es",
+            "source_text": "El presente decreto entrará en vigencia a los TREINTA (30) días corridos de su publicación en el Boletín Oficial. Durante este período las autoridades de aplicación deberán proceder a la reglamentación de sus aspectos más relevantes para el resguardo de salud de la población y el normal funcionamiento del mercado.",
+            "document_id": "2e4615c9d52a3d567f20",
+            "target_language": "en",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "model_provenance": {
+              "language": "es",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+              "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+              "model_bytes": 285208831,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "es",
+                "from_name": "Spanish",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "62bd59689b4146423f73edcfb18936a45048db905f64399f6861b581c8f37617",
+            "translated_utc": "2026-10-18T00:48:09.741416+00:00",
+            "source_characters": 315,
+            "segments": 2,
+            "raw_machine_translation": "The present Decree shall come into force for TREINTA (30) days after its publication in the Official Bulletin. During this period, the implementing authorities will have to regulate its most important aspects for public health care and market performance.",
+            "checked_translation": "This decree shall enter into force thirty (30) calendar days after its publication in the Official Gazette. During that period the implementing authorities shall issue regulations on its most relevant aspects to protect public health and the normal functioning of the market.",
+            "check_note": "Corrected 'for thirty days' to 'thirty calendar days after'; timing is an entry-into-force delay, not a duration of validity.",
+            "approved_for_display": true,
+            "approved_for_text_sensitivity": true,
+            "check_scope": [
+              "permission/modals",
+              "negation and conjunctions",
+              "numerical conditions and units",
+              "actors, scope and retained conditions"
+            ],
+            "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "ARG-CONTEXT-1",
+          "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+          "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+          "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+          "start_offset": 6085,
+          "end_offset": 8533,
+          "verbatim_extracted_text": "ínicas precisas y con advertencias, precauciones y contraindicaciones y, cuando corresponda, de antagonismos y antidotismos y de los efectos adversos que puedan llegar a desencadenar, posología habitual y dosis máximas y mínimas, forma de administración, presentaciones.\nA partir de la presentación de la solicitud, el MINISTERIO DE SALUD Y ACCION SOCIAL tendrá un plazo de CUARENTA (40) días para expedirse, con excepción del caso de las especialidades medicinales a que se hace referencia en el artículo 5º. Cumplido este plazo, la inscripción del medicamento tendrá carácter automático. El plazo de vigencia de la autorización, de acuerdo al artículo 7º de la Ley Nº 16.463, podrá ser prorrogado a su término a solicitud del interesado.\nArt. 4º —\nLos medicamentos autorizados para su consumo público en el mercado interno en al menos uno de los países que se indican en el Anexo I del presente serán automáticamente inscriptos en el registro de la autoridad sanitaria nacional, con el requisito de presentar certificación oficial vigente de dicha autorización y la documentación indicada en los incisos c) y d) del artículo precedente e información sobre biodisponibilidad. La presente disposición se aplicará tanto a las especialidades medicinales o farmacéuticas que ya se encontraran inscriptas como a los nuevos principios activos o nuevas especialidades medicinales o farmacéuticas que aún no se encontraren inscriptos en el registro local.\nArt. 5º —\nLos interesados en inscribir especialidades medicinales que constituyen una asociación a dosis fija o una novedad por contener una droga nueva en su composición o aplicación o por ofrecer una ventaja en su acción terapéutica o en su forma de administración, cuyo expendio y consumo no se encuentre autorizado en los países indicados en el Anexo I, deberán acompañar a su solicitud la información y la documentación que acredite la eficacia y la inocuidad del producto para el uso propuesto, según lo determine la reglamentación del presente.\nArt. 6º —\nEl MINISTERIO DE SALUD Y ACCION SOCIAL establecerá y publicará:\na) El listado de medicamentos genéricos autorizados, clasificados farmacológicamente, con indicación de sus formas farmacéuticas, contenido o composición dentro de los CUARENTA Y CINCO (45) días de la publicación del presente decreto.\nb) El listado de especialidades medicinales registradas agrupadas según el listado de genéricos autorizados, dentro de los SESENTA (60) dí",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "es",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "ARG-CONTEXT-2",
+          "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+          "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+          "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+          "start_offset": 14211,
+          "end_offset": 15601,
+          "verbatim_extracted_text": ".463.\nArt. 19. —\nDeróganse el decreto Nº 908/91 y los artículos 3º, 9º, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36 y 40 del decreto Nº 9763/64.\nArt. 20. —\nLa SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL será la autoridad de aplicación del presente decreto, salvo en materia de registro, importación, exportación y comercialización en las que la misma se ejercerá en forma conjunta con la SECRETARIA DE INDUSTRIA Y COMERCIO del MINISTERIO DE ECONOMIA, OBRAS Y SERVICIOS PUBLICOS.\nArt. 21. —\nEl cumplimiento de los requisitos exigidos por el presente decreto será condición suficiente para realizar las actividades mencionadas en el Artículo 1º de la Ley Nº 16.463.\nArt. 22. —\nEl presente decreto entrará en vigencia a los TREINTA (30) días corridos de su publicación en el Boletín Oficial. Durante este período las autoridades de aplicación deberán proceder a la reglamentación de sus aspectos más relevantes para el resguardo de salud de la población y el normal funcionamiento del mercado.\nArt. 23. —\nComuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — MENEM. — Julio C. Aráoz. — Domingo F. Cavallo.\nANEXO I\nESTADOS UNIDOS\nJAPON\nSUECIA\nCONFEDERACION HELVETICA\nISRAEL\nCANADA\nAUSTRIA\nALEMANIA\nFRANCIA\nREINO UNIDO\nPAISES BAJOS\nBELGICA\nDINAMARCA\nESPAÑA\nITALIA\nAcerca de esta norma",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "es",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "ARG-CTX-1",
+          "source_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-150-1992-8196/texto",
+          "raw_sha256": "1f568853ca9b1ff591d93ca56442cfbdea63a5f3ae442b1c8bbf092983c0a7b0",
+          "text_sha256": "aebb625787353620754e9989a3adc643efa6a2e6ffeaaadbd7d55ec435553e2f",
+          "start_offset": 4500,
+          "end_offset": 6850,
+          "verbatim_extracted_text": "les o farmacéuticas no registradas ante la autoridad sanitaria, salvo las excepciones que de acuerdo a la reglamentación disponga la autoridad sanitaria.\nArt. 3º —\nLas solicitudes de inscripción al registro de especialidades medicinales o farmacéuticas autorizadas deberán incluir la siguiente información, con carácter de declaración jurada:\na) del producto: nombre propuesto para el mismo; fórmula (definida y verificable); forma o formas farmacéuticas en que se presentará; clasificación farmacológica, haciendo referencia al número de código, si existiere, de la clasificación internacional de medicamentos de la Organización Mundial de la Salud (OMS); condición de expendio.\nb) información técnica: Método de control; período de vida útil; método de elaboración en conformidad con las prácticas adecuadas de fabricación vigentes; datos sobre la biodisponibilidad del producto.\nc) proyecto de rótulos y etiquetas que deberán contener las siguientes inscripciones: Nombre del laboratorio, dirección del mismo, nombre del director técnico, nombre del producto y nombre genérico en igual tamaño y realce; fórmula por unidad de forma farmacéutica o porcentual, contenido por unidad de venta; fecha de vencimiento, forma de conservación y condición de venta, número de partida y serie de fabricación; y la leyenda MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD Y ACCION SOCIAL CERTIFICADO Nro.\nd) proyecto de prospectos que reproducirán: Las inscripciones no variables de los rótulos y etiquetas, la acción o acciones farmacológicas y terapéuticas que se atribuyen al producto con clínicas precisas y con advertencias, precauciones y contraindicaciones y, cuando corresponda, de antagonismos y antidotismos y de los efectos adversos que puedan llegar a desencadenar, posología habitual y dosis máximas y mínimas, forma de administración, presentaciones.\nA partir de la presentación de la solicitud, el MINISTERIO DE SALUD Y ACCION SOCIAL tendrá un plazo de CUARENTA (40) días para expedirse, con excepción del caso de las especialidades medicinales a que se hace referencia en el artículo 5º. Cumplido este plazo, la inscripción del medicamento tendrá carácter automático. El plazo de vigencia de la autorización, de acuerdo al artículo 7º de la Ley Nº 16.463, podrá ser prorrogado a su término a solicitud del interesado.\nArt. 4º —\nLos medicamento",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "es",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

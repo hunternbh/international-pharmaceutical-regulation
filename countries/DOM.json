@@ -214,5 +214,641 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "DOM",
+    "country": "Dominican Republic",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Simplified registration after qualifying prior foreign authorisation",
+    "source_url": "https://www.msp.gob.do/web/Transparencia/documentos_oai/1404/2016/3206/resolucion-no-000004-2016.pdf",
+    "document_id": "d3588cd9dae8f4cc6fc5",
+    "genre": "Ministerial resolution",
+    "language": "es",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "Dominican Republic Resolution 000004/2016, implemented 1 April 2016, scope new registrations and renewals. Includes medicines previously approved by SRAs/PAHO-levelIV agencies and retains applicable national requirements.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA and EMA explicitly in recognised agency table.",
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "One qualifying foreign registration can support abbreviated recognition.",
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "No full/public report sufficiency settled by selected clauses.",
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "GMP certificate required.",
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "Free-sale and GMP certificates remain in addition to current-law requirements.",
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ]
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Quality failures, serious safety reports and prior reference rejection exclude product; national requirements retained.",
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DOM-Q01",
+          "DOM-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "DOM-Q01",
+        "iso3": "DOM",
+        "event_id": null,
+        "document_id": "d3588cd9dae8f4cc6fc5",
+        "source_id": "584aadc37062eb60",
+        "source_url": "https://www.msp.gob.do/web/Transparencia/documentos_oai/1404/2016/3206/resolucion-no-000004-2016.pdf",
+        "raw_sha256": "7edfd724891acc0031c96c643564f90a6be7c62897a8140e19767b0a9bc8ab76",
+        "text_sha256": "b0e990a0af9e6a7127913e6897e85128eb68e3068ac88a0e63f300923ad202c6",
+        "start_offset": 5679,
+        "end_offset": 7022,
+        "pdf_page": 3,
+        "section_article": "SEGUNDO",
+        "verbatim_extracted_text": "SEGUNDO: Para las solicitudes de nuevos registros sanitarios y renovaciones de los\nregistros sanitarios existentes, se debe cumplir con uno de los siguientes criterios para optar\npor el procedimiento simplificado, a saber:\n\nProductos importados que previamente hayan sido autorizados por Autoridades Estrictas\n(OMS) y/o de Autoridades Reguladoras de Referencia Regional (ARNr) de la Red\nPanamericana para la Armonización de la Reglamentación Farmacéutica (RED\nPARF)J/OPS, lo cual debe ser avalado mediante la presentación del\n\nl. Certificado de Libre Venta y Certificado de Buenas Prácticas de Manufactura\nemitido por las referidas autoridades en adición a los demás requisitos establecidos\nen la legislación vigente.\n\n2. Productos de laboratorios fabricantes nacionales que cumplan con las Normas\nNacionales de Buenas Prácticas de Manufactura (BPM) y la Guía de Inspección a\n\nlas Normas de Buenas Prácticas de Manufactura (BPM) armonizadas por la RED\nPARF.\n\n3. Productos que hayan sido clasificados como de bajo riesgo por la Dirección\nGeneral de Medicamentos Alimentos y Productos Sanitarios (DIGEMAPS).\n\nPARRAFO: Se excluyen del procedimiento simplificado los productos que hayan sido\nidentificados con fallas de calidad a través del monitoreo post-comercialización o reportes\ngraves de seguridad a través del programa de fármacovigilancia.",
+        "display_text": "SEGUNDO: Para las solicitudes de nuevos registros sanitarios y renovaciones de los registros sanitarios existentes, se debe cumplir con uno de los siguientes criterios para optar por el procedimiento simplificado, a saber: Productos importados que previamente hayan sido autorizados por Autoridades Estrictas (OMS) y/o de Autoridades Reguladoras de Referencia Regional (ARNr) de la Red Panamericana para la Armonización de la Reglamentación Farmacéutica (RED PARF)J/OPS, lo cual debe ser avalado mediante la presentación del l. Certificado de Libre Venta y Certificado de Buenas Prácticas de Manufactura emitido por las referidas autoridades en adición a los demás requisitos establecidos en la legislación vigente. 2. Productos de laboratorios fabricantes nacionales que cumplan con las Normas Nacionales de Buenas Prácticas de Manufactura (BPM) y la Guía de Inspección a las Normas de Buenas Prácticas de Manufactura (BPM) armonizadas por la RED PARF. 3. Productos que hayan sido clasificados como de bajo riesgo por la Dirección General de Medicamentos Alimentos y Productos Sanitarios (DIGEMAPS). PARRAFO: Se excluyen del procedimiento simplificado los productos que hayan sido identificados con fallas de calidad a través del monitoreo post-comercialización o reportes graves de seguridad a través del programa de fármacovigilancia.",
+        "feature_tags": [
+          "adverse_foreign_history",
+          "scope_limit"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "es",
+        "language_status": "Official original-language source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": true,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "Foreign-authorised imported products are one eligibility category; domestic GMP products and low-risk products are separate alternatives. Prior serious safety/quality problems exclude simplified review.",
+        "version_alignment": "Resolution 000004, 27 January 2016; full current amendment history not inferred",
+        "evidence_tier": "national_rule",
+        "product_scope": "Human-medicine initial marketing authorisation",
+        "image_checked_pages": [
+          3
+        ],
+        "image_review_note": "Original page 3 visually checked; OCR line numbering and one stray glyph are preserved, not certified as clean typesetting.",
+        "translation_review": {
+          "id": "DOM-Q01",
+          "source_language": "es",
+          "source_text": "SEGUNDO: Para las solicitudes de nuevos registros sanitarios y renovaciones de los\nregistros sanitarios existentes, se debe cumplir con uno de los siguientes criterios para optar\npor el procedimiento simplificado, a saber:\n\nProductos importados que previamente hayan sido autorizados por Autoridades Estrictas\n(OMS) y/o de Autoridades Reguladoras de Referencia Regional (ARNr) de la Red\nPanamericana para la Armonización de la Reglamentación Farmacéutica (RED\nPARF)J/OPS, lo cual debe ser avalado mediante la presentación del\n\nl. Certificado de Libre Venta y Certificado de Buenas Prácticas de Manufactura\nemitido por las referidas autoridades en adición a los demás requisitos establecidos\nen la legislación vigente.\n\n2. Productos de laboratorios fabricantes nacionales que cumplan con las Normas\nNacionales de Buenas Prácticas de Manufactura (BPM) y la Guía de Inspección a\n\nlas Normas de Buenas Prácticas de Manufactura (BPM) armonizadas por la RED\nPARF.\n\n3. Productos que hayan sido clasificados como de bajo riesgo por la Dirección\nGeneral de Medicamentos Alimentos y Productos Sanitarios (DIGEMAPS).\n\nPARRAFO: Se excluyen del procedimiento simplificado los productos que hayan sido\nidentificados con fallas de calidad a través del monitoreo post-comercialización o reportes\ngraves de seguridad a través del programa de fármacovigilancia.",
+          "document_id": "d3588cd9dae8f4cc6fc5",
+          "target_language": "en",
+          "translation_status": "Rejected/quarantined machine output",
+          "model_provenance": {
+            "language": "es",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+            "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+            "model_bytes": 285208831,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "es",
+              "from_name": "Spanish",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "8bd552ee6335b0a5c3e5b5dbe8cbe272d003f2cd79c18424884d75b6ff5377b2",
+          "translated_utc": "2026-10-18T00:48:17.592054+00:00",
+          "source_characters": 1343,
+          "segments": 7,
+          "raw_machine_translation": "SECOND: For applications for new health registration and renewal of existing health registration, one of the following criteria should be met for applying for a simplified procedure: imported products that have been previously authorized by Strict Authorities (WHO) and / or Regional Reference Regulatory Authorities (NRAs) of the Pan American Network for the Harmonization of Pharmaceutical Regulation (RED PARF) J / OPS, and this should be supported by the presentation of the l. Certificado de Libre Venta y Certificado de Buenas Practicas de Manuicado emitido por las tiegas autoridades enaggregado a los otros necesidades establedadas por la legislaciones públicas. 2. Products from national manufacturing laboratories complying with national standards of good manufacturing practice (BPM) and the monitoring guide to best manufacturing practice standards (BPM) as harmonised by the FAR. 3. Products that have been classified as low-risk by the General Directorate for Food and Health Products (DIGEMPS). PARRAFO: The simplified procedure excludes products that have been identified with quality malfunctions through post-market monitoring or serious safety reports through the monitoring program.",
+          "checked_translation": null,
+          "check_note": "OCR-related untranslated/gibberish certificate requirements; reject English rendering although page 3 permission/scope was visually checked.",
+          "approved_for_display": false,
+          "approved_for_text_sensitivity": false,
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "DOM-CONTEXT-1",
+        "source_url": "https://www.msp.gob.do/web/Transparencia/documentos_oai/1404/2016/3206/resolucion-no-000004-2016.pdf",
+        "raw_sha256": "7edfd724891acc0031c96c643564f90a6be7c62897a8140e19767b0a9bc8ab76",
+        "text_sha256": "b0e990a0af9e6a7127913e6897e85128eb68e3068ac88a0e63f300923ad202c6",
+        "start_offset": 0,
+        "end_offset": 10053,
+        "verbatim_extracted_text": "PAGE 1\n[MACHINE OCR; original image authoritative]\nMINISTERIO DE\nSALUD PÚBLICA\n\n“Año del Fomento de la Vivienda”\n\nRESOLUCIÓN NO. 000004 27 ENE 2016\n\nQUE ESTABLECE LOS CRITERIOS PARA LA APLICACION DEL REGISTRO\nSANITARIO MEDIANTE PROCEDIMIENTO SIMPLIFICADO Y EL\nRECONOCIMIENTO DE LOS CERTIFICADOS DE LIBRE VENTA Y\nCERTIFICADOS DE BUENAS PRÁCTICAS DE ESTABLECIMIENTOS\nEXPEDIDOS POR LAS AUTORIDADES ESTRICTAS (OMS) Y/O DE\nAUTORIDADES REGULADORAS DE REFERENCIA REGIONAL (ARNr) DE LA\nRED PARF / OPS.\n\nCONSIDERANDO: Que los Ministerios de Estados podrán dictar disposiciones y\nreglamentaciones sobre los servicios a su cargo, de carácter interno; siempre que no\ncolidían con la Constitución, las leyes, los reglamentos o las instrucciones de Poder\nEjecutivo.\n\nCONSIDERANDO: Que la regulación es un proceso permanente de formulación y\nactualización de normas, así como de su aplicación por la vía del control y la evaluación de\nla estructura, de los procesos y de los resultados, en áreas de importancia estratégica, como\npolíticas, planes y programas, servicios, calidad de la atención, economía, financiamiento e\ninversiones de salud, así como el desarrollo de la investigación científica de los recursos\nhumanos y tecnológicos.\n\nCONSIDERANDO: Que unas de las funciones del Ministerio de Salud Pública como ente\nrector del sector salud, establecidas por la Ley General de Salud, es la de formular todas las\nmedidas, normas y procedimientos que conforme a las leyes, reglamentos y demás\ndisposiciones competen al ejercicio de sus funciones y tiendan a la protección de la salud\nde los habitantes.\n\nCONSIDERANDO: Que el Ministerio de Salud Pública como ente rector del Sistema\nNacional de Salud, es el responsable de la regulación de la fabricación, elaboración, control\nde calidad, suministro, circulación, distribución, comercialización, información, publicidad,\nimportación, almacenamiento, dispensación, evaluación, registro, y donación de los\nmedicamentos, cosméticos, productos de higiene y sanitarios.\n\nCONSIDERANDO: Que el Ministerio de Salud Pública como ente rector del Sistema\nNacional de Salud, es el responsable de desarrollar procedimientos de autorización de\nmedicamentos que satisfagan las garantías de eficacia, tolerancia, pureza, estabilidad e\ninformación mediante las reglamentaciones y disposiciones correspondientes.\n\nCONSIDERANDO: Que el Reglamento sobre Medicamentos No.246-06, de fecha 9 de\njunio de 2006, establece en el artículo 81, párrafo I “En el procedimiento simplificado se\nadjuntara a la solicitud, la documentación concerniente al cambio o modificación de\nacuerdo a las partes del expediente especificadas en el presente reglamento”.\n\n\n\nPAGE 2\n[MACHINE OCR; original image authoritative]\n000004 27 ENE 2016\n\nCONSIDERANDO: Que República Dominicana pertenece al grupo de países miembros\nasociados de la Organización Mundial de la Salud (OMS) y de la Organización\nPanamericana de la Salud (OPS).\n\nCONSIDERANDO: Que la designación de autoridades reguladoras de referencia nacional\npor la Organización Panamericana de la Salud (OPS) pueda dar lugar al fortalecimiento de\nla autoridad reguladora nacional y al reconocimiento de las capacidades instaladas en la\nRegión de las Américas y por ende, al establecimiento de mecanismos de cooperación que\nfavorecerá el rol rector del Ministerio de Salud Pública y Asistencia Social.\n\nVISTA: La Constitución Política de la República Dominicana, proclamada el 26 de enero\ndel 2010.\n\nVISTA: La Ley General Orgánica de Administración Pública, No. 247-12 del 14 de agosto\nde 2012.\n\nVISTA: La Ley General de Salud, No.42-01 del 8 de marzo de 2001 y sus reglamentos de\naplicación.\n\nVISTA: La Ley sobre los Derechos de las Personas en sus Relaciones con la\nAdministración y de Procedimiento Administrativo, No. 107-13 del 8 de agosto de 2013.\n\nVISTO: El Decreto No. 246-06 del 9 de junio de 2006, que establece El Reglamento sobre\nMedicamentos, modificado por los Decretos Nos.625-06 y 82-15.\n\nVISTO: El Decreto Nos.625-06, que modifica los artículos 29, 37 y 38 del Reglamento\nsobre Medicamentos.\n\nVISTO: El Decreto 82-15, que crea la Dirección General de Medicamentos, Alimentos y\nProductos Sanitarios y modifica el artículo 81 del Decreto 246-06 Reglamento sobre\nMedicamentos.\n\nVISTA: La resolución No. CD50.R9 de la OMS sobre el fortalecimiento de las autoridades\nreguladoras nacionales de medicamentos y productos biológicos.\n\nEn virtud de las atribuciones que me confiere la Ley General de Salud No. 42-01, dicto\nla siguiente.\n\nRESOLUCIÓN\n\nPRIMERO: Son pasibles de aplicar registro sanitario por procedimiento simplificado, los\nsiguientes trámites:\n\na) Las modificaciones en las instalaciones del fabricante. En el caso de cambios\nsustanciales de las zonas o áreas de fabricación y/o cambios en las instalaciones de\nfabricación del producto o productos, respecto a la autorización inicial;\n\n\n\nPAGE 3\n[MACHINE OCR; original image authoritative]\n009994 27 ENE 2016\n\nb) Las modificaciones de la información sustancial de ficha técnica. Las solicitudes de\nmodificación que se realicen bajo este literal se referirán a las que necesiten\nevaluación de trabajos científicos para su aprobación, como pudieran ser:\nmodificación posológica, cambios en contraindicaciones, efectos adversos,\nprecauciones u otros;\n\nc) Las modificaciones de los materiales de envasado y acondicionamiento;\n\nd) Las modificaciones del sistema de información del medicamento;\n\ne) Las modificaciones del proceso de fabricación y control;\n\n1 Las modificaciones referidas a los excipientes, cuando el cambio no se justifique\npara afectar la biodisponibilidad del medicamento;\n\ng) Los nuevos registros;\n\nh) Las renovaciones de los registros existentes.\n\nSEGUNDO: Para las solicitudes de nuevos registros sanitarios y renovaciones de los\nregistros sanitarios existentes, se debe cumplir con uno de los siguientes criterios para optar\npor el procedimiento simplificado, a saber:\n\nProductos importados que previamente hayan sido autorizados por Autoridades Estrictas\n(OMS) y/o de Autoridades Reguladoras de Referencia Regional (ARNr) de la Red\nPanamericana para la Armonización de la Reglamentación Farmacéutica (RED\nPARF)J/OPS, lo cual debe ser avalado mediante la presentación del\n\nl. Certificado de Libre Venta y Certificado de Buenas Prácticas de Manufactura\nemitido por las referidas autoridades en adición a los demás requisitos establecidos\nen la legislación vigente.\n\n2. Productos de laboratorios fabricantes nacionales que cumplan con las Normas\nNacionales de Buenas Prácticas de Manufactura (BPM) y la Guía de Inspección a\n\nlas Normas de Buenas Prácticas de Manufactura (BPM) armonizadas por la RED\nPARF.\n\n3. Productos que hayan sido clasificados como de bajo riesgo por la Dirección\nGeneral de Medicamentos Alimentos y Productos Sanitarios (DIGEMAPS).\n\nPARRAFO: Se excluyen del procedimiento simplificado los productos que hayan sido\nidentificados con fallas de calidad a través del monitoreo post-comercialización o reportes\ngraves de seguridad a través del programa de fármacovigilancia.\n\nTERCERO: Se dispone el reconocimiento de Certificados de Libre Venta de Productos y\nCertificados de Buenas Prácticas de Establecimientos, expedidos por las Autoridades\nEstrictas de la Organización Mundial de la Salud (OMS) y/o de Autoridades Reguladoras\nde Referencia Regional (ARNr) de la RED PARF/OPS, para los fines de aplicación de\nprocedimiento simplificado, las cuales se listan a continuación:\n\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\nsaiahiaie 27 EN: 20%\n\nAutoridades Estrictas reconocidas por Organizacién Mundial de la Salud (OMS)\n\nPaís/Región | Autoridad Estricta\n\nEstados FDA, U.S. Food and Drugs Administration\n\nUnidos\n\nCanadá Health Canada\n\nJapón NIHS, National Institute of Health Science\n\nAustralia TGA, Therapeutics Goods Administration\n\nEuropa EMA, European Medicines Agency\n\nSuiza Swiss Medic\n\nIslandia Islandic Medicines Agency\n\nNoruega Norwegian Medicines Agency\n\nLiechtenstein | Liechtensteinische Landesverwaltung Amt fiir\nLebensmittelkontrolle und Veterinárwesen Kontrollstelle\nfiir Arzneimitte\n\nAutoridades Reguladoras de Referencia Regional (ARNr)\n\nPais Autoridad Reguladora Nacional\n\nArgentina | ANMAT, Administración Nacional de Medicamentos,\nAlimentos y Tecnología Médica.\n\nBrasil ANVISA, Agencia Nacional de Vigilancia Sanitaria.\n\nMinistério da Saúde. ab\n\nCuba CECMED, Centro para el Control Estatal de la Calidad de\nlos Medicamentos. Ministerio de Salud Pública.\n\nColombia | INVIMA, Instituto Nacional de Vigilancia de\nMedicamentos y Alimentos.\n\nMéxico | COFEPRIS, Comisión Federal para la Protección de\nRiesgos Sanitarios.\n\n\n\nPAGE 5\n[MACHINE OCR; original image authoritative]\n000004 27 ENE 2016\n\nEste listado podrá ser actualizado conforme al reconocimiento otorgado o revocado tanto\npor la Organización Mundial de Salud (OMS) o por la RED PARF/OPS según los criterios\ndefinidos por la DIGEMAPS.\n\nCUARTO: No se considerarán para procedimiento simplificado aquellos casos en los que\nuna de las Autoridades Estrictas (OMS) o Autoridades de Referencias Regional (ANRr)\nhaya denegado la autorización de comercialización de los productos.\n\nQUINTO: La Dirección General de Medicamentos, Alimentos y Productos Sanitarios\n(DIGEMAPS), establecerá los plazos y condiciones de cumplimiento de las Buenas\nPrácticas de Manufactura (BPM) para la aplicación al procedimiento simplificado de los\nproductos fabricados por laboratorios nacionales.\n\nSEXTO: La Dirección General de Medicamentos, Alimentos y Productos Sanitarios\n(DIGEMAPS) dará cumplimiento a la presente resolución, a partir del primero (1) de abril\ndel año dos mil dieciséis (2016).\n\nSEPTIMO: Se designa a la Oficina de Acceso a la Información a publicar en el Portal Web\nInstitucional de este Ministerio de Salud, el contenido de la presente resolución.\n\nDADA, FIRMADA Y SELLADA, en Santo Domingo de Guzmán, Distrito Nacional,\nCapital de la República Dominicana, a los VEINTISIETE (27  ) días del mes de\n\nENERO del año dos mil dieciséis (2016).\n\n$ ; L\nDRA. ALTAGRACIA GUZMÁN MARCELINO\n\nMinistra de Salud Pública y Asistencia Social.\n",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "es",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Resolution 000004, 27 January 2016; full current amendment history not inferred"
+      }
+    ],
+    "review_details": {
+      "iso3": "DOM",
+      "country": "Dominican Republic",
+      "selected_document_id": "d3588cd9dae8f4cc6fc5",
+      "source_id": "584aadc37062eb60",
+      "pathway": "Simplified registration after qualifying prior foreign authorisation",
+      "source_url": "https://www.msp.gob.do/web/Transparencia/documentos_oai/1404/2016/3206/resolucion-no-000004-2016.pdf",
+      "document_title": "Dominican Republic | Establishing Criteria for the Application of the Sanitary Registry through a Simplified Procedure and the Recognition of Certificates of Free Sale and Certificates of Good Practices of Establishments Issued by the Regional Reference Regulat",
+      "source_type": "Ministerial resolution",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "es",
+      "translation_provenance": "Original-language contextual interpretation; no unchecked machine translation treated as authoritative",
+      "raw_sha256": "7edfd724891acc0031c96c643564f90a6be7c62897a8140e19767b0a9bc8ab76",
+      "raw_hash_validated": true,
+      "text_sha256": "b0e990a0af9e6a7127913e6897e85128eb68e3068ac88a0e63f300923ad202c6",
+      "version_dates": {
+        "implementation_date": "2016-04-01"
+      },
+      "version_scope_note": "Dominican Republic Resolution 000004/2016, implemented 1 April 2016, scope new registrations and renewals. Includes medicines previously approved by SRAs/PAHO-levelIV agencies and retains applicable national requirements.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          0,
+          10053
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA and EMA explicitly in recognised agency table.",
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "One qualifying foreign registration can support abbreviated recognition.",
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "No full/public report sufficiency settled by selected clauses.",
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "GMP certificate required.",
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "Free-sale and GMP certificates remain in addition to current-law requirements.",
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Quality failures, serious safety reports and prior reference rejection exclude product; national requirements retained.",
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DOM-Q01",
+            "DOM-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "DOM-Q01",
+          "iso3": "DOM",
+          "event_id": null,
+          "document_id": "d3588cd9dae8f4cc6fc5",
+          "source_id": "584aadc37062eb60",
+          "source_url": "https://www.msp.gob.do/web/Transparencia/documentos_oai/1404/2016/3206/resolucion-no-000004-2016.pdf",
+          "raw_sha256": "7edfd724891acc0031c96c643564f90a6be7c62897a8140e19767b0a9bc8ab76",
+          "text_sha256": "b0e990a0af9e6a7127913e6897e85128eb68e3068ac88a0e63f300923ad202c6",
+          "start_offset": 5679,
+          "end_offset": 7022,
+          "pdf_page": 3,
+          "section_article": "SEGUNDO",
+          "verbatim_extracted_text": "SEGUNDO: Para las solicitudes de nuevos registros sanitarios y renovaciones de los\nregistros sanitarios existentes, se debe cumplir con uno de los siguientes criterios para optar\npor el procedimiento simplificado, a saber:\n\nProductos importados que previamente hayan sido autorizados por Autoridades Estrictas\n(OMS) y/o de Autoridades Reguladoras de Referencia Regional (ARNr) de la Red\nPanamericana para la Armonización de la Reglamentación Farmacéutica (RED\nPARF)J/OPS, lo cual debe ser avalado mediante la presentación del\n\nl. Certificado de Libre Venta y Certificado de Buenas Prácticas de Manufactura\nemitido por las referidas autoridades en adición a los demás requisitos establecidos\nen la legislación vigente.\n\n2. Productos de laboratorios fabricantes nacionales que cumplan con las Normas\nNacionales de Buenas Prácticas de Manufactura (BPM) y la Guía de Inspección a\n\nlas Normas de Buenas Prácticas de Manufactura (BPM) armonizadas por la RED\nPARF.\n\n3. Productos que hayan sido clasificados como de bajo riesgo por la Dirección\nGeneral de Medicamentos Alimentos y Productos Sanitarios (DIGEMAPS).\n\nPARRAFO: Se excluyen del procedimiento simplificado los productos que hayan sido\nidentificados con fallas de calidad a través del monitoreo post-comercialización o reportes\ngraves de seguridad a través del programa de fármacovigilancia.",
+          "display_text": "SEGUNDO: Para las solicitudes de nuevos registros sanitarios y renovaciones de los registros sanitarios existentes, se debe cumplir con uno de los siguientes criterios para optar por el procedimiento simplificado, a saber: Productos importados que previamente hayan sido autorizados por Autoridades Estrictas (OMS) y/o de Autoridades Reguladoras de Referencia Regional (ARNr) de la Red Panamericana para la Armonización de la Reglamentación Farmacéutica (RED PARF)J/OPS, lo cual debe ser avalado mediante la presentación del l. Certificado de Libre Venta y Certificado de Buenas Prácticas de Manufactura emitido por las referidas autoridades en adición a los demás requisitos establecidos en la legislación vigente. 2. Productos de laboratorios fabricantes nacionales que cumplan con las Normas Nacionales de Buenas Prácticas de Manufactura (BPM) y la Guía de Inspección a las Normas de Buenas Prácticas de Manufactura (BPM) armonizadas por la RED PARF. 3. Productos que hayan sido clasificados como de bajo riesgo por la Dirección General de Medicamentos Alimentos y Productos Sanitarios (DIGEMAPS). PARRAFO: Se excluyen del procedimiento simplificado los productos que hayan sido identificados con fallas de calidad a través del monitoreo post-comercialización o reportes graves de seguridad a través del programa de fármacovigilancia.",
+          "feature_tags": [
+            "adverse_foreign_history",
+            "scope_limit"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "es",
+          "language_status": "Official original-language source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": true,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "Foreign-authorised imported products are one eligibility category; domestic GMP products and low-risk products are separate alternatives. Prior serious safety/quality problems exclude simplified review.",
+          "version_alignment": "Resolution 000004, 27 January 2016; full current amendment history not inferred",
+          "evidence_tier": "national_rule",
+          "product_scope": "Human-medicine initial marketing authorisation",
+          "image_checked_pages": [
+            3
+          ],
+          "image_review_note": "Original page 3 visually checked; OCR line numbering and one stray glyph are preserved, not certified as clean typesetting.",
+          "translation_review": {
+            "id": "DOM-Q01",
+            "source_language": "es",
+            "source_text": "SEGUNDO: Para las solicitudes de nuevos registros sanitarios y renovaciones de los\nregistros sanitarios existentes, se debe cumplir con uno de los siguientes criterios para optar\npor el procedimiento simplificado, a saber:\n\nProductos importados que previamente hayan sido autorizados por Autoridades Estrictas\n(OMS) y/o de Autoridades Reguladoras de Referencia Regional (ARNr) de la Red\nPanamericana para la Armonización de la Reglamentación Farmacéutica (RED\nPARF)J/OPS, lo cual debe ser avalado mediante la presentación del\n\nl. Certificado de Libre Venta y Certificado de Buenas Prácticas de Manufactura\nemitido por las referidas autoridades en adición a los demás requisitos establecidos\nen la legislación vigente.\n\n2. Productos de laboratorios fabricantes nacionales que cumplan con las Normas\nNacionales de Buenas Prácticas de Manufactura (BPM) y la Guía de Inspección a\n\nlas Normas de Buenas Prácticas de Manufactura (BPM) armonizadas por la RED\nPARF.\n\n3. Productos que hayan sido clasificados como de bajo riesgo por la Dirección\nGeneral de Medicamentos Alimentos y Productos Sanitarios (DIGEMAPS).\n\nPARRAFO: Se excluyen del procedimiento simplificado los productos que hayan sido\nidentificados con fallas de calidad a través del monitoreo post-comercialización o reportes\ngraves de seguridad a través del programa de fármacovigilancia.",
+            "document_id": "d3588cd9dae8f4cc6fc5",
+            "target_language": "en",
+            "translation_status": "Rejected/quarantined machine output",
+            "model_provenance": {
+              "language": "es",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+              "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+              "model_bytes": 285208831,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "es",
+                "from_name": "Spanish",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "8bd552ee6335b0a5c3e5b5dbe8cbe272d003f2cd79c18424884d75b6ff5377b2",
+            "translated_utc": "2026-10-18T00:48:17.592054+00:00",
+            "source_characters": 1343,
+            "segments": 7,
+            "raw_machine_translation": "SECOND: For applications for new health registration and renewal of existing health registration, one of the following criteria should be met for applying for a simplified procedure: imported products that have been previously authorized by Strict Authorities (WHO) and / or Regional Reference Regulatory Authorities (NRAs) of the Pan American Network for the Harmonization of Pharmaceutical Regulation (RED PARF) J / OPS, and this should be supported by the presentation of the l. Certificado de Libre Venta y Certificado de Buenas Practicas de Manuicado emitido por las tiegas autoridades enaggregado a los otros necesidades establedadas por la legislaciones públicas. 2. Products from national manufacturing laboratories complying with national standards of good manufacturing practice (BPM) and the monitoring guide to best manufacturing practice standards (BPM) as harmonised by the FAR. 3. Products that have been classified as low-risk by the General Directorate for Food and Health Products (DIGEMPS). PARRAFO: The simplified procedure excludes products that have been identified with quality malfunctions through post-market monitoring or serious safety reports through the monitoring program.",
+            "checked_translation": null,
+            "check_note": "OCR-related untranslated/gibberish certificate requirements; reject English rendering although page 3 permission/scope was visually checked.",
+            "approved_for_display": false,
+            "approved_for_text_sensitivity": false,
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "DOM-CONTEXT-1",
+          "source_url": "https://www.msp.gob.do/web/Transparencia/documentos_oai/1404/2016/3206/resolucion-no-000004-2016.pdf",
+          "raw_sha256": "7edfd724891acc0031c96c643564f90a6be7c62897a8140e19767b0a9bc8ab76",
+          "text_sha256": "b0e990a0af9e6a7127913e6897e85128eb68e3068ac88a0e63f300923ad202c6",
+          "start_offset": 0,
+          "end_offset": 10053,
+          "verbatim_extracted_text": "PAGE 1\n[MACHINE OCR; original image authoritative]\nMINISTERIO DE\nSALUD PÚBLICA\n\n“Año del Fomento de la Vivienda”\n\nRESOLUCIÓN NO. 000004 27 ENE 2016\n\nQUE ESTABLECE LOS CRITERIOS PARA LA APLICACION DEL REGISTRO\nSANITARIO MEDIANTE PROCEDIMIENTO SIMPLIFICADO Y EL\nRECONOCIMIENTO DE LOS CERTIFICADOS DE LIBRE VENTA Y\nCERTIFICADOS DE BUENAS PRÁCTICAS DE ESTABLECIMIENTOS\nEXPEDIDOS POR LAS AUTORIDADES ESTRICTAS (OMS) Y/O DE\nAUTORIDADES REGULADORAS DE REFERENCIA REGIONAL (ARNr) DE LA\nRED PARF / OPS.\n\nCONSIDERANDO: Que los Ministerios de Estados podrán dictar disposiciones y\nreglamentaciones sobre los servicios a su cargo, de carácter interno; siempre que no\ncolidían con la Constitución, las leyes, los reglamentos o las instrucciones de Poder\nEjecutivo.\n\nCONSIDERANDO: Que la regulación es un proceso permanente de formulación y\nactualización de normas, así como de su aplicación por la vía del control y la evaluación de\nla estructura, de los procesos y de los resultados, en áreas de importancia estratégica, como\npolíticas, planes y programas, servicios, calidad de la atención, economía, financiamiento e\ninversiones de salud, así como el desarrollo de la investigación científica de los recursos\nhumanos y tecnológicos.\n\nCONSIDERANDO: Que unas de las funciones del Ministerio de Salud Pública como ente\nrector del sector salud, establecidas por la Ley General de Salud, es la de formular todas las\nmedidas, normas y procedimientos que conforme a las leyes, reglamentos y demás\ndisposiciones competen al ejercicio de sus funciones y tiendan a la protección de la salud\nde los habitantes.\n\nCONSIDERANDO: Que el Ministerio de Salud Pública como ente rector del Sistema\nNacional de Salud, es el responsable de la regulación de la fabricación, elaboración, control\nde calidad, suministro, circulación, distribución, comercialización, información, publicidad,\nimportación, almacenamiento, dispensación, evaluación, registro, y donación de los\nmedicamentos, cosméticos, productos de higiene y sanitarios.\n\nCONSIDERANDO: Que el Ministerio de Salud Pública como ente rector del Sistema\nNacional de Salud, es el responsable de desarrollar procedimientos de autorización de\nmedicamentos que satisfagan las garantías de eficacia, tolerancia, pureza, estabilidad e\ninformación mediante las reglamentaciones y disposiciones correspondientes.\n\nCONSIDERANDO: Que el Reglamento sobre Medicamentos No.246-06, de fecha 9 de\njunio de 2006, establece en el artículo 81, párrafo I “En el procedimiento simplificado se\nadjuntara a la solicitud, la documentación concerniente al cambio o modificación de\nacuerdo a las partes del expediente especificadas en el presente reglamento”.\n\n\n\nPAGE 2\n[MACHINE OCR; original image authoritative]\n000004 27 ENE 2016\n\nCONSIDERANDO: Que República Dominicana pertenece al grupo de países miembros\nasociados de la Organización Mundial de la Salud (OMS) y de la Organización\nPanamericana de la Salud (OPS).\n\nCONSIDERANDO: Que la designación de autoridades reguladoras de referencia nacional\npor la Organización Panamericana de la Salud (OPS) pueda dar lugar al fortalecimiento de\nla autoridad reguladora nacional y al reconocimiento de las capacidades instaladas en la\nRegión de las Américas y por ende, al establecimiento de mecanismos de cooperación que\nfavorecerá el rol rector del Ministerio de Salud Pública y Asistencia Social.\n\nVISTA: La Constitución Política de la República Dominicana, proclamada el 26 de enero\ndel 2010.\n\nVISTA: La Ley General Orgánica de Administración Pública, No. 247-12 del 14 de agosto\nde 2012.\n\nVISTA: La Ley General de Salud, No.42-01 del 8 de marzo de 2001 y sus reglamentos de\naplicación.\n\nVISTA: La Ley sobre los Derechos de las Personas en sus Relaciones con la\nAdministración y de Procedimiento Administrativo, No. 107-13 del 8 de agosto de 2013.\n\nVISTO: El Decreto No. 246-06 del 9 de junio de 2006, que establece El Reglamento sobre\nMedicamentos, modificado por los Decretos Nos.625-06 y 82-15.\n\nVISTO: El Decreto Nos.625-06, que modifica los artículos 29, 37 y 38 del Reglamento\nsobre Medicamentos.\n\nVISTO: El Decreto 82-15, que crea la Dirección General de Medicamentos, Alimentos y\nProductos Sanitarios y modifica el artículo 81 del Decreto 246-06 Reglamento sobre\nMedicamentos.\n\nVISTA: La resolución No. CD50.R9 de la OMS sobre el fortalecimiento de las autoridades\nreguladoras nacionales de medicamentos y productos biológicos.\n\nEn virtud de las atribuciones que me confiere la Ley General de Salud No. 42-01, dicto\nla siguiente.\n\nRESOLUCIÓN\n\nPRIMERO: Son pasibles de aplicar registro sanitario por procedimiento simplificado, los\nsiguientes trámites:\n\na) Las modificaciones en las instalaciones del fabricante. En el caso de cambios\nsustanciales de las zonas o áreas de fabricación y/o cambios en las instalaciones de\nfabricación del producto o productos, respecto a la autorización inicial;\n\n\n\nPAGE 3\n[MACHINE OCR; original image authoritative]\n009994 27 ENE 2016\n\nb) Las modificaciones de la información sustancial de ficha técnica. Las solicitudes de\nmodificación que se realicen bajo este literal se referirán a las que necesiten\nevaluación de trabajos científicos para su aprobación, como pudieran ser:\nmodificación posológica, cambios en contraindicaciones, efectos adversos,\nprecauciones u otros;\n\nc) Las modificaciones de los materiales de envasado y acondicionamiento;\n\nd) Las modificaciones del sistema de información del medicamento;\n\ne) Las modificaciones del proceso de fabricación y control;\n\n1 Las modificaciones referidas a los excipientes, cuando el cambio no se justifique\npara afectar la biodisponibilidad del medicamento;\n\ng) Los nuevos registros;\n\nh) Las renovaciones de los registros existentes.\n\nSEGUNDO: Para las solicitudes de nuevos registros sanitarios y renovaciones de los\nregistros sanitarios existentes, se debe cumplir con uno de los siguientes criterios para optar\npor el procedimiento simplificado, a saber:\n\nProductos importados que previamente hayan sido autorizados por Autoridades Estrictas\n(OMS) y/o de Autoridades Reguladoras de Referencia Regional (ARNr) de la Red\nPanamericana para la Armonización de la Reglamentación Farmacéutica (RED\nPARF)J/OPS, lo cual debe ser avalado mediante la presentación del\n\nl. Certificado de Libre Venta y Certificado de Buenas Prácticas de Manufactura\nemitido por las referidas autoridades en adición a los demás requisitos establecidos\nen la legislación vigente.\n\n2. Productos de laboratorios fabricantes nacionales que cumplan con las Normas\nNacionales de Buenas Prácticas de Manufactura (BPM) y la Guía de Inspección a\n\nlas Normas de Buenas Prácticas de Manufactura (BPM) armonizadas por la RED\nPARF.\n\n3. Productos que hayan sido clasificados como de bajo riesgo por la Dirección\nGeneral de Medicamentos Alimentos y Productos Sanitarios (DIGEMAPS).\n\nPARRAFO: Se excluyen del procedimiento simplificado los productos que hayan sido\nidentificados con fallas de calidad a través del monitoreo post-comercialización o reportes\ngraves de seguridad a través del programa de fármacovigilancia.\n\nTERCERO: Se dispone el reconocimiento de Certificados de Libre Venta de Productos y\nCertificados de Buenas Prácticas de Establecimientos, expedidos por las Autoridades\nEstrictas de la Organización Mundial de la Salud (OMS) y/o de Autoridades Reguladoras\nde Referencia Regional (ARNr) de la RED PARF/OPS, para los fines de aplicación de\nprocedimiento simplificado, las cuales se listan a continuación:\n\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\nsaiahiaie 27 EN: 20%\n\nAutoridades Estrictas reconocidas por Organizacién Mundial de la Salud (OMS)\n\nPaís/Región | Autoridad Estricta\n\nEstados FDA, U.S. Food and Drugs Administration\n\nUnidos\n\nCanadá Health Canada\n\nJapón NIHS, National Institute of Health Science\n\nAustralia TGA, Therapeutics Goods Administration\n\nEuropa EMA, European Medicines Agency\n\nSuiza Swiss Medic\n\nIslandia Islandic Medicines Agency\n\nNoruega Norwegian Medicines Agency\n\nLiechtenstein | Liechtensteinische Landesverwaltung Amt fiir\nLebensmittelkontrolle und Veterinárwesen Kontrollstelle\nfiir Arzneimitte\n\nAutoridades Reguladoras de Referencia Regional (ARNr)\n\nPais Autoridad Reguladora Nacional\n\nArgentina | ANMAT, Administración Nacional de Medicamentos,\nAlimentos y Tecnología Médica.\n\nBrasil ANVISA, Agencia Nacional de Vigilancia Sanitaria.\n\nMinistério da Saúde. ab\n\nCuba CECMED, Centro para el Control Estatal de la Calidad de\nlos Medicamentos. Ministerio de Salud Pública.\n\nColombia | INVIMA, Instituto Nacional de Vigilancia de\nMedicamentos y Alimentos.\n\nMéxico | COFEPRIS, Comisión Federal para la Protección de\nRiesgos Sanitarios.\n\n\n\nPAGE 5\n[MACHINE OCR; original image authoritative]\n000004 27 ENE 2016\n\nEste listado podrá ser actualizado conforme al reconocimiento otorgado o revocado tanto\npor la Organización Mundial de Salud (OMS) o por la RED PARF/OPS según los criterios\ndefinidos por la DIGEMAPS.\n\nCUARTO: No se considerarán para procedimiento simplificado aquellos casos en los que\nuna de las Autoridades Estrictas (OMS) o Autoridades de Referencias Regional (ANRr)\nhaya denegado la autorización de comercialización de los productos.\n\nQUINTO: La Dirección General de Medicamentos, Alimentos y Productos Sanitarios\n(DIGEMAPS), establecerá los plazos y condiciones de cumplimiento de las Buenas\nPrácticas de Manufactura (BPM) para la aplicación al procedimiento simplificado de los\nproductos fabricados por laboratorios nacionales.\n\nSEXTO: La Dirección General de Medicamentos, Alimentos y Productos Sanitarios\n(DIGEMAPS) dará cumplimiento a la presente resolución, a partir del primero (1) de abril\ndel año dos mil dieciséis (2016).\n\nSEPTIMO: Se designa a la Oficina de Acceso a la Información a publicar en el Portal Web\nInstitucional de este Ministerio de Salud, el contenido de la presente resolución.\n\nDADA, FIRMADA Y SELLADA, en Santo Domingo de Guzmán, Distrito Nacional,\nCapital de la República Dominicana, a los VEINTISIETE (27  ) días del mes de\n\nENERO del año dos mil dieciséis (2016).\n\n$ ; L\nDRA. ALTAGRACIA GUZMÁN MARCELINO\n\nMinistra de Salud Pública y Asistencia Social.\n",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "es",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Resolution 000004, 27 January 2016; full current amendment history not inferred"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

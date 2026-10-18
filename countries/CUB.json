@@ -211,5 +211,91 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "CUB",
+    "country": "Cuba",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "conditional_registration",
+    "fixed_case_scope_status": "conditional_route_not_full_reliance",
+    "finding": "The source requires origin-country certificates, favorable benefit–risk and further evidence commitments for a conditional public-health route. It does not resolve eligibility for an ordinary nonemergency new-drug reliance route.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The source requires origin-country certificates, favorable benefit–risk and further evidence commitments for a conditional public-health route. It does not resolve eligibility for an ordinary nonemergency new-drug reliance route."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The source requires origin-country certificates, favorable benefit–risk and further evidence commitments for a conditional public-health route. It does not resolve eligibility for an ordinary nonemergency new-drug reliance route."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The source requires origin-country certificates, favorable benefit–risk and further evidence commitments for a conditional public-health route. It does not resolve eligibility for an ordinary nonemergency new-drug reliance route."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The source requires origin-country certificates, favorable benefit–risk and further evidence commitments for a conditional public-health route. It does not resolve eligibility for an ordinary nonemergency new-drug reliance route."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The source requires origin-country certificates, favorable benefit–risk and further evidence commitments for a conditional public-health route. It does not resolve eligibility for an ordinary nonemergency new-drug reliance route."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "CUB-Q01",
+        "source_url": "https://www.cecmed.cu/sites/default/files/adjuntos/Reglamentacion/Reg_55-11.pdf",
+        "raw_sha256": "b4269e05a4ed836332503f67e31fd729f0aab9c47603ba34d596a66599a6499d",
+        "text_sha256": "72dc8171961a5f6e456ab960058eda490f15a5d0b878611efa953b81ef546b52",
+        "start_offset": 8003,
+        "end_offset": 9048,
+        "verbatim_extracted_text": "3.6. En el caso de productos de importación, deberán presentarse: Certificado de Producto\nFarmacéutico o Certificado de Libre Venta y Certificado de Cumplimiento de Buenas\nPrácticas de Fabricación del (los) fabricante(s) emitidos por las autoridades de salud del\npaís de origen y oficializado por la Embajada cubana correspondiente.\n4. Requerimientos para otorgar el Registro sanitario condicionar.\n4.1. El RSC será otorgado siempre y cuando se cumplan los siguientes requerimientos:\na) El balance riesgo - beneficio del producto es favorable.\nb) Siempre que se de respuesta a necesidades específicas, tanto terapéuticas como de\ndiagnóstico de la población.\nc) El beneficio para la salud pública, por la disponibilidad inmediata del medicamento, supera\nel riesgo inherente al hecho de no contar con toda la información detallada del mismo.\nd) El solicitante se compromete a la presentación de los resultados del estudio clínico de\nconfirmación terapéutica y vigilancia activa post-comercialización, en correspondencia con\nel cronograma aprobado.",
+        "pdf_page": 5,
+        "language": "es",
+        "language_status": "Official original-language source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Regulation 55/2011, sections 3.6 and 4",
+        "translation_review": {
+          "id": "CUB-Q01",
+          "source_language": "es",
+          "source_text": "3.6. En el caso de productos de importación, deberán presentarse: Certificado de Producto\nFarmacéutico o Certificado de Libre Venta y Certificado de Cumplimiento de Buenas\nPrácticas de Fabricación del (los) fabricante(s) emitidos por las autoridades de salud del\npaís de origen y oficializado por la Embajada cubana correspondiente.\n4. Requerimientos para otorgar el Registro sanitario condicionar.\n4.1. El RSC será otorgado siempre y cuando se cumplan los siguientes requerimientos:\na) El balance riesgo - beneficio del producto es favorable.\nb) Siempre que se de respuesta a necesidades específicas, tanto terapéuticas como de\ndiagnóstico de la población.\nc) El beneficio para la salud pública, por la disponibilidad inmediata del medicamento, supera\nel riesgo inherente al hecho de no contar con toda la información detallada del mismo.\nd) El solicitante se compromete a la presentación de los resultados del estudio clínico de\nconfirmación terapéutica y vigilancia activa post-comercialización, en correspondencia con\nel cronograma aprobado.",
+          "document_id": "bf8dc48b4dc561a15961",
+          "target_language": "en",
+          "translation_status": "Rejected/quarantined machine output",
+          "model_provenance": {
+            "language": "es",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+            "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+            "model_bytes": 285208831,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "es",
+              "from_name": "Spanish",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "b5ada28f55a96a76dbb8fdea925fe8dba2715e931ad804788b78988f9802e199",
+          "translated_utc": "2026-10-18T00:48:20.253956+00:00",
+          "source_characters": 1045,
+          "segments": 6,
+          "raw_machine_translation": "3.6. In the case of imported products, they have to be submitted: Certificado de Producias Farmágicas o Certificado de Libre Vender y Certificado de Mejor de Mejor Realización de Mejor Pracas de Maesco (los) profesionado (s) emitido por las autoridades de salud del país de origen y officializado por la Embajo Cuba correspondado. 4. Requirement to give the Health Register condition. 4.1. The RSC shall be awarded as long as the following requirements are met: (a) The risk balance - benefit of the product is favourable. (b) Provided that it responds to specific needs, both therapeutic and population diagnosis. (c) The public health benefit, as a result of the immediate availability of the medicinal product, outweighs the risk inherent in the fact that we do not have all the detailed information about the mis.( d) The applicant undertakes to report the results of the clinical study of therapeutic confirmation and after-marketing activity monitoring, in accordance with the approved schedule.",
+          "checked_translation": null,
+          "check_note": "Certificate/GMP clause garbled; rendering rejected.",
+          "approved_for_display": false,
+          "approved_for_text_sensitivity": false,
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        }
+      }
+    ],
+    "source_scope": "Conditional registration; foreign certificate requirement does not establish reliance on foreign scientific assessment",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

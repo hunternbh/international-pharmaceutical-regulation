@@ -165,5 +165,571 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Shorter evaluation following European CP/MRP/DCP approval",
+    "source_url": "https://www.sluzbenilist.ba/page/akt/7iXyEjXU2IQ%3D",
+    "document_id": "F250_68928a030efc4e7586fb_4a9866409e82",
+    "genre": "Official Gazette rulebook",
+    "language": "bs",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Bosnia and Herzegovina registration rule Arts 32–33. This is EU-report-based 150 day assessment, not a foreign approval taking automatic national effect.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "EMA-centralised, EU MRP or DCP approval can support shortened assessment.",
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Qualifying EU approval; FDA alone does not meet this selected EU-route criterion.",
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "explicit requirement",
+        "finding": "Product must be on EU market in the form and manufacturing site submitted.",
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Declaration of identical dossier, same product on EU market and same manufacturing site required.",
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Assessment report of the foreign EU procedure required; no express unredacted/nonpublic qualification in reviewed provisions.",
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Commission evaluates quality, safety and efficacy on the assessment report; samples and further information may be required.",
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "150 days under shortened route versus 210 normal; no realised delay inference.",
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "outside selected recognition pathway on fixed facts",
+        "finding": "FDA-only lacks the specified EMA/EU MRP/DCP approval; normal national assessment remains separate.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BIH-R01",
+          "BIH-CONTEXT-1"
+        ],
+        "status": "outside selected recognition pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "BIH-R01",
+        "iso3": "BIH",
+        "event_id": null,
+        "document_id": "F250_68928a030efc4e7586fb_4a9866409e82",
+        "source_id": "F250_68928a030efc4e7586fb",
+        "source_url": "https://www.sluzbenilist.ba/page/akt/7iXyEjXU2IQ%3D",
+        "raw_sha256": "4a9866409e82e93996f7ac28f9c4121248098cd191ef3fde7041fe87533ced1d",
+        "text_sha256": "cd6f39c8ac74ef30e5aec9733a78683ba859fff905927962767d0996697c7260",
+        "start_offset": 31943,
+        "end_offset": 34393,
+        "pdf_page": null,
+        "verbatim_extracted_text": "Član 32.\n(1)\tU postupku davanja dozvole za stavljanje lijeka u promet u BiH za lijekove kojima se dozvola za stavljanje u promet izdaje centralizovanim postupkom (u daljnjem tekstu:\n\"CP\"\n) u\n\"EMA\"\n, decentralizovanim postupkom (u daljnjem tekstu:\n\"DP\"\n) ili postupkom međusobnog priznavanja (u daljnjem tekstu:\n\"MRP\"\n) u državama EU, traži se obavezno dostavljanje dokumenta\n\"Assesment report\"\nu okviru priložene dokumentacije.\n(2)\tZa lijekove iz stava (1) ovog člana potrebno je priložiti i izjavu da je dostavljena dokumentacija identična dokumentaciji koja je bila priložena u\n\"EMA\"\n(za\n\"CP\"\n), ili referentnoj državi (za\n\"DP\"\n,\n\"MRP\"\n), kao i izjavu da je lijek koji se plasira na tržište BiH identičan i sa istim mjestom proizvodnje kao i lijek koji se plasira na tržište EU.\n(3)\tZa lijekove iz stava (1) ovog člana traži se i obavezno dostavljanje dozvole (autorizacije) Evropske komisije (za\n\"CP\"\n), odnosno referentne države (za\n\"DP\"\nili\n\"MRP\"\n) u okviru priložene dokumentacije.\nČlan 33.\n(1)\tKod lijekova koji nisu prošli\n\"CP\"\n,\n\"MRP\"\nili\n\"DP\"\n, postupak davanja dozvole za stavljanje lijeka u promet trajaće 210 dana u skladu sa članom 37. Zakona, a Komisija za lijekove će ocjenjivati dokumentaciju.\n(2)\tKod lijekova koji su prošli\n\"CP\"\n,\n\"MRP\"\nili\n\"DP\"\ni uz to su donijeli dodatnu dokumentaciju iz člana 32. ovog Pravilnika, postupak će trajati 150 dana, a Komisija za lijekove će ocjenjivati kvalitet, sigurnost i efikasnost lijeka kroz ocjenu\n\"Assesment report\"\n.\n(3)\tAgencija utvrđuje ispravnost i potpunost podnesenog zahtjeva i procjenjuje dostavljenu dokumentaciju o lijeku u skladu sa odredbama Zakona i ovog Pravilnika.\n(4)\tAko Agencija utvrdi da zahtjev za davanje dozvole nije formalno-pravno potpun zatražiće od podnositelja zahtjeva da, u roku kojeg odredi Agencija, zahtjev dopuni.\n(5)\tAko podnositelj zahtjeva u roku iz stava (2) ovog člana ne dopuni ili ispravi zahtjev, odnosno ne dostavi dodatnu dokumentaciju ili odgovarajuće obrazloženje, Agencija će zahtjev odbaciti zaključkom protiv kojeg nije dopuštena žalba već se protiv tog zaključka može pokrenuti upravni spor.\n(6)\tAgencija može tokom postupka davanja dozvole za stavljanje lijeka u promet pisanim putem od podnositelja zahtjeva zatražiti dodatnu dokumentaciju ili odgovarajuće obrazloženje za što mu može odrediti rok.\n(7)\tPodnositelj zahtjeva obavezan je dostaviti, na traženje Agencije, uzorke lijeka i/ili referentne standarde u roku koji odredi Agencija.\n",
+        "display_text": "Član 32. (1) U postupku davanja dozvole za stavljanje lijeka u promet u BiH za lijekove kojima se dozvola za stavljanje u promet izdaje centralizovanim postupkom (u daljnjem tekstu: \"CP\" ) u \"EMA\" , decentralizovanim postupkom (u daljnjem tekstu: \"DP\" ) ili postupkom međusobnog priznavanja (u daljnjem tekstu: \"MRP\" ) u državama EU, traži se obavezno dostavljanje dokumenta \"Assesment report\" u okviru priložene dokumentacije. (2) Za lijekove iz stava (1) ovog člana potrebno je priložiti i izjavu da je dostavljena dokumentacija identična dokumentaciji koja je bila priložena u \"EMA\" (za \"CP\" ), ili referentnoj državi (za \"DP\" , \"MRP\" ), kao i izjavu da je lijek koji se plasira na tržište BiH identičan i sa istim mjestom proizvodnje kao i lijek koji se plasira na tržište EU. (3) Za lijekove iz stava (1) ovog člana traži se i obavezno dostavljanje dozvole (autorizacije) Evropske komisije (za \"CP\" ), odnosno referentne države (za \"DP\" ili \"MRP\" ) u okviru priložene dokumentacije. Član 33. (1) Kod lijekova koji nisu prošli \"CP\" , \"MRP\" ili \"DP\" , postupak davanja dozvole za stavljanje lijeka u promet trajaće 210 dana u skladu sa članom 37. Zakona, a Komisija za lijekove će ocjenjivati dokumentaciju. (2) Kod lijekova koji su prošli \"CP\" , \"MRP\" ili \"DP\" i uz to su donijeli dodatnu dokumentaciju iz člana 32. ovog Pravilnika, postupak će trajati 150 dana, a Komisija za lijekove će ocjenjivati kvalitet, sigurnost i efikasnost lijeka kroz ocjenu \"Assesment report\" . (3) Agencija utvrđuje ispravnost i potpunost podnesenog zahtjeva i procjenjuje dostavljenu dokumentaciju o lijeku u skladu sa odredbama Zakona i ovog Pravilnika. (4) Ako Agencija utvrdi da zahtjev za davanje dozvole nije formalno-pravno potpun zatražiće od podnositelja zahtjeva da, u roku kojeg odredi Agencija, zahtjev dopuni. (5) Ako podnositelj zahtjeva u roku iz stava (2) ovog člana ne dopuni ili ispravi zahtjev, odnosno ne dostavi dodatnu dokumentaciju ili odgovarajuće obrazloženje, Agencija će zahtjev odbaciti zaključkom protiv kojeg nije dopuštena žalba već se protiv tog zaključka može pokrenuti upravni spor. (6) Agencija može tokom postupka davanja dozvole za stavljanje lijeka u promet pisanim putem od podnositelja zahtjeva zatražiti dodatnu dokumentaciju ili odgovarajuće obrazloženje za što mu može odrediti rok. (7) Podnositelj zahtjeva obavezan je dostaviti, na traženje Agencije, uzorke lijeka i/ili referentne standarde u roku koji odredi Agencija.",
+        "feature_tags": [
+          "reports",
+          "sameness",
+          "manufacture_location",
+          "decision_clock",
+          "scope_limit",
+          "discretion"
+        ],
+        "role": "Articles 32–33",
+        "language": "bs",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "Articles 32–33 require the foreign assessment report, authorisation and declarations of identical dossier, product and manufacturing site. They specify 150 days for qualifying European-reviewed products versus 210 days otherwise. The national commission evaluates quality, safety and efficacy through the assessment report and may request additional documentation.",
+        "version_alignment": "Official Gazette preserved rulebook version; full amendment chain and operative start not inferred from retrieval date.",
+        "evidence_tier": "national_rule",
+        "section_article": "Articles 32–33",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "BIH-CONTEXT-1",
+        "source_url": "https://www.sluzbenilist.ba/page/akt/7iXyEjXU2IQ%3D",
+        "raw_sha256": "4a9866409e82e93996f7ac28f9c4121248098cd191ef3fde7041fe87533ced1d",
+        "text_sha256": "cd6f39c8ac74ef30e5aec9733a78683ba859fff905927962767d0996697c7260",
+        "start_offset": 31193,
+        "end_offset": 35393,
+        "verbatim_extracted_text": "Dokumentacija za vakcine mora da sadrži podatke o antigenu vakcina u Modulu 3\n\"CTD\"\n-oblika ili u dijelu IIC\n\"EU\"\n-dosijea ili u odvojenoj glavnoj dokumentaciji o antigenu vakcina (\n\"Vaccine Antigen Master File\"\n-\nVAMF\n), izuzev za vakcinu protiv gripe.\n(5)\tOdvojeni dio dokumentacije o antigenu vakcine sadrži potrebne podatke o biološkoj, farmaceutskoj, hemijskoj prirodi aktivne supstance tj. antigena vakcine za koju se traži dozvola za stavljanje u promet.\nČlan 31.\nAko gotov lijek sadrži kombinaciju lijeka i medicinskog sredstva koje omogućava primjenu lijeka i s lijekom čini cjelovit proizvod, prilaže se dokumentacija za medicinsko sredstvo kojom se potvrđuje kvalitet, sigurnost i efikasnost tog medicinskog sredstva ili važeći \"CE\" znak.\nČlan 32.\n(1)\tU postupku davanja dozvole za stavljanje lijeka u promet u BiH za lijekove kojima se dozvola za stavljanje u promet izdaje centralizovanim postupkom (u daljnjem tekstu:\n\"CP\"\n) u\n\"EMA\"\n, decentralizovanim postupkom (u daljnjem tekstu:\n\"DP\"\n) ili postupkom međusobnog priznavanja (u daljnjem tekstu:\n\"MRP\"\n) u državama EU, traži se obavezno dostavljanje dokumenta\n\"Assesment report\"\nu okviru priložene dokumentacije.\n(2)\tZa lijekove iz stava (1) ovog člana potrebno je priložiti i izjavu da je dostavljena dokumentacija identična dokumentaciji koja je bila priložena u\n\"EMA\"\n(za\n\"CP\"\n), ili referentnoj državi (za\n\"DP\"\n,\n\"MRP\"\n), kao i izjavu da je lijek koji se plasira na tržište BiH identičan i sa istim mjestom proizvodnje kao i lijek koji se plasira na tržište EU.\n(3)\tZa lijekove iz stava (1) ovog člana traži se i obavezno dostavljanje dozvole (autorizacije) Evropske komisije (za\n\"CP\"\n), odnosno referentne države (za\n\"DP\"\nili\n\"MRP\"\n) u okviru priložene dokumentacije.\nČlan 33.\n(1)\tKod lijekova koji nisu prošli\n\"CP\"\n,\n\"MRP\"\nili\n\"DP\"\n, postupak davanja dozvole za stavljanje lijeka u promet trajaće 210 dana u skladu sa članom 37. Zakona, a Komisija za lijekove će ocjenjivati dokumentaciju.\n(2)\tKod lijekova koji su prošli\n\"CP\"\n,\n\"MRP\"\nili\n\"DP\"\ni uz to su donijeli dodatnu dokumentaciju iz člana 32. ovog Pravilnika, postupak će trajati 150 dana, a Komisija za lijekove će ocjenjivati kvalitet, sigurnost i efikasnost lijeka kroz ocjenu\n\"Assesment report\"\n.\n(3)\tAgencija utvrđuje ispravnost i potpunost podnesenog zahtjeva i procjenjuje dostavljenu dokumentaciju o lijeku u skladu sa odredbama Zakona i ovog Pravilnika.\n(4)\tAko Agencija utvrdi da zahtjev za davanje dozvole nije formalno-pravno potpun zatražiće od podnositelja zahtjeva da, u roku kojeg odredi Agencija, zahtjev dopuni.\n(5)\tAko podnositelj zahtjeva u roku iz stava (2) ovog člana ne dopuni ili ispravi zahtjev, odnosno ne dostavi dodatnu dokumentaciju ili odgovarajuće obrazloženje, Agencija će zahtjev odbaciti zaključkom protiv kojeg nije dopuštena žalba već se protiv tog zaključka može pokrenuti upravni spor.\n(6)\tAgencija može tokom postupka davanja dozvole za stavljanje lijeka u promet pisanim putem od podnositelja zahtjeva zatražiti dodatnu dokumentaciju ili odgovarajuće obrazloženje za što mu može odrediti rok.\n(7)\tPodnositelj zahtjeva obavezan je dostaviti, na traženje Agencije, uzorke lijeka i/ili referentne standarde u roku koji odredi Agencija.\nČlan 34.\n(1)\tDozvola za stavljanje lijeka u promet sadrži sljedeće podatke:\na)\tnaziv i adresa nositelja dozvole za stavljanje lijeka u promet;\nb)\tnaziv gotovog lijeka;\nc)\tnaziv i adresa proizvođača (administrativno sjedište);\nd)\tnaziv i adresa proizvođača gotovog lijeka (mjesto proizvodnje gotovog lijeka);\ne)\tinternacionalni nezaštićen naziv (\n\"INN\"\n) na latinskom jeziku ili na jednom od jezika koji su u službenoj upotrebi u BiH;\nf)\n\"ATC\"\n-kod;\ng)\tfarmaceutski oblik;\nh)\tkvalitativni i kvantitativni sastav aktivne/ih supstanci;\ni)\tdoza po jedinici mjere;\nj)\tvrsta i veličina pakovanja;\nk)\trok važenja dozvole,\nl)\trežim izdavanja lijeka,\nm)\tposebne oznake,\nn)\n\"EAN\"\n-kod.\n(2)\tSastavni dio dozvole iz stava (1) ovog člana je odobreni Sažetak glavnih karakteristika lijeka, Uputstvo za pacijenta i odobren prijedlog pakovanja lijeka ili već izrađeno pakovanje lijeka na jednom od jezika koji su u službenoj upotrebi u BiH.\nČlan 35.\n(1)\tNakon dobijanja dozvole za stavljanje lijeka u promet nositelj",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "bs",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Official Gazette preserved rulebook version; full amendment chain and operative start not inferred from retrieval date."
+      }
+    ],
+    "review_details": {
+      "iso3": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "selected_document_id": "F250_68928a030efc4e7586fb_4a9866409e82",
+      "source_id": "F250_68928a030efc4e7586fb",
+      "pathway": "Shorter evaluation following European CP/MRP/DCP approval",
+      "source_url": "https://www.sluzbenilist.ba/page/akt/7iXyEjXU2IQ%3D",
+      "document_title": "Bosnia and Herzegovina rulebook on marketing authorisation, Articles 32–33",
+      "source_type": "Official Gazette rulebook",
+      "scope": "Human-medicine authorisation",
+      "language": "bs",
+      "translation_provenance": "Original-language contextual interpretation; no unchecked machine translation treated as authoritative",
+      "raw_sha256": "4a9866409e82e93996f7ac28f9c4121248098cd191ef3fde7041fe87533ced1d",
+      "raw_hash_validated": true,
+      "text_sha256": "cd6f39c8ac74ef30e5aec9733a78683ba859fff905927962767d0996697c7260",
+      "version_dates": {},
+      "version_scope_note": "Bosnia and Herzegovina registration rule Arts 32–33. This is EU-report-based 150 day assessment, not a foreign approval taking automatic national effect.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          31193,
+          35393
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "EMA-centralised, EU MRP or DCP approval can support shortened assessment.",
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Qualifying EU approval; FDA alone does not meet this selected EU-route criterion.",
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Product must be on EU market in the form and manufacturing site submitted.",
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Declaration of identical dossier, same product on EU market and same manufacturing site required.",
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Assessment report of the foreign EU procedure required; no express unredacted/nonpublic qualification in reviewed provisions.",
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Commission evaluates quality, safety and efficacy on the assessment report; samples and further information may be required.",
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "150 days under shortened route versus 210 normal; no realised delay inference.",
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected recognition pathway on fixed facts",
+          "finding": "FDA-only lacks the specified EMA/EU MRP/DCP approval; normal national assessment remains separate.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BIH-R01",
+            "BIH-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "BIH-R01",
+          "iso3": "BIH",
+          "event_id": null,
+          "document_id": "F250_68928a030efc4e7586fb_4a9866409e82",
+          "source_id": "F250_68928a030efc4e7586fb",
+          "source_url": "https://www.sluzbenilist.ba/page/akt/7iXyEjXU2IQ%3D",
+          "raw_sha256": "4a9866409e82e93996f7ac28f9c4121248098cd191ef3fde7041fe87533ced1d",
+          "text_sha256": "cd6f39c8ac74ef30e5aec9733a78683ba859fff905927962767d0996697c7260",
+          "start_offset": 31943,
+          "end_offset": 34393,
+          "pdf_page": null,
+          "verbatim_extracted_text": "Član 32.\n(1)\tU postupku davanja dozvole za stavljanje lijeka u promet u BiH za lijekove kojima se dozvola za stavljanje u promet izdaje centralizovanim postupkom (u daljnjem tekstu:\n\"CP\"\n) u\n\"EMA\"\n, decentralizovanim postupkom (u daljnjem tekstu:\n\"DP\"\n) ili postupkom međusobnog priznavanja (u daljnjem tekstu:\n\"MRP\"\n) u državama EU, traži se obavezno dostavljanje dokumenta\n\"Assesment report\"\nu okviru priložene dokumentacije.\n(2)\tZa lijekove iz stava (1) ovog člana potrebno je priložiti i izjavu da je dostavljena dokumentacija identična dokumentaciji koja je bila priložena u\n\"EMA\"\n(za\n\"CP\"\n), ili referentnoj državi (za\n\"DP\"\n,\n\"MRP\"\n), kao i izjavu da je lijek koji se plasira na tržište BiH identičan i sa istim mjestom proizvodnje kao i lijek koji se plasira na tržište EU.\n(3)\tZa lijekove iz stava (1) ovog člana traži se i obavezno dostavljanje dozvole (autorizacije) Evropske komisije (za\n\"CP\"\n), odnosno referentne države (za\n\"DP\"\nili\n\"MRP\"\n) u okviru priložene dokumentacije.\nČlan 33.\n(1)\tKod lijekova koji nisu prošli\n\"CP\"\n,\n\"MRP\"\nili\n\"DP\"\n, postupak davanja dozvole za stavljanje lijeka u promet trajaće 210 dana u skladu sa članom 37. Zakona, a Komisija za lijekove će ocjenjivati dokumentaciju.\n(2)\tKod lijekova koji su prošli\n\"CP\"\n,\n\"MRP\"\nili\n\"DP\"\ni uz to su donijeli dodatnu dokumentaciju iz člana 32. ovog Pravilnika, postupak će trajati 150 dana, a Komisija za lijekove će ocjenjivati kvalitet, sigurnost i efikasnost lijeka kroz ocjenu\n\"Assesment report\"\n.\n(3)\tAgencija utvrđuje ispravnost i potpunost podnesenog zahtjeva i procjenjuje dostavljenu dokumentaciju o lijeku u skladu sa odredbama Zakona i ovog Pravilnika.\n(4)\tAko Agencija utvrdi da zahtjev za davanje dozvole nije formalno-pravno potpun zatražiće od podnositelja zahtjeva da, u roku kojeg odredi Agencija, zahtjev dopuni.\n(5)\tAko podnositelj zahtjeva u roku iz stava (2) ovog člana ne dopuni ili ispravi zahtjev, odnosno ne dostavi dodatnu dokumentaciju ili odgovarajuće obrazloženje, Agencija će zahtjev odbaciti zaključkom protiv kojeg nije dopuštena žalba već se protiv tog zaključka može pokrenuti upravni spor.\n(6)\tAgencija može tokom postupka davanja dozvole za stavljanje lijeka u promet pisanim putem od podnositelja zahtjeva zatražiti dodatnu dokumentaciju ili odgovarajuće obrazloženje za što mu može odrediti rok.\n(7)\tPodnositelj zahtjeva obavezan je dostaviti, na traženje Agencije, uzorke lijeka i/ili referentne standarde u roku koji odredi Agencija.\n",
+          "display_text": "Član 32. (1) U postupku davanja dozvole za stavljanje lijeka u promet u BiH za lijekove kojima se dozvola za stavljanje u promet izdaje centralizovanim postupkom (u daljnjem tekstu: \"CP\" ) u \"EMA\" , decentralizovanim postupkom (u daljnjem tekstu: \"DP\" ) ili postupkom međusobnog priznavanja (u daljnjem tekstu: \"MRP\" ) u državama EU, traži se obavezno dostavljanje dokumenta \"Assesment report\" u okviru priložene dokumentacije. (2) Za lijekove iz stava (1) ovog člana potrebno je priložiti i izjavu da je dostavljena dokumentacija identična dokumentaciji koja je bila priložena u \"EMA\" (za \"CP\" ), ili referentnoj državi (za \"DP\" , \"MRP\" ), kao i izjavu da je lijek koji se plasira na tržište BiH identičan i sa istim mjestom proizvodnje kao i lijek koji se plasira na tržište EU. (3) Za lijekove iz stava (1) ovog člana traži se i obavezno dostavljanje dozvole (autorizacije) Evropske komisije (za \"CP\" ), odnosno referentne države (za \"DP\" ili \"MRP\" ) u okviru priložene dokumentacije. Član 33. (1) Kod lijekova koji nisu prošli \"CP\" , \"MRP\" ili \"DP\" , postupak davanja dozvole za stavljanje lijeka u promet trajaće 210 dana u skladu sa članom 37. Zakona, a Komisija za lijekove će ocjenjivati dokumentaciju. (2) Kod lijekova koji su prošli \"CP\" , \"MRP\" ili \"DP\" i uz to su donijeli dodatnu dokumentaciju iz člana 32. ovog Pravilnika, postupak će trajati 150 dana, a Komisija za lijekove će ocjenjivati kvalitet, sigurnost i efikasnost lijeka kroz ocjenu \"Assesment report\" . (3) Agencija utvrđuje ispravnost i potpunost podnesenog zahtjeva i procjenjuje dostavljenu dokumentaciju o lijeku u skladu sa odredbama Zakona i ovog Pravilnika. (4) Ako Agencija utvrdi da zahtjev za davanje dozvole nije formalno-pravno potpun zatražiće od podnositelja zahtjeva da, u roku kojeg odredi Agencija, zahtjev dopuni. (5) Ako podnositelj zahtjeva u roku iz stava (2) ovog člana ne dopuni ili ispravi zahtjev, odnosno ne dostavi dodatnu dokumentaciju ili odgovarajuće obrazloženje, Agencija će zahtjev odbaciti zaključkom protiv kojeg nije dopuštena žalba već se protiv tog zaključka može pokrenuti upravni spor. (6) Agencija može tokom postupka davanja dozvole za stavljanje lijeka u promet pisanim putem od podnositelja zahtjeva zatražiti dodatnu dokumentaciju ili odgovarajuće obrazloženje za što mu može odrediti rok. (7) Podnositelj zahtjeva obavezan je dostaviti, na traženje Agencije, uzorke lijeka i/ili referentne standarde u roku koji odredi Agencija.",
+          "feature_tags": [
+            "reports",
+            "sameness",
+            "manufacture_location",
+            "decision_clock",
+            "scope_limit",
+            "discretion"
+          ],
+          "role": "Articles 32–33",
+          "language": "bs",
+          "language_status": "Original official-language source retained; no unchecked English translation displayed",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "Articles 32–33 require the foreign assessment report, authorisation and declarations of identical dossier, product and manufacturing site. They specify 150 days for qualifying European-reviewed products versus 210 days otherwise. The national commission evaluates quality, safety and efficacy through the assessment report and may request additional documentation.",
+          "version_alignment": "Official Gazette preserved rulebook version; full amendment chain and operative start not inferred from retrieval date.",
+          "evidence_tier": "national_rule",
+          "section_article": "Articles 32–33",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "BIH-CONTEXT-1",
+          "source_url": "https://www.sluzbenilist.ba/page/akt/7iXyEjXU2IQ%3D",
+          "raw_sha256": "4a9866409e82e93996f7ac28f9c4121248098cd191ef3fde7041fe87533ced1d",
+          "text_sha256": "cd6f39c8ac74ef30e5aec9733a78683ba859fff905927962767d0996697c7260",
+          "start_offset": 31193,
+          "end_offset": 35393,
+          "verbatim_extracted_text": "Dokumentacija za vakcine mora da sadrži podatke o antigenu vakcina u Modulu 3\n\"CTD\"\n-oblika ili u dijelu IIC\n\"EU\"\n-dosijea ili u odvojenoj glavnoj dokumentaciji o antigenu vakcina (\n\"Vaccine Antigen Master File\"\n-\nVAMF\n), izuzev za vakcinu protiv gripe.\n(5)\tOdvojeni dio dokumentacije o antigenu vakcine sadrži potrebne podatke o biološkoj, farmaceutskoj, hemijskoj prirodi aktivne supstance tj. antigena vakcine za koju se traži dozvola za stavljanje u promet.\nČlan 31.\nAko gotov lijek sadrži kombinaciju lijeka i medicinskog sredstva koje omogućava primjenu lijeka i s lijekom čini cjelovit proizvod, prilaže se dokumentacija za medicinsko sredstvo kojom se potvrđuje kvalitet, sigurnost i efikasnost tog medicinskog sredstva ili važeći \"CE\" znak.\nČlan 32.\n(1)\tU postupku davanja dozvole za stavljanje lijeka u promet u BiH za lijekove kojima se dozvola za stavljanje u promet izdaje centralizovanim postupkom (u daljnjem tekstu:\n\"CP\"\n) u\n\"EMA\"\n, decentralizovanim postupkom (u daljnjem tekstu:\n\"DP\"\n) ili postupkom međusobnog priznavanja (u daljnjem tekstu:\n\"MRP\"\n) u državama EU, traži se obavezno dostavljanje dokumenta\n\"Assesment report\"\nu okviru priložene dokumentacije.\n(2)\tZa lijekove iz stava (1) ovog člana potrebno je priložiti i izjavu da je dostavljena dokumentacija identična dokumentaciji koja je bila priložena u\n\"EMA\"\n(za\n\"CP\"\n), ili referentnoj državi (za\n\"DP\"\n,\n\"MRP\"\n), kao i izjavu da je lijek koji se plasira na tržište BiH identičan i sa istim mjestom proizvodnje kao i lijek koji se plasira na tržište EU.\n(3)\tZa lijekove iz stava (1) ovog člana traži se i obavezno dostavljanje dozvole (autorizacije) Evropske komisije (za\n\"CP\"\n), odnosno referentne države (za\n\"DP\"\nili\n\"MRP\"\n) u okviru priložene dokumentacije.\nČlan 33.\n(1)\tKod lijekova koji nisu prošli\n\"CP\"\n,\n\"MRP\"\nili\n\"DP\"\n, postupak davanja dozvole za stavljanje lijeka u promet trajaće 210 dana u skladu sa članom 37. Zakona, a Komisija za lijekove će ocjenjivati dokumentaciju.\n(2)\tKod lijekova koji su prošli\n\"CP\"\n,\n\"MRP\"\nili\n\"DP\"\ni uz to su donijeli dodatnu dokumentaciju iz člana 32. ovog Pravilnika, postupak će trajati 150 dana, a Komisija za lijekove će ocjenjivati kvalitet, sigurnost i efikasnost lijeka kroz ocjenu\n\"Assesment report\"\n.\n(3)\tAgencija utvrđuje ispravnost i potpunost podnesenog zahtjeva i procjenjuje dostavljenu dokumentaciju o lijeku u skladu sa odredbama Zakona i ovog Pravilnika.\n(4)\tAko Agencija utvrdi da zahtjev za davanje dozvole nije formalno-pravno potpun zatražiće od podnositelja zahtjeva da, u roku kojeg odredi Agencija, zahtjev dopuni.\n(5)\tAko podnositelj zahtjeva u roku iz stava (2) ovog člana ne dopuni ili ispravi zahtjev, odnosno ne dostavi dodatnu dokumentaciju ili odgovarajuće obrazloženje, Agencija će zahtjev odbaciti zaključkom protiv kojeg nije dopuštena žalba već se protiv tog zaključka može pokrenuti upravni spor.\n(6)\tAgencija može tokom postupka davanja dozvole za stavljanje lijeka u promet pisanim putem od podnositelja zahtjeva zatražiti dodatnu dokumentaciju ili odgovarajuće obrazloženje za što mu može odrediti rok.\n(7)\tPodnositelj zahtjeva obavezan je dostaviti, na traženje Agencije, uzorke lijeka i/ili referentne standarde u roku koji odredi Agencija.\nČlan 34.\n(1)\tDozvola za stavljanje lijeka u promet sadrži sljedeće podatke:\na)\tnaziv i adresa nositelja dozvole za stavljanje lijeka u promet;\nb)\tnaziv gotovog lijeka;\nc)\tnaziv i adresa proizvođača (administrativno sjedište);\nd)\tnaziv i adresa proizvođača gotovog lijeka (mjesto proizvodnje gotovog lijeka);\ne)\tinternacionalni nezaštićen naziv (\n\"INN\"\n) na latinskom jeziku ili na jednom od jezika koji su u službenoj upotrebi u BiH;\nf)\n\"ATC\"\n-kod;\ng)\tfarmaceutski oblik;\nh)\tkvalitativni i kvantitativni sastav aktivne/ih supstanci;\ni)\tdoza po jedinici mjere;\nj)\tvrsta i veličina pakovanja;\nk)\trok važenja dozvole,\nl)\trežim izdavanja lijeka,\nm)\tposebne oznake,\nn)\n\"EAN\"\n-kod.\n(2)\tSastavni dio dozvole iz stava (1) ovog člana je odobreni Sažetak glavnih karakteristika lijeka, Uputstvo za pacijenta i odobren prijedlog pakovanja lijeka ili već izrađeno pakovanje lijeka na jednom od jezika koji su u službenoj upotrebi u BiH.\nČlan 35.\n(1)\tNakon dobijanja dozvole za stavljanje lijeka u promet nositelj",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "bs",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Official Gazette preserved rulebook version; full amendment chain and operative start not inferred from retrieval date."
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

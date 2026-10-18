@@ -1,0 +1,90 @@
+{
+  "status": "Contextual legal classifications checked against the two coding partitions and independent pilot; these sets are not NLP classifications or estimates of actual use",
+  "country_sets": {
+    "complete_report_gate": [
+      "AUS",
+      "DZA",
+      "GBR",
+      "NZL",
+      "PHL",
+      "SAU",
+      "SGP",
+      "TZA",
+      "ZAF"
+    ],
+    "nonpublic_report_or_public_domain_exclusion": [
+      "DZA",
+      "SAU"
+    ],
+    "second_approval_selected_route": [
+      "COL",
+      "EGY",
+      "HKG",
+      "ISR",
+      "LKA",
+      "NZL",
+      "PHL",
+      "SAU",
+      "SGP",
+      "TWN"
+    ],
+    "one_approval_alternative_described": [
+      "EGY",
+      "HKG",
+      "ISR",
+      "PHL",
+      "SAU",
+      "SGP"
+    ],
+    "ambiguous_additional_full_report_gate": [
+      "LKA"
+    ]
+  },
+  "notes": [
+    "The nine complete-report records establish a report-content requirement for an identified route compatible with, or conditionally assessable for, the fixed ordinary medicine. Other eligibility requirements remain. Some countries offer other routes, so these are not nine countries closed to the medicine.",
+    "Case A fixes information content: only public summaries are accessible to the domestic assessor, and the complete underlying package is unavailable through both applicant and information-sharing channels. Case B supplies the complete package with needed permissions. If A meant merely that the applicant personally lacked a report but the assessor could obtain it through an authorized sharing channel, some apparent A–B differences would disappear.",
+    "Nine is a conservative identified count, not proof that the remaining 80 have no full-report condition. Sri Lanka adds a possible tenth: its preserved guideline says 'full unreductant assessment report', while an earlier paragraph accepts a public report/CoPP as approval evidence. The malformed term and delivery requirement need clarification. Show 9 in the strict count and 10 in this interpretation sensitivity.",
+    "Algeria expressly requires a complete, nonpublic report without confidential information removed. Saudi Arabia expressly rejects public-domain reports while allowing certain irrelevant-to-quality/safety/efficacy redactions. These are different formulations of a nonpublic/public-source restriction. Other unredacted-report requirements are not automatically called categorical public-domain bans.",
+    "The ten multi-approval/multi-country rules concern identified pathway or scientific-review options. Colombia and Hong Kong count countries/places; Sri Lanka distinguishes new APIs/new combinations from other products. These are not ten identical rules requiring FDA plus EMA, and we do not assume two agency names always satisfy a two-country certificate requirement.",
+    "Six of those ten sources describe a one-approval alternative, often with different assessment or clinical conditions. FDA-only does not therefore imply that every reliance option is unavailable. The comparison does not claim these six fixed-drug cases meet every remaining alternative-route requirement.",
+    "Swiss Art13's preserved NAS restriction excludes the fixed nonorphan case; it is not counted as a report gate for this medicine. Canada and Mexico's company-dossier/data conditions are not counted as foreign regulator assessment-report gates. Gambia's European-public-report option and the exceptions in Egypt, Hong Kong, Israel and Malaysia are retained.",
+    "European Commission centralized authorization has shared territorial legal effect. A selected national MRP procedure may still require a national reference-state authorization, which the centralized authorization is not. Those facts are separately coded; no destination is called inaccessible just because the selected MRP route does not fit.",
+    "Primary denominator 89 is the preserved selected national pathway sample, not a probability sample of all 250 countries. Source genre, original language, shared legal systems and applicability are reported separately. Drafts, historical surveys and supplementary mirrors do not silently enter the main 89."
+  ],
+  "bar_series": [
+    {
+      "set": "complete_report_gate",
+      "label": "Complete underlying reports required for an identified route"
+    },
+    {
+      "set": "nonpublic_report_or_public_domain_exclusion",
+      "label": "Explicit nonpublic/public-source restriction"
+    },
+    {
+      "set": "second_approval_selected_route",
+      "label": "More-than-one-approval/country condition in an identified route"
+    },
+    {
+      "set": "one_approval_alternative_described",
+      "label": "One-approval alternative also described"
+    }
+  ],
+  "findings": [
+    {
+      "headline": "The approval and the underlying review are different regulatory assets.",
+      "explanation": "For nine selected route options—Algeria, Australia, New Zealand, the Philippines, Saudi Arabia, Singapore, South Africa, Tanzania and the UK—we establish a requirement for complete underlying assessment material. In the public-summary-only case that condition is unmet; supplying the complete package meets it, with other requirements still applying. Algeria explicitly asks for nonpublic material; Saudi Arabia explicitly excludes public-domain reports."
+    },
+    {
+      "headline": "A second approval can change the shortcut available, rather than simply open or close the market.",
+      "explanation": "Ten sources contain a multiple-approval or multiple-country condition for an identified option. Six also describe a one-approval alternative, subject to its own conditions. This means FDA-only and FDA-plus-European approval can lead to different assessment routes. It does not mean every country requires both, or that two agency approvals always equal two country registrations."
+    },
+    {
+      "headline": "Keeping the drug constant changes which rules actually apply.",
+      "explanation": "The fixed ordinary nonorphan new drug is outside the preserved Swiss Art13 shortcut for new active substances, which requires orphan designations. Australia's 18-month approval misses its shorter route's 12-month cutoff but can fall within another route's age window. A country's broad reliance label therefore cannot establish the treatment of every new drug."
+    },
+    {
+      "headline": "Shared authorization and national reliance are different institutions.",
+      "explanation": "European Commission authorization can already provide a shared EU/EEA authorization basis. A national mutual-recognition application has different reference requirements. Counting each member as a separate foreign-approval reform would overstate the number of independent policy changes."
+    }
+  ]
+}

@@ -180,5 +180,98 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SUR",
+    "country": "Suriname",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "extra_quality_evidence",
+    "fixed_case_scope_status": "quality_condition_only",
+    "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "SUR-Q01",
+        "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-indienen-van-registratie-dossiers-en-aanvragen-voor-importvergunningen-4.pdf",
+        "raw_sha256": "25c165670c31b1a4cefab7d0d9abf693913329d6d73e88ef7705ac5f650c89e9",
+        "text_sha256": "33e333acb26cbc46fe1dfd14bb594c30cbcb5e7d0d18185ba93ddc40280aa3fd",
+        "start_offset": 2608,
+        "end_offset": 4496,
+        "verbatim_extracted_text": "1. voor opname van verpakte geneesmiddelen in het Register en/of\n\n2. voor een importvergunning van verpakte geneesmiddelen,\nin het geval dat de fabrikant der middelen deze niet heeft geregistreerd en/of niet in de handel heeft\ngebracht in een “highly regulated”! land, gebruik maken van hun bevoegdheid om aanvullende\ninformatie op te vragen.\n\nDie aanvullende informatie zal in elk geval bestaan uit een analyserapport van betreffende verpakte\ngeneesmiddelen, afkomstig van een onafhankelijk, door de regulatie autoriteiten van het land van\nbereiding aantoonbaar goedgekeurd laboratorium, die moet voldoen aan de geldende Good\nLaboratory Practice (GLP) richtlijnen (bijvoorbeeld WHO prequalified, ISO 17025\ngeaccrediteerd, OECD principles of GLP and Compliance Monitoring of OMCL (Official\nMedicine Control Laboratory). Uit het analyserapport dient te blijken dat het verpakte\ngeneesmiddel voldoet aan de specificaties vermeld in het registratiedossier en is van toepassing op\nelke batch van het geneesmiddel waarvoor een aanvraag voor registratie is ingediend.\n\nDeze voorwaarde voor aanvullende informatie geldt ook voor het importeren van producten die\ngeregistreerd zijn in een “higly regulated” land en waarbij de productie plaatsvindt in een\nproductiefaciliteit anders dan de specificaties in het registratiedossier.\n\nEr zij op gewezen dat de RC en FI, fabrikanten die geneesmiddelen produceren, die niet\n\ngeregistreerd en/of niet in de handel in een “highly regulated” land zijn, kunnen afzien van de\n\nverplichting tot het overleggen van aanvullend kwaliteitsbewijs, als het gaat om verpakte\n\ngeneesmiddelen die\n\n- al langere tijd zijn geregistreerd in Suriname en al meerdere malen in Suriname zijn\ngeïmporteerd en op markt gebracht en:\n\n- zonder bekende kwaliteitsproblemen zijn gebruikt.\n\nRC en FI zullen hierbij op basis van hun professionele expertise een risicoafweging maken.",
+        "pdf_page": 2,
+        "language": "nl",
+        "language_status": "Official original-language source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Ministry instruction DVG-189, 19 February 2025; original scan",
+        "translation_review": {
+          "id": "SUR-Q01",
+          "source_language": "nl",
+          "source_text": "1. voor opname van verpakte geneesmiddelen in het Register en/of\n\n2. voor een importvergunning van verpakte geneesmiddelen,\nin het geval dat de fabrikant der middelen deze niet heeft geregistreerd en/of niet in de handel heeft\ngebracht in een “highly regulated”! land, gebruik maken van hun bevoegdheid om aanvullende\ninformatie op te vragen.\n\nDie aanvullende informatie zal in elk geval bestaan uit een analyserapport van betreffende verpakte\ngeneesmiddelen, afkomstig van een onafhankelijk, door de regulatie autoriteiten van het land van\nbereiding aantoonbaar goedgekeurd laboratorium, die moet voldoen aan de geldende Good\nLaboratory Practice (GLP) richtlijnen (bijvoorbeeld WHO prequalified, ISO 17025\ngeaccrediteerd, OECD principles of GLP and Compliance Monitoring of OMCL (Official\nMedicine Control Laboratory). Uit het analyserapport dient te blijken dat het verpakte\ngeneesmiddel voldoet aan de specificaties vermeld in het registratiedossier en is van toepassing op\nelke batch van het geneesmiddel waarvoor een aanvraag voor registratie is ingediend.\n\nDeze voorwaarde voor aanvullende informatie geldt ook voor het importeren van producten die\ngeregistreerd zijn in een “higly regulated” land en waarbij de productie plaatsvindt in een\nproductiefaciliteit anders dan de specificaties in het registratiedossier.\n\nEr zij op gewezen dat de RC en FI, fabrikanten die geneesmiddelen produceren, die niet\n\ngeregistreerd en/of niet in de handel in een “highly regulated” land zijn, kunnen afzien van de\n\nverplichting tot het overleggen van aanvullend kwaliteitsbewijs, als het gaat om verpakte\n\ngeneesmiddelen die\n\n- al langere tijd zijn geregistreerd in Suriname en al meerdere malen in Suriname zijn\ngeïmporteerd en op markt gebracht en:\n\n- zonder bekende kwaliteitsproblemen zijn gebruikt.\n\nRC en FI zullen hierbij op basis van hun professionele expertise een risicoafweging maken.",
+          "document_id": "a859f94c09bde7445214",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "nl",
+            "model_version": "1.8",
+            "model_url": "https://argos-net.com/v1/translate-nl_en-1_8.argosmodel",
+            "model_sha256": "f49ac90c5812e0cb86a2858f4cfa61accec8709612728e6f805f0771c9a91e0e",
+            "model_bytes": 69944805,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.8",
+              "argos_version": "1.8",
+              "from_code": "nl",
+              "from_name": "Dutch",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "73b3469beafafaa5d607a4dae24a480afa3827724c8a4c3f9a234b054b572aef",
+          "translated_utc": "2026-10-18T00:50:41.164806+00:00",
+          "source_characters": 1888,
+          "segments": 6,
+          "raw_machine_translation": "1. for the inclusion of packaged medicinal products in the Register and/or 2. for an import licence of packaged medicinal products, in the event that the manufacturer of the products has not registered them and/or has not placed them on the market in a highly regulated veterinary medicinal product country, use their power to request additional information. In any event, that additional information will consist of an analytical report on packaged medicinal products from an independent laboratory approved by the regulatory authorities of the country of manufacture, which must comply with the applicable Good Laboratory Practice (GLP) guidelines (e.g. WHO prequalified, ISO 1702 accredited, OECD principles of GLP and Compliance Monitoring of OMCL). The analytical report shall show that the packaged medicinal product complies with the specifications set out in the registration dossier and shall apply to each batch of the medicinal product for which an application for registration has been submitted.  This condition for additional information also applies to the import of products registered in a regurgitated regulated product country where production takes place in a production facility other than the specifications in the registration file.  It should be noted that the RC and FI, manufacturers producing medicinal products, who are not registered and/or are not in trade in a highly regulated country, may waive the obligation to provide additional quality certificates in the case of packaged medicinal products which have been registered for a long time in Suriname and have been imported and marketed several times in Suriname and: - have been used without known quality problems. RC and FI will make a risk weighting based on their professional expertise.",
+          "checked_translation": "1. For entry of packaged medicines in the Register and/or 2. for an import permit, where the manufacturer has not registered the products and/or placed them on the market in a highly regulated country, the Registration Committee and Pharmaceutical Inspectorate use their power to request additional information. This shall at least include an analytical report for the medicines from an independent laboratory demonstrably approved by the regulatory authorities of the country of manufacture, complying with applicable Good Laboratory Practice guidelines (for example WHO prequalified, ISO 17025 accredited, OECD GLP principles and compliance monitoring of Official Medicine Control Laboratories). The report must demonstrate compliance with the registration-dossier specifications and applies to every batch covered by the registration application. Additional information is also required for imports registered in a highly regulated country where the production facility differs from that specified in the dossier. The Committee and Inspectorate may waive additional quality evidence for manufacturers whose medicines are not registered and/or marketed in a highly regulated country where those medicines have long been registered in Suriname, have been imported and marketed there several times, and have been used without known quality problems. They make a risk assessment using professional expertise.",
+          "check_note": "Material repair: removed invented veterinary scope and 'regurgitated'; restored ISO 17025 and actor/object of waiver. Original page 2 visually checked. Interpretation limited to additional quality evidence.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.129613+00:00"
+        }
+      }
+    ],
+    "source_scope": "Additional quality evidence for registration/import permits; not automatic acceptance of a foreign scientific decision",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

@@ -254,5 +254,849 @@
     "source_hashes": [
       "ab1ca68c2f2ad9f412fa6f2e12ee101fa4583a3962e19474da74108be530aa55"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "DZA",
+    "country": "Algeria",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Agency-selected reliance with full dossier and national discretion",
+    "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+    "document_id": "F250_62100b0bf47adb981a74_5eed1e7a6704",
+    "genre": "Official guideline",
+    "language": "fr",
+    "scope": "Human-medicine authorisation",
+    "version_note": "ANPP guidelineLD-DEPP 08/V 01 dated 22 April 2026. ANPP evaluates reliance automatically at admissibility, not on explicit applicant request. Section 5.3 expressly requires complete, nonpublic, unredacted assessment reports. Routine and emergency timelines remain distinct.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "FDA/EMA eligibility requires incorporated recognised-authority list, not reproduced here.",
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Prior approval by a recognised foreign authority is a condition.",
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Full identical foreign-approvedCTD and sameness declaration required.",
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Complete nonpublic unredacted foreign assessment reports mandatory together with identical full CTD and authorisation.",
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "explicit requirement",
+        "finding": "Guideline expressly requires complete nonpublic unredacted regulatory reports.",
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ]
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "explicit requirement",
+        "finding": "Public reports alone fail express nonpublic unredacted requirement.",
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Not a full de novo assessment, but modules/local-context checks and additional information remain.",
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "30 days extendable 30 applies emergency; fixed nonemergency case follows conventional registration time.",
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Section 5.1.1 says reliance is NOT triggered by an explicit applicant request: ANPP evaluates it automatically at dossier admissibility and may still conduct full review. Final decision remains national.",
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "explicitly ineligible for identified full-report route",
+        "finding": "Public material lacks expressly required complete nonpublic unredacted reports.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ],
+        "status": "explicitly ineligible for identified full-report route"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full reports satisfy report condition; recognised-authority-list eligibility and residual national conditions remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "DZA-WEB01",
+          "DZA-WEB02",
+          "DZA-CONTEXT-1",
+          "DZA-CONTEXT-2",
+          "DZA-CTX-1",
+          "DZA-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "DZA-WEB01",
+        "iso3": "DZA",
+        "event_id": null,
+        "document_id": "F250_62100b0bf47adb981a74_5eed1e7a6704",
+        "source_id": "F250_62100b0bf47adb981a74",
+        "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+        "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+        "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+        "start_offset": 3350,
+        "end_offset": 5611,
+        "pdf_page": 3,
+        "verbatim_extracted_text": "1. Objet \nLa décision d’enregistrement d’un produit pharmaceutique peut être accordée, dans certaines conditions \nprévues par la réglementation, selon une voie alternative d’évaluation appelée procédure d’évaluation \nabrégée. \n \nL’ANPP considère que le recours à l’évaluation effectuée par d’autres autorités réglementaires constitue \nun levier bénéfique pour les patients, l’industrie pharmaceutique et les autorités réglementaires, en \npermettant de faciliter et d’accélérer l’accès à des produits pharmaceutiques de qualité garantie, efficaces \net sûrs, tout en optimisant l’utilisation des ressources et en allégeant la charge de travail des évaluateurs \nde l’ANPP. \n \nLe présent document vise à promouvoir une approche efficiente de l’enregistrement des produits \npharmaceutiques ainsi que de la modification des décisions d’enregistrement, tout en assurant le maintien \ndes exigences relatives à la qualité, à l’efficacité et à la sécurité des produits pharmaceutiques. Il définit \nles principes et les modalités d’application de la confiance réglementaire et de la reconnaissance, tels \nqu’adoptés et mis en œuvre par l’ANPP dans le cadre de l’enregistrement et de la modification des \ndécisions d’enregistrement des produits pharmaceutiques. \n2. \nDomaine d’application  \n \nLa présente ligne directrice s’applique à certains médicaments de différentes natures (issus de la synthèse \nchimique, biologiques, biotechnologiques ou biosimilaires) et de différentes origines (fabrication locale \nou importation), notamment : \n- \nLes médicaments indiqués dans des situations d’urgence sanitaire ; \n- \nLes demandes d’enregistrement ainsi qu’aux demandes de modification des décisions \nd’enregistrement de produits pharmaceutiques ayant déjà été approuvés par des autorités de \nréglementation nationales ou régionales, ainsi que par des organisations régionales ou \ninternationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au \nniveau national. \n \n\n\nPAGE 4\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 4 sur 10 \n \n",
+        "display_text": "1. Objet La décision d’enregistrement d’un produit pharmaceutique peut être accordée, dans certaines conditions prévues par la réglementation, selon une voie alternative d’évaluation appelée procédure d’évaluation abrégée. L’ANPP considère que le recours à l’évaluation effectuée par d’autres autorités réglementaires constitue un levier bénéfique pour les patients, l’industrie pharmaceutique et les autorités réglementaires, en permettant de faciliter et d’accélérer l’accès à des produits pharmaceutiques de qualité garantie, efficaces et sûrs, tout en optimisant l’utilisation des ressources et en allégeant la charge de travail des évaluateurs de l’ANPP. Le présent document vise à promouvoir une approche efficiente de l’enregistrement des produits pharmaceutiques ainsi que de la modification des décisions d’enregistrement, tout en assurant le maintien des exigences relatives à la qualité, à l’efficacité et à la sécurité des produits pharmaceutiques. Il définit les principes et les modalités d’application de la confiance réglementaire et de la reconnaissance, tels qu’adoptés et mis en œuvre par l’ANPP dans le cadre de l’enregistrement et de la modification des décisions d’enregistrement des produits pharmaceutiques. 2. Domaine d’application La présente ligne directrice s’applique à certains médicaments de différentes natures (issus de la synthèse chimique, biologiques, biotechnologiques ou biosimilaires) et de différentes origines (fabrication locale ou importation), notamment : - Les médicaments indiqués dans des situations d’urgence sanitaire ; - Les demandes d’enregistrement ainsi qu’aux demandes de modification des décisions d’enregistrement de produits pharmaceutiques ayant déjà été approuvés par des autorités de réglementation nationales ou régionales, ainsi que par des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au niveau national. PAGE 4 LIGNE DIRECTRICE Code : LD-DEPP08/V01 LIGNE DIRECTRICE SUR LA VOIE ALTERNATIVE : CONFIANCE REGLEMENTAIRE ET RECONNAISSANCE LORS DE L’ENREGITREMENT ET LA MODIFICATION DE LA DECISION D’ENREGISTREMENT DES PRODUITS PHARMACEUTIQUES Date :22/04/2026 Page 4 sur 10",
+        "feature_tags": [
+          "scope_limit"
+        ],
+        "role": "Sections 1–2: permission and scope",
+        "language": "fr",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "ANPP selects the route at dossier admissibility, retains full review and requires a complete same CTD plus unredacted non-public assessment reports. The 30-day report clock concerns health emergencies; other eligible products retain conventional evaluation deadlines.",
+        "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates.",
+        "evidence_tier": "national_rule",
+        "section_article": "Sections 1–2: permission and scope",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "DZA-WEB02",
+        "iso3": "DZA",
+        "event_id": null,
+        "document_id": "F250_62100b0bf47adb981a74_5eed1e7a6704",
+        "source_id": "F250_62100b0bf47adb981a74",
+        "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+        "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+        "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+        "start_offset": 10558,
+        "end_offset": 18223,
+        "pdf_page": 6,
+        "verbatim_extracted_text": "5.1.Discrétion de l’ANPP dans l’application de la confiance réglementaire ou de la reconnaissance et \nsouveraineté réglementaire \n5.1.1. Discrétion de l’ANPP \nL’approche de la confiance règlementaire et de la reconnaissance ne constitue pas une obligation pour \nl’ensemble des demandes d’enregistrement ou de modification des produits pharmaceutiques. La voie de \nla confiance règlementaire et de la reconnaissance n’est pas déclenchée sur demande explicite de \nl’établissement pharmaceutique ; elle est évaluée automatiquement par l’ANPP à la recevabilité du dossier. \nPar ailleurs, l’ANPP conserve le droit d’effectuer une évaluation complète lorsque cela est jugé nécessaire. \n5.1.2. Souveraineté réglementaire \n \nLa mise en œuvre de la confiance règlementaire et de la reconnaissance ne remet pas en cause la \nsouveraineté nationale. La décision finale d’octroi, de refus, de suspension ou de retrait d’une DE relève \nexclusivement de l’ANPP. \nL’ANPP reste indépendante, responsable des décisions qu’elle prend, même si elle s’appuie sur les \ndécisions, les évaluations et les informations d’autres autorités. \n \n \n5.2.Critère d’éligibilité à l’évaluation basée sur la confiance réglementaire ou de la reconnaissance  \nPour appliquer la procédure alternative d’évaluation basée sur le principe de la confiance réglementaire \nou de la reconnaissance, le produit doit disposer d'une autorisation de mise sur le marché (AMM) ou d'une \napprobation de modification délivrée par une autorité de réglementation nationale ou régionale, ainsi que \npar des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de \nla santé, reconnues au niveau national. Cette autorité sera considérée comme autorité de réglementation \nde référence dont les évaluations documentaires scientifiques seront prises en compte pour soutenir \n\n\nPAGE 7\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 7 sur 10 \n \nla décision d’enregistrement ou l’approbation des modifications tout en assurant la qualité, la sécurité et \nl’efficacité des produits pharmaceutiques. La liste de ces autorités est fixée par Décision du Ministère de \nl’Industrie Pharmaceutique. \n5.3.Documentation requise dans le cadre de la confiance réglementaire et la reconnaissance \nDossier CTD complet \nLe principe de confiance réglementaire ou de reconnaissance \nn'exonère pas le demandeur de la soumission d'un dossier \nd'enregistrement complet dans le format international \nharmonisé (CTD), conformément aux Lignes Directrices de \nl’ANPP en vigueur. \nLe dossier CTD doit être le même que celui soumis à l’autorité \nRéglementaire de référence. \nPreuve de l’approbation \nde l’autorité \nréglementaire de \nréférence \nL’AMM ou l’Approbation de la modification délivrée par une \nautorité de réglementation nationales ou régionales, ainsi que \npar \ndes \norganisations \nrégionales \nou \ninternationales \ncompétentes dans les domaines pharmaceutiques et de la santé, \nreconnues au niveau national, doit être fournie. \nAttestation de similarité \nLe demandeur doit justifier que le produit pharmaceutique \nsoumis à enregistrement ou pour modification est le même \nproduit que celui approuvé par l'autorité réglementaire de \nréférence tant dans sa composition, ses données relatives à la \nqualité que dans ses conditions d’autorisation. \nRapport d'évaluation \némanant de l’autorité \nréglementaire \nde \nréférence \nLe rapport d'évaluation complet, non public, non expurgé des \ninformations \nconfidentielles \némanant \nde \nl’autorité \nréglementaire de référence doit être fourni. \n\n\nPAGE 8\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 8 sur 10 \n \nLes \nrapports \nde \nPharmacovigilance \n   Ra - Rapport périodique actualisé de sécurité (PSURs) \n  -Rapport périodique d’évaluation du rapport bénéfice/risque \n(PBRERs) \n \n5.4.Étendue des données concernées par l’évaluation basée sur la confiance réglementaire et de la \nreconnaissance mutuelle \nDans le cadre de la confiance réglementaire et de la reconnaissance, l’évaluation ne sera pas complète \npuisqu’elle s’appuiera sur les conclusions de l’évaluation effectuée par l’autorité réglementaire de \nréférence. \nLes données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance \nconcernent : \n-Les données administratives, réglementaires et celles relatives à la prescription (Module 1) ; \n-Les données relatives à la qualité de(s) la (des) substance(s) active(s) et du produit fini (Module 3) ; \n-Les données relatives à la sécurité et à l'efficacité, notamment, les essais d'équivalences thérapeutiques \npour les médicaments génériques et les biothérapeutiques similaires (Module 4 et Module 5). \nAprès vérification de l’intégralité des données nécessaires à l’évaluation complète et après examen du \nrapport d’évaluation de l’autorité réglementaire de référence, l’ANPP peut notifier l’établissement \npharmaceutique demandeur pour apporter les compléments d’informations requis. \n5.5.Délai fixé pour une évaluation basée sur la confiance réglementaire et de la reconnaissance \nL’approche de la voie alternative : confiance réglementaire et de la reconnaissance permet d’accélérer \nl’évaluation tout en garantissant la qualité, la sécurité et l’efficacité du produit pharmaceutique. \nLes produits pharmaceutiques indiqués dans les situations d'urgence sanitaire doivent \nsubir une \névaluation abrégée, et les rapports d’évaluations doivent être finalisés dans un délai de trente (30) jours à \ncompter de la date de la programmation de l’évaluation scientifique du dossier d'enregistrement par le \nservice compétent de l’ANPP. Toutefois, le délai de l'évaluation abrégée peut être prorogé pour une \n\n\nPAGE 9\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 9 sur 10 \n \npériode de trente (30) jours lorsqu'il est demandé à l'établissement pharmaceutique de fournir tout \ncomplément d'information. \nLe délai d’évaluation tiendra également compte du caractère critique du produit pharmaceutique concerné. \nLes produits pharmaceutiques non indiqués dans les situations d'urgence sanitaire mais qui sont éligibles \nà une évaluation basée sur la confiance réglementaire et de la reconnaissance doivent subir une évaluation \ndans les délais conventionnels de l’enregistrement ou de la modification, et les rapports d’évaluations \ndoivent être finalisés dans le délai fixé par la réglementation en vigueur. \nLe directeur général de l’agence nationale des produits pharmaceutiques peut demander au comité des \nexperts cliniciens d’émettre un avis sur l'intérêt thérapeutique, l’efficacité, l’innocuité de tout produit \npharmaceutique à usage de la médecine humaine, dans le cadre de la procédure d’enregistrement ou de \nmodification de la décision d’enregistrement \nLa commission d’enregistrement est chargée d'émettre un avis, sur toute demande qui lui est soumise par \nle directeur général de l’agence nationale des produits pharmaceutiques, notamment, sur l’évaluation \nscientifique des bénéfices, des risques et de la valeur thérapeutique des produits pharmaceutiques. \n",
+        "display_text": "5.1.Discrétion de l’ANPP dans l’application de la confiance réglementaire ou de la reconnaissance et souveraineté réglementaire 5.1.1. Discrétion de l’ANPP L’approche de la confiance règlementaire et de la reconnaissance ne constitue pas une obligation pour l’ensemble des demandes d’enregistrement ou de modification des produits pharmaceutiques. La voie de la confiance règlementaire et de la reconnaissance n’est pas déclenchée sur demande explicite de l’établissement pharmaceutique ; elle est évaluée automatiquement par l’ANPP à la recevabilité du dossier. Par ailleurs, l’ANPP conserve le droit d’effectuer une évaluation complète lorsque cela est jugé nécessaire. 5.1.2. Souveraineté réglementaire La mise en œuvre de la confiance règlementaire et de la reconnaissance ne remet pas en cause la souveraineté nationale. La décision finale d’octroi, de refus, de suspension ou de retrait d’une DE relève exclusivement de l’ANPP. L’ANPP reste indépendante, responsable des décisions qu’elle prend, même si elle s’appuie sur les décisions, les évaluations et les informations d’autres autorités. 5.2.Critère d’éligibilité à l’évaluation basée sur la confiance réglementaire ou de la reconnaissance Pour appliquer la procédure alternative d’évaluation basée sur le principe de la confiance réglementaire ou de la reconnaissance, le produit doit disposer d'une autorisation de mise sur le marché (AMM) ou d'une approbation de modification délivrée par une autorité de réglementation nationale ou régionale, ainsi que par des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au niveau national. Cette autorité sera considérée comme autorité de réglementation de référence dont les évaluations documentaires scientifiques seront prises en compte pour soutenir PAGE 7 LIGNE DIRECTRICE Code : LD-DEPP08/V01 LIGNE DIRECTRICE SUR LA VOIE ALTERNATIVE : CONFIANCE REGLEMENTAIRE ET RECONNAISSANCE LORS DE L’ENREGITREMENT ET LA MODIFICATION DE LA DECISION D’ENREGISTREMENT DES PRODUITS PHARMACEUTIQUES Date :22/04/2026 Page 7 sur 10 la décision d’enregistrement ou l’approbation des modifications tout en assurant la qualité, la sécurité et l’efficacité des produits pharmaceutiques. La liste de ces autorités est fixée par Décision du Ministère de l’Industrie Pharmaceutique. 5.3.Documentation requise dans le cadre de la confiance réglementaire et la reconnaissance Dossier CTD complet Le principe de confiance réglementaire ou de reconnaissance n'exonère pas le demandeur de la soumission d'un dossier d'enregistrement complet dans le format international harmonisé (CTD), conformément aux Lignes Directrices de l’ANPP en vigueur. Le dossier CTD doit être le même que celui soumis à l’autorité Réglementaire de référence. Preuve de l’approbation de l’autorité réglementaire de référence L’AMM ou l’Approbation de la modification délivrée par une autorité de réglementation nationales ou régionales, ainsi que par des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au niveau national, doit être fournie. Attestation de similarité Le demandeur doit justifier que le produit pharmaceutique soumis à enregistrement ou pour modification est le même produit que celui approuvé par l'autorité réglementaire de référence tant dans sa composition, ses données relatives à la qualité que dans ses conditions d’autorisation. Rapport d'évaluation émanant de l’autorité réglementaire de référence Le rapport d'évaluation complet, non public, non expurgé des informations confidentielles émanant de l’autorité réglementaire de référence doit être fourni. PAGE 8 LIGNE DIRECTRICE Code : LD-DEPP08/V01 LIGNE DIRECTRICE SUR LA VOIE ALTERNATIVE : CONFIANCE REGLEMENTAIRE ET RECONNAISSANCE LORS DE L’ENREGITREMENT ET LA MODIFICATION DE LA DECISION D’ENREGISTREMENT DES PRODUITS PHARMACEUTIQUES Date :22/04/2026 Page 8 sur 10 Les rapports de Pharmacovigilance Ra - Rapport périodique actualisé de sécurité (PSURs) -Rapport périodique d’évaluation du rapport bénéfice/risque (PBRERs) 5.4.Étendue des données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance mutuelle Dans le cadre de la confiance réglementaire et de la reconnaissance, l’évaluation ne sera pas complète puisqu’elle s’appuiera sur les conclusions de l’évaluation effectuée par l’autorité réglementaire de référence. Les données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance concernent : -Les données administratives, réglementaires et celles relatives à la prescription (Module 1) ; -Les données relatives à la qualité de(s) la (des) substance(s) active(s) et du produit fini (Module 3) ; -Les données relatives à la sécurité et à l'efficacité, notamment, les essais d'équivalences thérapeutiques pour les médicaments génériques et les biothérapeutiques similaires (Module 4 et Module 5). Après vérification de l’intégralité des données nécessaires à l’évaluation complète et après examen du rapport d’évaluation de l’autorité réglementaire de référence, l’ANPP peut notifier l’établissement pharmaceutique demandeur pour apporter les compléments d’informations requis. 5.5.Délai fixé pour une évaluation basée sur la confiance réglementaire et de la reconnaissance L’approche de la voie alternative : confiance réglementaire et de la reconnaissance permet d’accélérer l’évaluation tout en garantissant la qualité, la sécurité et l’efficacité du produit pharmaceutique. Les produits pharmaceutiques indiqués dans les situations d'urgence sanitaire doivent subir une évaluation abrégée, et les rapports d’évaluations doivent être finalisés dans un délai de trente (30) jours à compter de la date de la programmation de l’évaluation scientifique du dossier d'enregistrement par le service compétent de l’ANPP. Toutefois, le délai de l'évaluation abrégée peut être prorogé pour une PAGE 9 LIGNE DIRECTRICE Code : LD-DEPP08/V01 LIGNE DIRECTRICE SUR LA VOIE ALTERNATIVE : CONFIANCE REGLEMENTAIRE ET RECONNAISSANCE LORS DE L’ENREGITREMENT ET LA MODIFICATION DE LA DECISION D’ENREGISTREMENT DES PRODUITS PHARMACEUTIQUES Date :22/04/2026 Page 9 sur 10 période de trente (30) jours lorsqu'il est demandé à l'établissement pharmaceutique de fournir tout complément d'information. Le délai d’évaluation tiendra également compte du caractère critique du produit pharmaceutique concerné. Les produits pharmaceutiques non indiqués dans les situations d'urgence sanitaire mais qui sont éligibles à une évaluation basée sur la confiance réglementaire et de la reconnaissance doivent subir une évaluation dans les délais conventionnels de l’enregistrement ou de la modification, et les rapports d’évaluations doivent être finalisés dans le délai fixé par la réglementation en vigueur. Le directeur général de l’agence nationale des produits pharmaceutiques peut demander au comité des experts cliniciens d’émettre un avis sur l'intérêt thérapeutique, l’efficacité, l’innocuité de tout produit pharmaceutique à usage de la médecine humaine, dans le cadre de la procédure d’enregistrement ou de modification de la décision d’enregistrement La commission d’enregistrement est chargée d'émettre un avis, sur toute demande qui lui est soumise par le directeur général de l’agence nationale des produits pharmaceutiques, notamment, sur l’évaluation scientifique des bénéfices, des risques et de la valeur thérapeutique des produits pharmaceutiques.",
+        "feature_tags": [
+          "discretion",
+          "reports",
+          "unredacted",
+          "sameness",
+          "scope_limit",
+          "decision_clock",
+          "local_evidence"
+        ],
+        "role": "Sections 5.1–5.5: discretion, eligibility, documents, timing",
+        "language": "fr",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "ANPP selects the route at dossier admissibility, retains full review and requires a complete same CTD plus unredacted non-public assessment reports. The 30-day report clock concerns health emergencies; other eligible products retain conventional evaluation deadlines.",
+        "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates.",
+        "evidence_tier": "national_rule",
+        "section_article": "Sections 5.1–5.5: discretion, eligibility, documents, timing",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "DZA-CONTEXT-1",
+        "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+        "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+        "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+        "start_offset": 2600,
+        "end_offset": 6611,
+        "verbatim_extracted_text": ".................. 8 \n5.5. \nDélai fixé pour une évaluation basée sur la confiance réglementaire et de la reconnaissance ..... 8 \n6. \nRéférences ............................................................................................................................................. 9 \n7. \nAnnexes ............................................................................................................................................... 10 \n \n \n \n \n \n \n \n \n\n\nPAGE 3\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 3 sur 10 \n \n1. Objet \nLa décision d’enregistrement d’un produit pharmaceutique peut être accordée, dans certaines conditions \nprévues par la réglementation, selon une voie alternative d’évaluation appelée procédure d’évaluation \nabrégée. \n \nL’ANPP considère que le recours à l’évaluation effectuée par d’autres autorités réglementaires constitue \nun levier bénéfique pour les patients, l’industrie pharmaceutique et les autorités réglementaires, en \npermettant de faciliter et d’accélérer l’accès à des produits pharmaceutiques de qualité garantie, efficaces \net sûrs, tout en optimisant l’utilisation des ressources et en allégeant la charge de travail des évaluateurs \nde l’ANPP. \n \nLe présent document vise à promouvoir une approche efficiente de l’enregistrement des produits \npharmaceutiques ainsi que de la modification des décisions d’enregistrement, tout en assurant le maintien \ndes exigences relatives à la qualité, à l’efficacité et à la sécurité des produits pharmaceutiques. Il définit \nles principes et les modalités d’application de la confiance réglementaire et de la reconnaissance, tels \nqu’adoptés et mis en œuvre par l’ANPP dans le cadre de l’enregistrement et de la modification des \ndécisions d’enregistrement des produits pharmaceutiques. \n2. \nDomaine d’application  \n \nLa présente ligne directrice s’applique à certains médicaments de différentes natures (issus de la synthèse \nchimique, biologiques, biotechnologiques ou biosimilaires) et de différentes origines (fabrication locale \nou importation), notamment : \n- \nLes médicaments indiqués dans des situations d’urgence sanitaire ; \n- \nLes demandes d’enregistrement ainsi qu’aux demandes de modification des décisions \nd’enregistrement de produits pharmaceutiques ayant déjà été approuvés par des autorités de \nréglementation nationales ou régionales, ainsi que par des organisations régionales ou \ninternationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au \nniveau national. \n \n\n\nPAGE 4\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 4 sur 10 \n \n3. \nDéfinition  \nUrgence Sanitaire : \"Une situation exceptionnelle caractérisée par l’apparition ou le risque imminent \nd’une menace grave pour la santé de la population, notamment en cas d’épidémie, de pandémie, ou de \ncatastrophe sanitaire, nécessitant la mise en œuvre de mesures réglementaires d’exception et de \nprocédures d’évaluation accélérées pour garantir la disponibilité immédiate des produits pharmaceutiques \nessentiels.\" \nPandémie : Il s'agit d'une épidémie qui se produit à l'échelle mondiale ou sur une zone très vaste, \ntraversant les frontières internationales et affectant généralement un grand nombre de personnes. La \ndéfinition classique ne comprend rien à propos de l'immunité de la population, la virologie ou la gravité \nde la maladie. \nEpidémie : C'est la propagation rapide d'une maladie à un grand nombre de personnes dans une \npopulation donnée dans un court laps de temps. \nProduit pharmaceutique critique : produit pharmaceutique dont la disponibilité est indispensabl",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "fr",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates."
+      },
+      {
+        "clause_id": "DZA-CONTEXT-2",
+        "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+        "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+        "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+        "start_offset": 9808,
+        "end_offset": 19223,
+        "verbatim_extracted_text": "l’autorité de \nréglementation de référence, tant dans sa composition, ses données relatives à la qualité que dans ses \nconditions d’autorisation. \n4. \nAbréviation  \nANPP : Agence Nationale des Produits Pharmaceutiques.  \nOMS : Organisation Mondiale de la Santé. \nCTD : Common Technical Document \nDE : Décisions d’Enregistrement. \nAMM : Autorisation de Mise sur le Marché.  \n\n\nPAGE 6\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 6 sur 10 \n \nWLA : WHO-Listed Authorities (Autorités listés par l’OMS). \n5. \nDéveloppement du sujet  \n \n5.1.Discrétion de l’ANPP dans l’application de la confiance réglementaire ou de la reconnaissance et \nsouveraineté réglementaire \n5.1.1. Discrétion de l’ANPP \nL’approche de la confiance règlementaire et de la reconnaissance ne constitue pas une obligation pour \nl’ensemble des demandes d’enregistrement ou de modification des produits pharmaceutiques. La voie de \nla confiance règlementaire et de la reconnaissance n’est pas déclenchée sur demande explicite de \nl’établissement pharmaceutique ; elle est évaluée automatiquement par l’ANPP à la recevabilité du dossier. \nPar ailleurs, l’ANPP conserve le droit d’effectuer une évaluation complète lorsque cela est jugé nécessaire. \n5.1.2. Souveraineté réglementaire \n \nLa mise en œuvre de la confiance règlementaire et de la reconnaissance ne remet pas en cause la \nsouveraineté nationale. La décision finale d’octroi, de refus, de suspension ou de retrait d’une DE relève \nexclusivement de l’ANPP. \nL’ANPP reste indépendante, responsable des décisions qu’elle prend, même si elle s’appuie sur les \ndécisions, les évaluations et les informations d’autres autorités. \n \n \n5.2.Critère d’éligibilité à l’évaluation basée sur la confiance réglementaire ou de la reconnaissance  \nPour appliquer la procédure alternative d’évaluation basée sur le principe de la confiance réglementaire \nou de la reconnaissance, le produit doit disposer d'une autorisation de mise sur le marché (AMM) ou d'une \napprobation de modification délivrée par une autorité de réglementation nationale ou régionale, ainsi que \npar des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de \nla santé, reconnues au niveau national. Cette autorité sera considérée comme autorité de réglementation \nde référence dont les évaluations documentaires scientifiques seront prises en compte pour soutenir \n\n\nPAGE 7\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 7 sur 10 \n \nla décision d’enregistrement ou l’approbation des modifications tout en assurant la qualité, la sécurité et \nl’efficacité des produits pharmaceutiques. La liste de ces autorités est fixée par Décision du Ministère de \nl’Industrie Pharmaceutique. \n5.3.Documentation requise dans le cadre de la confiance réglementaire et la reconnaissance \nDossier CTD complet \nLe principe de confiance réglementaire ou de reconnaissance \nn'exonère pas le demandeur de la soumission d'un dossier \nd'enregistrement complet dans le format international \nharmonisé (CTD), conformément aux Lignes Directrices de \nl’ANPP en vigueur. \nLe dossier CTD doit être le même que celui soumis à l’autorité \nRéglementaire de référence. \nPreuve de l’approbation \nde l’autorité \nréglementaire de \nréférence \nL’AMM ou l’Approbation de la modification délivrée par une \nautorité de réglementation nationales ou régionales, ainsi que \npar \ndes \norganisations \nrégionales \nou \ninternationales \ncompétentes dans les domaines pharmaceutiques et de la santé, \nreconnues au niveau national, doit être fournie. \nAttestation de similarité \nLe demandeur doit justifier que le produit pharmaceutique \nsoumis à enregistrement ou pour modification est le même \nproduit que celui approuvé par l'autorité réglementaire de \nréférence tant dans sa composition, ses données relatives à la \nqualité que dans ses conditions d’autorisation. \nRapport d'évaluation \némanant de l’autorité \nréglementaire \nde \nréférence \nLe rapport d'évaluation complet, non public, non expurgé des \ninformations \nconfidentielles \némanant \nde \nl’autorité \nréglementaire de référence doit être fourni. \n\n\nPAGE 8\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 8 sur 10 \n \nLes \nrapports \nde \nPharmacovigilance \n   Ra - Rapport périodique actualisé de sécurité (PSURs) \n  -Rapport périodique d’évaluation du rapport bénéfice/risque \n(PBRERs) \n \n5.4.Étendue des données concernées par l’évaluation basée sur la confiance réglementaire et de la \nreconnaissance mutuelle \nDans le cadre de la confiance réglementaire et de la reconnaissance, l’évaluation ne sera pas complète \npuisqu’elle s’appuiera sur les conclusions de l’évaluation effectuée par l’autorité réglementaire de \nréférence. \nLes données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance \nconcernent : \n-Les données administratives, réglementaires et celles relatives à la prescription (Module 1) ; \n-Les données relatives à la qualité de(s) la (des) substance(s) active(s) et du produit fini (Module 3) ; \n-Les données relatives à la sécurité et à l'efficacité, notamment, les essais d'équivalences thérapeutiques \npour les médicaments génériques et les biothérapeutiques similaires (Module 4 et Module 5). \nAprès vérification de l’intégralité des données nécessaires à l’évaluation complète et après examen du \nrapport d’évaluation de l’autorité réglementaire de référence, l’ANPP peut notifier l’établissement \npharmaceutique demandeur pour apporter les compléments d’informations requis. \n5.5.Délai fixé pour une évaluation basée sur la confiance réglementaire et de la reconnaissance \nL’approche de la voie alternative : confiance réglementaire et de la reconnaissance permet d’accélérer \nl’évaluation tout en garantissant la qualité, la sécurité et l’efficacité du produit pharmaceutique. \nLes produits pharmaceutiques indiqués dans les situations d'urgence sanitaire doivent \nsubir une \névaluation abrégée, et les rapports d’évaluations doivent être finalisés dans un délai de trente (30) jours à \ncompter de la date de la programmation de l’évaluation scientifique du dossier d'enregistrement par le \nservice compétent de l’ANPP. Toutefois, le délai de l'évaluation abrégée peut être prorogé pour une \n\n\nPAGE 9\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 9 sur 10 \n \npériode de trente (30) jours lorsqu'il est demandé à l'établissement pharmaceutique de fournir tout \ncomplément d'information. \nLe délai d’évaluation tiendra également compte du caractère critique du produit pharmaceutique concerné. \nLes produits pharmaceutiques non indiqués dans les situations d'urgence sanitaire mais qui sont éligibles \nà une évaluation basée sur la confiance réglementaire et de la reconnaissance doivent subir une évaluation \ndans les délais conventionnels de l’enregistrement ou de la modification, et les rapports d’évaluations \ndoivent être finalisés dans le délai fixé par la réglementation en vigueur. \nLe directeur général de l’agence nationale des produits pharmaceutiques peut demander au comité des \nexperts cliniciens d’émettre un avis sur l'intérêt thérapeutique, l’efficacité, l’innocuité de tout produit \npharmaceutique à usage de la médecine humaine, dans le cadre de la procédure d’enregistrement ou de \nmodification de la décision d’enregistrement \nLa commission d’enregistrement est chargée d'émettre un avis, sur toute demande qui lui est soumise par \nle directeur général de l’agence nationale des produits pharmaceutiques, notamment, sur l’évaluation \nscientifique des bénéfices, des risques et de la valeur thérapeutique des produits pharmaceutiques. \n6. \nRéférences  \n-Arrêté du 11 Joumada El Oula 1442 correspondant au 26 décembre 2020 fixant la procédure de \nl'évaluation documentaire et/ou technique du dossier d'enregistrement et la liste des médicaments \nconcernés. \n-Arrêté interministériel du 10 septembre 2025 relatif à l’encadrement du principe de confiance \nréglementaire et de reconnaissance mutuelle en matière de produits pharmaceutiques et dispositifs \nmédicaux. \n-Décision n▫44 du 28 septembre 2025 fixant la liste des autorités de réglementation nationales ou \nrégionales, ainsi que par des organisations régionales ou internationales compétentes dans les domaines \npharmaceutiques et de la santé, reconnues au niveau national. \n\n\nPAGE 10\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 10 sur 10 \n \n-Annexe OMS : bonne",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "fr",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates."
+      },
+      {
+        "clause_id": "DZA-CTX-1",
+        "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+        "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+        "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+        "start_offset": 10400,
+        "end_offset": 13600,
+        "verbatim_extracted_text": " DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 6 sur 10 \n \nWLA : WHO-Listed Authorities (Autorités listés par l’OMS). \n5. \nDéveloppement du sujet  \n \n5.1.Discrétion de l’ANPP dans l’application de la confiance réglementaire ou de la reconnaissance et \nsouveraineté réglementaire \n5.1.1. Discrétion de l’ANPP \nL’approche de la confiance règlementaire et de la reconnaissance ne constitue pas une obligation pour \nl’ensemble des demandes d’enregistrement ou de modification des produits pharmaceutiques. La voie de \nla confiance règlementaire et de la reconnaissance n’est pas déclenchée sur demande explicite de \nl’établissement pharmaceutique ; elle est évaluée automatiquement par l’ANPP à la recevabilité du dossier. \nPar ailleurs, l’ANPP conserve le droit d’effectuer une évaluation complète lorsque cela est jugé nécessaire. \n5.1.2. Souveraineté réglementaire \n \nLa mise en œuvre de la confiance règlementaire et de la reconnaissance ne remet pas en cause la \nsouveraineté nationale. La décision finale d’octroi, de refus, de suspension ou de retrait d’une DE relève \nexclusivement de l’ANPP. \nL’ANPP reste indépendante, responsable des décisions qu’elle prend, même si elle s’appuie sur les \ndécisions, les évaluations et les informations d’autres autorités. \n \n \n5.2.Critère d’éligibilité à l’évaluation basée sur la confiance réglementaire ou de la reconnaissance  \nPour appliquer la procédure alternative d’évaluation basée sur le principe de la confiance réglementaire \nou de la reconnaissance, le produit doit disposer d'une autorisation de mise sur le marché (AMM) ou d'une \napprobation de modification délivrée par une autorité de réglementation nationale ou régionale, ainsi que \npar des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de \nla santé, reconnues au niveau national. Cette autorité sera considérée comme autorité de réglementation \nde référence dont les évaluations documentaires scientifiques seront prises en compte pour soutenir \n\n\nPAGE 7\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 7 sur 10 \n \nla décision d’enregistrement ou l’approbation des modifications tout en assurant la qualité, la sécurité et \nl’efficacité des produits pharmaceutiques. La liste de ces autorités est fixée par Décision du Ministère de \nl’Industrie Pharmaceutique. \n5.3.Documentation requise dans le cadre de la confiance réglementaire et la reconnaissance \nDossier CTD complet \nLe principe de confiance réglementaire ou de reconnaissance \nn'exonère pas le demandeur de la soumission d'un dossier \nd'enregistrement complet dans le format international \nharmonisé (CTD), conformément aux Lignes Directrices de \nl’ANPP en vigueur. \nLe dossier CTD doit être le même que celui soumis à l’autorité \nRéglementaire de référence. \nPreuve de l’approbation \nde l’autorité \nréglementaire de \nréférence \nL’AMM ou l’Approbation de la modification délivrée par une \nautorité de réglementation nationales ou régionales, ainsi que \npar \nd",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "fr",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates."
+      },
+      {
+        "clause_id": "DZA-CTX-2",
+        "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+        "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+        "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+        "start_offset": 13500,
+        "end_offset": 15800,
+        "verbatim_extracted_text": "odification délivrée par une \nautorité de réglementation nationales ou régionales, ainsi que \npar \ndes \norganisations \nrégionales \nou \ninternationales \ncompétentes dans les domaines pharmaceutiques et de la santé, \nreconnues au niveau national, doit être fournie. \nAttestation de similarité \nLe demandeur doit justifier que le produit pharmaceutique \nsoumis à enregistrement ou pour modification est le même \nproduit que celui approuvé par l'autorité réglementaire de \nréférence tant dans sa composition, ses données relatives à la \nqualité que dans ses conditions d’autorisation. \nRapport d'évaluation \némanant de l’autorité \nréglementaire \nde \nréférence \nLe rapport d'évaluation complet, non public, non expurgé des \ninformations \nconfidentielles \némanant \nde \nl’autorité \nréglementaire de référence doit être fourni. \n\n\nPAGE 8\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 8 sur 10 \n \nLes \nrapports \nde \nPharmacovigilance \n   Ra - Rapport périodique actualisé de sécurité (PSURs) \n  -Rapport périodique d’évaluation du rapport bénéfice/risque \n(PBRERs) \n \n5.4.Étendue des données concernées par l’évaluation basée sur la confiance réglementaire et de la \nreconnaissance mutuelle \nDans le cadre de la confiance réglementaire et de la reconnaissance, l’évaluation ne sera pas complète \npuisqu’elle s’appuiera sur les conclusions de l’évaluation effectuée par l’autorité réglementaire de \nréférence. \nLes données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance \nconcernent : \n-Les données administratives, réglementaires et celles relatives à la prescription (Module 1) ; \n-Les données relatives à la qualité de(s) la (des) substance(s) active(s) et du produit fini (Module 3) ; \n-Les données relatives à la sécurité et à l'efficacité, notamment, les essais d'équivalences thérapeutiques \npour les médicaments génériques et les biothérapeutiques similaires (Module 4 et Module 5). \nAprès vérification de l’intégralité des données nécessaires à l’évaluation complète et après examen du \nrapport d’évaluation de l’autorité réglementaire de réf",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "fr",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates."
+      }
+    ],
+    "review_details": {
+      "iso3": "DZA",
+      "country": "Algeria",
+      "selected_document_id": "F250_62100b0bf47adb981a74_5eed1e7a6704",
+      "source_id": "F250_62100b0bf47adb981a74",
+      "pathway": "Agency-selected reliance with full dossier and national discretion",
+      "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+      "document_title": "ANPP LD-DEPP08/V01 alternative reliance/recognition guideline, 22 April 2026",
+      "source_type": "Official guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "fr",
+      "translation_provenance": "Original-language contextual interpretation; no unchecked machine translation treated as authoritative",
+      "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+      "raw_hash_validated": true,
+      "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+      "version_dates": {
+        "guideline_date": "2026-04-22"
+      },
+      "version_scope_note": "ANPP guidelineLD-DEPP 08/V 01 dated 22 April 2026. ANPP evaluates reliance automatically at admissibility, not on explicit applicant request. Section 5.3 expressly requires complete, nonpublic, unredacted assessment reports. Routine and emergency timelines remain distinct.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          2600,
+          6611
+        ],
+        [
+          9808,
+          19223
+        ],
+        [
+          10400,
+          13600
+        ],
+        [
+          13500,
+          15800
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "FDA/EMA eligibility requires incorporated recognised-authority list, not reproduced here.",
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Prior approval by a recognised foreign authority is a condition.",
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Full identical foreign-approvedCTD and sameness declaration required.",
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Complete nonpublic unredacted foreign assessment reports mandatory together with identical full CTD and authorisation.",
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "explicit requirement",
+          "finding": "Guideline expressly requires complete nonpublic unredacted regulatory reports.",
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "explicit requirement",
+          "finding": "Public reports alone fail express nonpublic unredacted requirement.",
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Not a full de novo assessment, but modules/local-context checks and additional information remain.",
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "30 days extendable 30 applies emergency; fixed nonemergency case follows conventional registration time.",
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Section 5.1.1 says reliance is NOT triggered by an explicit applicant request: ANPP evaluates it automatically at dossier admissibility and may still conduct full review. Final decision remains national.",
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "explicitly ineligible for identified full-report route",
+          "finding": "Public material lacks expressly required complete nonpublic unredacted reports.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full reports satisfy report condition; recognised-authority-list eligibility and residual national conditions remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "DZA-WEB01",
+            "DZA-WEB02",
+            "DZA-CONTEXT-1",
+            "DZA-CONTEXT-2",
+            "DZA-CTX-1",
+            "DZA-CTX-2"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "DZA-WEB01",
+          "iso3": "DZA",
+          "event_id": null,
+          "document_id": "F250_62100b0bf47adb981a74_5eed1e7a6704",
+          "source_id": "F250_62100b0bf47adb981a74",
+          "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+          "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+          "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+          "start_offset": 3350,
+          "end_offset": 5611,
+          "pdf_page": 3,
+          "verbatim_extracted_text": "1. Objet \nLa décision d’enregistrement d’un produit pharmaceutique peut être accordée, dans certaines conditions \nprévues par la réglementation, selon une voie alternative d’évaluation appelée procédure d’évaluation \nabrégée. \n \nL’ANPP considère que le recours à l’évaluation effectuée par d’autres autorités réglementaires constitue \nun levier bénéfique pour les patients, l’industrie pharmaceutique et les autorités réglementaires, en \npermettant de faciliter et d’accélérer l’accès à des produits pharmaceutiques de qualité garantie, efficaces \net sûrs, tout en optimisant l’utilisation des ressources et en allégeant la charge de travail des évaluateurs \nde l’ANPP. \n \nLe présent document vise à promouvoir une approche efficiente de l’enregistrement des produits \npharmaceutiques ainsi que de la modification des décisions d’enregistrement, tout en assurant le maintien \ndes exigences relatives à la qualité, à l’efficacité et à la sécurité des produits pharmaceutiques. Il définit \nles principes et les modalités d’application de la confiance réglementaire et de la reconnaissance, tels \nqu’adoptés et mis en œuvre par l’ANPP dans le cadre de l’enregistrement et de la modification des \ndécisions d’enregistrement des produits pharmaceutiques. \n2. \nDomaine d’application  \n \nLa présente ligne directrice s’applique à certains médicaments de différentes natures (issus de la synthèse \nchimique, biologiques, biotechnologiques ou biosimilaires) et de différentes origines (fabrication locale \nou importation), notamment : \n- \nLes médicaments indiqués dans des situations d’urgence sanitaire ; \n- \nLes demandes d’enregistrement ainsi qu’aux demandes de modification des décisions \nd’enregistrement de produits pharmaceutiques ayant déjà été approuvés par des autorités de \nréglementation nationales ou régionales, ainsi que par des organisations régionales ou \ninternationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au \nniveau national. \n \n\n\nPAGE 4\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 4 sur 10 \n \n",
+          "display_text": "1. Objet La décision d’enregistrement d’un produit pharmaceutique peut être accordée, dans certaines conditions prévues par la réglementation, selon une voie alternative d’évaluation appelée procédure d’évaluation abrégée. L’ANPP considère que le recours à l’évaluation effectuée par d’autres autorités réglementaires constitue un levier bénéfique pour les patients, l’industrie pharmaceutique et les autorités réglementaires, en permettant de faciliter et d’accélérer l’accès à des produits pharmaceutiques de qualité garantie, efficaces et sûrs, tout en optimisant l’utilisation des ressources et en allégeant la charge de travail des évaluateurs de l’ANPP. Le présent document vise à promouvoir une approche efficiente de l’enregistrement des produits pharmaceutiques ainsi que de la modification des décisions d’enregistrement, tout en assurant le maintien des exigences relatives à la qualité, à l’efficacité et à la sécurité des produits pharmaceutiques. Il définit les principes et les modalités d’application de la confiance réglementaire et de la reconnaissance, tels qu’adoptés et mis en œuvre par l’ANPP dans le cadre de l’enregistrement et de la modification des décisions d’enregistrement des produits pharmaceutiques. 2. Domaine d’application La présente ligne directrice s’applique à certains médicaments de différentes natures (issus de la synthèse chimique, biologiques, biotechnologiques ou biosimilaires) et de différentes origines (fabrication locale ou importation), notamment : - Les médicaments indiqués dans des situations d’urgence sanitaire ; - Les demandes d’enregistrement ainsi qu’aux demandes de modification des décisions d’enregistrement de produits pharmaceutiques ayant déjà été approuvés par des autorités de réglementation nationales ou régionales, ainsi que par des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au niveau national. PAGE 4 LIGNE DIRECTRICE Code : LD-DEPP08/V01 LIGNE DIRECTRICE SUR LA VOIE ALTERNATIVE : CONFIANCE REGLEMENTAIRE ET RECONNAISSANCE LORS DE L’ENREGITREMENT ET LA MODIFICATION DE LA DECISION D’ENREGISTREMENT DES PRODUITS PHARMACEUTIQUES Date :22/04/2026 Page 4 sur 10",
+          "feature_tags": [
+            "scope_limit"
+          ],
+          "role": "Sections 1–2: permission and scope",
+          "language": "fr",
+          "language_status": "Original official-language source retained; no unchecked English translation displayed",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "ANPP selects the route at dossier admissibility, retains full review and requires a complete same CTD plus unredacted non-public assessment reports. The 30-day report clock concerns health emergencies; other eligible products retain conventional evaluation deadlines.",
+          "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates.",
+          "evidence_tier": "national_rule",
+          "section_article": "Sections 1–2: permission and scope",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "DZA-WEB02",
+          "iso3": "DZA",
+          "event_id": null,
+          "document_id": "F250_62100b0bf47adb981a74_5eed1e7a6704",
+          "source_id": "F250_62100b0bf47adb981a74",
+          "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+          "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+          "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+          "start_offset": 10558,
+          "end_offset": 18223,
+          "pdf_page": 6,
+          "verbatim_extracted_text": "5.1.Discrétion de l’ANPP dans l’application de la confiance réglementaire ou de la reconnaissance et \nsouveraineté réglementaire \n5.1.1. Discrétion de l’ANPP \nL’approche de la confiance règlementaire et de la reconnaissance ne constitue pas une obligation pour \nl’ensemble des demandes d’enregistrement ou de modification des produits pharmaceutiques. La voie de \nla confiance règlementaire et de la reconnaissance n’est pas déclenchée sur demande explicite de \nl’établissement pharmaceutique ; elle est évaluée automatiquement par l’ANPP à la recevabilité du dossier. \nPar ailleurs, l’ANPP conserve le droit d’effectuer une évaluation complète lorsque cela est jugé nécessaire. \n5.1.2. Souveraineté réglementaire \n \nLa mise en œuvre de la confiance règlementaire et de la reconnaissance ne remet pas en cause la \nsouveraineté nationale. La décision finale d’octroi, de refus, de suspension ou de retrait d’une DE relève \nexclusivement de l’ANPP. \nL’ANPP reste indépendante, responsable des décisions qu’elle prend, même si elle s’appuie sur les \ndécisions, les évaluations et les informations d’autres autorités. \n \n \n5.2.Critère d’éligibilité à l’évaluation basée sur la confiance réglementaire ou de la reconnaissance  \nPour appliquer la procédure alternative d’évaluation basée sur le principe de la confiance réglementaire \nou de la reconnaissance, le produit doit disposer d'une autorisation de mise sur le marché (AMM) ou d'une \napprobation de modification délivrée par une autorité de réglementation nationale ou régionale, ainsi que \npar des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de \nla santé, reconnues au niveau national. Cette autorité sera considérée comme autorité de réglementation \nde référence dont les évaluations documentaires scientifiques seront prises en compte pour soutenir \n\n\nPAGE 7\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 7 sur 10 \n \nla décision d’enregistrement ou l’approbation des modifications tout en assurant la qualité, la sécurité et \nl’efficacité des produits pharmaceutiques. La liste de ces autorités est fixée par Décision du Ministère de \nl’Industrie Pharmaceutique. \n5.3.Documentation requise dans le cadre de la confiance réglementaire et la reconnaissance \nDossier CTD complet \nLe principe de confiance réglementaire ou de reconnaissance \nn'exonère pas le demandeur de la soumission d'un dossier \nd'enregistrement complet dans le format international \nharmonisé (CTD), conformément aux Lignes Directrices de \nl’ANPP en vigueur. \nLe dossier CTD doit être le même que celui soumis à l’autorité \nRéglementaire de référence. \nPreuve de l’approbation \nde l’autorité \nréglementaire de \nréférence \nL’AMM ou l’Approbation de la modification délivrée par une \nautorité de réglementation nationales ou régionales, ainsi que \npar \ndes \norganisations \nrégionales \nou \ninternationales \ncompétentes dans les domaines pharmaceutiques et de la santé, \nreconnues au niveau national, doit être fournie. \nAttestation de similarité \nLe demandeur doit justifier que le produit pharmaceutique \nsoumis à enregistrement ou pour modification est le même \nproduit que celui approuvé par l'autorité réglementaire de \nréférence tant dans sa composition, ses données relatives à la \nqualité que dans ses conditions d’autorisation. \nRapport d'évaluation \némanant de l’autorité \nréglementaire \nde \nréférence \nLe rapport d'évaluation complet, non public, non expurgé des \ninformations \nconfidentielles \némanant \nde \nl’autorité \nréglementaire de référence doit être fourni. \n\n\nPAGE 8\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 8 sur 10 \n \nLes \nrapports \nde \nPharmacovigilance \n   Ra - Rapport périodique actualisé de sécurité (PSURs) \n  -Rapport périodique d’évaluation du rapport bénéfice/risque \n(PBRERs) \n \n5.4.Étendue des données concernées par l’évaluation basée sur la confiance réglementaire et de la \nreconnaissance mutuelle \nDans le cadre de la confiance réglementaire et de la reconnaissance, l’évaluation ne sera pas complète \npuisqu’elle s’appuiera sur les conclusions de l’évaluation effectuée par l’autorité réglementaire de \nréférence. \nLes données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance \nconcernent : \n-Les données administratives, réglementaires et celles relatives à la prescription (Module 1) ; \n-Les données relatives à la qualité de(s) la (des) substance(s) active(s) et du produit fini (Module 3) ; \n-Les données relatives à la sécurité et à l'efficacité, notamment, les essais d'équivalences thérapeutiques \npour les médicaments génériques et les biothérapeutiques similaires (Module 4 et Module 5). \nAprès vérification de l’intégralité des données nécessaires à l’évaluation complète et après examen du \nrapport d’évaluation de l’autorité réglementaire de référence, l’ANPP peut notifier l’établissement \npharmaceutique demandeur pour apporter les compléments d’informations requis. \n5.5.Délai fixé pour une évaluation basée sur la confiance réglementaire et de la reconnaissance \nL’approche de la voie alternative : confiance réglementaire et de la reconnaissance permet d’accélérer \nl’évaluation tout en garantissant la qualité, la sécurité et l’efficacité du produit pharmaceutique. \nLes produits pharmaceutiques indiqués dans les situations d'urgence sanitaire doivent \nsubir une \névaluation abrégée, et les rapports d’évaluations doivent être finalisés dans un délai de trente (30) jours à \ncompter de la date de la programmation de l’évaluation scientifique du dossier d'enregistrement par le \nservice compétent de l’ANPP. Toutefois, le délai de l'évaluation abrégée peut être prorogé pour une \n\n\nPAGE 9\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 9 sur 10 \n \npériode de trente (30) jours lorsqu'il est demandé à l'établissement pharmaceutique de fournir tout \ncomplément d'information. \nLe délai d’évaluation tiendra également compte du caractère critique du produit pharmaceutique concerné. \nLes produits pharmaceutiques non indiqués dans les situations d'urgence sanitaire mais qui sont éligibles \nà une évaluation basée sur la confiance réglementaire et de la reconnaissance doivent subir une évaluation \ndans les délais conventionnels de l’enregistrement ou de la modification, et les rapports d’évaluations \ndoivent être finalisés dans le délai fixé par la réglementation en vigueur. \nLe directeur général de l’agence nationale des produits pharmaceutiques peut demander au comité des \nexperts cliniciens d’émettre un avis sur l'intérêt thérapeutique, l’efficacité, l’innocuité de tout produit \npharmaceutique à usage de la médecine humaine, dans le cadre de la procédure d’enregistrement ou de \nmodification de la décision d’enregistrement \nLa commission d’enregistrement est chargée d'émettre un avis, sur toute demande qui lui est soumise par \nle directeur général de l’agence nationale des produits pharmaceutiques, notamment, sur l’évaluation \nscientifique des bénéfices, des risques et de la valeur thérapeutique des produits pharmaceutiques. \n",
+          "display_text": "5.1.Discrétion de l’ANPP dans l’application de la confiance réglementaire ou de la reconnaissance et souveraineté réglementaire 5.1.1. Discrétion de l’ANPP L’approche de la confiance règlementaire et de la reconnaissance ne constitue pas une obligation pour l’ensemble des demandes d’enregistrement ou de modification des produits pharmaceutiques. La voie de la confiance règlementaire et de la reconnaissance n’est pas déclenchée sur demande explicite de l’établissement pharmaceutique ; elle est évaluée automatiquement par l’ANPP à la recevabilité du dossier. Par ailleurs, l’ANPP conserve le droit d’effectuer une évaluation complète lorsque cela est jugé nécessaire. 5.1.2. Souveraineté réglementaire La mise en œuvre de la confiance règlementaire et de la reconnaissance ne remet pas en cause la souveraineté nationale. La décision finale d’octroi, de refus, de suspension ou de retrait d’une DE relève exclusivement de l’ANPP. L’ANPP reste indépendante, responsable des décisions qu’elle prend, même si elle s’appuie sur les décisions, les évaluations et les informations d’autres autorités. 5.2.Critère d’éligibilité à l’évaluation basée sur la confiance réglementaire ou de la reconnaissance Pour appliquer la procédure alternative d’évaluation basée sur le principe de la confiance réglementaire ou de la reconnaissance, le produit doit disposer d'une autorisation de mise sur le marché (AMM) ou d'une approbation de modification délivrée par une autorité de réglementation nationale ou régionale, ainsi que par des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au niveau national. Cette autorité sera considérée comme autorité de réglementation de référence dont les évaluations documentaires scientifiques seront prises en compte pour soutenir PAGE 7 LIGNE DIRECTRICE Code : LD-DEPP08/V01 LIGNE DIRECTRICE SUR LA VOIE ALTERNATIVE : CONFIANCE REGLEMENTAIRE ET RECONNAISSANCE LORS DE L’ENREGITREMENT ET LA MODIFICATION DE LA DECISION D’ENREGISTREMENT DES PRODUITS PHARMACEUTIQUES Date :22/04/2026 Page 7 sur 10 la décision d’enregistrement ou l’approbation des modifications tout en assurant la qualité, la sécurité et l’efficacité des produits pharmaceutiques. La liste de ces autorités est fixée par Décision du Ministère de l’Industrie Pharmaceutique. 5.3.Documentation requise dans le cadre de la confiance réglementaire et la reconnaissance Dossier CTD complet Le principe de confiance réglementaire ou de reconnaissance n'exonère pas le demandeur de la soumission d'un dossier d'enregistrement complet dans le format international harmonisé (CTD), conformément aux Lignes Directrices de l’ANPP en vigueur. Le dossier CTD doit être le même que celui soumis à l’autorité Réglementaire de référence. Preuve de l’approbation de l’autorité réglementaire de référence L’AMM ou l’Approbation de la modification délivrée par une autorité de réglementation nationales ou régionales, ainsi que par des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au niveau national, doit être fournie. Attestation de similarité Le demandeur doit justifier que le produit pharmaceutique soumis à enregistrement ou pour modification est le même produit que celui approuvé par l'autorité réglementaire de référence tant dans sa composition, ses données relatives à la qualité que dans ses conditions d’autorisation. Rapport d'évaluation émanant de l’autorité réglementaire de référence Le rapport d'évaluation complet, non public, non expurgé des informations confidentielles émanant de l’autorité réglementaire de référence doit être fourni. PAGE 8 LIGNE DIRECTRICE Code : LD-DEPP08/V01 LIGNE DIRECTRICE SUR LA VOIE ALTERNATIVE : CONFIANCE REGLEMENTAIRE ET RECONNAISSANCE LORS DE L’ENREGITREMENT ET LA MODIFICATION DE LA DECISION D’ENREGISTREMENT DES PRODUITS PHARMACEUTIQUES Date :22/04/2026 Page 8 sur 10 Les rapports de Pharmacovigilance Ra - Rapport périodique actualisé de sécurité (PSURs) -Rapport périodique d’évaluation du rapport bénéfice/risque (PBRERs) 5.4.Étendue des données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance mutuelle Dans le cadre de la confiance réglementaire et de la reconnaissance, l’évaluation ne sera pas complète puisqu’elle s’appuiera sur les conclusions de l’évaluation effectuée par l’autorité réglementaire de référence. Les données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance concernent : -Les données administratives, réglementaires et celles relatives à la prescription (Module 1) ; -Les données relatives à la qualité de(s) la (des) substance(s) active(s) et du produit fini (Module 3) ; -Les données relatives à la sécurité et à l'efficacité, notamment, les essais d'équivalences thérapeutiques pour les médicaments génériques et les biothérapeutiques similaires (Module 4 et Module 5). Après vérification de l’intégralité des données nécessaires à l’évaluation complète et après examen du rapport d’évaluation de l’autorité réglementaire de référence, l’ANPP peut notifier l’établissement pharmaceutique demandeur pour apporter les compléments d’informations requis. 5.5.Délai fixé pour une évaluation basée sur la confiance réglementaire et de la reconnaissance L’approche de la voie alternative : confiance réglementaire et de la reconnaissance permet d’accélérer l’évaluation tout en garantissant la qualité, la sécurité et l’efficacité du produit pharmaceutique. Les produits pharmaceutiques indiqués dans les situations d'urgence sanitaire doivent subir une évaluation abrégée, et les rapports d’évaluations doivent être finalisés dans un délai de trente (30) jours à compter de la date de la programmation de l’évaluation scientifique du dossier d'enregistrement par le service compétent de l’ANPP. Toutefois, le délai de l'évaluation abrégée peut être prorogé pour une PAGE 9 LIGNE DIRECTRICE Code : LD-DEPP08/V01 LIGNE DIRECTRICE SUR LA VOIE ALTERNATIVE : CONFIANCE REGLEMENTAIRE ET RECONNAISSANCE LORS DE L’ENREGITREMENT ET LA MODIFICATION DE LA DECISION D’ENREGISTREMENT DES PRODUITS PHARMACEUTIQUES Date :22/04/2026 Page 9 sur 10 période de trente (30) jours lorsqu'il est demandé à l'établissement pharmaceutique de fournir tout complément d'information. Le délai d’évaluation tiendra également compte du caractère critique du produit pharmaceutique concerné. Les produits pharmaceutiques non indiqués dans les situations d'urgence sanitaire mais qui sont éligibles à une évaluation basée sur la confiance réglementaire et de la reconnaissance doivent subir une évaluation dans les délais conventionnels de l’enregistrement ou de la modification, et les rapports d’évaluations doivent être finalisés dans le délai fixé par la réglementation en vigueur. Le directeur général de l’agence nationale des produits pharmaceutiques peut demander au comité des experts cliniciens d’émettre un avis sur l'intérêt thérapeutique, l’efficacité, l’innocuité de tout produit pharmaceutique à usage de la médecine humaine, dans le cadre de la procédure d’enregistrement ou de modification de la décision d’enregistrement La commission d’enregistrement est chargée d'émettre un avis, sur toute demande qui lui est soumise par le directeur général de l’agence nationale des produits pharmaceutiques, notamment, sur l’évaluation scientifique des bénéfices, des risques et de la valeur thérapeutique des produits pharmaceutiques.",
+          "feature_tags": [
+            "discretion",
+            "reports",
+            "unredacted",
+            "sameness",
+            "scope_limit",
+            "decision_clock",
+            "local_evidence"
+          ],
+          "role": "Sections 5.1–5.5: discretion, eligibility, documents, timing",
+          "language": "fr",
+          "language_status": "Original official-language source retained; no unchecked English translation displayed",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "ANPP selects the route at dossier admissibility, retains full review and requires a complete same CTD plus unredacted non-public assessment reports. The 30-day report clock concerns health emergencies; other eligible products retain conventional evaluation deadlines.",
+          "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates.",
+          "evidence_tier": "national_rule",
+          "section_article": "Sections 5.1–5.5: discretion, eligibility, documents, timing",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "DZA-CONTEXT-1",
+          "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+          "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+          "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+          "start_offset": 2600,
+          "end_offset": 6611,
+          "verbatim_extracted_text": ".................. 8 \n5.5. \nDélai fixé pour une évaluation basée sur la confiance réglementaire et de la reconnaissance ..... 8 \n6. \nRéférences ............................................................................................................................................. 9 \n7. \nAnnexes ............................................................................................................................................... 10 \n \n \n \n \n \n \n \n \n\n\nPAGE 3\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 3 sur 10 \n \n1. Objet \nLa décision d’enregistrement d’un produit pharmaceutique peut être accordée, dans certaines conditions \nprévues par la réglementation, selon une voie alternative d’évaluation appelée procédure d’évaluation \nabrégée. \n \nL’ANPP considère que le recours à l’évaluation effectuée par d’autres autorités réglementaires constitue \nun levier bénéfique pour les patients, l’industrie pharmaceutique et les autorités réglementaires, en \npermettant de faciliter et d’accélérer l’accès à des produits pharmaceutiques de qualité garantie, efficaces \net sûrs, tout en optimisant l’utilisation des ressources et en allégeant la charge de travail des évaluateurs \nde l’ANPP. \n \nLe présent document vise à promouvoir une approche efficiente de l’enregistrement des produits \npharmaceutiques ainsi que de la modification des décisions d’enregistrement, tout en assurant le maintien \ndes exigences relatives à la qualité, à l’efficacité et à la sécurité des produits pharmaceutiques. Il définit \nles principes et les modalités d’application de la confiance réglementaire et de la reconnaissance, tels \nqu’adoptés et mis en œuvre par l’ANPP dans le cadre de l’enregistrement et de la modification des \ndécisions d’enregistrement des produits pharmaceutiques. \n2. \nDomaine d’application  \n \nLa présente ligne directrice s’applique à certains médicaments de différentes natures (issus de la synthèse \nchimique, biologiques, biotechnologiques ou biosimilaires) et de différentes origines (fabrication locale \nou importation), notamment : \n- \nLes médicaments indiqués dans des situations d’urgence sanitaire ; \n- \nLes demandes d’enregistrement ainsi qu’aux demandes de modification des décisions \nd’enregistrement de produits pharmaceutiques ayant déjà été approuvés par des autorités de \nréglementation nationales ou régionales, ainsi que par des organisations régionales ou \ninternationales compétentes dans les domaines pharmaceutiques et de la santé, reconnues au \nniveau national. \n \n\n\nPAGE 4\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 4 sur 10 \n \n3. \nDéfinition  \nUrgence Sanitaire : \"Une situation exceptionnelle caractérisée par l’apparition ou le risque imminent \nd’une menace grave pour la santé de la population, notamment en cas d’épidémie, de pandémie, ou de \ncatastrophe sanitaire, nécessitant la mise en œuvre de mesures réglementaires d’exception et de \nprocédures d’évaluation accélérées pour garantir la disponibilité immédiate des produits pharmaceutiques \nessentiels.\" \nPandémie : Il s'agit d'une épidémie qui se produit à l'échelle mondiale ou sur une zone très vaste, \ntraversant les frontières internationales et affectant généralement un grand nombre de personnes. La \ndéfinition classique ne comprend rien à propos de l'immunité de la population, la virologie ou la gravité \nde la maladie. \nEpidémie : C'est la propagation rapide d'une maladie à un grand nombre de personnes dans une \npopulation donnée dans un court laps de temps. \nProduit pharmaceutique critique : produit pharmaceutique dont la disponibilité est indispensabl",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "fr",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates."
+        },
+        {
+          "clause_id": "DZA-CONTEXT-2",
+          "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+          "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+          "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+          "start_offset": 9808,
+          "end_offset": 19223,
+          "verbatim_extracted_text": "l’autorité de \nréglementation de référence, tant dans sa composition, ses données relatives à la qualité que dans ses \nconditions d’autorisation. \n4. \nAbréviation  \nANPP : Agence Nationale des Produits Pharmaceutiques.  \nOMS : Organisation Mondiale de la Santé. \nCTD : Common Technical Document \nDE : Décisions d’Enregistrement. \nAMM : Autorisation de Mise sur le Marché.  \n\n\nPAGE 6\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 6 sur 10 \n \nWLA : WHO-Listed Authorities (Autorités listés par l’OMS). \n5. \nDéveloppement du sujet  \n \n5.1.Discrétion de l’ANPP dans l’application de la confiance réglementaire ou de la reconnaissance et \nsouveraineté réglementaire \n5.1.1. Discrétion de l’ANPP \nL’approche de la confiance règlementaire et de la reconnaissance ne constitue pas une obligation pour \nl’ensemble des demandes d’enregistrement ou de modification des produits pharmaceutiques. La voie de \nla confiance règlementaire et de la reconnaissance n’est pas déclenchée sur demande explicite de \nl’établissement pharmaceutique ; elle est évaluée automatiquement par l’ANPP à la recevabilité du dossier. \nPar ailleurs, l’ANPP conserve le droit d’effectuer une évaluation complète lorsque cela est jugé nécessaire. \n5.1.2. Souveraineté réglementaire \n \nLa mise en œuvre de la confiance règlementaire et de la reconnaissance ne remet pas en cause la \nsouveraineté nationale. La décision finale d’octroi, de refus, de suspension ou de retrait d’une DE relève \nexclusivement de l’ANPP. \nL’ANPP reste indépendante, responsable des décisions qu’elle prend, même si elle s’appuie sur les \ndécisions, les évaluations et les informations d’autres autorités. \n \n \n5.2.Critère d’éligibilité à l’évaluation basée sur la confiance réglementaire ou de la reconnaissance  \nPour appliquer la procédure alternative d’évaluation basée sur le principe de la confiance réglementaire \nou de la reconnaissance, le produit doit disposer d'une autorisation de mise sur le marché (AMM) ou d'une \napprobation de modification délivrée par une autorité de réglementation nationale ou régionale, ainsi que \npar des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de \nla santé, reconnues au niveau national. Cette autorité sera considérée comme autorité de réglementation \nde référence dont les évaluations documentaires scientifiques seront prises en compte pour soutenir \n\n\nPAGE 7\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 7 sur 10 \n \nla décision d’enregistrement ou l’approbation des modifications tout en assurant la qualité, la sécurité et \nl’efficacité des produits pharmaceutiques. La liste de ces autorités est fixée par Décision du Ministère de \nl’Industrie Pharmaceutique. \n5.3.Documentation requise dans le cadre de la confiance réglementaire et la reconnaissance \nDossier CTD complet \nLe principe de confiance réglementaire ou de reconnaissance \nn'exonère pas le demandeur de la soumission d'un dossier \nd'enregistrement complet dans le format international \nharmonisé (CTD), conformément aux Lignes Directrices de \nl’ANPP en vigueur. \nLe dossier CTD doit être le même que celui soumis à l’autorité \nRéglementaire de référence. \nPreuve de l’approbation \nde l’autorité \nréglementaire de \nréférence \nL’AMM ou l’Approbation de la modification délivrée par une \nautorité de réglementation nationales ou régionales, ainsi que \npar \ndes \norganisations \nrégionales \nou \ninternationales \ncompétentes dans les domaines pharmaceutiques et de la santé, \nreconnues au niveau national, doit être fournie. \nAttestation de similarité \nLe demandeur doit justifier que le produit pharmaceutique \nsoumis à enregistrement ou pour modification est le même \nproduit que celui approuvé par l'autorité réglementaire de \nréférence tant dans sa composition, ses données relatives à la \nqualité que dans ses conditions d’autorisation. \nRapport d'évaluation \némanant de l’autorité \nréglementaire \nde \nréférence \nLe rapport d'évaluation complet, non public, non expurgé des \ninformations \nconfidentielles \némanant \nde \nl’autorité \nréglementaire de référence doit être fourni. \n\n\nPAGE 8\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 8 sur 10 \n \nLes \nrapports \nde \nPharmacovigilance \n   Ra - Rapport périodique actualisé de sécurité (PSURs) \n  -Rapport périodique d’évaluation du rapport bénéfice/risque \n(PBRERs) \n \n5.4.Étendue des données concernées par l’évaluation basée sur la confiance réglementaire et de la \nreconnaissance mutuelle \nDans le cadre de la confiance réglementaire et de la reconnaissance, l’évaluation ne sera pas complète \npuisqu’elle s’appuiera sur les conclusions de l’évaluation effectuée par l’autorité réglementaire de \nréférence. \nLes données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance \nconcernent : \n-Les données administratives, réglementaires et celles relatives à la prescription (Module 1) ; \n-Les données relatives à la qualité de(s) la (des) substance(s) active(s) et du produit fini (Module 3) ; \n-Les données relatives à la sécurité et à l'efficacité, notamment, les essais d'équivalences thérapeutiques \npour les médicaments génériques et les biothérapeutiques similaires (Module 4 et Module 5). \nAprès vérification de l’intégralité des données nécessaires à l’évaluation complète et après examen du \nrapport d’évaluation de l’autorité réglementaire de référence, l’ANPP peut notifier l’établissement \npharmaceutique demandeur pour apporter les compléments d’informations requis. \n5.5.Délai fixé pour une évaluation basée sur la confiance réglementaire et de la reconnaissance \nL’approche de la voie alternative : confiance réglementaire et de la reconnaissance permet d’accélérer \nl’évaluation tout en garantissant la qualité, la sécurité et l’efficacité du produit pharmaceutique. \nLes produits pharmaceutiques indiqués dans les situations d'urgence sanitaire doivent \nsubir une \névaluation abrégée, et les rapports d’évaluations doivent être finalisés dans un délai de trente (30) jours à \ncompter de la date de la programmation de l’évaluation scientifique du dossier d'enregistrement par le \nservice compétent de l’ANPP. Toutefois, le délai de l'évaluation abrégée peut être prorogé pour une \n\n\nPAGE 9\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 9 sur 10 \n \npériode de trente (30) jours lorsqu'il est demandé à l'établissement pharmaceutique de fournir tout \ncomplément d'information. \nLe délai d’évaluation tiendra également compte du caractère critique du produit pharmaceutique concerné. \nLes produits pharmaceutiques non indiqués dans les situations d'urgence sanitaire mais qui sont éligibles \nà une évaluation basée sur la confiance réglementaire et de la reconnaissance doivent subir une évaluation \ndans les délais conventionnels de l’enregistrement ou de la modification, et les rapports d’évaluations \ndoivent être finalisés dans le délai fixé par la réglementation en vigueur. \nLe directeur général de l’agence nationale des produits pharmaceutiques peut demander au comité des \nexperts cliniciens d’émettre un avis sur l'intérêt thérapeutique, l’efficacité, l’innocuité de tout produit \npharmaceutique à usage de la médecine humaine, dans le cadre de la procédure d’enregistrement ou de \nmodification de la décision d’enregistrement \nLa commission d’enregistrement est chargée d'émettre un avis, sur toute demande qui lui est soumise par \nle directeur général de l’agence nationale des produits pharmaceutiques, notamment, sur l’évaluation \nscientifique des bénéfices, des risques et de la valeur thérapeutique des produits pharmaceutiques. \n6. \nRéférences  \n-Arrêté du 11 Joumada El Oula 1442 correspondant au 26 décembre 2020 fixant la procédure de \nl'évaluation documentaire et/ou technique du dossier d'enregistrement et la liste des médicaments \nconcernés. \n-Arrêté interministériel du 10 septembre 2025 relatif à l’encadrement du principe de confiance \nréglementaire et de reconnaissance mutuelle en matière de produits pharmaceutiques et dispositifs \nmédicaux. \n-Décision n▫44 du 28 septembre 2025 fixant la liste des autorités de réglementation nationales ou \nrégionales, ainsi que par des organisations régionales ou internationales compétentes dans les domaines \npharmaceutiques et de la santé, reconnues au niveau national. \n\n\nPAGE 10\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 10 sur 10 \n \n-Annexe OMS : bonne",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "fr",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates."
+        },
+        {
+          "clause_id": "DZA-CTX-1",
+          "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+          "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+          "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+          "start_offset": 10400,
+          "end_offset": 13600,
+          "verbatim_extracted_text": " DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 6 sur 10 \n \nWLA : WHO-Listed Authorities (Autorités listés par l’OMS). \n5. \nDéveloppement du sujet  \n \n5.1.Discrétion de l’ANPP dans l’application de la confiance réglementaire ou de la reconnaissance et \nsouveraineté réglementaire \n5.1.1. Discrétion de l’ANPP \nL’approche de la confiance règlementaire et de la reconnaissance ne constitue pas une obligation pour \nl’ensemble des demandes d’enregistrement ou de modification des produits pharmaceutiques. La voie de \nla confiance règlementaire et de la reconnaissance n’est pas déclenchée sur demande explicite de \nl’établissement pharmaceutique ; elle est évaluée automatiquement par l’ANPP à la recevabilité du dossier. \nPar ailleurs, l’ANPP conserve le droit d’effectuer une évaluation complète lorsque cela est jugé nécessaire. \n5.1.2. Souveraineté réglementaire \n \nLa mise en œuvre de la confiance règlementaire et de la reconnaissance ne remet pas en cause la \nsouveraineté nationale. La décision finale d’octroi, de refus, de suspension ou de retrait d’une DE relève \nexclusivement de l’ANPP. \nL’ANPP reste indépendante, responsable des décisions qu’elle prend, même si elle s’appuie sur les \ndécisions, les évaluations et les informations d’autres autorités. \n \n \n5.2.Critère d’éligibilité à l’évaluation basée sur la confiance réglementaire ou de la reconnaissance  \nPour appliquer la procédure alternative d’évaluation basée sur le principe de la confiance réglementaire \nou de la reconnaissance, le produit doit disposer d'une autorisation de mise sur le marché (AMM) ou d'une \napprobation de modification délivrée par une autorité de réglementation nationale ou régionale, ainsi que \npar des organisations régionales ou internationales compétentes dans les domaines pharmaceutiques et de \nla santé, reconnues au niveau national. Cette autorité sera considérée comme autorité de réglementation \nde référence dont les évaluations documentaires scientifiques seront prises en compte pour soutenir \n\n\nPAGE 7\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 7 sur 10 \n \nla décision d’enregistrement ou l’approbation des modifications tout en assurant la qualité, la sécurité et \nl’efficacité des produits pharmaceutiques. La liste de ces autorités est fixée par Décision du Ministère de \nl’Industrie Pharmaceutique. \n5.3.Documentation requise dans le cadre de la confiance réglementaire et la reconnaissance \nDossier CTD complet \nLe principe de confiance réglementaire ou de reconnaissance \nn'exonère pas le demandeur de la soumission d'un dossier \nd'enregistrement complet dans le format international \nharmonisé (CTD), conformément aux Lignes Directrices de \nl’ANPP en vigueur. \nLe dossier CTD doit être le même que celui soumis à l’autorité \nRéglementaire de référence. \nPreuve de l’approbation \nde l’autorité \nréglementaire de \nréférence \nL’AMM ou l’Approbation de la modification délivrée par une \nautorité de réglementation nationales ou régionales, ainsi que \npar \nd",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "fr",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates."
+        },
+        {
+          "clause_id": "DZA-CTX-2",
+          "source_url": "https://anpp.dz/download/304/guidelines/22208/ligne-directrice-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement.pdf",
+          "raw_sha256": "5eed1e7a67040041879938246010d948f674cf293844d506df912461bdc9a837",
+          "text_sha256": "fc2570282ffbf2994f1d630a25187f9a9c1dae2551e032fbb06cbed0a8c66190",
+          "start_offset": 13500,
+          "end_offset": 15800,
+          "verbatim_extracted_text": "odification délivrée par une \nautorité de réglementation nationales ou régionales, ainsi que \npar \ndes \norganisations \nrégionales \nou \ninternationales \ncompétentes dans les domaines pharmaceutiques et de la santé, \nreconnues au niveau national, doit être fournie. \nAttestation de similarité \nLe demandeur doit justifier que le produit pharmaceutique \nsoumis à enregistrement ou pour modification est le même \nproduit que celui approuvé par l'autorité réglementaire de \nréférence tant dans sa composition, ses données relatives à la \nqualité que dans ses conditions d’autorisation. \nRapport d'évaluation \némanant de l’autorité \nréglementaire \nde \nréférence \nLe rapport d'évaluation complet, non public, non expurgé des \ninformations \nconfidentielles \némanant \nde \nl’autorité \nréglementaire de référence doit être fourni. \n\n\nPAGE 8\n \n \nLIGNE DIRECTRICE \nCode : LD-DEPP08/V01 \nLIGNE DIRECTRICE SUR LA VOIE \nALTERNATIVE :  CONFIANCE \nREGLEMENTAIRE ET RECONNAISSANCE \nLORS DE L’ENREGITREMENT ET LA \nMODIFICATION DE LA DECISION \nD’ENREGISTREMENT DES PRODUITS \nPHARMACEUTIQUES \nDate :22/04/2026 \nPage 8 sur 10 \n \nLes \nrapports \nde \nPharmacovigilance \n   Ra - Rapport périodique actualisé de sécurité (PSURs) \n  -Rapport périodique d’évaluation du rapport bénéfice/risque \n(PBRERs) \n \n5.4.Étendue des données concernées par l’évaluation basée sur la confiance réglementaire et de la \nreconnaissance mutuelle \nDans le cadre de la confiance réglementaire et de la reconnaissance, l’évaluation ne sera pas complète \npuisqu’elle s’appuiera sur les conclusions de l’évaluation effectuée par l’autorité réglementaire de \nréférence. \nLes données concernées par l’évaluation basée sur la confiance réglementaire et de la reconnaissance \nconcernent : \n-Les données administratives, réglementaires et celles relatives à la prescription (Module 1) ; \n-Les données relatives à la qualité de(s) la (des) substance(s) active(s) et du produit fini (Module 3) ; \n-Les données relatives à la sécurité et à l'efficacité, notamment, les essais d'équivalences thérapeutiques \npour les médicaments génériques et les biothérapeutiques similaires (Module 4 et Module 5). \nAprès vérification de l’intégralité des données nécessaires à l’évaluation complète et après examen du \nrapport d’évaluation de l’autorité réglementaire de réf",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "fr",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Guideline dated 22 April 2026; revision table 9 April 2026. Cites September 2025 instruments, which are recovery leads rather than independently validated operative dates."
+        }
+      ],
+      "explicit_full_report_gate": true,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

@@ -191,5 +191,98 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "CHN",
+    "country": "China",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "foreign_clinical_data",
+    "fixed_case_scope_status": "particular_evidence_only",
+    "finding": "Foreign multicentre data can support a filing if Chinese requirements are met; clinical evidence about population differences remains relevant. It does not establish an FDA/EC approval shortcut.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "Foreign multicentre data can support a filing if Chinese requirements are met; clinical evidence about population differences remains relevant. It does not establish an FDA/EC approval shortcut."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "Foreign multicentre data can support a filing if Chinese requirements are met; clinical evidence about population differences remains relevant. It does not establish an FDA/EC approval shortcut."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "Foreign multicentre data can support a filing if Chinese requirements are met; clinical evidence about population differences remains relevant. It does not establish an FDA/EC approval shortcut."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "Foreign multicentre data can support a filing if Chinese requirements are met; clinical evidence about population differences remains relevant. It does not establish an FDA/EC approval shortcut."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "Foreign multicentre data can support a filing if Chinese requirements are met; clinical evidence about population differences remains relevant. It does not establish an FDA/EC approval shortcut."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "CHN-Q01",
+        "source_url": "https://www.gov.cn/zhengce/2017-10/08/content_5230105.htm",
+        "raw_sha256": "457e40cf8a0f4fb5553dc084a5a10b22462b152d2fd07d5cf8b5078aa256cc3f",
+        "text_sha256": "33f90e986a1356144ff3c9d0c081cc2930716084847fa2ba245443c54d5219f6",
+        "start_offset": 1770,
+        "end_offset": 1873,
+        "verbatim_extracted_text": "（六）接受境外临床试验数据。在境外多中心取得的临床试验数据，符合中国药品医疗器械注册相关要求的，可用于在中国申报注册申请。对在中国首次申请上市的药品医疗器械，注册申请人应提供是否存在人种差异的临床试验数据。",
+        "pdf_page": null,
+        "language": "zh",
+        "language_status": "Official original-language source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Central reform opinion issued 8 October 2017, paragraph 6",
+        "translation_review": {
+          "id": "CHN-Q01",
+          "source_language": "zh",
+          "source_text": "（六）接受境外临床试验数据。在境外多中心取得的临床试验数据，符合中国药品医疗器械注册相关要求的，可用于在中国申报注册申请。对在中国首次申请上市的药品医疗器械，注册申请人应提供是否存在人种差异的临床试验数据。",
+          "document_id": "a1f3f02fc9d18cade74b",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "zh",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-zh_en-1_9.argosmodel",
+            "model_sha256": "62e7af5a3a48b530e47b7b3e5c78c2de79073ecd815750d2bf3ab35b4a67da2d",
+            "model_bytes": 74481402,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "zh",
+              "from_name": "Chinese",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "0a796ebd60aae9681973001ad5c6e9598d5880eb08a797bda919fd5dc951df3d",
+          "translated_utc": "2026-10-18T00:48:24.040023+00:00",
+          "source_characters": 103,
+          "segments": 3,
+          "raw_machine_translation": "(vi) Data from clinical trials outside the country.  Data obtained from clinical trials in multiple centres abroad that meet the requirements for registration of Chinese pharmaceutical medical devices can be used to declare registration applications in China. In the case of pharmaceutical medical devices that were first applied for listing in China, the registered applicant should provide clinical test data on the existence of ethnic differences.",
+          "checked_translation": "(6) Acceptance of overseas clinical-trial data. Data from overseas multicentre clinical trials meeting China's registration requirements for medicines and medical devices may be used to apply for registration in China. When medicines or medical devices are first submitted for marketing in China, the registration applicant shall provide clinical-trial data on whether ethnic differences exist.",
+          "check_note": "Restored acceptance heading; checked data-evidence scope, multicentre requirement and ethnic-difference obligation. Not recognition of a foreign approval.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        }
+      }
+    ],
+    "source_scope": "Foreign clinical evidence and ethnic differences; not recognition of a foreign authorisation decision",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

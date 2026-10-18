@@ -131,5 +131,561 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "BGD",
+    "country": "Bangladesh",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Abridged initial approval with conditional use of foreign assessment reports",
+    "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dgda/2026/3/6496a2c2-336c-4121-af07-97100a370d02.pdf",
+    "document_id": "7b5127d21ba1bc33e6b4",
+    "genre": "Final administrative guideline",
+    "language": "en",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "Official Bangladesh reliance guideline section on imported finished medicines. Foreign reports are used if available; do not convert that qualification into a mandatory unredacted-report rule.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "Reference authority registration and COPP support import registration; exact product-specific eligibility and authority list remain to be checked against Annex 1.",
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Regulatory assessment reports if available, foreign labels and other information used; agency may contact RRA when information is unavailable.",
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "discretionary/conditional",
+        "finding": "Official reference websites/public information expressly considered; public material alone does not establish complete eligibility.",
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Foreign quality/safety/efficacy accepted subject to local perspective and product requirements.",
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "Foreign registration/COPP documentation considered in registration.",
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ]
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Local regulatory review of relevance remains.",
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BGD-Q01",
+          "BGD-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "BGD-Q01",
+        "iso3": "BGD",
+        "event_id": null,
+        "document_id": "7b5127d21ba1bc33e6b4",
+        "source_id": "8e0abd464e8f51bd",
+        "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dgda/2026/3/6496a2c2-336c-4121-af07-97100a370d02.pdf",
+        "raw_sha256": "0e1adfa1c9a1de71205a00c757d10d2ff4de26ba861d2cd3f0e4bc142d934ec1",
+        "text_sha256": "f0a0bdfbdfcdeac31bcc8bbb32cec06a15c91dd3460ab16b9213507a070927cd",
+        "start_offset": 40972,
+        "end_offset": 42958,
+        "pdf_page": 15,
+        "section_article": "Marketing Authorization of Medical Products",
+        "verbatim_extracted_text": "Marketing Authorization of Medical Products: \nThe MA Function of DGDA is responsible for assessment, evaluation, and registration for Medical drugs. \nDGDA has adopted reference regulatory authorities, which are placed at Annexure-1 for reliance on their \nregulatory information in consideration of application through the abridged pathway for initial approvals, \nas well as the post-approval changes and renewals to facilitate the supply of the medicine and timely safety \ninformation for patients.  \nCurrently, the Authority applies a reliance procedure for granting registration/ Market Authorization in the \nfollowing circumstances: -  \na. \nFor registration of import finished medical products DGDA consider evaluation/registration/COPP \nof reference regulatory authorities (RRAs) in case of review of the Medical Products. \nb. \nFor drug substances/molecules that are already registered by the reference regulatory authorities in \na particular strength and dosage form, they are considered safe and efficacious, while considering \nthe registration of new drugs for a local perspective. \nc. \nDGDA has participated in the World Health Organization collaborative registration process to \nenable early access to those Medical Products which have been evaluated and listed as pre-qualified \nby WHO.  \n \nThe mechanism adopted for relying on information encompasses the following:  \ni. \nReview of assessment reports (if available), summary of product characteristics, and labeling \ninformation. \nii. \n Recognition of reported safety and efficacy concerns of already registered medicines. \niii. \nReview of Certificate of Pharmaceutical Products (COPP).  \niv. \nIn case information is not available on the official website, the reference regulatory authority will be \ncontacted directly via electronic mail for a query or clarification on a particular issue under \nconsideration. \nv. \nRegulatory status or any other regulatory information available in the public domain through their \nwebsite.",
+        "display_text": "Marketing Authorization of Medical Products: The MA Function of DGDA is responsible for assessment, evaluation, and registration for Medical drugs. DGDA has adopted reference regulatory authorities, which are placed at Annexure-1 for reliance on their regulatory information in consideration of application through the abridged pathway for initial approvals, as well as the post-approval changes and renewals to facilitate the supply of the medicine and timely safety information for patients. Currently, the Authority applies a reliance procedure for granting registration/ Market Authorization in the following circumstances: - a. For registration of import finished medical products DGDA consider evaluation/registration/COPP of reference regulatory authorities (RRAs) in case of review of the Medical Products. b. For drug substances/molecules that are already registered by the reference regulatory authorities in a particular strength and dosage form, they are considered safe and efficacious, while considering the registration of new drugs for a local perspective. c. DGDA has participated in the World Health Organization collaborative registration process to enable early access to those Medical Products which have been evaluated and listed as pre-qualified by WHO. The mechanism adopted for relying on information encompasses the following: i. Review of assessment reports (if available), summary of product characteristics, and labeling information. ii. Recognition of reported safety and efficacy concerns of already registered medicines. iii. Review of Certificate of Pharmaceutical Products (COPP). iv. In case information is not available on the official website, the reference regulatory authority will be contacted directly via electronic mail for a query or clarification on a particular issue under consideration. v. Regulatory status or any other regulatory information available in the public domain through their website.",
+        "feature_tags": [
+          "discretion",
+          "reports",
+          "scope_limit"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "Initial abridged approvals, changes and renewals are included. Assessment reports are reviewed if available; public regulatory information and direct queries are alternatives. This is different from an unconditional full-report requirement.",
+        "version_alignment": "Guideline v02, issued 22 April 2026; implementation 3 May 2026. Its quotation of Drugs and Cosmetics Act 2023 section 73 is not a separately downloaded statute.",
+        "evidence_tier": "national_rule",
+        "product_scope": "Human-medicine initial marketing authorisation",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "BGD-CONTEXT-1",
+        "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dgda/2026/3/6496a2c2-336c-4121-af07-97100a370d02.pdf",
+        "raw_sha256": "0e1adfa1c9a1de71205a00c757d10d2ff4de26ba861d2cd3f0e4bc142d934ec1",
+        "text_sha256": "f0a0bdfbdfcdeac31bcc8bbb32cec06a15c91dd3460ab16b9213507a070927cd",
+        "start_offset": 40222,
+        "end_offset": 43958,
+        "verbatim_extracted_text": "products \nof the RRA through RMP during registration procedure as per prevailing GVP guideline.    \n \nRegulatory Inspection and Lot Release: GMP certificate for imported API source validation and Lot \nrelease certificate from the NRA of the country of origin is required. To import API, importer should \n\n\nPAGE 15\n15 \n \nsubmit source validation related documents according to the DGDA checklist (SOP for Registration \nVaccine & Biological Products)   \n \nAreas for Reliance in Regulatory Process and Decision-making:  \nThe DGDA is practicing a reliance or recognition mechanism for regulating Medical products, which \nfalls under their mandate. The areas of reliance for different types of regulatory processes of Medical \nproducts are as follows: \n \nMarketing Authorization of Medical Products: \nThe MA Function of DGDA is responsible for assessment, evaluation, and registration for Medical drugs. \nDGDA has adopted reference regulatory authorities, which are placed at Annexure-1 for reliance on their \nregulatory information in consideration of application through the abridged pathway for initial approvals, \nas well as the post-approval changes and renewals to facilitate the supply of the medicine and timely safety \ninformation for patients.  \nCurrently, the Authority applies a reliance procedure for granting registration/ Market Authorization in the \nfollowing circumstances: -  \na. \nFor registration of import finished medical products DGDA consider evaluation/registration/COPP \nof reference regulatory authorities (RRAs) in case of review of the Medical Products. \nb. \nFor drug substances/molecules that are already registered by the reference regulatory authorities in \na particular strength and dosage form, they are considered safe and efficacious, while considering \nthe registration of new drugs for a local perspective. \nc. \nDGDA has participated in the World Health Organization collaborative registration process to \nenable early access to those Medical Products which have been evaluated and listed as pre-qualified \nby WHO.  \n \nThe mechanism adopted for relying on information encompasses the following:  \ni. \nReview of assessment reports (if available), summary of product characteristics, and labeling \ninformation. \nii. \n Recognition of reported safety and efficacy concerns of already registered medicines. \niii. \nReview of Certificate of Pharmaceutical Products (COPP).  \niv. \nIn case information is not available on the official website, the reference regulatory authority will be \ncontacted directly via electronic mail for a query or clarification on a particular issue under \nconsideration. \nv. \nRegulatory status or any other regulatory information available in the public domain through their \nwebsite. \n \nPharmacovigilance Activities: \nThe Directorate General of Drug Administration (DGDA), as the National Regulatory Authority, is \nresponsible for ensuring the safety of marketed medicinal products through the implementation of a \nrobust pharmacovigilance system in alignment with the World Health Organization (WHO) and the \ninternational pharmacovigilance guidelines. This includes systematic activities for signal detection, \nvalidation, assessment, and the initiation of proportionate risk minimization measures throughout the \nproduct lifecycle. \nIn accordance with good regulatory practices and principles of regulatory reliance, DGDA considers \npharmacovigilance-related regulatory decisions and safety communications issued by Reference \nRegulatory Authorities (RRAs) as well as regional and international regulatory agencies/organizations \nand public health bodies. Where appropriate, such decisions are leveraged to support timely, evidence-\nbased regulatory actions on pharmacovigilance i",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Guideline v02, issued 22 April 2026; implementation 3 May 2026. Its quotation of Drugs and Cosmetics Act 2023 section 73 is not a separately downloaded statute."
+      }
+    ],
+    "review_details": {
+      "iso3": "BGD",
+      "country": "Bangladesh",
+      "selected_document_id": "7b5127d21ba1bc33e6b4",
+      "source_id": "8e0abd464e8f51bd",
+      "pathway": "Abridged initial approval with conditional use of foreign assessment reports",
+      "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dgda/2026/3/6496a2c2-336c-4121-af07-97100a370d02.pdf",
+      "document_title": "DGDA consultation draft original2026",
+      "source_type": "Final administrative guideline",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "0e1adfa1c9a1de71205a00c757d10d2ff4de26ba861d2cd3f0e4bc142d934ec1",
+      "raw_hash_validated": true,
+      "text_sha256": "f0a0bdfbdfcdeac31bcc8bbb32cec06a15c91dd3460ab16b9213507a070927cd",
+      "version_dates": {},
+      "version_scope_note": "Official Bangladesh reliance guideline section on imported finished medicines. Foreign reports are used if available; do not convert that qualification into a mandatory unredacted-report rule.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          40222,
+          43958
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "Reference authority registration and COPP support import registration; exact product-specific eligibility and authority list remain to be checked against Annex 1.",
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Regulatory assessment reports if available, foreign labels and other information used; agency may contact RRA when information is unavailable.",
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "discretionary/conditional",
+          "finding": "Official reference websites/public information expressly considered; public material alone does not establish complete eligibility.",
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Foreign quality/safety/efficacy accepted subject to local perspective and product requirements.",
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "Foreign registration/COPP documentation considered in registration.",
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Local regulatory review of relevance remains.",
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BGD-Q01",
+            "BGD-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "BGD-Q01",
+          "iso3": "BGD",
+          "event_id": null,
+          "document_id": "7b5127d21ba1bc33e6b4",
+          "source_id": "8e0abd464e8f51bd",
+          "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dgda/2026/3/6496a2c2-336c-4121-af07-97100a370d02.pdf",
+          "raw_sha256": "0e1adfa1c9a1de71205a00c757d10d2ff4de26ba861d2cd3f0e4bc142d934ec1",
+          "text_sha256": "f0a0bdfbdfcdeac31bcc8bbb32cec06a15c91dd3460ab16b9213507a070927cd",
+          "start_offset": 40972,
+          "end_offset": 42958,
+          "pdf_page": 15,
+          "section_article": "Marketing Authorization of Medical Products",
+          "verbatim_extracted_text": "Marketing Authorization of Medical Products: \nThe MA Function of DGDA is responsible for assessment, evaluation, and registration for Medical drugs. \nDGDA has adopted reference regulatory authorities, which are placed at Annexure-1 for reliance on their \nregulatory information in consideration of application through the abridged pathway for initial approvals, \nas well as the post-approval changes and renewals to facilitate the supply of the medicine and timely safety \ninformation for patients.  \nCurrently, the Authority applies a reliance procedure for granting registration/ Market Authorization in the \nfollowing circumstances: -  \na. \nFor registration of import finished medical products DGDA consider evaluation/registration/COPP \nof reference regulatory authorities (RRAs) in case of review of the Medical Products. \nb. \nFor drug substances/molecules that are already registered by the reference regulatory authorities in \na particular strength and dosage form, they are considered safe and efficacious, while considering \nthe registration of new drugs for a local perspective. \nc. \nDGDA has participated in the World Health Organization collaborative registration process to \nenable early access to those Medical Products which have been evaluated and listed as pre-qualified \nby WHO.  \n \nThe mechanism adopted for relying on information encompasses the following:  \ni. \nReview of assessment reports (if available), summary of product characteristics, and labeling \ninformation. \nii. \n Recognition of reported safety and efficacy concerns of already registered medicines. \niii. \nReview of Certificate of Pharmaceutical Products (COPP).  \niv. \nIn case information is not available on the official website, the reference regulatory authority will be \ncontacted directly via electronic mail for a query or clarification on a particular issue under \nconsideration. \nv. \nRegulatory status or any other regulatory information available in the public domain through their \nwebsite.",
+          "display_text": "Marketing Authorization of Medical Products: The MA Function of DGDA is responsible for assessment, evaluation, and registration for Medical drugs. DGDA has adopted reference regulatory authorities, which are placed at Annexure-1 for reliance on their regulatory information in consideration of application through the abridged pathway for initial approvals, as well as the post-approval changes and renewals to facilitate the supply of the medicine and timely safety information for patients. Currently, the Authority applies a reliance procedure for granting registration/ Market Authorization in the following circumstances: - a. For registration of import finished medical products DGDA consider evaluation/registration/COPP of reference regulatory authorities (RRAs) in case of review of the Medical Products. b. For drug substances/molecules that are already registered by the reference regulatory authorities in a particular strength and dosage form, they are considered safe and efficacious, while considering the registration of new drugs for a local perspective. c. DGDA has participated in the World Health Organization collaborative registration process to enable early access to those Medical Products which have been evaluated and listed as pre-qualified by WHO. The mechanism adopted for relying on information encompasses the following: i. Review of assessment reports (if available), summary of product characteristics, and labeling information. ii. Recognition of reported safety and efficacy concerns of already registered medicines. iii. Review of Certificate of Pharmaceutical Products (COPP). iv. In case information is not available on the official website, the reference regulatory authority will be contacted directly via electronic mail for a query or clarification on a particular issue under consideration. v. Regulatory status or any other regulatory information available in the public domain through their website.",
+          "feature_tags": [
+            "discretion",
+            "reports",
+            "scope_limit"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "Initial abridged approvals, changes and renewals are included. Assessment reports are reviewed if available; public regulatory information and direct queries are alternatives. This is different from an unconditional full-report requirement.",
+          "version_alignment": "Guideline v02, issued 22 April 2026; implementation 3 May 2026. Its quotation of Drugs and Cosmetics Act 2023 section 73 is not a separately downloaded statute.",
+          "evidence_tier": "national_rule",
+          "product_scope": "Human-medicine initial marketing authorisation",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "BGD-CONTEXT-1",
+          "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dgda/2026/3/6496a2c2-336c-4121-af07-97100a370d02.pdf",
+          "raw_sha256": "0e1adfa1c9a1de71205a00c757d10d2ff4de26ba861d2cd3f0e4bc142d934ec1",
+          "text_sha256": "f0a0bdfbdfcdeac31bcc8bbb32cec06a15c91dd3460ab16b9213507a070927cd",
+          "start_offset": 40222,
+          "end_offset": 43958,
+          "verbatim_extracted_text": "products \nof the RRA through RMP during registration procedure as per prevailing GVP guideline.    \n \nRegulatory Inspection and Lot Release: GMP certificate for imported API source validation and Lot \nrelease certificate from the NRA of the country of origin is required. To import API, importer should \n\n\nPAGE 15\n15 \n \nsubmit source validation related documents according to the DGDA checklist (SOP for Registration \nVaccine & Biological Products)   \n \nAreas for Reliance in Regulatory Process and Decision-making:  \nThe DGDA is practicing a reliance or recognition mechanism for regulating Medical products, which \nfalls under their mandate. The areas of reliance for different types of regulatory processes of Medical \nproducts are as follows: \n \nMarketing Authorization of Medical Products: \nThe MA Function of DGDA is responsible for assessment, evaluation, and registration for Medical drugs. \nDGDA has adopted reference regulatory authorities, which are placed at Annexure-1 for reliance on their \nregulatory information in consideration of application through the abridged pathway for initial approvals, \nas well as the post-approval changes and renewals to facilitate the supply of the medicine and timely safety \ninformation for patients.  \nCurrently, the Authority applies a reliance procedure for granting registration/ Market Authorization in the \nfollowing circumstances: -  \na. \nFor registration of import finished medical products DGDA consider evaluation/registration/COPP \nof reference regulatory authorities (RRAs) in case of review of the Medical Products. \nb. \nFor drug substances/molecules that are already registered by the reference regulatory authorities in \na particular strength and dosage form, they are considered safe and efficacious, while considering \nthe registration of new drugs for a local perspective. \nc. \nDGDA has participated in the World Health Organization collaborative registration process to \nenable early access to those Medical Products which have been evaluated and listed as pre-qualified \nby WHO.  \n \nThe mechanism adopted for relying on information encompasses the following:  \ni. \nReview of assessment reports (if available), summary of product characteristics, and labeling \ninformation. \nii. \n Recognition of reported safety and efficacy concerns of already registered medicines. \niii. \nReview of Certificate of Pharmaceutical Products (COPP).  \niv. \nIn case information is not available on the official website, the reference regulatory authority will be \ncontacted directly via electronic mail for a query or clarification on a particular issue under \nconsideration. \nv. \nRegulatory status or any other regulatory information available in the public domain through their \nwebsite. \n \nPharmacovigilance Activities: \nThe Directorate General of Drug Administration (DGDA), as the National Regulatory Authority, is \nresponsible for ensuring the safety of marketed medicinal products through the implementation of a \nrobust pharmacovigilance system in alignment with the World Health Organization (WHO) and the \ninternational pharmacovigilance guidelines. This includes systematic activities for signal detection, \nvalidation, assessment, and the initiation of proportionate risk minimization measures throughout the \nproduct lifecycle. \nIn accordance with good regulatory practices and principles of regulatory reliance, DGDA considers \npharmacovigilance-related regulatory decisions and safety communications issued by Reference \nRegulatory Authorities (RRAs) as well as regional and international regulatory agencies/organizations \nand public health bodies. Where appropriate, such decisions are leveraged to support timely, evidence-\nbased regulatory actions on pharmacovigilance i",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Guideline v02, issued 22 April 2026; implementation 3 May 2026. Its quotation of Drugs and Cosmetics Act 2023 section 73 is not a separately downloaded statute."
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

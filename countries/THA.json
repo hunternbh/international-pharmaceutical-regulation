@@ -217,5 +217,484 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "THA",
+    "country": "Thailand",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Reference-authority assessment supports a separate priority vaccine-review clock",
+    "source_url": "https://drug.fda.moph.go.th/media.php?id=504244657690124288&name=Procedural_%20GL_Vaccine_final_sep_08.pdf",
+    "document_id": "6791d933055d185267d4",
+    "genre": "Final regulator guideline",
+    "language": "en",
+    "scope": "Vaccine marketing authorisation; not all small-molecule new drugs",
+    "version_note": "Selected 2018 third-revision guideline exclusively concerns vaccines. Ordinary small molecule is outside this selected pathway. This does not establish absence of other Thai new-drug reliance routes.",
+    "components": {
+      "new_active_substance": {
+        "state": "outside pathway scope",
+        "finding": "Vaccine definition/scope excludes fixed small-molecule medicine.",
+        "evidence_ids": [
+          "THA-Q01"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Vaccine-only document cannot decide report requirements for ordinary new drug.",
+        "evidence_ids": [
+          "THA-Q01"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside pathway scope",
+        "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+        "decisive_conditions": [
+          "Vaccine-only scope."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "THA-Q01"
+        ],
+        "status": "outside pathway scope"
+      },
+      "B": {
+        "eligibility": "outside pathway scope",
+        "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+        "decisive_conditions": [
+          "Vaccine-only scope."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "THA-Q01"
+        ],
+        "status": "outside pathway scope"
+      },
+      "C": {
+        "eligibility": "outside pathway scope",
+        "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+        "decisive_conditions": [
+          "Vaccine-only scope."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "THA-Q01"
+        ],
+        "status": "outside pathway scope"
+      },
+      "D": {
+        "eligibility": "outside pathway scope",
+        "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+        "decisive_conditions": [
+          "Vaccine-only scope."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "THA-Q01"
+        ],
+        "status": "outside pathway scope"
+      },
+      "E": {
+        "eligibility": "outside pathway scope",
+        "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+        "decisive_conditions": [
+          "Vaccine-only scope."
+        ],
+        "unresolved_conditions": [],
+        "evidence_ids": [
+          "THA-Q01"
+        ],
+        "status": "outside pathway scope"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "THA-Q01",
+        "source_document_id": "6791d933055d185267d4",
+        "evidence_role": "Selected primary document",
+        "section_article": "6.1.2",
+        "pdf_page": 12,
+        "source_url": "https://drug.fda.moph.go.th/media.php?id=504244657690124288&name=Procedural_%20GL_Vaccine_final_sep_08.pdf",
+        "raw_sha256": "a2b85ff410cbd3d63c8e5d4739ce3d2d186c2623f36f7135b1327d7a9febea8c",
+        "text_sha256": "f03701ca3f37a216672191cc8391e2d4e4c18633714d293c0c3fd43469e7a95b",
+        "exact_text": "6.1.2 Accelerated Review \n \nWhen a marketing authorization application is submitted for a product of \nmajor public health interest, the applicant may request an accelerated/fast \ntrack review as laid down in TFDA Regulation, then TFDA shall ensure that \nthe marketing authorization decision is made within 200 days.  Priority \nReview using Reference Drug Regulatory Authority Assessment from 220 \nworking days to 180 working days",
+        "start": 25762,
+        "end": 26191,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      }
+    ],
+    "review_details": {
+      "iso3": "THA",
+      "country": "Thailand",
+      "selected_document_id": "6791d933055d185267d4",
+      "source_id": "cc001380de25f375",
+      "pathway": "Reference-authority assessment supports a separate priority vaccine-review clock",
+      "source_url": "https://drug.fda.moph.go.th/media.php?id=504244657690124288&name=Procedural_%20GL_Vaccine_final_sep_08.pdf",
+      "document_title": "Thailand | Guideline on procedural aspects regarding MA of vaccines in Thailand, https://drug.fda.moph.go.th/media.php?id=504244657690124288&name=Procedural_%20GL_Vaccine_final_sep_08.pdf , \n                Thu May 23 2024",
+      "source_type": "Final regulator guideline",
+      "scope": "Vaccine marketing authorisation; not all small-molecule new drugs",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "THA-Q01": null
+        }
+      ],
+      "raw_sha256": "a2b85ff410cbd3d63c8e5d4739ce3d2d186c2623f36f7135b1327d7a9febea8c",
+      "raw_hash_validated": true,
+      "text_sha256": "f03701ca3f37a216672191cc8391e2d4e4c18633714d293c0c3fd43469e7a95b",
+      "version_dates": {
+        "version": "Third revision July 2018, vaccine guideline"
+      },
+      "version_scope_note": "Selected 2018 third-revision guideline exclusively concerns vaccines. Ordinary small molecule is outside this selected pathway. This does not establish absence of other Thai new-drug reliance routes.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          25762,
+          26191
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "outside pathway scope",
+          "finding": "Vaccine definition/scope excludes fixed small-molecule medicine.",
+          "evidence_ids": [
+            "THA-Q01"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Vaccine-only document cannot decide report requirements for ordinary new drug.",
+          "evidence_ids": [
+            "THA-Q01"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside pathway scope",
+          "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+          "decisive_conditions": [
+            "Vaccine-only scope."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "THA-Q01"
+          ]
+        },
+        "B": {
+          "eligibility": "outside pathway scope",
+          "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+          "decisive_conditions": [
+            "Vaccine-only scope."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "THA-Q01"
+          ]
+        },
+        "C": {
+          "eligibility": "outside pathway scope",
+          "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+          "decisive_conditions": [
+            "Vaccine-only scope."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "THA-Q01"
+          ]
+        },
+        "D": {
+          "eligibility": "outside pathway scope",
+          "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+          "decisive_conditions": [
+            "Vaccine-only scope."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "THA-Q01"
+          ]
+        },
+        "E": {
+          "eligibility": "outside pathway scope",
+          "finding": "Selected guidance is vaccine-only; fixed product is a small molecule.",
+          "decisive_conditions": [
+            "Vaccine-only scope."
+          ],
+          "unresolved_conditions": [],
+          "evidence_ids": [
+            "THA-Q01"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "THA-Q01",
+          "source_document_id": "6791d933055d185267d4",
+          "evidence_role": "Selected primary document",
+          "section_article": "6.1.2",
+          "pdf_page": 12,
+          "source_url": "https://drug.fda.moph.go.th/media.php?id=504244657690124288&name=Procedural_%20GL_Vaccine_final_sep_08.pdf",
+          "raw_sha256": "a2b85ff410cbd3d63c8e5d4739ce3d2d186c2623f36f7135b1327d7a9febea8c",
+          "text_sha256": "f03701ca3f37a216672191cc8391e2d4e4c18633714d293c0c3fd43469e7a95b",
+          "exact_text": "6.1.2 Accelerated Review \n \nWhen a marketing authorization application is submitted for a product of \nmajor public health interest, the applicant may request an accelerated/fast \ntrack review as laid down in TFDA Regulation, then TFDA shall ensure that \nthe marketing authorization decision is made within 200 days.  Priority \nReview using Reference Drug Regulatory Authority Assessment from 220 \nworking days to 180 working days",
+          "start": 25762,
+          "end": 26191,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

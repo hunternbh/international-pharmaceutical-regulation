@@ -423,5 +423,85 @@
       "4f7aab50a70b659ec5033628b07d4452cc81eef7583ad3ba2b61a7b0718b9762",
       "958c85b8829ea6be78f49e821b14666cd71e8f31ec72d74ba50f155d9eab31bb"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "FJI",
+    "country": "Fiji",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "provisional_listing",
+    "fixed_case_scope_status": "outside_full_authorisation_scope",
+    "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "outside selected route/function",
+        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+      },
+      "B": {
+        "status": "outside selected route/function",
+        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+      },
+      "C": {
+        "status": "outside selected route/function",
+        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+      },
+      "D": {
+        "status": "outside selected route/function",
+        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+      },
+      "E": {
+        "status": "outside selected route/function",
+        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "FJI-Q01",
+        "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+        "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+        "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+        "start_offset": 1785,
+        "end_offset": 2099,
+        "verbatim_extracted_text": "The Fiji MRA utilises processes of reliance and recognition to assess applications for listing. This \ninvolves utilising the regulatory decisions and information available from recognised overseas \nNational Regulatory Authorities to provide confidence that medicinal products meet the needs of \nthe people of Fiji.",
+        "pdf_page": 1,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "translation_review": null
+      },
+      {
+        "clause_id": "FJI-Q02",
+        "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+        "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+        "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+        "start_offset": 2865,
+        "end_offset": 4799,
+        "verbatim_extracted_text": "The Board may list medicinal products upon receipt of information which is specified in a notification \npublished in the Gazette. \nb) Each person must make an application to list each medicinal product they wish to deal with. \nc) The Fiji MRA Online Services Portal is used by applicants and the Fiji MRA to apply for, receive, \nprocess, and record the listing of medicinal products in Fiji. \ni. \nThe Portal is accessible from the Fiji MRA website at https://www.health.gov.fj/fiji-mra/  \nii. \nAll applicants are required to register an account on the Portal. \niii. \nInstructions for using the Portal are available on the Fiji MRA website and from the Help \nmenu within the Portal. \niv. \nAll communication between applicants and the Fiji MRA is through the Portal or by email. \nd) An application to list a medicinal product must be approved by the Board before the applicant may \ndeal with that medicinal product. \ne) The Board may list a medicinal product for a specified period of time. \nf) Where more than one application to list a medicinal product is approved, that medicinal product \nmay be listed separately for each approved application. \ng) Each listing for each medicinal product is specific to the applicant approved by the Board.  \nh) Listing is not transferrable without approval from the Board. \ni) \nThe Fiji MRA reserves the right to change the listing requirements for medicinal products. \nj) \nThe Fiji MRA reserves the right to require compliance with additional conditions when listing a \nmedicinal product. \n \n3. Requirements for Applicants \na) Applicants to list a medicinal product are required to: \ni. \nBe registered by the FCCC and have a current valid license authorising them to deal with \nmedicinal products in Fiji; and \nii. \nApply to the Fiji MRA to list each of the medicinal products they wish to deal with; and \niii. \nProvide the required information about each medicinal product they wish to deal with.",
+        "pdf_page": 2,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "translation_review": null
+      },
+      {
+        "clause_id": "FJI-Q03",
+        "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+        "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+        "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+        "start_offset": 6863,
+        "end_offset": 7081,
+        "verbatim_extracted_text": "They confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji.",
+        "pdf_page": 3,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Provisional listing, not full MA",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

@@ -211,5 +211,106 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ARE",
+    "country": "United Arab Emirates",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "framework_and_shortage",
+    "fixed_case_scope_status": "implementing_rules_unresolved",
+    "finding": "The preserved law requires a licensed applicant, traceability/pharmacovigilance, quality evidence, GMP and labeling; it refers to foreign approvals or supporting evidence and delegates detailed fast-track conditions. The shortage route adds separate shortage conditions not fixed in the ordinary medicine case.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The preserved law requires a licensed applicant, traceability/pharmacovigilance, quality evidence, GMP and labeling; it refers to foreign approvals or supporting evidence and delegates detailed fast-track conditions. The shortage route adds separate shortage conditions not fixed in the ordinary medicine case."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The preserved law requires a licensed applicant, traceability/pharmacovigilance, quality evidence, GMP and labeling; it refers to foreign approvals or supporting evidence and delegates detailed fast-track conditions. The shortage route adds separate shortage conditions not fixed in the ordinary medicine case."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The preserved law requires a licensed applicant, traceability/pharmacovigilance, quality evidence, GMP and labeling; it refers to foreign approvals or supporting evidence and delegates detailed fast-track conditions. The shortage route adds separate shortage conditions not fixed in the ordinary medicine case."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The preserved law requires a licensed applicant, traceability/pharmacovigilance, quality evidence, GMP and labeling; it refers to foreign approvals or supporting evidence and delegates detailed fast-track conditions. The shortage route adds separate shortage conditions not fixed in the ordinary medicine case."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The preserved law requires a licensed applicant, traceability/pharmacovigilance, quality evidence, GMP and labeling; it refers to foreign approvals or supporting evidence and delegates detailed fast-track conditions. The shortage route adds separate shortage conditions not fixed in the ordinary medicine case."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "ARE-R01",
+        "source_url": "https://littdb.sfo2.cdn.digitaloceanspaces.com/litt/AE/UAELegislation/healthcare/federal_decree_law/2751.html",
+        "raw_sha256": "56b56c45a3ea9c2dceed33ea0d076302230f4608399ad9cf51700e96cd7397c7",
+        "text_sha256": "7af779393286962e48c9318a4292f4b810dd8ccbc91dd24a43727a1eaad6d56c",
+        "start_offset": 1033,
+        "end_offset": 1098,
+        "verbatim_extracted_text": "Article (6) Terms and Conditions for Granting Marketing Approval\n",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Mirrored legislative translation; original Arabic controls; no retrospective annual adoption assigned.",
+        "translation_review": null
+      },
+      {
+        "clause_id": "ARE-R02",
+        "source_url": "https://littdb.sfo2.cdn.digitaloceanspaces.com/litt/AE/UAELegislation/healthcare/federal_decree_law/2751.html",
+        "raw_sha256": "56b56c45a3ea9c2dceed33ea0d076302230f4608399ad9cf51700e96cd7397c7",
+        "text_sha256": "7af779393286962e48c9318a4292f4b810dd8ccbc91dd24a43727a1eaad6d56c",
+        "start_offset": 1198,
+        "end_offset": 1263,
+        "verbatim_extracted_text": "Article (9) Terms and Controls of Conditional Marketing Approval\n",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Mirrored legislative translation; original Arabic controls; no retrospective annual adoption assigned.",
+        "translation_review": null
+      },
+      {
+        "clause_id": "STD-ARE-A6",
+        "source_url": "https://littdb.sfo2.cdn.digitaloceanspaces.com/litt/AE/UAELegislation/healthcare/federal_decree_law/2751.html",
+        "raw_sha256": "56b56c45a3ea9c2dceed33ea0d076302230f4608399ad9cf51700e96cd7397c7",
+        "text_sha256": "7af779393286962e48c9318a4292f4b810dd8ccbc91dd24a43727a1eaad6d56c",
+        "start_offset": 45567,
+        "end_offset": 48597,
+        "verbatim_extracted_text": "Article (6) Terms and Conditions for Granting Marketing Approval\n1. The Marketing Approval for the Medical Product is issued by the EDE in accordance with the following conditions:\na. The Applicant shall be a Pharmaceutical Establishment licensed as a Marketing Office, a Medical Products Manufacturer, a contracted Medical Products manufacturing company, or a Medical Warehouse designated by the Marketing Rights holder.\nb. The Applicant shall implement a quality assurance and product traceability system, a pharmacovigilance system and post-marketing follow-up.\nc. Assessing the Medical Product compliance with the Marketing Approvals issued for it by the reference countries or its compliance with research information that proves its effectiveness, safety of use, and conformity with approved quality specifications, including the results of clinical assessment or Bioequivalence and post-marketing results to prove the safety and effectiveness of the Medical Product.\nd. The presence of a certificate of analysis for Medical Products in Pharmaceutical Form or a quality certificate for their batches proving their quality or safety from a laboratory licensed by the EDE or approved by it.\ne. The Applicant has the right to market it in accordance with the established rules for intellectual property and trademarks. If the Medical Product is similar, the Applicant shall ensure compliance with the applicable laws and regulations concerning the protection of intellectual property and trademarks and provide evidence of the use of information and data for innovative products.\nf. Submit a valid Good Manufacturing Practice Certificate from the EDE and/or from the Competent Authority in the State of origin and/or any of the reference bodies accredited by the EDE.\ng. All information and data on the Medical Product and how to use it are provided on the internal and external card and the paper or electronic leaflet for the Medical Product, and the product meets the labelling guidelines issued by the EDE.\nh. Any other conditions determined by the Executive Regulation of this Decree-Law.\n2. Without prejudice to the provisions of international agreements to which the State is a party, and to the provisions of the intellectual property legislation in force in this regard, the EDE may grant Marketing Approval for a similar product, based on its biological and qualitative equivalence with a Pharmaceutical Product for which the legal protection granted has ceased, and for which Marketing Approval has previously been issued in accordance with the provisions of this Decree-Law.\n3. The EDE shall record the Medical Product for which Marketing Approval has been issued in the database referred to in Article (66) of this Decree-Law.\n4. The Executive Regulations of this Decree-Law shall specify the conditions, requirements and other controls for granting Marketing Approval, classified in accordance with the type of Medical Product and whether it is a similar, innovative, pioneering or orphan Pharmaceutical Product.\n",
+        "language": "en",
+        "language_status": "Preserved English legal-source rendering; original official text controls",
+        "evidence_tier": "supplemental_framework_context"
+      },
+      {
+        "clause_id": "STD-ARE-A9",
+        "source_url": "https://littdb.sfo2.cdn.digitaloceanspaces.com/litt/AE/UAELegislation/healthcare/federal_decree_law/2751.html",
+        "raw_sha256": "56b56c45a3ea9c2dceed33ea0d076302230f4608399ad9cf51700e96cd7397c7",
+        "text_sha256": "7af779393286962e48c9318a4292f4b810dd8ccbc91dd24a43727a1eaad6d56c",
+        "start_offset": 50340,
+        "end_offset": 52396,
+        "verbatim_extracted_text": "Article (9) Terms and Controls of Conditional Marketing Approval\n1. The Conditional Marketing Approval for the Medical Product is issued by the EDE in accordance with the following conditions:\na. Fulfilling the conditions referred to in paragraphs (a, b, d, g) of Clause (1) of Article (6) of this Decree-Law.\nb. Assessing the Medical Product compliance with the Marketing Approvals issued to it by the reference countries, or providing complete information and data concerning the reasons and justifications for the Medical Product obtaining conditional Marketing Approval from the reference country or one of the global reference Health Authorities for assessment.\nc. Submitting an undertaking stating that the Application for the Marketing Approval referred to in Article (5) of this Decree-Law will be submitted immediately after the reasons and justifications that called for the request for conditional Marketing Approval have expired, and in the event that the Marketing Right Holder wishes to continue circulation the Medical Product after the expiry of these reasons and justifications.\nd. Any other conditions determined by the Executive Regulation of this Decree-Law.\n2. The Conditional Marketing Approval for the Medical Product is issued by the EDE in accordance with the following controls:\na. The use of Medical Products that have received conditional Marketing Approval on specific persons or groups of persons without the need to conduct Clinical Trials.\nb. Marketing Medical Products that have been granted conditional approval to fill the temporary shortage of a similar Medical Product licensed in the State, provided that the Medical Product is licensed in another country that has similar control over Medical Products, and there is no identical, licensed and available Medical Product in the State.\nc. Any other controls determined by the Executive Regulation of this Decree-Law.\n3. The EDE shall record the Medical Product for which Marketing Approval has been issued in the database referred to in Article (66) of this Decree-Law.\n",
+        "language": "en",
+        "language_status": "Preserved English legal-source rendering; original official text controls",
+        "evidence_tier": "supplemental_framework_context"
+      },
+      {
+        "clause_id": "STD-ARE-A14",
+        "source_url": "https://littdb.sfo2.cdn.digitaloceanspaces.com/litt/AE/UAELegislation/healthcare/federal_decree_law/2751.html",
+        "raw_sha256": "56b56c45a3ea9c2dceed33ea0d076302230f4608399ad9cf51700e96cd7397c7",
+        "text_sha256": "7af779393286962e48c9318a4292f4b810dd8ccbc91dd24a43727a1eaad6d56c",
+        "start_offset": 57205,
+        "end_offset": 57717,
+        "verbatim_extracted_text": "Article (14) Fast Track Marketing Approval\n1. The EDE establishes a fast track with simplified procedures in line with quality, safety, efficacy requirements and international agreements, to grant Marketing Approvals for innovative Medical Products of therapeutic importance.\n2. The Executive Regulations of this Decree-Law shall specify other Medical Products permitted to be included in the fast track and the terms, controls and requirements for submitting a request for Marketing Approval within this track.\n",
+        "language": "en",
+        "language_status": "Preserved English legal-source rendering; original official text controls",
+        "evidence_tier": "supplemental_framework_context"
+      }
+    ],
+    "source_scope": "Enabling framework and conditional shortage access; detailed implementing requirements unresolved",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

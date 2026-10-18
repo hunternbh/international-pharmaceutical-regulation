@@ -316,5 +316,911 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ECU",
+    "country": "Ecuador",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Homologation conditional on reference authorisation and local evidence",
+    "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+    "document_id": "1b698481d80c0cf8d457",
+    "genre": "Guideline",
+    "language": "es",
+    "scope": "Human-medicine authorisation",
+    "version_note": "ARCSA registration requirements Annex 3 versionAugust 2021, homologation. Distinguish foreign MA proof from CPP and tropical stability documentation.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA and EMA explicitly in high-surveillance recognised-authority list.",
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Current approval by one recognised authority can support homologation.",
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Online approval verification is not proof public scientific assessment alone meets every requirement.",
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "discretionary/conditional",
+        "finding": "GMP evidence and ZoneIV stability requirements. Without relevant stability shelf-life limited 6 months; extension requires specified studies.",
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "Authenticated foreign MA and local Spanish label/leaflet documentation; online verification permitted when authority issues no physical certificate.",
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ]
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "Notarised/apostilled/consularised CPP or free-sale certificate with formula, manufacturer, strength and form.",
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ]
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "ARCSA may seek documentation for incomplete online foreign-register information.",
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "ECU-Q01",
+          "ECU-Q02",
+          "ECU-CONTEXT-1",
+          "ECU-CONTEXT-2",
+          "ECU-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "ECU-Q01",
+        "iso3": "ECU",
+        "event_id": "ECU_050",
+        "document_id": "1b698481d80c0cf8d457",
+        "source_id": "404d9ed24f896413",
+        "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+        "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+        "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+        "start_offset": 67783,
+        "end_offset": 67919,
+        "pdf_page": 37,
+        "verbatim_extracted_text": "Copia notariada Apostillado o consularizado del Certificado de Registro Sanitario\nemitido por Autoridades Sanitarias de los países cuyas",
+        "display_text": "Copia notariada Apostillado o consularizado del Certificado de Registro Sanitario emitido por Autoridades Sanitarias de los países cuyas",
+        "feature_tags": [
+          "reports"
+        ],
+        "role": "Permission and conditions",
+        "language": "es",
+        "language_status": "Original Spanish instruction on official government mirror",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": {
+          "id": "ECU-Q01",
+          "source_language": "es",
+          "source_text": "Copia notariada Apostillado o consularizado del Certificado de Registro Sanitario\nemitido por Autoridades Sanitarias de los países cuyas",
+          "document_id": "1b698481d80c0cf8d457",
+          "target_language": "en",
+          "translation_status": "Rejected/quarantined machine output",
+          "model_provenance": {
+            "language": "es",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+            "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+            "model_bytes": 285208831,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "es",
+              "from_name": "Spanish",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "1f9da5b685e45045c10761c6b2a645e88af1b0ac8729decf8c15db0477fc532c",
+          "translated_utc": "2026-10-18T00:48:09.804296+00:00",
+          "source_characters": 136,
+          "segments": 1,
+          "raw_machine_translation": "A notarized and / or consultative copy of the Health Registration Certificate issued by Health Authorities from countries whose",
+          "checked_translation": null,
+          "check_note": "Selected original is an incomplete sentence; no complete checked rendering or eligibility inference.",
+          "approved_for_display": false,
+          "approved_for_text_sensitivity": false,
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "ECU-Q02",
+        "iso3": "ECU",
+        "event_id": "ECU_050",
+        "document_id": "1b698481d80c0cf8d457",
+        "source_id": "404d9ed24f896413",
+        "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+        "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+        "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+        "start_offset": 74710,
+        "end_offset": 75816,
+        "pdf_page": 40,
+        "verbatim_extracted_text": "Para aquellos medicamentos provenientes de países cuyos estudios de estabilidad no\nse han realizado para las condiciones climáticas de Zona IV (según la clasificación de\nlCH para estudios de estabilidad), el periodo de vida útil del medicamento registrado\npor homologación será de seis (6) meses.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad\nnatural\nen condiciones experimentales de humedad y\ntemperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los\nEstados Unidos de Norte América, con duración igual al período de vida útil propuesto.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad en condiciones experimentales de humedad y temperatura,\ncorrespondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de\nNorte América, con duración igual al período de vida útil propuesto.\nSe aceptan estudios acelerados realizados de acuerdo a las condiciones y requerimientos\nestablecidos para la zona IV, por Guía ICH, cuando aplique.",
+        "display_text": "Para aquellos medicamentos provenientes de países cuyos estudios de estabilidad no se han realizado para las condiciones climáticas de Zona IV (según la clasificación de lCH para estudios de estabilidad), el periodo de vida útil del medicamento registrado por homologación será de seis (6) meses. Para ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres estudios de estabilidad natural en condiciones experimentales de humedad y temperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de Norte América, con duración igual al período de vida útil propuesto. Para ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres estudios de estabilidad en condiciones experimentales de humedad y temperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de Norte América, con duración igual al período de vida útil propuesto. Se aceptan estudios acelerados realizados de acuerdo a las condiciones y requerimientos establecidos para la zona IV, por Guía ICH, cuando aplique.",
+        "feature_tags": [
+          "local_evidence"
+        ],
+        "role": "Permission and conditions",
+        "language": "es",
+        "language_status": "Original Spanish instruction on official government mirror",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": {
+          "id": "ECU-Q02",
+          "source_language": "es",
+          "source_text": "Para aquellos medicamentos provenientes de países cuyos estudios de estabilidad no\nse han realizado para las condiciones climáticas de Zona IV (según la clasificación de\nlCH para estudios de estabilidad), el periodo de vida útil del medicamento registrado\npor homologación será de seis (6) meses.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad\nnatural\nen condiciones experimentales de humedad y\ntemperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los\nEstados Unidos de Norte América, con duración igual al período de vida útil propuesto.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad en condiciones experimentales de humedad y temperatura,\ncorrespondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de\nNorte América, con duración igual al período de vida útil propuesto.\nSe aceptan estudios acelerados realizados de acuerdo a las condiciones y requerimientos\nestablecidos para la zona IV, por Guía ICH, cuando aplique.",
+          "document_id": "1b698481d80c0cf8d457",
+          "target_language": "en",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "model_provenance": {
+            "language": "es",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+            "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+            "model_bytes": 285208831,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "es",
+              "from_name": "Spanish",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "0d0399024a30d5539aa8cd836beb09abc212c00608f83b7081cfe94b0e3c6d37",
+          "translated_utc": "2026-10-18T00:48:10.351507+00:00",
+          "source_characters": 1106,
+          "segments": 4,
+          "raw_machine_translation": "For medicines from countries whose stability studies have not been performed for climate conditions in Zone IV (as determined by the classification of lCH for stability studies), the useful life period of the product registered by type-approval shall be 6 (6) months. To extend the useful life period of the medicinal product, the manufacturer will have to submit three natural stability studies under experimental conditions of moisture and temperature, corresponding to Climate Zone IV (IHL Guide) or Pharmacopoeia of the United States of America, with duration equal to the proposed useful lifetime. To extend the useful life period of the medicinal product, the manufacturer will have to submit three stability studies under experimental conditions of moisture and temperature, corresponding to Climate Zone IV (IHL Guide) or Pharmacopoeia of the United States of America, with duration equal to the proposed useful lifetime. Accelerated studies performed according to the conditions and requirements established for area IV are accepted by an ICH guide as applicable.",
+          "checked_translation": "For medicines from countries where stability studies were not conducted for Climatic Zone IV conditions (under the ICH stability-study classification), the shelf life of the medicine registered by homologation shall be six (6) months. To extend the shelf life, the manufacturer must submit three natural stability studies under experimental humidity and temperature conditions corresponding to Climatic Zone IV (ICH Guide) or the United States Pharmacopoeia, lasting as long as the proposed shelf life. To extend the shelf life, the manufacturer must submit three stability studies under experimental humidity and temperature conditions corresponding to Climatic Zone IV (ICH Guide) or the United States Pharmacopoeia, lasting as long as the proposed shelf life. Accelerated studies conducted under the conditions and requirements established for Zone IV by an ICH guide are accepted where applicable.",
+          "check_note": "Checked six months, three studies, climatic zone and proposed-duration condition. Repetition exists in the original and is retained. Other Ecuador fragment remains unapproved, excluding Ecuador from translated NLP.",
+          "approved_for_display": true,
+          "approved_for_text_sensitivity": true,
+          "check_scope": [
+            "permission/modals",
+            "negation and conjunctions",
+            "numerical conditions and units",
+            "actors, scope and retained conditions"
+          ],
+          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        },
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "ECU-CONTEXT-1",
+        "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+        "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+        "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+        "start_offset": 67033,
+        "end_offset": 68919,
+        "verbatim_extracted_text": "años.\n\nLa información declarada en la VUE (Datos del Solicitante) debe ser la misma información\ndel Permiso de Funcionamiento, el mismo que debe corresponder a la actividad del\npresente instructivo, según el Reglamento Sustitutivo para otorgar permisos de\nffuncionamiento a los establecimientos sujetos a vigilancia y control sanitario. Acuerdo\nMinisterial N°. 00004712 y sus reformas;\n2.2. REQUISITOS PARA LA INSCRIPCIÓN DEL REGISTRO SANITARIO DE MEDICAMENTOS\nEXTRANJEROS.\nPara la solicitud de Homologación del Registro Sanitario se deben adjuntar los siguientes\ndocumentos:\n\nPAGE 37\nIE-B.3.2.1-MG-01-03/V.3.0/AGOSTO.2021\n4 | P á g i n a\nANEXO 3\nREQUISITOS PARA LA INSCRIPCIÓN POR HOMOLOGACIÓN\nDEL REGISTRO SANITARIO DE MEDICAMENTOS EN GENERAL.\na.\nCopia notariada Apostillado o consularizado del Certificado de Registro Sanitario\nemitido por Autoridades Sanitarias de los países cuyas agencias reguladoras de\nmedicamentos son agencias de alta vigilancia sanitaria.\nAGENCIAS REGULADORAS DE ALTA VIGILANCIA RECONOCIDAS POR ARCSA\nN°\nPAÍS\nAGENCIA\nENLACE A PÁGINA WEB\n1\nAlemania\nFederal Institute for Drugs and\nMedical Devices\nhttps://www.bfarm.de/DE/Home/_node.html\nPaul Ehrlich Institute\nhttps://www.pei.de/DE/home/home-\nnode.html\n2\nArgentina\nAdministración Nacional de\nMedicamentos, Alimentos y\nTecnología Médica (ANMAT)\nhttps://www.argentina.gob.ar/anmat\n3\nAustralia\nTherapeutic Goods\nAdministration (TGA)\nhttps://www.tga.gov.au/\n4\nAustria\nAustrian Agency for Health and\nFood Safety\nhttps://www.ages.at/startseite/\n5\nBélgica\nFederal Agency for Medicines\nand Health Products\nhttps://www.afmps.be/fr\n6\nBrasil\nAgência Nacional de Vigilância\nSanitária ( ANVISA)\nhttps://www.gov.br/anvisa/pt-br\n7\nBulgaria\nBulgarian Drug Agency\nhttps://www.bda.bg/bg/\n8\nCanadá\nHealth Canadá (HS)\nhttps://www.canada.ca/en/health-\ncanada/services/drugs-health-products.html\n9\nChile\nInstituto de Salud Pública\n",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "es",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution"
+      },
+      {
+        "clause_id": "ECU-CONTEXT-2",
+        "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+        "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+        "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+        "start_offset": 73960,
+        "end_offset": 76816,
+        "verbatim_extracted_text": "B.3.2.1-MG-01-03/V.3.0/AGOSTO.2021\n7 | P á g i n a\nANEXO 3\nREQUISITOS PARA LA INSCRIPCIÓN POR HOMOLOGACIÓN\nDEL REGISTRO SANITARIO DE MEDICAMENTOS EN GENERAL.\nc.\nUn ejemplar del proyecto de etiquetas externas e internas con las que se\ncomercializará en el país, redactadas en idioma castellano, con caracteres claramente\nlegibles e indelebles de conformidad con lo establecido en el Artículo 31 del\nreglamento de Registro Sanitario para medicamentos en general.\nd.\nEl prospecto dirigido al usuario, redactado en idioma castellano, con caracteres\nclaramente legibles e indelebles, que debe incluirse en el envase del medicamento, de\nconformidad con lo establecido en el Artículo 35 del reglamento de Registro Sanitario\npara medicamentos en general.\ne.\nPara aquellos medicamentos provenientes de países cuyos estudios de estabilidad no\nse han realizado para las condiciones climáticas de Zona IV (según la clasificación de\nlCH para estudios de estabilidad), el periodo de vida útil del medicamento registrado\npor homologación será de seis (6) meses.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad\nnatural\nen condiciones experimentales de humedad y\ntemperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los\nEstados Unidos de Norte América, con duración igual al período de vida útil propuesto.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad en condiciones experimentales de humedad y temperatura,\ncorrespondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de\nNorte América, con duración igual al período de vida útil propuesto.\nSe aceptan estudios acelerados realizados de acuerdo a las condiciones y requerimientos\nestablecidos para la zona IV, por Guía ICH, cuando aplique.\nNOTA: Los medicamentos que obtuvieron en el Ecuador el registro sanitario por\nhomologación y fuesen objeto de suspensión o cancelación en el país con el cual fue\nhomologado, serán suspendidos o cancelados en nuestro país mediante resolución\nadministrativa motivada con el fin de salvaguardar la salud de la población. La ARCSA o\nquien ejerza sus competencias, notificará al titular del registro sanitario de dicha\ncancelación o suspensión.\n\nPAGE 41\nANEXO 4: GUÍA DE REQUISITOS\nREQUISITOS PARA LA MODIFICACIÓN DEL\nREGISTRO SANITARIO DE MEDICAMENTOS\nEN GENERAL\nVersión [3.0]\nAgosto, 2021\n\nPAGE 42\nIE-B.3.2.1-MG-01-04/V.3.0/AGOSTO.2021\n1 | P á g i n a\nANEXO 4\nREQUISITOS PARA LA MODIFICACIÓN DEL REGISTRO SANITARIO\nDE MEDICAMENTOS EN GENERAL.\nCONTENIDO\n1.\nOBJETIVO DEL INSTRUCTIVO....................................................................................................2\n2.\nINTRUCCIONES……………………………………………………………………………………………………………………..2\n2.1.\nCONSIDERACIONES GENERALES………………………………………………………………………",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "es",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution"
+      },
+      {
+        "clause_id": "ECU-CTX-1",
+        "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+        "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+        "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+        "start_offset": 68919,
+        "end_offset": 73960,
+        "verbatim_extracted_text": "(ISP)\nhttps://www.ispch.cl/anamed/\n10 Chipre\nMinisterio de Salud - Servicios\nfarmacéuticos\nhttps://www.moh.gov.cy/moh/phs/phs.nsf/ho\nme/home?openform#\n11 Colombia\nInstituto Nacional de Vigilancia\nde Medicamentos y Alimentos\n(INVIMA)\nhttps://www.invima.gov.co/\n12 Corea del Sur\nMinisterio de alimentación y\nSeguridad de Medicamentos\n(MFDS)\nhttps://nedrug.mfds.go.kr/searchDrug\n13 Croacia\nAgencia de medicamentos y\nproductos sanitarios de Croacia\nhttps://www.halmed.hr/\n14 Cuba\nCentro para el Control Estatal de\nla Calidad de los Medicamentos.\nMinisterio de Salud Pública\n(CECMED)\nhttps://www.cecmed.cu/\n15 Dinamarca\nAgencia Danesa de\nMedicamentos\nhttps://laegemiddelstyrelsen.dk/en/\n\nPAGE 38\nIE-B.3.2.1-MG-01-03/V.3.0/AGOSTO.2021\n5 | P á g i n a\nANEXO 3\nREQUISITOS PARA LA INSCRIPCIÓN POR HOMOLOGACIÓN\nDEL REGISTRO SANITARIO DE MEDICAMENTOS EN GENERAL.\n16 Eslovaquia\nInstituto Estatal de Control de\nDrogas\nhttps://www.sukl.sk/hlavna-stranka/slovenska-\nverzia/registracia-humannych-\nliekov/registracia-lieku?page_id=99\n17 Eslovenia\nAgencia de Medicamentos y\nProductos Sanitarios de la\nRepública de Eslovenia\nhttps://www.jazmp.si/humana-zdravila/\n18\nEstados\nUnidos de\nAmérica\nFood and Drug Administration\n(FDA)\nhttps://www.fda.gov/\n19 España\nAgencia Española de\nMedicamentos y Productos\nSanitarios (AEMPS)\nhttps://www.aemps.gob.es/\n20 Estonia\nState Agency of Medicines\nhttps://www.ravimiamet.ee/\n21 Finlandia\nFinnish Medicines Agency\nhttps://www.fimea.fi/\n22 Francia\nNational Agency for the Safety\nof Medicine and Health Products https://ansm.sante.fr/\n23 Grecia\nNational Organization for\nMedicines\nhttps://www.eof.gr/web/guest;jsessionid=d10\nb7eccfadf70202ac957924d40\n24 Hungría\nNational Institute of Pharmacy\nand Nutrition\nhttps://ogyei.gov.hu/\n25 Islandia\nIcelandic Medicines Agency\nhttps://www.ima.is/\n26 Irlanda\nHealth Products Regulatory\nAuthority (HPRA)\nhttps://www.hpra.ie/\n27 Italia\nItalian Medicines Agency\nhttps://www.aifa.gov.it/\n28 Japón\nPharmaceuticals and Medical\nDevices Agency (PMDA)\nhttps://www.pmda.go.jp/english/index.html\n29 Letonia\nAgencia Estatal de\nMedicamentos\nhttps://www.zva.gov.lv/\n30 Liechtenstein Office of Health / Department of\nPharmaceuticals\nhttps://www.llv.li/\n31 Lituania\nState Medicines Control Agency\nhttps://www.vvkt.lt/\n32 Luxemburgo\nMinistry of Health\nhttps://sante.public.lu/fr/politique-\nsante/ministere-sante/index.html\n33 Malta\nMedicines Authority\nhttp://www.medicinesauthority.gov.mt/\n34 México\nComisión Federal para la\nProtección contra Riesgos\nSanitarios (COFEPRIS)\nhttps://www.gob.mx/cofepris\n35 Noruega\nNorwegian Medicines Agency\nhttps://legemiddelverket.no/\n\nPAGE 39\nIE-B.3.2.1-MG-01-03/V.3.0/AGOSTO.2021\n6 | P á g i n a\nANEXO 3\nREQUISITOS PARA LA INSCRIPCIÓN POR HOMOLOGACIÓN\nDEL REGISTRO SANITARIO DE MEDICAMENTOS EN GENERAL.\n36 Países Bajos\nMedicines Evaluation Board\nhttps://www.cbg-meb.nl/\nHealthcare Inspectorate\nhttps://www.igj.nl/?utm_source=igz.nl&utm_\nmedium=redirect&utm_campaign=redirect\n37 Polonia\nOffice for Registration of\nMedicinal Products, Medical\nDevices and Biocidal Products\nhttp://www.urpl.gov.pl/pl\nChief Pharmaceutical\nInspectorate\nhttps://www.gov.pl/web/gif\n38 Portugal\nNational Authority of Medicines\nand Health Products\nhttps://extranet.infarmed.pt/INFOMED-\nfo/index.xhtml\n39 Reino Unido\nMedicines & Healthcare\nproducts\nRegulatory Agency (MHRA)\nhttps://www.gov.uk/government/organisation\ns/medicines-and-healthcare-products-\nregulatory-agency\n40 República\nCheca\nState Institute for Drug Control\nhttps://www.sukl.cz/\n41 Rumania\nNational Authority of Medicines\nand Medical Devices\nhttps://www.anm.ro/\n42 Suecia\nMedical Products Agency\nhttps://www.lakemedelsverket.se/sv\n43 Suiza\nAgencia Suiza de Productos\nTerapéuticos (SWISSMEDIC)\nhttps://www.swissmedic.ch/swissmedic/de/ho\nme.html\n44 Unión\nEuropea\nEuropean Medicines Agency\n(EMA)\nhttps://www.ema.europa.eu/en\nEn el caso que la Autoridad Sanitaria del país extranjero no emita certificado de registro\nsanitario o Certificado de Buenas Prácticas de Manufactura en físico, la ARCSA o quien\nejerza sus competencias, verificará el registro en la página web oficial de dicha Autoridad,\ny aceptará el registro únicamente cuando el producto ha sido registrado por Agencias de\nalta vigilancia sanitaria.\nEl registro que se verifique en línea deberá estar vigente y conforme la información\npresentada en la solicitud. En el caso que la información de la página web oficial de la\nautoridad sanitaria extranjera no contenga toda la información necesaria, la ARCSA o\nquien ejerza sus competencias podrá solicitar la documentación de respaldo que avale la\ninformación faltante.\nb.\nCopia notariada, apostillado o consularizado del \"Certificado vigente de Producto\nFarmacéutico Objeto de Comercio Internacional\", según el modelo de la OMS o el\n\"Certificado de Libre Venta\" emitido por la autoridad sanitaria competente del país de\norigen de producto, que declare: nombre del producto, concentración y forma\nfarmacéutica del medicamento, fórmula cualitativa y cuantitativa completa, nombre,\nciudad y país del fabricante.\n\nPAGE 40\nIE-",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "es",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution"
+      }
+    ],
+    "review_details": {
+      "iso3": "ECU",
+      "country": "Ecuador",
+      "selected_document_id": "1b698481d80c0cf8d457",
+      "source_id": "404d9ed24f896413",
+      "pathway": "Homologation conditional on reference authorisation and local evidence",
+      "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+      "document_title": "",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "es",
+      "translation_provenance": "Original-language contextual interpretation; no unchecked machine translation treated as authoritative",
+      "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+      "raw_hash_validated": true,
+      "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+      "version_dates": {},
+      "version_scope_note": "ARCSA registration requirements Annex 3 versionAugust 2021, homologation. Distinguish foreign MA proof from CPP and tropical stability documentation.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          67033,
+          68919
+        ],
+        [
+          73960,
+          76816
+        ],
+        [
+          68919,
+          73960
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA and EMA explicitly in high-surveillance recognised-authority list.",
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Current approval by one recognised authority can support homologation.",
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Online approval verification is not proof public scientific assessment alone meets every requirement.",
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "discretionary/conditional",
+          "finding": "GMP evidence and ZoneIV stability requirements. Without relevant stability shelf-life limited 6 months; extension requires specified studies.",
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Authenticated foreign MA and local Spanish label/leaflet documentation; online verification permitted when authority issues no physical certificate.",
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "Notarised/apostilled/consularised CPP or free-sale certificate with formula, manufacturer, strength and form.",
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "ARCSA may seek documentation for incomplete online foreign-register information.",
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "ECU-Q01",
+            "ECU-Q02",
+            "ECU-CONTEXT-1",
+            "ECU-CONTEXT-2",
+            "ECU-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "ECU-Q01",
+          "iso3": "ECU",
+          "event_id": "ECU_050",
+          "document_id": "1b698481d80c0cf8d457",
+          "source_id": "404d9ed24f896413",
+          "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+          "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+          "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+          "start_offset": 67783,
+          "end_offset": 67919,
+          "pdf_page": 37,
+          "verbatim_extracted_text": "Copia notariada Apostillado o consularizado del Certificado de Registro Sanitario\nemitido por Autoridades Sanitarias de los países cuyas",
+          "display_text": "Copia notariada Apostillado o consularizado del Certificado de Registro Sanitario emitido por Autoridades Sanitarias de los países cuyas",
+          "feature_tags": [
+            "reports"
+          ],
+          "role": "Permission and conditions",
+          "language": "es",
+          "language_status": "Original Spanish instruction on official government mirror",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": {
+            "id": "ECU-Q01",
+            "source_language": "es",
+            "source_text": "Copia notariada Apostillado o consularizado del Certificado de Registro Sanitario\nemitido por Autoridades Sanitarias de los países cuyas",
+            "document_id": "1b698481d80c0cf8d457",
+            "target_language": "en",
+            "translation_status": "Rejected/quarantined machine output",
+            "model_provenance": {
+              "language": "es",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+              "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+              "model_bytes": 285208831,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "es",
+                "from_name": "Spanish",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "1f9da5b685e45045c10761c6b2a645e88af1b0ac8729decf8c15db0477fc532c",
+            "translated_utc": "2026-10-18T00:48:09.804296+00:00",
+            "source_characters": 136,
+            "segments": 1,
+            "raw_machine_translation": "A notarized and / or consultative copy of the Health Registration Certificate issued by Health Authorities from countries whose",
+            "checked_translation": null,
+            "check_note": "Selected original is an incomplete sentence; no complete checked rendering or eligibility inference.",
+            "approved_for_display": false,
+            "approved_for_text_sensitivity": false,
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "ECU-Q02",
+          "iso3": "ECU",
+          "event_id": "ECU_050",
+          "document_id": "1b698481d80c0cf8d457",
+          "source_id": "404d9ed24f896413",
+          "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+          "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+          "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+          "start_offset": 74710,
+          "end_offset": 75816,
+          "pdf_page": 40,
+          "verbatim_extracted_text": "Para aquellos medicamentos provenientes de países cuyos estudios de estabilidad no\nse han realizado para las condiciones climáticas de Zona IV (según la clasificación de\nlCH para estudios de estabilidad), el periodo de vida útil del medicamento registrado\npor homologación será de seis (6) meses.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad\nnatural\nen condiciones experimentales de humedad y\ntemperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los\nEstados Unidos de Norte América, con duración igual al período de vida útil propuesto.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad en condiciones experimentales de humedad y temperatura,\ncorrespondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de\nNorte América, con duración igual al período de vida útil propuesto.\nSe aceptan estudios acelerados realizados de acuerdo a las condiciones y requerimientos\nestablecidos para la zona IV, por Guía ICH, cuando aplique.",
+          "display_text": "Para aquellos medicamentos provenientes de países cuyos estudios de estabilidad no se han realizado para las condiciones climáticas de Zona IV (según la clasificación de lCH para estudios de estabilidad), el periodo de vida útil del medicamento registrado por homologación será de seis (6) meses. Para ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres estudios de estabilidad natural en condiciones experimentales de humedad y temperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de Norte América, con duración igual al período de vida útil propuesto. Para ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres estudios de estabilidad en condiciones experimentales de humedad y temperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de Norte América, con duración igual al período de vida útil propuesto. Se aceptan estudios acelerados realizados de acuerdo a las condiciones y requerimientos establecidos para la zona IV, por Guía ICH, cuando aplique.",
+          "feature_tags": [
+            "local_evidence"
+          ],
+          "role": "Permission and conditions",
+          "language": "es",
+          "language_status": "Original Spanish instruction on official government mirror",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": {
+            "id": "ECU-Q02",
+            "source_language": "es",
+            "source_text": "Para aquellos medicamentos provenientes de países cuyos estudios de estabilidad no\nse han realizado para las condiciones climáticas de Zona IV (según la clasificación de\nlCH para estudios de estabilidad), el periodo de vida útil del medicamento registrado\npor homologación será de seis (6) meses.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad\nnatural\nen condiciones experimentales de humedad y\ntemperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los\nEstados Unidos de Norte América, con duración igual al período de vida útil propuesto.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad en condiciones experimentales de humedad y temperatura,\ncorrespondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de\nNorte América, con duración igual al período de vida útil propuesto.\nSe aceptan estudios acelerados realizados de acuerdo a las condiciones y requerimientos\nestablecidos para la zona IV, por Guía ICH, cuando aplique.",
+            "document_id": "1b698481d80c0cf8d457",
+            "target_language": "en",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "model_provenance": {
+              "language": "es",
+              "model_version": "1.9",
+              "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
+              "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
+              "model_bytes": 285208831,
+              "model_root": null,
+              "model_metadata": {
+                "package_version": "1.9",
+                "argos_version": "1.9.0",
+                "from_code": "es",
+                "from_name": "Spanish",
+                "to_code": "en",
+                "to_name": "English"
+              },
+              "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+              "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+              "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+            },
+            "source_text_sha256": "0d0399024a30d5539aa8cd836beb09abc212c00608f83b7081cfe94b0e3c6d37",
+            "translated_utc": "2026-10-18T00:48:10.351507+00:00",
+            "source_characters": 1106,
+            "segments": 4,
+            "raw_machine_translation": "For medicines from countries whose stability studies have not been performed for climate conditions in Zone IV (as determined by the classification of lCH for stability studies), the useful life period of the product registered by type-approval shall be 6 (6) months. To extend the useful life period of the medicinal product, the manufacturer will have to submit three natural stability studies under experimental conditions of moisture and temperature, corresponding to Climate Zone IV (IHL Guide) or Pharmacopoeia of the United States of America, with duration equal to the proposed useful lifetime. To extend the useful life period of the medicinal product, the manufacturer will have to submit three stability studies under experimental conditions of moisture and temperature, corresponding to Climate Zone IV (IHL Guide) or Pharmacopoeia of the United States of America, with duration equal to the proposed useful lifetime. Accelerated studies performed according to the conditions and requirements established for area IV are accepted by an ICH guide as applicable.",
+            "checked_translation": "For medicines from countries where stability studies were not conducted for Climatic Zone IV conditions (under the ICH stability-study classification), the shelf life of the medicine registered by homologation shall be six (6) months. To extend the shelf life, the manufacturer must submit three natural stability studies under experimental humidity and temperature conditions corresponding to Climatic Zone IV (ICH Guide) or the United States Pharmacopoeia, lasting as long as the proposed shelf life. To extend the shelf life, the manufacturer must submit three stability studies under experimental humidity and temperature conditions corresponding to Climatic Zone IV (ICH Guide) or the United States Pharmacopoeia, lasting as long as the proposed shelf life. Accelerated studies conducted under the conditions and requirements established for Zone IV by an ICH guide are accepted where applicable.",
+            "check_note": "Checked six months, three studies, climatic zone and proposed-duration condition. Repetition exists in the original and is retained. Other Ecuador fragment remains unapproved, excluding Ecuador from translated NLP.",
+            "approved_for_display": true,
+            "approved_for_text_sensitivity": true,
+            "check_scope": [
+              "permission/modals",
+              "negation and conjunctions",
+              "numerical conditions and units",
+              "actors, scope and retained conditions"
+            ],
+            "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
+            "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+          },
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "ECU-CONTEXT-1",
+          "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+          "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+          "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+          "start_offset": 67033,
+          "end_offset": 68919,
+          "verbatim_extracted_text": "años.\n\nLa información declarada en la VUE (Datos del Solicitante) debe ser la misma información\ndel Permiso de Funcionamiento, el mismo que debe corresponder a la actividad del\npresente instructivo, según el Reglamento Sustitutivo para otorgar permisos de\nffuncionamiento a los establecimientos sujetos a vigilancia y control sanitario. Acuerdo\nMinisterial N°. 00004712 y sus reformas;\n2.2. REQUISITOS PARA LA INSCRIPCIÓN DEL REGISTRO SANITARIO DE MEDICAMENTOS\nEXTRANJEROS.\nPara la solicitud de Homologación del Registro Sanitario se deben adjuntar los siguientes\ndocumentos:\n\nPAGE 37\nIE-B.3.2.1-MG-01-03/V.3.0/AGOSTO.2021\n4 | P á g i n a\nANEXO 3\nREQUISITOS PARA LA INSCRIPCIÓN POR HOMOLOGACIÓN\nDEL REGISTRO SANITARIO DE MEDICAMENTOS EN GENERAL.\na.\nCopia notariada Apostillado o consularizado del Certificado de Registro Sanitario\nemitido por Autoridades Sanitarias de los países cuyas agencias reguladoras de\nmedicamentos son agencias de alta vigilancia sanitaria.\nAGENCIAS REGULADORAS DE ALTA VIGILANCIA RECONOCIDAS POR ARCSA\nN°\nPAÍS\nAGENCIA\nENLACE A PÁGINA WEB\n1\nAlemania\nFederal Institute for Drugs and\nMedical Devices\nhttps://www.bfarm.de/DE/Home/_node.html\nPaul Ehrlich Institute\nhttps://www.pei.de/DE/home/home-\nnode.html\n2\nArgentina\nAdministración Nacional de\nMedicamentos, Alimentos y\nTecnología Médica (ANMAT)\nhttps://www.argentina.gob.ar/anmat\n3\nAustralia\nTherapeutic Goods\nAdministration (TGA)\nhttps://www.tga.gov.au/\n4\nAustria\nAustrian Agency for Health and\nFood Safety\nhttps://www.ages.at/startseite/\n5\nBélgica\nFederal Agency for Medicines\nand Health Products\nhttps://www.afmps.be/fr\n6\nBrasil\nAgência Nacional de Vigilância\nSanitária ( ANVISA)\nhttps://www.gov.br/anvisa/pt-br\n7\nBulgaria\nBulgarian Drug Agency\nhttps://www.bda.bg/bg/\n8\nCanadá\nHealth Canadá (HS)\nhttps://www.canada.ca/en/health-\ncanada/services/drugs-health-products.html\n9\nChile\nInstituto de Salud Pública\n",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "es",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution"
+        },
+        {
+          "clause_id": "ECU-CONTEXT-2",
+          "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+          "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+          "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+          "start_offset": 73960,
+          "end_offset": 76816,
+          "verbatim_extracted_text": "B.3.2.1-MG-01-03/V.3.0/AGOSTO.2021\n7 | P á g i n a\nANEXO 3\nREQUISITOS PARA LA INSCRIPCIÓN POR HOMOLOGACIÓN\nDEL REGISTRO SANITARIO DE MEDICAMENTOS EN GENERAL.\nc.\nUn ejemplar del proyecto de etiquetas externas e internas con las que se\ncomercializará en el país, redactadas en idioma castellano, con caracteres claramente\nlegibles e indelebles de conformidad con lo establecido en el Artículo 31 del\nreglamento de Registro Sanitario para medicamentos en general.\nd.\nEl prospecto dirigido al usuario, redactado en idioma castellano, con caracteres\nclaramente legibles e indelebles, que debe incluirse en el envase del medicamento, de\nconformidad con lo establecido en el Artículo 35 del reglamento de Registro Sanitario\npara medicamentos en general.\ne.\nPara aquellos medicamentos provenientes de países cuyos estudios de estabilidad no\nse han realizado para las condiciones climáticas de Zona IV (según la clasificación de\nlCH para estudios de estabilidad), el periodo de vida útil del medicamento registrado\npor homologación será de seis (6) meses.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad\nnatural\nen condiciones experimentales de humedad y\ntemperatura, correspondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los\nEstados Unidos de Norte América, con duración igual al período de vida útil propuesto.\nPara ampliar el período de vida útil del medicamento, el fabricante deberá presentar tres\nestudios de estabilidad en condiciones experimentales de humedad y temperatura,\ncorrespondiente a la Zona Climática IV (Guía ICH) o Farmacopea de los Estados Unidos de\nNorte América, con duración igual al período de vida útil propuesto.\nSe aceptan estudios acelerados realizados de acuerdo a las condiciones y requerimientos\nestablecidos para la zona IV, por Guía ICH, cuando aplique.\nNOTA: Los medicamentos que obtuvieron en el Ecuador el registro sanitario por\nhomologación y fuesen objeto de suspensión o cancelación en el país con el cual fue\nhomologado, serán suspendidos o cancelados en nuestro país mediante resolución\nadministrativa motivada con el fin de salvaguardar la salud de la población. La ARCSA o\nquien ejerza sus competencias, notificará al titular del registro sanitario de dicha\ncancelación o suspensión.\n\nPAGE 41\nANEXO 4: GUÍA DE REQUISITOS\nREQUISITOS PARA LA MODIFICACIÓN DEL\nREGISTRO SANITARIO DE MEDICAMENTOS\nEN GENERAL\nVersión [3.0]\nAgosto, 2021\n\nPAGE 42\nIE-B.3.2.1-MG-01-04/V.3.0/AGOSTO.2021\n1 | P á g i n a\nANEXO 4\nREQUISITOS PARA LA MODIFICACIÓN DEL REGISTRO SANITARIO\nDE MEDICAMENTOS EN GENERAL.\nCONTENIDO\n1.\nOBJETIVO DEL INSTRUCTIVO....................................................................................................2\n2.\nINTRUCCIONES……………………………………………………………………………………………………………………..2\n2.1.\nCONSIDERACIONES GENERALES………………………………………………………………………",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "es",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution"
+        },
+        {
+          "clause_id": "ECU-CTX-1",
+          "source_url": "https://compracorporativasalud.compraspublicas.gob.ec/SICM/wp-content/uploads/2022/05/REQUISITOS_INSCRIPCION_REINSCRIPCION_HOMOLOGACION_MODIFICACION-MG.pdf",
+          "raw_sha256": "e109bb8fa40f0c8d3ff19fc36d7b9d15ae9bf0499e96d951cd128a72483b027f",
+          "text_sha256": "1a261375e4db9330461838f23cb153b8383a17ac575594c3f0bff2df84655519",
+          "start_offset": 68919,
+          "end_offset": 73960,
+          "verbatim_extracted_text": "(ISP)\nhttps://www.ispch.cl/anamed/\n10 Chipre\nMinisterio de Salud - Servicios\nfarmacéuticos\nhttps://www.moh.gov.cy/moh/phs/phs.nsf/ho\nme/home?openform#\n11 Colombia\nInstituto Nacional de Vigilancia\nde Medicamentos y Alimentos\n(INVIMA)\nhttps://www.invima.gov.co/\n12 Corea del Sur\nMinisterio de alimentación y\nSeguridad de Medicamentos\n(MFDS)\nhttps://nedrug.mfds.go.kr/searchDrug\n13 Croacia\nAgencia de medicamentos y\nproductos sanitarios de Croacia\nhttps://www.halmed.hr/\n14 Cuba\nCentro para el Control Estatal de\nla Calidad de los Medicamentos.\nMinisterio de Salud Pública\n(CECMED)\nhttps://www.cecmed.cu/\n15 Dinamarca\nAgencia Danesa de\nMedicamentos\nhttps://laegemiddelstyrelsen.dk/en/\n\nPAGE 38\nIE-B.3.2.1-MG-01-03/V.3.0/AGOSTO.2021\n5 | P á g i n a\nANEXO 3\nREQUISITOS PARA LA INSCRIPCIÓN POR HOMOLOGACIÓN\nDEL REGISTRO SANITARIO DE MEDICAMENTOS EN GENERAL.\n16 Eslovaquia\nInstituto Estatal de Control de\nDrogas\nhttps://www.sukl.sk/hlavna-stranka/slovenska-\nverzia/registracia-humannych-\nliekov/registracia-lieku?page_id=99\n17 Eslovenia\nAgencia de Medicamentos y\nProductos Sanitarios de la\nRepública de Eslovenia\nhttps://www.jazmp.si/humana-zdravila/\n18\nEstados\nUnidos de\nAmérica\nFood and Drug Administration\n(FDA)\nhttps://www.fda.gov/\n19 España\nAgencia Española de\nMedicamentos y Productos\nSanitarios (AEMPS)\nhttps://www.aemps.gob.es/\n20 Estonia\nState Agency of Medicines\nhttps://www.ravimiamet.ee/\n21 Finlandia\nFinnish Medicines Agency\nhttps://www.fimea.fi/\n22 Francia\nNational Agency for the Safety\nof Medicine and Health Products https://ansm.sante.fr/\n23 Grecia\nNational Organization for\nMedicines\nhttps://www.eof.gr/web/guest;jsessionid=d10\nb7eccfadf70202ac957924d40\n24 Hungría\nNational Institute of Pharmacy\nand Nutrition\nhttps://ogyei.gov.hu/\n25 Islandia\nIcelandic Medicines Agency\nhttps://www.ima.is/\n26 Irlanda\nHealth Products Regulatory\nAuthority (HPRA)\nhttps://www.hpra.ie/\n27 Italia\nItalian Medicines Agency\nhttps://www.aifa.gov.it/\n28 Japón\nPharmaceuticals and Medical\nDevices Agency (PMDA)\nhttps://www.pmda.go.jp/english/index.html\n29 Letonia\nAgencia Estatal de\nMedicamentos\nhttps://www.zva.gov.lv/\n30 Liechtenstein Office of Health / Department of\nPharmaceuticals\nhttps://www.llv.li/\n31 Lituania\nState Medicines Control Agency\nhttps://www.vvkt.lt/\n32 Luxemburgo\nMinistry of Health\nhttps://sante.public.lu/fr/politique-\nsante/ministere-sante/index.html\n33 Malta\nMedicines Authority\nhttp://www.medicinesauthority.gov.mt/\n34 México\nComisión Federal para la\nProtección contra Riesgos\nSanitarios (COFEPRIS)\nhttps://www.gob.mx/cofepris\n35 Noruega\nNorwegian Medicines Agency\nhttps://legemiddelverket.no/\n\nPAGE 39\nIE-B.3.2.1-MG-01-03/V.3.0/AGOSTO.2021\n6 | P á g i n a\nANEXO 3\nREQUISITOS PARA LA INSCRIPCIÓN POR HOMOLOGACIÓN\nDEL REGISTRO SANITARIO DE MEDICAMENTOS EN GENERAL.\n36 Países Bajos\nMedicines Evaluation Board\nhttps://www.cbg-meb.nl/\nHealthcare Inspectorate\nhttps://www.igj.nl/?utm_source=igz.nl&utm_\nmedium=redirect&utm_campaign=redirect\n37 Polonia\nOffice for Registration of\nMedicinal Products, Medical\nDevices and Biocidal Products\nhttp://www.urpl.gov.pl/pl\nChief Pharmaceutical\nInspectorate\nhttps://www.gov.pl/web/gif\n38 Portugal\nNational Authority of Medicines\nand Health Products\nhttps://extranet.infarmed.pt/INFOMED-\nfo/index.xhtml\n39 Reino Unido\nMedicines & Healthcare\nproducts\nRegulatory Agency (MHRA)\nhttps://www.gov.uk/government/organisation\ns/medicines-and-healthcare-products-\nregulatory-agency\n40 República\nCheca\nState Institute for Drug Control\nhttps://www.sukl.cz/\n41 Rumania\nNational Authority of Medicines\nand Medical Devices\nhttps://www.anm.ro/\n42 Suecia\nMedical Products Agency\nhttps://www.lakemedelsverket.se/sv\n43 Suiza\nAgencia Suiza de Productos\nTerapéuticos (SWISSMEDIC)\nhttps://www.swissmedic.ch/swissmedic/de/ho\nme.html\n44 Unión\nEuropea\nEuropean Medicines Agency\n(EMA)\nhttps://www.ema.europa.eu/en\nEn el caso que la Autoridad Sanitaria del país extranjero no emita certificado de registro\nsanitario o Certificado de Buenas Prácticas de Manufactura en físico, la ARCSA o quien\nejerza sus competencias, verificará el registro en la página web oficial de dicha Autoridad,\ny aceptará el registro únicamente cuando el producto ha sido registrado por Agencias de\nalta vigilancia sanitaria.\nEl registro que se verifique en línea deberá estar vigente y conforme la información\npresentada en la solicitud. En el caso que la información de la página web oficial de la\nautoridad sanitaria extranjera no contenga toda la información necesaria, la ARCSA o\nquien ejerza sus competencias podrá solicitar la documentación de respaldo que avale la\ninformación faltante.\nb.\nCopia notariada, apostillado o consularizado del \"Certificado vigente de Producto\nFarmacéutico Objeto de Comercio Internacional\", según el modelo de la OMS o el\n\"Certificado de Libre Venta\" emitido por la autoridad sanitaria competente del país de\norigen de producto, que declare: nombre del producto, concentración y forma\nfarmacéutica del medicamento, fórmula cualitativa y cuantitativa completa, nombre,\nciudad y país del fabricante.\n\nPAGE 40\nIE-",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "es",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version 3.0/August 2021; not presented as the verbatim 2018 resolution"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

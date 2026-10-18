@@ -259,5 +259,647 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "SLE",
+    "country": "Sierra Leone",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "SRA/WHO collaborative expedited registration",
+    "source_url": "https://clinregs.niaid.nih.gov/sites/default/files/documents/sierra_leone/G-FastReg_v2.pdf",
+    "document_id": "b102f68d27d564e7853d",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "PBSL guideline version 02 effective 17 February 2021. WHO/SRA collaborative route, not routine transfer of any public FDA approval. WHO must agree to information sharing; country documents and samples still required.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "SRA-approved allopathic products included; complete WHO participation conditions not established.",
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "discretionary/conditional",
+        "finding": "SRA approved or WHO prequalified products; SRA list not fully enumerated in selected guideline.",
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Technical dossier identical to current WHO/SRA dossier.",
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Applicant requests WHO-PQP full access to product-specific information for PBSL.",
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "explicit requirement",
+        "finding": "PBSL consents to procedure and requests WHO-PQ sharing; applicant requests WHO full access.",
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Executed batch record, samples and Zone IVB stability where applicable.",
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Application, country-specific documents and requisite fee.",
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "Communicate decision within 21 calendar days; complete start conditions not fully specified.",
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Board must consent to apply collaborative procedure.",
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "SLE-Q01",
+          "SLE-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "SLE-Q01",
+        "source_document_id": "b102f68d27d564e7853d",
+        "evidence_role": "Selected primary document",
+        "section_article": "5.1–5.1.3",
+        "pdf_page": 6,
+        "source_url": "https://clinregs.niaid.nih.gov/sites/default/files/documents/sierra_leone/G-FastReg_v2.pdf",
+        "raw_sha256": "49c7b9c018112340c4beb0ee6840e3afd2fb1ad8d156b5c2e6de27484e8d2bdd",
+        "text_sha256": "02af9adbbf32fa6b9f32f15cf2c0cbc9fbf90a86ffacce6d833f026d232c5f71",
+        "exact_text": "This guideline outlines the procedure for the application and registration of WHO \nprequalified allopathic drugs or SRA approved products by the Pharmacy Board of \nSierra Leone (PBSL).  \n• This is based on a collaborative procedure between the WHO Prequalification of \nMedicines Programme (WHO/PQP) and the PBSL in the assessment and accelerated \nregistration of WHO prequalified products or SRA approved products.  \n• Applicants with medical products that are either SRA approved or have been \nprequalified by the WHO/PQP can take advantage of this procedure for fast track \nregistration of their products by the PBSL. \n5.1.1 APPLICATION STEPS  \n1. \nApplicant \nshould \nsubmit \nthe \nproduct \ndossier \nfor \na WHO-prequalified \npharmaceutical product or SRA approved products, together with samples to the \nPharmacy Board of Sierra Leone. The dossier submitted to the PBSL should be the \nsame as that submitted to the WHO-PQP or SRA-countries. Hence, the application \nshould include; \na) A completed application form for the registration of allopathic drug by the PBSL, \nincluding the same technical information as that submitted to WHO/PQP or SRA-\ncountries. The technical part of the dossier should be identical to the current \nversion of the SRA or WHO/PQP dossier. \nb) The following country specific documentation;  \ni) Executed batch manufacturing records of one production batch.  \nii) Where applicable, long-term stability studies protocol and report conducted at \nZone IVB conditions  \n\n\nPAGE 7\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 7 of 11 \n \niii) Copy of the current version of Quality Information Summary (QIS) submitted to \nthe WHO. \nc) Payment of the requisite application fees for the registration of the product (s) as \nper the fee schedule of the PBSL. \n2. In situations where the applicant wishes to apply the Procedure to an application \nwhich is already pending with PBSL, the applicant should first update the dossier to \nensure that the technical part of the information is the same as that submitted to \nWHO. \n3. Submit an application letter, expressing your interest to use the WHO-PQ \ncollaborative procedure, for the registration of the product. \n4. The PBSL shall communicate its consent to apply the procedure to the application \nfor registration of the product, and to request the WHO-PQ to share product specific \ninformation.  \n5. Applicant shall then request the WHO-PQP to provide full access to the \ninformation on the prequalified product or SRA approved products to the PBSL. \n5.1.2 PROCESSING  \nThe PBSL shall process the application and communicate its decision on the product \nto the applicant and WHO within 21 calendar days. \n5.1.3 POST APPROVAL  \nAll post-prequalification variations submitted to WHO shall be submitted \nsimultaneously to the PBSL after the product has been registered by the PBSL.",
+        "start": 5626,
+        "end": 8645,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SLE-Q02",
+        "source_document_id": "7237861b732a3773caf1",
+        "evidence_role": "Different preserved source/limited alternative pathway; not primary case evidence",
+        "section_article": "Introduction and scope of separate 2024 GL/021",
+        "pdf_page": 3,
+        "source_url": "https://pharmacyboard.gov.sl/admin/gallery/281c880fa200354361eed4e8719fdbb1.pdf",
+        "raw_sha256": "3e376e635c4ad8a9c40158cb1d3d0802b0d526d381bb891e12f15d9e488b31b2",
+        "text_sha256": "43d644ca02672d6b1fcf949c26f1ae18f36aea3391c670ab1d11d80f9c95bb7c",
+        "exact_text": "This guideline applies only to allopathic medicines that are generic. It \nprescribes \nthe \nminimum \ninformation \nrequired \nfor \nsubmission \nof \ndocumentation. \nIt provides recommendations for applicants preparing application for the \nregistration of generic medicines that have been manufactured and/or \nlicensed in the United Kingdom. Applicants are encouraged to carefully read \nthis guideline, fill in the appropriate application form, prepare the requisite \ndocuments, and submit one original hard-copy and one electronic copy on a \nflash-drive or readable CD-Rom). \nOBJECTIVE \nThis guideline has been designed to assist in the following; \n Provide guidance on the technical and other general data requirements \nfor the registration of UK Generics. \n  To help shorten the timelines required for the registration of \nmedicines \n Promote effective and efficient processes for the evaluation of these \napplications and the subsequent issuance of Marketing Authorization. \nSCOPE  \nThis Guideline is developed in pursuance of Section 44 of the Pharmacy and \nDrugs Act 2001. This Guideline applies only to allopathic medicines and \n\nPAGE 4\n \n \nTitle: \nGUIDELINES \nFOR \nTHE \nREGISTRATION OF PRODUCTS \nFROM \nWHO \nLISTED \nAUTHORITIES \n \n \nRev No: 01 \n \nDoc No: PBSL/GL/021 \n \nVersion#: 02 \nIssue date: 15 may \n2024 \nEffective date:  17 Feb 2024 \nApproved by: Registrar \n \n4 \n \nprescribes \nthe \nminimum \ninformation \nrequired \nfor \nsubmission \nof \ndocumentation. It provides recommendations for applicants preparing \napplications for registration of UK Generics for submission to the Pharmacy \nBoard of Sierra Leone.",
+        "start": 1026,
+        "end": 2639,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SLE-Q03",
+        "source_document_id": "7237861b732a3773caf1",
+        "evidence_role": "Different preserved source/limited alternative pathway; not primary case evidence",
+        "section_article": "Exclusions in separate 2024 GL/021",
+        "pdf_page": 6,
+        "source_url": "https://pharmacyboard.gov.sl/admin/gallery/281c880fa200354361eed4e8719fdbb1.pdf",
+        "raw_sha256": "3e376e635c4ad8a9c40158cb1d3d0802b0d526d381bb891e12f15d9e488b31b2",
+        "text_sha256": "43d644ca02672d6b1fcf949c26f1ae18f36aea3391c670ab1d11d80f9c95bb7c",
+        "exact_text": "This Guideline is not applicable to the following  \n Products with non-pharmacopoeia standards/monographs.  \n Sterile products.  \n Program medicines (malaria, tuberculosis, HIV/AIDS, reproductive \nhealth, neglected tropical diseases), that is medicines intended for \ntreatment, cure or prevention of malaria, tuberculosis, HIV/AIDS, \nreproductive health, neglected tropical diseases. \n New drugs and new chemical entities \n\nPAGE 7\n \n \nTitle: \nGUIDELINES \nFOR \nTHE \nREGISTRATION OF PRODUCTS \nFROM \nWHO \nLISTED \nAUTHORITIES \n \n \nRev No: 01 \n \nDoc No: PBSL/GL/021 \n \nVersion#: 02 \nIssue date: 15 may \n2024 \nEffective date:  17 Feb 2024 \nApproved by: Registrar \n \n7",
+        "start": 4793,
+        "end": 5458,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "SLE-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://clinregs.niaid.nih.gov/sites/default/files/documents/sierra_leone/G-FastReg_v2.pdf",
+        "raw_sha256": "49c7b9c018112340c4beb0ee6840e3afd2fb1ad8d156b5c2e6de27484e8d2bdd",
+        "text_sha256": "02af9adbbf32fa6b9f32f15cf2c0cbc9fbf90a86ffacce6d833f026d232c5f71",
+        "exact_text": ", \ncontraception, inducing anaesthesia, altering normal physiologic function \npermanently or temporarily in any way in humans. \n• \nPBSL officially recognized list of publications - British Pharmacopoeia, United \nStates Pharmacopoeia, Extra Pharmacopoeia, International Pharmacopoeia \nand European Pharmacopoeia. \n• \nVariation: Means a change to any aspect of a pharmaceutical product, \nincluding but not limited to a change to formulation, method and site of \nmanufacture, specifications for the finished product and ingredients, \ncontainer and container labelling and product information. \n5.0 SPECIFIC REQUIREMENTS \n5.1 WHO PREQUALIFIED MEDICINAL PRODUCTS OR SRA APPROVED PRODUCTS \n\n\nPAGE 6\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 6 of 11 \n \n• This guideline outlines the procedure for the application and registration of WHO \nprequalified allopathic drugs or SRA approved products by the Pharmacy Board of \nSierra Leone (PBSL).  \n• This is based on a collaborative procedure between the WHO Prequalification of \nMedicines Programme (WHO/PQP) and the PBSL in the assessment and accelerated \nregistration of WHO prequalified products or SRA approved products.  \n• Applicants with medical products that are either SRA approved or have been \nprequalified by the WHO/PQP can take advantage of this procedure for fast track \nregistration of their products by the PBSL. \n5.1.1 APPLICATION STEPS  \n1. \nApplicant \nshould \nsubmit \nthe \nproduct \ndossier \nfor \na WHO-prequalified \npharmaceutical product or SRA approved products, together with samples to the \nPharmacy Board of Sierra Leone. The dossier submitted to the PBSL should be the \nsame as that submitted to the WHO-PQP or SRA-countries. Hence, the application \nshould include; \na) A completed application form for the registration of allopathic drug by the PBSL, \nincluding the same technical information as that submitted to WHO/PQP or SRA-\ncountries. The technical part of the dossier should be identical to the current \nversion of the SRA or WHO/PQP dossier. \nb) The following country specific documentation;  \ni) Executed batch manufacturing records of one production batch.  \nii) Where applicable, long-term stability studies protocol and report conducted at \nZone IVB conditions  \n\n\nPAGE 7\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 7 of 11 \n \niii) Copy of the current version of Quality Information Summary (QIS) submitted to \nthe WHO. \nc) Payment of the requisite application fees for the registration of the product (s) as \nper the fee schedule of the PBSL. \n2. In situations where the applicant wishes to apply the Procedure to an application \nwhich is already pending with PBSL, the applicant should first update the dossier to \nensure that the technical part of the information is the same as that submitted to \nWHO. \n3. Submit an application letter, expressing your interest to use the WHO-PQ \ncollaborative procedure, for the registration of the product. \n4. The PBSL shall communicate its consent to apply the procedure to the application \nfor registration of the product, and to request the WHO-PQ to share product specific \ninformation.  \n5. Applicant shall then request the WHO-PQP to provide full access to the \ninformation on the prequalified product or SRA approved products to the PBSL. \n5.1.2 PROCESSING  \nThe PBSL shall process the application and communicate its decision on the product \nto the applicant and WHO within 21 calendar days. \n5.1.3 POST APPROVAL  \nAll post-prequalification variations submitted to WHO shall be submitted \nsimultaneously to the PBSL after the product has been registered by the PBSL. \n5.2 PROGRAM DRUGS  \n\n\nPAGE 8\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 8 of 11 \n \nMedicinal products under this category (as listed above) shall be considered for a \nfast track registration mechanism. \n5.2.1 APPLICATION STEPS  \nApplicant for the registration of medical products under this category shall: \n1. Submit full application as per the PBSL requirement for the registration of \nmedical products.  \n2. Pay the required application fees for the registration of the product as per the fee \nschedule of the PBSL. \n3. Submit the required number of samples of the product as per the Pharmacy \nBoards sample schedule. \n \n5.2.2 PROCESSING  \nThe PBSL shall process the application and communicate its decision on the product \nto the applicant within 21 calendar days. \n \n6.0 Reference and Information sources \nhttps://www.fdaghana.gov.gh/branches.php  \nhttp://www.hc-sc.gc.ca/dhp-mps/vet/legislation/guide-ld/vdd_nds_guide-\neng.php#7 \nhttp://who.int  \n\n\nPAGE 9\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 9 of 11 \n \n7.0 Appendices \n7.1 List of countries considered as Stringent Regulatory Authorities (SRA) \nfrom 1st July 2009.  \nThe national drug regulatory authorities which are members or observers or \nassociates of the International Conference on Harmonization of Technical \nRequirements for Registration of Pharmaceuticals for Human Use (ICH) are \nconsidered as Stringent Regulatory Authority (SRA) as per the Global Fund Quality \nAssurance Policy for Pharmaceutical Products from July 1, 2009. For details on ICH, \nplease look at www.ich.org.  \nPlease find below the list of countries which are members, observers and associates \nof ICH.  \nMEMBERS:  \n• European Union member States (Austria, Belgium, Bulgaria, Cyprus, Czech \nRepublic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, \nItaly, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovak \nRepublic, Slovenia, Spain, Sweden, The Netherlands, and United Kingdom  \n• Japan  \n• United States  \nOBSERVERS: European Free Trade Association (EFTA) represented by Swiss Medic \nof Switzerland, and Health Canada (as may be updated from time to time).  \nASSOCIATES: Through mutual recognition agreements: Australia, Norway, Iceland \nand Liechtenstein (as may be updated from time to time).  \n\n\nPAGE 10\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 10 of 11 \n \nFor medicines used exclusively outside the ICH region, positive opinions or \ntentative approval under any of the following three special regulatory schemes are \nrecognized as stringent approval:  \n- Article 58 of European Union Regulation (EC) No. 726/2004  \n- Canada S.C. 2004, c. 23 (Bill C-9) procedure  \n- United States FDA tentative approval (for antiretrovirals under the PEPFAR \nprogramme) \n \n7.2 Abbreviations \nAIDS: Acquired Immunodeficiency Syndrome \nEPI:  Expa",
+        "start": 4700,
+        "end": 12000,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "SLE",
+      "country": "Sierra Leone",
+      "selected_document_id": "b102f68d27d564e7853d",
+      "source_id": "eb22dd46e9e299b7",
+      "pathway": "SRA/WHO collaborative expedited registration",
+      "source_url": "https://clinregs.niaid.nih.gov/sites/default/files/documents/sierra_leone/G-FastReg_v2.pdf",
+      "document_title": "Sierra Leone | Guidelines for the expedited registration of medical products. Doc No: PBSL/GL/024. Version No 2., https://clinregs.niaid.nih.gov/sites/default/files/documents/sierra_leone/G-FastReg_v2.pdf , \n                Mon May 06 2024",
+      "source_type": "Guideline",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "SLE-Q01": null
+        },
+        {
+          "SLE-Q02": null
+        },
+        {
+          "SLE-Q03": null
+        }
+      ],
+      "raw_sha256": "49c7b9c018112340c4beb0ee6840e3afd2fb1ad8d156b5c2e6de27484e8d2bdd",
+      "raw_hash_validated": true,
+      "text_sha256": "02af9adbbf32fa6b9f32f15cf2c0cbc9fbf90a86ffacce6d833f026d232c5f71",
+      "version_dates": {
+        "effective_date": "2021-02-17",
+        "version": "02"
+      },
+      "version_scope_note": "PBSL guideline version 02 effective 17 February 2021. WHO/SRA collaborative route, not routine transfer of any public FDA approval. WHO must agree to information sharing; country documents and samples still required.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          5626,
+          8645
+        ],
+        [
+          1026,
+          2639
+        ],
+        [
+          4793,
+          5458
+        ],
+        [
+          4700,
+          12000
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "SRA-approved allopathic products included; complete WHO participation conditions not established.",
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "discretionary/conditional",
+          "finding": "SRA approved or WHO prequalified products; SRA list not fully enumerated in selected guideline.",
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Technical dossier identical to current WHO/SRA dossier.",
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Applicant requests WHO-PQP full access to product-specific information for PBSL.",
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "explicit requirement",
+          "finding": "PBSL consents to procedure and requests WHO-PQ sharing; applicant requests WHO full access.",
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Executed batch record, samples and Zone IVB stability where applicable.",
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Application, country-specific documents and requisite fee.",
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "Communicate decision within 21 calendar days; complete start conditions not fully specified.",
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Board must consent to apply collaborative procedure.",
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "SLE-Q01",
+            "SLE-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "SLE-Q01",
+          "source_document_id": "b102f68d27d564e7853d",
+          "evidence_role": "Selected primary document",
+          "section_article": "5.1–5.1.3",
+          "pdf_page": 6,
+          "source_url": "https://clinregs.niaid.nih.gov/sites/default/files/documents/sierra_leone/G-FastReg_v2.pdf",
+          "raw_sha256": "49c7b9c018112340c4beb0ee6840e3afd2fb1ad8d156b5c2e6de27484e8d2bdd",
+          "text_sha256": "02af9adbbf32fa6b9f32f15cf2c0cbc9fbf90a86ffacce6d833f026d232c5f71",
+          "exact_text": "This guideline outlines the procedure for the application and registration of WHO \nprequalified allopathic drugs or SRA approved products by the Pharmacy Board of \nSierra Leone (PBSL).  \n• This is based on a collaborative procedure between the WHO Prequalification of \nMedicines Programme (WHO/PQP) and the PBSL in the assessment and accelerated \nregistration of WHO prequalified products or SRA approved products.  \n• Applicants with medical products that are either SRA approved or have been \nprequalified by the WHO/PQP can take advantage of this procedure for fast track \nregistration of their products by the PBSL. \n5.1.1 APPLICATION STEPS  \n1. \nApplicant \nshould \nsubmit \nthe \nproduct \ndossier \nfor \na WHO-prequalified \npharmaceutical product or SRA approved products, together with samples to the \nPharmacy Board of Sierra Leone. The dossier submitted to the PBSL should be the \nsame as that submitted to the WHO-PQP or SRA-countries. Hence, the application \nshould include; \na) A completed application form for the registration of allopathic drug by the PBSL, \nincluding the same technical information as that submitted to WHO/PQP or SRA-\ncountries. The technical part of the dossier should be identical to the current \nversion of the SRA or WHO/PQP dossier. \nb) The following country specific documentation;  \ni) Executed batch manufacturing records of one production batch.  \nii) Where applicable, long-term stability studies protocol and report conducted at \nZone IVB conditions  \n\n\nPAGE 7\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 7 of 11 \n \niii) Copy of the current version of Quality Information Summary (QIS) submitted to \nthe WHO. \nc) Payment of the requisite application fees for the registration of the product (s) as \nper the fee schedule of the PBSL. \n2. In situations where the applicant wishes to apply the Procedure to an application \nwhich is already pending with PBSL, the applicant should first update the dossier to \nensure that the technical part of the information is the same as that submitted to \nWHO. \n3. Submit an application letter, expressing your interest to use the WHO-PQ \ncollaborative procedure, for the registration of the product. \n4. The PBSL shall communicate its consent to apply the procedure to the application \nfor registration of the product, and to request the WHO-PQ to share product specific \ninformation.  \n5. Applicant shall then request the WHO-PQP to provide full access to the \ninformation on the prequalified product or SRA approved products to the PBSL. \n5.1.2 PROCESSING  \nThe PBSL shall process the application and communicate its decision on the product \nto the applicant and WHO within 21 calendar days. \n5.1.3 POST APPROVAL  \nAll post-prequalification variations submitted to WHO shall be submitted \nsimultaneously to the PBSL after the product has been registered by the PBSL.",
+          "start": 5626,
+          "end": 8645,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SLE-Q02",
+          "source_document_id": "7237861b732a3773caf1",
+          "evidence_role": "Different preserved source/limited alternative pathway; not primary case evidence",
+          "section_article": "Introduction and scope of separate 2024 GL/021",
+          "pdf_page": 3,
+          "source_url": "https://pharmacyboard.gov.sl/admin/gallery/281c880fa200354361eed4e8719fdbb1.pdf",
+          "raw_sha256": "3e376e635c4ad8a9c40158cb1d3d0802b0d526d381bb891e12f15d9e488b31b2",
+          "text_sha256": "43d644ca02672d6b1fcf949c26f1ae18f36aea3391c670ab1d11d80f9c95bb7c",
+          "exact_text": "This guideline applies only to allopathic medicines that are generic. It \nprescribes \nthe \nminimum \ninformation \nrequired \nfor \nsubmission \nof \ndocumentation. \nIt provides recommendations for applicants preparing application for the \nregistration of generic medicines that have been manufactured and/or \nlicensed in the United Kingdom. Applicants are encouraged to carefully read \nthis guideline, fill in the appropriate application form, prepare the requisite \ndocuments, and submit one original hard-copy and one electronic copy on a \nflash-drive or readable CD-Rom). \nOBJECTIVE \nThis guideline has been designed to assist in the following; \n Provide guidance on the technical and other general data requirements \nfor the registration of UK Generics. \n  To help shorten the timelines required for the registration of \nmedicines \n Promote effective and efficient processes for the evaluation of these \napplications and the subsequent issuance of Marketing Authorization. \nSCOPE  \nThis Guideline is developed in pursuance of Section 44 of the Pharmacy and \nDrugs Act 2001. This Guideline applies only to allopathic medicines and \n\nPAGE 4\n \n \nTitle: \nGUIDELINES \nFOR \nTHE \nREGISTRATION OF PRODUCTS \nFROM \nWHO \nLISTED \nAUTHORITIES \n \n \nRev No: 01 \n \nDoc No: PBSL/GL/021 \n \nVersion#: 02 \nIssue date: 15 may \n2024 \nEffective date:  17 Feb 2024 \nApproved by: Registrar \n \n4 \n \nprescribes \nthe \nminimum \ninformation \nrequired \nfor \nsubmission \nof \ndocumentation. It provides recommendations for applicants preparing \napplications for registration of UK Generics for submission to the Pharmacy \nBoard of Sierra Leone.",
+          "start": 1026,
+          "end": 2639,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SLE-Q03",
+          "source_document_id": "7237861b732a3773caf1",
+          "evidence_role": "Different preserved source/limited alternative pathway; not primary case evidence",
+          "section_article": "Exclusions in separate 2024 GL/021",
+          "pdf_page": 6,
+          "source_url": "https://pharmacyboard.gov.sl/admin/gallery/281c880fa200354361eed4e8719fdbb1.pdf",
+          "raw_sha256": "3e376e635c4ad8a9c40158cb1d3d0802b0d526d381bb891e12f15d9e488b31b2",
+          "text_sha256": "43d644ca02672d6b1fcf949c26f1ae18f36aea3391c670ab1d11d80f9c95bb7c",
+          "exact_text": "This Guideline is not applicable to the following  \n Products with non-pharmacopoeia standards/monographs.  \n Sterile products.  \n Program medicines (malaria, tuberculosis, HIV/AIDS, reproductive \nhealth, neglected tropical diseases), that is medicines intended for \ntreatment, cure or prevention of malaria, tuberculosis, HIV/AIDS, \nreproductive health, neglected tropical diseases. \n New drugs and new chemical entities \n\nPAGE 7\n \n \nTitle: \nGUIDELINES \nFOR \nTHE \nREGISTRATION OF PRODUCTS \nFROM \nWHO \nLISTED \nAUTHORITIES \n \n \nRev No: 01 \n \nDoc No: PBSL/GL/021 \n \nVersion#: 02 \nIssue date: 15 may \n2024 \nEffective date:  17 Feb 2024 \nApproved by: Registrar \n \n7",
+          "start": 4793,
+          "end": 5458,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "SLE-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://clinregs.niaid.nih.gov/sites/default/files/documents/sierra_leone/G-FastReg_v2.pdf",
+          "raw_sha256": "49c7b9c018112340c4beb0ee6840e3afd2fb1ad8d156b5c2e6de27484e8d2bdd",
+          "text_sha256": "02af9adbbf32fa6b9f32f15cf2c0cbc9fbf90a86ffacce6d833f026d232c5f71",
+          "exact_text": ", \ncontraception, inducing anaesthesia, altering normal physiologic function \npermanently or temporarily in any way in humans. \n• \nPBSL officially recognized list of publications - British Pharmacopoeia, United \nStates Pharmacopoeia, Extra Pharmacopoeia, International Pharmacopoeia \nand European Pharmacopoeia. \n• \nVariation: Means a change to any aspect of a pharmaceutical product, \nincluding but not limited to a change to formulation, method and site of \nmanufacture, specifications for the finished product and ingredients, \ncontainer and container labelling and product information. \n5.0 SPECIFIC REQUIREMENTS \n5.1 WHO PREQUALIFIED MEDICINAL PRODUCTS OR SRA APPROVED PRODUCTS \n\n\nPAGE 6\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 6 of 11 \n \n• This guideline outlines the procedure for the application and registration of WHO \nprequalified allopathic drugs or SRA approved products by the Pharmacy Board of \nSierra Leone (PBSL).  \n• This is based on a collaborative procedure between the WHO Prequalification of \nMedicines Programme (WHO/PQP) and the PBSL in the assessment and accelerated \nregistration of WHO prequalified products or SRA approved products.  \n• Applicants with medical products that are either SRA approved or have been \nprequalified by the WHO/PQP can take advantage of this procedure for fast track \nregistration of their products by the PBSL. \n5.1.1 APPLICATION STEPS  \n1. \nApplicant \nshould \nsubmit \nthe \nproduct \ndossier \nfor \na WHO-prequalified \npharmaceutical product or SRA approved products, together with samples to the \nPharmacy Board of Sierra Leone. The dossier submitted to the PBSL should be the \nsame as that submitted to the WHO-PQP or SRA-countries. Hence, the application \nshould include; \na) A completed application form for the registration of allopathic drug by the PBSL, \nincluding the same technical information as that submitted to WHO/PQP or SRA-\ncountries. The technical part of the dossier should be identical to the current \nversion of the SRA or WHO/PQP dossier. \nb) The following country specific documentation;  \ni) Executed batch manufacturing records of one production batch.  \nii) Where applicable, long-term stability studies protocol and report conducted at \nZone IVB conditions  \n\n\nPAGE 7\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 7 of 11 \n \niii) Copy of the current version of Quality Information Summary (QIS) submitted to \nthe WHO. \nc) Payment of the requisite application fees for the registration of the product (s) as \nper the fee schedule of the PBSL. \n2. In situations where the applicant wishes to apply the Procedure to an application \nwhich is already pending with PBSL, the applicant should first update the dossier to \nensure that the technical part of the information is the same as that submitted to \nWHO. \n3. Submit an application letter, expressing your interest to use the WHO-PQ \ncollaborative procedure, for the registration of the product. \n4. The PBSL shall communicate its consent to apply the procedure to the application \nfor registration of the product, and to request the WHO-PQ to share product specific \ninformation.  \n5. Applicant shall then request the WHO-PQP to provide full access to the \ninformation on the prequalified product or SRA approved products to the PBSL. \n5.1.2 PROCESSING  \nThe PBSL shall process the application and communicate its decision on the product \nto the applicant and WHO within 21 calendar days. \n5.1.3 POST APPROVAL  \nAll post-prequalification variations submitted to WHO shall be submitted \nsimultaneously to the PBSL after the product has been registered by the PBSL. \n5.2 PROGRAM DRUGS  \n\n\nPAGE 8\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 8 of 11 \n \nMedicinal products under this category (as listed above) shall be considered for a \nfast track registration mechanism. \n5.2.1 APPLICATION STEPS  \nApplicant for the registration of medical products under this category shall: \n1. Submit full application as per the PBSL requirement for the registration of \nmedical products.  \n2. Pay the required application fees for the registration of the product as per the fee \nschedule of the PBSL. \n3. Submit the required number of samples of the product as per the Pharmacy \nBoards sample schedule. \n \n5.2.2 PROCESSING  \nThe PBSL shall process the application and communicate its decision on the product \nto the applicant within 21 calendar days. \n \n6.0 Reference and Information sources \nhttps://www.fdaghana.gov.gh/branches.php  \nhttp://www.hc-sc.gc.ca/dhp-mps/vet/legislation/guide-ld/vdd_nds_guide-\neng.php#7 \nhttp://who.int  \n\n\nPAGE 9\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 9 of 11 \n \n7.0 Appendices \n7.1 List of countries considered as Stringent Regulatory Authorities (SRA) \nfrom 1st July 2009.  \nThe national drug regulatory authorities which are members or observers or \nassociates of the International Conference on Harmonization of Technical \nRequirements for Registration of Pharmaceuticals for Human Use (ICH) are \nconsidered as Stringent Regulatory Authority (SRA) as per the Global Fund Quality \nAssurance Policy for Pharmaceutical Products from July 1, 2009. For details on ICH, \nplease look at www.ich.org.  \nPlease find below the list of countries which are members, observers and associates \nof ICH.  \nMEMBERS:  \n• European Union member States (Austria, Belgium, Bulgaria, Cyprus, Czech \nRepublic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, \nItaly, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovak \nRepublic, Slovenia, Spain, Sweden, The Netherlands, and United Kingdom  \n• Japan  \n• United States  \nOBSERVERS: European Free Trade Association (EFTA) represented by Swiss Medic \nof Switzerland, and Health Canada (as may be updated from time to time).  \nASSOCIATES: Through mutual recognition agreements: Australia, Norway, Iceland \nand Liechtenstein (as may be updated from time to time).  \n\n\nPAGE 10\n \nTitle: \nGUIDELINES \nFOR \nTHE \nEXPEDITED REGISTRATION OF \nMEDICAL PRODUCTS \n \nRev No: 01 \n \nDoc No: PBSL/GL/024 \n \nVersion no. 02 \nIssue date: 15 Feb 2021 Effective date: 17 Feb 2021  \nApproved by: \nRegistrar \n \n \nPage 10 of 11 \n \nFor medicines used exclusively outside the ICH region, positive opinions or \ntentative approval under any of the following three special regulatory schemes are \nrecognized as stringent approval:  \n- Article 58 of European Union Regulation (EC) No. 726/2004  \n- Canada S.C. 2004, c. 23 (Bill C-9) procedure  \n- United States FDA tentative approval (for antiretrovirals under the PEPFAR \nprogramme) \n \n7.2 Abbreviations \nAIDS: Acquired Immunodeficiency Syndrome \nEPI:  Expa",
+          "start": 4700,
+          "end": 12000,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

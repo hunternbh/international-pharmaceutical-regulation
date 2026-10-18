@@ -361,5 +361,704 @@
       "46d997a652583db8f5a9d2a0c8fdf95f9134f50668bba0fdc0c66ab7a63d4678",
       "8628c7fa474cf49c564bbbee31114bbca771d94cfd52cfa85b11804cf353b3a3"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "PHL",
+    "country": "Philippines",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Abridged and verification routes",
+    "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-004-implementing-guidelines-on-the-abridged-and-verification-review-pathways-for-new-drug-registration-applications-in-accordance-with-administrative-order-no-2020-0045/",
+    "document_id": "8c9b54ba06c6c4f7cf81",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "FDA Circular 2022-004. Exact effective date depends on publication/ONAR conditions; not inferred. Two pathways within one selected document; verification and abridged remain separate. Reproductive-health products have a stated timeline exception.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "New chemical entities expressly within new-drug scope.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "RDRA list delegated to Annex A; selected HTML did not reproduce Annex A list. FDA/EMA naming must be checked against preserved annex.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Verification at least two RDRAs; abridged one RDRA.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "explicit requirement",
+        "finding": "Application within three years of RDRA approval; 18 months meets age threshold.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same formulation/sites/specifications/packaging, indication/regimen/patients; sworn product-owner assurance.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Complete unredacted/unedited assessment with questions/answers, conditions and annexes from each chosen RDRA.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Complete report content required; categorical public-domain ban not stated. Public-only case lacks underlying full material.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "Local benefits/risks assessed; additional supporting documents/clinical expert views may be requested.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Zone IVB stability unless justified otherwise; quality identity checks.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Limited independent local suitability assessment retained for both review types.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "explicit requirement",
+        "finding": "Applicant holds valid Philippine FDA License to Operate.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Formal request, full CTD/ACTD, fees and legal research fee.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "Documents in or translated into English.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "CPP/equivalent from identified RDRA, with specified alternative if not marketed there.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "Verification ≤30 working days; abridged ≤45 working days from paid complete dossier; reproductive-health exception.",
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "explicitly ineligible for identified full-report route",
+        "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+        "decisive_conditions": [
+          "Complete underlying assessment report requirement"
+        ],
+        "unresolved_conditions": [
+          "Other eligibility remains unresolved; route alternatives assessed separately."
+        ],
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ],
+        "status": "explicitly ineligible for identified full-report route"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional via abridged alternative; verification fails",
+        "finding": "FDA-only fails two-approval verification threshold but a one-approval abridged alternative is described; all remaining conditions must be satisfied.",
+        "decisive_conditions": [
+          "Different route: one-approval abridged versus two-approval verification."
+        ],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PHL-Q01",
+          "PHL-Q02",
+          "PHL-CTX-1"
+        ],
+        "status": "discretionary/conditional via abridged alternative; verification fails"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "explicit full-report condition; overall access gain not fully resolved",
+        "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "explicit selected-route threshold",
+        "finding": "Second/named approval changes route threshold; one-reference alternatives remain separately coded."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "PHL-Q01",
+        "source_document_id": "8c9b54ba06c6c4f7cf81",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": null,
+        "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-004-implementing-guidelines-on-the-abridged-and-verification-review-pathways-for-new-drug-registration-applications-in-accordance-with-administrative-order-no-2020-0045/",
+        "raw_sha256": "8d93d97546f7d3fb10cea14701b642eec5d9a6fc0f1a992ce968e107b607e154",
+        "text_sha256": "964ce0ec2208fec6bcbc666b3ab8d045d3dd29b95a8d4880dc3845da4cc6e1bf",
+        "exact_text": "abridged review and verification review types of FRP. For the collaborative procedure under AO No. 2020-0044 or the Adoption of the Collaborative Procedure for the Accelerated Registration of World Health Organization (WHO) – Prequalified Pharmaceutical Products and Vaccines, the implementing guidelines shall be covered by a separate Circular.\nIV. DEFINITION OF TERMS\nAbridged review\nrefers to a limited independent assessment of specific parts of the dossier, or submission for suitability of use under local conditions and regulatory requirements while relying on prior assessment from an RDRA to inform the local decision. The review is based on a complete assessment report, including question and answer documents, and the dossier including the stability data.\nVerification review\nrefers to an assessment process by which the submission has been evaluated and approved by at least two (2) RDRAs, and the FDA only validates the submission and ensures that the product conforms to the registration conditions, standards, and requirements as approved by the RDRAs.",
+        "start": 2865,
+        "end": 3933,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "PHL-Q02",
+        "source_document_id": "8c9b54ba06c6c4f7cf81",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": null,
+        "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-004-implementing-guidelines-on-the-abridged-and-verification-review-pathways-for-new-drug-registration-applications-in-accordance-with-administrative-order-no-2020-0045/",
+        "raw_sha256": "8d93d97546f7d3fb10cea14701b642eec5d9a6fc0f1a992ce968e107b607e154",
+        "text_sha256": "964ce0ec2208fec6bcbc666b3ab8d045d3dd29b95a8d4880dc3845da4cc6e1bf",
+        "exact_text": "Assessment Report\nrefers to the complete, unredacted, or unedited copy of the assessment reports of the marketing authorization application and evaluated by the RDRA. The Assessment Report details and explains how the RDRA assessed the safety, quality, and efficacy data and information within the submitted dossier to inform its final decision on the regulatory action. The Assessment Report outlines the area of concerns, questions and answers, and clarifications which the RDRA raised and how these were addressed by the applicant and includes the product approval conditions, the final and approved product labeling, and all other annexes.\nV. IMPLEMENTING GUIDELINES\nA. Eligibility Criteria\nThe eligibility criteria provided under Sec. IV.B of AO No. 2020-0045, reiterated with necessary clarifications as follows, shall apply to applicants availing of the FRP:\nThe applicant shall be a holder of a valid License to Operate (LTO) issued by the FDA;\nThe applicant may avail of the following submission pathways, subject to certain conditions.\na. Abridged review may be availed when the drug product, vaccine, or biological has been approved by an RDRA and the product application is within three (3) years from the date of approval of the RDRA.\nb. Verification review may be availed when the drug product, vaccine, or biological has been approved by at least two (2) RDRAs and the product application is within three (3) years from the date of approval of the RDRA/s.\nc. The applicant may choose to avail of only one (1) type of FRP per application based on compliance with the requirements. If the requirements of any of the FRP cannot be complied with, the application shall be processed following the regular review pathway.\nThe eligible product shall be the same as the product duly approved or registered in the RDRA/s identified by the applicant.\na. All aspects of the drug product’s quality, including but not limited to the formulation, manufacturing site/s, release and shelf-life specifications, and primary packaging, must be the same as those currently approved by the identified RDRA/s at the time of submission.\nb. The proposed indication/s, dosing regimen/s, patient group/s, and/or direction/s for use should be the same as those approved by the identified RDRA/s.\nThe product and its intended use have not been rejected, withdrawn, suspended, revoked, or has pending deferral by any RDRA due to quality, safety, or efficacy reasons.\nThe information on the proposed Package Insert/Patient Information Leaflet shall be identical to that of the approved by the RDRA with the addition of country-specific information stipulated in the current FDA labeling requirements.\nAll documents to be submitted shall be written/translated into the English language.\nB. Documentary Requirements\nApplications for new drugs, vaccines, and biologicals\na. A formal, written request from the applicant drug distributor notifying the FDA of its intent to avail of the abridged or verification review, identifying the RDRA/s.\nb. Assessment Report from each of the identified RDRA/s.\nc. A valid Certificate of Pharmaceutical Product (CPP) following the WHO Certification Scheme or its equivalent from the identified RDRA/s. If the product is not marketed in the jurisdiction of the identified RDRA/s, then a valid CPP or its equivalent from any of the RDRA/s as listed in Annex A may be provided.\nd. Complete International Council for Harmonisation of Technical Requirements for Pharmaceutical for Human Use (ICH) Common Technical Document (CTD) or ASEAN Common Technical Dossier (ACTD) data requirements following existing guidelines.\ne.  A report of stability studies conducted under climatic Zone IVB (hot and very humid), with the required minimum time period covered by data at submission, the minimum number of batches, and storage conditions for accelerated and long-term conditions shall be provided unless otherwise justified.\nf. Proposed Package Insert/Patient Information Leaflet identical to that approved by the RDRA with the addition of country-specific information stipulated in the current FDA labeling requirements.",
+        "start": 4631,
+        "end": 8759,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "PHL-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-004-implementing-guidelines-on-the-abridged-and-verification-review-pathways-for-new-drug-registration-applications-in-accordance-with-administrative-order-no-2020-0045/",
+        "raw_sha256": "8d93d97546f7d3fb10cea14701b642eec5d9a6fc0f1a992ce968e107b607e154",
+        "text_sha256": "964ce0ec2208fec6bcbc666b3ab8d045d3dd29b95a8d4880dc3845da4cc6e1bf",
+        "exact_text": " and valid approval/s from RDRA/s.\nThis Circular only covers the abridged review and verification review types of FRP. For the collaborative procedure under AO No. 2020-0044 or the Adoption of the Collaborative Procedure for the Accelerated Registration of World Health Organization (WHO) – Prequalified Pharmaceutical Products and Vaccines, the implementing guidelines shall be covered by a separate Circular.\nIV. DEFINITION OF TERMS\nAbridged review\nrefers to a limited independent assessment of specific parts of the dossier, or submission for suitability of use under local conditions and regulatory requirements while relying on prior assessment from an RDRA to inform the local decision. The review is based on a complete assessment report, including question and answer documents, and the dossier including the stability data.\nVerification review\nrefers to an assessment process by which the submission has been evaluated and approved by at least two (2) RDRAs, and the FDA only validates the submission and ensures that the product conforms to the registration conditions, standards, and requirements as approved by the RDRAs.\nA\nnew drug application\nrefers to a local registration application for a product that contains new chemical and/or biological entities proposed to be used in the diagnosis, cure, mitigation, treatment, or prevention of disease, new dosage forms, new dosage strengths, new routes of administration, and new indications. All generic products with FDA-approved equivalents shall not be considered new drugs.\nReference Drug Regulatory Agency (RDRA)\nrefers to a national or regional regulatory agency for drugs, vaccines, and biologicals being relied upon by the FDA for a more efficient approach at arriving at a decision thereby improving and expediting quality assured, effective, and safe products.\nAssessment Report\nrefers to the complete, unredacted, or unedited copy of the assessment reports of the marketing authorization application and evaluated by the RDRA. The Assessment Report details and explains how the RDRA assessed the safety, quality, and efficacy data and information within the submitted dossier to inform its final decision on the regulatory action. The Assessment Report outlines the area of concerns, questions and answers, and clarifications which the RDRA raised and how these were addressed by the applicant and includes the product approval conditions, the final and approved product labeling, and all other annexes.\nV. IMPLEMENTING GUIDELINES\nA. Eligibility Criteria\nThe eligibility criteria provided under Sec. IV.B of AO No. 2020-0045, reiterated with necessary clarifications as follows, shall apply to applicants availing of the FRP:\nThe applicant shall be a holder of a valid License to Operate (LTO) issued by the FDA;\nThe applicant may avail of the following submission pathways, subject to certain conditions.\na. Abridged review may be availed when the drug product, vaccine, or biological has been approved by an RDRA and the product application is within three (3) years from the date of approval of the RDRA.\nb. Verification review may be availed when the drug product, vaccine, or biological has been approved by at least two (2) RDRAs and the product application is within three (3) years from the date of approval of the RDRA/s.\nc. The applicant may choose to avail of only one (1) type of FRP per application based on compliance with the requirements. If the requirements of any of the FRP cannot be complied with, the application shall be processed following the regular review pathway.\nThe eligible product shall be the same as the product duly approved or registered in the RDRA/s identified by the applicant.\na. All aspects of the drug product’s quality, including but not limited to the formulation, manufacturing site/s, release and shelf-life specifications, and primary packaging, must be the same as those currently approved by the identified RDRA/s at the time of submission.\nb. The proposed indication/s, dosing regimen/s, patient group/s, and/or direction/s for use should be the same as those approved by the identified RDRA/s.\nThe product and its intended use have not been rejected, withdrawn, suspended, revoked, or has pending deferral by any RDRA due to quality, safety, or efficacy reasons.\nThe information on the proposed Package Insert/Patient Information Leaflet shall be identical to that of the approved by the RDRA with the addition of country-specific information stipulated in the current FDA labeling requirements.\nAll documents to be submitted shall be written/translated into the English language.\nB. Documentary Requirements\nApplications for new drugs, vaccines, and biologicals\na. A formal, written request from the applicant drug distributor notifying the FDA of its intent to avail of the abridged or verification review, identifying the RDRA/s.\nb. Assessment Report from each of the identified RDRA/s.\nc. A valid Certificate of Pharmaceutical Product (CPP) following the WHO Certification Scheme or its equivalent from the identified RDRA/s. If the product is not marketed in the jurisdiction of the identified RDRA/s, then a valid CPP or its equivalent from any of the RDRA/s as listed in Annex A may be provided.\nd. Complete International Council for Harmonisation of Technical Requirements for Pharmaceutical for Human Use (ICH) Common Technical Document (CTD) or ASEAN Common Technical Dossier (ACTD) data requirements following existing guidelines.\ne.  A report of stability studies conducted under climatic Zone IVB (hot and very humid), with the required minimum time period covered by data at submission, the minimum number of batches, and storage conditions for accelerated and long-term conditions shall be provided unless otherwise justified.\nf. Proposed Package Insert/Patient Information Leaflet identical to that approved by the RDRA with the addition of country-specific information stipulated in the current FDA labeling requirements.\nApplications for RDRA/s post-approval changes\nA formal, written request from the applicant drug distributor notifying the FDA of its intent to avail of the abridged or verification review, identifying the RDRA/s that approved the post approval changes.\nNote: The date of RDRA approval to be reflected in Annex B shall be the date the post-approval change/s was/were approved by the RDRA.\nOfficial approval letter or notification of the post-approval change/s from the identified RDRA/s.\nFor changes and/or additional indication/dosing regimen/patient population/inclusion of clinical information extending the usage of the product (categorized as major variation [MaV]-1 based on the ASEAN Variation Guideline for Pharmaceutical Products and as adopted through FDA Circular No. 2014-008 or any amendment or latest issuance thereafter), Assessment Report from each of the identified RDRA/s shall be required.\nIn addition to the foregoing requirements for applications for new drugs, vaccines, and biologicals and post-approval changes, all applications should be accompanied by a Sworn Assurance and (Annex B) signed exclusively by the Head of Regulatory Office of the product owner stating the following: (1) the product being applied is the same in all respects as the product approved by the RDRA, (2) the product and its intended use has not been rejected, withdrawn, suspended, revoked, or has pending deferral by any RDRA due to quality, safety, or efficacy reasons, and (3) that there is full compliance with the eligibility requirements provided under this Circular.\nThe applications shall comply with rules on filing and receiving pursuant to the latest issuances until such time that an automated system has been developed and launched.\nC. Review and Evaluation\nThe abridged review or verification review shall be based on a limited independent assessment of specific parts of the dossier. The complete Assessment Report/s, including all annexes, and the dossier including the stability data shall be reviewed and evaluated. Suitability of use under local conditions and regulatory requirements while relying on the prior assessment/s of the RDRA/s shall be assessed. The FDA may request additional supporting documents, as deemed necessary, to ensure the safety, efficacy, and quality of the product intended for registration.\nThe FDA shall consider the benefits and risks as they apply to the Philippine context based on the available data provided by the applicant.\nThe FDA may consider seeking opinions from clinical experts as necessary.\nD. Timelines\nType of Application / Pathway\nTimeline\nAbridged Review\nnot more than 45 working days\nVerification Review\nnot more than 30 working days\nPost-approval change/s\nThe turnaround time shall start after receipt of the proof of payment with the complete application dossier.\nThese timelines are not applicable to registration applications of reproductive health products which are required to undergo the complete process stipulated in the Implementing Rules and Regulations of Republic Act No. 10354 or the Responsible Parenthood and Reproductive Health Act of 2012.\nVI. FEES\nThe appropriate fees as prescribed under existing regulations shall apply, including a Legal Research Fee (LRF), following AO No. 50 s. 2001 or any amendment or latest issuance thereafter.\nVII. PROCESSING OF PENDING APPLICATIONS\nAll pending applications which qualify for Abridged Review or Verification Review, and which were received on or after 30 October 2020, the effectivity of AO No. 2020-0045, if s",
+        "start": 2800,
+        "end": 12300,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "PHL",
+      "country": "Philippines",
+      "selected_document_id": "8c9b54ba06c6c4f7cf81",
+      "source_id": "666491c461551fb7",
+      "pathway": "Abridged and verification routes",
+      "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-004-implementing-guidelines-on-the-abridged-and-verification-review-pathways-for-new-drug-registration-applications-in-accordance-with-administrative-order-no-2020-0045/",
+      "document_title": "FDA Circular2022-004 abridged verification new drugs",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "PHL-Q01": null
+        },
+        {
+          "PHL-Q02": null
+        }
+      ],
+      "raw_sha256": "8d93d97546f7d3fb10cea14701b642eec5d9a6fc0f1a992ce968e107b607e154",
+      "raw_hash_validated": true,
+      "text_sha256": "964ce0ec2208fec6bcbc666b3ab8d045d3dd29b95a8d4880dc3845da4cc6e1bf",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "FDA Circular 2022-004. Exact effective date depends on publication/ONAR conditions; not inferred. Two pathways within one selected document; verification and abridged remain separate. Reproductive-health products have a stated timeline exception.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          2865,
+          3933
+        ],
+        [
+          4631,
+          8759
+        ],
+        [
+          2800,
+          12300
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New chemical entities expressly within new-drug scope.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "RDRA list delegated to Annex A; selected HTML did not reproduce Annex A list. FDA/EMA naming must be checked against preserved annex.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Verification at least two RDRAs; abridged one RDRA.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "Application within three years of RDRA approval; 18 months meets age threshold.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same formulation/sites/specifications/packaging, indication/regimen/patients; sworn product-owner assurance.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Complete unredacted/unedited assessment with questions/answers, conditions and annexes from each chosen RDRA.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Complete report content required; categorical public-domain ban not stated. Public-only case lacks underlying full material.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "Local benefits/risks assessed; additional supporting documents/clinical expert views may be requested.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Zone IVB stability unless justified otherwise; quality identity checks.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Limited independent local suitability assessment retained for both review types.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "explicit requirement",
+          "finding": "Applicant holds valid Philippine FDA License to Operate.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Formal request, full CTD/ACTD, fees and legal research fee.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Documents in or translated into English.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "CPP/equivalent from identified RDRA, with specified alternative if not marketed there.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Verification ≤30 working days; abridged ≤45 working days from paid complete dossier; reproductive-health exception.",
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "explicitly ineligible for identified full-report route",
+          "finding": "Case A supplies public material only, not the complete underlying assessment package expressly required for the identified route. This does not establish absence of another domestic route.",
+          "decisive_conditions": [
+            "Complete underlying assessment report requirement"
+          ],
+          "unresolved_conditions": [
+            "Other eligibility remains unresolved; route alternatives assessed separately."
+          ],
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional via abridged alternative; verification fails",
+          "finding": "FDA-only fails two-approval verification threshold but a one-approval abridged alternative is described; all remaining conditions must be satisfied.",
+          "decisive_conditions": [
+            "Different route: one-approval abridged versus two-approval verification."
+          ],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PHL-Q01",
+            "PHL-Q02",
+            "PHL-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "explicit full-report condition; overall access gain not fully resolved",
+          "finding": "Additional full underlying reports meet a documented report-content gate; other case eligibility remains conditional."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "explicit selected-route threshold",
+          "finding": "Second/named approval changes route threshold; one-reference alternatives remain separately coded."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "PHL-Q01",
+          "source_document_id": "8c9b54ba06c6c4f7cf81",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": null,
+          "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-004-implementing-guidelines-on-the-abridged-and-verification-review-pathways-for-new-drug-registration-applications-in-accordance-with-administrative-order-no-2020-0045/",
+          "raw_sha256": "8d93d97546f7d3fb10cea14701b642eec5d9a6fc0f1a992ce968e107b607e154",
+          "text_sha256": "964ce0ec2208fec6bcbc666b3ab8d045d3dd29b95a8d4880dc3845da4cc6e1bf",
+          "exact_text": "abridged review and verification review types of FRP. For the collaborative procedure under AO No. 2020-0044 or the Adoption of the Collaborative Procedure for the Accelerated Registration of World Health Organization (WHO) – Prequalified Pharmaceutical Products and Vaccines, the implementing guidelines shall be covered by a separate Circular.\nIV. DEFINITION OF TERMS\nAbridged review\nrefers to a limited independent assessment of specific parts of the dossier, or submission for suitability of use under local conditions and regulatory requirements while relying on prior assessment from an RDRA to inform the local decision. The review is based on a complete assessment report, including question and answer documents, and the dossier including the stability data.\nVerification review\nrefers to an assessment process by which the submission has been evaluated and approved by at least two (2) RDRAs, and the FDA only validates the submission and ensures that the product conforms to the registration conditions, standards, and requirements as approved by the RDRAs.",
+          "start": 2865,
+          "end": 3933,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "PHL-Q02",
+          "source_document_id": "8c9b54ba06c6c4f7cf81",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": null,
+          "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-004-implementing-guidelines-on-the-abridged-and-verification-review-pathways-for-new-drug-registration-applications-in-accordance-with-administrative-order-no-2020-0045/",
+          "raw_sha256": "8d93d97546f7d3fb10cea14701b642eec5d9a6fc0f1a992ce968e107b607e154",
+          "text_sha256": "964ce0ec2208fec6bcbc666b3ab8d045d3dd29b95a8d4880dc3845da4cc6e1bf",
+          "exact_text": "Assessment Report\nrefers to the complete, unredacted, or unedited copy of the assessment reports of the marketing authorization application and evaluated by the RDRA. The Assessment Report details and explains how the RDRA assessed the safety, quality, and efficacy data and information within the submitted dossier to inform its final decision on the regulatory action. The Assessment Report outlines the area of concerns, questions and answers, and clarifications which the RDRA raised and how these were addressed by the applicant and includes the product approval conditions, the final and approved product labeling, and all other annexes.\nV. IMPLEMENTING GUIDELINES\nA. Eligibility Criteria\nThe eligibility criteria provided under Sec. IV.B of AO No. 2020-0045, reiterated with necessary clarifications as follows, shall apply to applicants availing of the FRP:\nThe applicant shall be a holder of a valid License to Operate (LTO) issued by the FDA;\nThe applicant may avail of the following submission pathways, subject to certain conditions.\na. Abridged review may be availed when the drug product, vaccine, or biological has been approved by an RDRA and the product application is within three (3) years from the date of approval of the RDRA.\nb. Verification review may be availed when the drug product, vaccine, or biological has been approved by at least two (2) RDRAs and the product application is within three (3) years from the date of approval of the RDRA/s.\nc. The applicant may choose to avail of only one (1) type of FRP per application based on compliance with the requirements. If the requirements of any of the FRP cannot be complied with, the application shall be processed following the regular review pathway.\nThe eligible product shall be the same as the product duly approved or registered in the RDRA/s identified by the applicant.\na. All aspects of the drug product’s quality, including but not limited to the formulation, manufacturing site/s, release and shelf-life specifications, and primary packaging, must be the same as those currently approved by the identified RDRA/s at the time of submission.\nb. The proposed indication/s, dosing regimen/s, patient group/s, and/or direction/s for use should be the same as those approved by the identified RDRA/s.\nThe product and its intended use have not been rejected, withdrawn, suspended, revoked, or has pending deferral by any RDRA due to quality, safety, or efficacy reasons.\nThe information on the proposed Package Insert/Patient Information Leaflet shall be identical to that of the approved by the RDRA with the addition of country-specific information stipulated in the current FDA labeling requirements.\nAll documents to be submitted shall be written/translated into the English language.\nB. Documentary Requirements\nApplications for new drugs, vaccines, and biologicals\na. A formal, written request from the applicant drug distributor notifying the FDA of its intent to avail of the abridged or verification review, identifying the RDRA/s.\nb. Assessment Report from each of the identified RDRA/s.\nc. A valid Certificate of Pharmaceutical Product (CPP) following the WHO Certification Scheme or its equivalent from the identified RDRA/s. If the product is not marketed in the jurisdiction of the identified RDRA/s, then a valid CPP or its equivalent from any of the RDRA/s as listed in Annex A may be provided.\nd. Complete International Council for Harmonisation of Technical Requirements for Pharmaceutical for Human Use (ICH) Common Technical Document (CTD) or ASEAN Common Technical Dossier (ACTD) data requirements following existing guidelines.\ne.  A report of stability studies conducted under climatic Zone IVB (hot and very humid), with the required minimum time period covered by data at submission, the minimum number of batches, and storage conditions for accelerated and long-term conditions shall be provided unless otherwise justified.\nf. Proposed Package Insert/Patient Information Leaflet identical to that approved by the RDRA with the addition of country-specific information stipulated in the current FDA labeling requirements.",
+          "start": 4631,
+          "end": 8759,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "PHL-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-004-implementing-guidelines-on-the-abridged-and-verification-review-pathways-for-new-drug-registration-applications-in-accordance-with-administrative-order-no-2020-0045/",
+          "raw_sha256": "8d93d97546f7d3fb10cea14701b642eec5d9a6fc0f1a992ce968e107b607e154",
+          "text_sha256": "964ce0ec2208fec6bcbc666b3ab8d045d3dd29b95a8d4880dc3845da4cc6e1bf",
+          "exact_text": " and valid approval/s from RDRA/s.\nThis Circular only covers the abridged review and verification review types of FRP. For the collaborative procedure under AO No. 2020-0044 or the Adoption of the Collaborative Procedure for the Accelerated Registration of World Health Organization (WHO) – Prequalified Pharmaceutical Products and Vaccines, the implementing guidelines shall be covered by a separate Circular.\nIV. DEFINITION OF TERMS\nAbridged review\nrefers to a limited independent assessment of specific parts of the dossier, or submission for suitability of use under local conditions and regulatory requirements while relying on prior assessment from an RDRA to inform the local decision. The review is based on a complete assessment report, including question and answer documents, and the dossier including the stability data.\nVerification review\nrefers to an assessment process by which the submission has been evaluated and approved by at least two (2) RDRAs, and the FDA only validates the submission and ensures that the product conforms to the registration conditions, standards, and requirements as approved by the RDRAs.\nA\nnew drug application\nrefers to a local registration application for a product that contains new chemical and/or biological entities proposed to be used in the diagnosis, cure, mitigation, treatment, or prevention of disease, new dosage forms, new dosage strengths, new routes of administration, and new indications. All generic products with FDA-approved equivalents shall not be considered new drugs.\nReference Drug Regulatory Agency (RDRA)\nrefers to a national or regional regulatory agency for drugs, vaccines, and biologicals being relied upon by the FDA for a more efficient approach at arriving at a decision thereby improving and expediting quality assured, effective, and safe products.\nAssessment Report\nrefers to the complete, unredacted, or unedited copy of the assessment reports of the marketing authorization application and evaluated by the RDRA. The Assessment Report details and explains how the RDRA assessed the safety, quality, and efficacy data and information within the submitted dossier to inform its final decision on the regulatory action. The Assessment Report outlines the area of concerns, questions and answers, and clarifications which the RDRA raised and how these were addressed by the applicant and includes the product approval conditions, the final and approved product labeling, and all other annexes.\nV. IMPLEMENTING GUIDELINES\nA. Eligibility Criteria\nThe eligibility criteria provided under Sec. IV.B of AO No. 2020-0045, reiterated with necessary clarifications as follows, shall apply to applicants availing of the FRP:\nThe applicant shall be a holder of a valid License to Operate (LTO) issued by the FDA;\nThe applicant may avail of the following submission pathways, subject to certain conditions.\na. Abridged review may be availed when the drug product, vaccine, or biological has been approved by an RDRA and the product application is within three (3) years from the date of approval of the RDRA.\nb. Verification review may be availed when the drug product, vaccine, or biological has been approved by at least two (2) RDRAs and the product application is within three (3) years from the date of approval of the RDRA/s.\nc. The applicant may choose to avail of only one (1) type of FRP per application based on compliance with the requirements. If the requirements of any of the FRP cannot be complied with, the application shall be processed following the regular review pathway.\nThe eligible product shall be the same as the product duly approved or registered in the RDRA/s identified by the applicant.\na. All aspects of the drug product’s quality, including but not limited to the formulation, manufacturing site/s, release and shelf-life specifications, and primary packaging, must be the same as those currently approved by the identified RDRA/s at the time of submission.\nb. The proposed indication/s, dosing regimen/s, patient group/s, and/or direction/s for use should be the same as those approved by the identified RDRA/s.\nThe product and its intended use have not been rejected, withdrawn, suspended, revoked, or has pending deferral by any RDRA due to quality, safety, or efficacy reasons.\nThe information on the proposed Package Insert/Patient Information Leaflet shall be identical to that of the approved by the RDRA with the addition of country-specific information stipulated in the current FDA labeling requirements.\nAll documents to be submitted shall be written/translated into the English language.\nB. Documentary Requirements\nApplications for new drugs, vaccines, and biologicals\na. A formal, written request from the applicant drug distributor notifying the FDA of its intent to avail of the abridged or verification review, identifying the RDRA/s.\nb. Assessment Report from each of the identified RDRA/s.\nc. A valid Certificate of Pharmaceutical Product (CPP) following the WHO Certification Scheme or its equivalent from the identified RDRA/s. If the product is not marketed in the jurisdiction of the identified RDRA/s, then a valid CPP or its equivalent from any of the RDRA/s as listed in Annex A may be provided.\nd. Complete International Council for Harmonisation of Technical Requirements for Pharmaceutical for Human Use (ICH) Common Technical Document (CTD) or ASEAN Common Technical Dossier (ACTD) data requirements following existing guidelines.\ne.  A report of stability studies conducted under climatic Zone IVB (hot and very humid), with the required minimum time period covered by data at submission, the minimum number of batches, and storage conditions for accelerated and long-term conditions shall be provided unless otherwise justified.\nf. Proposed Package Insert/Patient Information Leaflet identical to that approved by the RDRA with the addition of country-specific information stipulated in the current FDA labeling requirements.\nApplications for RDRA/s post-approval changes\nA formal, written request from the applicant drug distributor notifying the FDA of its intent to avail of the abridged or verification review, identifying the RDRA/s that approved the post approval changes.\nNote: The date of RDRA approval to be reflected in Annex B shall be the date the post-approval change/s was/were approved by the RDRA.\nOfficial approval letter or notification of the post-approval change/s from the identified RDRA/s.\nFor changes and/or additional indication/dosing regimen/patient population/inclusion of clinical information extending the usage of the product (categorized as major variation [MaV]-1 based on the ASEAN Variation Guideline for Pharmaceutical Products and as adopted through FDA Circular No. 2014-008 or any amendment or latest issuance thereafter), Assessment Report from each of the identified RDRA/s shall be required.\nIn addition to the foregoing requirements for applications for new drugs, vaccines, and biologicals and post-approval changes, all applications should be accompanied by a Sworn Assurance and (Annex B) signed exclusively by the Head of Regulatory Office of the product owner stating the following: (1) the product being applied is the same in all respects as the product approved by the RDRA, (2) the product and its intended use has not been rejected, withdrawn, suspended, revoked, or has pending deferral by any RDRA due to quality, safety, or efficacy reasons, and (3) that there is full compliance with the eligibility requirements provided under this Circular.\nThe applications shall comply with rules on filing and receiving pursuant to the latest issuances until such time that an automated system has been developed and launched.\nC. Review and Evaluation\nThe abridged review or verification review shall be based on a limited independent assessment of specific parts of the dossier. The complete Assessment Report/s, including all annexes, and the dossier including the stability data shall be reviewed and evaluated. Suitability of use under local conditions and regulatory requirements while relying on the prior assessment/s of the RDRA/s shall be assessed. The FDA may request additional supporting documents, as deemed necessary, to ensure the safety, efficacy, and quality of the product intended for registration.\nThe FDA shall consider the benefits and risks as they apply to the Philippine context based on the available data provided by the applicant.\nThe FDA may consider seeking opinions from clinical experts as necessary.\nD. Timelines\nType of Application / Pathway\nTimeline\nAbridged Review\nnot more than 45 working days\nVerification Review\nnot more than 30 working days\nPost-approval change/s\nThe turnaround time shall start after receipt of the proof of payment with the complete application dossier.\nThese timelines are not applicable to registration applications of reproductive health products which are required to undergo the complete process stipulated in the Implementing Rules and Regulations of Republic Act No. 10354 or the Responsible Parenthood and Reproductive Health Act of 2012.\nVI. FEES\nThe appropriate fees as prescribed under existing regulations shall apply, including a Legal Research Fee (LRF), following AO No. 50 s. 2001 or any amendment or latest issuance thereafter.\nVII. PROCESSING OF PENDING APPLICATIONS\nAll pending applications which qualify for Abridged Review or Verification Review, and which were received on or after 30 October 2020, the effectivity of AO No. 2020-0045, if s",
+          "start": 2800,
+          "end": 12300,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "PHL-SUP-46d997a6-6851",
+          "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-009-implementing-guidelines-of-administrative-order-no-2020-0044-adoption-of-the-collaborative-procedure-for-the-accelerated-registration-of-world-health-organization/",
+          "section_article": "Circular 2022-009, Specific Guidelines 1(a)–(b), regulatory time",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "PHL-SUP-8628c7fa-2640",
+          "source_url": "https://www.fda.gov.ph/wp-content/uploads/2020/09/Administrative-Order-2020-0044.pdf",
+          "section_article": "Adoption of WHO CRP, paragraphs 1–3",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

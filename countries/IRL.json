@@ -237,5 +237,760 @@
       "0919d2bbc6a0ca1395dd874792c3eeeba8eafea861f4199c7092784dbada9af4",
       "67b783969992646f779e390cc78816fccd5eb8c5bc5274a5edf56d4ed7695722"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "IRL",
+    "country": "Ireland",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition and decentralised assessment",
+    "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+    "document_id": "F250_8ffe2876c7517a192742_dd04245a270e",
+    "genre": "Official procedure guidance",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Official national authorisation procedures, preserved version; centralised and MRP mechanisms separated.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Source distinguishes EC/centralised authorisation from national EU/EEA mutual recognition; FDA alone is not an MRP RMS.",
+        "evidence_ids": [
+          "IRL-WEB01",
+          "IRL-CONTEXT-1",
+          "IRL-CTX-1",
+          "IRL-SHARED-EC",
+          "IRL-SHARED-EC"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Existing EC MA rather than public-versus-full report availability supplies the shared authorisation effect.",
+        "evidence_ids": [
+          "IRL-WEB01",
+          "IRL-CONTEXT-1",
+          "IRL-CTX-1",
+          "IRL-SHARED-EC",
+          "IRL-SHARED-EC"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Shared EC centralised authorisation is distinct from a repeat national scientific assessment; MRP/DCP procedures have their own assessments/objections.",
+        "evidence_ids": [
+          "IRL-WEB01",
+          "IRL-CONTEXT-1",
+          "IRL-CTX-1",
+          "IRL-SHARED-EC",
+          "IRL-SHARED-EC"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "IRL-WEB01",
+          "IRL-CONTEXT-1",
+          "IRL-CTX-1",
+          "IRL-SHARED-EC",
+          "IRL-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "IRL-WEB01",
+          "IRL-CONTEXT-1",
+          "IRL-CTX-1",
+          "IRL-SHARED-EC",
+          "IRL-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "IRL-WEB01",
+          "IRL-CONTEXT-1",
+          "IRL-CTX-1",
+          "IRL-SHARED-EC",
+          "IRL-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "IRL-WEB01",
+          "IRL-CONTEXT-1",
+          "IRL-CTX-1",
+          "IRL-SHARED-EC",
+          "IRL-SHARED-EC"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "outside selected shared authorisation pathway",
+        "finding": "FDA alone does not supply EC centralised marketing authorisation or a national EEA MRP RMS approval; ordinary national route remains separate.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "IRL-WEB01",
+          "IRL-CONTEXT-1",
+          "IRL-CTX-1",
+          "IRL-SHARED-EC",
+          "IRL-SHARED-EC"
+        ],
+        "status": "outside selected shared authorisation pathway"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "IRL-SHARED-EC"
+        ]
+      },
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "IRL-WEB01",
+        "iso3": "IRL",
+        "event_id": null,
+        "document_id": "F250_8ffe2876c7517a192742_dd04245a270e",
+        "source_id": "F250_8ffe2876c7517a192742",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c",
+        "start_offset": 1135,
+        "end_offset": 2525,
+        "pdf_page": null,
+        "verbatim_extracted_text": "Decentralised and Mutual Recognition Procedures\nA company may use the decentralised procedure (DCP) to apply for a marketing authorisation for a medicine that has not yet been authorised in any EU country and is not required to be approved via the centralised procedure.\nThe mutual recognition procedure (MRP) can be used if the medicine already has a marketing authorisation in one Member State and the company wishes to market it in other Member States.\nThe company requests a country to act as the Reference Member State (RMS). For an MRP the reference member state will be the MS which has already authorised the product. The RMS takes the lead in the administration and the assessment of the marketing authorisation application on behalf of the other involved Member States.\nThe other Member States are referred to as Concerned Member States (CMSs). The CMSs may raise queries on the application during the procedure. If the application is approved at the end of the procedure, each of the Member States involved in the procedure issue a national marketing authorisation to the company.\nThe\nCMDh, the Co-ordination group for Mutual Recognition and Decentralised Procedures – Human\nis responsible for the organisation of the\nMR and DCP procedures\nand provides a forum to discuss any issues that arise during these procedures and their website contains additional procedural information\n",
+        "display_text": "Decentralised and Mutual Recognition Procedures A company may use the decentralised procedure (DCP) to apply for a marketing authorisation for a medicine that has not yet been authorised in any EU country and is not required to be approved via the centralised procedure. The mutual recognition procedure (MRP) can be used if the medicine already has a marketing authorisation in one Member State and the company wishes to market it in other Member States. The company requests a country to act as the Reference Member State (RMS). For an MRP the reference member state will be the MS which has already authorised the product. The RMS takes the lead in the administration and the assessment of the marketing authorisation application on behalf of the other involved Member States. The other Member States are referred to as Concerned Member States (CMSs). The CMSs may raise queries on the application during the procedure. If the application is approved at the end of the procedure, each of the Member States involved in the procedure issue a national marketing authorisation to the company. The CMDh, the Co-ordination group for Mutual Recognition and Decentralised Procedures – Human is responsible for the organisation of the MR and DCP procedures and provides a forum to discuss any issues that arise during these procedures and their website contains additional procedural information",
+        "feature_tags": [
+          "discretion",
+          "scope_limit",
+          "joint_review"
+        ],
+        "role": "Decentralised and Mutual Recognition Procedures",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "MRP requires an existing Member State authorisation. DCP starts before prior authorisation. Member States retain questions and issue national decisions. This is the shared European system.",
+        "version_alignment": "Current preserved source version; date of first adoption not inferred",
+        "evidence_tier": "national_rule",
+        "section_article": "Decentralised and Mutual Recognition Procedures",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "IRL-CONTEXT-1",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c",
+        "start_offset": 0,
+        "end_offset": 3167,
+        "verbatim_extracted_text": "Procedures to obtain a licence (marketing authorisation) for a medicine\nA company may use one of several procedural routes to obtain a marketing authorisation for a medicine for Ireland.  The procedure chosen depends on the type of product and the country(ies) in Europe in which the product/medicine will be marketed.  Three routes are described below.\nCentralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.\nDecentralised and Mutual Recognition Procedures\nA company may use the decentralised procedure (DCP) to apply for a marketing authorisation for a medicine that has not yet been authorised in any EU country and is not required to be approved via the centralised procedure.\nThe mutual recognition procedure (MRP) can be used if the medicine already has a marketing authorisation in one Member State and the company wishes to market it in other Member States.\nThe company requests a country to act as the Reference Member State (RMS). For an MRP the reference member state will be the MS which has already authorised the product. The RMS takes the lead in the administration and the assessment of the marketing authorisation application on behalf of the other involved Member States.\nThe other Member States are referred to as Concerned Member States (CMSs). The CMSs may raise queries on the application during the procedure. If the application is approved at the end of the procedure, each of the Member States involved in the procedure issue a national marketing authorisation to the company.\nThe\nCMDh, the Co-ordination group for Mutual Recognition and Decentralised Procedures – Human\nis responsible for the organisation of the\nMR and DCP procedures\nand provides a forum to discuss any issues that arise during these procedures and their website contains additional procedural information\nNational Procedure\nA company can apply for a marketing authorisation directly to the HPRA if the company wishes to market a medicine in Ireland only. This route applies where the product is not already authorised in another member state and is not required to be approved through the centralised procedure.\nIf, in the future, the same company decides that they want to market the medicine in another EU Member State, the Mutual Recognition Procedure can be used as detailed above.\nIn case of further queries on the submission and approval of national licensing procedures, please contact the HPRA’s Customer Services section at\ninfo@hpra.ie\n.",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Current preserved source version; first operative date not inferred"
+      },
+      {
+        "clause_id": "IRL-CTX-1",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c",
+        "start_offset": 0,
+        "end_offset": 1200,
+        "verbatim_extracted_text": "Procedures to obtain a licence (marketing authorisation) for a medicine\nA company may use one of several procedural routes to obtain a marketing authorisation for a medicine for Ireland.  The procedure chosen depends on the type of product and the country(ies) in Europe in which the product/medicine will be marketed.  Three routes are described below.\nCentralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.\nDecentralised and Mutual Recognition Procedures\nA company may use",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Current preserved source version; first operative date not inferred"
+      },
+      {
+        "clause_id": "IRL-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "IRL-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "IRL",
+      "country": "Ireland",
+      "selected_document_id": "F250_8ffe2876c7517a192742_dd04245a270e",
+      "source_id": "F250_8ffe2876c7517a192742",
+      "pathway": "EU/EEA mutual recognition and decentralised assessment",
+      "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+      "document_title": "HPRA: procedures to obtain a marketing authorisation",
+      "source_type": "Official procedure guidance",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+      "raw_hash_validated": true,
+      "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c",
+      "version_dates": {},
+      "version_scope_note": "Official national authorisation procedures, preserved version; centralised and MRP mechanisms separated.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          0,
+          3167
+        ],
+        [
+          0,
+          1200
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Source distinguishes EC/centralised authorisation from national EU/EEA mutual recognition; FDA alone is not an MRP RMS.",
+          "evidence_ids": [
+            "IRL-WEB01",
+            "IRL-CONTEXT-1",
+            "IRL-CTX-1",
+            "IRL-SHARED-EC",
+            "IRL-SHARED-EC"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Existing EC MA rather than public-versus-full report availability supplies the shared authorisation effect.",
+          "evidence_ids": [
+            "IRL-WEB01",
+            "IRL-CONTEXT-1",
+            "IRL-CTX-1",
+            "IRL-SHARED-EC",
+            "IRL-SHARED-EC"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Shared EC centralised authorisation is distinct from a repeat national scientific assessment; MRP/DCP procedures have their own assessments/objections.",
+          "evidence_ids": [
+            "IRL-WEB01",
+            "IRL-CONTEXT-1",
+            "IRL-CTX-1",
+            "IRL-SHARED-EC",
+            "IRL-SHARED-EC"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "IRL-WEB01",
+            "IRL-CONTEXT-1",
+            "IRL-CTX-1",
+            "IRL-SHARED-EC",
+            "IRL-SHARED-EC"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "IRL-WEB01",
+            "IRL-CONTEXT-1",
+            "IRL-CTX-1",
+            "IRL-SHARED-EC",
+            "IRL-SHARED-EC"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "IRL-WEB01",
+            "IRL-CONTEXT-1",
+            "IRL-CTX-1",
+            "IRL-SHARED-EC",
+            "IRL-SHARED-EC"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Fixed EC centralised marketing authorisation supplies shared authorisation effect, subject to applicable national administration. It does not establish national MRP RMS authorisation; no observed launch/reimbursement claim.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "IRL-WEB01",
+            "IRL-CONTEXT-1",
+            "IRL-CTX-1",
+            "IRL-SHARED-EC",
+            "IRL-SHARED-EC"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected shared authorisation pathway",
+          "finding": "FDA alone does not supply EC centralised marketing authorisation or a national EEA MRP RMS approval; ordinary national route remains separate.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "IRL-WEB01",
+            "IRL-CONTEXT-1",
+            "IRL-CTX-1",
+            "IRL-SHARED-EC",
+            "IRL-SHARED-EC"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "IRL-SHARED-EC"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "IRL-WEB01",
+          "iso3": "IRL",
+          "event_id": null,
+          "document_id": "F250_8ffe2876c7517a192742_dd04245a270e",
+          "source_id": "F250_8ffe2876c7517a192742",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c",
+          "start_offset": 1135,
+          "end_offset": 2525,
+          "pdf_page": null,
+          "verbatim_extracted_text": "Decentralised and Mutual Recognition Procedures\nA company may use the decentralised procedure (DCP) to apply for a marketing authorisation for a medicine that has not yet been authorised in any EU country and is not required to be approved via the centralised procedure.\nThe mutual recognition procedure (MRP) can be used if the medicine already has a marketing authorisation in one Member State and the company wishes to market it in other Member States.\nThe company requests a country to act as the Reference Member State (RMS). For an MRP the reference member state will be the MS which has already authorised the product. The RMS takes the lead in the administration and the assessment of the marketing authorisation application on behalf of the other involved Member States.\nThe other Member States are referred to as Concerned Member States (CMSs). The CMSs may raise queries on the application during the procedure. If the application is approved at the end of the procedure, each of the Member States involved in the procedure issue a national marketing authorisation to the company.\nThe\nCMDh, the Co-ordination group for Mutual Recognition and Decentralised Procedures – Human\nis responsible for the organisation of the\nMR and DCP procedures\nand provides a forum to discuss any issues that arise during these procedures and their website contains additional procedural information\n",
+          "display_text": "Decentralised and Mutual Recognition Procedures A company may use the decentralised procedure (DCP) to apply for a marketing authorisation for a medicine that has not yet been authorised in any EU country and is not required to be approved via the centralised procedure. The mutual recognition procedure (MRP) can be used if the medicine already has a marketing authorisation in one Member State and the company wishes to market it in other Member States. The company requests a country to act as the Reference Member State (RMS). For an MRP the reference member state will be the MS which has already authorised the product. The RMS takes the lead in the administration and the assessment of the marketing authorisation application on behalf of the other involved Member States. The other Member States are referred to as Concerned Member States (CMSs). The CMSs may raise queries on the application during the procedure. If the application is approved at the end of the procedure, each of the Member States involved in the procedure issue a national marketing authorisation to the company. The CMDh, the Co-ordination group for Mutual Recognition and Decentralised Procedures – Human is responsible for the organisation of the MR and DCP procedures and provides a forum to discuss any issues that arise during these procedures and their website contains additional procedural information",
+          "feature_tags": [
+            "discretion",
+            "scope_limit",
+            "joint_review"
+          ],
+          "role": "Decentralised and Mutual Recognition Procedures",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "MRP requires an existing Member State authorisation. DCP starts before prior authorisation. Member States retain questions and issue national decisions. This is the shared European system.",
+          "version_alignment": "Current preserved source version; date of first adoption not inferred",
+          "evidence_tier": "national_rule",
+          "section_article": "Decentralised and Mutual Recognition Procedures",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "IRL-CONTEXT-1",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c",
+          "start_offset": 0,
+          "end_offset": 3167,
+          "verbatim_extracted_text": "Procedures to obtain a licence (marketing authorisation) for a medicine\nA company may use one of several procedural routes to obtain a marketing authorisation for a medicine for Ireland.  The procedure chosen depends on the type of product and the country(ies) in Europe in which the product/medicine will be marketed.  Three routes are described below.\nCentralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.\nDecentralised and Mutual Recognition Procedures\nA company may use the decentralised procedure (DCP) to apply for a marketing authorisation for a medicine that has not yet been authorised in any EU country and is not required to be approved via the centralised procedure.\nThe mutual recognition procedure (MRP) can be used if the medicine already has a marketing authorisation in one Member State and the company wishes to market it in other Member States.\nThe company requests a country to act as the Reference Member State (RMS). For an MRP the reference member state will be the MS which has already authorised the product. The RMS takes the lead in the administration and the assessment of the marketing authorisation application on behalf of the other involved Member States.\nThe other Member States are referred to as Concerned Member States (CMSs). The CMSs may raise queries on the application during the procedure. If the application is approved at the end of the procedure, each of the Member States involved in the procedure issue a national marketing authorisation to the company.\nThe\nCMDh, the Co-ordination group for Mutual Recognition and Decentralised Procedures – Human\nis responsible for the organisation of the\nMR and DCP procedures\nand provides a forum to discuss any issues that arise during these procedures and their website contains additional procedural information\nNational Procedure\nA company can apply for a marketing authorisation directly to the HPRA if the company wishes to market a medicine in Ireland only. This route applies where the product is not already authorised in another member state and is not required to be approved through the centralised procedure.\nIf, in the future, the same company decides that they want to market the medicine in another EU Member State, the Mutual Recognition Procedure can be used as detailed above.\nIn case of further queries on the submission and approval of national licensing procedures, please contact the HPRA’s Customer Services section at\ninfo@hpra.ie\n.",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Current preserved source version; first operative date not inferred"
+        },
+        {
+          "clause_id": "IRL-CTX-1",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c",
+          "start_offset": 0,
+          "end_offset": 1200,
+          "verbatim_extracted_text": "Procedures to obtain a licence (marketing authorisation) for a medicine\nA company may use one of several procedural routes to obtain a marketing authorisation for a medicine for Ireland.  The procedure chosen depends on the type of product and the country(ies) in Europe in which the product/medicine will be marketed.  Three routes are described below.\nCentralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.\nDecentralised and Mutual Recognition Procedures\nA company may use",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Current preserved source version; first operative date not inferred"
+        },
+        {
+          "clause_id": "IRL-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "IRL-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

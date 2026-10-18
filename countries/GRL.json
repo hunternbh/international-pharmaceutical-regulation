@@ -166,5 +166,91 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "GRL",
+    "country": "Greenland",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "domestic_listing",
+    "fixed_case_scope_status": "domestic_listing_conditions_unresolved",
+    "finding": "The source requires inclusion on domestic medicine lists and controls import/distribution. It does not establish that supplying an FDA or EC approval/report suffices for listing.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The source requires inclusion on domestic medicine lists and controls import/distribution. It does not establish that supplying an FDA or EC approval/report suffices for listing."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The source requires inclusion on domestic medicine lists and controls import/distribution. It does not establish that supplying an FDA or EC approval/report suffices for listing."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The source requires inclusion on domestic medicine lists and controls import/distribution. It does not establish that supplying an FDA or EC approval/report suffices for listing."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The source requires inclusion on domestic medicine lists and controls import/distribution. It does not establish that supplying an FDA or EC approval/report suffices for listing."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The source requires inclusion on domestic medicine lists and controls import/distribution. It does not establish that supplying an FDA or EC approval/report suffices for listing."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "GRL-Q01",
+        "source_url": "https://nalunaarutit.gl/groenlandsk-lovgivning/2023/selvstyrets-lovbekendtgoerelse-nr-43-af-26_09_2023?sc_lang=da",
+        "raw_sha256": "063bcef35c5b606f24834f0a30301796d78940a2233c714f9f5ffbceb3072a7f",
+        "text_sha256": "e1ff5cb6292d738beae2267e7b53a39e9485a9270009151776db3e2f9e551c2f",
+        "start_offset": 4091,
+        "end_offset": 5762,
+        "verbatim_extracted_text": "§ 7.\nEt lægemiddel er lovligt, når Lægemiddelkomiteen har optaget det på en af de følgende lægemiddellister:\n1)\nOrdinations- og indberetningspligtige lægemidler (liste A).\n2)\nOrdinationspligtige lægemidler (liste B).\n3)\nHåndkøbsmedicin (liste H).\nStk. 2.\nLægemiddellisterne opdateres mindst en gang om måneden og offentliggøres på sundhedsvæsenets hjemmeside.\nStk. 3.\nLægemidler, der ikke er godkendt som lovlige lægemidler, jf. stk. 1, må ikke uden Lægemiddelkomiteens tilladelse:\n1)\nIndføres, udføres, forhandles, fordeles eller på anden måde bringes i omløb.\n2)\nHåndteres.\n3)\nOrdineres eller på anden måde anvendes ved diagnosticering og behandling af mennesker eller dyr.\n§ 8.\nLægemiddelkomiteen kan udstede forbud mod et lægemiddel, der er optaget på de i § 7, stk. 1, nævnte lægemiddellister, såfremt der skønnes at være en rimelig begrundet mistanke om, at midlets virkning, bivirkning eller andre væsentlige forhold afviger fra produktresumeet. I den forbindelse kan Lægemiddelkomiteen nedlægge påbud om at fjerne, aflevere eller destruere beholdninger af det pågældende lægemiddel efter nærmere anvisning.\n§ 9.\nLovlige lægemidler, jf. § 7, stk. 1, må kun indføres gennem Landsapoteket, jf. dog § 10, stk. 1 og 2.\nStk. 2.\nLandsapotekeren kan tildele personer eller selskaber, der er ansvarlige for en lægemiddelbeholdning her i landet, tilladelse til at rekvirere lægemidler direkte fra en lægemiddelleverandør. Tilladelsen kan tilbagekaldes, såfremt der er begrundet mistanke om, at en rekvirent ikke har overholdt lægemiddellovgivningens regler.\nStk. 3.\nLandsapotekerens afslag eller tilbagekaldelse af en tilladelse efter stk. 2 kan indbringes for Landsstyret.",
+        "pdf_page": null,
+        "language": "da",
+        "language_status": "Official original-language source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Consolidation 43 of 26 September 2023, incorporating 2005/2006 ordinance",
+        "translation_review": {
+          "id": "GRL-Q01",
+          "source_language": "da",
+          "source_text": "§ 7.\nEt lægemiddel er lovligt, når Lægemiddelkomiteen har optaget det på en af de følgende lægemiddellister:\n1)\nOrdinations- og indberetningspligtige lægemidler (liste A).\n2)\nOrdinationspligtige lægemidler (liste B).\n3)\nHåndkøbsmedicin (liste H).\nStk. 2.\nLægemiddellisterne opdateres mindst en gang om måneden og offentliggøres på sundhedsvæsenets hjemmeside.\nStk. 3.\nLægemidler, der ikke er godkendt som lovlige lægemidler, jf. stk. 1, må ikke uden Lægemiddelkomiteens tilladelse:\n1)\nIndføres, udføres, forhandles, fordeles eller på anden måde bringes i omløb.\n2)\nHåndteres.\n3)\nOrdineres eller på anden måde anvendes ved diagnosticering og behandling af mennesker eller dyr.\n§ 8.\nLægemiddelkomiteen kan udstede forbud mod et lægemiddel, der er optaget på de i § 7, stk. 1, nævnte lægemiddellister, såfremt der skønnes at være en rimelig begrundet mistanke om, at midlets virkning, bivirkning eller andre væsentlige forhold afviger fra produktresumeet. I den forbindelse kan Lægemiddelkomiteen nedlægge påbud om at fjerne, aflevere eller destruere beholdninger af det pågældende lægemiddel efter nærmere anvisning.\n§ 9.\nLovlige lægemidler, jf. § 7, stk. 1, må kun indføres gennem Landsapoteket, jf. dog § 10, stk. 1 og 2.\nStk. 2.\nLandsapotekeren kan tildele personer eller selskaber, der er ansvarlige for en lægemiddelbeholdning her i landet, tilladelse til at rekvirere lægemidler direkte fra en lægemiddelleverandør. Tilladelsen kan tilbagekaldes, såfremt der er begrundet mistanke om, at en rekvirent ikke har overholdt lægemiddellovgivningens regler.\nStk. 3.\nLandsapotekerens afslag eller tilbagekaldelse af en tilladelse efter stk. 2 kan indbringes for Landsstyret.",
+          "document_id": "f7a569db3507c60faeb5",
+          "target_language": "en",
+          "translation_status": "Rejected/quarantined machine output",
+          "model_provenance": {
+            "language": "da",
+            "model_version": "1.9",
+            "model_url": "https://argos-net.com/v1/translate-da_en-1_9.argosmodel",
+            "model_sha256": "cf0e4ddc78a6cc4c9093fcd8b5f22285fc5d0a8fe8650940cdc913da6295c585",
+            "model_bytes": 69084740,
+            "model_root": null,
+            "model_metadata": {
+              "package_version": "1.9",
+              "argos_version": "1.9.0",
+              "from_code": "da",
+              "from_name": "Danish",
+              "to_code": "en",
+              "to_name": "English"
+            },
+            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
+            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
+            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
+          },
+          "source_text_sha256": "ff3858f8610eb79a56af4cce3f4109ba1227aaee66f54854bdd01772841089d5",
+          "translated_utc": "2026-10-18T00:48:28.369708+00:00",
+          "source_characters": 1671,
+          "segments": 27,
+          "raw_machine_translation": "§ 7. A medicinal product is legal when it has been included in one of the following lists of medicinal products: 2) Medicinal products subject to medical prescription (list B). 3) Buy-in medicines (list H). Section 2. The lists of medicinal products shall be updated at least once a month and published on the health service website. Section 3. Medicinal products not authorised as legal medicinal products as referred to in paragraph 1: 1) Introduced, exported, negotiated, distributed or otherwise put into circulation. 2) Handled. 3) Ordered or otherwise used in the diagnosis and treatment of humans or animals. The pharmaceutical committee may prohibit a medicinal product which has been included in the list in Section 7 (2). The lists of medicinal products referred to in paragraph 1 shall, where there is reasonable grounds for suspecting that the efficacy, adverse reaction or other essential elements of the medicinal product differ from the summary of product characteristics. In this context, the Pharmaceutical Committee may order the removal, delivery or destruction of holdings of the medicinal product concerned, as instructed. § 9. Legal medicinal products, see Section 7 (2). Without prejudice to Article 10 (1), imports may be made only through the Landsapoteket. 1 and 2. Section 2. The national pharmacist may authorise persons or companies responsible for a pharmaceutical inventory in this country to obtain medicinal products directly from a pharmaceutical supplier. The authorization may be revoked if there are grounds for suspecting that the applicant has failed to comply with the rules of the pharmaceutical legislation. Section 3. The national apothecary's refusal or withdrawal of an authorisation pursuant to paragraph 1 shall be without prejudice to: 2 can be brought before the National Government.",
+          "checked_translation": null,
+          "check_note": "Model omits list A and distorts negation and cross-references; rejected.",
+          "approved_for_display": false,
+          "approved_for_text_sensitivity": false,
+          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
+        }
+      }
+    ],
+    "source_scope": "Domestic listing and central pharmacy control; not verified foreign regulatory reliance",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

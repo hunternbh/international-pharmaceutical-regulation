@@ -146,5 +146,55 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "LBR",
+    "country": "Liberia",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "policy_framework",
+    "fixed_case_scope_status": "operational_conditions_unresolved",
+    "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "LBR-Q01",
+        "source_url": "https://lmhra.gov.lr/new/pg_img/Reliance%20Policy.pdf",
+        "raw_sha256": "014779daa5205b5ea701522f1a1aa4ca4c729345723fc7ee2556b2154c3ae68a",
+        "text_sha256": "2478cacdffda04531092f50bfa3c5dd19c7e3fa0841978216eabd9ad1e936faa",
+        "start_offset": 11325,
+        "end_offset": 12687,
+        "verbatim_extracted_text": "To facilitate and accelerate regulatory processes and activities with the use of information from\n\napproved stringent and well-resourced NRAs while retaining the LMHRA’s regulatory\nresponsibilities and decision-making autonomy. The decision to practice reliance shall take into\nconsideration the existing capacities and regulatory systems’ needs of the LMHRA. Depending on\nthe availability of an authority and access to their information, LMHRA can rely upon any national\nor international authority or organisation with confidence and weigh how reliance can complement\n\nLMHRAs capacities to drive efficiencies and the optimal use of resources.\nThe purpose of the reliance policy is to:\n\n= specify regulatory procedures to complement the regulatory framework and the national\nlegislation on reliance and recognition.\n\n= enable collaboration with other authorities.\n\n= enable work-sharing (for example, through regional networks); and\n\n= enable reliance on decisions from other regulatory authorities and laboratories and\n\ninternational organizations (as WHO, PICs, EMA etc).\n\n3.4 Scope\nThe scope of this Reliance policy shall be applicable to the regulatory oversight of medicinal\n\nproducts for human and veterinary use (including vaccines and medical devices) encompassing all\n\nregulatory functions spanning the full life cycle of a medicinal product in Liberia.",
+        "pdf_page": 7,
+        "language": "en",
+        "language_status": "English machine OCR; image remains authoritative",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Broad policy framework",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

@@ -300,5 +300,653 @@
     "source_hashes": [
       "1cfda0b439b5bb0ae019a116f2fe58556c92a6cd3a031edcc86c88687ec53ca9"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "GHA",
+    "country": "Ghana",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Verification with retained abridged assessment",
+    "source_url": "https://fdaghana.gov.gh/wp-content/uploads/2024/09/FDA-RELIANCE-GUIDELINE-ON-REGULATORY-DECISION-MAKING.pdf",
+    "document_id": "866f5fcf42cd40360acc",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Ghana FDA reliance guideline, documentation/report sufficiency decided case by case. Literal timeline phrase contains both sixty/thirty; numeric(60) retained with ambiguity.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "Prior registration by qualifying well-resourced authority; exact reference and product conditions remain.",
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Identical/similar approved product and relevant dossier information verified.",
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Full assessment and/or public reports required as determined case by case, together with complete dossier.",
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "discretionary/conditional",
+        "finding": "Public report is an express possible input, not universal eligibility guarantee.",
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Verification of sameness plus local abridged assessment of stability, ethnicity, disease and medical practice.",
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "Text says sixty thirty(60) working days, excluding clockstops. Preserve wording ambiguity; no 30 day estimate substituted.",
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "FDA selects appropriate reports and local assessment strategy case by case.",
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GHA-Q01",
+          "GHA-Q02",
+          "GHA-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "GHA-Q01",
+        "iso3": "GHA",
+        "event_id": "GHA_025",
+        "document_id": "866f5fcf42cd40360acc",
+        "source_id": "c31e1b128cd03d1c",
+        "source_url": "https://fdaghana.gov.gh/wp-content/uploads/2024/09/FDA-RELIANCE-GUIDELINE-ON-REGULATORY-DECISION-MAKING.pdf",
+        "raw_sha256": "0e0ba0359289e108ca8848290a39b25affc283dee4509d9a1b1f21070ed89154",
+        "text_sha256": "cd8d4ab90200372e05daabbc2af04f82c7ad232ebf1876dcbb638ff1d2ebc15e",
+        "start_offset": 19492,
+        "end_offset": 22168,
+        "pdf_page": 12,
+        "verbatim_extracted_text": "Authorization pathways used by the FDA wherein its decisions regarding the \nauthorization of a clinical trial or marketing authorization of medical product could be \naccelerated by the reliance on prior assessment report prepared by a well-resourced \nregulatory authority, mostly operating within the ICH region or agencies or \nprogrammes affiliated to the WHO (e.g., AVAREF, PQ, etc,), NRAs designated by \nthe WHO via the WHO GBT tool as ML3, ML4 or WLA and other  reference NRAs \n(such as MHRA of UK, Norway, etc) or bodies such as the RECs. The FDA shall \nremain responsible and accountable for all regulatory decisions taken, and guided \nby the benefit-risk assessment which focuses on the intended local population and \nindication(s). \n \n5.0 Reliance Procedure \n5.1 Verification \nThe FDA shall ‘verify’ that the product intended to be imported and distributed in \nGhana or the Clinical trial to be conducted in Ghana has been duly registered or \nauthorized or given a positive opinion by a well-resourced NRA or by a reference \n\n\nPAGE 13\n \n \n ______________________________________________________________________________________  \nGuideline on Reliance for Regulatory decision-making \n(FDA/GEN/GDL-04/02) \n \nPage 13 of 18 \nbody. \n \nIn the case of MA, the product should have been granted marketing authorization, and \nthe product characteristics (use, dosage, precautions) for local MA should conform \nto that agreed in the authorization by the well-resourced or the reference body. In \naddition, there should be an assurance that the product is either identical to or \nsimilar to that approved by the well-resourced or the reference body in terms of \nquality, safety and efficacy. \n \nFor Clinical trial submissions, the application (protocol, IB, nonclinical reports, \nprevious study reports and other relevant documents) should be identical to that \nsubmitted, evaluated and approved by the well-resourced or reference body. \n \nNotwithstanding, the FDA reserves the right to subject all submissions for approval \nto an ‘abridged’ evaluation of a certain part of the application (e.g. relevant to use \nunder local condition) such as product quality data in relation to climatic conditions \nand distribution infrastructure and a benefit-risk assessment in relation to use in the \nlocal ethnic population, medical practice/culture and patterns of disease and \nnutrition. Typically, the verification pathway shall take sixty thirty (60) working days \n(excluding clock stops) as opposed to the 120 working days in the case of \nmedicines, vaccines and biological product registration, and 60 working days in the \ncase of Clinical Trial Authorization for the routine pathway.",
+        "display_text": "Authorization pathways used by the FDA wherein its decisions regarding the authorization of a clinical trial or marketing authorization of medical product could be accelerated by the reliance on prior assessment report prepared by a well-resourced regulatory authority, mostly operating within the ICH region or agencies or programmes affiliated to the WHO (e.g., AVAREF, PQ, etc,), NRAs designated by the WHO via the WHO GBT tool as ML3, ML4 or WLA and other reference NRAs (such as MHRA of UK, Norway, etc) or bodies such as the RECs. The FDA shall remain responsible and accountable for all regulatory decisions taken, and guided by the benefit-risk assessment which focuses on the intended local population and indication(s). 5.0 Reliance Procedure 5.1 Verification The FDA shall ‘verify’ that the product intended to be imported and distributed in Ghana or the Clinical trial to be conducted in Ghana has been duly registered or authorized or given a positive opinion by a well-resourced NRA or by a reference PAGE 13 ______________________________________________________________________________________ Guideline on Reliance for Regulatory decision-making (FDA/GEN/GDL-04/02) Page 13 of 18 body. In the case of MA, the product should have been granted marketing authorization, and the product characteristics (use, dosage, precautions) for local MA should conform to that agreed in the authorization by the well-resourced or the reference body. In addition, there should be an assurance that the product is either identical to or similar to that approved by the well-resourced or the reference body in terms of quality, safety and efficacy. For Clinical trial submissions, the application (protocol, IB, nonclinical reports, previous study reports and other relevant documents) should be identical to that submitted, evaluated and approved by the well-resourced or reference body. Notwithstanding, the FDA reserves the right to subject all submissions for approval to an ‘abridged’ evaluation of a certain part of the application (e.g. relevant to use under local condition) such as product quality data in relation to climatic conditions and distribution infrastructure and a benefit-risk assessment in relation to use in the local ethnic population, medical practice/culture and patterns of disease and nutrition. Typically, the verification pathway shall take sixty thirty (60) working days (excluding clock stops) as opposed to the 120 working days in the case of medicines, vaccines and biological product registration, and 60 working days in the case of Clinical Trial Authorization for the routine pathway.",
+        "feature_tags": [
+          "discretion",
+          "sameness",
+          "local_evidence",
+          "decision_clock",
+          "reports"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GHA-Q02",
+        "iso3": "GHA",
+        "event_id": "GHA_025",
+        "document_id": "866f5fcf42cd40360acc",
+        "source_id": "c31e1b128cd03d1c",
+        "source_url": "https://fdaghana.gov.gh/wp-content/uploads/2024/09/FDA-RELIANCE-GUIDELINE-ON-REGULATORY-DECISION-MAKING.pdf",
+        "raw_sha256": "0e0ba0359289e108ca8848290a39b25affc283dee4509d9a1b1f21070ed89154",
+        "text_sha256": "cd8d4ab90200372e05daabbc2af04f82c7ad232ebf1876dcbb638ff1d2ebc15e",
+        "start_offset": 23278,
+        "end_offset": 24033,
+        "pdf_page": 14,
+        "verbatim_extracted_text": "In addition to the full assessment report from the well-resourced or the reference \nNRA and/or public assessment report (to be decided by the FDA-on a case-by-case \nbasis), the applicant shall be required to submit a full product development dossier \n- (CTD Modules I-VI in the case of MA) (as required by the relevant FDA’s guidelines) \nor  Study Protocol, Investigational Brochure (IB), ethics approval, insurance of the \nstudy and information on the development/manufacture of the product (e.g., IMPD \nfor unregistered medicine or vaccines, SmPC/PIL for registered product) - to support \nthe decision-making process by the FDA, if the reliance pathway is applied. Specific \nguidelines for each of the functionalities are available on the FDA’s website.",
+        "display_text": "In addition to the full assessment report from the well-resourced or the reference NRA and/or public assessment report (to be decided by the FDA-on a case-by-case basis), the applicant shall be required to submit a full product development dossier - (CTD Modules I-VI in the case of MA) (as required by the relevant FDA’s guidelines) or Study Protocol, Investigational Brochure (IB), ethics approval, insurance of the study and information on the development/manufacture of the product (e.g., IMPD for unregistered medicine or vaccines, SmPC/PIL for registered product) - to support the decision-making process by the FDA, if the reliance pathway is applied. Specific guidelines for each of the functionalities are available on the FDA’s website.",
+        "feature_tags": [
+          "reports"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GHA-CONTEXT-1",
+        "source_url": "https://fdaghana.gov.gh/wp-content/uploads/2024/09/FDA-RELIANCE-GUIDELINE-ON-REGULATORY-DECISION-MAKING.pdf",
+        "raw_sha256": "0e0ba0359289e108ca8848290a39b25affc283dee4509d9a1b1f21070ed89154",
+        "text_sha256": "cd8d4ab90200372e05daabbc2af04f82c7ad232ebf1876dcbb638ff1d2ebc15e",
+        "start_offset": 18742,
+        "end_offset": 25033,
+        "verbatim_extracted_text": "___________________________________  \nGuideline on Reliance for Regulatory decision-making \n(FDA/GEN/GDL-04/02) \n \nPage 12 of 18 \nSwissmedic’s Marketing Authorization for Global Health products shall be \nconsidered through the reliance route.  \n \n3.1.5  Laboratory Testing (Quality Control) \n \nOn a case-by-case basis, the Center for Laboratory Services and Research (CLSR) \nleverage a provision in the Public Health Act 2012, Act 851, section 127 (5) that \nallows the FDA to rely on or recognize analytical reports from laboratories which are \nWHO Pre-qualified or ISO/IEC 17025:2017 accredited and awarded by an ILAC \nmember. \n \n \n4.0 Alternative /Non-Routine Application Approval Pathways \nReliance pathways to Facilitate Regulatory Decisions  \n \nAuthorization pathways used by the FDA wherein its decisions regarding the \nauthorization of a clinical trial or marketing authorization of medical product could be \naccelerated by the reliance on prior assessment report prepared by a well-resourced \nregulatory authority, mostly operating within the ICH region or agencies or \nprogrammes affiliated to the WHO (e.g., AVAREF, PQ, etc,), NRAs designated by \nthe WHO via the WHO GBT tool as ML3, ML4 or WLA and other  reference NRAs \n(such as MHRA of UK, Norway, etc) or bodies such as the RECs. The FDA shall \nremain responsible and accountable for all regulatory decisions taken, and guided \nby the benefit-risk assessment which focuses on the intended local population and \nindication(s). \n \n5.0 Reliance Procedure \n5.1 Verification \nThe FDA shall ‘verify’ that the product intended to be imported and distributed in \nGhana or the Clinical trial to be conducted in Ghana has been duly registered or \nauthorized or given a positive opinion by a well-resourced NRA or by a reference \n\n\nPAGE 13\n \n \n ______________________________________________________________________________________  \nGuideline on Reliance for Regulatory decision-making \n(FDA/GEN/GDL-04/02) \n \nPage 13 of 18 \nbody. \n \nIn the case of MA, the product should have been granted marketing authorization, and \nthe product characteristics (use, dosage, precautions) for local MA should conform \nto that agreed in the authorization by the well-resourced or the reference body. In \naddition, there should be an assurance that the product is either identical to or \nsimilar to that approved by the well-resourced or the reference body in terms of \nquality, safety and efficacy. \n \nFor Clinical trial submissions, the application (protocol, IB, nonclinical reports, \nprevious study reports and other relevant documents) should be identical to that \nsubmitted, evaluated and approved by the well-resourced or reference body. \n \nNotwithstanding, the FDA reserves the right to subject all submissions for approval \nto an ‘abridged’ evaluation of a certain part of the application (e.g. relevant to use \nunder local condition) such as product quality data in relation to climatic conditions \nand distribution infrastructure and a benefit-risk assessment in relation to use in the \nlocal ethnic population, medical practice/culture and patterns of disease and \nnutrition. Typically, the verification pathway shall take sixty thirty (60) working days \n(excluding clock stops) as opposed to the 120 working days in the case of \nmedicines, vaccines and biological product registration, and 60 working days in the \ncase of Clinical Trial Authorization for the routine pathway. \n \n5.2 Other Acceptable Reliance Mechanisms \n \n• \nRegional reliance: This means that the FDA shall rely on the regulatory \nposition/ opinion resulting from a centralized evaluation of an application (MA, CT, \netc) or other regulatory submissions. The regulatory position/opinion should have \nbeen prepared or generated by a platform of competent and trusted agencies and \n/or corporation/collaboration with other regulators from a well-resourced NRA. \nNonetheless, the FDA shall have the independent final decision to apply the \n\n\nPAGE 14\n \n \n ______________________________________________________________________________________  \nGuideline on Reliance for Regulatory decision-making \n(FDA/GEN/GDL-04/02) \n \nPage 14 of 18 \nregulatory position/opinion.  \n• \nUnilateral or mutual recognition: this means that the FDA shall recognize \nregulatory position/opinion from a well-resourced NRA or listed reference bodies \nleveraging treaties or equivalent, which will provide maximal benefit to the FDA with \nregards to expeditious decision-making and expended work towards decision-\nmaking.  \n \n5.3 Documentation \nIn addition to the full assessment report from the well-resourced or the reference \nNRA and/or public assessment report (to be decided by the FDA-on a case-by-case \nbasis), the applicant shall be required to submit a full product development dossier \n- (CTD Modules I-VI in the case of MA) (as required by the relevant FDA’s guidelines) \nor  Study Protocol, Investigational Brochure (IB), ethics approval, insurance of the \nstudy and information on the development/manufacture of the product (e.g., IMPD \nfor unregistered medicine or vaccines, SmPC/PIL for registered product) - to support \nthe decision-making process by the FDA, if the reliance pathway is applied. Specific \nguidelines for each of the functionalities are available on the FDA’s website. \n \n5.4 Evaluation \nEvaluation of the imported assessment report(s) shall be executed in accordance \nwith laid down procedures to ensure the appropriateness and completeness of the \nconclusions contained in the report. \n\n\nPAGE 15\n \n \nDetailed evaluation of application documents including \nauthorized documents particularly assessment reports \nfrom the well-resourced NRA(s) and other relevant \ndocuments. \nDetails are entered into A-book entry and document \ncoded. Pre-evaluation of application and letter of \nacknowledgement sent to applicant requesting for \nadditional documentation where necessary \nApplicant may appeal to the Minister of Health within 30 working days \nIf rejected, communicated \nto applicant \nTAC updated on status of application \nIf approved, certificate \nissued and communicated to \napplicant \nMonitoring of the Trial \nQueries raised may be forwarded to TAC for \nexpertise advice if \nReceipt of CT applications and other accompanying documents at the Client Service. \nDocument",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "GHA",
+      "country": "Ghana",
+      "selected_document_id": "866f5fcf42cd40360acc",
+      "source_id": "c31e1b128cd03d1c",
+      "pathway": "Verification with retained abridged assessment",
+      "source_url": "https://fdaghana.gov.gh/wp-content/uploads/2024/09/FDA-RELIANCE-GUIDELINE-ON-REGULATORY-DECISION-MAKING.pdf",
+      "document_title": "FDA Ghana reliance guideline version2",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "0e0ba0359289e108ca8848290a39b25affc283dee4509d9a1b1f21070ed89154",
+      "raw_hash_validated": true,
+      "text_sha256": "cd8d4ab90200372e05daabbc2af04f82c7ad232ebf1876dcbb638ff1d2ebc15e",
+      "version_dates": {},
+      "version_scope_note": "Ghana FDA reliance guideline, documentation/report sufficiency decided case by case. Literal timeline phrase contains both sixty/thirty; numeric(60) retained with ambiguity.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          18742,
+          25033
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "Prior registration by qualifying well-resourced authority; exact reference and product conditions remain.",
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Identical/similar approved product and relevant dossier information verified.",
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Full assessment and/or public reports required as determined case by case, together with complete dossier.",
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "discretionary/conditional",
+          "finding": "Public report is an express possible input, not universal eligibility guarantee.",
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Verification of sameness plus local abridged assessment of stability, ethnicity, disease and medical practice.",
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "Text says sixty thirty(60) working days, excluding clockstops. Preserve wording ambiguity; no 30 day estimate substituted.",
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "FDA selects appropriate reports and local assessment strategy case by case.",
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GHA-Q01",
+            "GHA-Q02",
+            "GHA-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "GHA-Q01",
+          "iso3": "GHA",
+          "event_id": "GHA_025",
+          "document_id": "866f5fcf42cd40360acc",
+          "source_id": "c31e1b128cd03d1c",
+          "source_url": "https://fdaghana.gov.gh/wp-content/uploads/2024/09/FDA-RELIANCE-GUIDELINE-ON-REGULATORY-DECISION-MAKING.pdf",
+          "raw_sha256": "0e0ba0359289e108ca8848290a39b25affc283dee4509d9a1b1f21070ed89154",
+          "text_sha256": "cd8d4ab90200372e05daabbc2af04f82c7ad232ebf1876dcbb638ff1d2ebc15e",
+          "start_offset": 19492,
+          "end_offset": 22168,
+          "pdf_page": 12,
+          "verbatim_extracted_text": "Authorization pathways used by the FDA wherein its decisions regarding the \nauthorization of a clinical trial or marketing authorization of medical product could be \naccelerated by the reliance on prior assessment report prepared by a well-resourced \nregulatory authority, mostly operating within the ICH region or agencies or \nprogrammes affiliated to the WHO (e.g., AVAREF, PQ, etc,), NRAs designated by \nthe WHO via the WHO GBT tool as ML3, ML4 or WLA and other  reference NRAs \n(such as MHRA of UK, Norway, etc) or bodies such as the RECs. The FDA shall \nremain responsible and accountable for all regulatory decisions taken, and guided \nby the benefit-risk assessment which focuses on the intended local population and \nindication(s). \n \n5.0 Reliance Procedure \n5.1 Verification \nThe FDA shall ‘verify’ that the product intended to be imported and distributed in \nGhana or the Clinical trial to be conducted in Ghana has been duly registered or \nauthorized or given a positive opinion by a well-resourced NRA or by a reference \n\n\nPAGE 13\n \n \n ______________________________________________________________________________________  \nGuideline on Reliance for Regulatory decision-making \n(FDA/GEN/GDL-04/02) \n \nPage 13 of 18 \nbody. \n \nIn the case of MA, the product should have been granted marketing authorization, and \nthe product characteristics (use, dosage, precautions) for local MA should conform \nto that agreed in the authorization by the well-resourced or the reference body. In \naddition, there should be an assurance that the product is either identical to or \nsimilar to that approved by the well-resourced or the reference body in terms of \nquality, safety and efficacy. \n \nFor Clinical trial submissions, the application (protocol, IB, nonclinical reports, \nprevious study reports and other relevant documents) should be identical to that \nsubmitted, evaluated and approved by the well-resourced or reference body. \n \nNotwithstanding, the FDA reserves the right to subject all submissions for approval \nto an ‘abridged’ evaluation of a certain part of the application (e.g. relevant to use \nunder local condition) such as product quality data in relation to climatic conditions \nand distribution infrastructure and a benefit-risk assessment in relation to use in the \nlocal ethnic population, medical practice/culture and patterns of disease and \nnutrition. Typically, the verification pathway shall take sixty thirty (60) working days \n(excluding clock stops) as opposed to the 120 working days in the case of \nmedicines, vaccines and biological product registration, and 60 working days in the \ncase of Clinical Trial Authorization for the routine pathway.",
+          "display_text": "Authorization pathways used by the FDA wherein its decisions regarding the authorization of a clinical trial or marketing authorization of medical product could be accelerated by the reliance on prior assessment report prepared by a well-resourced regulatory authority, mostly operating within the ICH region or agencies or programmes affiliated to the WHO (e.g., AVAREF, PQ, etc,), NRAs designated by the WHO via the WHO GBT tool as ML3, ML4 or WLA and other reference NRAs (such as MHRA of UK, Norway, etc) or bodies such as the RECs. The FDA shall remain responsible and accountable for all regulatory decisions taken, and guided by the benefit-risk assessment which focuses on the intended local population and indication(s). 5.0 Reliance Procedure 5.1 Verification The FDA shall ‘verify’ that the product intended to be imported and distributed in Ghana or the Clinical trial to be conducted in Ghana has been duly registered or authorized or given a positive opinion by a well-resourced NRA or by a reference PAGE 13 ______________________________________________________________________________________ Guideline on Reliance for Regulatory decision-making (FDA/GEN/GDL-04/02) Page 13 of 18 body. In the case of MA, the product should have been granted marketing authorization, and the product characteristics (use, dosage, precautions) for local MA should conform to that agreed in the authorization by the well-resourced or the reference body. In addition, there should be an assurance that the product is either identical to or similar to that approved by the well-resourced or the reference body in terms of quality, safety and efficacy. For Clinical trial submissions, the application (protocol, IB, nonclinical reports, previous study reports and other relevant documents) should be identical to that submitted, evaluated and approved by the well-resourced or reference body. Notwithstanding, the FDA reserves the right to subject all submissions for approval to an ‘abridged’ evaluation of a certain part of the application (e.g. relevant to use under local condition) such as product quality data in relation to climatic conditions and distribution infrastructure and a benefit-risk assessment in relation to use in the local ethnic population, medical practice/culture and patterns of disease and nutrition. Typically, the verification pathway shall take sixty thirty (60) working days (excluding clock stops) as opposed to the 120 working days in the case of medicines, vaccines and biological product registration, and 60 working days in the case of Clinical Trial Authorization for the routine pathway.",
+          "feature_tags": [
+            "discretion",
+            "sameness",
+            "local_evidence",
+            "decision_clock",
+            "reports"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GHA-Q02",
+          "iso3": "GHA",
+          "event_id": "GHA_025",
+          "document_id": "866f5fcf42cd40360acc",
+          "source_id": "c31e1b128cd03d1c",
+          "source_url": "https://fdaghana.gov.gh/wp-content/uploads/2024/09/FDA-RELIANCE-GUIDELINE-ON-REGULATORY-DECISION-MAKING.pdf",
+          "raw_sha256": "0e0ba0359289e108ca8848290a39b25affc283dee4509d9a1b1f21070ed89154",
+          "text_sha256": "cd8d4ab90200372e05daabbc2af04f82c7ad232ebf1876dcbb638ff1d2ebc15e",
+          "start_offset": 23278,
+          "end_offset": 24033,
+          "pdf_page": 14,
+          "verbatim_extracted_text": "In addition to the full assessment report from the well-resourced or the reference \nNRA and/or public assessment report (to be decided by the FDA-on a case-by-case \nbasis), the applicant shall be required to submit a full product development dossier \n- (CTD Modules I-VI in the case of MA) (as required by the relevant FDA’s guidelines) \nor  Study Protocol, Investigational Brochure (IB), ethics approval, insurance of the \nstudy and information on the development/manufacture of the product (e.g., IMPD \nfor unregistered medicine or vaccines, SmPC/PIL for registered product) - to support \nthe decision-making process by the FDA, if the reliance pathway is applied. Specific \nguidelines for each of the functionalities are available on the FDA’s website.",
+          "display_text": "In addition to the full assessment report from the well-resourced or the reference NRA and/or public assessment report (to be decided by the FDA-on a case-by-case basis), the applicant shall be required to submit a full product development dossier - (CTD Modules I-VI in the case of MA) (as required by the relevant FDA’s guidelines) or Study Protocol, Investigational Brochure (IB), ethics approval, insurance of the study and information on the development/manufacture of the product (e.g., IMPD for unregistered medicine or vaccines, SmPC/PIL for registered product) - to support the decision-making process by the FDA, if the reliance pathway is applied. Specific guidelines for each of the functionalities are available on the FDA’s website.",
+          "feature_tags": [
+            "reports"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GHA-CONTEXT-1",
+          "source_url": "https://fdaghana.gov.gh/wp-content/uploads/2024/09/FDA-RELIANCE-GUIDELINE-ON-REGULATORY-DECISION-MAKING.pdf",
+          "raw_sha256": "0e0ba0359289e108ca8848290a39b25affc283dee4509d9a1b1f21070ed89154",
+          "text_sha256": "cd8d4ab90200372e05daabbc2af04f82c7ad232ebf1876dcbb638ff1d2ebc15e",
+          "start_offset": 18742,
+          "end_offset": 25033,
+          "verbatim_extracted_text": "___________________________________  \nGuideline on Reliance for Regulatory decision-making \n(FDA/GEN/GDL-04/02) \n \nPage 12 of 18 \nSwissmedic’s Marketing Authorization for Global Health products shall be \nconsidered through the reliance route.  \n \n3.1.5  Laboratory Testing (Quality Control) \n \nOn a case-by-case basis, the Center for Laboratory Services and Research (CLSR) \nleverage a provision in the Public Health Act 2012, Act 851, section 127 (5) that \nallows the FDA to rely on or recognize analytical reports from laboratories which are \nWHO Pre-qualified or ISO/IEC 17025:2017 accredited and awarded by an ILAC \nmember. \n \n \n4.0 Alternative /Non-Routine Application Approval Pathways \nReliance pathways to Facilitate Regulatory Decisions  \n \nAuthorization pathways used by the FDA wherein its decisions regarding the \nauthorization of a clinical trial or marketing authorization of medical product could be \naccelerated by the reliance on prior assessment report prepared by a well-resourced \nregulatory authority, mostly operating within the ICH region or agencies or \nprogrammes affiliated to the WHO (e.g., AVAREF, PQ, etc,), NRAs designated by \nthe WHO via the WHO GBT tool as ML3, ML4 or WLA and other  reference NRAs \n(such as MHRA of UK, Norway, etc) or bodies such as the RECs. The FDA shall \nremain responsible and accountable for all regulatory decisions taken, and guided \nby the benefit-risk assessment which focuses on the intended local population and \nindication(s). \n \n5.0 Reliance Procedure \n5.1 Verification \nThe FDA shall ‘verify’ that the product intended to be imported and distributed in \nGhana or the Clinical trial to be conducted in Ghana has been duly registered or \nauthorized or given a positive opinion by a well-resourced NRA or by a reference \n\n\nPAGE 13\n \n \n ______________________________________________________________________________________  \nGuideline on Reliance for Regulatory decision-making \n(FDA/GEN/GDL-04/02) \n \nPage 13 of 18 \nbody. \n \nIn the case of MA, the product should have been granted marketing authorization, and \nthe product characteristics (use, dosage, precautions) for local MA should conform \nto that agreed in the authorization by the well-resourced or the reference body. In \naddition, there should be an assurance that the product is either identical to or \nsimilar to that approved by the well-resourced or the reference body in terms of \nquality, safety and efficacy. \n \nFor Clinical trial submissions, the application (protocol, IB, nonclinical reports, \nprevious study reports and other relevant documents) should be identical to that \nsubmitted, evaluated and approved by the well-resourced or reference body. \n \nNotwithstanding, the FDA reserves the right to subject all submissions for approval \nto an ‘abridged’ evaluation of a certain part of the application (e.g. relevant to use \nunder local condition) such as product quality data in relation to climatic conditions \nand distribution infrastructure and a benefit-risk assessment in relation to use in the \nlocal ethnic population, medical practice/culture and patterns of disease and \nnutrition. Typically, the verification pathway shall take sixty thirty (60) working days \n(excluding clock stops) as opposed to the 120 working days in the case of \nmedicines, vaccines and biological product registration, and 60 working days in the \ncase of Clinical Trial Authorization for the routine pathway. \n \n5.2 Other Acceptable Reliance Mechanisms \n \n• \nRegional reliance: This means that the FDA shall rely on the regulatory \nposition/ opinion resulting from a centralized evaluation of an application (MA, CT, \netc) or other regulatory submissions. The regulatory position/opinion should have \nbeen prepared or generated by a platform of competent and trusted agencies and \n/or corporation/collaboration with other regulators from a well-resourced NRA. \nNonetheless, the FDA shall have the independent final decision to apply the \n\n\nPAGE 14\n \n \n ______________________________________________________________________________________  \nGuideline on Reliance for Regulatory decision-making \n(FDA/GEN/GDL-04/02) \n \nPage 14 of 18 \nregulatory position/opinion.  \n• \nUnilateral or mutual recognition: this means that the FDA shall recognize \nregulatory position/opinion from a well-resourced NRA or listed reference bodies \nleveraging treaties or equivalent, which will provide maximal benefit to the FDA with \nregards to expeditious decision-making and expended work towards decision-\nmaking.  \n \n5.3 Documentation \nIn addition to the full assessment report from the well-resourced or the reference \nNRA and/or public assessment report (to be decided by the FDA-on a case-by-case \nbasis), the applicant shall be required to submit a full product development dossier \n- (CTD Modules I-VI in the case of MA) (as required by the relevant FDA’s guidelines) \nor  Study Protocol, Investigational Brochure (IB), ethics approval, insurance of the \nstudy and information on the development/manufacture of the product (e.g., IMPD \nfor unregistered medicine or vaccines, SmPC/PIL for registered product) - to support \nthe decision-making process by the FDA, if the reliance pathway is applied. Specific \nguidelines for each of the functionalities are available on the FDA’s website. \n \n5.4 Evaluation \nEvaluation of the imported assessment report(s) shall be executed in accordance \nwith laid down procedures to ensure the appropriateness and completeness of the \nconclusions contained in the report. \n\n\nPAGE 15\n \n \nDetailed evaluation of application documents including \nauthorized documents particularly assessment reports \nfrom the well-resourced NRA(s) and other relevant \ndocuments. \nDetails are entered into A-book entry and document \ncoded. Pre-evaluation of application and letter of \nacknowledgement sent to applicant requesting for \nadditional documentation where necessary \nApplicant may appeal to the Minister of Health within 30 working days \nIf rejected, communicated \nto applicant \nTAC updated on status of application \nIf approved, certificate \nissued and communicated to \napplicant \nMonitoring of the Trial \nQueries raised may be forwarded to TAC for \nexpertise advice if \nReceipt of CT applications and other accompanying documents at the Client Service. \nDocument",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

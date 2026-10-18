@@ -130,5 +130,55 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "UKR",
+    "country": "Ukraine",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "official_sequencing_explanation",
+    "fixed_case_scope_status": "official_explanation_not_complete_route",
+    "finding": "The official FAQ requires publication of a final foreign assessment report before filing in its stated situation and foreign authorization before a Ukrainian decision. Public reporting is a sequence requirement; it does not establish faster review or every current eligibility condition.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The official FAQ requires publication of a final foreign assessment report before filing in its stated situation and foreign authorization before a Ukrainian decision. Public reporting is a sequence requirement; it does not establish faster review or every current eligibility condition."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The official FAQ requires publication of a final foreign assessment report before filing in its stated situation and foreign authorization before a Ukrainian decision. Public reporting is a sequence requirement; it does not establish faster review or every current eligibility condition."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The official FAQ requires publication of a final foreign assessment report before filing in its stated situation and foreign authorization before a Ukrainian decision. Public reporting is a sequence requirement; it does not establish faster review or every current eligibility condition."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The official FAQ requires publication of a final foreign assessment report before filing in its stated situation and foreign authorization before a Ukrainian decision. Public reporting is a sequence requirement; it does not establish faster review or every current eligibility condition."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The official FAQ requires publication of a final foreign assessment report before filing in its stated situation and foreign authorization before a Ukrainian decision. Public reporting is a sequence requirement; it does not establish faster review or every current eligibility condition."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "UKR-R01",
+        "source_url": "https://www.dec.gov.ua/en/faq/yakshho-likarskij-zasib-prohodit-re-stracziyu-u-s-za-proczeduroyu-vza-mnogo-viznannya-mrp-abo-deczentralizovanoyu-proczeduroyu-dcp-chi-bude-prijnyatnim-i-dostatnim-podannya-zvitu-pro-oczinku-assessmen/",
+        "raw_sha256": "8844651748ac9ee05cdb23eb07a2bf28376221128854988a6b8eee2cbd873624",
+        "text_sha256": "2ec0bb9d42c4d0030db085f231049ad32fc7a4b5bab22b53fc954e69a7065a59",
+        "start_offset": 250,
+        "end_offset": 1174,
+        "verbatim_extracted_text": "In accordance with the Procedure for conducting expert evaluation of registration materials, approved by MoH order No. 460 dated 23.07.2015, if the applicant submits a medicinal product for registration to the regulatory authority(ies) of another country for the first time in the world, then the application for registration of this medicinal product in Ukraine and the registration materials may be submitted no earlier than the final expert report on the assessment of the registration dossier for the medicinal product is published on the official website of the regulatory authority. However, the decision on registration of this medicinal product in Ukraine will be made by the MoH after the approval of the relevant decision by the regulatory authority(ies) of the country (countries) in which this medicinal product was submitted for registration.\nRegulatory references:\nhttp://zakon5.rada.gov.ua/laws/show/z1210-15\n",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "official_policy_explanation",
+        "version_alignment": "Current preserved source version; date of first adoption not inferred",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Human-medicine authorisation",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

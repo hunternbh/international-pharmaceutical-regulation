@@ -589,5 +589,731 @@
       "8e555f8836e09ac36dfa5258003afc7aa8a1dc156afc24849d8974083bf9363a",
       "97153f42800bfd30264f563fb58eb02b3e36bfa662822b487ca5e8c759372865"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "ZWE",
+    "country": "Zimbabwe",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Reliance conditional on holder consent and replica dossier",
+    "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+    "document_id": "759add850c665ae99ac8",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "MCAZ policy revision 2 April 2024, OCR source. Marketing-authorization sections 3.1–3.4 contextually read and decisive pages 3–4 visually checked in this run. Information types listed in increasing importance; sharing provisions called enablers, not a universal nonpublic-report gate.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "Medicines registration reliance policy, not vaccine-only or emergency-only.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "SRA list includes EMA/FDA/MHRA/PMDA/Canada/Swissmedic/TGA; separate regional/WHO routes.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Replica technical dossier and sameness demonstration described.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Public reports and full reports listed in increasing importance; full reports support described expedited sharing pathway.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Public report explicitly accepted among information, but sufficiency for complete route access unresolved.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "applicant_consent": {
+        "state": "discretionary/conditional",
+        "finding": "Full sharing pathway describes manufacturer written consent and three-way confidentiality agreements as enablers.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "discretionary/conditional",
+        "finding": "Full report shared with applicant and NRA consent; three-way arrangements. Do not equate missing permission with loss of every alternative route.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "discretionary/conditional",
+        "finding": "Reference regulator supplies full unredacted report after written applicant consent.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Own regulatory decision retained; different evidence types support different reliance approaches.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "Policy commitment to expedite from 16–24 months to 3 months when replica dossier and full report supplied; not observed effect or statutory comparison.",
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional; full-sharing option impeded",
+        "finding": "Full-report sharing option describes applicant/NRA consent and confidentiality arrangements as enablers. Missing permission impedes that option; public-report alternatives are not established ineligible.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ],
+        "status": "discretionary/conditional; full-sharing option impeded"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional; full-sharing option impeded",
+        "finding": "Full-report sharing option describes applicant/NRA consent and confidentiality arrangements as enablers. Missing permission impedes that option; public-report alternatives are not established ineligible.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ],
+        "status": "discretionary/conditional; full-sharing option impeded"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "ZWE-Q01",
+          "ZWE-CTX-1",
+          "ZWE-VISUAL-3",
+          "ZWE-VISUAL-4"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "conditional sharing provision",
+        "finding": "Applicant consent is explicitly mentioned but scope/alternative channels matter; do not force a country-wide binary gate."
+      },
+      "B_minus_D": {
+        "status": "conditional sharing provision",
+        "finding": "Three-way sharing and NRA consent described for full-report option; alternatives unresolved."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "ZWE-Q01",
+        "source_document_id": "759add850c665ae99ac8",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 4,
+        "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+        "raw_sha256": "1d3fdf7599f674a43f9709994b427c452c86d5e568e5becb3faa6e40ff270d3c",
+        "text_sha256": "e2738b4dad12f4749b073d692ff93f972c1e2dae5850d5f8c5202d59b26fc630",
+        "exact_text": "Willingness and consent of the applicant whose product has already\nbeen approved by a reference body e.g. WHO PQ, SRA, other ML3\nNRAs, to have their product expeditiously considered through reliance\nroute.\n\nThe applicant submitting a replica dossier, in terms of technical\ninformation, to MCAZ that was submitted to and approved by the\nreference NRA, whether in country of origin or an SRA i.e. sameness of\nthe product submitted by the applicant with that approved by the\nreference regulatory authority should be demonstrated.\n\nThree-way confidentiality and non-disclosure agreements between\napplicant, reference NRA and MCAZ.\n\nThe reference NRA providing the full unredacted evaluation report of\nthe product to MCAZ after written consent of the applicant.\n\nMCAZ legal undertaking to maintain confidentiality of the evaluation\nreport and information shared by the reference NRA, with the consent\nof the applicant, and use it only for the purposes of expedited approval\nof the product.\n\nMCAZ committing to expedite approval of the product from 16-24\nmonths to 3 months when a replica dossier from the applicant and the\nfull evaluation report from the reference NRA were provided.",
+        "start": 8426,
+        "end": 9604,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "ZWE-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+        "raw_sha256": "1d3fdf7599f674a43f9709994b427c452c86d5e568e5becb3faa6e40ff270d3c",
+        "text_sha256": "e2738b4dad12f4749b073d692ff93f972c1e2dae5850d5f8c5202d59b26fc630",
+        "exact_text": "nd quality-assured medicines to the Zimbabwean public and\nhealthcare delivery systems. The same limitations also affect the sister\nregulatory agencies in the Sothern African Development Conference (SADAC)\n\nregion.\n\nIt is against this background that MCAZ must use reliance, collaborative\napproaches, and recognition to leverage its limited human, technical and\nmaterial resources.\n\nMCAZ RELIANCE\n\nMCAZ has been applying the principles of reliance over the years, though these were\nnot documented. There is also a need to adopt broader reliance to respond to the\n\ngrowing volume of and complexity of work and the increasing demand for faster\nturnaround times by patients, the health care system, the state and applicants. The\nreliance framework allows MCAZ to rely on other NRAs as well as allows other NRAs\n\nto rely on MCAZ.\n\nRev 2_ April 2024 Page 2 of 13\n\n\n\nPAGE 3\n[MACHINE OCR; original image authoritative]\nQPM 09\n\n3.0 Registration Reliance\n\n3.1. When MCAZ is conducting evaluation and registration of medicines it\nconsiders:\n\n3.1.1\n3.1.2\n3.1.3\n3.1.4\n3.1.5\n\n3.1.6\n3.1.7\n\n3.1.8\n\n3.1.9\n\nRegistration in the country of origin as a basic minimum\n\nWorld Health Organisation Prequalification (WHO-PQ) for medicines.\nWHO Prequalification for vaccines.\n\nWHO Prequalification for devices and Diagnostics (once the regulations\nare approved)\n\nWHO Emergency Use Listing of medicines or devices in the face of\npublic health emergencies\n\nZazibona Collaborative Registration Procedure\n\nAgreements/MoUs signed with other regulators who are willing to share\ninformation with MCAZ with the manufacturers’ consent. Currently\nMCAZ has functional agreements with Egyptian Drugs Authority\n(EDA) and South African Health Products Authority (SAHPRA). In\naddition, MCAZ is working on further agreements with the Islamic\nRepublic of Iran Food and Drugs Authority (IFDA).\n\nApproval by Stringent Regulatory Authorities (European Medicines\nAgency (EMA), United States Food and Drug Authority (USFDA),\nMedical Health Products Regulatory Authority (MHPRA), Japan\nPharmaceutical and Medical Devices Authority (PMDA), Health\nCanada, Swissmedic, Australia Therapeutic Goods Administration\n(TGA))\n\nEuropean Union (EU) Article 58 Scientific Opinion evaluation reports\nfor medicines developed in Europe for use outside EU\n\n3.2 Due to the success of the African Medicines Regulatory Harmonization\nInitiative (AMRH) in the SADC Region, MCAZ is exploring the following\nreliance mechanisms:\n\n3.2.1\n\nReliance on approvals issued by other SADC National Medicine\nRegulatory Authority’s that participate in ZAZIBONA programme\nBotswana Medicines Regulatory Authority-BOMRA, Zambia\nMedicines Regulatory Authority-ZAMRA, Tanzania Medicines &\nMedical Devices Authority-TMDA, Namibia Medicines Regulatory\nCouncil-NMRC etc)\n\nReliance on approvals issued by eleven African ReCoREs outside\nSADC such as Ghana Food and Drug Authority-GFDA, Nigeria\nNational Agency for Food and Drug Administration and Control -\nNAFDAC, Burkina Faso Direction General de la Pharmacie du\nMedicament et des Laboratoires where full evaluation reports are\nprovided.\n\n3.3 In order for the MCAZ Evaluations and Registration Division to consider a\nproduct for reliance it needs the following information, in order of increasing\nimportance:\n\n3.3.1\n\nA registration certificate from the country of origin\n\n3.3.2 A registration certificate from Stringent Regulatory Authority (SRA).\n\nRev 2_April 2024\n\nPage 3 of 13\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\n3.3.3\n3.3.4\n\n3.3.5\n3.3.6\n3.3.7\n3.3.8\n\n3.3.9\n\n3.3.10\n\n3.3.11\n\n3.3.12\n\n3.3.13\n\nQPM 09\n\nA public assessment report from the NRA in country of origin.\nA public assessment report, including scientific discussion and SmPC\nfrom the NRA in the country of origin.\nA public assessment report including, scientific discussion and SmPC\nfrom an SRA.\nA public assessment report from WHO.\nFull assessment report and SmPC from a ZAZIBONA country.\nFull assessment report and SmPC from a maturity level 3 NRA in Africa\nor abroad.\nA full WHO Prequalification assessment report release via WHO\nCollaborative Registration Process agreements between applicant,\nWHO and MCAZ.\nFull assessment report from the country of origin given with the consent\nof the applicant and the NRA.\nFull assessment report from the NRA in an SRA where the product is\nregistered, with consent of the applicant, NRA and MCAZ,\nQuality information summary (QIS) summarising the current approved\nproperties of a product by the reference regulatory authority.\nFull assessment report from WHO Prequalification with the consent of\napplicant, WHO and MCAZ.\n\n3.4 Enablers that support MCAZ Reliance on other Reference NRAs\n\n3.4.1\n\n3.4.2\n\n3.4.3\n\n3.4.4\n\n3.4.5\n\n3.4.6\n\n3.4.7\n\nRev 2_April 2024\n\nWillingness and consent of the applicant whose product has already\nbeen approved by a reference body e.g. WHO PQ, SRA, other ML3\nNRAs, to have their product expeditiously considered through reliance\nroute.\n\nThe applicant submitting a replica dossier, in terms of technical\ninformation, to MCAZ that was submitted to and approved by the\nreference NRA, whether in country of origin or an SRA i.e. sameness of\nthe product submitted by the applicant with that approved by the\nreference regulatory authority should be demonstrated.\n\nThree-way confidentiality and non-disclosure agreements between\napplicant, reference NRA and MCAZ.\n\nThe reference NRA providing the full unredacted evaluation report of\nthe product to MCAZ after written consent of the applicant.\n\nMCAZ legal undertaking to maintain confidentiality of the evaluation\nreport and information shared by the reference NRA, with the consent\nof the applicant, and use it only for the purposes of expedited approval\nof the product.\n\nMCAZ committing to expedite approval of the product from 16-24\nmonths to 3 months when a replica dossier from the applicant and the\nfull evaluation report from the reference NRA were provided.\nParticipation or observer status for MCAZ when the reference body or\nagency is assessing or deliberating of approval of the product e.g. EU-\nMedicines for all (EU-M4all) products are being discussed by EU\nexperts.\n\nPage 4 of 13\n\n\nPAGE 5\n[MACHINE OCR; original image authoritative]\nQPM 09\n\n3.5 Enablers for other foreign NRAs to rely on MCAZ as the Reference NRA\n\n3.5.1\n\n3.5.2\n\n3.5.3\n\n3.5.4\n\n3.5.5\n\n3.5.6\n\n3.5.7\n\n3.5.8\n\n3.5.9\n\n3.5.10\n\nWillingness of the applicant who has registered a medicine with MCAZ\nto have the same product expeditiously considered by another NRA\nusing reliance procedure.\n\nThree-way confidentiality and non-disclosure agreements between\napplicant, MCAZ as the reference NRA and referring NRA.\n\nApplicant submission of a replica dossier to the referring NRA as\nsubmitted to MCAZ.\n\nApplicant authorising MCAZ to share the full unredacted evaluation\nwith the referring / rely ",
+        "start": 3700,
+        "end": 10500,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "ZWE-VISUAL-3",
+        "pdf_page": 3,
+        "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+        "raw_sha256": "1d3fdf7599f674a43f9709994b427c452c86d5e568e5becb3faa6e40ff270d3c",
+        "image_sha256": "ad947ad13c1215fc98527158d6a92afecb2a3fc8376d696da512b7ec589311b5",
+        "text_sha256": "e2738b4dad12f4749b073d692ff93f972c1e2dae5850d5f8c5202d59b26fc630",
+        "start": null,
+        "end": null,
+        "exact_text": null,
+        "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+      },
+      {
+        "passage_id": "ZWE-VISUAL-4",
+        "pdf_page": 4,
+        "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+        "raw_sha256": "1d3fdf7599f674a43f9709994b427c452c86d5e568e5becb3faa6e40ff270d3c",
+        "image_sha256": "a8cd8ce17421f3b6e65c19ca7368d7e2d05f27876d2385c66c14f1fa65f6bfff",
+        "text_sha256": "e2738b4dad12f4749b073d692ff93f972c1e2dae5850d5f8c5202d59b26fc630",
+        "start": null,
+        "end": null,
+        "exact_text": null,
+        "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+      }
+    ],
+    "review_details": {
+      "iso3": "ZWE",
+      "country": "Zimbabwe",
+      "selected_document_id": "759add850c665ae99ac8",
+      "source_id": "9a171073fc3e0b39",
+      "pathway": "Reliance conditional on holder consent and replica dossier",
+      "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+      "document_title": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "ZWE-Q01": null
+        }
+      ],
+      "raw_sha256": "1d3fdf7599f674a43f9709994b427c452c86d5e568e5becb3faa6e40ff270d3c",
+      "raw_hash_validated": true,
+      "text_sha256": "e2738b4dad12f4749b073d692ff93f972c1e2dae5850d5f8c5202d59b26fc630",
+      "version_dates": {
+        "version": "Revision 2 April 2024; handwritten effective date not independently resolved"
+      },
+      "version_scope_note": "MCAZ policy revision 2 April 2024, OCR source. Marketing-authorization sections 3.1–3.4 contextually read and decisive pages 3–4 visually checked in this run. Information types listed in increasing importance; sharing provisions called enablers, not a universal nonpublic-report gate.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          8426,
+          9604
+        ],
+        [
+          3700,
+          10500
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "Medicines registration reliance policy, not vaccine-only or emergency-only.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "SRA list includes EMA/FDA/MHRA/PMDA/Canada/Swissmedic/TGA; separate regional/WHO routes.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Replica technical dossier and sameness demonstration described.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Public reports and full reports listed in increasing importance; full reports support described expedited sharing pathway.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Public report explicitly accepted among information, but sufficiency for complete route access unresolved.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "applicant_consent": {
+          "state": "discretionary/conditional",
+          "finding": "Full sharing pathway describes manufacturer written consent and three-way confidentiality agreements as enablers.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "discretionary/conditional",
+          "finding": "Full report shared with applicant and NRA consent; three-way arrangements. Do not equate missing permission with loss of every alternative route.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "discretionary/conditional",
+          "finding": "Reference regulator supplies full unredacted report after written applicant consent.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Own regulatory decision retained; different evidence types support different reliance approaches.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "Policy commitment to expedite from 16–24 months to 3 months when replica dossier and full report supplied; not observed effect or statutory comparison.",
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional; full-sharing option impeded",
+          "finding": "Full-report sharing option describes applicant/NRA consent and confidentiality arrangements as enablers. Missing permission impedes that option; public-report alternatives are not established ineligible.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional; full-sharing option impeded",
+          "finding": "Full-report sharing option describes applicant/NRA consent and confidentiality arrangements as enablers. Missing permission impedes that option; public-report alternatives are not established ineligible.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "ZWE-Q01",
+            "ZWE-CTX-1",
+            "ZWE-VISUAL-3",
+            "ZWE-VISUAL-4"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "conditional sharing provision",
+          "finding": "Applicant consent is explicitly mentioned but scope/alternative channels matter; do not force a country-wide binary gate."
+        },
+        "B_minus_D": {
+          "status": "conditional sharing provision",
+          "finding": "Three-way sharing and NRA consent described for full-report option; alternatives unresolved."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "ZWE-Q01",
+          "source_document_id": "759add850c665ae99ac8",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 4,
+          "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+          "raw_sha256": "1d3fdf7599f674a43f9709994b427c452c86d5e568e5becb3faa6e40ff270d3c",
+          "text_sha256": "e2738b4dad12f4749b073d692ff93f972c1e2dae5850d5f8c5202d59b26fc630",
+          "exact_text": "Willingness and consent of the applicant whose product has already\nbeen approved by a reference body e.g. WHO PQ, SRA, other ML3\nNRAs, to have their product expeditiously considered through reliance\nroute.\n\nThe applicant submitting a replica dossier, in terms of technical\ninformation, to MCAZ that was submitted to and approved by the\nreference NRA, whether in country of origin or an SRA i.e. sameness of\nthe product submitted by the applicant with that approved by the\nreference regulatory authority should be demonstrated.\n\nThree-way confidentiality and non-disclosure agreements between\napplicant, reference NRA and MCAZ.\n\nThe reference NRA providing the full unredacted evaluation report of\nthe product to MCAZ after written consent of the applicant.\n\nMCAZ legal undertaking to maintain confidentiality of the evaluation\nreport and information shared by the reference NRA, with the consent\nof the applicant, and use it only for the purposes of expedited approval\nof the product.\n\nMCAZ committing to expedite approval of the product from 16-24\nmonths to 3 months when a replica dossier from the applicant and the\nfull evaluation report from the reference NRA were provided.",
+          "start": 8426,
+          "end": 9604,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "ZWE-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+          "raw_sha256": "1d3fdf7599f674a43f9709994b427c452c86d5e568e5becb3faa6e40ff270d3c",
+          "text_sha256": "e2738b4dad12f4749b073d692ff93f972c1e2dae5850d5f8c5202d59b26fc630",
+          "exact_text": "nd quality-assured medicines to the Zimbabwean public and\nhealthcare delivery systems. The same limitations also affect the sister\nregulatory agencies in the Sothern African Development Conference (SADAC)\n\nregion.\n\nIt is against this background that MCAZ must use reliance, collaborative\napproaches, and recognition to leverage its limited human, technical and\nmaterial resources.\n\nMCAZ RELIANCE\n\nMCAZ has been applying the principles of reliance over the years, though these were\nnot documented. There is also a need to adopt broader reliance to respond to the\n\ngrowing volume of and complexity of work and the increasing demand for faster\nturnaround times by patients, the health care system, the state and applicants. The\nreliance framework allows MCAZ to rely on other NRAs as well as allows other NRAs\n\nto rely on MCAZ.\n\nRev 2_ April 2024 Page 2 of 13\n\n\n\nPAGE 3\n[MACHINE OCR; original image authoritative]\nQPM 09\n\n3.0 Registration Reliance\n\n3.1. When MCAZ is conducting evaluation and registration of medicines it\nconsiders:\n\n3.1.1\n3.1.2\n3.1.3\n3.1.4\n3.1.5\n\n3.1.6\n3.1.7\n\n3.1.8\n\n3.1.9\n\nRegistration in the country of origin as a basic minimum\n\nWorld Health Organisation Prequalification (WHO-PQ) for medicines.\nWHO Prequalification for vaccines.\n\nWHO Prequalification for devices and Diagnostics (once the regulations\nare approved)\n\nWHO Emergency Use Listing of medicines or devices in the face of\npublic health emergencies\n\nZazibona Collaborative Registration Procedure\n\nAgreements/MoUs signed with other regulators who are willing to share\ninformation with MCAZ with the manufacturers’ consent. Currently\nMCAZ has functional agreements with Egyptian Drugs Authority\n(EDA) and South African Health Products Authority (SAHPRA). In\naddition, MCAZ is working on further agreements with the Islamic\nRepublic of Iran Food and Drugs Authority (IFDA).\n\nApproval by Stringent Regulatory Authorities (European Medicines\nAgency (EMA), United States Food and Drug Authority (USFDA),\nMedical Health Products Regulatory Authority (MHPRA), Japan\nPharmaceutical and Medical Devices Authority (PMDA), Health\nCanada, Swissmedic, Australia Therapeutic Goods Administration\n(TGA))\n\nEuropean Union (EU) Article 58 Scientific Opinion evaluation reports\nfor medicines developed in Europe for use outside EU\n\n3.2 Due to the success of the African Medicines Regulatory Harmonization\nInitiative (AMRH) in the SADC Region, MCAZ is exploring the following\nreliance mechanisms:\n\n3.2.1\n\nReliance on approvals issued by other SADC National Medicine\nRegulatory Authority’s that participate in ZAZIBONA programme\nBotswana Medicines Regulatory Authority-BOMRA, Zambia\nMedicines Regulatory Authority-ZAMRA, Tanzania Medicines &\nMedical Devices Authority-TMDA, Namibia Medicines Regulatory\nCouncil-NMRC etc)\n\nReliance on approvals issued by eleven African ReCoREs outside\nSADC such as Ghana Food and Drug Authority-GFDA, Nigeria\nNational Agency for Food and Drug Administration and Control -\nNAFDAC, Burkina Faso Direction General de la Pharmacie du\nMedicament et des Laboratoires where full evaluation reports are\nprovided.\n\n3.3 In order for the MCAZ Evaluations and Registration Division to consider a\nproduct for reliance it needs the following information, in order of increasing\nimportance:\n\n3.3.1\n\nA registration certificate from the country of origin\n\n3.3.2 A registration certificate from Stringent Regulatory Authority (SRA).\n\nRev 2_April 2024\n\nPage 3 of 13\n\n\nPAGE 4\n[MACHINE OCR; original image authoritative]\n3.3.3\n3.3.4\n\n3.3.5\n3.3.6\n3.3.7\n3.3.8\n\n3.3.9\n\n3.3.10\n\n3.3.11\n\n3.3.12\n\n3.3.13\n\nQPM 09\n\nA public assessment report from the NRA in country of origin.\nA public assessment report, including scientific discussion and SmPC\nfrom the NRA in the country of origin.\nA public assessment report including, scientific discussion and SmPC\nfrom an SRA.\nA public assessment report from WHO.\nFull assessment report and SmPC from a ZAZIBONA country.\nFull assessment report and SmPC from a maturity level 3 NRA in Africa\nor abroad.\nA full WHO Prequalification assessment report release via WHO\nCollaborative Registration Process agreements between applicant,\nWHO and MCAZ.\nFull assessment report from the country of origin given with the consent\nof the applicant and the NRA.\nFull assessment report from the NRA in an SRA where the product is\nregistered, with consent of the applicant, NRA and MCAZ,\nQuality information summary (QIS) summarising the current approved\nproperties of a product by the reference regulatory authority.\nFull assessment report from WHO Prequalification with the consent of\napplicant, WHO and MCAZ.\n\n3.4 Enablers that support MCAZ Reliance on other Reference NRAs\n\n3.4.1\n\n3.4.2\n\n3.4.3\n\n3.4.4\n\n3.4.5\n\n3.4.6\n\n3.4.7\n\nRev 2_April 2024\n\nWillingness and consent of the applicant whose product has already\nbeen approved by a reference body e.g. WHO PQ, SRA, other ML3\nNRAs, to have their product expeditiously considered through reliance\nroute.\n\nThe applicant submitting a replica dossier, in terms of technical\ninformation, to MCAZ that was submitted to and approved by the\nreference NRA, whether in country of origin or an SRA i.e. sameness of\nthe product submitted by the applicant with that approved by the\nreference regulatory authority should be demonstrated.\n\nThree-way confidentiality and non-disclosure agreements between\napplicant, reference NRA and MCAZ.\n\nThe reference NRA providing the full unredacted evaluation report of\nthe product to MCAZ after written consent of the applicant.\n\nMCAZ legal undertaking to maintain confidentiality of the evaluation\nreport and information shared by the reference NRA, with the consent\nof the applicant, and use it only for the purposes of expedited approval\nof the product.\n\nMCAZ committing to expedite approval of the product from 16-24\nmonths to 3 months when a replica dossier from the applicant and the\nfull evaluation report from the reference NRA were provided.\nParticipation or observer status for MCAZ when the reference body or\nagency is assessing or deliberating of approval of the product e.g. EU-\nMedicines for all (EU-M4all) products are being discussed by EU\nexperts.\n\nPage 4 of 13\n\n\nPAGE 5\n[MACHINE OCR; original image authoritative]\nQPM 09\n\n3.5 Enablers for other foreign NRAs to rely on MCAZ as the Reference NRA\n\n3.5.1\n\n3.5.2\n\n3.5.3\n\n3.5.4\n\n3.5.5\n\n3.5.6\n\n3.5.7\n\n3.5.8\n\n3.5.9\n\n3.5.10\n\nWillingness of the applicant who has registered a medicine with MCAZ\nto have the same product expeditiously considered by another NRA\nusing reliance procedure.\n\nThree-way confidentiality and non-disclosure agreements between\napplicant, MCAZ as the reference NRA and referring NRA.\n\nApplicant submission of a replica dossier to the referring NRA as\nsubmitted to MCAZ.\n\nApplicant authorising MCAZ to share the full unredacted evaluation\nwith the referring / rely ",
+          "start": 3700,
+          "end": 10500,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "ZWE-VISUAL-3",
+          "pdf_page": 3,
+          "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+          "raw_sha256": "1d3fdf7599f674a43f9709994b427c452c86d5e568e5becb3faa6e40ff270d3c",
+          "image_sha256": "ad947ad13c1215fc98527158d6a92afecb2a3fc8376d696da512b7ec589311b5",
+          "text_sha256": "e2738b4dad12f4749b073d692ff93f972c1e2dae5850d5f8c5202d59b26fc630",
+          "start": null,
+          "end": null,
+          "exact_text": null,
+          "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+        },
+        {
+          "passage_id": "ZWE-VISUAL-4",
+          "pdf_page": 4,
+          "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2024/04/QPM-09-Rev2_April-2024-MCAZ-Reliance-Policy.pdf",
+          "raw_sha256": "1d3fdf7599f674a43f9709994b427c452c86d5e568e5becb3faa6e40ff270d3c",
+          "image_sha256": "a8cd8ce17421f3b6e65c19ca7368d7e2d05f27876d2385c66c14f1fa65f6bfff",
+          "text_sha256": "e2738b4dad12f4749b073d692ff93f972c1e2dae5850d5f8c5202d59b26fc630",
+          "start": null,
+          "end": null,
+          "exact_text": null,
+          "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "ZWE-SUP-1cfda0b4-510",
+          "source_url": "https://www.tmda.go.tz/uploads/publications/en1761117745-MoU%20Reliance%20on%20Regulatory%20Decisions%20by%20WHO%20maturity%20Level%203.pdf",
+          "section_article": "Seven-authority MoU Article2, page5",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "ZWE-SUP-97153f42-927",
+          "source_url": "https://portal.mcaz.co.zw/wp-content/uploads/2026/04/EVR-RF-01-Rev-1_March-2026-Reliance-Framework-for-Medicines-Approved-by-NRAs-Under-MoU-with-MCAZ-signed-1.pdf",
+          "section_article": "Section 3 framework and 3.1 documents",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "ZWE-SUP-97153f42-1182",
+          "source_url": "https://portal.mcaz.co.zw/wp-content/uploads/2026/04/EVR-RF-01-Rev-1_March-2026-Reliance-Framework-for-Medicines-Approved-by-NRAs-Under-MoU-with-MCAZ-signed-1.pdf",
+          "section_article": "Section 3.2 timelines",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "ZWE-SUP-97153f42-10626",
+          "source_url": "https://portal.mcaz.co.zw/wp-content/uploads/2026/04/EVR-RF-01-Rev-1_March-2026-Reliance-Framework-for-Medicines-Approved-by-NRAs-Under-MoU-with-MCAZ-signed-1.pdf",
+          "section_article": "Section 8 document history",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "ZWE-SUP-8e555f88-5379",
+          "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2021/09/MCAZ-RELIANCE-POLICY.pdf",
+          "section_article": "2.1.6 (second repeated numbering), Registration Reliance",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "ZWE-SUP-8e555f88-6903",
+          "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2021/09/MCAZ-RELIANCE-POLICY.pdf",
+          "section_article": "2.1.10–2.1.10.3",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "ZWE-SUP-8e555f88-6395",
+          "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2021/09/MCAZ-RELIANCE-POLICY.pdf",
+          "section_article": "2.1.9",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "ZWE-SUP-8e555f88-4405",
+          "source_url": "https://www.mcaz.co.zw/wp-content/uploads/2021/09/MCAZ-RELIANCE-POLICY.pdf",
+          "section_article": "2.0 MCAZ Regulatory Reliance",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

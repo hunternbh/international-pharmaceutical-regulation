@@ -162,5 +162,565 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "MNE",
+    "country": "Montenegro",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU approval permits shorter domestic evaluation",
+    "source_url": "https://cinmed.me/en/humane-medicines/placing-a-medicine-on-the-market/",
+    "document_id": "F250_05d9861b315291c3ac93_f259c23908bf",
+    "genre": "Official procedure guidance",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Montenegro CINMED official explanation: EU approval can permit shorter national assessment but explicitly never takes automatic national effect.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "An EU-registered medicine can be considered for shortened review using relevant expert opinions. FDA-only eligibility is not established by this EU clause.",
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Prior qualifying EU authorisation supports the selected shorter review.",
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "The explanation does not settle public versus full foreign-report requirements.",
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "A foreign MA cannot automatically authorise Montenegro: local application and quality, safety and efficacy evaluation remain.",
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Shorter assessment described without a numeric deadline.",
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Relevant EU expert opinions may be taken into consideration for a shorter national assessment.",
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "outside selected EU-based shorter assessment on fixed facts",
+        "finding": "FDA-only is not identified as a basis for this selected EU-based shorter review. An ordinary national application is not ruled out.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MNE-WEB01",
+          "MNE-CONTEXT-1"
+        ],
+        "status": "outside selected EU-based shorter assessment on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "explicitly no automatic foreign MA effect",
+      "finding": "CINMED expressly states foreign marketing authorisation does not automatically authorise Montenegro. EU approval may support a shorter national review.",
+      "evidence_ids": [
+        "MNE-WEB01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "MNE-WEB01",
+        "iso3": "MNE",
+        "event_id": null,
+        "document_id": "F250_05d9861b315291c3ac93_f259c23908bf",
+        "source_id": "F250_05d9861b315291c3ac93",
+        "source_url": "https://cinmed.me/en/humane-medicines/placing-a-medicine-on-the-market/",
+        "raw_sha256": "f259c23908bf75d87a259e895b9fd015068dfde48e1b8499992fc6e1b99a9847",
+        "text_sha256": "b553e3027126864e1cf77074b3b137b1d2f1ae9b21c23ed2d529527b05a8951e",
+        "start_offset": 3741,
+        "end_offset": 4274,
+        "pdf_page": null,
+        "verbatim_extracted_text": "The Institute issues a national marketing authorisation valid on the territory of Montenegro. Marketing authorisations for medicinal products issued in other countries do not have automatic validity on the territory of Montenegro, but each medicinal product must undergo the marketing authorisation procedure at the Institute. However, if the medicinal product is already registered in the EU, in accordance with the\nLaw on Medicinal Products,\nthe evaluation procedure may be shorter with the acceptance of relevant expert opinions.\n",
+        "display_text": "The Institute issues a national marketing authorisation valid on the territory of Montenegro. Marketing authorisations for medicinal products issued in other countries do not have automatic validity on the territory of Montenegro, but each medicinal product must undergo the marketing authorisation procedure at the Institute. However, if the medicinal product is already registered in the EU, in accordance with the Law on Medicinal Products, the evaluation procedure may be shorter with the acceptance of relevant expert opinions.",
+        "feature_tags": [
+          "reports",
+          "scope_limit",
+          "discretion"
+        ],
+        "role": "Foreign approvals and shortened evaluation",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "The regulator explicitly denies automatic domestic validity of foreign approvals, then states that a product registered in the EU may receive shorter evaluation accepting relevant expert opinions. Domestic authorisation is still required.",
+        "version_alignment": "Current preserved source version; date of first adoption not inferred",
+        "evidence_tier": "national_rule",
+        "section_article": "Foreign approvals and shortened evaluation",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MNE-CONTEXT-1",
+        "source_url": "https://cinmed.me/en/humane-medicines/placing-a-medicine-on-the-market/",
+        "raw_sha256": "f259c23908bf75d87a259e895b9fd015068dfde48e1b8499992fc6e1b99a9847",
+        "text_sha256": "b553e3027126864e1cf77074b3b137b1d2f1ae9b21c23ed2d529527b05a8951e",
+        "start_offset": 2991,
+        "end_offset": 5274,
+        "verbatim_extracted_text": "nd\nICH\n– International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use\n).\nInstitute shall issue marketing authorization, or bring the decision rejecting the application for the issuance of marketing authorization based on the assessment of the documentation on quality, safety and efficacy of the medical product.\nThe procedures and deadlines for issuing a marketing authorisation for a medicinal product are in line with EU directives. The length of the documentation assessment procedure may vary depending on the type of medicinal product and the quality of the initially submitted documentation, i.e. whether and to what extent the documentation needs to be supplemented as part of the assessment procedure.\nThe Institute issues a national marketing authorisation valid on the territory of Montenegro. Marketing authorisations for medicinal products issued in other countries do not have automatic validity on the territory of Montenegro, but each medicinal product must undergo the marketing authorisation procedure at the Institute. However, if the medicinal product is already registered in the EU, in accordance with the\nLaw on Medicinal Products,\nthe evaluation procedure may be shorter with the acceptance of relevant expert opinions.\nIntegral parts of marketing authorization are Summary of Product Characteristics (SmPC) which is intended for expert public, i.e. healthcare professionals and Package Leaflet (PL), intended for a patient, i.e. user a of a medicinal product and is in line with Summary of Product Characteristics.\nInformation on medicinal products authorized for marketing and approved SmPCs and PLs may be found in the section\nRegister of medicinal products for human use\n.\nCommission for placing medicinal products on the market​\nIn accordance with Article 328 of the\nLaw on Medicinal Products\n, the Institute for medicines and medical devices shall establish the Commission for marketing authorization of medicinal products as an advisory body.\nThe Commission is a professional body that carries out tasks related to the granting and renewal of marketing authorizations, as well as the approval of variations to marketing authorizations.\nMembers of the Commission may be permanent members or ad hoc members invited ",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Current preserved source version; first operative date not inferred"
+      }
+    ],
+    "review_details": {
+      "iso3": "MNE",
+      "country": "Montenegro",
+      "selected_document_id": "F250_05d9861b315291c3ac93_f259c23908bf",
+      "source_id": "F250_05d9861b315291c3ac93",
+      "pathway": "EU approval permits shorter domestic evaluation",
+      "source_url": "https://cinmed.me/en/humane-medicines/placing-a-medicine-on-the-market/",
+      "document_title": "CInMED: placing a medicine on the market",
+      "source_type": "Official procedure guidance",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "f259c23908bf75d87a259e895b9fd015068dfde48e1b8499992fc6e1b99a9847",
+      "raw_hash_validated": true,
+      "text_sha256": "b553e3027126864e1cf77074b3b137b1d2f1ae9b21c23ed2d529527b05a8951e",
+      "version_dates": {},
+      "version_scope_note": "Montenegro CINMED official explanation: EU approval can permit shorter national assessment but explicitly never takes automatic national effect.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          2991,
+          5274
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "An EU-registered medicine can be considered for shortened review using relevant expert opinions. FDA-only eligibility is not established by this EU clause.",
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Prior qualifying EU authorisation supports the selected shorter review.",
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "The explanation does not settle public versus full foreign-report requirements.",
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "A foreign MA cannot automatically authorise Montenegro: local application and quality, safety and efficacy evaluation remain.",
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Shorter assessment described without a numeric deadline.",
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Relevant EU expert opinions may be taken into consideration for a shorter national assessment.",
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected EU-based shorter assessment on fixed facts",
+          "finding": "FDA-only is not identified as a basis for this selected EU-based shorter review. An ordinary national application is not ruled out.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MNE-WEB01",
+            "MNE-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "explicitly no automatic foreign MA effect",
+        "finding": "CINMED expressly states foreign marketing authorisation does not automatically authorise Montenegro. EU approval may support a shorter national review.",
+        "evidence_ids": [
+          "MNE-WEB01"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "MNE-WEB01",
+          "iso3": "MNE",
+          "event_id": null,
+          "document_id": "F250_05d9861b315291c3ac93_f259c23908bf",
+          "source_id": "F250_05d9861b315291c3ac93",
+          "source_url": "https://cinmed.me/en/humane-medicines/placing-a-medicine-on-the-market/",
+          "raw_sha256": "f259c23908bf75d87a259e895b9fd015068dfde48e1b8499992fc6e1b99a9847",
+          "text_sha256": "b553e3027126864e1cf77074b3b137b1d2f1ae9b21c23ed2d529527b05a8951e",
+          "start_offset": 3741,
+          "end_offset": 4274,
+          "pdf_page": null,
+          "verbatim_extracted_text": "The Institute issues a national marketing authorisation valid on the territory of Montenegro. Marketing authorisations for medicinal products issued in other countries do not have automatic validity on the territory of Montenegro, but each medicinal product must undergo the marketing authorisation procedure at the Institute. However, if the medicinal product is already registered in the EU, in accordance with the\nLaw on Medicinal Products,\nthe evaluation procedure may be shorter with the acceptance of relevant expert opinions.\n",
+          "display_text": "The Institute issues a national marketing authorisation valid on the territory of Montenegro. Marketing authorisations for medicinal products issued in other countries do not have automatic validity on the territory of Montenegro, but each medicinal product must undergo the marketing authorisation procedure at the Institute. However, if the medicinal product is already registered in the EU, in accordance with the Law on Medicinal Products, the evaluation procedure may be shorter with the acceptance of relevant expert opinions.",
+          "feature_tags": [
+            "reports",
+            "scope_limit",
+            "discretion"
+          ],
+          "role": "Foreign approvals and shortened evaluation",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "The regulator explicitly denies automatic domestic validity of foreign approvals, then states that a product registered in the EU may receive shorter evaluation accepting relevant expert opinions. Domestic authorisation is still required.",
+          "version_alignment": "Current preserved source version; date of first adoption not inferred",
+          "evidence_tier": "national_rule",
+          "section_article": "Foreign approvals and shortened evaluation",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MNE-CONTEXT-1",
+          "source_url": "https://cinmed.me/en/humane-medicines/placing-a-medicine-on-the-market/",
+          "raw_sha256": "f259c23908bf75d87a259e895b9fd015068dfde48e1b8499992fc6e1b99a9847",
+          "text_sha256": "b553e3027126864e1cf77074b3b137b1d2f1ae9b21c23ed2d529527b05a8951e",
+          "start_offset": 2991,
+          "end_offset": 5274,
+          "verbatim_extracted_text": "nd\nICH\n– International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use\n).\nInstitute shall issue marketing authorization, or bring the decision rejecting the application for the issuance of marketing authorization based on the assessment of the documentation on quality, safety and efficacy of the medical product.\nThe procedures and deadlines for issuing a marketing authorisation for a medicinal product are in line with EU directives. The length of the documentation assessment procedure may vary depending on the type of medicinal product and the quality of the initially submitted documentation, i.e. whether and to what extent the documentation needs to be supplemented as part of the assessment procedure.\nThe Institute issues a national marketing authorisation valid on the territory of Montenegro. Marketing authorisations for medicinal products issued in other countries do not have automatic validity on the territory of Montenegro, but each medicinal product must undergo the marketing authorisation procedure at the Institute. However, if the medicinal product is already registered in the EU, in accordance with the\nLaw on Medicinal Products,\nthe evaluation procedure may be shorter with the acceptance of relevant expert opinions.\nIntegral parts of marketing authorization are Summary of Product Characteristics (SmPC) which is intended for expert public, i.e. healthcare professionals and Package Leaflet (PL), intended for a patient, i.e. user a of a medicinal product and is in line with Summary of Product Characteristics.\nInformation on medicinal products authorized for marketing and approved SmPCs and PLs may be found in the section\nRegister of medicinal products for human use\n.\nCommission for placing medicinal products on the market​\nIn accordance with Article 328 of the\nLaw on Medicinal Products\n, the Institute for medicines and medical devices shall establish the Commission for marketing authorization of medicinal products as an advisory body.\nThe Commission is a professional body that carries out tasks related to the granting and renewal of marketing authorizations, as well as the approval of variations to marketing authorizations.\nMembers of the Commission may be permanent members or ad hoc members invited ",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Current preserved source version; first operative date not inferred"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

@@ -196,5 +196,97 @@
     "source_hashes": [
       "705651ffd6dbcd520ca339d9057291912e5e3506269921de4c9978ff21db7ff8"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "LAO",
+    "country": "Lao People's Democratic Republic",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "new_drug_and_serious_disease_rule",
+    "fixed_case_scope_status": "narrow_conditions_unresolved",
+    "finding": "The English rendering defines some foreign-marketed products under five years as new drugs. Article10 refers to first-import medicines OR new drugs for serious diseases, names foreign approvals and allows further evidence. Article9(f) separately lists new drugs among applications not considered, while Article11 asks for new-drug evidence. This source tension requires original-language/implementation clarification; no general five-year ban or clean fast-track eligibility is asserted.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The English rendering defines some foreign-marketed products under five years as new drugs. Article10 refers to first-import medicines OR new drugs for serious diseases, names foreign approvals and allows further evidence. Article9(f) separately lists new drugs among applications not considered, while Article11 asks for new-drug evidence. This source tension requires original-language/implementation clarification; no general five-year ban or clean fast-track eligibility is asserted."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The English rendering defines some foreign-marketed products under five years as new drugs. Article10 refers to first-import medicines OR new drugs for serious diseases, names foreign approvals and allows further evidence. Article9(f) separately lists new drugs among applications not considered, while Article11 asks for new-drug evidence. This source tension requires original-language/implementation clarification; no general five-year ban or clean fast-track eligibility is asserted."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The English rendering defines some foreign-marketed products under five years as new drugs. Article10 refers to first-import medicines OR new drugs for serious diseases, names foreign approvals and allows further evidence. Article9(f) separately lists new drugs among applications not considered, while Article11 asks for new-drug evidence. This source tension requires original-language/implementation clarification; no general five-year ban or clean fast-track eligibility is asserted."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The English rendering defines some foreign-marketed products under five years as new drugs. Article10 refers to first-import medicines OR new drugs for serious diseases, names foreign approvals and allows further evidence. Article9(f) separately lists new drugs among applications not considered, while Article11 asks for new-drug evidence. This source tension requires original-language/implementation clarification; no general five-year ban or clean fast-track eligibility is asserted."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The English rendering defines some foreign-marketed products under five years as new drugs. Article10 refers to first-import medicines OR new drugs for serious diseases, names foreign approvals and allows further evidence. Article9(f) separately lists new drugs among applications not considered, while Article11 asks for new-drug evidence. This source tension requires original-language/implementation clarification; no general five-year ban or clean fast-track eligibility is asserted."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "LAO-SUP-705651ff-3416",
+        "source_url": "https://laotradeportal.gov.la/en-gb/site/display/41",
+        "raw_sha256": "705651ffd6dbcd520ca339d9057291912e5e3506269921de4c9978ff21db7ff8",
+        "text_sha256": "5f1a0e1269e30467ac05e56a4cc7e7ad006a1aa6e253916f92355ccbe914a81b",
+        "start_offset": 3416,
+        "end_offset": 3805,
+        "verbatim_extracted_text": "1.3.  New drugs: A new drug is any modern drug or traditional medicines which is effective but its characteristics are not yet completely defined and mentioned in international medical documents, or not registered in its original country, or already registered but less than five years, or differs by its formula, dosage form, indication of the use and packaging from the registered drug.\n",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Supplemental original-language source; official_english_rendering_of_regulation",
+        "evidence_tier": "Supplemental: official_english_rendering_of_regulation",
+        "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      },
+      {
+        "clause_id": "LAO-SUP-705651ff-6742",
+        "source_url": "https://laotradeportal.gov.la/en-gb/site/display/41",
+        "raw_sha256": "705651ffd6dbcd520ca339d9057291912e5e3506269921de4c9978ff21db7ff8",
+        "text_sha256": "5f1a0e1269e30467ac05e56a4cc7e7ad006a1aa6e253916f92355ccbe914a81b",
+        "start_offset": 6742,
+        "end_offset": 7071,
+        "verbatim_extracted_text": "Drug permitted to be imported into Lao PDR for, analysis, research, donation and use in embassies; the said drugs shall have been registered and permitted for sale by the drug regulatory authorities in the manufacturing or exporting  countries, and shall be controlled through the Food and Drug Department of Ministry of Health.\n",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Supplemental original-language source; official_english_rendering_of_regulation",
+        "evidence_tier": "Supplemental: official_english_rendering_of_regulation",
+        "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      },
+      {
+        "clause_id": "LAO-SUP-705651ff-10553",
+        "source_url": "https://laotradeportal.gov.la/en-gb/site/display/41",
+        "raw_sha256": "705651ffd6dbcd520ca339d9057291912e5e3506269921de4c9978ff21db7ff8",
+        "text_sha256": "5f1a0e1269e30467ac05e56a4cc7e7ad006a1aa6e253916f92355ccbe914a81b",
+        "start_offset": 10553,
+        "end_offset": 11094,
+        "verbatim_extracted_text": "Any drug, which has never been imported into Laos or new drugs  produced for the treatment of serious diseases i.e. AIDS, hepatitis cancer, cardiovascular…may be considered by the following conditions:\n(a)    The drug shall be registered in some countries, such as:\n-          One of European Union Country;\n-          United States of America;\n-          Australia and\n-          Japan\n(b)   Additional necessary documents can be provided up on request e.g. Toxicology, Pharmacology, Pharmaco-kinetic, Bio-availability and clinical trials.\n",
+        "pdf_page": null,
+        "language": "en",
+        "language_status": "Supplemental original-language source; official_english_rendering_of_regulation",
+        "evidence_tier": "Supplemental: official_english_rendering_of_regulation",
+        "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review. Article23effectfromsignature; footerVientiane13August2003. This dates this version, not first adoption or current validity.",
+        "translation_review": null
+      },
+      {
+        "clause_id": "STD-LAO-A9-A11",
+        "source_url": "https://laotradeportal.gov.la/en-gb/site/display/41",
+        "raw_sha256": "705651ffd6dbcd520ca339d9057291912e5e3506269921de4c9978ff21db7ff8",
+        "text_sha256": "5f1a0e1269e30467ac05e56a4cc7e7ad006a1aa6e253916f92355ccbe914a81b",
+        "start_offset": 8635,
+        "end_offset": 12196,
+        "verbatim_extracted_text": "Article 9:\nPrinciples for consideration of drug registration.\n1.       Application for drug registration will be considered only after\nArticle 5, Article 7 and Article 8\nhave been fully complied.\n2.       Application for drug registration will not be considered in the following cases:\n(a)    Documents are not completed as prescribed in the application form No. LP1, LP2, IPI, IP2;\n(b)   Notification has been given for correction of any errors, but no amendment is made;\n(c)    Failure to submit application form LP2 or IP2 for drug registration within 12 months.\n(d)   Drug listed in the list of banned drug of Lao PDR.\n(e)   Drug withdraw by the manufacturing parent company or the registration of which is revokes;\n(f)     New drug according to the definition prescribed in\nArticle 1.3\n;\n(g)    Drug with more than three active ingredients except for multi-vitamins and basic essential for body (amino acid, minerals, drug for external use, which is OTC drug and traditional medicines).\n(h)   Drug with copied package and copied trade name that has already been registered in Lao PDR.\nTop\nArticle 10:\nPrinciples for consideration of drug registration.\n-          The drug registration committees appointed by the Minister of Health shall decide on the drug registration\n-          The food and Drug Department has authority to issue the certificate of drug registration for all drugs as prescribed in\nArticle 5.\nFor the other drugs that do not meet the condition as prescribed in\nArticle 5\n, shall be considered by the drug registration committees;\n-          The Period for consideration of the issuance of each certificate of drug registration is within 180 days.\n-          The Food and Drug Department will issue a registration number and a certificate of drug registration for any drug which is approved for registration, thereof the license shall be entitled to manufacture, and import as well ;\n-          Any drug, which has never been imported into Laos or new drugs  produced for the treatment of serious diseases i.e. AIDS, hepatitis cancer, cardiovascular…may be considered by the following conditions:\n(a)    The drug shall be registered in some countries, such as:\n-          One of European Union Country;\n-          United States of America;\n-          Australia and\n-          Japan\n(b)   Additional necessary documents can be provided up on request e.g. Toxicology, Pharmacology, Pharmaco-kinetic, Bio-availability and clinical trials.\nTop\nArticle 11:\nPrinciples of receiving the application for drug registration\n-          Receiving application form for drug registration is conducted every Friday.\n-          The Documents on safety and efficacy with comprehensive information of the study shall be provided for the new drug as defined in\nArticle 1.3.\n-          In the case that drugs are not needed to perform a laboratory test, before issuing the certificate of drug registration, the sample of drugs should be taken in time of importation. In the case of lacking of reference substances for analysis the related drug company should supply the reference substances for analysis the related drug company should supply the reference substance with other related documents.\n-          The application forms for drug registration shall be the original document with red mark of Food and Drug Department (FDD), and which are available at the Food and Drug Department.\n-          Other related certificates: if they are the copied documents, they shall be certified by the company to confirm of correctness to the original documents.\nTop\n",
+        "language": "en",
+        "language_status": "Official English rendering; original-language rule and implementation unresolved",
+        "evidence_tier": "supplemental_registration_context"
+      }
+    ],
+    "source_scope": "Supplemental evidence, scope/version retained in source records",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

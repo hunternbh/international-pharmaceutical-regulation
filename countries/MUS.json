@@ -131,5 +131,55 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "MUS",
+    "country": "Mauritius",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "local_manufacturing",
+    "fixed_case_scope_status": "outside_manufacturing_scope",
+    "finding": "Section36D requires local manufacture under a technology-transfer agreement. The fixed US-manufactured drug falls outside that route regardless of its reports or foreign approvals.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "outside selected route/function",
+        "finding": "Section36D requires local manufacture under a technology-transfer agreement. The fixed US-manufactured drug falls outside that route regardless of its reports or foreign approvals."
+      },
+      "B": {
+        "status": "outside selected route/function",
+        "finding": "Section36D requires local manufacture under a technology-transfer agreement. The fixed US-manufactured drug falls outside that route regardless of its reports or foreign approvals."
+      },
+      "C": {
+        "status": "outside selected route/function",
+        "finding": "Section36D requires local manufacture under a technology-transfer agreement. The fixed US-manufactured drug falls outside that route regardless of its reports or foreign approvals."
+      },
+      "D": {
+        "status": "outside selected route/function",
+        "finding": "Section36D requires local manufacture under a technology-transfer agreement. The fixed US-manufactured drug falls outside that route regardless of its reports or foreign approvals."
+      },
+      "E": {
+        "status": "outside selected route/function",
+        "finding": "Section36D requires local manufacture under a technology-transfer agreement. The fixed US-manufactured drug falls outside that route regardless of its reports or foreign approvals."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "MUS-Q01",
+        "source_url": "https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=&doctitle=UGhhcm1hY3kgQWN0&doctype=act",
+        "raw_sha256": "39a21e36a04c68767ef772d6bc69db2338ad7fb2ef7de8894065729efd267a5d",
+        "text_sha256": "5826fa35b1f8656a02dbdf60d5cdae27b2c84eedc7fc2558eb4152a3c2009131",
+        "start_offset": 56345,
+        "end_offset": 58768,
+        "verbatim_extracted_text": "36D. Registration \nof \nlocally \nmanufactured \npharmaceutical \nproducts \nmanufactured under technology transfer agreement \n \n(1) \nNotwithstanding \nsection \n36C, \nany \npharmaceutical \nproduct \nmanufactured locally under a technology transfer agreement with a foreign \nmanufacturing plant which is compliant with the good manufacturing practices \nof the World Health Organization (WHO GMP) shall be eligible for registration in \nMauritius. \n \n(2) \nAny person who wishes to register a locally manufactured \npharmaceutical product pursuant to subsection (1) shall make an application to \nthe Board, which shall be accompanied by – \n \n(a) \nthe batch manufacturing record of the pharmaceutical \nproduct; \n \n(b) \na certificate of analysis issued by a laboratory approved by \nthe European Union regarding the pharmaceutical product; \n \n\n\nPAGE 35\n35 \n \n(c) \na copy of the technology transfer agreement signed between \nthe local manufacturing plant and the foreign manufacturing \nplant; \n \n(d) \nsuch non-refundable processing fee as may be prescribed. \n \n(3) \n(a) \nThe Board may, within 21 working days from receipt of an \napplication under subsection (2), grant or reject the application. \n \n(b) \nWhere the Board grants an application made under \nsubsection (2), it shall –  \n \n(i) \nregister the locally manufactured pharmaceutical \nproduct on payment by the applicant of such \nregistration fee as may be prescribed; and  \n \n(ii) \nissue to the applicant, subject to such terms and \nconditions as it may determine, a certificate of \nregistration in such form as may be prescribed. \n \n(c) \nWhere the Board rejects an application made under \nsubsection (2), it shall notify the applicant of the reasons for its decision. \n \n(4) \nA certificate of registration which is issued under this section shall \nbe valid for a period of one year as from the date specified on the certificate of \nregistration and may be renewed annually on payment of the prescribed fee. \n \n(5) \nThe holder of a certificate of registration of a locally manufactured \nregistered pharmaceutical product shall inform the Board and pay such \nprescribed fee for any change in the characteristics and extension in range of the \nregistered pharmaceutical product. \n \n(6) \nFor the purpose of this section, any locally manufactured \npharmaceutical product shall be deemed to be registered with the Board. \n \n[S. 36D inserted by s. 64 of Act 12 of 2023 w.e.f. 20 July 2023.]",
+        "pdf_page": 34,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "limited_scope_or_framework",
+        "version_alignment": "Pharmacy Act section 36D inserted 20 July 2023; preserved consolidated text",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Local technology-transfer manufacturing; WHO GMP and EU-laboratory certificate",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

@@ -117,5 +117,55 @@
     "source_hashes": [
       "cf1c4b27874c486ec7545d89391820948eba320fab059e565d995881c7946679"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "TKM",
+    "country": "Turkmenistan",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "domestic_registration",
+    "fixed_case_scope_status": "registration_requirements_not_reliance",
+    "finding": "The statute requires dossier receipt, examination, fees and a decision within180 calendar days. This is a domestic baseline; no foreign-approval shortcut is established by the passage.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The statute requires dossier receipt, examination, fees and a decision within180 calendar days. This is a domestic baseline; no foreign-approval shortcut is established by the passage."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The statute requires dossier receipt, examination, fees and a decision within180 calendar days. This is a domestic baseline; no foreign-approval shortcut is established by the passage."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The statute requires dossier receipt, examination, fees and a decision within180 calendar days. This is a domestic baseline; no foreign-approval shortcut is established by the passage."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The statute requires dossier receipt, examination, fees and a decision within180 calendar days. This is a domestic baseline; no foreign-approval shortcut is established by the passage."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The statute requires dossier receipt, examination, fees and a decision within180 calendar days. This is a domestic baseline; no foreign-approval shortcut is established by the passage."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "TKM-SUP-cf1c4b27-26697",
+        "source_url": "https://mejlis.gov.tm/single-law/87?lang=ru",
+        "raw_sha256": "cf1c4b27874c486ec7545d89391820948eba320fab059e565d995881c7946679",
+        "text_sha256": "aeff7964e4d9115844fb82940fd51813187d73bfd31958d0bf65ab37157ef296",
+        "start_offset": 26697,
+        "end_offset": 28296,
+        "verbatim_extracted_text": "6. Государственная регистрация лекарственных средств, изделий медицинского назначения включает в себя:\n1) приём в установленном порядке регистрационного дела;\n2) проведение экспертизы документов, содержащихся в регистрационном деле, необходимых для определения наличия возможности воспроизведения методик контроля качества лекарственного средства, представленных заявителем;\n3) включение лекарственных средств, изделий медицинского назначения в Государственный реестр лекарственных средств, изделий медицинского назначения, разрешённых для производства (изготовления) в Туркменистане или ввоза в Туркменистан, а также выдача Свидетельства. На каждое лекарственное средство, изделие медицинского назначения, прошедшее государственную регистрацию, выдаётся Свидетельство сроком на пять лет. Форма Свидетельства утверждается уполномоченным органом.\n7. За рассмотрение заявления о государственной регистрации лекарственных средств, изделий медицинского назначения взимается сбор в соответствии с Порядком государственной регистрации лекарственных средств, изделий медицинского назначения. В случае отказа в государственной регистрации лекарственных средств, изделий медицинского назначения сумма уплаченного сбора возврату не подлежит.\n8. Уполномоченный орган обязан рассмотреть заявление о государственной регистрации лекарственных средств, изделий медицинского назначения и выдать Свидетельство либо предоставить мотивированный отказ в государственной регистрации лекарственных средств, изделий медицинского назначения в срок, не превышающий ста восьмидесяти календарных дней с даты приёма заявления.\n",
+        "pdf_page": null,
+        "language": "ru",
+        "language_status": "Supplemental original-language source; Statute, official Russian translation of state-language law",
+        "evidence_tier": "Supplemental: Statute, official Russian translation of state-language law",
+        "version_alignment": "Domestic registration baseline only; no foreign-authorisation reliance route established. No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Supplemental evidence, scope/version retained in source records",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

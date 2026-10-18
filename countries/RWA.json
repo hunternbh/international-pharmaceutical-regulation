@@ -297,5 +297,730 @@
     "source_hashes": [
       "1cfda0b439b5bb0ae019a116f2fe58556c92a6cd3a031edcc86c88687ec53ca9"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "RWA",
+    "country": "Rwanda",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Reliance with national decision and bridging checks",
+    "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+    "document_id": "4b3aec73dce27eb93165",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Reliance guideline revision 2 approved 13 October 2022, effective 17 October 2022; do not use catalogue October 2025 as operative date. Full assessment report requested “where possible”, not a categorical requirement.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "All medical products/MA covered; route is alternative/nonroutine and risk based.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "WHO transitional listed authorities; source revision history removes narrow historical named-ICH list.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "Registration by a qualifying authority, WHO PQ or EAC joint assessment; count threshold beyond one not specified.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Identical or similar product, same dossier, national stability/label differences justified.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Full assessment report from reference authority where possible, plus full national MA application.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "“Where possible” does not resolve whether public material is sufficient or categorically excluded.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "Benefit-risk applicability and population/epidemiology differences reviewed.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "quality_gmp": {
+        "state": "discretionary/conditional",
+        "finding": "GMP and quality/local-climate requirements reviewed in national context.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "National evaluation of appropriateness/completeness of foreign assessment; own responsibility.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "Typically 90 working days for MA, excluding clock stops; not binding observed duration.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Authority decides when/how to use reliance.",
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "RWA-Q01",
+          "RWA-Q02",
+          "RWA-Q03",
+          "RWA-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "RWA-Q01",
+        "source_document_id": "4b3aec73dce27eb93165",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 8,
+        "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+        "raw_sha256": "18647d50e51a34b9ba2e691239b046d7ea40199a978f4a8eeb50ddbc92403c44",
+        "text_sha256": "17fdda2c694a9acc3de61698914c488f25a6aa2c4b2320263c44894fd564cf3e",
+        "exact_text": "The Authority accepts that reliance can be unilateral, bilateral (mutual) or multilateral, and it will \nleverage the information in the shared reports and/or decisions to arrive at a regulatory decision but \nwill maintain its own regulatory responsibilities for decision-making. These guidelines aim to speed \nup the submission and/or evaluation of authorization applications towards the timely approval of the \napplication. Further, it focuses on risk-based evaluations, concentrating on what is locally critical \n(i.e., value-added in terms of resource/time investment) versus what can be leveraged/relied upon \nfrom decisions made by WHO transitional listed authorities.   \n \nThe reliance is achieved in a variety of ways, including information and reports or work-sharing in \nClinical Trial Assessment, dossier assessment, GMP/GCP inspection, Vigilance related decisions \nand QC Testing related decisions",
+        "start": 16336,
+        "end": 17244,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "RWA-Q02",
+        "source_document_id": "4b3aec73dce27eb93165",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 10,
+        "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+        "raw_sha256": "18647d50e51a34b9ba2e691239b046d7ea40199a978f4a8eeb50ddbc92403c44",
+        "text_sha256": "17fdda2c694a9acc3de61698914c488f25a6aa2c4b2320263c44894fd564cf3e",
+        "exact_text": "Considering marketing authorization as an example, the following four (4) reliance pathways may \ninvolve additional tasks in the assessment process:  \n \na) Verification of sameness of the product to ensure that the medical product is the same as the \none that has been assessed by the reference regulatory authority. A critical aspect of the \napplication of reliance is verification of the “sameness” of a medical product. Reliance can \nbe practised only if the Authority has the assurance that the medical product being assessed \nis essentially the same as the one submitted to the reference regulatory Authority. The role of \nthe manufacturer is essential to confirm the sameness of a product and to provide the same \ndocumentation as submitted to the reference regulatory Authority, except for additional \ncountry-specific information submitted for review, such as product stability data according \nto the stability zone and the local product label. The manufacturer should confirm in the \napplication that the product is the same and that the application contains essentially the same \ninformation, taking into consideration any potential national requirements. If the application \nis not submitted simultaneously to the agencies, the manufacturer should highlight any new \ninformation about the product acquired since the application was submitted to the reference \nregulatory Authority, with the corresponding assessment.  \n \nb) Confirmation of applicability of the assessment outcomes of another authority for \nregulatory decision-making in the national context, for example, in terms of legal and \nregulatory settings, benefit-risk assessment, co-morbidities, unmet medical needs, risk \nmanagement plans and any quality-related specificities such as climatic zones for product \nstability. In case of differences, such as in target population, epidemiology and other features \nof the disease, concomitantly used medicines and other factors that can substantially affect \nthe benefit-risk profile of medicine as well as quality parameters, especially in relation to the \nstability under different climatic conditions, appropriate justification should be provided by \nthe Applicant. \n \nc) Abridged assessment of the quality, safety and efficacy/performance data taking into \naccount information in the assessment reports of the reference regulatory authority. \n \nd) Joint assessment or work-sharing between two or more regulatory authorities where a \nprimary review by one authority, a second review by another authority followed by a joint \nassessment session to finalize the assessment report and comments or distribution of the \nmodules (quality, non-clinical and safety or efficacy) between the authorities. \n \nSimilar reliance-based regulatory pathways can be used for other regulatory functions, such as \ninspection, lot release or import testing. \n \n \n\n\nPAGE 11\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 11 of 15",
+        "start": 20847,
+        "end": 23948,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "RWA-Q03",
+        "source_document_id": "4b3aec73dce27eb93165",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 11,
+        "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+        "raw_sha256": "18647d50e51a34b9ba2e691239b046d7ea40199a978f4a8eeb50ddbc92403c44",
+        "text_sha256": "17fdda2c694a9acc3de61698914c488f25a6aa2c4b2320263c44894fd564cf3e",
+        "exact_text": "The Authority may apply reliance procedures for granting Marketing Authorization in the following \nsituations: \n \n1. The product should have been evaluated and listed as a WHO Prequalified Product including \nthe WHO PQ collaborative registration procedure between WHO and the Authority. \n \n2. The product should have been registered by a WHO transitional listed Authority \n \n3. The product should have been jointly evaluated and listed as an output of the East African \nCommunity (EAC).",
+        "start": 24292,
+        "end": 24778,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "RWA-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+        "raw_sha256": "18647d50e51a34b9ba2e691239b046d7ea40199a978f4a8eeb50ddbc92403c44",
+        "text_sha256": "17fdda2c694a9acc3de61698914c488f25a6aa2c4b2320263c44894fd564cf3e",
+        "exact_text": "pting reliance measures whenever possible within a well-\nstructured framework, underpinned by national or regional policies and strategies, regulators may \nfocus their resources on key activities that cannot be undertaken by others and that contribute to \npublic health. \n \nThe principles and considerations presented in these guidelines should be taken into account when \nimplementing regulatory reliance frameworks or strategies. Effective implementation of reliance will \nbenefit not only the Authority but also patients/clients, healthcare providers, Marketing Authorization \nholders and Contract Research Organizations (CROs).  \n \nThe Authority accepts that reliance can be unilateral, bilateral (mutual) or multilateral, and it will \nleverage the information in the shared reports and/or decisions to arrive at a regulatory decision but \nwill maintain its own regulatory responsibilities for decision-making. These guidelines aim to speed \nup the submission and/or evaluation of authorization applications towards the timely approval of the \napplication. Further, it focuses on risk-based evaluations, concentrating on what is locally critical \n(i.e., value-added in terms of resource/time investment) versus what can be leveraged/relied upon \nfrom decisions made by WHO transitional listed authorities.   \n \nThe reliance is achieved in a variety of ways, including information and reports or work-sharing in \nClinical Trial Assessment, dossier assessment, GMP/GCP inspection, Vigilance related decisions \nand QC Testing related decisions \n \n2. SCOPE \n \nThese Guidelines cover reliance activities regarding all types of medical products and regulatory \nactivities using reliance approaches. The reliance procedures shall apply to the registration and \nmarketing authorization, GMP/GCP Inspections, Clinical Trial, Vigilance and Post Marketing \nSurveillance activities and laboratory testing (QC). \n \n3. PRINCIPLES OF RELIANCE  \n \nThe adopted principles of the Reliance are in line with the WHO recommendations to optimize \ninnovative and more effective forms of collaboration in order to make the best use of available \nresources and expertise, avoid duplication in order to ensure the safety, quality and efficacy of locally \nused products. \n \n \n \n\n\nPAGE 9\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 9 of 15 \nSovereignty:  \n \nReliance is a sovereign decision. The Authority decides when and how to use reliance and in which \ncircumstances.  \n \nLegal basis:  \n \nReliance procedures are coherent with the Authority’s legal frameworks and supported by clear \nmandates/regulations that aim at efficient implementation.  \n \nTransparency: \n \nThe reliance approach remains transparent regarding standards and processes. In addition, the \nrationale for relying on a specific entity should be disclosed and understood by all parties. \n \nCompetency: \n \nThe authority has the necessary competencies for critical decision making for proper implementation \nof the reliance guidelines. The competencies are bench-marked by transparent processes that develop \ntrust in the capacities of reference regulatory authorities. \n \nConsistency:  \n \nThe Authority reliance decision shall be established for the specific and well-defined category of \nproducts and practices.  \n \n4. RELIANCE PATHWAYS TO FACILITATE REGULATORY DECISIONS \n \nReliance pathways are alternative /non-routine application approval pathways used by the authority \nin its regulatory decisions. The approval of any type of clinical trial, GMP/GCP compliance, quality \ncontrol procedures, medical product marketing authorization, and vigilance decision, can be \naccelerated by reliance on prior regulatory decisions from a reference regulatory authority(ies). The \nreliance aims at reducing timelines compared to standard timelines applied when using normal \nregulatory practices. However, the authority shall remain responsible and accountable for decisions \ntaken. \n \nThis is a risk-based approach and its implementation procedures shall consider factors, such as the \ntype and source of products assessed, public health needs and priorities, level of resources and \nexpertise available in the authority, and opportunities for reliance. \n \nReliance may take many forms and be applied to varying degrees in recognizing or taking account \nof the assessments, decisions or other authoritative information of other authorities and institutions. \nRecognition may be seen as a special and more formalized approach to reliance, whereby one \nregulatory authority recognizes the decisions of another regulatory authority, system or institution, \n\n\nPAGE 10\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 10 of 15 \nobviating additional regulatory assessment to reach its own decision. Recognition usually requires \nformal and binding legal provisions. \n \nConsidering marketing authorization as an example, the following four (4) reliance pathways may \ninvolve additional tasks in the assessment process:  \n \na) Verification of sameness of the product to ensure that the medical product is the same as the \none that has been assessed by the reference regulatory authority. A critical aspect of the \napplication of reliance is verification of the “sameness” of a medical product. Reliance can \nbe practised only if the Authority has the assurance that the medical product being assessed \nis essentially the same as the one submitted to the reference regulatory Authority. The role of \nthe manufacturer is essential to confirm the sameness of a product and to provide the same \ndocumentation as submitted to the reference regulatory Authority, except for additional \ncountry-specific information submitted for review, such as product stability data according \nto the stability zone and the local product label. The manufacturer should confirm in the \napplication that the product is the same and that the application contains essentially the same \ninformation, taking into consideration any potential national requirements. If the application \nis not submitted simultaneously to the agencies, the manufacturer should highlight any new \ninformation about the product acquired since the application was submitted to the reference \nregulatory Authority, with the corresponding assessment.  \n \nb) Confirmation of applicability of the assessment outcomes of another authority for \nregulatory decision-making in the national context, for example, in terms of legal and \nregulatory settings, benefit-risk assessment, co-morbidities, unmet medical needs, risk \nmanagement plans and any quality-related specificities such as climatic zones for product \nstability. In case of differences, such as in target population, epidemiology and other features \nof the disease, concomitantly used medicines and other factors that can substantially affect \nthe benefit-risk profile of medicine as well as quality parameters, especially in relation to the \nstability under different climatic conditions, appropriate justification should be provided by \nthe Applicant. \n \nc) Abridged assessment of the quality, safety and efficacy/performance data taking into \naccount information in the assessment reports of the reference regulatory authority. \n \nd) Joint assessment or work-sharing between two or more regulatory authorities where a \nprimary review by one authority, a second review by another authority followed by a joint \nassessment session to finalize the assessment report and comments or distribution of the \nmodules (quality, non-clinical and safety or efficacy) between the authorities. \n \nSimilar reliance-based regulatory pathways can be used for other regulatory functions, such as \ninspection, lot release or import testing. \n \n \n\n\nPAGE 11\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 11 of 15 \n5. AREAS OF RELIANCE FOR REGULATORY DECISION \n \nThe areas of reliance include registration and marketing authorization, GMP/GCP Inspections, \nClinical Trial, Vigilance and Quality Control (QC) testing related decisions to ensure full \nimplementation and compliance to the reliance route: \n \n5.1 Marketing Authorization of medical products \n \nThe Authority may apply reliance procedures for granting Marketing Authorization in the following \nsituations: \n \n1. The product should have been evaluated and listed as a WHO Prequalified Product including \nthe WHO PQ collaborative registration procedure between WHO and the Authority. \n \n2. The product should have been registered by a WHO transitional listed Authority \n \n3. The product should have been jointly evaluated and listed as an output of the East African \nCommunity (EAC).  \n \n5.2 GMP Inspections \n \nThe authority may apply reliance for GMP Inspections in the following situations: \n \na) Facilities located in countries and/or issued a GMP certificate from WHO transitional listed \nauthorities; \n \nb) Facilities located in countries which are standing PIC/s members; \n \nc) Facilities inspected and approved under the framework of World Health Organization (WHO) \nprequalification program. \n \nd) Facilities inspected through EAC joint GMP Procedures.  \n \n5.3 Vigilance  \n \nThe Authority may recognize and/or rely on vigilance-related decisions, reports or information from \nother countries or regional or international organization and harmonization initiative when making \nnational vigilance decisions.  \n \nThe Authority shall continue to ensure the safety of marketed products through its established \nvigilance system. In order to ensure that safety issues are promptly identified and the necessary \ninterventions implemented, the Authority considers decisions from WHO transitional listed \nAuthorities on the safety of medical products that impact negatively on the health of patients. \n \n\n\nPAGE 12\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 12 of 15 \nFurthermore, the Authority can rely on Vigilance decisions taken by WHO Uppsala Monitoring \nCentre (WHO-UMC), joint vigilance decisions in EAC region and this may be considered through \nthe reliance pathways on a case-by-case basis. \n \nThe Authority may, upon receiving proof of scientific information related to safety of medical \nproducts, recognise and take any corrective action to protect the public from any eminent safety \nconcerns that may likely arise. \n \n5.4 Clinical Trials  \n \nThe Authority may rely and/or recognize relevant clinical trial decisions, reports and information \nfrom transitional WHO listed authorities and/or other regional or international harmonization \ninitiatives such as EMA, AVAREF, African Medicines Agency (AMA), EAC Medicines Regulatory \nHarmonization (EAC HRH including those have MoUs with Rwanda FDA to take appropriate \nregulatory decisions in clinical trial oversight for public health protection. \n \nIn order to facilitate product development, regulatory decision-making, and access to promising new \nmedical products, the Authority may consider the regulatory decisions taken by other regulatory \nauthorities for the multi-country trials that are being implemented in Rwanda because of post-\napproval monitoring activities.  \n  \nIn case of emergency, the Authority applies reliance pathways as non-routine procedure for Clinical \nTrial Authorization. \n \n5.5 Quality Control (QC) Testing  \n \nRwanda FDA may rely on analytical reports/Certificate of analysis from National Regulatory \nAuthority laboratories which are on WHO transitional listed Authorities. Detailed procedure will be \ndeveloped. \n \nDuring the decision making, Rwanda FDA may rely on analytical reports from NRA laboratories \nwhich are WHO Pre-qualified or ISO/IEC 17025:2017 accredited and awarded by an International \nLaboratory Accreditation Cooperation (ILAC) member on a case-by-case basis. \n \n5.6 Market surveillance and control  \n \nThe authority may rely on market surveillance and control decisions from WHO transitional listed \nAuthorities.  \n \nFurthermore, the Authority can rely on market surveillance and control decisions taken by \nWHO/Global surveillance and monitoring system (WHO/GSMS). \n \nThe Authority may rely on the market surveillance and control decision taken by regulatory \nauthorities in East African Community and regulatory authorities that signed MoU with the Authority  \n\n\nPAGE 13\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 13 of 15 \n6. RELIANCE PROCEDURES \n \n6.1 Verification of Documentations \n \nThe Authority shall ‘verify’ that the product intended to be imported and distributed in Rwanda or \nthe Clinical trial to be conducted in Rwanda has been duly registered or authorized respectively by \nthe reference regulatory authority (ies). \n \nIn the case of marketing authorization, the product characteristics (use, dosage, precautions) for local \nregistration should conform to that agreed in the authorization by the reference regulatory authority. \nIn addition, there should be an assurance that the product is either identical or similar to that approved \nby the reference regulatory Authority in terms of quality, safety and efficacy. \n \nIn case the reliance is for Clinical trial submissions, the application (protocol, Investigational \nbroc",
+        "start": 15700,
+        "end": 29600,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "RWA",
+      "country": "Rwanda",
+      "selected_document_id": "4b3aec73dce27eb93165",
+      "source_id": "916d8e2b38015c11",
+      "pathway": "Reliance with national decision and bridging checks",
+      "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+      "document_title": "RWA | - GUIDELINES ON RELIANCE FOR REGULATORY DECISION-MAKING - 15 October, 2025 Guidelines Download",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "RWA-Q01": null
+        },
+        {
+          "RWA-Q02": null
+        },
+        {
+          "RWA-Q03": null
+        }
+      ],
+      "raw_sha256": "18647d50e51a34b9ba2e691239b046d7ea40199a978f4a8eeb50ddbc92403c44",
+      "raw_hash_validated": true,
+      "text_sha256": "17fdda2c694a9acc3de61698914c488f25a6aa2c4b2320263c44894fd564cf3e",
+      "version_dates": {
+        "approval_date": "2022-10-13",
+        "effective_date": "2022-10-17"
+      },
+      "version_scope_note": "Reliance guideline revision 2 approved 13 October 2022, effective 17 October 2022; do not use catalogue October 2025 as operative date. Full assessment report requested “where possible”, not a categorical requirement.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          16336,
+          17244
+        ],
+        [
+          20847,
+          23948
+        ],
+        [
+          24292,
+          24778
+        ],
+        [
+          15700,
+          29600
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "All medical products/MA covered; route is alternative/nonroutine and risk based.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "WHO transitional listed authorities; source revision history removes narrow historical named-ICH list.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "Registration by a qualifying authority, WHO PQ or EAC joint assessment; count threshold beyond one not specified.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Identical or similar product, same dossier, national stability/label differences justified.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Full assessment report from reference authority where possible, plus full national MA application.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "“Where possible” does not resolve whether public material is sufficient or categorically excluded.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "Benefit-risk applicability and population/epidemiology differences reviewed.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "quality_gmp": {
+          "state": "discretionary/conditional",
+          "finding": "GMP and quality/local-climate requirements reviewed in national context.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "National evaluation of appropriateness/completeness of foreign assessment; own responsibility.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "Typically 90 working days for MA, excluding clock stops; not binding observed duration.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Authority decides when/how to use reliance.",
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "RWA-Q01",
+            "RWA-Q02",
+            "RWA-Q03",
+            "RWA-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "RWA-Q01",
+          "source_document_id": "4b3aec73dce27eb93165",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 8,
+          "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+          "raw_sha256": "18647d50e51a34b9ba2e691239b046d7ea40199a978f4a8eeb50ddbc92403c44",
+          "text_sha256": "17fdda2c694a9acc3de61698914c488f25a6aa2c4b2320263c44894fd564cf3e",
+          "exact_text": "The Authority accepts that reliance can be unilateral, bilateral (mutual) or multilateral, and it will \nleverage the information in the shared reports and/or decisions to arrive at a regulatory decision but \nwill maintain its own regulatory responsibilities for decision-making. These guidelines aim to speed \nup the submission and/or evaluation of authorization applications towards the timely approval of the \napplication. Further, it focuses on risk-based evaluations, concentrating on what is locally critical \n(i.e., value-added in terms of resource/time investment) versus what can be leveraged/relied upon \nfrom decisions made by WHO transitional listed authorities.   \n \nThe reliance is achieved in a variety of ways, including information and reports or work-sharing in \nClinical Trial Assessment, dossier assessment, GMP/GCP inspection, Vigilance related decisions \nand QC Testing related decisions",
+          "start": 16336,
+          "end": 17244,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "RWA-Q02",
+          "source_document_id": "4b3aec73dce27eb93165",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 10,
+          "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+          "raw_sha256": "18647d50e51a34b9ba2e691239b046d7ea40199a978f4a8eeb50ddbc92403c44",
+          "text_sha256": "17fdda2c694a9acc3de61698914c488f25a6aa2c4b2320263c44894fd564cf3e",
+          "exact_text": "Considering marketing authorization as an example, the following four (4) reliance pathways may \ninvolve additional tasks in the assessment process:  \n \na) Verification of sameness of the product to ensure that the medical product is the same as the \none that has been assessed by the reference regulatory authority. A critical aspect of the \napplication of reliance is verification of the “sameness” of a medical product. Reliance can \nbe practised only if the Authority has the assurance that the medical product being assessed \nis essentially the same as the one submitted to the reference regulatory Authority. The role of \nthe manufacturer is essential to confirm the sameness of a product and to provide the same \ndocumentation as submitted to the reference regulatory Authority, except for additional \ncountry-specific information submitted for review, such as product stability data according \nto the stability zone and the local product label. The manufacturer should confirm in the \napplication that the product is the same and that the application contains essentially the same \ninformation, taking into consideration any potential national requirements. If the application \nis not submitted simultaneously to the agencies, the manufacturer should highlight any new \ninformation about the product acquired since the application was submitted to the reference \nregulatory Authority, with the corresponding assessment.  \n \nb) Confirmation of applicability of the assessment outcomes of another authority for \nregulatory decision-making in the national context, for example, in terms of legal and \nregulatory settings, benefit-risk assessment, co-morbidities, unmet medical needs, risk \nmanagement plans and any quality-related specificities such as climatic zones for product \nstability. In case of differences, such as in target population, epidemiology and other features \nof the disease, concomitantly used medicines and other factors that can substantially affect \nthe benefit-risk profile of medicine as well as quality parameters, especially in relation to the \nstability under different climatic conditions, appropriate justification should be provided by \nthe Applicant. \n \nc) Abridged assessment of the quality, safety and efficacy/performance data taking into \naccount information in the assessment reports of the reference regulatory authority. \n \nd) Joint assessment or work-sharing between two or more regulatory authorities where a \nprimary review by one authority, a second review by another authority followed by a joint \nassessment session to finalize the assessment report and comments or distribution of the \nmodules (quality, non-clinical and safety or efficacy) between the authorities. \n \nSimilar reliance-based regulatory pathways can be used for other regulatory functions, such as \ninspection, lot release or import testing. \n \n \n\n\nPAGE 11\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 11 of 15",
+          "start": 20847,
+          "end": 23948,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "RWA-Q03",
+          "source_document_id": "4b3aec73dce27eb93165",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 11,
+          "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+          "raw_sha256": "18647d50e51a34b9ba2e691239b046d7ea40199a978f4a8eeb50ddbc92403c44",
+          "text_sha256": "17fdda2c694a9acc3de61698914c488f25a6aa2c4b2320263c44894fd564cf3e",
+          "exact_text": "The Authority may apply reliance procedures for granting Marketing Authorization in the following \nsituations: \n \n1. The product should have been evaluated and listed as a WHO Prequalified Product including \nthe WHO PQ collaborative registration procedure between WHO and the Authority. \n \n2. The product should have been registered by a WHO transitional listed Authority \n \n3. The product should have been jointly evaluated and listed as an output of the East African \nCommunity (EAC).",
+          "start": 24292,
+          "end": 24778,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "RWA-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.rwandafda.gov.rw/fileadmin/user_upload/RwandaFDA/E-Library/Forms/GUIDELINES_ON_RELIANCE_FOR_REGULATORY_DECISION-MAKING.pdf",
+          "raw_sha256": "18647d50e51a34b9ba2e691239b046d7ea40199a978f4a8eeb50ddbc92403c44",
+          "text_sha256": "17fdda2c694a9acc3de61698914c488f25a6aa2c4b2320263c44894fd564cf3e",
+          "exact_text": "pting reliance measures whenever possible within a well-\nstructured framework, underpinned by national or regional policies and strategies, regulators may \nfocus their resources on key activities that cannot be undertaken by others and that contribute to \npublic health. \n \nThe principles and considerations presented in these guidelines should be taken into account when \nimplementing regulatory reliance frameworks or strategies. Effective implementation of reliance will \nbenefit not only the Authority but also patients/clients, healthcare providers, Marketing Authorization \nholders and Contract Research Organizations (CROs).  \n \nThe Authority accepts that reliance can be unilateral, bilateral (mutual) or multilateral, and it will \nleverage the information in the shared reports and/or decisions to arrive at a regulatory decision but \nwill maintain its own regulatory responsibilities for decision-making. These guidelines aim to speed \nup the submission and/or evaluation of authorization applications towards the timely approval of the \napplication. Further, it focuses on risk-based evaluations, concentrating on what is locally critical \n(i.e., value-added in terms of resource/time investment) versus what can be leveraged/relied upon \nfrom decisions made by WHO transitional listed authorities.   \n \nThe reliance is achieved in a variety of ways, including information and reports or work-sharing in \nClinical Trial Assessment, dossier assessment, GMP/GCP inspection, Vigilance related decisions \nand QC Testing related decisions \n \n2. SCOPE \n \nThese Guidelines cover reliance activities regarding all types of medical products and regulatory \nactivities using reliance approaches. The reliance procedures shall apply to the registration and \nmarketing authorization, GMP/GCP Inspections, Clinical Trial, Vigilance and Post Marketing \nSurveillance activities and laboratory testing (QC). \n \n3. PRINCIPLES OF RELIANCE  \n \nThe adopted principles of the Reliance are in line with the WHO recommendations to optimize \ninnovative and more effective forms of collaboration in order to make the best use of available \nresources and expertise, avoid duplication in order to ensure the safety, quality and efficacy of locally \nused products. \n \n \n \n\n\nPAGE 9\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 9 of 15 \nSovereignty:  \n \nReliance is a sovereign decision. The Authority decides when and how to use reliance and in which \ncircumstances.  \n \nLegal basis:  \n \nReliance procedures are coherent with the Authority’s legal frameworks and supported by clear \nmandates/regulations that aim at efficient implementation.  \n \nTransparency: \n \nThe reliance approach remains transparent regarding standards and processes. In addition, the \nrationale for relying on a specific entity should be disclosed and understood by all parties. \n \nCompetency: \n \nThe authority has the necessary competencies for critical decision making for proper implementation \nof the reliance guidelines. The competencies are bench-marked by transparent processes that develop \ntrust in the capacities of reference regulatory authorities. \n \nConsistency:  \n \nThe Authority reliance decision shall be established for the specific and well-defined category of \nproducts and practices.  \n \n4. RELIANCE PATHWAYS TO FACILITATE REGULATORY DECISIONS \n \nReliance pathways are alternative /non-routine application approval pathways used by the authority \nin its regulatory decisions. The approval of any type of clinical trial, GMP/GCP compliance, quality \ncontrol procedures, medical product marketing authorization, and vigilance decision, can be \naccelerated by reliance on prior regulatory decisions from a reference regulatory authority(ies). The \nreliance aims at reducing timelines compared to standard timelines applied when using normal \nregulatory practices. However, the authority shall remain responsible and accountable for decisions \ntaken. \n \nThis is a risk-based approach and its implementation procedures shall consider factors, such as the \ntype and source of products assessed, public health needs and priorities, level of resources and \nexpertise available in the authority, and opportunities for reliance. \n \nReliance may take many forms and be applied to varying degrees in recognizing or taking account \nof the assessments, decisions or other authoritative information of other authorities and institutions. \nRecognition may be seen as a special and more formalized approach to reliance, whereby one \nregulatory authority recognizes the decisions of another regulatory authority, system or institution, \n\n\nPAGE 10\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 10 of 15 \nobviating additional regulatory assessment to reach its own decision. Recognition usually requires \nformal and binding legal provisions. \n \nConsidering marketing authorization as an example, the following four (4) reliance pathways may \ninvolve additional tasks in the assessment process:  \n \na) Verification of sameness of the product to ensure that the medical product is the same as the \none that has been assessed by the reference regulatory authority. A critical aspect of the \napplication of reliance is verification of the “sameness” of a medical product. Reliance can \nbe practised only if the Authority has the assurance that the medical product being assessed \nis essentially the same as the one submitted to the reference regulatory Authority. The role of \nthe manufacturer is essential to confirm the sameness of a product and to provide the same \ndocumentation as submitted to the reference regulatory Authority, except for additional \ncountry-specific information submitted for review, such as product stability data according \nto the stability zone and the local product label. The manufacturer should confirm in the \napplication that the product is the same and that the application contains essentially the same \ninformation, taking into consideration any potential national requirements. If the application \nis not submitted simultaneously to the agencies, the manufacturer should highlight any new \ninformation about the product acquired since the application was submitted to the reference \nregulatory Authority, with the corresponding assessment.  \n \nb) Confirmation of applicability of the assessment outcomes of another authority for \nregulatory decision-making in the national context, for example, in terms of legal and \nregulatory settings, benefit-risk assessment, co-morbidities, unmet medical needs, risk \nmanagement plans and any quality-related specificities such as climatic zones for product \nstability. In case of differences, such as in target population, epidemiology and other features \nof the disease, concomitantly used medicines and other factors that can substantially affect \nthe benefit-risk profile of medicine as well as quality parameters, especially in relation to the \nstability under different climatic conditions, appropriate justification should be provided by \nthe Applicant. \n \nc) Abridged assessment of the quality, safety and efficacy/performance data taking into \naccount information in the assessment reports of the reference regulatory authority. \n \nd) Joint assessment or work-sharing between two or more regulatory authorities where a \nprimary review by one authority, a second review by another authority followed by a joint \nassessment session to finalize the assessment report and comments or distribution of the \nmodules (quality, non-clinical and safety or efficacy) between the authorities. \n \nSimilar reliance-based regulatory pathways can be used for other regulatory functions, such as \ninspection, lot release or import testing. \n \n \n\n\nPAGE 11\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 11 of 15 \n5. AREAS OF RELIANCE FOR REGULATORY DECISION \n \nThe areas of reliance include registration and marketing authorization, GMP/GCP Inspections, \nClinical Trial, Vigilance and Quality Control (QC) testing related decisions to ensure full \nimplementation and compliance to the reliance route: \n \n5.1 Marketing Authorization of medical products \n \nThe Authority may apply reliance procedures for granting Marketing Authorization in the following \nsituations: \n \n1. The product should have been evaluated and listed as a WHO Prequalified Product including \nthe WHO PQ collaborative registration procedure between WHO and the Authority. \n \n2. The product should have been registered by a WHO transitional listed Authority \n \n3. The product should have been jointly evaluated and listed as an output of the East African \nCommunity (EAC).  \n \n5.2 GMP Inspections \n \nThe authority may apply reliance for GMP Inspections in the following situations: \n \na) Facilities located in countries and/or issued a GMP certificate from WHO transitional listed \nauthorities; \n \nb) Facilities located in countries which are standing PIC/s members; \n \nc) Facilities inspected and approved under the framework of World Health Organization (WHO) \nprequalification program. \n \nd) Facilities inspected through EAC joint GMP Procedures.  \n \n5.3 Vigilance  \n \nThe Authority may recognize and/or rely on vigilance-related decisions, reports or information from \nother countries or regional or international organization and harmonization initiative when making \nnational vigilance decisions.  \n \nThe Authority shall continue to ensure the safety of marketed products through its established \nvigilance system. In order to ensure that safety issues are promptly identified and the necessary \ninterventions implemented, the Authority considers decisions from WHO transitional listed \nAuthorities on the safety of medical products that impact negatively on the health of patients. \n \n\n\nPAGE 12\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 12 of 15 \nFurthermore, the Authority can rely on Vigilance decisions taken by WHO Uppsala Monitoring \nCentre (WHO-UMC), joint vigilance decisions in EAC region and this may be considered through \nthe reliance pathways on a case-by-case basis. \n \nThe Authority may, upon receiving proof of scientific information related to safety of medical \nproducts, recognise and take any corrective action to protect the public from any eminent safety \nconcerns that may likely arise. \n \n5.4 Clinical Trials  \n \nThe Authority may rely and/or recognize relevant clinical trial decisions, reports and information \nfrom transitional WHO listed authorities and/or other regional or international harmonization \ninitiatives such as EMA, AVAREF, African Medicines Agency (AMA), EAC Medicines Regulatory \nHarmonization (EAC HRH including those have MoUs with Rwanda FDA to take appropriate \nregulatory decisions in clinical trial oversight for public health protection. \n \nIn order to facilitate product development, regulatory decision-making, and access to promising new \nmedical products, the Authority may consider the regulatory decisions taken by other regulatory \nauthorities for the multi-country trials that are being implemented in Rwanda because of post-\napproval monitoring activities.  \n  \nIn case of emergency, the Authority applies reliance pathways as non-routine procedure for Clinical \nTrial Authorization. \n \n5.5 Quality Control (QC) Testing  \n \nRwanda FDA may rely on analytical reports/Certificate of analysis from National Regulatory \nAuthority laboratories which are on WHO transitional listed Authorities. Detailed procedure will be \ndeveloped. \n \nDuring the decision making, Rwanda FDA may rely on analytical reports from NRA laboratories \nwhich are WHO Pre-qualified or ISO/IEC 17025:2017 accredited and awarded by an International \nLaboratory Accreditation Cooperation (ILAC) member on a case-by-case basis. \n \n5.6 Market surveillance and control  \n \nThe authority may rely on market surveillance and control decisions from WHO transitional listed \nAuthorities.  \n \nFurthermore, the Authority can rely on market surveillance and control decisions taken by \nWHO/Global surveillance and monitoring system (WHO/GSMS). \n \nThe Authority may rely on the market surveillance and control decision taken by regulatory \nauthorities in East African Community and regulatory authorities that signed MoU with the Authority  \n\n\nPAGE 13\nGuidelines on Reliance for Regulatory Decision-Making  \n \n \nDoc. No: ODG/RAHC/GDL/001 Revision Date: 05/10/2021 \nReview Due Date: 16/10/2025 \nRevision No.: 2 \nApproval date: 13/10/2022 \nEffective Date: 17/10/2022 \nPage 13 of 15 \n6. RELIANCE PROCEDURES \n \n6.1 Verification of Documentations \n \nThe Authority shall ‘verify’ that the product intended to be imported and distributed in Rwanda or \nthe Clinical trial to be conducted in Rwanda has been duly registered or authorized respectively by \nthe reference regulatory authority (ies). \n \nIn the case of marketing authorization, the product characteristics (use, dosage, precautions) for local \nregistration should conform to that agreed in the authorization by the reference regulatory authority. \nIn addition, there should be an assurance that the product is either identical or similar to that approved \nby the reference regulatory Authority in terms of quality, safety and efficacy. \n \nIn case the reliance is for Clinical trial submissions, the application (protocol, Investigational \nbroc",
+          "start": 15700,
+          "end": 29600,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "RWA-SUP-1cfda0b4-510",
+          "source_url": "https://www.tmda.go.tz/uploads/publications/en1761117745-MoU%20Reliance%20on%20Regulatory%20Decisions%20by%20WHO%20maturity%20Level%203.pdf",
+          "section_article": "Seven-authority MoU Article2, page5",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

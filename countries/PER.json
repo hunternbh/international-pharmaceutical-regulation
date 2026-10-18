@@ -265,5 +265,587 @@
     "source_hashes": [
       "aa3b4c311fac2fa92aa6b55db66eed38ef54b390260aefe6c94f4212bd3e01f3"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "PER",
+    "country": "Peru",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "45-day accelerated assessment with positive administrative silence",
+    "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
+    "document_id": "b2afd864591d66482ac4",
+    "genre": "Statute",
+    "language": "es",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "Law 32319 published 1 May 2025; legal text includes “and other diseases”, so ordinary nonorphan drugs are not excluded merely by the law’s rare-disease title. Country-of-high-surveillance designation and local-climate dossier conditions require validation.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "Medicines for rare/orphan/cancer and other diseases, registered and marketed in high-surveillance countries.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "PAVS category; underlying country designation not enumerated in this law.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Registration and marketing in a qualifying country; no two-reference threshold stated.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "explicit requirement",
+        "finding": "Foreign authorization plus commercial marketing and CPP/free-sale evidence.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Complete foreign-authorized CTD for same product.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Stability for climatic zone IV-A or IV-B; full quality/safety/efficacy CTD.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Accelerated evaluation retained, not automatic scientific-assessment waiver.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "CTD English or Spanish; Spanish labels/technical sheet/insert.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "CPP or free-sale certificate showing same product authorized and marketed.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "At most 45 calendar days with positive administrative silence on complete qualifying dossier.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Conditions and unregulated matters subject to pharmaceutical law and implementing rules.",
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "PER-Q01",
+          "PER-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "PER-Q01",
+        "source_document_id": "b2afd864591d66482ac4",
+        "evidence_role": "Selected primary document",
+        "section_article": "Articles 2–4",
+        "pdf_page": null,
+        "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
+        "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
+        "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
+        "exact_text": "Artículo 2\n. Ámbito de aplicación\nEstán comprendidos en la ley los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, registrados y comercializados en países de alta vigilancia sanitaria.\nEl Ministerio de Salud establece las enfermedades raras y huérfanas, en el plazo de treinta días calendario computados desde la entrada en vigor de la presente ley, bajo responsabilidad funcional.\nArtículo 3\n. Medidas y requisitos para facilitar la inscripción y reinscripción en el Registro Sanitario\nSe exonera de la aplicación de lo dispuesto en los artículos 10 y 11 de la Ley 29459, Ley de los productos farmacéuticos, dispositivos médicos y productos sanitarios, a los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades que cuenten con el registro y se comercialicen en los países de alta vigilancia sanitaria.\nEstos productos están sujetos a un procedimiento de evaluación acelerada en un plazo no mayor de cuarenta y cinco días calendario con silencio administrativo positivo, siempre que cumpla con remitir la información completa de calidad, seguridad y eficacia en formato del documento técnico común, el mismo que fue autorizado en el país de alta vigilancia sanitaria, en idioma inglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o IV-B; así como el certificado de producto farmacéutico o certificado de libre comercialización, que acredite que el mismo producto farmacéutico se encuentra autorizado y se esté comercializando en dicho PAVS; plan de gestión de riesgo; rotulados, ficha técnica e inserto, en idioma español, y certificado de liberación de lote emitido por la autoridad competente del país de origen para el caso de vacunas y derivados de plasma.\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro sanitario y cumplimiento de obligaciones específicas) en el registro sanitario serán la misma que la otorgada en el PAVS.\nArtículo 4\n. Condición para la aplicación de las medidas para facilitar la inscripción y reinscripción en el Registro Sanitario\nLos medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, deben encontrarse registrados y comercializarse en algún país de alta vigilancia sanitaria, contar con el registro autorizado y producirse para la zona climática IV-A o IV-B establecida por la Organización Mundial de la Salud.",
+        "start": 1021,
+        "end": 3558,
+        "translation": "Article 2. Scope. This law covers medicines and biological products for rare diseases, orphan diseases, cancer and other diseases, registered and marketed in countries with high sanitary surveillance. The Ministry of Health shall specify rare and orphan diseases within thirty calendar days from entry into force, under functional responsibility. Article 3. Measures and requirements facilitating registration and re-registration. Medicines and biological products for those diseases that are registered and marketed in high-surveillance countries are exempted from Articles 10 and 11 of Law 29459 on pharmaceutical products, medical devices and health products. These products undergo accelerated evaluation within no more than forty-five calendar days, with positive administrative silence, provided complete quality, safety and efficacy information is submitted in the common technical document format authorised in the high-surveillance country, in English or Spanish, including stability studies for Climatic Zone IV-A or IV-B; a pharmaceutical-product certificate or free-sale certificate showing that the same product is authorised and being marketed in that country; a risk-management plan; labels, technical information and package insert in Spanish; and, for vaccines and plasma derivatives, a batch-release certificate issued by the competent authority of the country of origin. The validity and updating conditions (registration modifications or changes and compliance with specific obligations) of the sanitary registration shall be the same as those granted in the high-surveillance country. Article 4. Condition for the facilitation measures. The medicines and biological products for rare diseases, orphan diseases, cancer and other diseases must be registered and marketed in a high-surveillance country, have the authorised registration and be produced for WHO Climatic Zone IV-A or IV-B.",
+        "translation_status": "Assistant checked and corrected research translation; not official/certified",
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "PER-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
+        "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
+        "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
+        "exact_text": "tos, y garantizar el derecho fundamental a la salud y a la vida de toda persona.\nArtículo 2\n. Ámbito de aplicación\nEstán comprendidos en la ley los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, registrados y comercializados en países de alta vigilancia sanitaria.\nEl Ministerio de Salud establece las enfermedades raras y huérfanas, en el plazo de treinta días calendario computados desde la entrada en vigor de la presente ley, bajo responsabilidad funcional.\nArtículo 3\n. Medidas y requisitos para facilitar la inscripción y reinscripción en el Registro Sanitario\nSe exonera de la aplicación de lo dispuesto en los artículos 10 y 11 de la Ley 29459, Ley de los productos farmacéuticos, dispositivos médicos y productos sanitarios, a los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades que cuenten con el registro y se comercialicen en los países de alta vigilancia sanitaria.\nEstos productos están sujetos a un procedimiento de evaluación acelerada en un plazo no mayor de cuarenta y cinco días calendario con silencio administrativo positivo, siempre que cumpla con remitir la información completa de calidad, seguridad y eficacia en formato del documento técnico común, el mismo que fue autorizado en el país de alta vigilancia sanitaria, en idioma inglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o IV-B; así como el certificado de producto farmacéutico o certificado de libre comercialización, que acredite que el mismo producto farmacéutico se encuentra autorizado y se esté comercializando en dicho PAVS; plan de gestión de riesgo; rotulados, ficha técnica e inserto, en idioma español, y certificado de liberación de lote emitido por la autoridad competente del país de origen para el caso de vacunas y derivados de plasma.\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro sanitario y cumplimiento de obligaciones específicas) en el registro sanitario serán la misma que la otorgada en el PAVS.\nArtículo 4\n. Condición para la aplicación de las medidas para facilitar la inscripción y reinscripción en el Registro Sanitario\nLos medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, deben encontrarse registrados y comercializarse en algún país de alta vigilancia sanitaria, contar con el registro autorizado y producirse para la zona climática IV-A o IV-B establecida por la Organización Mundial de la Salud.\nDISPOSICIONES COMPLEMENTARIAS FINALES\nPRIMERA. Declaración de interés nacional\nSe declara de interés nacional el fortalecimiento y modernización de la Dirección General de Medicamentos, Insumos y Drogas - DIGEMID, a fin de promover su funcionamiento con altos estándares internacionales, a nivel de países de alta vigilancia sanitaria.\nSEGUNDA. Aplicación inmediata\nLo dispuesto en la presente ley es de aplicación inmediata. Deróguese el artículo 9 de la Ley 29698 incorporado en la Ley 317",
+        "start": 940,
+        "end": 4050,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "PER",
+      "country": "Peru",
+      "selected_document_id": "b2afd864591d66482ac4",
+      "source_id": "e566ae203192b669",
+      "pathway": "45-day accelerated assessment with positive administrative silence",
+      "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
+      "document_title": "Law32319 official gazette",
+      "source_type": "Statute",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "es",
+      "translation_provenance": [
+        {
+          "PER-Q01": "Assistant checked and corrected research translation; not official/certified"
+        }
+      ],
+      "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
+      "raw_hash_validated": true,
+      "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
+      "version_dates": {
+        "publication_date": "2025-05-01"
+      },
+      "version_scope_note": "Law 32319 published 1 May 2025; legal text includes “and other diseases”, so ordinary nonorphan drugs are not excluded merely by the law’s rare-disease title. Country-of-high-surveillance designation and local-climate dossier conditions require validation.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          1021,
+          3558
+        ],
+        [
+          940,
+          4050
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "Medicines for rare/orphan/cancer and other diseases, registered and marketed in high-surveillance countries.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "PAVS category; underlying country designation not enumerated in this law.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Registration and marketing in a qualifying country; no two-reference threshold stated.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Foreign authorization plus commercial marketing and CPP/free-sale evidence.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Complete foreign-authorized CTD for same product.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Stability for climatic zone IV-A or IV-B; full quality/safety/efficacy CTD.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Accelerated evaluation retained, not automatic scientific-assessment waiver.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "CTD English or Spanish; Spanish labels/technical sheet/insert.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "CPP or free-sale certificate showing same product authorized and marketed.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "At most 45 calendar days with positive administrative silence on complete qualifying dossier.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Conditions and unregulated matters subject to pharmaceutical law and implementing rules.",
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "PER-Q01",
+            "PER-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "PER-Q01",
+          "source_document_id": "b2afd864591d66482ac4",
+          "evidence_role": "Selected primary document",
+          "section_article": "Articles 2–4",
+          "pdf_page": null,
+          "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
+          "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
+          "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
+          "exact_text": "Artículo 2\n. Ámbito de aplicación\nEstán comprendidos en la ley los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, registrados y comercializados en países de alta vigilancia sanitaria.\nEl Ministerio de Salud establece las enfermedades raras y huérfanas, en el plazo de treinta días calendario computados desde la entrada en vigor de la presente ley, bajo responsabilidad funcional.\nArtículo 3\n. Medidas y requisitos para facilitar la inscripción y reinscripción en el Registro Sanitario\nSe exonera de la aplicación de lo dispuesto en los artículos 10 y 11 de la Ley 29459, Ley de los productos farmacéuticos, dispositivos médicos y productos sanitarios, a los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades que cuenten con el registro y se comercialicen en los países de alta vigilancia sanitaria.\nEstos productos están sujetos a un procedimiento de evaluación acelerada en un plazo no mayor de cuarenta y cinco días calendario con silencio administrativo positivo, siempre que cumpla con remitir la información completa de calidad, seguridad y eficacia en formato del documento técnico común, el mismo que fue autorizado en el país de alta vigilancia sanitaria, en idioma inglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o IV-B; así como el certificado de producto farmacéutico o certificado de libre comercialización, que acredite que el mismo producto farmacéutico se encuentra autorizado y se esté comercializando en dicho PAVS; plan de gestión de riesgo; rotulados, ficha técnica e inserto, en idioma español, y certificado de liberación de lote emitido por la autoridad competente del país de origen para el caso de vacunas y derivados de plasma.\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro sanitario y cumplimiento de obligaciones específicas) en el registro sanitario serán la misma que la otorgada en el PAVS.\nArtículo 4\n. Condición para la aplicación de las medidas para facilitar la inscripción y reinscripción en el Registro Sanitario\nLos medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, deben encontrarse registrados y comercializarse en algún país de alta vigilancia sanitaria, contar con el registro autorizado y producirse para la zona climática IV-A o IV-B establecida por la Organización Mundial de la Salud.",
+          "start": 1021,
+          "end": 3558,
+          "translation": "Article 2. Scope. This law covers medicines and biological products for rare diseases, orphan diseases, cancer and other diseases, registered and marketed in countries with high sanitary surveillance. The Ministry of Health shall specify rare and orphan diseases within thirty calendar days from entry into force, under functional responsibility. Article 3. Measures and requirements facilitating registration and re-registration. Medicines and biological products for those diseases that are registered and marketed in high-surveillance countries are exempted from Articles 10 and 11 of Law 29459 on pharmaceutical products, medical devices and health products. These products undergo accelerated evaluation within no more than forty-five calendar days, with positive administrative silence, provided complete quality, safety and efficacy information is submitted in the common technical document format authorised in the high-surveillance country, in English or Spanish, including stability studies for Climatic Zone IV-A or IV-B; a pharmaceutical-product certificate or free-sale certificate showing that the same product is authorised and being marketed in that country; a risk-management plan; labels, technical information and package insert in Spanish; and, for vaccines and plasma derivatives, a batch-release certificate issued by the competent authority of the country of origin. The validity and updating conditions (registration modifications or changes and compliance with specific obligations) of the sanitary registration shall be the same as those granted in the high-surveillance country. Article 4. Condition for the facilitation measures. The medicines and biological products for rare diseases, orphan diseases, cancer and other diseases must be registered and marketed in a high-surveillance country, have the authorised registration and be produced for WHO Climatic Zone IV-A or IV-B.",
+          "translation_status": "Assistant checked and corrected research translation; not official/certified",
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "PER-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
+          "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
+          "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
+          "exact_text": "tos, y garantizar el derecho fundamental a la salud y a la vida de toda persona.\nArtículo 2\n. Ámbito de aplicación\nEstán comprendidos en la ley los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, registrados y comercializados en países de alta vigilancia sanitaria.\nEl Ministerio de Salud establece las enfermedades raras y huérfanas, en el plazo de treinta días calendario computados desde la entrada en vigor de la presente ley, bajo responsabilidad funcional.\nArtículo 3\n. Medidas y requisitos para facilitar la inscripción y reinscripción en el Registro Sanitario\nSe exonera de la aplicación de lo dispuesto en los artículos 10 y 11 de la Ley 29459, Ley de los productos farmacéuticos, dispositivos médicos y productos sanitarios, a los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades que cuenten con el registro y se comercialicen en los países de alta vigilancia sanitaria.\nEstos productos están sujetos a un procedimiento de evaluación acelerada en un plazo no mayor de cuarenta y cinco días calendario con silencio administrativo positivo, siempre que cumpla con remitir la información completa de calidad, seguridad y eficacia en formato del documento técnico común, el mismo que fue autorizado en el país de alta vigilancia sanitaria, en idioma inglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o IV-B; así como el certificado de producto farmacéutico o certificado de libre comercialización, que acredite que el mismo producto farmacéutico se encuentra autorizado y se esté comercializando en dicho PAVS; plan de gestión de riesgo; rotulados, ficha técnica e inserto, en idioma español, y certificado de liberación de lote emitido por la autoridad competente del país de origen para el caso de vacunas y derivados de plasma.\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro sanitario y cumplimiento de obligaciones específicas) en el registro sanitario serán la misma que la otorgada en el PAVS.\nArtículo 4\n. Condición para la aplicación de las medidas para facilitar la inscripción y reinscripción en el Registro Sanitario\nLos medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, deben encontrarse registrados y comercializarse en algún país de alta vigilancia sanitaria, contar con el registro autorizado y producirse para la zona climática IV-A o IV-B establecida por la Organización Mundial de la Salud.\nDISPOSICIONES COMPLEMENTARIAS FINALES\nPRIMERA. Declaración de interés nacional\nSe declara de interés nacional el fortalecimiento y modernización de la Dirección General de Medicamentos, Insumos y Drogas - DIGEMID, a fin de promover su funcionamiento con altos estándares internacionales, a nivel de países de alta vigilancia sanitaria.\nSEGUNDA. Aplicación inmediata\nLo dispuesto en la presente ley es de aplicación inmediata. Deróguese el artículo 9 de la Ley 29698 incorporado en la Ley 317",
+          "start": 940,
+          "end": 4050,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "PER-SUP-aa3b4c31-8140",
+          "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RM_403-2025-MINSA.pdf",
+          "section_article": "RM 403-2025/MINSA article 1: consultation, not final decree",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

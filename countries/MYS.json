@@ -466,5 +466,773 @@
       "77c8c40275cd21dd36d4ee3168fd86f2cf373a8e664204d6a958a0cf5ca19077",
       "791d3962d5ec65be0c73a2e377313827fe47ce22ce6d805831c2627d6167ab9a"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "MYS",
+    "country": "Malaysia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Abbreviated review and ASEAN verification",
+    "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+    "document_id": "a2fc5a24c3cae68ef19e",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Malaysia FRP guidelineNovember 2023, effective 1 January 2024. Foreign-regulator abbreviated review differs from ASEAN-joint-assessment verification. Express public-report exception prevents categorical rejection of every public-only application.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA and EMA expressly listed with HealthCanada, PMDA, Swissmedic, TGA and MHRA.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "One named reference approval for abbreviated review. Verification refers to ASEAN joint assessment, not a generic two-approval threshold.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "explicit requirement",
+        "finding": "Full foreign evaluation required; conditional/exceptional approvals and certain cases needing more stringent local assessment excluded.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "approval_age": {
+        "state": "explicit requirement",
+        "finding": "Foreign approval within three years; fixed 18 months meets the age condition.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same product quality, sites, process, API and intended use; specified packaging and justified site differences allowed.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Complete unredacted/unedited assessment with Q&A and annexes normally required. NPRA may accept public redacted reports supplemented with comments and Q&A.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "discretionary/conditional",
+        "finding": "Normally full unredacted material, but an express public-report exception is retained.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "accepted_redactions": {
+        "state": "discretionary/conditional",
+        "finding": "NPRA may accept public redacted material with relevant comments known to product owner/PRH and Q&A. Acceptance is discretionary.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "public_report_sufficiency": {
+        "state": "discretionary/conditional",
+        "finding": "Public reports normally unacceptable, but a qualified express exception applies. Public-only sufficiency is conditional, not proved or categorically rejected.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "PIC/S GMP and ASEAN stability requirements: six months data at submission and 12 months real-time stability on registration, as specified.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Limited independent local assessment and national DCA decision retained.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "Abbreviated 90 working days; ASEAN verification 30 working days. Screening and applicant correspondence excluded; response-cycle/time limits apply.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "NPRA/DCA may request support, reject discrepancies or revert to standard evaluation timeline.",
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MYS-Q01",
+          "MYS-Q02",
+          "MYS-CONTEXT-1",
+          "MYS-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "MYS-Q01",
+        "iso3": "MYS",
+        "event_id": "MYS_023",
+        "document_id": "a2fc5a24c3cae68ef19e",
+        "source_id": "af142b34eded7ced",
+        "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+        "raw_sha256": "cf93d3f263bdcbc76bee7eb8e7fa08c6d401bd98d2e219c0533bbe992f882aa3",
+        "text_sha256": "54fa520abb681072884ea76a080936f86a638f598320556714fa089d089ea42c",
+        "start_offset": 17374,
+        "end_offset": 19430,
+        "pdf_page": 11,
+        "verbatim_extracted_text": "The final decision for a product to be considered via FRP is subject to NPRA discretion. NPRA may \ndecide based on the eligibility criteria stated in this guideline, which may include risk-benefit \nassessment, country priorities, public health needs, and other reasons or opportunities for reliance. \n \n \n \n \n \n \n \n\n\nPAGE 12\n \n \n3 \n \n \n \n1.4 \n Review Pathways \n \nThe following review pathways will be used to assess products eligible to be submitted via FRP: \n  \ni) \nAbbreviated review: A limited independent assessment of specific parts of the dossier, or \nsubmission for suitability of use under local conditions and regulatory requirements, while \nrelying on prior assessment and inspection outcomes from a reference authority or trusted \ninstitution to inform the local decision. \nOR \n \nii) \nVerification review: Review of the sameness of the product dossier to ensure that the medical \nproduct is the same as the one that has been assessed by ASEAN Joint Assessment. \n \nBoth review pathways apply to products approved by either of the following procedures or regulatory \nagencies:  \n \n \nAbbreviated Review  \n \ni) \nWHO Collaborative Registration Procedure (CRP)* \na) Products authorised by WHO Stringent Regulatory Authorities (SRAs)/ \nWHO Listed Authorities (WLA) \nb) WHO prequalified medicines and vaccines \nii) \nProducts approved by any of the following regulatory agencies** \n \na) European Medicines Agency (EMA)  \nb) Health Canada  \nc) Pharmaceuticals and Medical Devices Agency (PMDA), Japan  \nd) Swissmedic, Switzerland  \ne) Therapeutic Goods Administration (TGA), Australia  \nf) United Kingdom Medicines and Healthcare products Regulatory Agency (UK MHRA) \ng) United States Food and Drug Administration (US FDA)  \n \n \nVerification Review  \ni) \nASEAN Joint Assessment (JA) procedure* \n \n*Registration applications submitted to the NPRA under the FRP pathway shall be deemed acceptable, \nirrespective of the NPRA's non-participation in the WHO CRP or the ASEAN JA evaluation. \n**at least one agency approval or more \n \n \n \n \n \n \n \n\n\nPAGE 13\n \n \n4",
+        "display_text": "The final decision for a product to be considered via FRP is subject to NPRA discretion. NPRA may decide based on the eligibility criteria stated in this guideline, which may include risk-benefit assessment, country priorities, public health needs, and other reasons or opportunities for reliance. PAGE 12 3 1.4 Review Pathways The following review pathways will be used to assess products eligible to be submitted via FRP: i) Abbreviated review: A limited independent assessment of specific parts of the dossier, or submission for suitability of use under local conditions and regulatory requirements, while relying on prior assessment and inspection outcomes from a reference authority or trusted institution to inform the local decision. OR ii) Verification review: Review of the sameness of the product dossier to ensure that the medical product is the same as the one that has been assessed by ASEAN Joint Assessment. Both review pathways apply to products approved by either of the following procedures or regulatory agencies: Abbreviated Review i) WHO Collaborative Registration Procedure (CRP)* a) Products authorised by WHO Stringent Regulatory Authorities (SRAs)/ WHO Listed Authorities (WLA) b) WHO prequalified medicines and vaccines ii) Products approved by any of the following regulatory agencies** a) European Medicines Agency (EMA) b) Health Canada c) Pharmaceuticals and Medical Devices Agency (PMDA), Japan d) Swissmedic, Switzerland e) Therapeutic Goods Administration (TGA), Australia f) United Kingdom Medicines and Healthcare products Regulatory Agency (UK MHRA) g) United States Food and Drug Administration (US FDA) Verification Review i) ASEAN Joint Assessment (JA) procedure* *Registration applications submitted to the NPRA under the FRP pathway shall be deemed acceptable, irrespective of the NPRA's non-participation in the WHO CRP or the ASEAN JA evaluation. **at least one agency approval or more PAGE 13 4",
+        "feature_tags": [
+          "discretion",
+          "local_evidence",
+          "sameness",
+          "scope_limit"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English guideline within Malay directive package",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MYS-Q02",
+        "iso3": "MYS",
+        "event_id": "MYS_023",
+        "document_id": "a2fc5a24c3cae68ef19e",
+        "source_id": "af142b34eded7ced",
+        "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+        "raw_sha256": "cf93d3f263bdcbc76bee7eb8e7fa08c6d401bd98d2e219c0533bbe992f882aa3",
+        "text_sha256": "54fa520abb681072884ea76a080936f86a638f598320556714fa089d089ea42c",
+        "start_offset": 21066,
+        "end_offset": 22316,
+        "pdf_page": 13,
+        "verbatim_extracted_text": "a) The application must be submitted to NPRA via QUEST system within three (3) years \nfrom the date of approval by the chosen reference drug regulatory agency.  \n \nb) The PRH is required to submit a declaration statement as in Annex 1 to indicate that the \nassessment report, list of Question & Answer (Q & A) and all other relevant documents \nprovided are authentic.       \n \nc) Manufacturing facilities have been inspected by any Pharmaceutical Inspection Co-\noperation Scheme (PIC/S) member and have valid certification. \n \nd) All aspects of the drug substance and drug product’s quality, including but not limited to \nthe formulation, manufacturing process, controls, site(s), release and shelf-life \nspecifications, primary packaging and active pharmaceutical ingredient(s) source must \nbe identical to that currently approved by the chosen reference drug regulatory agency \nat the time of submission. However, a different type of the container closure system (e.g. \nAlu/Alu blister vs. HDPE bottle) and pack size may be proposed to meet ASEAN stability \nrequirements (if applicable). Any difference in the manufacturing site of the drug product \nor a difference in brand name, will be considered if it is clearly justified. \n \n \n\n\nPAGE 14\n \n \n5",
+        "display_text": "a) The application must be submitted to NPRA via QUEST system within three (3) years from the date of approval by the chosen reference drug regulatory agency. b) The PRH is required to submit a declaration statement as in Annex 1 to indicate that the assessment report, list of Question & Answer (Q & A) and all other relevant documents provided are authentic. c) Manufacturing facilities have been inspected by any Pharmaceutical Inspection Co- operation Scheme (PIC/S) member and have valid certification. d) All aspects of the drug substance and drug product’s quality, including but not limited to the formulation, manufacturing process, controls, site(s), release and shelf-life specifications, primary packaging and active pharmaceutical ingredient(s) source must be identical to that currently approved by the chosen reference drug regulatory agency at the time of submission. However, a different type of the container closure system (e.g. Alu/Alu blister vs. HDPE bottle) and pack size may be proposed to meet ASEAN stability requirements (if applicable). Any difference in the manufacturing site of the drug product or a difference in brand name, will be considered if it is clearly justified. PAGE 14 5",
+        "feature_tags": [
+          "approval_age",
+          "sameness",
+          "reports",
+          "local_evidence"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English guideline within Malay directive package",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MYS-CONTEXT-1",
+        "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+        "raw_sha256": "cf93d3f263bdcbc76bee7eb8e7fa08c6d401bd98d2e219c0533bbe992f882aa3",
+        "text_sha256": "54fa520abb681072884ea76a080936f86a638f598320556714fa089d089ea42c",
+        "start_offset": 16624,
+        "end_offset": 23316,
+        "verbatim_extracted_text": "re efficient review process and ultimately \nearly access to pharmaceutical products in the market. \n \n \n1.2   Objectives  \n \nThis guidance document is intended to provide a transparent and consistent procedure in the \nutilization of the reliance approach. \n \nThe guideline describes the procedures, requirements for submitting the application to register a \nproduct via this pathway and serves as a supplementary document to Drug Registration \nGuidance Document (DRGD). The applicant should refer to both documents before completing \nproduct registration application via QUEST system.  \n \n \n1.3   Scope \n \nThe scope of this guideline applies to new drug products, generic medicines and biologics including \ncell and gene therapy products (CGTPs). \n \nThe final decision for a product to be considered via FRP is subject to NPRA discretion. NPRA may \ndecide based on the eligibility criteria stated in this guideline, which may include risk-benefit \nassessment, country priorities, public health needs, and other reasons or opportunities for reliance. \n \n \n \n \n \n \n \n\n\nPAGE 12\n \n \n3 \n \n \n \n1.4 \n Review Pathways \n \nThe following review pathways will be used to assess products eligible to be submitted via FRP: \n  \ni) \nAbbreviated review: A limited independent assessment of specific parts of the dossier, or \nsubmission for suitability of use under local conditions and regulatory requirements, while \nrelying on prior assessment and inspection outcomes from a reference authority or trusted \ninstitution to inform the local decision. \nOR \n \nii) \nVerification review: Review of the sameness of the product dossier to ensure that the medical \nproduct is the same as the one that has been assessed by ASEAN Joint Assessment. \n \nBoth review pathways apply to products approved by either of the following procedures or regulatory \nagencies:  \n \n \nAbbreviated Review  \n \ni) \nWHO Collaborative Registration Procedure (CRP)* \na) Products authorised by WHO Stringent Regulatory Authorities (SRAs)/ \nWHO Listed Authorities (WLA) \nb) WHO prequalified medicines and vaccines \nii) \nProducts approved by any of the following regulatory agencies** \n \na) European Medicines Agency (EMA)  \nb) Health Canada  \nc) Pharmaceuticals and Medical Devices Agency (PMDA), Japan  \nd) Swissmedic, Switzerland  \ne) Therapeutic Goods Administration (TGA), Australia  \nf) United Kingdom Medicines and Healthcare products Regulatory Agency (UK MHRA) \ng) United States Food and Drug Administration (US FDA)  \n \n \nVerification Review  \ni) \nASEAN Joint Assessment (JA) procedure* \n \n*Registration applications submitted to the NPRA under the FRP pathway shall be deemed acceptable, \nirrespective of the NPRA's non-participation in the WHO CRP or the ASEAN JA evaluation. \n**at least one agency approval or more \n \n \n \n \n \n \n \n\n\nPAGE 13\n \n \n4 \n \n2. ELIGIBILITY CRITERIA: \n \n2.1   Abbreviated Review  \n \n2.1.1 WHO Collaborative Registration Procedure (CRP) \n \na) The application must be submitted via QUEST system and passed the screening stage.  \n \nb) Manufacturing facilities have been inspected by any Pharmaceutical Inspection Co-\noperation Scheme (PIC/S) member with valid certification. For WHO pre-qualified \nmedicines, valid Good Manufacturing Practice (GMP) evidence issued by WHO is \nacceptable. \n \nc) All aspects of the drug substance and drug product’s quality, including but not limited to \nthe formulation, manufacturing process, controls, site(s), release and shelf-life \nspecifications, primary packaging and active pharmaceutical ingredient(s) source must \nbe identical to that currently approved by WHO CRP at the time of submission. However, \na different type of the container closure system (e.g. Alu/Alu blister vs. HDPE bottle) and \npack size may be proposed to meet ASEAN stability requirements (if applicable). Any \ndifference in the manufacturing site of the drug product or a difference in brand name, \nwill be considered if it is clearly justified. \n \nd) If a Drug Master File (DMF) is submitted, then a separate declaration letter issued by the \nProduct Registration Holder (PRH) must also be provided to state that the DMF submitted \nto NPRA is identical to that submitted to WHO CRP. DMF is not applicable for Biologics. \nInstead, an entire drug substance dossier will be expected.  \n \n2.1.2 Products approved by the EMA and/or Health Canada and/or PMDA, Japan and/or  \nSwissmedic, Switzerland and/or TGA, Australia and/or UK MHRA, and/or US FDA \n \na) The application must be submitted to NPRA via QUEST system within three (3) years \nfrom the date of approval by the chosen reference drug regulatory agency.  \n \nb) The PRH is required to submit a declaration statement as in Annex 1 to indicate that the \nassessment report, list of Question & Answer (Q & A) and all other relevant documents \nprovided are authentic.       \n \nc) Manufacturing facilities have been inspected by any Pharmaceutical Inspection Co-\noperation Scheme (PIC/S) member and have valid certification. \n \nd) All aspects of the drug substance and drug product’s quality, including but not limited to \nthe formulation, manufacturing process, controls, site(s), release and shelf-life \nspecifications, primary packaging and active pharmaceutical ingredient(s) source must \nbe identical to that currently approved by the chosen reference drug regulatory agency \nat the time of submission. However, a different type of the container closure system (e.g. \nAlu/Alu blister vs. HDPE bottle) and pack size may be proposed to meet ASEAN stability \nrequirements (if applicable). Any difference in the manufacturing site of the drug product \nor a difference in brand name, will be considered if it is clearly justified. \n \n \n\n\nPAGE 14\n \n \n5 \n \n \ne) If a Drug Master File (DMF) is submitted (to specify DMF version number or ID number), \nthen a separate declaration letter issued by the PRH must also be provided to state that \nthe DMF submitted to NPRA is identical to that submitted to the chosen reference drug \nregulatory agency. DMF is not applicable for Biologics. Instead, an entire drug substance \ndossier will be expected.  \n \nf) The product and its intended use (indications, dosage information, and patient groups) \nhave not been rejected, withdrawn, suspended, approved via appeal process, or pending \ndeferral by any reference drug regulatory agency for quality, safety and/or efficacy \nreasons. \n \ng) The proposed Package Insert (PI)/ Patient Information Leaflet (PIL) information should \nbe identical to that approved by the reference drug regulatory agency (with the exception \nof country-specific information). \n \nh) The proposed indication(s), dosing regimen(s), patient group(s) and/or direction(s) for \nuse should be the ",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "MYS-CTX-1",
+        "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+        "raw_sha256": "cf93d3f263bdcbc76bee7eb8e7fa08c6d401bd98d2e219c0533bbe992f882aa3",
+        "text_sha256": "54fa520abb681072884ea76a080936f86a638f598320556714fa089d089ea42c",
+        "start_offset": 23316,
+        "end_offset": 34500,
+        "verbatim_extracted_text": "most stringent among those approved by the reference drug regulatory \nagencies. In the event that the chosen drug regulatory agency does not bear the most \nstringent indication(s), dosing regimen(s), patient group(s) and/or direction(s) of use \namong those approved by the reference drug regulatory agencies, a supplemental clinical \nassessment report from the reference drug regulatory agency that approved the most \nstringent indication(s), dosing regimen(s), patient group(s) and/or direction(s) of use is \nrequired. Reports from the public domain are acceptable. Specifically for vaccines, \ndifferences in dosage regimen are allowed when the regimen is changed to meet the local \npractices, such as the National Immunisation Programmes. \n \ni) Products which are approved/reviewed via a full evaluation process by the reference drug \nregulatory agency will be considered for this pathway. However, a product that has been \napproved under exceptional circumstances such as Conditional marketing authorisation \ne.g. the present state of scientific knowledge is insufficient to provide comprehensive \ninformation) or equivalent approval process is not eligible for this pathway. Additionally, \nproducts requiring a more stringent assessment as a result of differences in local disease \npatterns and/or medical practices (e.g. some anti-infectives) will not qualify for the \nfacilitated registration pathway. \n \n \n2.2   Verification Review \n \n2.2.1 ASEAN Joint Assessment (JA) procedure \n \nFor ASEAN JA, please refer to ASEAN Joint Assessment Procedure for Pharmaceutical   \nProducts. \n3. DOCUMENTS REQUIRED:   \n \nThe PRH is required to notify NPRA by submitting a formal, written request for a facilitated \nregistration pathway and attaching the letter of intent under Section E14 (Other Supporting \nDocuments) of the QUEST system. PRH is encouraged to contact the relevant section (according to \nproduct category) in NPRA prior to the submission of an application if questions arise or clarification \nis required. \n\n\nPAGE 15\n \n \n6 \n \nPRH should also ensure that documents related to country specific requirements are available prior \nto registration submission. The requirements include but not limited to administrative data documents \nStability study should comply with the ASEAN stability guideline. A minimum of 6 months real time \nand accelerated stability data respectively may be accepted at the point of submission. However, \nupon registration a minimum of 12 months for real time stability data should be provided. For generic \nmedicines, the comparator product used for bioequivalence (BE) study should be similar to the \nMalaysia Comparator Product. If a BE study submitted to NPRA via the FRP pathway was conducted \nat a BE Centre not listed in the NPRA compliance programme or out of the NPRA validity date, the \nBE Study Desktop Audit application is deemed unnecessary. Evidence of the SRA’s or WLA’s \nassessment of the BE Study is required during the evaluation of the application. \n \n \n3.1   Abbreviated Review  \n \n3.1.1 WHO Collaborative Registration Procedure (CRP) \n \n3.1.1.1 Stringent Regulatory Authority CRP (SRA/WLA CRP) \n \n \na) A complete dossier organised in line with the globally harmonized common technical \ndocument (CTD) format should be submitted via the QUEST system to maximize use of \ndata already submitted to reference SRA/WLA. \n \nb) In the case of generic medicines, the technical part of the dossier is equivalent to the \nWHO PQP prequalification dossier requirements. \n \nc) In addition to technical data the following documents should be provided: \n \ni) expression of interest to take part in this procedure (Appendix 7) \nii) valid assessment and inspection reports issued by reference SRA/WLAs;   \niii) quality information summary (QIS)-SRA(CRP) (Appendix 4); \niv) a declaration assuring the identity of the product with the medicine approved by the \nreference SRA/WLA, consent to communicate freely with the reference SRA/WLA \non product-related matters, and additional commitments as specified in Appendix 7;  \nv) a declaration confirming same site and source including specific block(s) or unit(s) \nfor active pharmaceutical ingredient (API), and finished pharmaceutical product \n(FPP) manufacturer;  \n \nd) All the appendices mentioned in d (i, iii and iv) and the detailed information can be \nobtained from the Annex 11: Collaborative procedure in the assessment and accelerated \nnational registration of pharmaceutical products and vaccines approved by stringent \nregulatory authorities (WHO Expert Committee on Specifications for Pharmaceutical \nPreparations- Fifty-second report). \n \ne) Process flow: Please refer to Annex 3a \n \n \n \n\n\nPAGE 16\n \n \n7 \n \n3.1.1.2 WHO Prequalification (PQ CRP)  \na) A complete dossier closely follows the format in which dossiers are submitted to \nWHO/PQP, i.e. the common technical document (CTD) format should be submitted via \nthe QUEST system. \n \nb) The technical part of the dossier is updated to reflect the data as approved by WHO/PQP \nduring the initial prequalification procedure, and consecutive variation procedures and \nrequalification (where applicable).  \n \nc) A dossier FRP checklist as stated in Annex 2a for Generic/Hybrid and 2b for New \nChemical Entity/Biologic. \n \nd) Other than the technical data the following document should be provided: \n \nExpression of interest to take part in this procedure (Appendix 3)  \n \ne) Appendix 3 mentioned above can be obtained from the Annex 8: Collaborative procedure \nbetween the World Health Organization (WHO) Prequalification Team and national \nregulatory authorities in the assessment and accelerated national registration of WHO-\nprequalified pharmaceutical products and vaccines. (WHO Expert Committee on \nSpecifications for Pharmaceutical Preparations- Fiftieth report). Other information about \nthe WHO PQ CRP can also be found in the same Annex. \n \nf) Process flow: Please refer to Annex 3b. \n \n3.1.2 Products approved by the EMA and/or Health Canada and/or PMDA, Japan and/or \nSwissmedic, Switzerland and/or TGA, Australia and/or UK MHRA, and/or US FDA  \n \n3.1.2.1 General technical requirements (to be submitted under the relevant field/section of the  \nQUEST system): \n \na) Complete Common Technical Document (CTD) data requirements. \n \nb) Complete assessment report including assessment on the Q&A documents between the \nPRH/Marketing Authorisation Holder and reference drug regulatory agency and all \nannexes (in English - to be submitted under section E14 of the QUEST system): \n \ni) Assessment reports and/or documents pertaining to post-approval variations, if \napplicable.  \n \nii) The submitted assessment reports must be unredacted or unedited, and should \ninclude details of imposed licensing conditions, final product labelling, chemistry and \nclinical review, and other information in relation to the product’s approval. Reports \nobtained from the public domain are deemed unacceptable. However, NPRA may \nconsider accepting public assessment reports with redacted information \n(supplemented in the same document with comments on the redacted information, \nwhichever is known to PRH/product owner) and Q&A.  \n\n\nPAGE 17\n \n \n8 \n \n \nc)  A dossier FRP checklist as stated in Annex 2a for Generic/Hybrid and 2b for New \nChemical Entity/Biologic. \n \n3.1.2.2 Additional administrative documents required (to be submitted under section E14 of  \nthe QUEST system). \n \na) Proof of approval from the chosen reference drug regulatory agency is required. Proof of \napproval must come in the form of:  \ni) an official approval letter, or equivalent document (e.g. Certificate of Pharmaceutical \nProduct; CPP), which certifies the registration status of the drug product. \nii) the Summary of Product Characteristics (SPC), PI and/or PIL approved by the \nreference drug regulatory agency that issued the approval letter.  \n \nb) A declaration letter issued by the product owner/PRH stating that:  \n \ni) all aspects of the drug substance’s and drug product’s quality and intended \ndirection(s) for use, including but not limited to the formulation, manufacturing \nprocess, controls, site(s), release and shelf life specifications, primary packaging and \nactive pharmaceutical ingredient(s) source must be identical to that currently \napproved by the chosen reference drug regulatory agency at the time of submission \n(including to the specification reference number, version and effective date). \nHowever, a different type of the container closure system (e.g. Alu/Alu blister vs. \nHDPE bottle) and pack size may be proposed to meet ASEAN stability requirements \n(if applicable); any difference in manufacturing site of drug product will be considered \nif it is clearly justified.  \nii) the product and its intended use (indications, dosage information, and patient \ngroups) have not been rejected, withdrawn, suspended, approved via appeal \nprocess, or pending deferral by any reference drug regulatory agency for quality, \nsafety and/or efficacy reasons.  \niii) the provided DMF (to specify the DMF version number or ID number) is the same as \nthat submitted to the reference drug regulatory agency.  \niv) there is a commitment to reference drug regulatory agency (if any). \n \nc) Process flow: Please refer to Annex 3c \n \n \n \n \n \n \n \n \n \n \n \n\n\nPAGE 18\n \n \n9 \n \n3.2    Verification review \n \n3.2.1 ASEAN Joint Assessment (JA) Procedure \n \n3.2.1.1 Please refer to ‘ASEAN Joint Assessment Procedure for Pharmaceutical Products’. \n3.2.1. 2 Process flow: Please refer to Annex 3d. \n \n \n4. TIMELINE FOR REGISTRATION PROCESS \nTypes of Review \n \nTimeline (working days) \nAbbreviated Review \n \nWHO CRP: \n \nProducts authorized by WHO SRAs/WLA \nWHO prequalified medicines, vaccines \n \n \n \n \n \n \n90* \n \nProducts approved by the EMA and/or Health Canada \nand/or PMDA, Japan and/or Swissmedic, Switzerland \nand/or TGA, Australia and/or UK MHRA, and/or \nthe US FDA \n \nVerification Review \n \nASEAN Joint Assessment \n \n \n30* \n \n        *Screening and correspondence (applicant time) are not included in the timeline. \n       The PRH is allowed to correspond a maximum of 3 times correspondence within the total of 60    \n       working days. NPRA will change the FRP evaluation timeline to the standard evaluation timeline   \n       if the PRH fails to correspond within the stipulated timeline. \n \n \n \n \nNOTE \ni) \nNPRA reserves the right to request additional supporting documents where \nit is deemed appropriate. \nii) \nProducts assessed under this facilitated pathway will not be eligible for \npriority review. \niii) \nDuring the evaluation process, the NPRA has the right to reject the \napplication if discrepancies are identified between the data provided and \nthe stated declaration. \n \n\n\nPAGE 19\n \n \n10 \n \n5. DRUG CONTROL AUTHORITY RIGHTS  \n \nNotwithstanding the requirements stipulated in this guideline, DCA reserves the rights to use its own \ndiscretion whichever it deems fit. \n \n6. REFERENCES \n \nAdapted from the:  \n \n1. WHO Good Regulatory Practices, 2021 \n \na) Annex 8_Collaborative procedure between the World Health Organization (WHO) Prequalification \nTeam and national regulatory authorities in the assessment and accelerated national registrati",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "MYS",
+      "country": "Malaysia",
+      "selected_document_id": "a2fc5a24c3cae68ef19e",
+      "source_id": "af142b34eded7ced",
+      "pathway": "Abbreviated review and ASEAN verification",
+      "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+      "document_title": "Direktif Berkenaan Pengemaskinian dan Pelaksanaan Guideline for Facilitated Registration Pathway (FRP), Revision 1, 2023",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "cf93d3f263bdcbc76bee7eb8e7fa08c6d401bd98d2e219c0533bbe992f882aa3",
+      "raw_hash_validated": true,
+      "text_sha256": "54fa520abb681072884ea76a080936f86a638f598320556714fa089d089ea42c",
+      "version_dates": {
+        "effective_date": "2024-01-01"
+      },
+      "version_scope_note": "Malaysia FRP guidelineNovember 2023, effective 1 January 2024. Foreign-regulator abbreviated review differs from ASEAN-joint-assessment verification. Express public-report exception prevents categorical rejection of every public-only application.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          16624,
+          23316
+        ],
+        [
+          23316,
+          34500
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA and EMA expressly listed with HealthCanada, PMDA, Swissmedic, TGA and MHRA.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "One named reference approval for abbreviated review. Verification refers to ASEAN joint assessment, not a generic two-approval threshold.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "explicit requirement",
+          "finding": "Full foreign evaluation required; conditional/exceptional approvals and certain cases needing more stringent local assessment excluded.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "Foreign approval within three years; fixed 18 months meets the age condition.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same product quality, sites, process, API and intended use; specified packaging and justified site differences allowed.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Complete unredacted/unedited assessment with Q&A and annexes normally required. NPRA may accept public redacted reports supplemented with comments and Q&A.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "discretionary/conditional",
+          "finding": "Normally full unredacted material, but an express public-report exception is retained.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "discretionary/conditional",
+          "finding": "NPRA may accept public redacted material with relevant comments known to product owner/PRH and Q&A. Acceptance is discretionary.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "public_report_sufficiency": {
+          "state": "discretionary/conditional",
+          "finding": "Public reports normally unacceptable, but a qualified express exception applies. Public-only sufficiency is conditional, not proved or categorically rejected.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "PIC/S GMP and ASEAN stability requirements: six months data at submission and 12 months real-time stability on registration, as specified.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Limited independent local assessment and national DCA decision retained.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Abbreviated 90 working days; ASEAN verification 30 working days. Screening and applicant correspondence excluded; response-cycle/time limits apply.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "NPRA/DCA may request support, reject discrepancies or revert to standard evaluation timeline.",
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MYS-Q01",
+            "MYS-Q02",
+            "MYS-CONTEXT-1",
+            "MYS-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "MYS-Q01",
+          "iso3": "MYS",
+          "event_id": "MYS_023",
+          "document_id": "a2fc5a24c3cae68ef19e",
+          "source_id": "af142b34eded7ced",
+          "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+          "raw_sha256": "cf93d3f263bdcbc76bee7eb8e7fa08c6d401bd98d2e219c0533bbe992f882aa3",
+          "text_sha256": "54fa520abb681072884ea76a080936f86a638f598320556714fa089d089ea42c",
+          "start_offset": 17374,
+          "end_offset": 19430,
+          "pdf_page": 11,
+          "verbatim_extracted_text": "The final decision for a product to be considered via FRP is subject to NPRA discretion. NPRA may \ndecide based on the eligibility criteria stated in this guideline, which may include risk-benefit \nassessment, country priorities, public health needs, and other reasons or opportunities for reliance. \n \n \n \n \n \n \n \n\n\nPAGE 12\n \n \n3 \n \n \n \n1.4 \n Review Pathways \n \nThe following review pathways will be used to assess products eligible to be submitted via FRP: \n  \ni) \nAbbreviated review: A limited independent assessment of specific parts of the dossier, or \nsubmission for suitability of use under local conditions and regulatory requirements, while \nrelying on prior assessment and inspection outcomes from a reference authority or trusted \ninstitution to inform the local decision. \nOR \n \nii) \nVerification review: Review of the sameness of the product dossier to ensure that the medical \nproduct is the same as the one that has been assessed by ASEAN Joint Assessment. \n \nBoth review pathways apply to products approved by either of the following procedures or regulatory \nagencies:  \n \n \nAbbreviated Review  \n \ni) \nWHO Collaborative Registration Procedure (CRP)* \na) Products authorised by WHO Stringent Regulatory Authorities (SRAs)/ \nWHO Listed Authorities (WLA) \nb) WHO prequalified medicines and vaccines \nii) \nProducts approved by any of the following regulatory agencies** \n \na) European Medicines Agency (EMA)  \nb) Health Canada  \nc) Pharmaceuticals and Medical Devices Agency (PMDA), Japan  \nd) Swissmedic, Switzerland  \ne) Therapeutic Goods Administration (TGA), Australia  \nf) United Kingdom Medicines and Healthcare products Regulatory Agency (UK MHRA) \ng) United States Food and Drug Administration (US FDA)  \n \n \nVerification Review  \ni) \nASEAN Joint Assessment (JA) procedure* \n \n*Registration applications submitted to the NPRA under the FRP pathway shall be deemed acceptable, \nirrespective of the NPRA's non-participation in the WHO CRP or the ASEAN JA evaluation. \n**at least one agency approval or more \n \n \n \n \n \n \n \n\n\nPAGE 13\n \n \n4",
+          "display_text": "The final decision for a product to be considered via FRP is subject to NPRA discretion. NPRA may decide based on the eligibility criteria stated in this guideline, which may include risk-benefit assessment, country priorities, public health needs, and other reasons or opportunities for reliance. PAGE 12 3 1.4 Review Pathways The following review pathways will be used to assess products eligible to be submitted via FRP: i) Abbreviated review: A limited independent assessment of specific parts of the dossier, or submission for suitability of use under local conditions and regulatory requirements, while relying on prior assessment and inspection outcomes from a reference authority or trusted institution to inform the local decision. OR ii) Verification review: Review of the sameness of the product dossier to ensure that the medical product is the same as the one that has been assessed by ASEAN Joint Assessment. Both review pathways apply to products approved by either of the following procedures or regulatory agencies: Abbreviated Review i) WHO Collaborative Registration Procedure (CRP)* a) Products authorised by WHO Stringent Regulatory Authorities (SRAs)/ WHO Listed Authorities (WLA) b) WHO prequalified medicines and vaccines ii) Products approved by any of the following regulatory agencies** a) European Medicines Agency (EMA) b) Health Canada c) Pharmaceuticals and Medical Devices Agency (PMDA), Japan d) Swissmedic, Switzerland e) Therapeutic Goods Administration (TGA), Australia f) United Kingdom Medicines and Healthcare products Regulatory Agency (UK MHRA) g) United States Food and Drug Administration (US FDA) Verification Review i) ASEAN Joint Assessment (JA) procedure* *Registration applications submitted to the NPRA under the FRP pathway shall be deemed acceptable, irrespective of the NPRA's non-participation in the WHO CRP or the ASEAN JA evaluation. **at least one agency approval or more PAGE 13 4",
+          "feature_tags": [
+            "discretion",
+            "local_evidence",
+            "sameness",
+            "scope_limit"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English guideline within Malay directive package",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MYS-Q02",
+          "iso3": "MYS",
+          "event_id": "MYS_023",
+          "document_id": "a2fc5a24c3cae68ef19e",
+          "source_id": "af142b34eded7ced",
+          "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+          "raw_sha256": "cf93d3f263bdcbc76bee7eb8e7fa08c6d401bd98d2e219c0533bbe992f882aa3",
+          "text_sha256": "54fa520abb681072884ea76a080936f86a638f598320556714fa089d089ea42c",
+          "start_offset": 21066,
+          "end_offset": 22316,
+          "pdf_page": 13,
+          "verbatim_extracted_text": "a) The application must be submitted to NPRA via QUEST system within three (3) years \nfrom the date of approval by the chosen reference drug regulatory agency.  \n \nb) The PRH is required to submit a declaration statement as in Annex 1 to indicate that the \nassessment report, list of Question & Answer (Q & A) and all other relevant documents \nprovided are authentic.       \n \nc) Manufacturing facilities have been inspected by any Pharmaceutical Inspection Co-\noperation Scheme (PIC/S) member and have valid certification. \n \nd) All aspects of the drug substance and drug product’s quality, including but not limited to \nthe formulation, manufacturing process, controls, site(s), release and shelf-life \nspecifications, primary packaging and active pharmaceutical ingredient(s) source must \nbe identical to that currently approved by the chosen reference drug regulatory agency \nat the time of submission. However, a different type of the container closure system (e.g. \nAlu/Alu blister vs. HDPE bottle) and pack size may be proposed to meet ASEAN stability \nrequirements (if applicable). Any difference in the manufacturing site of the drug product \nor a difference in brand name, will be considered if it is clearly justified. \n \n \n\n\nPAGE 14\n \n \n5",
+          "display_text": "a) The application must be submitted to NPRA via QUEST system within three (3) years from the date of approval by the chosen reference drug regulatory agency. b) The PRH is required to submit a declaration statement as in Annex 1 to indicate that the assessment report, list of Question & Answer (Q & A) and all other relevant documents provided are authentic. c) Manufacturing facilities have been inspected by any Pharmaceutical Inspection Co- operation Scheme (PIC/S) member and have valid certification. d) All aspects of the drug substance and drug product’s quality, including but not limited to the formulation, manufacturing process, controls, site(s), release and shelf-life specifications, primary packaging and active pharmaceutical ingredient(s) source must be identical to that currently approved by the chosen reference drug regulatory agency at the time of submission. However, a different type of the container closure system (e.g. Alu/Alu blister vs. HDPE bottle) and pack size may be proposed to meet ASEAN stability requirements (if applicable). Any difference in the manufacturing site of the drug product or a difference in brand name, will be considered if it is clearly justified. PAGE 14 5",
+          "feature_tags": [
+            "approval_age",
+            "sameness",
+            "reports",
+            "local_evidence"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English guideline within Malay directive package",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MYS-CONTEXT-1",
+          "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+          "raw_sha256": "cf93d3f263bdcbc76bee7eb8e7fa08c6d401bd98d2e219c0533bbe992f882aa3",
+          "text_sha256": "54fa520abb681072884ea76a080936f86a638f598320556714fa089d089ea42c",
+          "start_offset": 16624,
+          "end_offset": 23316,
+          "verbatim_extracted_text": "re efficient review process and ultimately \nearly access to pharmaceutical products in the market. \n \n \n1.2   Objectives  \n \nThis guidance document is intended to provide a transparent and consistent procedure in the \nutilization of the reliance approach. \n \nThe guideline describes the procedures, requirements for submitting the application to register a \nproduct via this pathway and serves as a supplementary document to Drug Registration \nGuidance Document (DRGD). The applicant should refer to both documents before completing \nproduct registration application via QUEST system.  \n \n \n1.3   Scope \n \nThe scope of this guideline applies to new drug products, generic medicines and biologics including \ncell and gene therapy products (CGTPs). \n \nThe final decision for a product to be considered via FRP is subject to NPRA discretion. NPRA may \ndecide based on the eligibility criteria stated in this guideline, which may include risk-benefit \nassessment, country priorities, public health needs, and other reasons or opportunities for reliance. \n \n \n \n \n \n \n \n\n\nPAGE 12\n \n \n3 \n \n \n \n1.4 \n Review Pathways \n \nThe following review pathways will be used to assess products eligible to be submitted via FRP: \n  \ni) \nAbbreviated review: A limited independent assessment of specific parts of the dossier, or \nsubmission for suitability of use under local conditions and regulatory requirements, while \nrelying on prior assessment and inspection outcomes from a reference authority or trusted \ninstitution to inform the local decision. \nOR \n \nii) \nVerification review: Review of the sameness of the product dossier to ensure that the medical \nproduct is the same as the one that has been assessed by ASEAN Joint Assessment. \n \nBoth review pathways apply to products approved by either of the following procedures or regulatory \nagencies:  \n \n \nAbbreviated Review  \n \ni) \nWHO Collaborative Registration Procedure (CRP)* \na) Products authorised by WHO Stringent Regulatory Authorities (SRAs)/ \nWHO Listed Authorities (WLA) \nb) WHO prequalified medicines and vaccines \nii) \nProducts approved by any of the following regulatory agencies** \n \na) European Medicines Agency (EMA)  \nb) Health Canada  \nc) Pharmaceuticals and Medical Devices Agency (PMDA), Japan  \nd) Swissmedic, Switzerland  \ne) Therapeutic Goods Administration (TGA), Australia  \nf) United Kingdom Medicines and Healthcare products Regulatory Agency (UK MHRA) \ng) United States Food and Drug Administration (US FDA)  \n \n \nVerification Review  \ni) \nASEAN Joint Assessment (JA) procedure* \n \n*Registration applications submitted to the NPRA under the FRP pathway shall be deemed acceptable, \nirrespective of the NPRA's non-participation in the WHO CRP or the ASEAN JA evaluation. \n**at least one agency approval or more \n \n \n \n \n \n \n \n\n\nPAGE 13\n \n \n4 \n \n2. ELIGIBILITY CRITERIA: \n \n2.1   Abbreviated Review  \n \n2.1.1 WHO Collaborative Registration Procedure (CRP) \n \na) The application must be submitted via QUEST system and passed the screening stage.  \n \nb) Manufacturing facilities have been inspected by any Pharmaceutical Inspection Co-\noperation Scheme (PIC/S) member with valid certification. For WHO pre-qualified \nmedicines, valid Good Manufacturing Practice (GMP) evidence issued by WHO is \nacceptable. \n \nc) All aspects of the drug substance and drug product’s quality, including but not limited to \nthe formulation, manufacturing process, controls, site(s), release and shelf-life \nspecifications, primary packaging and active pharmaceutical ingredient(s) source must \nbe identical to that currently approved by WHO CRP at the time of submission. However, \na different type of the container closure system (e.g. Alu/Alu blister vs. HDPE bottle) and \npack size may be proposed to meet ASEAN stability requirements (if applicable). Any \ndifference in the manufacturing site of the drug product or a difference in brand name, \nwill be considered if it is clearly justified. \n \nd) If a Drug Master File (DMF) is submitted, then a separate declaration letter issued by the \nProduct Registration Holder (PRH) must also be provided to state that the DMF submitted \nto NPRA is identical to that submitted to WHO CRP. DMF is not applicable for Biologics. \nInstead, an entire drug substance dossier will be expected.  \n \n2.1.2 Products approved by the EMA and/or Health Canada and/or PMDA, Japan and/or  \nSwissmedic, Switzerland and/or TGA, Australia and/or UK MHRA, and/or US FDA \n \na) The application must be submitted to NPRA via QUEST system within three (3) years \nfrom the date of approval by the chosen reference drug regulatory agency.  \n \nb) The PRH is required to submit a declaration statement as in Annex 1 to indicate that the \nassessment report, list of Question & Answer (Q & A) and all other relevant documents \nprovided are authentic.       \n \nc) Manufacturing facilities have been inspected by any Pharmaceutical Inspection Co-\noperation Scheme (PIC/S) member and have valid certification. \n \nd) All aspects of the drug substance and drug product’s quality, including but not limited to \nthe formulation, manufacturing process, controls, site(s), release and shelf-life \nspecifications, primary packaging and active pharmaceutical ingredient(s) source must \nbe identical to that currently approved by the chosen reference drug regulatory agency \nat the time of submission. However, a different type of the container closure system (e.g. \nAlu/Alu blister vs. HDPE bottle) and pack size may be proposed to meet ASEAN stability \nrequirements (if applicable). Any difference in the manufacturing site of the drug product \nor a difference in brand name, will be considered if it is clearly justified. \n \n \n\n\nPAGE 14\n \n \n5 \n \n \ne) If a Drug Master File (DMF) is submitted (to specify DMF version number or ID number), \nthen a separate declaration letter issued by the PRH must also be provided to state that \nthe DMF submitted to NPRA is identical to that submitted to the chosen reference drug \nregulatory agency. DMF is not applicable for Biologics. Instead, an entire drug substance \ndossier will be expected.  \n \nf) The product and its intended use (indications, dosage information, and patient groups) \nhave not been rejected, withdrawn, suspended, approved via appeal process, or pending \ndeferral by any reference drug regulatory agency for quality, safety and/or efficacy \nreasons. \n \ng) The proposed Package Insert (PI)/ Patient Information Leaflet (PIL) information should \nbe identical to that approved by the reference drug regulatory agency (with the exception \nof country-specific information). \n \nh) The proposed indication(s), dosing regimen(s), patient group(s) and/or direction(s) for \nuse should be the ",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "MYS-CTX-1",
+          "source_url": "https://www.npra.gov.my/easyarticles/images/users/1051/Direktif--Guideline-FRP-Nov-2023.pdf",
+          "raw_sha256": "cf93d3f263bdcbc76bee7eb8e7fa08c6d401bd98d2e219c0533bbe992f882aa3",
+          "text_sha256": "54fa520abb681072884ea76a080936f86a638f598320556714fa089d089ea42c",
+          "start_offset": 23316,
+          "end_offset": 34500,
+          "verbatim_extracted_text": "most stringent among those approved by the reference drug regulatory \nagencies. In the event that the chosen drug regulatory agency does not bear the most \nstringent indication(s), dosing regimen(s), patient group(s) and/or direction(s) of use \namong those approved by the reference drug regulatory agencies, a supplemental clinical \nassessment report from the reference drug regulatory agency that approved the most \nstringent indication(s), dosing regimen(s), patient group(s) and/or direction(s) of use is \nrequired. Reports from the public domain are acceptable. Specifically for vaccines, \ndifferences in dosage regimen are allowed when the regimen is changed to meet the local \npractices, such as the National Immunisation Programmes. \n \ni) Products which are approved/reviewed via a full evaluation process by the reference drug \nregulatory agency will be considered for this pathway. However, a product that has been \napproved under exceptional circumstances such as Conditional marketing authorisation \ne.g. the present state of scientific knowledge is insufficient to provide comprehensive \ninformation) or equivalent approval process is not eligible for this pathway. Additionally, \nproducts requiring a more stringent assessment as a result of differences in local disease \npatterns and/or medical practices (e.g. some anti-infectives) will not qualify for the \nfacilitated registration pathway. \n \n \n2.2   Verification Review \n \n2.2.1 ASEAN Joint Assessment (JA) procedure \n \nFor ASEAN JA, please refer to ASEAN Joint Assessment Procedure for Pharmaceutical   \nProducts. \n3. DOCUMENTS REQUIRED:   \n \nThe PRH is required to notify NPRA by submitting a formal, written request for a facilitated \nregistration pathway and attaching the letter of intent under Section E14 (Other Supporting \nDocuments) of the QUEST system. PRH is encouraged to contact the relevant section (according to \nproduct category) in NPRA prior to the submission of an application if questions arise or clarification \nis required. \n\n\nPAGE 15\n \n \n6 \n \nPRH should also ensure that documents related to country specific requirements are available prior \nto registration submission. The requirements include but not limited to administrative data documents \nStability study should comply with the ASEAN stability guideline. A minimum of 6 months real time \nand accelerated stability data respectively may be accepted at the point of submission. However, \nupon registration a minimum of 12 months for real time stability data should be provided. For generic \nmedicines, the comparator product used for bioequivalence (BE) study should be similar to the \nMalaysia Comparator Product. If a BE study submitted to NPRA via the FRP pathway was conducted \nat a BE Centre not listed in the NPRA compliance programme or out of the NPRA validity date, the \nBE Study Desktop Audit application is deemed unnecessary. Evidence of the SRA’s or WLA’s \nassessment of the BE Study is required during the evaluation of the application. \n \n \n3.1   Abbreviated Review  \n \n3.1.1 WHO Collaborative Registration Procedure (CRP) \n \n3.1.1.1 Stringent Regulatory Authority CRP (SRA/WLA CRP) \n \n \na) A complete dossier organised in line with the globally harmonized common technical \ndocument (CTD) format should be submitted via the QUEST system to maximize use of \ndata already submitted to reference SRA/WLA. \n \nb) In the case of generic medicines, the technical part of the dossier is equivalent to the \nWHO PQP prequalification dossier requirements. \n \nc) In addition to technical data the following documents should be provided: \n \ni) expression of interest to take part in this procedure (Appendix 7) \nii) valid assessment and inspection reports issued by reference SRA/WLAs;   \niii) quality information summary (QIS)-SRA(CRP) (Appendix 4); \niv) a declaration assuring the identity of the product with the medicine approved by the \nreference SRA/WLA, consent to communicate freely with the reference SRA/WLA \non product-related matters, and additional commitments as specified in Appendix 7;  \nv) a declaration confirming same site and source including specific block(s) or unit(s) \nfor active pharmaceutical ingredient (API), and finished pharmaceutical product \n(FPP) manufacturer;  \n \nd) All the appendices mentioned in d (i, iii and iv) and the detailed information can be \nobtained from the Annex 11: Collaborative procedure in the assessment and accelerated \nnational registration of pharmaceutical products and vaccines approved by stringent \nregulatory authorities (WHO Expert Committee on Specifications for Pharmaceutical \nPreparations- Fifty-second report). \n \ne) Process flow: Please refer to Annex 3a \n \n \n \n\n\nPAGE 16\n \n \n7 \n \n3.1.1.2 WHO Prequalification (PQ CRP)  \na) A complete dossier closely follows the format in which dossiers are submitted to \nWHO/PQP, i.e. the common technical document (CTD) format should be submitted via \nthe QUEST system. \n \nb) The technical part of the dossier is updated to reflect the data as approved by WHO/PQP \nduring the initial prequalification procedure, and consecutive variation procedures and \nrequalification (where applicable).  \n \nc) A dossier FRP checklist as stated in Annex 2a for Generic/Hybrid and 2b for New \nChemical Entity/Biologic. \n \nd) Other than the technical data the following document should be provided: \n \nExpression of interest to take part in this procedure (Appendix 3)  \n \ne) Appendix 3 mentioned above can be obtained from the Annex 8: Collaborative procedure \nbetween the World Health Organization (WHO) Prequalification Team and national \nregulatory authorities in the assessment and accelerated national registration of WHO-\nprequalified pharmaceutical products and vaccines. (WHO Expert Committee on \nSpecifications for Pharmaceutical Preparations- Fiftieth report). Other information about \nthe WHO PQ CRP can also be found in the same Annex. \n \nf) Process flow: Please refer to Annex 3b. \n \n3.1.2 Products approved by the EMA and/or Health Canada and/or PMDA, Japan and/or \nSwissmedic, Switzerland and/or TGA, Australia and/or UK MHRA, and/or US FDA  \n \n3.1.2.1 General technical requirements (to be submitted under the relevant field/section of the  \nQUEST system): \n \na) Complete Common Technical Document (CTD) data requirements. \n \nb) Complete assessment report including assessment on the Q&A documents between the \nPRH/Marketing Authorisation Holder and reference drug regulatory agency and all \nannexes (in English - to be submitted under section E14 of the QUEST system): \n \ni) Assessment reports and/or documents pertaining to post-approval variations, if \napplicable.  \n \nii) The submitted assessment reports must be unredacted or unedited, and should \ninclude details of imposed licensing conditions, final product labelling, chemistry and \nclinical review, and other information in relation to the product’s approval. Reports \nobtained from the public domain are deemed unacceptable. However, NPRA may \nconsider accepting public assessment reports with redacted information \n(supplemented in the same document with comments on the redacted information, \nwhichever is known to PRH/product owner) and Q&A.  \n\n\nPAGE 17\n \n \n8 \n \n \nc)  A dossier FRP checklist as stated in Annex 2a for Generic/Hybrid and 2b for New \nChemical Entity/Biologic. \n \n3.1.2.2 Additional administrative documents required (to be submitted under section E14 of  \nthe QUEST system). \n \na) Proof of approval from the chosen reference drug regulatory agency is required. Proof of \napproval must come in the form of:  \ni) an official approval letter, or equivalent document (e.g. Certificate of Pharmaceutical \nProduct; CPP), which certifies the registration status of the drug product. \nii) the Summary of Product Characteristics (SPC), PI and/or PIL approved by the \nreference drug regulatory agency that issued the approval letter.  \n \nb) A declaration letter issued by the product owner/PRH stating that:  \n \ni) all aspects of the drug substance’s and drug product’s quality and intended \ndirection(s) for use, including but not limited to the formulation, manufacturing \nprocess, controls, site(s), release and shelf life specifications, primary packaging and \nactive pharmaceutical ingredient(s) source must be identical to that currently \napproved by the chosen reference drug regulatory agency at the time of submission \n(including to the specification reference number, version and effective date). \nHowever, a different type of the container closure system (e.g. Alu/Alu blister vs. \nHDPE bottle) and pack size may be proposed to meet ASEAN stability requirements \n(if applicable); any difference in manufacturing site of drug product will be considered \nif it is clearly justified.  \nii) the product and its intended use (indications, dosage information, and patient \ngroups) have not been rejected, withdrawn, suspended, approved via appeal \nprocess, or pending deferral by any reference drug regulatory agency for quality, \nsafety and/or efficacy reasons.  \niii) the provided DMF (to specify the DMF version number or ID number) is the same as \nthat submitted to the reference drug regulatory agency.  \niv) there is a commitment to reference drug regulatory agency (if any). \n \nc) Process flow: Please refer to Annex 3c \n \n \n \n \n \n \n \n \n \n \n \n\n\nPAGE 18\n \n \n9 \n \n3.2    Verification review \n \n3.2.1 ASEAN Joint Assessment (JA) Procedure \n \n3.2.1.1 Please refer to ‘ASEAN Joint Assessment Procedure for Pharmaceutical Products’. \n3.2.1. 2 Process flow: Please refer to Annex 3d. \n \n \n4. TIMELINE FOR REGISTRATION PROCESS \nTypes of Review \n \nTimeline (working days) \nAbbreviated Review \n \nWHO CRP: \n \nProducts authorized by WHO SRAs/WLA \nWHO prequalified medicines, vaccines \n \n \n \n \n \n \n90* \n \nProducts approved by the EMA and/or Health Canada \nand/or PMDA, Japan and/or Swissmedic, Switzerland \nand/or TGA, Australia and/or UK MHRA, and/or \nthe US FDA \n \nVerification Review \n \nASEAN Joint Assessment \n \n \n30* \n \n        *Screening and correspondence (applicant time) are not included in the timeline. \n       The PRH is allowed to correspond a maximum of 3 times correspondence within the total of 60    \n       working days. NPRA will change the FRP evaluation timeline to the standard evaluation timeline   \n       if the PRH fails to correspond within the stipulated timeline. \n \n \n \n \nNOTE \ni) \nNPRA reserves the right to request additional supporting documents where \nit is deemed appropriate. \nii) \nProducts assessed under this facilitated pathway will not be eligible for \npriority review. \niii) \nDuring the evaluation process, the NPRA has the right to reject the \napplication if discrepancies are identified between the data provided and \nthe stated declaration. \n \n\n\nPAGE 19\n \n \n10 \n \n5. DRUG CONTROL AUTHORITY RIGHTS  \n \nNotwithstanding the requirements stipulated in this guideline, DCA reserves the rights to use its own \ndiscretion whichever it deems fit. \n \n6. REFERENCES \n \nAdapted from the:  \n \n1. WHO Good Regulatory Practices, 2021 \n \na) Annex 8_Collaborative procedure between the World Health Organization (WHO) Prequalification \nTeam and national regulatory authorities in the assessment and accelerated national registrati",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

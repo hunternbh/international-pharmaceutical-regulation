@@ -159,5 +159,70 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "LBN",
+    "country": "Lebanon",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "implementation_description",
+    "fixed_case_scope_status": "official_explanation_not_complete_route",
+    "finding": "The report describes local CTD Module3/5 expert review and the technical committee’s final decision. It does not supply a complete current rule for accepting FDA/EC assessment work.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The report describes local CTD Module3/5 expert review and the technical committee’s final decision. It does not supply a complete current rule for accepting FDA/EC assessment work."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The report describes local CTD Module3/5 expert review and the technical committee’s final decision. It does not supply a complete current rule for accepting FDA/EC assessment work."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The report describes local CTD Module3/5 expert review and the technical committee’s final decision. It does not supply a complete current rule for accepting FDA/EC assessment work."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The report describes local CTD Module3/5 expert review and the technical committee’s final decision. It does not supply a complete current rule for accepting FDA/EC assessment work."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The report describes local CTD Module3/5 expert review and the technical committee’s final decision. It does not supply a complete current rule for accepting FDA/EC assessment work."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "LBN-Q01",
+        "source_url": "https://moph.gov.lb/userfiles/files/HealthCareSystem/Pharmaceuticals/QualityAssuranceofPharmaceuticalProducts/QAPPP%20The%20Way%20forward.pdf",
+        "raw_sha256": "3f62ad5ca39f407576f68b1801f7fbfbba51c50443c8b0c8d7cad0868a064751",
+        "text_sha256": "0a3aade76e0bebcb089378c5da557dd28b324163333456be24254927ba81bc40",
+        "start_offset": 21000,
+        "end_offset": 21229,
+        "verbatim_extracted_text": "To do so, a MR No.1634/1/2013 [4] was issued to seek for experts in drug registra-\ntion selected among specialists and academicians from diﬀerent Lebanese \nuniversities to study and evaluate Module 3 and Module 5 of drug CTD ﬁle.",
+        "pdf_page": 21,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "official_policy_explanation",
+        "version_alignment": "QAPPP programme report 2020, pages 20–22",
+        "translation_review": null
+      },
+      {
+        "clause_id": "LBN-Q02",
+        "source_url": "https://moph.gov.lb/userfiles/files/HealthCareSystem/Pharmaceuticals/QualityAssuranceofPharmaceuticalProducts/QAPPP%20The%20Way%20forward.pdf",
+        "raw_sha256": "3f62ad5ca39f407576f68b1801f7fbfbba51c50443c8b0c8d7cad0868a064751",
+        "text_sha256": "0a3aade76e0bebcb089378c5da557dd28b324163333456be24254927ba81bc40",
+        "start_offset": 21392,
+        "end_offset": 21857,
+        "verbatim_extracted_text": "In 2014, two Sub Committees (SC) of experts were formed and started oﬃcially to \nevaluate, review ﬁles and submit a technical reports to the TC.  While the two sub \ncommittees act as consultants, the TC is the decision maker regarding the grant \nof MA.  Moreover, other activities were attributed to the SC. In fact, to improve the \nreview and the evaluation of Module 3 and Module 5 of the Drug Technical ﬁle, \nthe SC experts drafted the following four Guidelines:",
+        "pdf_page": 21,
+        "language": "en",
+        "language_status": "Official English source",
+        "evidence_tier": "official_policy_explanation",
+        "version_alignment": "QAPPP programme report 2020, pages 20–22",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Registration-system quality assurance and historical generic re-evaluation; not a retrieved recognition statute",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

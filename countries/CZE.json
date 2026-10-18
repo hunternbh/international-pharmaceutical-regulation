@@ -278,5 +278,702 @@
       "a48da3482f8a421b3c500ca4af46b322c383b0d16282b9fba5da658519cc468b",
       "d5ed2e4d75507acc9b5bcc7ebed7d6a65881aed3cfcec4ceeca334fa0c28a68c"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "CZE",
+    "country": "Czechia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "EU/EEA mutual recognition and decentralised assessment",
+    "source_url": "https://sukl.gov.cz/uploads/Legislativa/Zakon_o_lecivech_EN_corr_clean2.pdf",
+    "document_id": "F250_8699d9f752cc30a0a77e_9eb0c9218822",
+    "genre": "Explicitly unofficial law translation",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Medicines Act English translation section 41; human MRP/DCP provisions separated from veterinary references.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "outside pathway scope",
+        "finding": "Selected MRP requires a national EEA reference Member State authorisation; FDA and an EC centralised authorisation are not that national RMS approval.",
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same/identical dossier submitted to RMS and concerned states under MRP; local administrative documents remain.",
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "outside pathway scope",
+        "finding": "Full/public report contrast is not decisive because national RMS prior approval is missing on fixed facts.",
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "explicit requirement",
+        "finding": "RMS scientific assessment is circulated/shared for national recognition; not a manufacturer public-report-only shortcut.",
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Member States assess/recognise RMS conclusions; serious-public-health-risk objections and coordination/referral may remain.",
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "RMS update 90 days; DCP draft 120; CMS approval 90 and national decision 30 days under section 41.",
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected MRP pathway on fixed facts",
+        "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "CZE-WEB01",
+          "CZE-CONTEXT-1",
+          "CZE-SHARED-EC"
+        ],
+        "status": "outside selected MRP pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "shared European authorization basis",
+      "finding": "Cases A–D already contain a European Commission centralized authorization with EU/EEA territorial validity. This is a shared authorization basis, separate from the selected national procedure and any local formalities. FDA-only case E lacks that EC basis; no claim that every other national route is closed.",
+      "system_id": "EU-CENTRAL",
+      "cases_with_shared_basis": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "national_context": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "CZE-SHARED-EC"
+        ]
+      },
+      "evidence_ids": [
+        "EU-CENTRAL-Q01",
+        "EU-APPLICABILITY-Q01"
+      ]
+    },
+    "evidence": [
+      {
+        "clause_id": "CZE-WEB01",
+        "iso3": "CZE",
+        "event_id": null,
+        "document_id": "F250_8699d9f752cc30a0a77e_9eb0c9218822",
+        "source_id": "F250_8699d9f752cc30a0a77e",
+        "source_url": "https://sukl.gov.cz/uploads/Legislativa/Zakon_o_lecivech_EN_corr_clean2.pdf",
+        "raw_sha256": "9eb0c921882234557c8c3c58779f545552204759d02cfb25c7ead168141bdf99",
+        "text_sha256": "1dd684cebf21fda1da8d812d2de2f622a7e02c5ebdf72f29037fdcb3d1ed941d",
+        "start_offset": 192367,
+        "end_offset": 197124,
+        "pdf_page": 55,
+        "verbatim_extracted_text": "Section 41 \n\n\nPAGE 56\n \n(1) For the purposes of obtaining a marketing authorisation of a medicinal product in several \nMember States, of which the Czech Republic is one, the applicant for a marketing \nauthorisation shall submit to the Institute or to the Veterinary Institute and to the competent \nauthorities in these Member States an application for marketing authorisation based on an \nidentical marketing authorisation dossier. The marketing authorisation dossier shall contain \ndata and documents referred to in Section 26. The applicant shall ask the competent authority \nof one of the Member States to act as the authority of a Reference Member State and to \nprepare an assessment report for the medicinal product as per paragraph 2 or 3; where \nveterinary medicinal products are concerned, the assessment report may also contain an \nevaluation for the purposes of extending the 10-year period referred to in Section 27, \nparagraph 2 (b) or the period referred to in Section 27, paragraph 6 (b). If the applicant \nrequires that the Czech Republic acts as the Reference Member State, he or she shall apply \ntherefor with the Institute or the Veterinary Institute which, as well as the applicant, shall \nproceed in compliance with the guidance issued by the group of representatives of the \ncompetent authorities of the Member States coordinating this marketing authorisation \nprocedure (hereinafter referred to as the “coordination group”).  \n \n(2) If, at the time of submitting the application for marketing authorisation, the medicinal \nproduct has already been authorised in another Member State, the Institute or the Veterinary \nInstitute shall recognise the marketing authorisation granted by the competent authority of the \nReference Member State. For this purpose, the marketing authorisation holder shall apply \nwith the competent authority of the Reference Member State either for the preparation of the \nassessment report for the medicinal product or, if need be, for the update of the existing \nassessment report. If the Reference Member State is the Czech Republic and the Institute or \nthe Veterinary Institute acts as the competent authority of the Reference Member State, the \nconcerned institute shall prepare or update the assessment report for the medicinal product \nwithin 90 days of receipt of the complete application asking the concerned institute to act as \nthe authority of the Reference Member State. The assessment report for the medicinal product \ntogether with the approved summary of the product characteristics, labelling and package \nleaflet shall, in such a case, be sent by the Institute or the Veterinary Institute to the competent \nauthorities of the Member States in which the application referred to in paragraph 1 has been \nlodged, and to the applicant. \n \n(3) If, at the time of submitting the application referred to in paragraph 1, the medicinal \nproduct has not been authorised in any of the Member States, the applicant for marketing \nauthorisation shall apply with the Institute or the Veterinary Institute, if the Reference \nMember State is the Czech Republic, for the preparation of the assessment report for the \nmedicinal product, proposed summary of the product characteristics, proposed labelling, and \nproposed package leaflet. The Institute or the Veterinary Institute shall prepare proposals of \nthe said documents within 120 days of the receipt of the complete application for marketing \nauthorisation and shall send them to the competent authorities of the Member States, in which \nthe application referred to in paragraph 1 has been lodged, and to the applicant in electronic \nform. \n \n(4) If the Czech Republic is not the Reference Member State, the Institute or the Veterinary \nInstitute shall, within 90 days of receipt of the assessment report for the medicinal product, \nthe summary of the product characteristics, labelling, and package leaflet referred to in \nparagraphs 2 and 3, provide to the competent authority of the Reference Member State its \nelectronic approval of these documents. If the Czech Republic is the Reference Member State, \n\n\nPAGE 57\nthe Institute or the Veterinary Institute shall record the approvals of all competent authorities \nof the Member States, in which the application has been lodged, conclude the procedure and \ninform the applicant to this effect. If an application referred to in paragraph 1 has been \nsubmitted thereto, the Institute or the Veterinary Institute shall, within 30 days of achieving a \nconsensus of the competent authorities of the Member States,  issue the marketing \nauthorisation consistent with the approved assessment report for the medicinal product, the \nsummary of the product characteristics, labelling, and package leaflet.  \n \n",
+        "display_text": "Section 41 PAGE 56 (1) For the purposes of obtaining a marketing authorisation of a medicinal product in several Member States, of which the Czech Republic is one, the applicant for a marketing authorisation shall submit to the Institute or to the Veterinary Institute and to the competent authorities in these Member States an application for marketing authorisation based on an identical marketing authorisation dossier. The marketing authorisation dossier shall contain data and documents referred to in Section 26. The applicant shall ask the competent authority of one of the Member States to act as the authority of a Reference Member State and to prepare an assessment report for the medicinal product as per paragraph 2 or 3; where veterinary medicinal products are concerned, the assessment report may also contain an evaluation for the purposes of extending the 10-year period referred to in Section 27, paragraph 2 (b) or the period referred to in Section 27, paragraph 6 (b). If the applicant requires that the Czech Republic acts as the Reference Member State, he or she shall apply therefor with the Institute or the Veterinary Institute which, as well as the applicant, shall proceed in compliance with the guidance issued by the group of representatives of the competent authorities of the Member States coordinating this marketing authorisation procedure (hereinafter referred to as the “coordination group”). (2) If, at the time of submitting the application for marketing authorisation, the medicinal product has already been authorised in another Member State, the Institute or the Veterinary Institute shall recognise the marketing authorisation granted by the competent authority of the Reference Member State. For this purpose, the marketing authorisation holder shall apply with the competent authority of the Reference Member State either for the preparation of the assessment report for the medicinal product or, if need be, for the update of the existing assessment report. If the Reference Member State is the Czech Republic and the Institute or the Veterinary Institute acts as the competent authority of the Reference Member State, the concerned institute shall prepare or update the assessment report for the medicinal product within 90 days of receipt of the complete application asking the concerned institute to act as the authority of the Reference Member State. The assessment report for the medicinal product together with the approved summary of the product characteristics, labelling and package leaflet shall, in such a case, be sent by the Institute or the Veterinary Institute to the competent authorities of the Member States in which the application referred to in paragraph 1 has been lodged, and to the applicant. (3) If, at the time of submitting the application referred to in paragraph 1, the medicinal product has not been authorised in any of the Member States, the applicant for marketing authorisation shall apply with the Institute or the Veterinary Institute, if the Reference Member State is the Czech Republic, for the preparation of the assessment report for the medicinal product, proposed summary of the product characteristics, proposed labelling, and proposed package leaflet. The Institute or the Veterinary Institute shall prepare proposals of the said documents within 120 days of the receipt of the complete application for marketing authorisation and shall send them to the competent authorities of the Member States, in which the application referred to in paragraph 1 has been lodged, and to the applicant in electronic form. (4) If the Czech Republic is not the Reference Member State, the Institute or the Veterinary Institute shall, within 90 days of receipt of the assessment report for the medicinal product, the summary of the product characteristics, labelling, and package leaflet referred to in paragraphs 2 and 3, provide to the competent authority of the Reference Member State its electronic approval of these documents. If the Czech Republic is the Reference Member State, PAGE 57 the Institute or the Veterinary Institute shall record the approvals of all competent authorities of the Member States, in which the application has been lodged, conclude the procedure and inform the applicant to this effect. If an application referred to in paragraph 1 has been submitted thereto, the Institute or the Veterinary Institute shall, within 30 days of achieving a consensus of the competent authorities of the Member States, issue the marketing authorisation consistent with the approved assessment report for the medicinal product, the summary of the product characteristics, labelling, and package leaflet.",
+        "feature_tags": [
+          "reports",
+          "sameness",
+          "scope_limit",
+          "decision_clock"
+        ],
+        "role": "Section 41(1)–(4), selected complete operative paragraphs",
+        "language": "en",
+        "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "Section 41 requires identical dossiers and specifies recognition of another Member State authorisation. The same section distinguishes an as-yet unapproved product under decentralised review, report periods and the subsequent national decision.",
+        "version_alignment": "Cover expressly labels the English text unofficial; only Czech wording binding. Act dated 6 December 2007; translation snapshot is not a completed historical series.",
+        "evidence_tier": "national_rule",
+        "section_article": "Section 41(1)–(4), selected complete operative paragraphs",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "CZE-CONTEXT-1",
+        "source_url": "https://sukl.gov.cz/uploads/Legislativa/Zakon_o_lecivech_EN_corr_clean2.pdf",
+        "raw_sha256": "9eb0c921882234557c8c3c58779f545552204759d02cfb25c7ead168141bdf99",
+        "text_sha256": "1dd684cebf21fda1da8d812d2de2f622a7e02c5ebdf72f29037fdcb3d1ed941d",
+        "start_offset": 191617,
+        "end_offset": 198124,
+        "verbatim_extracted_text": "th the use of the medicinal \nproduct;  \nb) which, if used incorrectly or in the case of an incorrect medical diagnosis, presents an \nincreased risk of occurrence of serious adverse reactions or adverse reactions which occur in \nman due to the use of the veterinary medicinal product;  \nc) the use of which requires special professional competence or the safe use of which requires \nspecialised technical equipment; or  \nd) which presents an increased risk of its possible abuse in the delivery of veterinary care with \na view to a breach of the rules established by veterinary care authorities in the sphere of \nprevention or combating animal infections, with regard to the abuse aimed at an increased \nutility of animals or other forms of abuse. \n \nSection 41 \n\n\nPAGE 56\n \n(1) For the purposes of obtaining a marketing authorisation of a medicinal product in several \nMember States, of which the Czech Republic is one, the applicant for a marketing \nauthorisation shall submit to the Institute or to the Veterinary Institute and to the competent \nauthorities in these Member States an application for marketing authorisation based on an \nidentical marketing authorisation dossier. The marketing authorisation dossier shall contain \ndata and documents referred to in Section 26. The applicant shall ask the competent authority \nof one of the Member States to act as the authority of a Reference Member State and to \nprepare an assessment report for the medicinal product as per paragraph 2 or 3; where \nveterinary medicinal products are concerned, the assessment report may also contain an \nevaluation for the purposes of extending the 10-year period referred to in Section 27, \nparagraph 2 (b) or the period referred to in Section 27, paragraph 6 (b). If the applicant \nrequires that the Czech Republic acts as the Reference Member State, he or she shall apply \ntherefor with the Institute or the Veterinary Institute which, as well as the applicant, shall \nproceed in compliance with the guidance issued by the group of representatives of the \ncompetent authorities of the Member States coordinating this marketing authorisation \nprocedure (hereinafter referred to as the “coordination group”).  \n \n(2) If, at the time of submitting the application for marketing authorisation, the medicinal \nproduct has already been authorised in another Member State, the Institute or the Veterinary \nInstitute shall recognise the marketing authorisation granted by the competent authority of the \nReference Member State. For this purpose, the marketing authorisation holder shall apply \nwith the competent authority of the Reference Member State either for the preparation of the \nassessment report for the medicinal product or, if need be, for the update of the existing \nassessment report. If the Reference Member State is the Czech Republic and the Institute or \nthe Veterinary Institute acts as the competent authority of the Reference Member State, the \nconcerned institute shall prepare or update the assessment report for the medicinal product \nwithin 90 days of receipt of the complete application asking the concerned institute to act as \nthe authority of the Reference Member State. The assessment report for the medicinal product \ntogether with the approved summary of the product characteristics, labelling and package \nleaflet shall, in such a case, be sent by the Institute or the Veterinary Institute to the competent \nauthorities of the Member States in which the application referred to in paragraph 1 has been \nlodged, and to the applicant. \n \n(3) If, at the time of submitting the application referred to in paragraph 1, the medicinal \nproduct has not been authorised in any of the Member States, the applicant for marketing \nauthorisation shall apply with the Institute or the Veterinary Institute, if the Reference \nMember State is the Czech Republic, for the preparation of the assessment report for the \nmedicinal product, proposed summary of the product characteristics, proposed labelling, and \nproposed package leaflet. The Institute or the Veterinary Institute shall prepare proposals of \nthe said documents within 120 days of the receipt of the complete application for marketing \nauthorisation and shall send them to the competent authorities of the Member States, in which \nthe application referred to in paragraph 1 has been lodged, and to the applicant in electronic \nform. \n \n(4) If the Czech Republic is not the Reference Member State, the Institute or the Veterinary \nInstitute shall, within 90 days of receipt of the assessment report for the medicinal product, \nthe summary of the product characteristics, labelling, and package leaflet referred to in \nparagraphs 2 and 3, provide to the competent authority of the Reference Member State its \nelectronic approval of these documents. If the Czech Republic is the Reference Member State, \n\n\nPAGE 57\nthe Institute or the Veterinary Institute shall record the approvals of all competent authorities \nof the Member States, in which the application has been lodged, conclude the procedure and \ninform the applicant to this effect. If an application referred to in paragraph 1 has been \nsubmitted thereto, the Institute or the Veterinary Institute shall, within 30 days of achieving a \nconsensus of the competent authorities of the Member States,  issue the marketing \nauthorisation consistent with the approved assessment report for the medicinal product, the \nsummary of the product characteristics, labelling, and package leaflet.  \n \n(5) If the Institute or the Veterinary Institute cannot within 90 days  issue its approval referred \nto in paragraph 4 regarding the assessment report for a medicinal product, the summary of the \nproduct characteristics, labelling, and package leaflet pursuant to paragraphs 2 and 3, if the \nCzech Republic is not the Reference Member State, for reasons of potential serious risk to \npublic health where a human medicinal product is concerned, or serious risk to the health of \npeople, animals or the environment where a veterinary medicinal product is concerned, it shall \nelectronically communicate a detailed rationale of its position to the competent authority of \nthe Reference Member State, to the competent authorities of the Member States  where the \napplication referred to in paragraph 1 has been submitted, and to the applicant. Issues in \nwhich opinions differ shall be forthwith presented to the coordination group. The \nrepresentative of the Institute or the Veterinary Institute shall,",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Cover expressly labels the English text unofficial; only Czech wording binding. Act dated 6 December 2007; translation snapshot is not a completed historical series."
+      },
+      {
+        "clause_id": "CZE-SHARED-EC",
+        "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+        "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+        "start_offset": 355,
+        "end_offset": 1134,
+        "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+        "language": "en",
+        "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+        "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+      },
+      {
+        "clause_id": "EU-CENTRAL-Q01",
+        "system_id": "EU-CENTRAL",
+        "source_id": "0b3315964acb207f",
+        "document_id": "945bb30cd2070cb5b062",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+        "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+        "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+        "start_offset": 37279,
+        "end_offset": 37840,
+        "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+        "evidence_tier": "shared_regional_rule",
+        "section_article": "Regulation 726/2004 Article 13(1)",
+        "language": "en",
+        "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      },
+      {
+        "clause_id": "EU-APPLICABILITY-Q01",
+        "system_id": "EU-APPLICABILITY",
+        "source_id": "f9abed41e180fac8",
+        "document_id": "3932f0ef3762373ceb24",
+        "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+        "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+        "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+        "start_offset": 3729,
+        "end_offset": 3934,
+        "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+        "evidence_tier": "shared_system_explanation",
+        "section_article": "Territorial validity",
+        "language": "en",
+        "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+        "review_status": "Assistant contextual review; original text authoritative",
+        "not_independent_national_law": true
+      }
+    ],
+    "review_details": {
+      "iso3": "CZE",
+      "country": "Czechia",
+      "selected_document_id": "F250_8699d9f752cc30a0a77e_9eb0c9218822",
+      "source_id": "F250_8699d9f752cc30a0a77e",
+      "pathway": "EU/EEA mutual recognition and decentralised assessment",
+      "source_url": "https://sukl.gov.cz/uploads/Legislativa/Zakon_o_lecivech_EN_corr_clean2.pdf",
+      "document_title": "Czech Act on Pharmaceuticals, regulator-hosted English translation",
+      "source_type": "Explicitly unofficial law translation",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "9eb0c921882234557c8c3c58779f545552204759d02cfb25c7ead168141bdf99",
+      "raw_hash_validated": true,
+      "text_sha256": "1dd684cebf21fda1da8d812d2de2f622a7e02c5ebdf72f29037fdcb3d1ed941d",
+      "version_dates": {},
+      "version_scope_note": "Medicines Act English translation section 41; human MRP/DCP provisions separated from veterinary references.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          191617,
+          198124
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "outside pathway scope",
+          "finding": "Selected MRP requires a national EEA reference Member State authorisation; FDA and an EC centralised authorisation are not that national RMS approval.",
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same/identical dossier submitted to RMS and concerned states under MRP; local administrative documents remain.",
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "outside pathway scope",
+          "finding": "Full/public report contrast is not decisive because national RMS prior approval is missing on fixed facts.",
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "explicit requirement",
+          "finding": "RMS scientific assessment is circulated/shared for national recognition; not a manufacturer public-report-only shortcut.",
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Member States assess/recognise RMS conclusions; serious-public-health-risk objections and coordination/referral may remain.",
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "RMS update 90 days; DCP draft 120; CMS approval 90 and national decision 30 days under section 41.",
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected MRP pathway on fixed facts",
+          "finding": "FDA/EC centralised approval does not establish a national EEA RMS authorisation for this selected MRP route; shared centralised authorisation effect is reported separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "CZE-WEB01",
+            "CZE-CONTEXT-1",
+            "CZE-SHARED-EC"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "EC centralised MA has shared authorisation effect",
+        "finding": "Fixed EC centralised marketing authorisation is valid across EU Member States; HPRA official explanation also lists Iceland, Liechtenstein and Norway. This is a shared authorisation, not two national approvals or permission to treat EC MA as an MRP RMS. National follow-on administration may still apply in EEA states. FDA-only caseE does not establish this shared MA.",
+        "evidence_ids": [
+          "CZE-SHARED-EC"
+        ]
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "CZE-WEB01",
+          "iso3": "CZE",
+          "event_id": null,
+          "document_id": "F250_8699d9f752cc30a0a77e_9eb0c9218822",
+          "source_id": "F250_8699d9f752cc30a0a77e",
+          "source_url": "https://sukl.gov.cz/uploads/Legislativa/Zakon_o_lecivech_EN_corr_clean2.pdf",
+          "raw_sha256": "9eb0c921882234557c8c3c58779f545552204759d02cfb25c7ead168141bdf99",
+          "text_sha256": "1dd684cebf21fda1da8d812d2de2f622a7e02c5ebdf72f29037fdcb3d1ed941d",
+          "start_offset": 192367,
+          "end_offset": 197124,
+          "pdf_page": 55,
+          "verbatim_extracted_text": "Section 41 \n\n\nPAGE 56\n \n(1) For the purposes of obtaining a marketing authorisation of a medicinal product in several \nMember States, of which the Czech Republic is one, the applicant for a marketing \nauthorisation shall submit to the Institute or to the Veterinary Institute and to the competent \nauthorities in these Member States an application for marketing authorisation based on an \nidentical marketing authorisation dossier. The marketing authorisation dossier shall contain \ndata and documents referred to in Section 26. The applicant shall ask the competent authority \nof one of the Member States to act as the authority of a Reference Member State and to \nprepare an assessment report for the medicinal product as per paragraph 2 or 3; where \nveterinary medicinal products are concerned, the assessment report may also contain an \nevaluation for the purposes of extending the 10-year period referred to in Section 27, \nparagraph 2 (b) or the period referred to in Section 27, paragraph 6 (b). If the applicant \nrequires that the Czech Republic acts as the Reference Member State, he or she shall apply \ntherefor with the Institute or the Veterinary Institute which, as well as the applicant, shall \nproceed in compliance with the guidance issued by the group of representatives of the \ncompetent authorities of the Member States coordinating this marketing authorisation \nprocedure (hereinafter referred to as the “coordination group”).  \n \n(2) If, at the time of submitting the application for marketing authorisation, the medicinal \nproduct has already been authorised in another Member State, the Institute or the Veterinary \nInstitute shall recognise the marketing authorisation granted by the competent authority of the \nReference Member State. For this purpose, the marketing authorisation holder shall apply \nwith the competent authority of the Reference Member State either for the preparation of the \nassessment report for the medicinal product or, if need be, for the update of the existing \nassessment report. If the Reference Member State is the Czech Republic and the Institute or \nthe Veterinary Institute acts as the competent authority of the Reference Member State, the \nconcerned institute shall prepare or update the assessment report for the medicinal product \nwithin 90 days of receipt of the complete application asking the concerned institute to act as \nthe authority of the Reference Member State. The assessment report for the medicinal product \ntogether with the approved summary of the product characteristics, labelling and package \nleaflet shall, in such a case, be sent by the Institute or the Veterinary Institute to the competent \nauthorities of the Member States in which the application referred to in paragraph 1 has been \nlodged, and to the applicant. \n \n(3) If, at the time of submitting the application referred to in paragraph 1, the medicinal \nproduct has not been authorised in any of the Member States, the applicant for marketing \nauthorisation shall apply with the Institute or the Veterinary Institute, if the Reference \nMember State is the Czech Republic, for the preparation of the assessment report for the \nmedicinal product, proposed summary of the product characteristics, proposed labelling, and \nproposed package leaflet. The Institute or the Veterinary Institute shall prepare proposals of \nthe said documents within 120 days of the receipt of the complete application for marketing \nauthorisation and shall send them to the competent authorities of the Member States, in which \nthe application referred to in paragraph 1 has been lodged, and to the applicant in electronic \nform. \n \n(4) If the Czech Republic is not the Reference Member State, the Institute or the Veterinary \nInstitute shall, within 90 days of receipt of the assessment report for the medicinal product, \nthe summary of the product characteristics, labelling, and package leaflet referred to in \nparagraphs 2 and 3, provide to the competent authority of the Reference Member State its \nelectronic approval of these documents. If the Czech Republic is the Reference Member State, \n\n\nPAGE 57\nthe Institute or the Veterinary Institute shall record the approvals of all competent authorities \nof the Member States, in which the application has been lodged, conclude the procedure and \ninform the applicant to this effect. If an application referred to in paragraph 1 has been \nsubmitted thereto, the Institute or the Veterinary Institute shall, within 30 days of achieving a \nconsensus of the competent authorities of the Member States,  issue the marketing \nauthorisation consistent with the approved assessment report for the medicinal product, the \nsummary of the product characteristics, labelling, and package leaflet.  \n \n",
+          "display_text": "Section 41 PAGE 56 (1) For the purposes of obtaining a marketing authorisation of a medicinal product in several Member States, of which the Czech Republic is one, the applicant for a marketing authorisation shall submit to the Institute or to the Veterinary Institute and to the competent authorities in these Member States an application for marketing authorisation based on an identical marketing authorisation dossier. The marketing authorisation dossier shall contain data and documents referred to in Section 26. The applicant shall ask the competent authority of one of the Member States to act as the authority of a Reference Member State and to prepare an assessment report for the medicinal product as per paragraph 2 or 3; where veterinary medicinal products are concerned, the assessment report may also contain an evaluation for the purposes of extending the 10-year period referred to in Section 27, paragraph 2 (b) or the period referred to in Section 27, paragraph 6 (b). If the applicant requires that the Czech Republic acts as the Reference Member State, he or she shall apply therefor with the Institute or the Veterinary Institute which, as well as the applicant, shall proceed in compliance with the guidance issued by the group of representatives of the competent authorities of the Member States coordinating this marketing authorisation procedure (hereinafter referred to as the “coordination group”). (2) If, at the time of submitting the application for marketing authorisation, the medicinal product has already been authorised in another Member State, the Institute or the Veterinary Institute shall recognise the marketing authorisation granted by the competent authority of the Reference Member State. For this purpose, the marketing authorisation holder shall apply with the competent authority of the Reference Member State either for the preparation of the assessment report for the medicinal product or, if need be, for the update of the existing assessment report. If the Reference Member State is the Czech Republic and the Institute or the Veterinary Institute acts as the competent authority of the Reference Member State, the concerned institute shall prepare or update the assessment report for the medicinal product within 90 days of receipt of the complete application asking the concerned institute to act as the authority of the Reference Member State. The assessment report for the medicinal product together with the approved summary of the product characteristics, labelling and package leaflet shall, in such a case, be sent by the Institute or the Veterinary Institute to the competent authorities of the Member States in which the application referred to in paragraph 1 has been lodged, and to the applicant. (3) If, at the time of submitting the application referred to in paragraph 1, the medicinal product has not been authorised in any of the Member States, the applicant for marketing authorisation shall apply with the Institute or the Veterinary Institute, if the Reference Member State is the Czech Republic, for the preparation of the assessment report for the medicinal product, proposed summary of the product characteristics, proposed labelling, and proposed package leaflet. The Institute or the Veterinary Institute shall prepare proposals of the said documents within 120 days of the receipt of the complete application for marketing authorisation and shall send them to the competent authorities of the Member States, in which the application referred to in paragraph 1 has been lodged, and to the applicant in electronic form. (4) If the Czech Republic is not the Reference Member State, the Institute or the Veterinary Institute shall, within 90 days of receipt of the assessment report for the medicinal product, the summary of the product characteristics, labelling, and package leaflet referred to in paragraphs 2 and 3, provide to the competent authority of the Reference Member State its electronic approval of these documents. If the Czech Republic is the Reference Member State, PAGE 57 the Institute or the Veterinary Institute shall record the approvals of all competent authorities of the Member States, in which the application has been lodged, conclude the procedure and inform the applicant to this effect. If an application referred to in paragraph 1 has been submitted thereto, the Institute or the Veterinary Institute shall, within 30 days of achieving a consensus of the competent authorities of the Member States, issue the marketing authorisation consistent with the approved assessment report for the medicinal product, the summary of the product characteristics, labelling, and package leaflet.",
+          "feature_tags": [
+            "reports",
+            "sameness",
+            "scope_limit",
+            "decision_clock"
+          ],
+          "role": "Section 41(1)–(4), selected complete operative paragraphs",
+          "language": "en",
+          "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "Section 41 requires identical dossiers and specifies recognition of another Member State authorisation. The same section distinguishes an as-yet unapproved product under decentralised review, report periods and the subsequent national decision.",
+          "version_alignment": "Cover expressly labels the English text unofficial; only Czech wording binding. Act dated 6 December 2007; translation snapshot is not a completed historical series.",
+          "evidence_tier": "national_rule",
+          "section_article": "Section 41(1)–(4), selected complete operative paragraphs",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "CZE-CONTEXT-1",
+          "source_url": "https://sukl.gov.cz/uploads/Legislativa/Zakon_o_lecivech_EN_corr_clean2.pdf",
+          "raw_sha256": "9eb0c921882234557c8c3c58779f545552204759d02cfb25c7ead168141bdf99",
+          "text_sha256": "1dd684cebf21fda1da8d812d2de2f622a7e02c5ebdf72f29037fdcb3d1ed941d",
+          "start_offset": 191617,
+          "end_offset": 198124,
+          "verbatim_extracted_text": "th the use of the medicinal \nproduct;  \nb) which, if used incorrectly or in the case of an incorrect medical diagnosis, presents an \nincreased risk of occurrence of serious adverse reactions or adverse reactions which occur in \nman due to the use of the veterinary medicinal product;  \nc) the use of which requires special professional competence or the safe use of which requires \nspecialised technical equipment; or  \nd) which presents an increased risk of its possible abuse in the delivery of veterinary care with \na view to a breach of the rules established by veterinary care authorities in the sphere of \nprevention or combating animal infections, with regard to the abuse aimed at an increased \nutility of animals or other forms of abuse. \n \nSection 41 \n\n\nPAGE 56\n \n(1) For the purposes of obtaining a marketing authorisation of a medicinal product in several \nMember States, of which the Czech Republic is one, the applicant for a marketing \nauthorisation shall submit to the Institute or to the Veterinary Institute and to the competent \nauthorities in these Member States an application for marketing authorisation based on an \nidentical marketing authorisation dossier. The marketing authorisation dossier shall contain \ndata and documents referred to in Section 26. The applicant shall ask the competent authority \nof one of the Member States to act as the authority of a Reference Member State and to \nprepare an assessment report for the medicinal product as per paragraph 2 or 3; where \nveterinary medicinal products are concerned, the assessment report may also contain an \nevaluation for the purposes of extending the 10-year period referred to in Section 27, \nparagraph 2 (b) or the period referred to in Section 27, paragraph 6 (b). If the applicant \nrequires that the Czech Republic acts as the Reference Member State, he or she shall apply \ntherefor with the Institute or the Veterinary Institute which, as well as the applicant, shall \nproceed in compliance with the guidance issued by the group of representatives of the \ncompetent authorities of the Member States coordinating this marketing authorisation \nprocedure (hereinafter referred to as the “coordination group”).  \n \n(2) If, at the time of submitting the application for marketing authorisation, the medicinal \nproduct has already been authorised in another Member State, the Institute or the Veterinary \nInstitute shall recognise the marketing authorisation granted by the competent authority of the \nReference Member State. For this purpose, the marketing authorisation holder shall apply \nwith the competent authority of the Reference Member State either for the preparation of the \nassessment report for the medicinal product or, if need be, for the update of the existing \nassessment report. If the Reference Member State is the Czech Republic and the Institute or \nthe Veterinary Institute acts as the competent authority of the Reference Member State, the \nconcerned institute shall prepare or update the assessment report for the medicinal product \nwithin 90 days of receipt of the complete application asking the concerned institute to act as \nthe authority of the Reference Member State. The assessment report for the medicinal product \ntogether with the approved summary of the product characteristics, labelling and package \nleaflet shall, in such a case, be sent by the Institute or the Veterinary Institute to the competent \nauthorities of the Member States in which the application referred to in paragraph 1 has been \nlodged, and to the applicant. \n \n(3) If, at the time of submitting the application referred to in paragraph 1, the medicinal \nproduct has not been authorised in any of the Member States, the applicant for marketing \nauthorisation shall apply with the Institute or the Veterinary Institute, if the Reference \nMember State is the Czech Republic, for the preparation of the assessment report for the \nmedicinal product, proposed summary of the product characteristics, proposed labelling, and \nproposed package leaflet. The Institute or the Veterinary Institute shall prepare proposals of \nthe said documents within 120 days of the receipt of the complete application for marketing \nauthorisation and shall send them to the competent authorities of the Member States, in which \nthe application referred to in paragraph 1 has been lodged, and to the applicant in electronic \nform. \n \n(4) If the Czech Republic is not the Reference Member State, the Institute or the Veterinary \nInstitute shall, within 90 days of receipt of the assessment report for the medicinal product, \nthe summary of the product characteristics, labelling, and package leaflet referred to in \nparagraphs 2 and 3, provide to the competent authority of the Reference Member State its \nelectronic approval of these documents. If the Czech Republic is the Reference Member State, \n\n\nPAGE 57\nthe Institute or the Veterinary Institute shall record the approvals of all competent authorities \nof the Member States, in which the application has been lodged, conclude the procedure and \ninform the applicant to this effect. If an application referred to in paragraph 1 has been \nsubmitted thereto, the Institute or the Veterinary Institute shall, within 30 days of achieving a \nconsensus of the competent authorities of the Member States,  issue the marketing \nauthorisation consistent with the approved assessment report for the medicinal product, the \nsummary of the product characteristics, labelling, and package leaflet.  \n \n(5) If the Institute or the Veterinary Institute cannot within 90 days  issue its approval referred \nto in paragraph 4 regarding the assessment report for a medicinal product, the summary of the \nproduct characteristics, labelling, and package leaflet pursuant to paragraphs 2 and 3, if the \nCzech Republic is not the Reference Member State, for reasons of potential serious risk to \npublic health where a human medicinal product is concerned, or serious risk to the health of \npeople, animals or the environment where a veterinary medicinal product is concerned, it shall \nelectronically communicate a detailed rationale of its position to the competent authority of \nthe Reference Member State, to the competent authorities of the Member States  where the \napplication referred to in paragraph 1 has been submitted, and to the applicant. Issues in \nwhich opinions differ shall be forthwith presented to the coordination group. The \nrepresentative of the Institute or the Veterinary Institute shall,",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Cover expressly labels the English text unofficial; only Czech wording binding. Act dated 6 December 2007; translation snapshot is not a completed historical series."
+        },
+        {
+          "clause_id": "CZE-SHARED-EC",
+          "source_url": "https://www.hpra.ie/regulation/human-medicine/marketing-authorisation-holders/new-applications/licensing-procedures",
+          "raw_sha256": "dd04245a270ef9ce7f6180fd3dfc5825d9770d2f056ce07d0c3a148fa0da520f",
+          "start_offset": 355,
+          "end_offset": 1134,
+          "section_article": "HPRA official explanation: Centralised Procedure (shared EU/EEA effect)",
+          "language": "en",
+          "verbatim_extracted_text": "entralised Procedure\nA company may submit a centralised application to the European Medicines Agency (EMA). This will result in a single marketing authorisation that is valid in all EU Member States plus Iceland, Liechtenstein, and Norway. The use of this authorisation procedure is mandatory for certain types of medicines including:\nmedicines containing a new active substance intended for the treatment of certain conditions (including HIV, cancer, diabetes, and others)\nmedicines derived from biotechnology processes.\nadvanced-therapy medicines\nmedicines used for rare human diseases (also known as ‘orphan medicines)\nThe use of the centralised procedure may be optional in certain other cases. The\nEMA website\ncontains additional information about the centralised procedure.",
+          "text_sha256": "567fbc1bf80ef847de1afd01e5c9666c79508145739478ab368f2961685ace3c"
+        },
+        {
+          "clause_id": "EU-CENTRAL-Q01",
+          "system_id": "EU-CENTRAL",
+          "source_id": "0b3315964acb207f",
+          "document_id": "945bb30cd2070cb5b062",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004R0726",
+          "raw_sha256": "f8690a054e65731af2ba551d7e73cd9bec4242e1eb64aef630aab687775f68e0",
+          "text_sha256": "42e671bfebcefd609c3019a2435c0b658a9a15da399a2413ea806060038425fe",
+          "start_offset": 37279,
+          "end_offset": 37840,
+          "verbatim_extracted_text": "Article 13\n1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC.\nAuthorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "display_text": "Article 13 1. Without prejudice to Article 4(4) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community. It shall confer the same rights and obligations in each of the Member States as a marketing authorisation granted by that Member State in accordance with Article 6 of Directive 2001/83/EC. Authorised medicinal products for human use shall be entered in the Community Register of Medicinal Products and shall be given a number, which shall appear on the packaging.",
+          "evidence_tier": "shared_regional_rule",
+          "section_article": "Regulation 726/2004 Article 13(1)",
+          "language": "en",
+          "research_interpretation": "Original 2004 regulation: one central authorisation is valid throughout the Community. Not 30 independent unilateral reliance reforms.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        },
+        {
+          "clause_id": "EU-APPLICABILITY-Q01",
+          "system_id": "EU-APPLICABILITY",
+          "source_id": "f9abed41e180fac8",
+          "document_id": "3932f0ef3762373ceb24",
+          "source_url": "https://www.ema.europa.eu/en/about-us/what-we-do/authorisation-medicines",
+          "raw_sha256": "7f0c334f869e94f7a72bd1c011cdbd93a5af49c342d5b3c55f1bb96eb0051b77",
+          "text_sha256": "50d55b5ab1e6d84fcc5b38f1c61378baa298d944737accd2942c50e868a3a298",
+          "start_offset": 3729,
+          "end_offset": 3934,
+          "verbatim_extracted_text": "Once granted by the European Commission, the centralised marketing authorisation is\nvalid in all EU Member States\nas well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "display_text": "Once granted by the European Commission, the centralised marketing authorisation is valid in all EU Member States as well as in the European Economic Area (EEA) countries Iceland, Liechtenstein and Norway.",
+          "evidence_tier": "shared_system_explanation",
+          "section_article": "Territorial validity",
+          "language": "en",
+          "research_interpretation": "Current preserved EMA explanation explicitly includes EU Member States plus Iceland, Liechtenstein and Norway. It does not itself supply historical membership dates.",
+          "review_status": "Assistant contextual review; original text authoritative",
+          "not_independent_national_law": true
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

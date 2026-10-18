@@ -367,5 +367,1194 @@
       "a94a2113224aa048a38fca3f39acf0e3645a6ef8c64084f90968cc06ae6c6c95",
       "dd6f2269cea09bd1b8458cc2798df85abf6ee0403ab8524f1e119c369002f468"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "GBR",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Targeted assessment, national veto retained",
+    "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+    "document_id": "8dba23ad5a718c56f17b",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Preserved current MHRA IRP webpage includes July 2026 amendments; do not backdate all criteria to original 1 January 2024 reform.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "Initial new-drug marketing authorisation applications are within IRP scope.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "FDA and EMA/member-state competent authorities explicitly listed, alongside TGA, Health Canada, Swissmedic, HSA and PMDA.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "One acceptable reference regulator may be selected; two foreign approvals are not a universal IRP threshold.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "standalone_review": {
+        "state": "explicit requirement",
+        "finding": "Reference authorisation must rest on a standalone review rather than reliance on another regulator.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "approval_age": {
+        "state": "explicit requirement",
+        "finding": "Recognition A requires foreign approval within 2 years; fixed 18 months meets age condition. Additional criteria determine A versus B.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same product and consolidated foreign-approved dossier, correspondence, changes and difference declarations; company/group or legal obligations declaration required.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "All available iterations of full unredacted assessment reports and full responses to regulator questions required for initial IRP applications.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "explicit requirement",
+        "finding": "Full unredacted regulatory reports required; if a reference assessment report is unavailable IRP is not an appropriate route and national procedure is advised.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "explicit requirement",
+        "finding": "Public reports alone do not meet express full unredacted report condition.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Manufacturing process/site and acceptable GMP evidence matter; additional checks may remain.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "MHRA may raise issues, request additional material and route to national procedure; UK risk management and paediatric requirements remain.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "English documents; certified translation and written confirmation for other-language originals.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "Recognition A 60 calendar days from successful validation without clock stops; unresolved major objections may require Route B. Route B target 110 calendar days with its procedures.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "MHRA eligibility review and UK national requirements retained; RMP/paediatric and other conditions not all fixed.",
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "explicitly ineligible for identified full-report route",
+        "finding": "Public reports alone fail mandatory full unredacted reports. A direct national application is an alternative.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ],
+        "status": "explicitly ineligible for identified full-report route"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full reports satisfy the report condition; 18-month FDA/EMA approval meets Route A age, but UK RMP, paediatric, administrative and remaining Route A/B criteria are not fully resolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "FDA alone is an expressly acceptable reference. Full reports satisfy report condition, but other IRP conditions remain.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GBR-Q01",
+          "GBR-Q02",
+          "GBR-Q03",
+          "GBR-Q04",
+          "GBR-CONTEXT-1",
+          "GBR-CONTEXT-2",
+          "GBR-CONTEXT-3",
+          "GBR-CTX-1",
+          "GBR-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Explicit full-report gate under initial IRP, independent of having two approvals."
+      },
+      "B_minus_E": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Dropping EMA does not itself fail the one-reference threshold; no claim of full eligibility."
+      },
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "GBR-Q01",
+        "iso3": "GBR",
+        "event_id": "GBR_036",
+        "document_id": "8dba23ad5a718c56f17b",
+        "source_id": "60671cb958665eaf",
+        "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+        "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+        "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+        "start_offset": 1463,
+        "end_offset": 2701,
+        "pdf_page": null,
+        "verbatim_extracted_text": "The International Recognition Procedure (\nIRP\n) was introduced on 1 January 2024. The\nIRP\nhas been introduced to complement the National Pathway for products where applicants have already received an authorisation for the same product from one of MHRA’s specified reference regulators (RRs).\nThe same product is defined as having the same qualitative and quantitative composition (active substance(s) and excipients), the same pharmaceutical form and the same therapeutic use from Applicants belonging to the same company or group of companies or which are ‘licensees’.\nThe applicant will need to demonstrate this by providing proof of approval alongside full unredacted assessment reports from the reference regulator to support their\nIRP\napplication. Further details on supporting documentation can be found in\nSection 10\nIRP\nallows the MHRA to take into account the expertise and decision-making of trusted regulatory partners for the benefit of UK patients. MHRA will conduct a targeted assessment, based on the unredacted assessment report issued by the reference authority but will still retain the authority to approve or refuse applications if the scientific evidence provided by the applicant is considered insufficiently robust.",
+        "display_text": "The International Recognition Procedure ( IRP ) was introduced on 1 January 2024. The IRP has been introduced to complement the National Pathway for products where applicants have already received an authorisation for the same product from one of MHRA’s specified reference regulators (RRs). The same product is defined as having the same qualitative and quantitative composition (active substance(s) and excipients), the same pharmaceutical form and the same therapeutic use from Applicants belonging to the same company or group of companies or which are ‘licensees’. The applicant will need to demonstrate this by providing proof of approval alongside full unredacted assessment reports from the reference regulator to support their IRP application. Further details on supporting documentation can be found in Section 10 IRP allows the MHRA to take into account the expertise and decision-making of trusted regulatory partners for the benefit of UK patients. MHRA will conduct a targeted assessment, based on the unredacted assessment report issued by the reference authority but will still retain the authority to approve or refuse applications if the scientific evidence provided by the applicant is considered insufficiently robust.",
+        "feature_tags": [
+          "discretion",
+          "reports",
+          "unredacted",
+          "sameness"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GBR-Q02",
+        "iso3": "GBR",
+        "event_id": "GBR_036",
+        "document_id": "8dba23ad5a718c56f17b",
+        "source_id": "60671cb958665eaf",
+        "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+        "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+        "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+        "start_offset": 3498,
+        "end_offset": 4022,
+        "pdf_page": null,
+        "verbatim_extracted_text": "In all cases of\nIRP\napplications, the\nRR\nauthorisation must have undergone a full and standalone review.\nRR\nassessments based on reliance or recognition of authorisations in another territory cannot be used to support an\nIRP\napplication. Full unredacted assessment reports from the referencing authority will be required to support the\nIRP\napplication. It is the responsibility of the applicant to provide the requested documentation. It is not the responsibility of the\nRR\nto provide any documentation directly to the MHRA.",
+        "display_text": "In all cases of IRP applications, the RR authorisation must have undergone a full and standalone review. RR assessments based on reliance or recognition of authorisations in another territory cannot be used to support an IRP application. Full unredacted assessment reports from the referencing authority will be required to support the IRP application. It is the responsibility of the applicant to provide the requested documentation. It is not the responsibility of the RR to provide any documentation directly to the MHRA.",
+        "feature_tags": [
+          "original_review",
+          "reports",
+          "unredacted"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GBR-Q03",
+        "iso3": "GBR",
+        "event_id": "GBR_036",
+        "document_id": "8dba23ad5a718c56f17b",
+        "source_id": "60671cb958665eaf",
+        "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+        "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+        "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+        "start_offset": 6449,
+        "end_offset": 7739,
+        "pdf_page": null,
+        "verbatim_extracted_text": "4.1  Key features of Recognition A\nTo be eligible for Recognition A, the\nRR\napproval must have been granted within the previous 2 years.\nThe manufacturing process must be the same as that approved by the\nRR\n, with evidence of compliance with Good Manufacturing Practice (GMP) meeting MHRA requirements at the time of\nIRP\nsubmission.\nThe Recognition route A will be open to applications that meet the criteria for\nIRP\nand do not trigger any of the Recognition B criteria (see below).\nRecognition A procedures will run to a 60-day timetable starting from the date of successful validation.  There is no clock stop. If major objections or concerns are identified during the procedure which cannot be resolved within 60 days, the timetable will revert to Recognition B timeframe and the applicant will be notified.\n4.2  Key features of Recognition B\nTo be eligible for Recognition route B, the\nRR\napproval must have been granted within the previous 5 years.\nAuthorisations more than 5 years old are not eligible for\nIRP\n.  Where there is an urgent public health need for a rapid assessment, a national fast track request is considered more appropriate in these circumstances:\nhttps://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk#fast-tracking-a-marketing-authorisation",
+        "display_text": "4.1 Key features of Recognition A To be eligible for Recognition A, the RR approval must have been granted within the previous 2 years. The manufacturing process must be the same as that approved by the RR , with evidence of compliance with Good Manufacturing Practice (GMP) meeting MHRA requirements at the time of IRP submission. The Recognition route A will be open to applications that meet the criteria for IRP and do not trigger any of the Recognition B criteria (see below). Recognition A procedures will run to a 60-day timetable starting from the date of successful validation. There is no clock stop. If major objections or concerns are identified during the procedure which cannot be resolved within 60 days, the timetable will revert to Recognition B timeframe and the applicant will be notified. 4.2 Key features of Recognition B To be eligible for Recognition route B, the RR approval must have been granted within the previous 5 years. Authorisations more than 5 years old are not eligible for IRP . Where there is an urgent public health need for a rapid assessment, a national fast track request is considered more appropriate in these circumstances: https://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk#fast-tracking-a-marketing-authorisation",
+        "feature_tags": [
+          "approval_age",
+          "decision_clock",
+          "sameness"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GBR-Q04",
+        "iso3": "GBR",
+        "event_id": "GBR_036",
+        "document_id": "8dba23ad5a718c56f17b",
+        "source_id": "60671cb958665eaf",
+        "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+        "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+        "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+        "start_offset": 14639,
+        "end_offset": 15091,
+        "pdf_page": null,
+        "verbatim_extracted_text": "It is recommended that the same\nRR\nis used for\nIRP\napplications throughout an individual product lifecycle. Marketing authorisation holders (\nMAHs\n) may use more than one\nRR\nduring an individual product lifecycle if this can be justified, for example, on patient benefit grounds. You should highlight changes of\nRR\nduring the product lifecycle in the post-authorisation procedure cover letter if it differs from the\nRR\nused for the initial application.",
+        "display_text": "It is recommended that the same RR is used for IRP applications throughout an individual product lifecycle. Marketing authorisation holders ( MAHs ) may use more than one RR during an individual product lifecycle if this can be justified, for example, on patient benefit grounds. You should highlight changes of RR during the product lifecycle in the post-authorisation procedure cover letter if it differs from the RR used for the initial application.",
+        "feature_tags": [
+          "reference_continuity"
+        ],
+        "role": "Reference-authority lifecycle continuity",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Reference-authority lifecycle continuity",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GBR-CONTEXT-1",
+        "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+        "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+        "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+        "start_offset": 713,
+        "end_offset": 5022,
+        "verbatim_extracted_text": "elopments will be introduced to enhance efficiency and better support applicants with the International Recognition Procedure process from 13 July 2026.\nKey updates include:\nA single opportunity to respond to Validation Correction Requests (VCRs)\nAdvance notice (8 weeks) required for new active substance submissions\nReduction of the Route B reference approval window from 10 years to 5 years (Route A remains unchanged at 2 years)\nA transition phase will be in place; therefore applicants can continue using the current process until 31 August 2026. Updated guidance reflects these changes.\nThese updates are expected to have minimal impact and are designed to improve clarity, efficiency, and predictability when planning submissions.\n1. Overview\nThe International Recognition Procedure (\nIRP\n) was introduced on 1 January 2024. The\nIRP\nhas been introduced to complement the National Pathway for products where applicants have already received an authorisation for the same product from one of MHRA’s specified reference regulators (RRs).\nThe same product is defined as having the same qualitative and quantitative composition (active substance(s) and excipients), the same pharmaceutical form and the same therapeutic use from Applicants belonging to the same company or group of companies or which are ‘licensees’.\nThe applicant will need to demonstrate this by providing proof of approval alongside full unredacted assessment reports from the reference regulator to support their\nIRP\napplication. Further details on supporting documentation can be found in\nSection 10\nIRP\nallows the MHRA to take into account the expertise and decision-making of trusted regulatory partners for the benefit of UK patients. MHRA will conduct a targeted assessment, based on the unredacted assessment report issued by the reference authority but will still retain the authority to approve or refuse applications if the scientific evidence provided by the applicant is considered insufficiently robust.\n2. Scope\nIRP\ncan be used for the following types of marketing authorisation applications (\nMAAs\n) according to the Human Medicines Regulations 2012 (HMRs):\nRegulation 50: chemical and biological new active substances and known active substances\nRegulation 51B: generic applications\nRegulation 52B: hybrid applications\nRegulation 53B: biosimilar applications\nRegulation 55: new fixed combination product applications\nFollowing the implementation of the Windsor Framework on 1 January 2025, applications for GB\nMAs\ncovering Great Britain only will no longer be possible.  All applications must be for UK-wide\nMAs\n.  Please refer to additional guidance on UK-wide licensing here:\nhttps://www.gov.uk/government/publications/uk-wide-licensing-for-human-medicines/uk-wide-licensing-for-human-medicines\nIn all cases of\nIRP\napplications, the\nRR\nauthorisation must have undergone a full and standalone review.\nRR\nassessments based on reliance or recognition of authorisations in another territory cannot be used to support an\nIRP\napplication. Full unredacted assessment reports from the referencing authority will be required to support the\nIRP\napplication. It is the responsibility of the applicant to provide the requested documentation. It is not the responsibility of the\nRR\nto provide any documentation directly to the MHRA.\nConditional and exceptional circumstances\nMAAs\n(or international equivalent such as provisional or accelerated approval) can support an\nIRP\napplication. Emergency approvals are not eligible.\nIRP\ncan be used for post-authorisation procedures including line extensions, variations and renewals (see Post-authorisation\nIRP\napplication).\nThe following submission types are not within scope:\nTraditional herbal registrations\nHomoeopathic registrations (Simplified Registration Scheme)\nHomeopathic national rules authorisations (National Rules Scheme)\nWell-established use bibliographic applications (Regulation 54 of the Human Medicines Regulations)\nCancelled authorisations cannot be used to support an\nIRP\napplication.\nAdditionally, applications that have previously been submitted via the national route and been refused by MHRA or withdrawn before determination cannot be resubmitted through\nIRP\n. The direct national route should be used clearly addressing the major objections or other concerns rai",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "GBR-CONTEXT-2",
+        "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+        "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+        "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+        "start_offset": 5699,
+        "end_offset": 8739,
+        "verbatim_extracted_text": " of the EU, Norway, Iceland and Lichtenstein. (This includes approvals through the centralised, MRP/DCP and individual member state national routes)\n4. Initial\nIRP\nmarketing authorisation application (\nMAA\n)\nThere are two recognition timetables for initial applications (including line extension applications) through\nIRP\n:\nRecognition A: 60-day timetable\nRecognition B: 110-day timetable\nThe timetables are in calendar days.\nSuitability for Recognition A or B is determined by means of an eligibility form to be completed by the applicant 8 weeks before the planned date of\nMAA\nsubmission (see ‘How to apply’).\nApplications that are determined not eligible for\nIRP\ncan be submitted as direct national applications, if national requirements are met.\n4.1  Key features of Recognition A\nTo be eligible for Recognition A, the\nRR\napproval must have been granted within the previous 2 years.\nThe manufacturing process must be the same as that approved by the\nRR\n, with evidence of compliance with Good Manufacturing Practice (GMP) meeting MHRA requirements at the time of\nIRP\nsubmission.\nThe Recognition route A will be open to applications that meet the criteria for\nIRP\nand do not trigger any of the Recognition B criteria (see below).\nRecognition A procedures will run to a 60-day timetable starting from the date of successful validation.  There is no clock stop. If major objections or concerns are identified during the procedure which cannot be resolved within 60 days, the timetable will revert to Recognition B timeframe and the applicant will be notified.\n4.2  Key features of Recognition B\nTo be eligible for Recognition route B, the\nRR\napproval must have been granted within the previous 5 years.\nAuthorisations more than 5 years old are not eligible for\nIRP\n.  Where there is an urgent public health need for a rapid assessment, a national fast track request is considered more appropriate in these circumstances:\nhttps://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk#fast-tracking-a-marketing-authorisation\nIRP\napplications will follow Recognition B if any one (or more) of the following criteria applies:\nRR\nhas granted a conditional or exceptional circumstances\nMA\n(or international equivalent)\nthe application seeks a conditional or exceptional circumstances\nMA\nin UK\nadditional manufacturing sites are cited that have not been assessed by the\nRR\n(except for secondary packaging, labelling and QP release sites)\nthere are substantial changes in the manufacturing process or analytical methods compared to that assessed by the\nRR\nat least one manufacturing site is not yet GMP certified\nthe environmental risk assessment (ERA) has not been assessed by the\nRR\nthe risk management plan (RMP) as proposed for the UK has not been assessed by the\nRR\nthere are UK-specific risk management activities (for example, which may be reflected as additional pharmacovigilance or additional risk minimisation activities)\nthe\nRR\nhas mandated one or more post-authorisation safety studies (PASS)\nthe product contains a f",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "GBR-CONTEXT-3",
+        "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+        "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+        "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+        "start_offset": 13889,
+        "end_offset": 16091,
+        "verbatim_extracted_text": "wing month or until such time as all validation issues are resolved.\n6. Post-authorisation\nIRP\napplications: variations and renewals\nIRP\ncan be used for line extensions, variations (Type 1B, Type II) and renewal applications (including annual renewal of conditional\nMAs\nand annual reassessment of exceptional circumstance\nMAs\n). Type IA variations can be submitted if they are part of a group with Type IB or Type II variations.\nThis includes for submissions during the lifecycle of products that have been initially authorised or subsequently varied via direct national, MRDCRP or ECDRP routes. Conversely, where a product has been authorised via\nIRP\n, it is acceptable to submit direct national post-authorisation procedures, including variations.\nIt is recommended that the same\nRR\nis used for\nIRP\napplications throughout an individual product lifecycle. Marketing authorisation holders (\nMAHs\n) may use more than one\nRR\nduring an individual product lifecycle if this can be justified, for example, on patient benefit grounds. You should highlight changes of\nRR\nduring the product lifecycle in the post-authorisation procedure cover letter if it differs from the\nRR\nused for the initial application.\nThe relevant published MHRA timetables for national post-authorisation procedures will apply to\nIRP\n. The classification of Recognition routes A and B is only applicable for initial\nIRP\nMAAs\nand line extension applications. The eligibility form is not relevant for variations and renewals.\nApplicants are reminded of the obligation to notify MHRA as soon as reasonably practicable of any information that might influence the evaluation of the benefits and risks of an authorised product.\nIRP\nis not a substitute for the\nMAH\n’s obligations to submit pharmacovigilance data and information to MHRA and to keep the\nMA\nup to date with current scientific knowledge. Whilst\nIRP\ncan be used for safety variations, if there is new data which could impact upon the evaluation of the benefits and risks, particularly where the clinical management of patients may be affected, MHRA must be informed as soon as reasonably practical.\n6.1 Variations\nVariations submitted via\nIRP\nshould be classified according to ",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "GBR-CTX-1",
+        "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+        "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+        "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+        "start_offset": 5022,
+        "end_offset": 5700,
+        "verbatim_extracted_text": "sed during the previous assessment.\nIn the instance that the MHRA advises that an application is not suitable for\nIRP\n, it can be submitted via the direct national route if MHRA requirements are met.\n3. Reference regulators (RRs)\nAcceptable RRs are shown in the table below.\nCountry or jurisdiction\nRegulatory authority\nAustralia\nTherapeutic Goods Administration (TGA)\nCanada\nHealth Canada\nSwitzerland\nSwissMedic\nSingapore\nHealth Science Authority Singapore (HSA)\nJapan\nPharmaceuticals and Medical Devices Agency (PMDA)\nUnited States\nFood and Drug Administration (FDA)\nEuropean Union/European Economic Area\nEuropean Medicines Agency (EMA) and Member State Competent Authorities ",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "GBR-CTX-2",
+        "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+        "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+        "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+        "start_offset": 22300,
+        "end_offset": 33000,
+        "verbatim_extracted_text": "o be contacted by MHRA prior to submission.\nSubmit the form along with your\nMAA\napplication.\nThe form should be included in module 1.2 of the eCTD and the cover letter should indicate which recognition route (A or B) and\nRR\nyou are using.\n7.6\nIRP\nsubmission\nAll\nRR\ndocuments submitted in support of an\nIRP\napplication to MHRA must be in English. A certified translation for any original documents that are not in English together with confirmation in writing that the translation is correct is required.\nIt is your responsibility to provide the requested documentation. It is not the responsibility of the\nRR\nto provide any documentation to MHRA.\nSee\nfurther information on the location of the\nRR\ndocuments in module 1 of the eCTD\n.\n7.6.1 New\nIRP\nmarketing authorisation applications\nApplications should be submitted through the Human Medicines Portal. No other submission route is acceptable for\nIRP\n. On submission the system will prompt a response to confirm whether the application is Recognition Route A or Route B or is a recognition variation. Following this there will be a prompt to confirm whether the documentation relates to an original submission\na validation correction request (VCR)\na response\nThe\nIRP\napplication should be submitted as one electronic Common Technical Document (eCTD) sequence through the MHRA Submissions Portal. The eCTD should be in EU format with a UK-specific module 1. Certain information should be included in the cover letter (see below).\nThe eCTD submission should be aligned with the consolidated dossier as reviewed and approved by the\nRR\n, including the applicant’s full responses to\nRR\nquestions. It should include approved post-authorisation changes, including variations once approved by the\nRR\n. For new\nIRP\nMAAs\n, the submission must include:\ndocumentation of the\nRR\n’s approval decision(s)\nRR\n’s full unredacted assessment report(s).  All available iterations of the\nRR\n’s assessment reports for the initial authorisation and any major post-authorisation procedures (for example, significant variations, renewals) should be provided.\nIn cases where an assessment report is not available from the reference regulator, the International Recognition Procedure (\nIRP\n) will not be an appropriate route for submission. Applicants are advised to apply via the national procedure in such instances.\nthe final product information (or international equivalent) approved by the\nRR\na list of differences (other than formatting) between the dossier approved by the\nRR\nand that submitted to MHRA\n7.6.2 Post authorisation applications\nFor post-authorisation\nIRP\napplications (including variations), the submission must include:\ndocumentation of the\nRR\n’s approval decision\nall iterations of the\nRR\n’s assessment reports for the relevant post-authorisation procedure - note that an\nRR\nassessment report is not required for Type IB variations, but where available, it should be provided.\nthe final product information (or international equivalent) and/or updated risk management plan approved by the\nRR\nif applicable.\nWhere EMA is the\nRR\n, a\nCHMP\npositive opinion letter is sufficient documentation of approval. Applicants should not submit their\nIRP\napplications until they have received the\nCHMP\npositive opinion and agreed final product information. For MR-DC recognition, a positive end-of-procedure (EoP) letter is sufficient documentation of approval.\n7.6.3 Cover letter\nFor\nIRP\ninitial applications to be validated, the cover letter must include the information listed below. See the\nvalidation checklist\nto help ensure all the requirements have been met. This should be submitted with the application as an annex to the cover letter.\nFor\nIRP\npost-authorisation applications, including variations, this information is captured in a\nvalidation checklist form\nthat must be completed and submitted as an annex to the cover letter.\nThe cover letter should  state:\nThat the route is International Recognition, who the\nRR\nis, and whether it is Recognition A or Recognition B (as determined by the eligibility form which should be included in Module 1.2 with the electronic application form (eAF)).\nFor a recognition variation, that the route is International Recognition and who the\nRR\nis. If this is different from the authority authorising the initial application this should also be stated each time.  This includes where the initial application was authorised nationally by the MHRA.\nA declaration that all unredacted iterations of the\nRR\nassessment reports have been submitted (see reference regulator documents). Assessment reports should be listed.  Where interim assessment reports are not available from the\nRR\nthis should be declared.\nA confirmation that\nMAH\nfor the application(s) is the same company or belongs to the same (legal) group of companies as the\nMAH\nin the\nRR\nprocedure. Alternatively, a written declaration that all the legal obligations can be met at submission, during the assessment process and throughout the life of the\nMA\nis provided.\nthe type of\nRR\napproval for initial applications, such as full approval or conditional/provisional/accelerated approval (or international equivalent).\nAny conditions associated with the\nRR\napproval, including where the\nRR\nhas approved a conditional or exceptional use\nMA\n(or international equivalent). Details of\nRR\ndecisions on the fulfilment of any conditions should be included.\nAny proposed conditions for UK approval.\nFor initial\nIRP\nMAAs\nand extension of indication applications, the wording of the indication approved by the\nRR\nshould be adapted to take account of UK clinical terminology and practice in accordance with guidance on indications in Volume 2C of the ‘Notice to Applicants’\nhttps://health.ec.europa.eu/document/download/6a043dea-7d0f-4252-947b-cef58f53d37e_en?filename=smpc_guideline_rev2_en\n.  However it must not differ in scope from that approved by the\nRR\n.  All differences between the proposed indication for UK and that approved by the reference regulator should be explained and justified as compliant with the guideline on Summary of product characteristics and consistent with UK practice for the therapeutic area.\nA justification for the adverse drug reactions (preferred terms and frequencies) listed in section 4.8 of the SmPC, or indicate where in the eCTD module 2 this information is provided.\nIf the procedure includes an active substance master file (\nASMF\n), a declaration that the\nASMF\nholder has submitted the applicant’s and restricted parts of the\nASMF\n, including approved variations and the assessment reports on the applicant’s and restricted parts.\nWhether or not there are any differences in the proposed UK RMP compared to the RMP that was approved by the\nRR\n(where relevant) and describe any differences in the proposed safety concerns, additional pharmacovigilance activities or additional risk minimisation measures.\nA summary of the UK and global regulatory history of the medicinal product.\nWhether an application for the same product has been approved, withdrawn, refused, or rejected by another\nRR\n. Provide reasons for any withdrawal, refusal or rejection.\nWhether a marketing authorisation for the same product has been withdrawn, revoked, suspended or not renewed by another\nRR\n. Provide reasons for any withdrawal, revocation, suspension or non-renewal.\nWhether there are any scientific or technical differences between the dossier approved by the\nRR\nand that submitted to MHRA. Provide a list of these differences with a justification\nFor variations to add a new indication:\nConfirm whether extended data exclusivity and/or market protection is claimed and if so confirm that section 4c of the application from was updated accordingly.\nConfirm whether orphan designation for the new indication is applied for and if so confirm that the UK Orphan Drug Designation Application Form has been provided in Module 1.2 of the eCTD.\nConfirm that all medicinal products granted an Orphan designation in the UK for a condition related to the proposed new indication is captured in section 4a of the application from and that Modules 1.7.1 and 1.7.2 were updated as applicable.\nFor submissions that will trigger the paediatric requirements:\nConfirm that the latest UK paediatric investigation plan, waiver opinion/decision, or class waiver decision has been provided.\nConfirm that the compliance check outcome document has been provided\nConfirm whether you are applying for a paediatric “Statement of Compliance” from the MHRA\n8. National requirements\nThe medicinal product must be classified as a medicinal product under the UK Human Medicines Regulations 2012 (as amended). The standard MHRA requirements for a UK marketing authorisation will apply. Further relevant information about national requirements is available in the following subsections.\n8.1  Orphan drug designation\nIRPs that include an orphan drug designation application will follow the Route B procedure. See further information on\norphan drug designation application\n.\n8.2  Paediatric requirements\nFor submissions that will trigger paediatric requirements, the\nIRP\napplication dossier must include:\nthe latest UK Paediatric Investigation Plan (PIP)/waiver opinion/decision or class waiver decision\nthe compliance check outcome documents\nIf paediatric requirements are triggered in any other jurisdiction, the latest PIP/Paediatric Study Plan (PSP)/waiver opinion/decision or class waiver decision to the MHRA Paediatrics team should be submitted as part of the UK-PIP submission.\nFurther information is available here:\n)\n. https://www.gov.uk/guidance/procedures-for-uk-paediatric-investigation-plan-pips\n8.3  Risk management plan (RMP)\nThe RMP must meet MHRA requirements and follow the EU RMP template. Where appropriate, the format of UK-specific RMP annex + approved EU RMP is also acceptable. For further information on the required format of the RMP, see\nguidance on pharmacovigilance procedures\n.\nIf the\nRR\nhas not assessed the RMP, the product will be eligible for Recognition B only.\nIn the case that the\nRR\nhas approved an RMP, but it is not the same as the RMP proposed for UK or not in the required format, the product will be eligible for Recognition B only.\n8.4  Advanced therapy medicinal products (ATMPs)\nATMPs are eligible for Recognition B only. See a\ndefinition of ATMPs\n.\nDue to potential differences between guidelines internationally, some\nIRP\napplications may require additional checks by MHRA. For example, not all product types are covered by mutual recognition agreements between MHRA and other regulators and some compliance/GMP checks might, therefore, be required by MHRA.\nConsequently, applicants are strongly advised to engage with the MHRA at the ea",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      }
+    ],
+    "review_details": {
+      "iso3": "GBR",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "selected_document_id": "8dba23ad5a718c56f17b",
+      "source_id": "60671cb958665eaf",
+      "pathway": "Targeted assessment, national veto retained",
+      "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+      "document_title": "IRP guidance",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+      "raw_hash_validated": true,
+      "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+      "version_dates": {},
+      "version_scope_note": "Preserved current MHRA IRP webpage includes July 2026 amendments; do not backdate all criteria to original 1 January 2024 reform.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          713,
+          5022
+        ],
+        [
+          5699,
+          8739
+        ],
+        [
+          13889,
+          16091
+        ],
+        [
+          5022,
+          5700
+        ],
+        [
+          22300,
+          33000
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "Initial new-drug marketing authorisation applications are within IRP scope.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA and EMA/member-state competent authorities explicitly listed, alongside TGA, Health Canada, Swissmedic, HSA and PMDA.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "One acceptable reference regulator may be selected; two foreign approvals are not a universal IRP threshold.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "standalone_review": {
+          "state": "explicit requirement",
+          "finding": "Reference authorisation must rest on a standalone review rather than reliance on another regulator.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "Recognition A requires foreign approval within 2 years; fixed 18 months meets age condition. Additional criteria determine A versus B.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same product and consolidated foreign-approved dossier, correspondence, changes and difference declarations; company/group or legal obligations declaration required.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "All available iterations of full unredacted assessment reports and full responses to regulator questions required for initial IRP applications.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "explicit requirement",
+          "finding": "Full unredacted regulatory reports required; if a reference assessment report is unavailable IRP is not an appropriate route and national procedure is advised.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "explicit requirement",
+          "finding": "Public reports alone do not meet express full unredacted report condition.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Manufacturing process/site and acceptable GMP evidence matter; additional checks may remain.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "MHRA may raise issues, request additional material and route to national procedure; UK risk management and paediatric requirements remain.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "English documents; certified translation and written confirmation for other-language originals.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Recognition A 60 calendar days from successful validation without clock stops; unresolved major objections may require Route B. Route B target 110 calendar days with its procedures.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "MHRA eligibility review and UK national requirements retained; RMP/paediatric and other conditions not all fixed.",
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "explicitly ineligible for identified full-report route",
+          "finding": "Public reports alone fail mandatory full unredacted reports. A direct national application is an alternative.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full reports satisfy the report condition; 18-month FDA/EMA approval meets Route A age, but UK RMP, paediatric, administrative and remaining Route A/B criteria are not fully resolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "FDA alone is an expressly acceptable reference. Full reports satisfy report condition, but other IRP conditions remain.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GBR-Q01",
+            "GBR-Q02",
+            "GBR-Q03",
+            "GBR-Q04",
+            "GBR-CONTEXT-1",
+            "GBR-CONTEXT-2",
+            "GBR-CONTEXT-3",
+            "GBR-CTX-1",
+            "GBR-CTX-2"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "B_vs_A": "Explicit full-report gate under initial IRP, independent of having two approvals.",
+        "E_vs_B": "Dropping EMA does not itself fail the one-reference threshold; no claim of full eligibility.",
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "GBR-Q01",
+          "iso3": "GBR",
+          "event_id": "GBR_036",
+          "document_id": "8dba23ad5a718c56f17b",
+          "source_id": "60671cb958665eaf",
+          "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+          "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+          "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+          "start_offset": 1463,
+          "end_offset": 2701,
+          "pdf_page": null,
+          "verbatim_extracted_text": "The International Recognition Procedure (\nIRP\n) was introduced on 1 January 2024. The\nIRP\nhas been introduced to complement the National Pathway for products where applicants have already received an authorisation for the same product from one of MHRA’s specified reference regulators (RRs).\nThe same product is defined as having the same qualitative and quantitative composition (active substance(s) and excipients), the same pharmaceutical form and the same therapeutic use from Applicants belonging to the same company or group of companies or which are ‘licensees’.\nThe applicant will need to demonstrate this by providing proof of approval alongside full unredacted assessment reports from the reference regulator to support their\nIRP\napplication. Further details on supporting documentation can be found in\nSection 10\nIRP\nallows the MHRA to take into account the expertise and decision-making of trusted regulatory partners for the benefit of UK patients. MHRA will conduct a targeted assessment, based on the unredacted assessment report issued by the reference authority but will still retain the authority to approve or refuse applications if the scientific evidence provided by the applicant is considered insufficiently robust.",
+          "display_text": "The International Recognition Procedure ( IRP ) was introduced on 1 January 2024. The IRP has been introduced to complement the National Pathway for products where applicants have already received an authorisation for the same product from one of MHRA’s specified reference regulators (RRs). The same product is defined as having the same qualitative and quantitative composition (active substance(s) and excipients), the same pharmaceutical form and the same therapeutic use from Applicants belonging to the same company or group of companies or which are ‘licensees’. The applicant will need to demonstrate this by providing proof of approval alongside full unredacted assessment reports from the reference regulator to support their IRP application. Further details on supporting documentation can be found in Section 10 IRP allows the MHRA to take into account the expertise and decision-making of trusted regulatory partners for the benefit of UK patients. MHRA will conduct a targeted assessment, based on the unredacted assessment report issued by the reference authority but will still retain the authority to approve or refuse applications if the scientific evidence provided by the applicant is considered insufficiently robust.",
+          "feature_tags": [
+            "discretion",
+            "reports",
+            "unredacted",
+            "sameness"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GBR-Q02",
+          "iso3": "GBR",
+          "event_id": "GBR_036",
+          "document_id": "8dba23ad5a718c56f17b",
+          "source_id": "60671cb958665eaf",
+          "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+          "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+          "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+          "start_offset": 3498,
+          "end_offset": 4022,
+          "pdf_page": null,
+          "verbatim_extracted_text": "In all cases of\nIRP\napplications, the\nRR\nauthorisation must have undergone a full and standalone review.\nRR\nassessments based on reliance or recognition of authorisations in another territory cannot be used to support an\nIRP\napplication. Full unredacted assessment reports from the referencing authority will be required to support the\nIRP\napplication. It is the responsibility of the applicant to provide the requested documentation. It is not the responsibility of the\nRR\nto provide any documentation directly to the MHRA.",
+          "display_text": "In all cases of IRP applications, the RR authorisation must have undergone a full and standalone review. RR assessments based on reliance or recognition of authorisations in another territory cannot be used to support an IRP application. Full unredacted assessment reports from the referencing authority will be required to support the IRP application. It is the responsibility of the applicant to provide the requested documentation. It is not the responsibility of the RR to provide any documentation directly to the MHRA.",
+          "feature_tags": [
+            "original_review",
+            "reports",
+            "unredacted"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GBR-Q03",
+          "iso3": "GBR",
+          "event_id": "GBR_036",
+          "document_id": "8dba23ad5a718c56f17b",
+          "source_id": "60671cb958665eaf",
+          "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+          "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+          "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+          "start_offset": 6449,
+          "end_offset": 7739,
+          "pdf_page": null,
+          "verbatim_extracted_text": "4.1  Key features of Recognition A\nTo be eligible for Recognition A, the\nRR\napproval must have been granted within the previous 2 years.\nThe manufacturing process must be the same as that approved by the\nRR\n, with evidence of compliance with Good Manufacturing Practice (GMP) meeting MHRA requirements at the time of\nIRP\nsubmission.\nThe Recognition route A will be open to applications that meet the criteria for\nIRP\nand do not trigger any of the Recognition B criteria (see below).\nRecognition A procedures will run to a 60-day timetable starting from the date of successful validation.  There is no clock stop. If major objections or concerns are identified during the procedure which cannot be resolved within 60 days, the timetable will revert to Recognition B timeframe and the applicant will be notified.\n4.2  Key features of Recognition B\nTo be eligible for Recognition route B, the\nRR\napproval must have been granted within the previous 5 years.\nAuthorisations more than 5 years old are not eligible for\nIRP\n.  Where there is an urgent public health need for a rapid assessment, a national fast track request is considered more appropriate in these circumstances:\nhttps://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk#fast-tracking-a-marketing-authorisation",
+          "display_text": "4.1 Key features of Recognition A To be eligible for Recognition A, the RR approval must have been granted within the previous 2 years. The manufacturing process must be the same as that approved by the RR , with evidence of compliance with Good Manufacturing Practice (GMP) meeting MHRA requirements at the time of IRP submission. The Recognition route A will be open to applications that meet the criteria for IRP and do not trigger any of the Recognition B criteria (see below). Recognition A procedures will run to a 60-day timetable starting from the date of successful validation. There is no clock stop. If major objections or concerns are identified during the procedure which cannot be resolved within 60 days, the timetable will revert to Recognition B timeframe and the applicant will be notified. 4.2 Key features of Recognition B To be eligible for Recognition route B, the RR approval must have been granted within the previous 5 years. Authorisations more than 5 years old are not eligible for IRP . Where there is an urgent public health need for a rapid assessment, a national fast track request is considered more appropriate in these circumstances: https://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk#fast-tracking-a-marketing-authorisation",
+          "feature_tags": [
+            "approval_age",
+            "decision_clock",
+            "sameness"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GBR-Q04",
+          "iso3": "GBR",
+          "event_id": "GBR_036",
+          "document_id": "8dba23ad5a718c56f17b",
+          "source_id": "60671cb958665eaf",
+          "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+          "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+          "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+          "start_offset": 14639,
+          "end_offset": 15091,
+          "pdf_page": null,
+          "verbatim_extracted_text": "It is recommended that the same\nRR\nis used for\nIRP\napplications throughout an individual product lifecycle. Marketing authorisation holders (\nMAHs\n) may use more than one\nRR\nduring an individual product lifecycle if this can be justified, for example, on patient benefit grounds. You should highlight changes of\nRR\nduring the product lifecycle in the post-authorisation procedure cover letter if it differs from the\nRR\nused for the initial application.",
+          "display_text": "It is recommended that the same RR is used for IRP applications throughout an individual product lifecycle. Marketing authorisation holders ( MAHs ) may use more than one RR during an individual product lifecycle if this can be justified, for example, on patient benefit grounds. You should highlight changes of RR during the product lifecycle in the post-authorisation procedure cover letter if it differs from the RR used for the initial application.",
+          "feature_tags": [
+            "reference_continuity"
+          ],
+          "role": "Reference-authority lifecycle continuity",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Reference-authority lifecycle continuity",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GBR-CONTEXT-1",
+          "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+          "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+          "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+          "start_offset": 713,
+          "end_offset": 5022,
+          "verbatim_extracted_text": "elopments will be introduced to enhance efficiency and better support applicants with the International Recognition Procedure process from 13 July 2026.\nKey updates include:\nA single opportunity to respond to Validation Correction Requests (VCRs)\nAdvance notice (8 weeks) required for new active substance submissions\nReduction of the Route B reference approval window from 10 years to 5 years (Route A remains unchanged at 2 years)\nA transition phase will be in place; therefore applicants can continue using the current process until 31 August 2026. Updated guidance reflects these changes.\nThese updates are expected to have minimal impact and are designed to improve clarity, efficiency, and predictability when planning submissions.\n1. Overview\nThe International Recognition Procedure (\nIRP\n) was introduced on 1 January 2024. The\nIRP\nhas been introduced to complement the National Pathway for products where applicants have already received an authorisation for the same product from one of MHRA’s specified reference regulators (RRs).\nThe same product is defined as having the same qualitative and quantitative composition (active substance(s) and excipients), the same pharmaceutical form and the same therapeutic use from Applicants belonging to the same company or group of companies or which are ‘licensees’.\nThe applicant will need to demonstrate this by providing proof of approval alongside full unredacted assessment reports from the reference regulator to support their\nIRP\napplication. Further details on supporting documentation can be found in\nSection 10\nIRP\nallows the MHRA to take into account the expertise and decision-making of trusted regulatory partners for the benefit of UK patients. MHRA will conduct a targeted assessment, based on the unredacted assessment report issued by the reference authority but will still retain the authority to approve or refuse applications if the scientific evidence provided by the applicant is considered insufficiently robust.\n2. Scope\nIRP\ncan be used for the following types of marketing authorisation applications (\nMAAs\n) according to the Human Medicines Regulations 2012 (HMRs):\nRegulation 50: chemical and biological new active substances and known active substances\nRegulation 51B: generic applications\nRegulation 52B: hybrid applications\nRegulation 53B: biosimilar applications\nRegulation 55: new fixed combination product applications\nFollowing the implementation of the Windsor Framework on 1 January 2025, applications for GB\nMAs\ncovering Great Britain only will no longer be possible.  All applications must be for UK-wide\nMAs\n.  Please refer to additional guidance on UK-wide licensing here:\nhttps://www.gov.uk/government/publications/uk-wide-licensing-for-human-medicines/uk-wide-licensing-for-human-medicines\nIn all cases of\nIRP\napplications, the\nRR\nauthorisation must have undergone a full and standalone review.\nRR\nassessments based on reliance or recognition of authorisations in another territory cannot be used to support an\nIRP\napplication. Full unredacted assessment reports from the referencing authority will be required to support the\nIRP\napplication. It is the responsibility of the applicant to provide the requested documentation. It is not the responsibility of the\nRR\nto provide any documentation directly to the MHRA.\nConditional and exceptional circumstances\nMAAs\n(or international equivalent such as provisional or accelerated approval) can support an\nIRP\napplication. Emergency approvals are not eligible.\nIRP\ncan be used for post-authorisation procedures including line extensions, variations and renewals (see Post-authorisation\nIRP\napplication).\nThe following submission types are not within scope:\nTraditional herbal registrations\nHomoeopathic registrations (Simplified Registration Scheme)\nHomeopathic national rules authorisations (National Rules Scheme)\nWell-established use bibliographic applications (Regulation 54 of the Human Medicines Regulations)\nCancelled authorisations cannot be used to support an\nIRP\napplication.\nAdditionally, applications that have previously been submitted via the national route and been refused by MHRA or withdrawn before determination cannot be resubmitted through\nIRP\n. The direct national route should be used clearly addressing the major objections or other concerns rai",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "GBR-CONTEXT-2",
+          "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+          "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+          "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+          "start_offset": 5699,
+          "end_offset": 8739,
+          "verbatim_extracted_text": " of the EU, Norway, Iceland and Lichtenstein. (This includes approvals through the centralised, MRP/DCP and individual member state national routes)\n4. Initial\nIRP\nmarketing authorisation application (\nMAA\n)\nThere are two recognition timetables for initial applications (including line extension applications) through\nIRP\n:\nRecognition A: 60-day timetable\nRecognition B: 110-day timetable\nThe timetables are in calendar days.\nSuitability for Recognition A or B is determined by means of an eligibility form to be completed by the applicant 8 weeks before the planned date of\nMAA\nsubmission (see ‘How to apply’).\nApplications that are determined not eligible for\nIRP\ncan be submitted as direct national applications, if national requirements are met.\n4.1  Key features of Recognition A\nTo be eligible for Recognition A, the\nRR\napproval must have been granted within the previous 2 years.\nThe manufacturing process must be the same as that approved by the\nRR\n, with evidence of compliance with Good Manufacturing Practice (GMP) meeting MHRA requirements at the time of\nIRP\nsubmission.\nThe Recognition route A will be open to applications that meet the criteria for\nIRP\nand do not trigger any of the Recognition B criteria (see below).\nRecognition A procedures will run to a 60-day timetable starting from the date of successful validation.  There is no clock stop. If major objections or concerns are identified during the procedure which cannot be resolved within 60 days, the timetable will revert to Recognition B timeframe and the applicant will be notified.\n4.2  Key features of Recognition B\nTo be eligible for Recognition route B, the\nRR\napproval must have been granted within the previous 5 years.\nAuthorisations more than 5 years old are not eligible for\nIRP\n.  Where there is an urgent public health need for a rapid assessment, a national fast track request is considered more appropriate in these circumstances:\nhttps://www.gov.uk/guidance/apply-for-a-licence-to-market-a-medicine-in-the-uk#fast-tracking-a-marketing-authorisation\nIRP\napplications will follow Recognition B if any one (or more) of the following criteria applies:\nRR\nhas granted a conditional or exceptional circumstances\nMA\n(or international equivalent)\nthe application seeks a conditional or exceptional circumstances\nMA\nin UK\nadditional manufacturing sites are cited that have not been assessed by the\nRR\n(except for secondary packaging, labelling and QP release sites)\nthere are substantial changes in the manufacturing process or analytical methods compared to that assessed by the\nRR\nat least one manufacturing site is not yet GMP certified\nthe environmental risk assessment (ERA) has not been assessed by the\nRR\nthe risk management plan (RMP) as proposed for the UK has not been assessed by the\nRR\nthere are UK-specific risk management activities (for example, which may be reflected as additional pharmacovigilance or additional risk minimisation activities)\nthe\nRR\nhas mandated one or more post-authorisation safety studies (PASS)\nthe product contains a f",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "GBR-CONTEXT-3",
+          "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+          "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+          "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+          "start_offset": 13889,
+          "end_offset": 16091,
+          "verbatim_extracted_text": "wing month or until such time as all validation issues are resolved.\n6. Post-authorisation\nIRP\napplications: variations and renewals\nIRP\ncan be used for line extensions, variations (Type 1B, Type II) and renewal applications (including annual renewal of conditional\nMAs\nand annual reassessment of exceptional circumstance\nMAs\n). Type IA variations can be submitted if they are part of a group with Type IB or Type II variations.\nThis includes for submissions during the lifecycle of products that have been initially authorised or subsequently varied via direct national, MRDCRP or ECDRP routes. Conversely, where a product has been authorised via\nIRP\n, it is acceptable to submit direct national post-authorisation procedures, including variations.\nIt is recommended that the same\nRR\nis used for\nIRP\napplications throughout an individual product lifecycle. Marketing authorisation holders (\nMAHs\n) may use more than one\nRR\nduring an individual product lifecycle if this can be justified, for example, on patient benefit grounds. You should highlight changes of\nRR\nduring the product lifecycle in the post-authorisation procedure cover letter if it differs from the\nRR\nused for the initial application.\nThe relevant published MHRA timetables for national post-authorisation procedures will apply to\nIRP\n. The classification of Recognition routes A and B is only applicable for initial\nIRP\nMAAs\nand line extension applications. The eligibility form is not relevant for variations and renewals.\nApplicants are reminded of the obligation to notify MHRA as soon as reasonably practicable of any information that might influence the evaluation of the benefits and risks of an authorised product.\nIRP\nis not a substitute for the\nMAH\n’s obligations to submit pharmacovigilance data and information to MHRA and to keep the\nMA\nup to date with current scientific knowledge. Whilst\nIRP\ncan be used for safety variations, if there is new data which could impact upon the evaluation of the benefits and risks, particularly where the clinical management of patients may be affected, MHRA must be informed as soon as reasonably practical.\n6.1 Variations\nVariations submitted via\nIRP\nshould be classified according to ",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "GBR-CTX-1",
+          "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+          "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+          "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+          "start_offset": 5022,
+          "end_offset": 5700,
+          "verbatim_extracted_text": "sed during the previous assessment.\nIn the instance that the MHRA advises that an application is not suitable for\nIRP\n, it can be submitted via the direct national route if MHRA requirements are met.\n3. Reference regulators (RRs)\nAcceptable RRs are shown in the table below.\nCountry or jurisdiction\nRegulatory authority\nAustralia\nTherapeutic Goods Administration (TGA)\nCanada\nHealth Canada\nSwitzerland\nSwissMedic\nSingapore\nHealth Science Authority Singapore (HSA)\nJapan\nPharmaceuticals and Medical Devices Agency (PMDA)\nUnited States\nFood and Drug Administration (FDA)\nEuropean Union/European Economic Area\nEuropean Medicines Agency (EMA) and Member State Competent Authorities ",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "GBR-CTX-2",
+          "source_url": "https://www.gov.uk/government/publications/international-recognition-procedure/international-recognition-procedure",
+          "raw_sha256": "579d03f83989c114c99f5353cfa7e92b0dceb66154914304fb77bc2b38a9fdd8",
+          "text_sha256": "7506a24596eb06eba7f4012ad3a6149613b1596ac3fe25e2aa45c327d061d99d",
+          "start_offset": 22300,
+          "end_offset": 33000,
+          "verbatim_extracted_text": "o be contacted by MHRA prior to submission.\nSubmit the form along with your\nMAA\napplication.\nThe form should be included in module 1.2 of the eCTD and the cover letter should indicate which recognition route (A or B) and\nRR\nyou are using.\n7.6\nIRP\nsubmission\nAll\nRR\ndocuments submitted in support of an\nIRP\napplication to MHRA must be in English. A certified translation for any original documents that are not in English together with confirmation in writing that the translation is correct is required.\nIt is your responsibility to provide the requested documentation. It is not the responsibility of the\nRR\nto provide any documentation to MHRA.\nSee\nfurther information on the location of the\nRR\ndocuments in module 1 of the eCTD\n.\n7.6.1 New\nIRP\nmarketing authorisation applications\nApplications should be submitted through the Human Medicines Portal. No other submission route is acceptable for\nIRP\n. On submission the system will prompt a response to confirm whether the application is Recognition Route A or Route B or is a recognition variation. Following this there will be a prompt to confirm whether the documentation relates to an original submission\na validation correction request (VCR)\na response\nThe\nIRP\napplication should be submitted as one electronic Common Technical Document (eCTD) sequence through the MHRA Submissions Portal. The eCTD should be in EU format with a UK-specific module 1. Certain information should be included in the cover letter (see below).\nThe eCTD submission should be aligned with the consolidated dossier as reviewed and approved by the\nRR\n, including the applicant’s full responses to\nRR\nquestions. It should include approved post-authorisation changes, including variations once approved by the\nRR\n. For new\nIRP\nMAAs\n, the submission must include:\ndocumentation of the\nRR\n’s approval decision(s)\nRR\n’s full unredacted assessment report(s).  All available iterations of the\nRR\n’s assessment reports for the initial authorisation and any major post-authorisation procedures (for example, significant variations, renewals) should be provided.\nIn cases where an assessment report is not available from the reference regulator, the International Recognition Procedure (\nIRP\n) will not be an appropriate route for submission. Applicants are advised to apply via the national procedure in such instances.\nthe final product information (or international equivalent) approved by the\nRR\na list of differences (other than formatting) between the dossier approved by the\nRR\nand that submitted to MHRA\n7.6.2 Post authorisation applications\nFor post-authorisation\nIRP\napplications (including variations), the submission must include:\ndocumentation of the\nRR\n’s approval decision\nall iterations of the\nRR\n’s assessment reports for the relevant post-authorisation procedure - note that an\nRR\nassessment report is not required for Type IB variations, but where available, it should be provided.\nthe final product information (or international equivalent) and/or updated risk management plan approved by the\nRR\nif applicable.\nWhere EMA is the\nRR\n, a\nCHMP\npositive opinion letter is sufficient documentation of approval. Applicants should not submit their\nIRP\napplications until they have received the\nCHMP\npositive opinion and agreed final product information. For MR-DC recognition, a positive end-of-procedure (EoP) letter is sufficient documentation of approval.\n7.6.3 Cover letter\nFor\nIRP\ninitial applications to be validated, the cover letter must include the information listed below. See the\nvalidation checklist\nto help ensure all the requirements have been met. This should be submitted with the application as an annex to the cover letter.\nFor\nIRP\npost-authorisation applications, including variations, this information is captured in a\nvalidation checklist form\nthat must be completed and submitted as an annex to the cover letter.\nThe cover letter should  state:\nThat the route is International Recognition, who the\nRR\nis, and whether it is Recognition A or Recognition B (as determined by the eligibility form which should be included in Module 1.2 with the electronic application form (eAF)).\nFor a recognition variation, that the route is International Recognition and who the\nRR\nis. If this is different from the authority authorising the initial application this should also be stated each time.  This includes where the initial application was authorised nationally by the MHRA.\nA declaration that all unredacted iterations of the\nRR\nassessment reports have been submitted (see reference regulator documents). Assessment reports should be listed.  Where interim assessment reports are not available from the\nRR\nthis should be declared.\nA confirmation that\nMAH\nfor the application(s) is the same company or belongs to the same (legal) group of companies as the\nMAH\nin the\nRR\nprocedure. Alternatively, a written declaration that all the legal obligations can be met at submission, during the assessment process and throughout the life of the\nMA\nis provided.\nthe type of\nRR\napproval for initial applications, such as full approval or conditional/provisional/accelerated approval (or international equivalent).\nAny conditions associated with the\nRR\napproval, including where the\nRR\nhas approved a conditional or exceptional use\nMA\n(or international equivalent). Details of\nRR\ndecisions on the fulfilment of any conditions should be included.\nAny proposed conditions for UK approval.\nFor initial\nIRP\nMAAs\nand extension of indication applications, the wording of the indication approved by the\nRR\nshould be adapted to take account of UK clinical terminology and practice in accordance with guidance on indications in Volume 2C of the ‘Notice to Applicants’\nhttps://health.ec.europa.eu/document/download/6a043dea-7d0f-4252-947b-cef58f53d37e_en?filename=smpc_guideline_rev2_en\n.  However it must not differ in scope from that approved by the\nRR\n.  All differences between the proposed indication for UK and that approved by the reference regulator should be explained and justified as compliant with the guideline on Summary of product characteristics and consistent with UK practice for the therapeutic area.\nA justification for the adverse drug reactions (preferred terms and frequencies) listed in section 4.8 of the SmPC, or indicate where in the eCTD module 2 this information is provided.\nIf the procedure includes an active substance master file (\nASMF\n), a declaration that the\nASMF\nholder has submitted the applicant’s and restricted parts of the\nASMF\n, including approved variations and the assessment reports on the applicant’s and restricted parts.\nWhether or not there are any differences in the proposed UK RMP compared to the RMP that was approved by the\nRR\n(where relevant) and describe any differences in the proposed safety concerns, additional pharmacovigilance activities or additional risk minimisation measures.\nA summary of the UK and global regulatory history of the medicinal product.\nWhether an application for the same product has been approved, withdrawn, refused, or rejected by another\nRR\n. Provide reasons for any withdrawal, refusal or rejection.\nWhether a marketing authorisation for the same product has been withdrawn, revoked, suspended or not renewed by another\nRR\n. Provide reasons for any withdrawal, revocation, suspension or non-renewal.\nWhether there are any scientific or technical differences between the dossier approved by the\nRR\nand that submitted to MHRA. Provide a list of these differences with a justification\nFor variations to add a new indication:\nConfirm whether extended data exclusivity and/or market protection is claimed and if so confirm that section 4c of the application from was updated accordingly.\nConfirm whether orphan designation for the new indication is applied for and if so confirm that the UK Orphan Drug Designation Application Form has been provided in Module 1.2 of the eCTD.\nConfirm that all medicinal products granted an Orphan designation in the UK for a condition related to the proposed new indication is captured in section 4a of the application from and that Modules 1.7.1 and 1.7.2 were updated as applicable.\nFor submissions that will trigger the paediatric requirements:\nConfirm that the latest UK paediatric investigation plan, waiver opinion/decision, or class waiver decision has been provided.\nConfirm that the compliance check outcome document has been provided\nConfirm whether you are applying for a paediatric “Statement of Compliance” from the MHRA\n8. National requirements\nThe medicinal product must be classified as a medicinal product under the UK Human Medicines Regulations 2012 (as amended). The standard MHRA requirements for a UK marketing authorisation will apply. Further relevant information about national requirements is available in the following subsections.\n8.1  Orphan drug designation\nIRPs that include an orphan drug designation application will follow the Route B procedure. See further information on\norphan drug designation application\n.\n8.2  Paediatric requirements\nFor submissions that will trigger paediatric requirements, the\nIRP\napplication dossier must include:\nthe latest UK Paediatric Investigation Plan (PIP)/waiver opinion/decision or class waiver decision\nthe compliance check outcome documents\nIf paediatric requirements are triggered in any other jurisdiction, the latest PIP/Paediatric Study Plan (PSP)/waiver opinion/decision or class waiver decision to the MHRA Paediatrics team should be submitted as part of the UK-PIP submission.\nFurther information is available here:\n)\n. https://www.gov.uk/guidance/procedures-for-uk-paediatric-investigation-plan-pips\n8.3  Risk management plan (RMP)\nThe RMP must meet MHRA requirements and follow the EU RMP template. Where appropriate, the format of UK-specific RMP annex + approved EU RMP is also acceptable. For further information on the required format of the RMP, see\nguidance on pharmacovigilance procedures\n.\nIf the\nRR\nhas not assessed the RMP, the product will be eligible for Recognition B only.\nIn the case that the\nRR\nhas approved an RMP, but it is not the same as the RMP proposed for UK or not in the required format, the product will be eligible for Recognition B only.\n8.4  Advanced therapy medicinal products (ATMPs)\nATMPs are eligible for Recognition B only. See a\ndefinition of ATMPs\n.\nDue to potential differences between guidelines internationally, some\nIRP\napplications may require additional checks by MHRA. For example, not all product types are covered by mutual recognition agreements between MHRA and other regulators and some compliance/GMP checks might, therefore, be required by MHRA.\nConsequently, applicants are strongly advised to engage with the MHRA at the ea",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "explicit_full_report_gate": true,
+      "unresolved_requirements": [
+        "All remaining Route A versus Route B criteria",
+        "Independent applicant/reference sharing consent not expressly resolved by document responsibility clause"
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

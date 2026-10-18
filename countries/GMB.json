@@ -690,5 +690,894 @@
       "8e667c9b68f140716757e80545ce4b4dac3e4995c21985582dbd10bc6c51925c",
       "92129ce96aa7e84335eea2221d0f31abd1b6a2e2eb656f8bfe6e96cfe9538df8"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "GMB",
+    "country": "Gambia",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Verification with information-sharing and local bridging",
+    "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+    "document_id": "018ab5d2a980e8553e2f",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Gambia MCA-GL 109 v 2 and Annex 2 v 2 dated 25 June 2025. Public-report preference for European-central products, full-report qualifications, masking and sharing permissions are all retained. The main text contains the literal does grant wording; no silent correction is made.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "explicit requirement",
+        "finding": "Registered and actually marketed in the reference market.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Identical foreign file/sameness and complete unaltered reviews for verification.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Main text asks for complete unaltered reviews. Annex 2 says access to full report if available and prefers public reports for European-central products, with justified masking.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "discretionary/conditional",
+        "finding": "Annex 2 allows fully justified masking of highly confidential, sensitive or unrelated passages.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "public_report_sufficiency": {
+        "state": "discretionary/conditional",
+        "finding": "Annex 2 prefers public reports for European-central products. This does not prove whole-case eligibility or waive possible additional requests.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "applicant_consent": {
+        "state": "explicit requirement",
+        "finding": "Manufacturer agreement to allow the reference institution to share assessment/GMP information, with content agreed before transfer.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "explicit requirement",
+        "finding": "Section 6.1.3 requires written permission for reference-institution-owned nonpublic information; Annex 3 is incorporated. This is the identified confidential-sharing package.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "discretionary/conditional",
+        "finding": "Public reports and manufacturer/reference-institution sharing alternatives; Annex 3 data-sharing confirmation incorporated.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "Optional bridging assessment can help establish local relevance; no universally mandatory new local clinical trial inferred.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Local benefit/risk, label, climatic and population assessment retained. A bridging report is not universally mandatory.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Decision and applicant-response deadlines incorporated through a separate MA guideline.",
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "nonpublic-sharing option impeded; public alternative unresolved",
+        "finding": "Manufacturer agreement is required for the reference institution to share its reports. A public European-central-report alternative exists, so whole-case ineligibility across all options is unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ],
+        "status": "nonpublic-sharing option impeded; public alternative unresolved"
+      },
+      "D": {
+        "eligibility": "nonpublic-sharing option impeded; public alternative unresolved",
+        "finding": "Reference-institution permission is required for its nonpublic information. The Annex 2 public-report option means alternative eligibility remains unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ],
+        "status": "nonpublic-sharing option impeded; public alternative unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "GMB-Q01",
+          "GMB-Q02",
+          "GMB-Q03",
+          "GMB-CONTEXT-1",
+          "GMB-CTX-1",
+          "GMB-ANNEX2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "GMB-Q01",
+        "iso3": "GMB",
+        "event_id": "GMB_089",
+        "document_id": "018ab5d2a980e8553e2f",
+        "source_id": "502c876de209b0ba",
+        "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+        "raw_sha256": "4416870ae149a9678259c7b385c870ce9f97854e1f9c835ecb53f83ec1108389",
+        "text_sha256": "a45f3b467bd21cfd393e7e5ac32f383480051a2d6f1c36d8ba14aca9038a81a5",
+        "start_offset": 15161,
+        "end_offset": 17490,
+        "pdf_page": 6,
+        "verbatim_extracted_text": "6.1.3 Additional information for marketing authorisation applications as \nwell as for applications for variations \na. All review(s), assessment reports as well as inspection reports by the ref-\nerence institution, substantiating the current authorisation status of the \nmedicine, should be provided by the applicant when the submission is filed \nwith MCA.  \nb. Written confirmation of permission for sharing reference institution-owned \nnon-public information with MCA (see Annex 3). \nNote for variation applications: If the confirmation has been obtained for \nthe initial marketing authorisation application with unlimited validity, the \nconfirmation does not have to be renewed with the reference institution. \nNonetheless, the written confirmation should be part of each submission. \nThe legal information accompanying the dossier should be duly certified and \nauthenticated under the procedure, in effect, in the country of origin, and \nissued by the appropriate entity. \nc. Samples of the medicine from commercial batches, submitted to support \nthe application as per sample schedule. \n6.2 \nRequirements for Verification \n6.2.1. The applicant should verify the “sameness” of the reference institution-ap-\nproved medicine with the one applied for the purpose of reliance.  \n6.2.2. For this, \na. the “Quality information summary” (QIS) has to be provided (in CTD-mod-\nule 1.2). Details on the information requested for finished pharmaceutical \nproducts (FPP) and for biologicals (biotherapeutics) are provided in Annex \n4a (QIS-RI-FPP) and Annex 4b (QIS-RI-BTP), respectively.  \nb. the applicant should confirm in writing that the review(s) provided is/are \ncomplete and unaltered. The applicant should confirm that the documenta-\ntion filed in the submission is identical to that, on which the review(s) and \nauthorisation decision was based. If it is not identical, all differences should \nbe clearly indicated.  \n\n\nPAGE 7\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 7 of 13\n \nc. The product should have been registered, prequalified and/or granted mar-\nketing authorisation and is, in the latter case, actually on the market of the \nreference authority.",
+        "display_text": "6.1.3 Additional information for marketing authorisation applications as well as for applications for variations a. All review(s), assessment reports as well as inspection reports by the ref- erence institution, substantiating the current authorisation status of the medicine, should be provided by the applicant when the submission is filed with MCA. b. Written confirmation of permission for sharing reference institution-owned non-public information with MCA (see Annex 3). Note for variation applications: If the confirmation has been obtained for the initial marketing authorisation application with unlimited validity, the confirmation does not have to be renewed with the reference institution. Nonetheless, the written confirmation should be part of each submission. The legal information accompanying the dossier should be duly certified and authenticated under the procedure, in effect, in the country of origin, and issued by the appropriate entity. c. Samples of the medicine from commercial batches, submitted to support the application as per sample schedule. 6.2 Requirements for Verification 6.2.1. The applicant should verify the “sameness” of the reference institution-ap- proved medicine with the one applied for the purpose of reliance. 6.2.2. For this, a. the “Quality information summary” (QIS) has to be provided (in CTD-mod- ule 1.2). Details on the information requested for finished pharmaceutical products (FPP) and for biologicals (biotherapeutics) are provided in Annex 4a (QIS-RI-FPP) and Annex 4b (QIS-RI-BTP), respectively. b. the applicant should confirm in writing that the review(s) provided is/are complete and unaltered. The applicant should confirm that the documenta- tion filed in the submission is identical to that, on which the review(s) and authorisation decision was based. If it is not identical, all differences should be clearly indicated. PAGE 7 Guideline for Reliance on decisions, reports, or information from other national MCA The Gambia regulatory authorities (NRAs) or regional and international bodies MCA-GL-109, version 2 – 25 June 2025 Page 7 of 13 c. The product should have been registered, prequalified and/or granted mar- keting authorisation and is, in the latter case, actually on the market of the reference authority.",
+        "feature_tags": [
+          "reports",
+          "sameness",
+          "foreign_marketing"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GMB-Q02",
+        "iso3": "GMB",
+        "event_id": "GMB_089",
+        "document_id": "018ab5d2a980e8553e2f",
+        "source_id": "502c876de209b0ba",
+        "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+        "raw_sha256": "4416870ae149a9678259c7b385c870ce9f97854e1f9c835ecb53f83ec1108389",
+        "text_sha256": "a45f3b467bd21cfd393e7e5ac32f383480051a2d6f1c36d8ba14aca9038a81a5",
+        "start_offset": 18161,
+        "end_offset": 20729,
+        "pdf_page": 7,
+        "verbatim_extracted_text": "6.3.3. For an abridged/abbreviated review of the full submission, in addition to the \ndocumentation/information requirements laid out in sections 6.1 and 6.2 of \nthis guideline, a so-called bridging report should be submitted by the appli-\ncant. \nThe bridging report: \n6.3.4. The reference institution’s assessments may not always account for specific \ncircumstances that can significantly affect the benefit-risk of a medicine in \nother countries/regions. Hence, the reference institution’s assessment reports \nmay have to be considered incomplete, when a reference institution-approved \nproduct is submitted for the regulatory approval in The Gambia and the con-\nditions of use or the benefit–risk profile of the medicine may differ. In these \ncases, the applicant should support the application by providing evidence of a \npositive benefit–risk profile for the proposed conditions of use in The Gambia. \n6.3.5. Differences in target population, epidemiology and other features of the dis-\nease, concomitantly used medicines and hence the interaction potential, local \ntreatment and diagnostic modalities, and other factors can substantially affect \nthe benefit-risk profile of a medicine. There can also be issues related to cer-\ntain quality parameters, especially in relation to the stability under different \nclimatic conditions. \n6.3.6. A bridging report should, in particular, justify the: \n- comparability of the studied population to the target population (e.g. eth-\nnicity, gender representation, age groups) as regards demonstration of ef-\nficacy and safety; \n- relevance of reference institution-approved conditions of use as regards \nepidemiology and disease pattern in The Gambia as well as other implica-\ntions for efficacy and safety, e.g. feasibility of monitoring and precautionary \nmeasures (e.g. resistance testing or therapeutic drug monitoring); \n- interactions with food and with other medications relevant in The Gambia \nthat are not discussed in the reference institution’s assessment report; \n- therapeutic role of a product and its recommended use according to rele-\nvant national and international treatment guidelines; \n- quality issues, including but not limited to, storage conditions and condi-\ntions of administration and use; \n\n\nPAGE 8\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 8 of 13\n \n- risk management plan for a new medicine (see ‘Definitions’ for details)",
+        "display_text": "6.3.3. For an abridged/abbreviated review of the full submission, in addition to the documentation/information requirements laid out in sections 6.1 and 6.2 of this guideline, a so-called bridging report should be submitted by the appli- cant. The bridging report: 6.3.4. The reference institution’s assessments may not always account for specific circumstances that can significantly affect the benefit-risk of a medicine in other countries/regions. Hence, the reference institution’s assessment reports may have to be considered incomplete, when a reference institution-approved product is submitted for the regulatory approval in The Gambia and the con- ditions of use or the benefit–risk profile of the medicine may differ. In these cases, the applicant should support the application by providing evidence of a positive benefit–risk profile for the proposed conditions of use in The Gambia. 6.3.5. Differences in target population, epidemiology and other features of the dis- ease, concomitantly used medicines and hence the interaction potential, local treatment and diagnostic modalities, and other factors can substantially affect the benefit-risk profile of a medicine. There can also be issues related to cer- tain quality parameters, especially in relation to the stability under different climatic conditions. 6.3.6. A bridging report should, in particular, justify the: - comparability of the studied population to the target population (e.g. eth- nicity, gender representation, age groups) as regards demonstration of ef- ficacy and safety; - relevance of reference institution-approved conditions of use as regards epidemiology and disease pattern in The Gambia as well as other implica- tions for efficacy and safety, e.g. feasibility of monitoring and precautionary measures (e.g. resistance testing or therapeutic drug monitoring); - interactions with food and with other medications relevant in The Gambia that are not discussed in the reference institution’s assessment report; - therapeutic role of a product and its recommended use according to rele- vant national and international treatment guidelines; - quality issues, including but not limited to, storage conditions and condi- tions of administration and use; PAGE 8 Guideline for Reliance on decisions, reports, or information from other national MCA The Gambia regulatory authorities (NRAs) or regional and international bodies MCA-GL-109, version 2 – 25 June 2025 Page 8 of 13 - risk management plan for a new medicine (see ‘Definitions’ for details)",
+        "feature_tags": [
+          "local_evidence",
+          "reports"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "GMB-Q03",
+        "iso3": "GMB",
+        "event_id": "GMB_089",
+        "document_id": "e39d8f92e6cc6076c2da",
+        "source_id": "d309cfbdda0f739d",
+        "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-L-109-01_v2_Annex1_RIs_25Jun25.pdf",
+        "raw_sha256": "495c3640d892112c0ddf33bc93fae07cb0be2434f4adafef36531d1984210fcc",
+        "text_sha256": "26959c2a24f64e4deb400e223d2d22552d43920384b3d8142d18be07bdbcfd29",
+        "start_offset": 995,
+        "end_offset": 1167,
+        "pdf_page": 1,
+        "verbatim_extracted_text": "Reliance on a regulatory decision based in itself on reliance should not be acceptable.  \n \nThe basis for reliance should be an assessment of major parts of the submission.",
+        "display_text": "Reliance on a regulatory decision based in itself on reliance should not be acceptable. The basis for reliance should be an assessment of major parts of the submission.",
+        "feature_tags": [
+          "original_review"
+        ],
+        "role": "Permission and conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review in this run; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows",
+        "evidence_tier": "national_rule",
+        "section_article": "Permission and conditions",
+        "translation_review": null,
+        "selected_primary_document": false
+      },
+      {
+        "clause_id": "GMB-CONTEXT-1",
+        "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+        "raw_sha256": "4416870ae149a9678259c7b385c870ce9f97854e1f9c835ecb53f83ec1108389",
+        "text_sha256": "a45f3b467bd21cfd393e7e5ac32f383480051a2d6f1c36d8ba14aca9038a81a5",
+        "start_offset": 14411,
+        "end_offset": 21729,
+        "verbatim_extracted_text": "ubmission in line with the MCA \nGuideline on the Investigation of Bioequivalence to establish interchangea-\nbility and applicable national regulatory requirements for participating \nNRAs.  \n6.1.2 For applications for variations \na. Module 1, adapted, following the contents/format/structure laid out in An-\nnex 2 (“Proposed documentation for the abridged procedure for reference \ninstitution-approved medical products”). \nb. Module 2, complete as submitted to the reference institution. \nNote: In the case of generic medicines for which a Clinical summary is not \navailable, the Clinical overview (Module 2.5) should be included. \nc. Modules 3, 4 and/or 5 as submitted to the reference institution for the sub-\nstantiation of the applied variation. \n6.1.3 Additional information for marketing authorisation applications as \nwell as for applications for variations \na. All review(s), assessment reports as well as inspection reports by the ref-\nerence institution, substantiating the current authorisation status of the \nmedicine, should be provided by the applicant when the submission is filed \nwith MCA.  \nb. Written confirmation of permission for sharing reference institution-owned \nnon-public information with MCA (see Annex 3). \nNote for variation applications: If the confirmation has been obtained for \nthe initial marketing authorisation application with unlimited validity, the \nconfirmation does not have to be renewed with the reference institution. \nNonetheless, the written confirmation should be part of each submission. \nThe legal information accompanying the dossier should be duly certified and \nauthenticated under the procedure, in effect, in the country of origin, and \nissued by the appropriate entity. \nc. Samples of the medicine from commercial batches, submitted to support \nthe application as per sample schedule. \n6.2 \nRequirements for Verification \n6.2.1. The applicant should verify the “sameness” of the reference institution-ap-\nproved medicine with the one applied for the purpose of reliance.  \n6.2.2. For this, \na. the “Quality information summary” (QIS) has to be provided (in CTD-mod-\nule 1.2). Details on the information requested for finished pharmaceutical \nproducts (FPP) and for biologicals (biotherapeutics) are provided in Annex \n4a (QIS-RI-FPP) and Annex 4b (QIS-RI-BTP), respectively.  \nb. the applicant should confirm in writing that the review(s) provided is/are \ncomplete and unaltered. The applicant should confirm that the documenta-\ntion filed in the submission is identical to that, on which the review(s) and \nauthorisation decision was based. If it is not identical, all differences should \nbe clearly indicated.  \n\n\nPAGE 7\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 7 of 13\n \nc. The product should have been registered, prequalified and/or granted mar-\nketing authorisation and is, in the latter case, actually on the market of the \nreference authority.   \n6.3 \nRequirements for abridged/abbreviated review  \n6.3.1. The abridged/abbreviated review may pertain to the full submission or parts \nthereof, depending on the suitability of use under local conditions and regu-\nlatory requirements. \n6.3.2. An abridged/abbreviated review for parts of the submission may be applied \nfor the active pharmaceutical ingredients (API). MCA recognises the Certifi-\ncates of Suitability to the monographs of the European Pharmacopoeia (CEP) \nfor API as well as the Confirmation of API Prequalification (CPQ) issued by the \nWHO Prequalification Team Medicines Programme (WHO-PQ) for APIs as a \nvalidation of the quality of a certain API. \n6.3.3. For an abridged/abbreviated review of the full submission, in addition to the \ndocumentation/information requirements laid out in sections 6.1 and 6.2 of \nthis guideline, a so-called bridging report should be submitted by the appli-\ncant. \nThe bridging report: \n6.3.4. The reference institution’s assessments may not always account for specific \ncircumstances that can significantly affect the benefit-risk of a medicine in \nother countries/regions. Hence, the reference institution’s assessment reports \nmay have to be considered incomplete, when a reference institution-approved \nproduct is submitted for the regulatory approval in The Gambia and the con-\nditions of use or the benefit–risk profile of the medicine may differ. In these \ncases, the applicant should support the application by providing evidence of a \npositive benefit–risk profile for the proposed conditions of use in The Gambia. \n6.3.5. Differences in target population, epidemiology and other features of the dis-\nease, concomitantly used medicines and hence the interaction potential, local \ntreatment and diagnostic modalities, and other factors can substantially affect \nthe benefit-risk profile of a medicine. There can also be issues related to cer-\ntain quality parameters, especially in relation to the stability under different \nclimatic conditions. \n6.3.6. A bridging report should, in particular, justify the: \n- comparability of the studied population to the target population (e.g. eth-\nnicity, gender representation, age groups) as regards demonstration of ef-\nficacy and safety; \n- relevance of reference institution-approved conditions of use as regards \nepidemiology and disease pattern in The Gambia as well as other implica-\ntions for efficacy and safety, e.g. feasibility of monitoring and precautionary \nmeasures (e.g. resistance testing or therapeutic drug monitoring); \n- interactions with food and with other medications relevant in The Gambia \nthat are not discussed in the reference institution’s assessment report; \n- therapeutic role of a product and its recommended use according to rele-\nvant national and international treatment guidelines; \n- quality issues, including but not limited to, storage conditions and condi-\ntions of administration and use; \n\n\nPAGE 8\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 8 of 13\n \n- risk management plan for a new medicine (see ‘Definitions’ for details)  \n6.3.7. Provision of a bridging report is not mandatory, but may substantially facilitate \nconduct of the regulatory assessment, reduce the number of potential regu-\nlatory questions and shorten the duration of the regulatory approval process. \nThis report has to be dated and signed by the author and the author’s CV be \nattached. \n \n \nBiologicals/Biotherapeutic\nproducts (BTP) \nInnovator \nFPPs \nGeneric \nFPPs \nQuality Information Sum-\nmary for FPP (QIS-RI- \nFPP) \n(Annex 4a) \nQuality Information Sum-\nmary for BTP (QIS-RI- \nBTP) \n(Annex 4b) \n \nFinished pharmaceutical\nproducts (FPPs) \nCertificates for \ndrug substance \n(DS) \n \nBridging report \nType of \nmedicine \nFull documentation in CTD format, \nas submitted to Reference Institution (RI):\nModule 1 (Annex 3) \nModule 2 \nModule 3 (+ region specific info) \n(Module 4) \n(Module 5) \nGeneral required \ndocumentation \nModule 2 \n(Clinical over-\nview 2.5, in-\nstead of clinical\nsummary) \nReview, assessment and inspection reports by the RI \nPermission ",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "GMB-CTX-1",
+        "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+        "raw_sha256": "4416870ae149a9678259c7b385c870ce9f97854e1f9c835ecb53f83ec1108389",
+        "text_sha256": "a45f3b467bd21cfd393e7e5ac32f383480051a2d6f1c36d8ba14aca9038a81a5",
+        "start_offset": 21729,
+        "end_offset": 37774,
+        "verbatim_extracted_text": "of data sharing (Annex 3) \nAdditional require-\nments for  \nverification \nConfirmation of RI \n- reviews are complete and unaltered \n- documentation filed is identical to file RI re-\nCertificates for active \npharmaceutical ingredi-\nent (API): CEP and CPQ \nAdditional require-\nments for abridged/ \nabbreviated review \nBatch Samples \n\n\nPAGE 9\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 9 of 13\n \nFigure 1: Documentation requirements in reliance-based approach for the application \nof marketing authorisation/registration or variations of medicines provided by the ap-\nplicant \n7 \nGuidance for Implementation \n7.1 \nGuiding Principles \n7.1.1. MCA adheres to the following guiding principles when using reference institu-\ntions’ reviews: \na. MCA uses, where appropriate, reference institutions’ reviews to perform \npart of the evaluation or to inform MCA’s decision-making. However, MCA \ndoes grant (or refuse to grant) a marketing authorization or approve a var-\niation based solely on the existence of a reference institution’s review and \nits corresponding regulatory decision. \nb. The use of reference institutions’ reviews may be applicable, to variable \ndegrees, to the regulatory review of medicines covered under the scope of \nthis guideline and when available, are considered when determining the \nreview strategy. However, an applicant will not be required to file a sub-\nmission at a reference institution, nor will MCA unilaterally decide to delay \nthe Gambia’s review until a reference institution’s review is available. \nc. The extent to which a reference institution’s review may be used to inform \nMCA’s regulatory decision on a medicine will be guided by MCA’s estimation \nof the benefits and risks/limitations of using that review (or components \nthereof) to inform the Gambian regulatory decision-making process. \nd. The MCA reserves the right to subject all submissions for approval to an \n‘abridged’ evaluation of a certain part of the application (e.g. relevant to \nuse under local condition), such as product quality data in relation to cli-\nmatic conditions and distribution infrastructure and a benefit-risk assess-\nment in relation to use in the local ethnic population, medical practice/cul-\nture and patterns of disease and nutrition. \ne. While the use of reference institutions’ reviews may enhance timely access \nto high quality medicines, it is essential that benefit-risk assessments of \nhealth products be made within the context of the Gambia’s health care \nsystem. Final regulatory decisions on the granting or refusal or approval of \na marketing authorisation or variation of medicines for the citizens are \nmade by MCA. \nf. In all cases, the Gambia’s product labelling (e.g. summary of product char-\nacteristics or professional product information, package insert or patient \ninformation leaflet) will be reviewed by MCA to ensure it meets Gambia’s \nrequirements, in accordance with the Medicines and Related Products Reg-\nulations, applying MCA standard operating procedures and current prac-\ntices. \ng. Confidentiality of submitted data and non-disclosure to a third party is as-\nsured by the organisational policies applied by MCA. \n7.2 \nTimelines \n7.2.1. Formal deficiencies in the submitted application and the dossier will be com-\nmunicated to the applicant, in line with the MCA procedures. Timelines for \n\n\nPAGE 10\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 10 of 13\n \ndecisions from MCA as well as applicant response timelines are detailed in the \nrespective authorisation guidelines.  \n7.3 \nReliance Principles for variations \n7.3.1. NRAs are encouraged to establish alternative accelerated timelines for varia-\ntions on medicines that have previously been approved by the other NRAs. \nAccordingly, those NRAs should create a list of the NRA approvals they will \nrecognise. As an expedite regulatory pathway the following approaches of ac-\ncelerated timelines could be established: \n• The NRA recognises the decision of other regulatory authorities and does \nnot perform a review of supporting data but is informed of the change. \nUsing this approach, NRA could allow changes to be implemented immedi-\nately after receipt of the change notification. \n• The NRA performs an assessment of the decision of the NRA of the licensing \ncountry to determine if recognition of the latter NRA’s decision is appropri-\nate. Using this reliance-based approach, NRAs established abbreviated re-\nview timelines (for details see the respective authorisation (registration) \nguidelines). \n• The NRA performs a partial review and evaluation of a complete supporting \ndata package, as originally submitted to the licensing country. Using this \napproach, timelines would be expected to be shorter than the timelines of \na common approval of variation. \n7.3.2. If a variation application is rejected by MCA, this will be communicated to the \napplicant with an explanation for the rejection. As appropriate, there should \nbe an opportunity for dialogue between the MCA and the applicant, as neces-\nsary, with the aim of resolving the NRA’s concerns with the application. \n7.3.3. Withhold/Suspension/Withdrawal of the product as authorised by the refer-\nence authority (or from the list of prequalified products) must be reported by \nthe Marketing Authorisation Holder (MAH) to the MCA within 30 days including \nofficial document stating the reason for this action. When applicable, this \nshould be a letter/document issued by the reference authority. \nDefinitions \nInterpretations and abbreviations contained in the MCA Glossary can be found on the \nMCA Website: www.mca.gm. \nThe definitions provided below apply to the terms used in this guideline. They may \nhave different meanings in other contexts and documents. \nThe interpretation of terms provided in the Act and Regulations apply, unless further \ndefined in this guideline. \nAbridged/abbreviated regulatory pathway/review  \nRegulatory procedures facilitated by reliance, whereby a regulatory decision is solely \nor partially based on application of reliance. This usually involves some work by the \nnational regulatory authority (NRA) that is practising reliance. It is expected that use \nof reliance in these pathways will save resources and time as compared with standard \npathways, while ensuring that the standards of regulatory oversight are maintained. \n\n\nPAGE 11\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 11 of 13\n \nApplicant  \nA person or entity who has applied for regulatory approval of a product or a change \nthereof. All applicants are to own the product. Representatives of product owners may \nnot hold themselves as applicants unless they own the product.  \nIn some jurisdictions this term is used in a wider sense (see “Marketing authorisation \nholder)”. \nFinished Pharmaceutical Product (FPP)  \nProduct that has undergone all stages of production, including packaging in its final \ncontainer and labelling. An FPP may contain one or more active pharmaceutical in-\ngredients. \nInnovator finished pharmaceutical product  \nA novel medicinal product (medicine), which was the first product authorised for mar-\nketing by any country (normally as a patented product) on the basis of documentation \nof efficacy, safety and quality according to requirements at the time of the authorisa-\ntion. \nMarketing Authorisation Holder (MAH) \nA company or other legal entity that has the authorisation by a regulatory authority \nto market a medicine or related product and who is responsible for its quality, efficacy \nand safety and for compliance with conditions of authorisation (registration) \nMedicines/Medicinal Products \nAny substance or combination of substances prepared, sold or presented for use in \nthe diagnosis, treatment, mitigation or prevention of disease, disorder of abnormal \nphysical state or the symptoms of it or restoring, correcting or modifying organic \nfunctions in human beings \nThe term “medicines/medicinal products” in the context of this guideline includes fin-\nished pharmaceutical products (FPPs), biologicals (biotherapeutics), and vaccines. Not \nincluded are medical devices, in-vitro diagnostics, blood products and animal prod-\nucts. \nGeneric (multisource) finished pharmaceutical product \nA medicine (medicinal product), which has the same qualitative and quantitative com-\nposition in active pharmaceutical ingredients and the same pharmaceutical form as \nthe authorised reference medicine and which bioequivalence with the reference med-\nicine has been demonstrated by appropriate bioavailability studies. \nNational regulatory authority (NRA) \nA National s Regulatory Authority is a country’s entity responsible for the registration, \nmarketing authorisation, and other regulatory functions concerning medicines. \nNew Drug  \nA generic copy of an innovator product, that has not been previously registered as a \npharmaceutical or biological product in The Gambia or which has been marketed in \nThe Gambia for a period of not more than ten (10) years or any other period to be \ndetermined by the authority from time to time, for public health reasons. \nPackage  \nA box, packet or any other article in which one or more primary containers of medi-\ncines is or are to be enclosed in one or more other boxes, packets or articles  \nPatient Information Leaflet (PIL)  \nA leaflet in every pack of medicine containing information on the medicine for the \nuser, such as patients.  \n\n\nPAGE 12\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 12 of 13\n \nRecognition  \nThe acceptance of the regulatory decision of another regulator or other trusted insti-\ntution. Recognition should be based on evidence of conformity that the regulatory \nrequirements of the reference regulatory authority are sufficient to meet the regula-\ntory requirements of the relying authority. Recognition may be unilateral or mutual \nand may, in the latter case, be the subject of a mutual recognition agreement \nReliance (full and partial) \nThe act whereby the National Regulatory Authority (NRA) in one jurisdiction may take \ninto account and give significant weight to assessments performed by another NRA \nor trusted institution, or to any other authoritative information in reaching its own \ndecision. The relying authority remains independent, responsible and accountable re-\ngarding the decisions taken, even when it relies on the decisions and information of \nothers. Full reliance means that the authority relies on the entire assessments/in-\nspection and quality control reports performed by another regulatory authority. Partial \nreliance means that the authority relies on certain documents/parts of the assess-\nments performed by another regulatory authority, while for the other part(s) an in-\ndependent, full assessment of the documentation submitted by the applicant is con-\nducted. \nReference institution \nAn authority or institution which assessment and its outcome serve as basis for reg-\nulatory reliance. As per WHO guidance (https://www.who.int/news/item/29-04-\n2021-who-publishes-new-guidance-to-promote-strong-efficient-and-sustainable-\nregulatory-systems) this encompasses different levels of reliance.  \nIn this document this term relates to a list of authorities/institutions determined by \nthe NRA (see Annex 1). \nSummary of Product Characteristics (SmPC)  \nA document describing the properties and the officially approved conditions of use of \na medicine; summaries of product characteristics form the basis of information for \nhealthcare professionals on how to use the medicine safely and effectively \nVariation \nA variation is a change to the terms of a marketing authorisation. There are different \ntypes of variations with different regulatory requirements and procedures. For more \ndetail for regulatory and procedural guidance proceed to MCA Guideline for Variations \n(MCA-GL-114). \nReferences \n• \nWHO. Good Reliance Practices (GReP), Annex 11, 55th report of the World \nHealth Organization Expert Committee on Specifications for Pharmaceutical Prep-\narations (ECSPP), WHO Technical Report Series No. 1033, 2021.  \n• \nWHO. Guidelines on submission of documentation for prequalification of finished \npharmaceutical products approved by stringent regulatory authorities, Annex5. \nWorld Health Organization, WHO Technical Report Series No. 986, 2014. \n• \nWHO. Good practices of national regulatory authorities in implementing the col-\nlaborative registration procedures for medicinal products, Annex 6. World Health \nOrganization, WHO Technical Report Series No. 1019, 2019. \n• \nWHO. Collaborative procedure in the assessment and accelerated national regis-\ntration of pharmaceutical products and vaccines approved by stringent regulatory \n\n\nPAGE 13\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 13 of 13\n \nauthorities, Annex 11 (Appendix 3B, 4, 5). World Health Organization, WHO \nTechnical Report Series, No. 1010, 2018. \n• \nWHO. Template: Quality Information Summary (QIS) of the Biotherapeutic Prod-\nuct Approved by Stringent Regulatory Authority (SRA) (QIS-SRA). June 2018 \nhttps://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2a\nhUKEwjcr5OGoqT0AhWiQvEDHaBLCSoQFnoECA4QAQ&url=https%3A%2F%2Fex-\ntranet.who.int%2Fpqweb%2Fkey-resources%2Fdocuments%2Fwho-trs-1010-an-\nnex-11-appendix-4&usg=AOvVaw0Qd4TjGX1ERAsiU7OBV6oN (Access of web-\nsite: November 2021) Reference is made to the WHO “Guidelines on submission \nof documentation for the pilot procedure for prequalification of rituximab or \ntrastuzumab approved by stringent regulatory authorities” (Access of website: \nNovember 2021) \n• \nWHO. Annex 6 Multisource (generic) pharmaceutical products: guidelines on reg-\nistration requirements to establish interchangeability Republication of Multisource \n(generic) pharmaceutical products: guidelines on registration requirements to \nestablish interchangeability, WHO Technical Report Series, No. 992, Annex 7 with \na new Appendix 2, 2017. \n• \nFDA Ghana. Guidelines for Registration of World Health Organization (WHO) Pre-\nQualified Biological Products. FDA/SMC/BPU/GL-WPP/2013/03. Published by the \nFood and Drugs Authority of Ghana. Date of Issue: 2013/04/01. \n• \nFDA Ghana. Reliance Policy. FDA/GEN/POL-02. Published by the Food and Drugs \nAuthority of Ghana. Date of Issue: 2nd January, 2019. \n• \nHealth Canada. The Use of Foreign Reviews by Health Canada. Draft guidance \ndocument. Published by authority of the Minister of Health. Draft Date: \n2012/09/11. \n• \nCollaboration, Not Competition: Developing New Reliance Models - Regulatory \nCollaboration. Exchange of Assessment Reports (ARs) with Regulators outside \nthe European Union (EU). World Health Organization, WHO Drug Information Vol. \n30, No. 4, 2016. \n• \nMCA. Guideline for Marketing Authorisation (Registration) of Medicines (MCA-GL-\n102) \n• \nMCA Guidance for the Application in the Common Technical Document (CTD) For-\nmat (MCA-G-112/02)  \n• \nMCA Guideline for Variations (MCA-GL-114) \n• \nMCA Guideline for Stability Testing of Active Pharmaceutical Ingredients and Fin-\nished Pharmaceutical Products (MCA-GL-102) \nList of Annexes  \nAnnex 1: List of reference institutions  \nAnnex 2: Documentation abridged procedure  \nAnnex 3: Confirmation of data sharing  \nAnnex 4a: QIS-RI-FPP  \nAnnex 4b: QIS-RI-BTP  \n \n",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Version on the preserved source; not backdated to older event rows"
+      },
+      {
+        "clause_id": "GMB-ANNEX2",
+        "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-L-109-02_v2_Annex2_Documentation_25Jun25.pdf",
+        "raw_sha256": "8c9180689bf62ced78d6527cecfbfebc53b65eca21e6a5b55df4d3e81aa4a6b9",
+        "start_offset": 0,
+        "end_offset": 4854,
+        "section_article": "Annex 2 documentationtable,all 3 pages",
+        "language": "en",
+        "verbatim_extracted_text": "PAGE 1\n \n \nMCA-L-109/02, Annex 2 of Guideline on Reliance, version 2 – 25 June 2025 \nPage 1/3\n \nAnnex 2: Documentation abridged authorisation procedure  \nProposed documentation for the abridged authorization procedure for refer-\nence institution (RI)-approved medicinal products \nAll documents requested in the following adapted Module 1 MUST be submitted as \noriginal and translated in English (notarised), if original is not in English \nAdapted Module 1 \n \nDocumentation to be pro-\nvided \nComments \n1.0 \nLetter of application \n \n \nAttachments to the letter: \n \n \nAnnex III (permission of data \nsharing) of the abridged au-\nthorisation procedure  \n \n \n1.1 \nComprehensive table of \ncontents (TOC) \nComprehensive TOC including \nModule 1 information \n \nQuality information summary  \n(QIS-RI-FPP (Annex IVa) and  \nQIS-RI-BTP (Annex IVb)) \n \nAny differences in the dossier \nsubmitted to the RI should be \nexplained, including differ-\nences in product information. \n \n1.3 \nProduct information \n \n \n1.3.1 Summary of product \ncharacteristics  \nProduct information for the \nhealthcare professional as ap-\nplicable for the region where \nthe application will be sub-\nmitted \n \n1.3.2 Patient information leaf-\nlet or package insert \nMock-ups \n \n1.3.3 Labelling \nMock-ups \nLanguage and infor-\nmation to reflect na-\ntional requirements \n1.4 \nMarketing authorisa-\ntion from reference institu-\ntion \n \n \n1.4.1 Marketing authorisation \nfrom reference institution \nYes \n \n\n\nPAGE 2\n \nMCA-L-109/02, Annex 2 of Guideline on Reliance, version 2 – 25 June2025 \nPage 2/3\n \n \nDocumentation to be pro-\nvided \nComments \n1.4.2 Assessment report from \nreference institution \n \n(Access to the full assessment \nreport from the reference insti-\ntution, if available) \nAgreement from the manu-\nfacturer to allow reference in-\nstitution to share the report \nwith NMRAs. Prior to sharing, \nthe reference institution and \nmanufacturer should agree \non the content of the docu-\nment that is shared. If fully \njustified, sentences referring \nto highly confidential infor-\nmation and/or highly sensi-\ntive data and/or not related \nto the product assessment \ndata could be masked. \nNote that this type of \ndocument is available \nonly for products regis-\ntered in Europe, via the \nCentralised Procedure. \nPublic reports are pre-\nferred as they already \ncontain all useful infor-\nmation, except those \nconsidered to give a \ncompetitive advantage. \n1.5 \nGood manufacturing \npractices (GMP) certifica-\ntion \n \n \n1.5.1 Copy of the GMP certifi-\ncate of the active pharmaceuti-\ncal ingredient (API)/drug sub-\nstance (DS) supplier, if availa-\nble \nYes \nCurrently, this is not al-\nways available. \nIf not available, state-\nment signed by qualified \nperson (QP) from \nFPP/DP manufacturing \nsite to be provided or at \nleast CoA  \n1.5.2 Copy of the GMP certifi-\ncate of the finished pharma-\nceutical product (FPP)/drug \nproduct (DP) manufacturer(s) \nYes \n \n1.5.3 GMP inspection report of \nthe manufacturing site(s) (FPP) \nfrom any reference institution \nAgreement from the manu-\nfacturer to allow the refer-\nence institution to share the \nreport with the NRA. Prior to \nsharing, the reference institu-\ntion and manufacturer should \nagree on the content of the \ndocument that is shared. If \nfully justified, sentences re-\nferring to highly confidential \ninformation and/or highly \nsensitive data and/or not re-\nlated to the product assess-\nment data could be masked. \nPublic reports are pre-\nferred as they already \ncontain all useful infor-\nmation, except those \nconsidered to give a \ncompetitive advantage.  \n1.6 \nOther documentation \n \n \n\n\nPAGE 3\n \nMCA-L-109/02, Annex 2 of Guideline on Reliance, version 2 – 25 June2025 \nPage 3/3\n \n \nDocumentation to be pro-\nvided \nComments \nIf generic dossier: \n– full GCP inspection report of \nthe bioequivalence study from \nany reference institution, if \nany; \n– bridging report (where appli-\ncable) especially for innovative \nmedicines (Section 6.3 in the \nGuideline on Reliance); \n– information on national rep-\nresentatives or distributor. \n \nAgreement from the manu-\nfacturer to allow reference in-\nstitution to share the report \nwith NMRA. Prior to sharing, \nthe RI and manufacturer \nshould agree on the content \nof the document that is \nshared. If fully justified, sen-\ntences referring to highly \nconfidential information \nand/or highly sensitive data \nand/or not related to the \nproduct assessment data \ncould be masked. \nPublic reports are pre-\nferred as they already \ncontain all useful infor-\nmation, except those \nconsidered to give a \ncompetitive advantage. \n1.7 Others -Samples \nStatement that samples have \nbeen submitted or, excep-\ntionally, commitment letter \nfor sample submission  \nIf, for a specific reason, \nsamples cannot be sub-\nmitted with the applica-\ntion, these should be \nsubmitted within two \nweeks after receipt of \nthe submission. \n \n",
+        "text_sha256": "c6db4a560c0f90aff29882d6f863379a141310bcf09b80f3d0f671766c5d5127"
+      }
+    ],
+    "review_details": {
+      "iso3": "GMB",
+      "country": "Gambia",
+      "selected_document_id": "018ab5d2a980e8553e2f",
+      "source_id": "502c876de209b0ba",
+      "pathway": "Verification with information-sharing and local bridging",
+      "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+      "document_title": "GMB | Guideline for Reliance on decisions, reports, or information from other national regulatory authorities (NRAs) or regional and international bodies Updated 2 26 June 2025",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "4416870ae149a9678259c7b385c870ce9f97854e1f9c835ecb53f83ec1108389",
+      "raw_hash_validated": true,
+      "text_sha256": "a45f3b467bd21cfd393e7e5ac32f383480051a2d6f1c36d8ba14aca9038a81a5",
+      "version_dates": {
+        "guideline_version_date": "2025-06-25",
+        "annex2_version_date": "2025-06-25"
+      },
+      "version_scope_note": "Gambia MCA-GL 109 v 2 and Annex 2 v 2 dated 25 June 2025. Public-report preference for European-central products, full-report qualifications, masking and sharing permissions are all retained. The main text contains the literal does grant wording; no silent correction is made.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          14411,
+          21729
+        ],
+        [
+          21729,
+          37774
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Registered and actually marketed in the reference market.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Identical foreign file/sameness and complete unaltered reviews for verification.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Main text asks for complete unaltered reviews. Annex 2 says access to full report if available and prefers public reports for European-central products, with justified masking.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "discretionary/conditional",
+          "finding": "Annex 2 allows fully justified masking of highly confidential, sensitive or unrelated passages.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "public_report_sufficiency": {
+          "state": "discretionary/conditional",
+          "finding": "Annex 2 prefers public reports for European-central products. This does not prove whole-case eligibility or waive possible additional requests.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "applicant_consent": {
+          "state": "explicit requirement",
+          "finding": "Manufacturer agreement to allow the reference institution to share assessment/GMP information, with content agreed before transfer.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "explicit requirement",
+          "finding": "Section 6.1.3 requires written permission for reference-institution-owned nonpublic information; Annex 3 is incorporated. This is the identified confidential-sharing package.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "discretionary/conditional",
+          "finding": "Public reports and manufacturer/reference-institution sharing alternatives; Annex 3 data-sharing confirmation incorporated.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "Optional bridging assessment can help establish local relevance; no universally mandatory new local clinical trial inferred.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Local benefit/risk, label, climatic and population assessment retained. A bridging report is not universally mandatory.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Decision and applicant-response deadlines incorporated through a separate MA guideline.",
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "C": {
+          "eligibility": "nonpublic-sharing option impeded; public alternative unresolved",
+          "finding": "Manufacturer agreement is required for the reference institution to share its reports. A public European-central-report alternative exists, so whole-case ineligibility across all options is unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "D": {
+          "eligibility": "nonpublic-sharing option impeded; public alternative unresolved",
+          "finding": "Reference-institution permission is required for its nonpublic information. The Annex 2 public-report option means alternative eligibility remains unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "GMB-Q01",
+            "GMB-Q02",
+            "GMB-Q03",
+            "GMB-CONTEXT-1",
+            "GMB-CTX-1",
+            "GMB-ANNEX2"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "GMB-Q01",
+          "iso3": "GMB",
+          "event_id": "GMB_089",
+          "document_id": "018ab5d2a980e8553e2f",
+          "source_id": "502c876de209b0ba",
+          "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+          "raw_sha256": "4416870ae149a9678259c7b385c870ce9f97854e1f9c835ecb53f83ec1108389",
+          "text_sha256": "a45f3b467bd21cfd393e7e5ac32f383480051a2d6f1c36d8ba14aca9038a81a5",
+          "start_offset": 15161,
+          "end_offset": 17490,
+          "pdf_page": 6,
+          "verbatim_extracted_text": "6.1.3 Additional information for marketing authorisation applications as \nwell as for applications for variations \na. All review(s), assessment reports as well as inspection reports by the ref-\nerence institution, substantiating the current authorisation status of the \nmedicine, should be provided by the applicant when the submission is filed \nwith MCA.  \nb. Written confirmation of permission for sharing reference institution-owned \nnon-public information with MCA (see Annex 3). \nNote for variation applications: If the confirmation has been obtained for \nthe initial marketing authorisation application with unlimited validity, the \nconfirmation does not have to be renewed with the reference institution. \nNonetheless, the written confirmation should be part of each submission. \nThe legal information accompanying the dossier should be duly certified and \nauthenticated under the procedure, in effect, in the country of origin, and \nissued by the appropriate entity. \nc. Samples of the medicine from commercial batches, submitted to support \nthe application as per sample schedule. \n6.2 \nRequirements for Verification \n6.2.1. The applicant should verify the “sameness” of the reference institution-ap-\nproved medicine with the one applied for the purpose of reliance.  \n6.2.2. For this, \na. the “Quality information summary” (QIS) has to be provided (in CTD-mod-\nule 1.2). Details on the information requested for finished pharmaceutical \nproducts (FPP) and for biologicals (biotherapeutics) are provided in Annex \n4a (QIS-RI-FPP) and Annex 4b (QIS-RI-BTP), respectively.  \nb. the applicant should confirm in writing that the review(s) provided is/are \ncomplete and unaltered. The applicant should confirm that the documenta-\ntion filed in the submission is identical to that, on which the review(s) and \nauthorisation decision was based. If it is not identical, all differences should \nbe clearly indicated.  \n\n\nPAGE 7\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 7 of 13\n \nc. The product should have been registered, prequalified and/or granted mar-\nketing authorisation and is, in the latter case, actually on the market of the \nreference authority.",
+          "display_text": "6.1.3 Additional information for marketing authorisation applications as well as for applications for variations a. All review(s), assessment reports as well as inspection reports by the ref- erence institution, substantiating the current authorisation status of the medicine, should be provided by the applicant when the submission is filed with MCA. b. Written confirmation of permission for sharing reference institution-owned non-public information with MCA (see Annex 3). Note for variation applications: If the confirmation has been obtained for the initial marketing authorisation application with unlimited validity, the confirmation does not have to be renewed with the reference institution. Nonetheless, the written confirmation should be part of each submission. The legal information accompanying the dossier should be duly certified and authenticated under the procedure, in effect, in the country of origin, and issued by the appropriate entity. c. Samples of the medicine from commercial batches, submitted to support the application as per sample schedule. 6.2 Requirements for Verification 6.2.1. The applicant should verify the “sameness” of the reference institution-ap- proved medicine with the one applied for the purpose of reliance. 6.2.2. For this, a. the “Quality information summary” (QIS) has to be provided (in CTD-mod- ule 1.2). Details on the information requested for finished pharmaceutical products (FPP) and for biologicals (biotherapeutics) are provided in Annex 4a (QIS-RI-FPP) and Annex 4b (QIS-RI-BTP), respectively. b. the applicant should confirm in writing that the review(s) provided is/are complete and unaltered. The applicant should confirm that the documenta- tion filed in the submission is identical to that, on which the review(s) and authorisation decision was based. If it is not identical, all differences should be clearly indicated. PAGE 7 Guideline for Reliance on decisions, reports, or information from other national MCA The Gambia regulatory authorities (NRAs) or regional and international bodies MCA-GL-109, version 2 – 25 June 2025 Page 7 of 13 c. The product should have been registered, prequalified and/or granted mar- keting authorisation and is, in the latter case, actually on the market of the reference authority.",
+          "feature_tags": [
+            "reports",
+            "sameness",
+            "foreign_marketing"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GMB-Q02",
+          "iso3": "GMB",
+          "event_id": "GMB_089",
+          "document_id": "018ab5d2a980e8553e2f",
+          "source_id": "502c876de209b0ba",
+          "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+          "raw_sha256": "4416870ae149a9678259c7b385c870ce9f97854e1f9c835ecb53f83ec1108389",
+          "text_sha256": "a45f3b467bd21cfd393e7e5ac32f383480051a2d6f1c36d8ba14aca9038a81a5",
+          "start_offset": 18161,
+          "end_offset": 20729,
+          "pdf_page": 7,
+          "verbatim_extracted_text": "6.3.3. For an abridged/abbreviated review of the full submission, in addition to the \ndocumentation/information requirements laid out in sections 6.1 and 6.2 of \nthis guideline, a so-called bridging report should be submitted by the appli-\ncant. \nThe bridging report: \n6.3.4. The reference institution’s assessments may not always account for specific \ncircumstances that can significantly affect the benefit-risk of a medicine in \nother countries/regions. Hence, the reference institution’s assessment reports \nmay have to be considered incomplete, when a reference institution-approved \nproduct is submitted for the regulatory approval in The Gambia and the con-\nditions of use or the benefit–risk profile of the medicine may differ. In these \ncases, the applicant should support the application by providing evidence of a \npositive benefit–risk profile for the proposed conditions of use in The Gambia. \n6.3.5. Differences in target population, epidemiology and other features of the dis-\nease, concomitantly used medicines and hence the interaction potential, local \ntreatment and diagnostic modalities, and other factors can substantially affect \nthe benefit-risk profile of a medicine. There can also be issues related to cer-\ntain quality parameters, especially in relation to the stability under different \nclimatic conditions. \n6.3.6. A bridging report should, in particular, justify the: \n- comparability of the studied population to the target population (e.g. eth-\nnicity, gender representation, age groups) as regards demonstration of ef-\nficacy and safety; \n- relevance of reference institution-approved conditions of use as regards \nepidemiology and disease pattern in The Gambia as well as other implica-\ntions for efficacy and safety, e.g. feasibility of monitoring and precautionary \nmeasures (e.g. resistance testing or therapeutic drug monitoring); \n- interactions with food and with other medications relevant in The Gambia \nthat are not discussed in the reference institution’s assessment report; \n- therapeutic role of a product and its recommended use according to rele-\nvant national and international treatment guidelines; \n- quality issues, including but not limited to, storage conditions and condi-\ntions of administration and use; \n\n\nPAGE 8\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 8 of 13\n \n- risk management plan for a new medicine (see ‘Definitions’ for details)",
+          "display_text": "6.3.3. For an abridged/abbreviated review of the full submission, in addition to the documentation/information requirements laid out in sections 6.1 and 6.2 of this guideline, a so-called bridging report should be submitted by the appli- cant. The bridging report: 6.3.4. The reference institution’s assessments may not always account for specific circumstances that can significantly affect the benefit-risk of a medicine in other countries/regions. Hence, the reference institution’s assessment reports may have to be considered incomplete, when a reference institution-approved product is submitted for the regulatory approval in The Gambia and the con- ditions of use or the benefit–risk profile of the medicine may differ. In these cases, the applicant should support the application by providing evidence of a positive benefit–risk profile for the proposed conditions of use in The Gambia. 6.3.5. Differences in target population, epidemiology and other features of the dis- ease, concomitantly used medicines and hence the interaction potential, local treatment and diagnostic modalities, and other factors can substantially affect the benefit-risk profile of a medicine. There can also be issues related to cer- tain quality parameters, especially in relation to the stability under different climatic conditions. 6.3.6. A bridging report should, in particular, justify the: - comparability of the studied population to the target population (e.g. eth- nicity, gender representation, age groups) as regards demonstration of ef- ficacy and safety; - relevance of reference institution-approved conditions of use as regards epidemiology and disease pattern in The Gambia as well as other implica- tions for efficacy and safety, e.g. feasibility of monitoring and precautionary measures (e.g. resistance testing or therapeutic drug monitoring); - interactions with food and with other medications relevant in The Gambia that are not discussed in the reference institution’s assessment report; - therapeutic role of a product and its recommended use according to rele- vant national and international treatment guidelines; - quality issues, including but not limited to, storage conditions and condi- tions of administration and use; PAGE 8 Guideline for Reliance on decisions, reports, or information from other national MCA The Gambia regulatory authorities (NRAs) or regional and international bodies MCA-GL-109, version 2 – 25 June 2025 Page 8 of 13 - risk management plan for a new medicine (see ‘Definitions’ for details)",
+          "feature_tags": [
+            "local_evidence",
+            "reports"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "GMB-Q03",
+          "iso3": "GMB",
+          "event_id": "GMB_089",
+          "document_id": "e39d8f92e6cc6076c2da",
+          "source_id": "d309cfbdda0f739d",
+          "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-L-109-01_v2_Annex1_RIs_25Jun25.pdf",
+          "raw_sha256": "495c3640d892112c0ddf33bc93fae07cb0be2434f4adafef36531d1984210fcc",
+          "text_sha256": "26959c2a24f64e4deb400e223d2d22552d43920384b3d8142d18be07bdbcfd29",
+          "start_offset": 995,
+          "end_offset": 1167,
+          "pdf_page": 1,
+          "verbatim_extracted_text": "Reliance on a regulatory decision based in itself on reliance should not be acceptable.  \n \nThe basis for reliance should be an assessment of major parts of the submission.",
+          "display_text": "Reliance on a regulatory decision based in itself on reliance should not be acceptable. The basis for reliance should be an assessment of major parts of the submission.",
+          "feature_tags": [
+            "original_review"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": false
+        },
+        {
+          "clause_id": "GMB-CONTEXT-1",
+          "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+          "raw_sha256": "4416870ae149a9678259c7b385c870ce9f97854e1f9c835ecb53f83ec1108389",
+          "text_sha256": "a45f3b467bd21cfd393e7e5ac32f383480051a2d6f1c36d8ba14aca9038a81a5",
+          "start_offset": 14411,
+          "end_offset": 21729,
+          "verbatim_extracted_text": "ubmission in line with the MCA \nGuideline on the Investigation of Bioequivalence to establish interchangea-\nbility and applicable national regulatory requirements for participating \nNRAs.  \n6.1.2 For applications for variations \na. Module 1, adapted, following the contents/format/structure laid out in An-\nnex 2 (“Proposed documentation for the abridged procedure for reference \ninstitution-approved medical products”). \nb. Module 2, complete as submitted to the reference institution. \nNote: In the case of generic medicines for which a Clinical summary is not \navailable, the Clinical overview (Module 2.5) should be included. \nc. Modules 3, 4 and/or 5 as submitted to the reference institution for the sub-\nstantiation of the applied variation. \n6.1.3 Additional information for marketing authorisation applications as \nwell as for applications for variations \na. All review(s), assessment reports as well as inspection reports by the ref-\nerence institution, substantiating the current authorisation status of the \nmedicine, should be provided by the applicant when the submission is filed \nwith MCA.  \nb. Written confirmation of permission for sharing reference institution-owned \nnon-public information with MCA (see Annex 3). \nNote for variation applications: If the confirmation has been obtained for \nthe initial marketing authorisation application with unlimited validity, the \nconfirmation does not have to be renewed with the reference institution. \nNonetheless, the written confirmation should be part of each submission. \nThe legal information accompanying the dossier should be duly certified and \nauthenticated under the procedure, in effect, in the country of origin, and \nissued by the appropriate entity. \nc. Samples of the medicine from commercial batches, submitted to support \nthe application as per sample schedule. \n6.2 \nRequirements for Verification \n6.2.1. The applicant should verify the “sameness” of the reference institution-ap-\nproved medicine with the one applied for the purpose of reliance.  \n6.2.2. For this, \na. the “Quality information summary” (QIS) has to be provided (in CTD-mod-\nule 1.2). Details on the information requested for finished pharmaceutical \nproducts (FPP) and for biologicals (biotherapeutics) are provided in Annex \n4a (QIS-RI-FPP) and Annex 4b (QIS-RI-BTP), respectively.  \nb. the applicant should confirm in writing that the review(s) provided is/are \ncomplete and unaltered. The applicant should confirm that the documenta-\ntion filed in the submission is identical to that, on which the review(s) and \nauthorisation decision was based. If it is not identical, all differences should \nbe clearly indicated.  \n\n\nPAGE 7\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 7 of 13\n \nc. The product should have been registered, prequalified and/or granted mar-\nketing authorisation and is, in the latter case, actually on the market of the \nreference authority.   \n6.3 \nRequirements for abridged/abbreviated review  \n6.3.1. The abridged/abbreviated review may pertain to the full submission or parts \nthereof, depending on the suitability of use under local conditions and regu-\nlatory requirements. \n6.3.2. An abridged/abbreviated review for parts of the submission may be applied \nfor the active pharmaceutical ingredients (API). MCA recognises the Certifi-\ncates of Suitability to the monographs of the European Pharmacopoeia (CEP) \nfor API as well as the Confirmation of API Prequalification (CPQ) issued by the \nWHO Prequalification Team Medicines Programme (WHO-PQ) for APIs as a \nvalidation of the quality of a certain API. \n6.3.3. For an abridged/abbreviated review of the full submission, in addition to the \ndocumentation/information requirements laid out in sections 6.1 and 6.2 of \nthis guideline, a so-called bridging report should be submitted by the appli-\ncant. \nThe bridging report: \n6.3.4. The reference institution’s assessments may not always account for specific \ncircumstances that can significantly affect the benefit-risk of a medicine in \nother countries/regions. Hence, the reference institution’s assessment reports \nmay have to be considered incomplete, when a reference institution-approved \nproduct is submitted for the regulatory approval in The Gambia and the con-\nditions of use or the benefit–risk profile of the medicine may differ. In these \ncases, the applicant should support the application by providing evidence of a \npositive benefit–risk profile for the proposed conditions of use in The Gambia. \n6.3.5. Differences in target population, epidemiology and other features of the dis-\nease, concomitantly used medicines and hence the interaction potential, local \ntreatment and diagnostic modalities, and other factors can substantially affect \nthe benefit-risk profile of a medicine. There can also be issues related to cer-\ntain quality parameters, especially in relation to the stability under different \nclimatic conditions. \n6.3.6. A bridging report should, in particular, justify the: \n- comparability of the studied population to the target population (e.g. eth-\nnicity, gender representation, age groups) as regards demonstration of ef-\nficacy and safety; \n- relevance of reference institution-approved conditions of use as regards \nepidemiology and disease pattern in The Gambia as well as other implica-\ntions for efficacy and safety, e.g. feasibility of monitoring and precautionary \nmeasures (e.g. resistance testing or therapeutic drug monitoring); \n- interactions with food and with other medications relevant in The Gambia \nthat are not discussed in the reference institution’s assessment report; \n- therapeutic role of a product and its recommended use according to rele-\nvant national and international treatment guidelines; \n- quality issues, including but not limited to, storage conditions and condi-\ntions of administration and use; \n\n\nPAGE 8\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 8 of 13\n \n- risk management plan for a new medicine (see ‘Definitions’ for details)  \n6.3.7. Provision of a bridging report is not mandatory, but may substantially facilitate \nconduct of the regulatory assessment, reduce the number of potential regu-\nlatory questions and shorten the duration of the regulatory approval process. \nThis report has to be dated and signed by the author and the author’s CV be \nattached. \n \n \nBiologicals/Biotherapeutic\nproducts (BTP) \nInnovator \nFPPs \nGeneric \nFPPs \nQuality Information Sum-\nmary for FPP (QIS-RI- \nFPP) \n(Annex 4a) \nQuality Information Sum-\nmary for BTP (QIS-RI- \nBTP) \n(Annex 4b) \n \nFinished pharmaceutical\nproducts (FPPs) \nCertificates for \ndrug substance \n(DS) \n \nBridging report \nType of \nmedicine \nFull documentation in CTD format, \nas submitted to Reference Institution (RI):\nModule 1 (Annex 3) \nModule 2 \nModule 3 (+ region specific info) \n(Module 4) \n(Module 5) \nGeneral required \ndocumentation \nModule 2 \n(Clinical over-\nview 2.5, in-\nstead of clinical\nsummary) \nReview, assessment and inspection reports by the RI \nPermission ",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "GMB-CTX-1",
+          "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-GL-109_v2_Reliance_25Jun25.pdf",
+          "raw_sha256": "4416870ae149a9678259c7b385c870ce9f97854e1f9c835ecb53f83ec1108389",
+          "text_sha256": "a45f3b467bd21cfd393e7e5ac32f383480051a2d6f1c36d8ba14aca9038a81a5",
+          "start_offset": 21729,
+          "end_offset": 37774,
+          "verbatim_extracted_text": "of data sharing (Annex 3) \nAdditional require-\nments for  \nverification \nConfirmation of RI \n- reviews are complete and unaltered \n- documentation filed is identical to file RI re-\nCertificates for active \npharmaceutical ingredi-\nent (API): CEP and CPQ \nAdditional require-\nments for abridged/ \nabbreviated review \nBatch Samples \n\n\nPAGE 9\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 9 of 13\n \nFigure 1: Documentation requirements in reliance-based approach for the application \nof marketing authorisation/registration or variations of medicines provided by the ap-\nplicant \n7 \nGuidance for Implementation \n7.1 \nGuiding Principles \n7.1.1. MCA adheres to the following guiding principles when using reference institu-\ntions’ reviews: \na. MCA uses, where appropriate, reference institutions’ reviews to perform \npart of the evaluation or to inform MCA’s decision-making. However, MCA \ndoes grant (or refuse to grant) a marketing authorization or approve a var-\niation based solely on the existence of a reference institution’s review and \nits corresponding regulatory decision. \nb. The use of reference institutions’ reviews may be applicable, to variable \ndegrees, to the regulatory review of medicines covered under the scope of \nthis guideline and when available, are considered when determining the \nreview strategy. However, an applicant will not be required to file a sub-\nmission at a reference institution, nor will MCA unilaterally decide to delay \nthe Gambia’s review until a reference institution’s review is available. \nc. The extent to which a reference institution’s review may be used to inform \nMCA’s regulatory decision on a medicine will be guided by MCA’s estimation \nof the benefits and risks/limitations of using that review (or components \nthereof) to inform the Gambian regulatory decision-making process. \nd. The MCA reserves the right to subject all submissions for approval to an \n‘abridged’ evaluation of a certain part of the application (e.g. relevant to \nuse under local condition), such as product quality data in relation to cli-\nmatic conditions and distribution infrastructure and a benefit-risk assess-\nment in relation to use in the local ethnic population, medical practice/cul-\nture and patterns of disease and nutrition. \ne. While the use of reference institutions’ reviews may enhance timely access \nto high quality medicines, it is essential that benefit-risk assessments of \nhealth products be made within the context of the Gambia’s health care \nsystem. Final regulatory decisions on the granting or refusal or approval of \na marketing authorisation or variation of medicines for the citizens are \nmade by MCA. \nf. In all cases, the Gambia’s product labelling (e.g. summary of product char-\nacteristics or professional product information, package insert or patient \ninformation leaflet) will be reviewed by MCA to ensure it meets Gambia’s \nrequirements, in accordance with the Medicines and Related Products Reg-\nulations, applying MCA standard operating procedures and current prac-\ntices. \ng. Confidentiality of submitted data and non-disclosure to a third party is as-\nsured by the organisational policies applied by MCA. \n7.2 \nTimelines \n7.2.1. Formal deficiencies in the submitted application and the dossier will be com-\nmunicated to the applicant, in line with the MCA procedures. Timelines for \n\n\nPAGE 10\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 10 of 13\n \ndecisions from MCA as well as applicant response timelines are detailed in the \nrespective authorisation guidelines.  \n7.3 \nReliance Principles for variations \n7.3.1. NRAs are encouraged to establish alternative accelerated timelines for varia-\ntions on medicines that have previously been approved by the other NRAs. \nAccordingly, those NRAs should create a list of the NRA approvals they will \nrecognise. As an expedite regulatory pathway the following approaches of ac-\ncelerated timelines could be established: \n• The NRA recognises the decision of other regulatory authorities and does \nnot perform a review of supporting data but is informed of the change. \nUsing this approach, NRA could allow changes to be implemented immedi-\nately after receipt of the change notification. \n• The NRA performs an assessment of the decision of the NRA of the licensing \ncountry to determine if recognition of the latter NRA’s decision is appropri-\nate. Using this reliance-based approach, NRAs established abbreviated re-\nview timelines (for details see the respective authorisation (registration) \nguidelines). \n• The NRA performs a partial review and evaluation of a complete supporting \ndata package, as originally submitted to the licensing country. Using this \napproach, timelines would be expected to be shorter than the timelines of \na common approval of variation. \n7.3.2. If a variation application is rejected by MCA, this will be communicated to the \napplicant with an explanation for the rejection. As appropriate, there should \nbe an opportunity for dialogue between the MCA and the applicant, as neces-\nsary, with the aim of resolving the NRA’s concerns with the application. \n7.3.3. Withhold/Suspension/Withdrawal of the product as authorised by the refer-\nence authority (or from the list of prequalified products) must be reported by \nthe Marketing Authorisation Holder (MAH) to the MCA within 30 days including \nofficial document stating the reason for this action. When applicable, this \nshould be a letter/document issued by the reference authority. \nDefinitions \nInterpretations and abbreviations contained in the MCA Glossary can be found on the \nMCA Website: www.mca.gm. \nThe definitions provided below apply to the terms used in this guideline. They may \nhave different meanings in other contexts and documents. \nThe interpretation of terms provided in the Act and Regulations apply, unless further \ndefined in this guideline. \nAbridged/abbreviated regulatory pathway/review  \nRegulatory procedures facilitated by reliance, whereby a regulatory decision is solely \nor partially based on application of reliance. This usually involves some work by the \nnational regulatory authority (NRA) that is practising reliance. It is expected that use \nof reliance in these pathways will save resources and time as compared with standard \npathways, while ensuring that the standards of regulatory oversight are maintained. \n\n\nPAGE 11\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 11 of 13\n \nApplicant  \nA person or entity who has applied for regulatory approval of a product or a change \nthereof. All applicants are to own the product. Representatives of product owners may \nnot hold themselves as applicants unless they own the product.  \nIn some jurisdictions this term is used in a wider sense (see “Marketing authorisation \nholder)”. \nFinished Pharmaceutical Product (FPP)  \nProduct that has undergone all stages of production, including packaging in its final \ncontainer and labelling. An FPP may contain one or more active pharmaceutical in-\ngredients. \nInnovator finished pharmaceutical product  \nA novel medicinal product (medicine), which was the first product authorised for mar-\nketing by any country (normally as a patented product) on the basis of documentation \nof efficacy, safety and quality according to requirements at the time of the authorisa-\ntion. \nMarketing Authorisation Holder (MAH) \nA company or other legal entity that has the authorisation by a regulatory authority \nto market a medicine or related product and who is responsible for its quality, efficacy \nand safety and for compliance with conditions of authorisation (registration) \nMedicines/Medicinal Products \nAny substance or combination of substances prepared, sold or presented for use in \nthe diagnosis, treatment, mitigation or prevention of disease, disorder of abnormal \nphysical state or the symptoms of it or restoring, correcting or modifying organic \nfunctions in human beings \nThe term “medicines/medicinal products” in the context of this guideline includes fin-\nished pharmaceutical products (FPPs), biologicals (biotherapeutics), and vaccines. Not \nincluded are medical devices, in-vitro diagnostics, blood products and animal prod-\nucts. \nGeneric (multisource) finished pharmaceutical product \nA medicine (medicinal product), which has the same qualitative and quantitative com-\nposition in active pharmaceutical ingredients and the same pharmaceutical form as \nthe authorised reference medicine and which bioequivalence with the reference med-\nicine has been demonstrated by appropriate bioavailability studies. \nNational regulatory authority (NRA) \nA National s Regulatory Authority is a country’s entity responsible for the registration, \nmarketing authorisation, and other regulatory functions concerning medicines. \nNew Drug  \nA generic copy of an innovator product, that has not been previously registered as a \npharmaceutical or biological product in The Gambia or which has been marketed in \nThe Gambia for a period of not more than ten (10) years or any other period to be \ndetermined by the authority from time to time, for public health reasons. \nPackage  \nA box, packet or any other article in which one or more primary containers of medi-\ncines is or are to be enclosed in one or more other boxes, packets or articles  \nPatient Information Leaflet (PIL)  \nA leaflet in every pack of medicine containing information on the medicine for the \nuser, such as patients.  \n\n\nPAGE 12\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 12 of 13\n \nRecognition  \nThe acceptance of the regulatory decision of another regulator or other trusted insti-\ntution. Recognition should be based on evidence of conformity that the regulatory \nrequirements of the reference regulatory authority are sufficient to meet the regula-\ntory requirements of the relying authority. Recognition may be unilateral or mutual \nand may, in the latter case, be the subject of a mutual recognition agreement \nReliance (full and partial) \nThe act whereby the National Regulatory Authority (NRA) in one jurisdiction may take \ninto account and give significant weight to assessments performed by another NRA \nor trusted institution, or to any other authoritative information in reaching its own \ndecision. The relying authority remains independent, responsible and accountable re-\ngarding the decisions taken, even when it relies on the decisions and information of \nothers. Full reliance means that the authority relies on the entire assessments/in-\nspection and quality control reports performed by another regulatory authority. Partial \nreliance means that the authority relies on certain documents/parts of the assess-\nments performed by another regulatory authority, while for the other part(s) an in-\ndependent, full assessment of the documentation submitted by the applicant is con-\nducted. \nReference institution \nAn authority or institution which assessment and its outcome serve as basis for reg-\nulatory reliance. As per WHO guidance (https://www.who.int/news/item/29-04-\n2021-who-publishes-new-guidance-to-promote-strong-efficient-and-sustainable-\nregulatory-systems) this encompasses different levels of reliance.  \nIn this document this term relates to a list of authorities/institutions determined by \nthe NRA (see Annex 1). \nSummary of Product Characteristics (SmPC)  \nA document describing the properties and the officially approved conditions of use of \na medicine; summaries of product characteristics form the basis of information for \nhealthcare professionals on how to use the medicine safely and effectively \nVariation \nA variation is a change to the terms of a marketing authorisation. There are different \ntypes of variations with different regulatory requirements and procedures. For more \ndetail for regulatory and procedural guidance proceed to MCA Guideline for Variations \n(MCA-GL-114). \nReferences \n• \nWHO. Good Reliance Practices (GReP), Annex 11, 55th report of the World \nHealth Organization Expert Committee on Specifications for Pharmaceutical Prep-\narations (ECSPP), WHO Technical Report Series No. 1033, 2021.  \n• \nWHO. Guidelines on submission of documentation for prequalification of finished \npharmaceutical products approved by stringent regulatory authorities, Annex5. \nWorld Health Organization, WHO Technical Report Series No. 986, 2014. \n• \nWHO. Good practices of national regulatory authorities in implementing the col-\nlaborative registration procedures for medicinal products, Annex 6. World Health \nOrganization, WHO Technical Report Series No. 1019, 2019. \n• \nWHO. Collaborative procedure in the assessment and accelerated national regis-\ntration of pharmaceutical products and vaccines approved by stringent regulatory \n\n\nPAGE 13\nGuideline for Reliance on decisions, reports, or information from other national  \nMCA The Gambia \nregulatory authorities (NRAs) or regional and international bodies \n \n \nMCA-GL-109, version 2 – 25 June 2025 \nPage 13 of 13\n \nauthorities, Annex 11 (Appendix 3B, 4, 5). World Health Organization, WHO \nTechnical Report Series, No. 1010, 2018. \n• \nWHO. Template: Quality Information Summary (QIS) of the Biotherapeutic Prod-\nuct Approved by Stringent Regulatory Authority (SRA) (QIS-SRA). June 2018 \nhttps://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2a\nhUKEwjcr5OGoqT0AhWiQvEDHaBLCSoQFnoECA4QAQ&url=https%3A%2F%2Fex-\ntranet.who.int%2Fpqweb%2Fkey-resources%2Fdocuments%2Fwho-trs-1010-an-\nnex-11-appendix-4&usg=AOvVaw0Qd4TjGX1ERAsiU7OBV6oN (Access of web-\nsite: November 2021) Reference is made to the WHO “Guidelines on submission \nof documentation for the pilot procedure for prequalification of rituximab or \ntrastuzumab approved by stringent regulatory authorities” (Access of website: \nNovember 2021) \n• \nWHO. Annex 6 Multisource (generic) pharmaceutical products: guidelines on reg-\nistration requirements to establish interchangeability Republication of Multisource \n(generic) pharmaceutical products: guidelines on registration requirements to \nestablish interchangeability, WHO Technical Report Series, No. 992, Annex 7 with \na new Appendix 2, 2017. \n• \nFDA Ghana. Guidelines for Registration of World Health Organization (WHO) Pre-\nQualified Biological Products. FDA/SMC/BPU/GL-WPP/2013/03. Published by the \nFood and Drugs Authority of Ghana. Date of Issue: 2013/04/01. \n• \nFDA Ghana. Reliance Policy. FDA/GEN/POL-02. Published by the Food and Drugs \nAuthority of Ghana. Date of Issue: 2nd January, 2019. \n• \nHealth Canada. The Use of Foreign Reviews by Health Canada. Draft guidance \ndocument. Published by authority of the Minister of Health. Draft Date: \n2012/09/11. \n• \nCollaboration, Not Competition: Developing New Reliance Models - Regulatory \nCollaboration. Exchange of Assessment Reports (ARs) with Regulators outside \nthe European Union (EU). World Health Organization, WHO Drug Information Vol. \n30, No. 4, 2016. \n• \nMCA. Guideline for Marketing Authorisation (Registration) of Medicines (MCA-GL-\n102) \n• \nMCA Guidance for the Application in the Common Technical Document (CTD) For-\nmat (MCA-G-112/02)  \n• \nMCA Guideline for Variations (MCA-GL-114) \n• \nMCA Guideline for Stability Testing of Active Pharmaceutical Ingredients and Fin-\nished Pharmaceutical Products (MCA-GL-102) \nList of Annexes  \nAnnex 1: List of reference institutions  \nAnnex 2: Documentation abridged procedure  \nAnnex 3: Confirmation of data sharing  \nAnnex 4a: QIS-RI-FPP  \nAnnex 4b: QIS-RI-BTP  \n \n",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        },
+        {
+          "clause_id": "GMB-ANNEX2",
+          "source_url": "https://www.mca.gm/wp-content/uploads/2025/06/MCA-L-109-02_v2_Annex2_Documentation_25Jun25.pdf",
+          "raw_sha256": "8c9180689bf62ced78d6527cecfbfebc53b65eca21e6a5b55df4d3e81aa4a6b9",
+          "start_offset": 0,
+          "end_offset": 4854,
+          "section_article": "Annex 2 documentationtable,all 3 pages",
+          "language": "en",
+          "verbatim_extracted_text": "PAGE 1\n \n \nMCA-L-109/02, Annex 2 of Guideline on Reliance, version 2 – 25 June 2025 \nPage 1/3\n \nAnnex 2: Documentation abridged authorisation procedure  \nProposed documentation for the abridged authorization procedure for refer-\nence institution (RI)-approved medicinal products \nAll documents requested in the following adapted Module 1 MUST be submitted as \noriginal and translated in English (notarised), if original is not in English \nAdapted Module 1 \n \nDocumentation to be pro-\nvided \nComments \n1.0 \nLetter of application \n \n \nAttachments to the letter: \n \n \nAnnex III (permission of data \nsharing) of the abridged au-\nthorisation procedure  \n \n \n1.1 \nComprehensive table of \ncontents (TOC) \nComprehensive TOC including \nModule 1 information \n \nQuality information summary  \n(QIS-RI-FPP (Annex IVa) and  \nQIS-RI-BTP (Annex IVb)) \n \nAny differences in the dossier \nsubmitted to the RI should be \nexplained, including differ-\nences in product information. \n \n1.3 \nProduct information \n \n \n1.3.1 Summary of product \ncharacteristics  \nProduct information for the \nhealthcare professional as ap-\nplicable for the region where \nthe application will be sub-\nmitted \n \n1.3.2 Patient information leaf-\nlet or package insert \nMock-ups \n \n1.3.3 Labelling \nMock-ups \nLanguage and infor-\nmation to reflect na-\ntional requirements \n1.4 \nMarketing authorisa-\ntion from reference institu-\ntion \n \n \n1.4.1 Marketing authorisation \nfrom reference institution \nYes \n \n\n\nPAGE 2\n \nMCA-L-109/02, Annex 2 of Guideline on Reliance, version 2 – 25 June2025 \nPage 2/3\n \n \nDocumentation to be pro-\nvided \nComments \n1.4.2 Assessment report from \nreference institution \n \n(Access to the full assessment \nreport from the reference insti-\ntution, if available) \nAgreement from the manu-\nfacturer to allow reference in-\nstitution to share the report \nwith NMRAs. Prior to sharing, \nthe reference institution and \nmanufacturer should agree \non the content of the docu-\nment that is shared. If fully \njustified, sentences referring \nto highly confidential infor-\nmation and/or highly sensi-\ntive data and/or not related \nto the product assessment \ndata could be masked. \nNote that this type of \ndocument is available \nonly for products regis-\ntered in Europe, via the \nCentralised Procedure. \nPublic reports are pre-\nferred as they already \ncontain all useful infor-\nmation, except those \nconsidered to give a \ncompetitive advantage. \n1.5 \nGood manufacturing \npractices (GMP) certifica-\ntion \n \n \n1.5.1 Copy of the GMP certifi-\ncate of the active pharmaceuti-\ncal ingredient (API)/drug sub-\nstance (DS) supplier, if availa-\nble \nYes \nCurrently, this is not al-\nways available. \nIf not available, state-\nment signed by qualified \nperson (QP) from \nFPP/DP manufacturing \nsite to be provided or at \nleast CoA  \n1.5.2 Copy of the GMP certifi-\ncate of the finished pharma-\nceutical product (FPP)/drug \nproduct (DP) manufacturer(s) \nYes \n \n1.5.3 GMP inspection report of \nthe manufacturing site(s) (FPP) \nfrom any reference institution \nAgreement from the manu-\nfacturer to allow the refer-\nence institution to share the \nreport with the NRA. Prior to \nsharing, the reference institu-\ntion and manufacturer should \nagree on the content of the \ndocument that is shared. If \nfully justified, sentences re-\nferring to highly confidential \ninformation and/or highly \nsensitive data and/or not re-\nlated to the product assess-\nment data could be masked. \nPublic reports are pre-\nferred as they already \ncontain all useful infor-\nmation, except those \nconsidered to give a \ncompetitive advantage.  \n1.6 \nOther documentation \n \n \n\n\nPAGE 3\n \nMCA-L-109/02, Annex 2 of Guideline on Reliance, version 2 – 25 June2025 \nPage 3/3\n \n \nDocumentation to be pro-\nvided \nComments \nIf generic dossier: \n– full GCP inspection report of \nthe bioequivalence study from \nany reference institution, if \nany; \n– bridging report (where appli-\ncable) especially for innovative \nmedicines (Section 6.3 in the \nGuideline on Reliance); \n– information on national rep-\nresentatives or distributor. \n \nAgreement from the manu-\nfacturer to allow reference in-\nstitution to share the report \nwith NMRA. Prior to sharing, \nthe RI and manufacturer \nshould agree on the content \nof the document that is \nshared. If fully justified, sen-\ntences referring to highly \nconfidential information \nand/or highly sensitive data \nand/or not related to the \nproduct assessment data \ncould be masked. \nPublic reports are pre-\nferred as they already \ncontain all useful infor-\nmation, except those \nconsidered to give a \ncompetitive advantage. \n1.7 Others -Samples \nStatement that samples have \nbeen submitted or, excep-\ntionally, commitment letter \nfor sample submission  \nIf, for a specific reason, \nsamples cannot be sub-\nmitted with the applica-\ntion, these should be \nsubmitted within two \nweeks after receipt of \nthe submission. \n \n",
+          "text_sha256": "c6db4a560c0f90aff29882d6f863379a141310bcf09b80f3d0f671766c5d5127"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

@@ -276,5 +276,849 @@
       "178d85991858485d302432a86a4c3d355aaa08c40e4cef33a095f2ba5ff8aee8",
       "dddc543ec4df51f217e8e4fcaef9b09f6a3988c69e880436069c41f350a8833d"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "MDV",
+    "country": "Maldives",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Verification for innovators, abridged review for generics/biosimilars",
+    "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+    "document_id": "700b492beb004122201c",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "MFDA Good Reliance Practice issue 01 revision 00. Issue/approval date fields blank in preserved file; operative status/date not independently established. Innovator verification separated from generic/biosimilar abridged routes.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "Innovators assigned verification, subject to applicable quality/stability requirements.",
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "AnnexI dynamiclist not yet tied to FDA/EMA in coded section; no invented list.",
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "At least one recognised RRA approval and marketed status for innovator verification; list dynamic.",
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Sufficient supporting evidence and reference report considered; safety/efficacy traceable references may be used, official-site confirmation possible.",
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "discretionary/conditional",
+        "finding": "Official website approval confirmation and traceable references expressly possible; complete public-only eligibility not established.",
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "No universal foreign report-sharing consent rule established by read sections.",
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "discretionary/conditional",
+        "finding": "GMP mandatory; risk-based foreign inspection exemption for RRA/PICS/EUDRAGMP evidence. Local stability or commitment/protocol retained.",
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Verification is administrative no further own scientific assessment for qualifying innovator; missing ZoneIVA stability moves quality evaluation to abridged/Board decision.",
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "MFDA may ask additional documents and perform risk-based inspection.",
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "MDV-Q01",
+          "MDV-Q02",
+          "MDV-CONTEXT-1",
+          "MDV-CONTEXT-2",
+          "MDV-CTX-1",
+          "MDV-CTX-2"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "MDV-Q01",
+        "iso3": "MDV",
+        "event_id": null,
+        "document_id": "700b492beb004122201c",
+        "source_id": "280e1f250d6938fd",
+        "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+        "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+        "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+        "start_offset": 18953,
+        "end_offset": 20789,
+        "pdf_page": 11,
+        "section_article": "6.1–6.2",
+        "verbatim_extracted_text": "Verification is an administrative process for taking a regulatory decision, based on GMP \ncertification / registration or other regulatory functions by any Reference Regulatory \nAuthority. The NRA does not undertake any further assessment activity on its own. \n6.1.2 \nVerification is applied where conformity with requirements of the Reference Regulatory \nAuthority is sufficient to meet the requirements of MFDA. \n6.1.3 \nMFDA will verify GMP status of abroad manufacturing site as per different options \nmentioned in Section 8.2 of these guidelines. \n6.1.4 \nMFDA verify that product applied for registration is approved by any Reference \nRegulatory Authority and is actually available in the market of that Authority. \n6.1.5 \nIn the case of imported product registration, MFDA confirm that applied product will be \nmanufactured at same manufacturing site(s) as approved by any Reference Regulatory \nAuthority. \n6.2 \nAbridged/Abbreviated Review \n6.2.1 \nAbridged/abbreviated review is the assessment of suitability of use under local \nconditions and regulatory requirements, while relying partly or fully on prior assessment \n/ GMP inspection outcomes/ Quality Control (QC) laboratory reports from any reference \nregulatory authority foe consideration by MFDA and then appropriate decision. \n6.2.2 \nThe abridged/abbreviated review may pertain to the full submission or parts thereof, \ndepending on the suitability of use under local conditions and regulatory requirements. \n6.2.3 \nThe evaluation of a certain part of the application (e.g. relevant to use under local \ncondition) such as product quality data in relation to climatic conditions and distribution \ninfrastructure and a benefit-risk assessment in relation to use in the local ethnic population, \nmedical practice/culture and patterns of disease and nutrition may be necessary",
+        "display_text": "Verification is an administrative process for taking a regulatory decision, based on GMP certification / registration or other regulatory functions by any Reference Regulatory Authority. The NRA does not undertake any further assessment activity on its own. 6.1.2 Verification is applied where conformity with requirements of the Reference Regulatory Authority is sufficient to meet the requirements of MFDA. 6.1.3 MFDA will verify GMP status of abroad manufacturing site as per different options mentioned in Section 8.2 of these guidelines. 6.1.4 MFDA verify that product applied for registration is approved by any Reference Regulatory Authority and is actually available in the market of that Authority. 6.1.5 In the case of imported product registration, MFDA confirm that applied product will be manufactured at same manufacturing site(s) as approved by any Reference Regulatory Authority. 6.2 Abridged/Abbreviated Review 6.2.1 Abridged/abbreviated review is the assessment of suitability of use under local conditions and regulatory requirements, while relying partly or fully on prior assessment / GMP inspection outcomes/ Quality Control (QC) laboratory reports from any reference regulatory authority foe consideration by MFDA and then appropriate decision. 6.2.2 The abridged/abbreviated review may pertain to the full submission or parts thereof, depending on the suitability of use under local conditions and regulatory requirements. 6.2.3 The evaluation of a certain part of the application (e.g. relevant to use under local condition) such as product quality data in relation to climatic conditions and distribution infrastructure and a benefit-risk assessment in relation to use in the local ethnic population, medical practice/culture and patterns of disease and nutrition may be necessary",
+        "feature_tags": [
+          "sameness",
+          "local_evidence",
+          "foreign_marketing"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank",
+        "evidence_tier": "national_rule",
+        "product_scope": "Human-medicine initial marketing authorisation",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MDV-Q02",
+        "iso3": "MDV",
+        "event_id": null,
+        "document_id": "700b492beb004122201c",
+        "source_id": "280e1f250d6938fd",
+        "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+        "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+        "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+        "start_offset": 23701,
+        "end_offset": 25260,
+        "pdf_page": 13,
+        "section_article": "7.1.2–7.2.1",
+        "verbatim_extracted_text": "MFDA by using verification pathway rely on the assessment of any Reference Regulatory \nAuthority (RRA) for granting Registration and post registration variation approvals to \ninnovator drug product (pharmaceutical and biological) subject to availability of quality \ndata of applied drug product (pharmaceutical) pertaining to Zone IVA conditions (if \nrequired) for pharmaceutical products. \n7.1.3 \nMFDA by using Abridged / Abbreviated pathway rely on the assessment of any Reference \nRegulatory Authority (RRA) for granting Registration / Marketing Authorization (MA) of \nMedicine and post approval/registration variation approvals to generic drug product / \nbiosimilar. A due consideration is given to alignment in standards and practices between \nMFDA and the relying RRA. The procedure involves a comprehensive evaluation of the \nRRA's assessment of the product including its safety, efficacy, and quality. \n7.2 \nReliance in Registration/ Marketing Authorization of Medicine \n7.2.1 \nThe applicant submits a Registration application to the MFDA including all requisite \nrelevant data and documentation as per the Guideline for Medicine Registration \nIncluding Emergency Use Authorization. The MFDA determines whether the applicant \nhas provided sufficient evidence to support the relevant reliance path for the submitted \napplication. If the applicant has provided sufficient evidence, then MFDA will assess the \nRRA's assessment report to ensure its consistency with the MFDA's regulatory requirements \nand will rely to grant the Registration or otherwise.",
+        "display_text": "MFDA by using verification pathway rely on the assessment of any Reference Regulatory Authority (RRA) for granting Registration and post registration variation approvals to innovator drug product (pharmaceutical and biological) subject to availability of quality data of applied drug product (pharmaceutical) pertaining to Zone IVA conditions (if required) for pharmaceutical products. 7.1.3 MFDA by using Abridged / Abbreviated pathway rely on the assessment of any Reference Regulatory Authority (RRA) for granting Registration / Marketing Authorization (MA) of Medicine and post approval/registration variation approvals to generic drug product / biosimilar. A due consideration is given to alignment in standards and practices between MFDA and the relying RRA. The procedure involves a comprehensive evaluation of the RRA's assessment of the product including its safety, efficacy, and quality. 7.2 Reliance in Registration/ Marketing Authorization of Medicine 7.2.1 The applicant submits a Registration application to the MFDA including all requisite relevant data and documentation as per the Guideline for Medicine Registration Including Emergency Use Authorization. The MFDA determines whether the applicant has provided sufficient evidence to support the relevant reliance path for the submitted application. If the applicant has provided sufficient evidence, then MFDA will assess the RRA's assessment report to ensure its consistency with the MFDA's regulatory requirements and will rely to grant the Registration or otherwise.",
+        "feature_tags": [
+          "discretion",
+          "reports",
+          "local_evidence",
+          "scope_limit"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank",
+        "evidence_tier": "national_rule",
+        "product_scope": "Human-medicine initial marketing authorisation",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "MDV-CONTEXT-1",
+        "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+        "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+        "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+        "start_offset": 18203,
+        "end_offset": 21789,
+        "verbatim_extracted_text": "y in regulatory standards as per international \nrequirements. \n5.1.5 \nMFDA ensures accountability by upholding the responsibility for the regulatory decisions \ntaken. \n6 \nRELIANCE PATHWAYS \n \nRegulatory reliance can be followed by either of following approaches. \n6.1 \nVerification \n\n\nPAGE 11\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 11 of 21 \n \n \n \n6.1.1 \nVerification is an administrative process for taking a regulatory decision, based on GMP \ncertification / registration or other regulatory functions by any Reference Regulatory \nAuthority. The NRA does not undertake any further assessment activity on its own. \n6.1.2 \nVerification is applied where conformity with requirements of the Reference Regulatory \nAuthority is sufficient to meet the requirements of MFDA. \n6.1.3 \nMFDA will verify GMP status of abroad manufacturing site as per different options \nmentioned in Section 8.2 of these guidelines. \n6.1.4 \nMFDA verify that product applied for registration is approved by any Reference \nRegulatory Authority and is actually available in the market of that Authority. \n6.1.5 \nIn the case of imported product registration, MFDA confirm that applied product will be \nmanufactured at same manufacturing site(s) as approved by any Reference Regulatory \nAuthority. \n6.2 \nAbridged/Abbreviated Review \n6.2.1 \nAbridged/abbreviated review is the assessment of suitability of use under local \nconditions and regulatory requirements, while relying partly or fully on prior assessment \n/ GMP inspection outcomes/ Quality Control (QC) laboratory reports from any reference \nregulatory authority foe consideration by MFDA and then appropriate decision. \n6.2.2 \nThe abridged/abbreviated review may pertain to the full submission or parts thereof, \ndepending on the suitability of use under local conditions and regulatory requirements. \n6.2.3 \nThe evaluation of a certain part of the application (e.g. relevant to use under local \ncondition) such as product quality data in relation to climatic conditions and distribution \ninfrastructure and a benefit-risk assessment in relation to use in the local ethnic population, \nmedical practice/culture and patterns of disease and nutrition may be necessary \n6.3 \nReference Regulatory Authorities \n\n\nPAGE 12\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 12 of 21 \n \n \n \n6.3.1 \nWell-resourced National Regulatory Authorities, regional and international bodies \nhaving robust regulatory mechanisms are more efficient in performing their regulatory \nfunctions and are designated as Reference Regulatory Authorities (RRAs) to meet the \nchallenges of globalization, increasingly complex technologies and growing public \nexpectations of faster access to novel and new therapies. MFDA considers these National \nRegulatory Authorities, regional and international bodies as Refe",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank"
+      },
+      {
+        "clause_id": "MDV-CONTEXT-2",
+        "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+        "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+        "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+        "start_offset": 22951,
+        "end_offset": 26260,
+        "verbatim_extracted_text": " Division, MFDA is responsible for processing and assessment of \nregistration applications, followed by decision (approval or rejection) by National \nPharmaceutical Board. The basic principle for registration of medicine is compliance to \ncriteria of quality, safety, and efficacy. \n\n\nPAGE 13\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 13 of 21 \n \n \n \n7.1.2 \nMFDA by using verification pathway rely on the assessment of any Reference Regulatory \nAuthority (RRA) for granting Registration and post registration variation approvals to \ninnovator drug product (pharmaceutical and biological) subject to availability of quality \ndata of applied drug product (pharmaceutical) pertaining to Zone IVA conditions (if \nrequired) for pharmaceutical products. \n7.1.3 \nMFDA by using Abridged / Abbreviated pathway rely on the assessment of any Reference \nRegulatory Authority (RRA) for granting Registration / Marketing Authorization (MA) of \nMedicine and post approval/registration variation approvals to generic drug product / \nbiosimilar. A due consideration is given to alignment in standards and practices between \nMFDA and the relying RRA. The procedure involves a comprehensive evaluation of the \nRRA's assessment of the product including its safety, efficacy, and quality. \n7.2 \nReliance in Registration/ Marketing Authorization of Medicine \n7.2.1 \nThe applicant submits a Registration application to the MFDA including all requisite \nrelevant data and documentation as per the Guideline for Medicine Registration \nIncluding Emergency Use Authorization. The MFDA determines whether the applicant \nhas provided sufficient evidence to support the relevant reliance path for the submitted \napplication. If the applicant has provided sufficient evidence, then MFDA will assess the \nRRA's assessment report to ensure its consistency with the MFDA's regulatory requirements \nand will rely to grant the Registration or otherwise. \n8 \nDOCUMENTATION REQUIREMENT FOR RELIANCE MECHANISMS \n8.1.1 \nRequest must be submitted on Application form for Registration of a Product and the \nform must be filled on Dhirithi portal in accordance with the relevant guidelines. An \napplicant may inform MFDA about the assessment by using reliance pathway i.e. \nverification or Abridged/ abbreviated review. For applying in any of the aforementioned \nmechanisms, the applicant/ manufacturer must ensure that the applied product meets \nthe criteria mentioned in the Guideline for Medicine Registration Including Emergency \nUse Authorization. \n\n\nPAGE 14\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: ",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank"
+      },
+      {
+        "clause_id": "MDV-CTX-1",
+        "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+        "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+        "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+        "start_offset": 21789,
+        "end_offset": 22951,
+        "verbatim_extracted_text": "rence Regulatory \nAuthorities (Annexure-I). It is a dynamic list and is subject to change by MFDA as needed \nlike inclusion or exclusion of any NRA in World Listed Authority (WLA) list by WHO. \n6.3.2 \nMFDA relies on decisions of Reference Regulatory Authorities to ensure the safety, \nefficacy, and quality of medicines for robust and accurate decision-making about their \nown products, considering that the products registered and sold in the countries of \nReference Regulatory Authorities fulfill the harmonized regulatory standards. \n7 \nRegulatory Functions based on Reliance \nThe concept of reliance plays a pivotal role in various aspects of regulatory decision- making \nundertaken by Maldives Food and Drug Authority (MFDA). It ensures the efficiency and \neffectiveness of medicine (pharmaceutical and biological). Following are detailed \nprocedures for each regulatory function in which reliance is applied: \n7.1 \nRegistration/ Marketing Authorization (MA) of Medicine. \n7.1.1 \nMFDA is responsible for assessment, evaluation and Registration/ Marketing \nAuthorization (MA) of Medicine, post-registration variations and renewal. Medicine \nTherapeutic Goods",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank"
+      },
+      {
+        "clause_id": "MDV-CTX-2",
+        "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+        "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+        "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+        "start_offset": 26260,
+        "end_offset": 34300,
+        "verbatim_extracted_text": "Technical \nCommittee of MTG \nPage No: 14 of 21 \n \n \n \n9 \nASSESSMENT USING RELIANCE PATHWAYS \n9.1 \nAdministrative Information \nAll administrative information as outlined in the application of product shall be provided. \na. Quality information (Stability data) \n• \nQuality documentation should include all the data as submitted to the Reference \nRegulatory Authority (RRA), unless indicated otherwise according to the \nrequirements of the MFDA. Stability study for active pharmaceutical \ningredient/Drug substance and drug product as per Zone IVA (for pharmaceutical) \nand relevant conditions for biological and other thermos labile drug products. In \ncase of non-availability of this data, the commitment and protocol should be \nprovided for stability studies under the appropriate climatic conditions for MFDA \nand then the stability data will be assessed by the MFDA and will be decided \naccordingly by National Pharmaceutical Board using Abridged/Abbreviated \nReview. \nb. Safety and Efficacy Information \n• \nFor the registration / enlistment applications of formulations which have been \napproved by any of the RRA, traceable references shall be provided to establish \nthe safety and efficacy of the applied formulation and will be decided using \nverification pathway of reliance. \nc. Additional Data in both Mechanisms \n• \nMFDA may require following additional data as and when required: \n \n1. A cover letter from the applicant explaining the rationale for reliance on the \nReference Regulatory Authority (RRA). \n2. A copy of the registration granted by the RRA or confirmation by MFDA from official \nwebsite of RRA. \n3. A copy of the product information leaflet (PIL) approved by the RRA. \n4. A copy of the risk management plan (RMP) approved by the RRA. \n5. Proposed label as per legislation / requirement of MFDA. \n\n\nPAGE 15\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 15 of 21 \n \n \n \n6. A statement from the applicant confirming that the approved medicinal product shall \nbe manufactured and marketed in accordance with the approved registration and \nPIL. \nd. Post Registration Variations \n• \nApplication for consideration of any post registration variation will be submitted \nas per Guidelines for Registration of Medicine and EUA. Assessment shall be done \nas per details recorded in above sections for depending on application part i.e. \npertaining to quality or safety and efficacy information. \n10 REGULATORY INSPECTIONS (GMP) \n10.1.1 Compliances to Good Manufacturing Practices is a mandatory consideration for \nregistration of a medicinal product (pharmaceutical and biological). MFDA has adopted \nreliance approach for verification of GMP of foreign manufacturing site by applying risk-\nbased exemption approach. Importers applying for registration of imported drug \nproducts are exempted for inspection of manufacturing unit abroad, if the applied \nproduct qualifies any of the following criteria: \na. Registered / enlisted in any of Reference Regulatory Authority (Annexure-I). \nb. Registered / enlisted in minimum three of the drug regulatory authorities of \nformer Eastern Europe. \nc. Manufacturer GMP certificate (for applied dosage form facility) is available on \nEUDRA-GMDP website \nd. (http://eudragmdp.ema.europa,eu/inspections/gmpc/searchGMPCompliance.do) \ne. WHO Pre-qualified product and manufacturing facility (section) thereof. \nf. Any product approved by Pharmaceutical Inspection Co-operation Scheme (PIC/S) \nParticipating Authority and manufacturing facility (section) of such product or \nmanufacturing site/facilities conformed to the regulatory inspection by any of the \nPIC/S Participating Authority (https://picscheme.org/en/members) \n\n\nPAGE 16\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 16 of 21 \n \n \n \ng. Inspection exemption on risk assessment criteria based on inspection of \nmanufacturing facility by any other NRA (other than NRA of country of origin) in \nthe past 3 years. MFDA will review another NRA's inspection report to determine \nwhether it is consistent with the MFDA's inspection requirements or otherwise. If \nthe MFDA is satisfied with the NRA's inspection report, it will accept the report as \nevidence of GMP compliance, otherwise it may conduct own inspection of the \napplicant site. In aforementioned case, such inspection reports will be shared by \nNRA via their official web addresses to confirm their genuineness / authenticity. \nh. ln case of suspension or cancellation of registration of the product by exporting \ncountry or delisting of WHO-PQ status or suspension / cancellation by PIC/S \nParticipating Authority, the registration holders shall be bound to inform MFDA \nabout such suspension or cancellation within fifteen days. In case of non-\ncompliance, the Registration Board may take action as per law against the \nimporter, which may also lead to suspension/cancellation of registration of such \nproduct. \ni. MFDA may conduct risk based GMP inspection of the manufacturing facility any \ntime (before or after grant of approval) due to any reason as it deems fit like \nrepeated GMP violations, supply of substandard products, Adverse Drug Reaction \ndue to manufacturing problem etc. \n11 CLINICAL TRIALS \n11.1.1 MFDA's reliance clinical trials involves accepting data from RRA approved clinical trials. To \nensure the reliability of this data, MFDA carefully evaluates the processes, \nmethodologies, and ethical considerations of the relevant RRA in line with international \nstandards such as ICH- GCP. This approach expedites the approval of clinical trials while \nupholding the highest standards of ethical conduct, patient safety, and data integrity. \nThe mechanism adopted for reliance encompasses following: \na. Review of approval or rejection of clinical trials in any Reference Regulatory \nAuthorities. \n\n\nPAGE 17\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 17 of 21 \n \n \n \nb. In case information is not available on the official website, the Reference Regulatory \nAuthority is contacted directly via electronic mail for a query or clarification on a \nparticular issue under consideration. \nc. Regulatory status or any other regulatory information available in the public domain \nthrough their website. \nd. Reports from reference regulatory authorities. \n12 PHARMACOVIGILANCE \n \n12.1.1 Reference Regulatory Authorities have better reporting and information sharing system and \nthus MFDA prioritizes pharmacovigilance data information sharing with RRAs and the \nutilization of their assessments for regulatory decisions. This process includes the \nestablishment of efficient communication channels for the exchange of safety-related data. \nMFDA may rely on the RRA's assessments of the safety of a product. This collaboration \naccelerates the response to emerging safety concerns and facilitates the protection of public \nhealth. \n12.1.2 The MFDA collects safety information about products that ",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank"
+      }
+    ],
+    "review_details": {
+      "iso3": "MDV",
+      "country": "Maldives",
+      "selected_document_id": "700b492beb004122201c",
+      "source_id": "280e1f250d6938fd",
+      "pathway": "Verification for innovators, abridged review for generics/biosimilars",
+      "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+      "document_title": "MFDA Good Reliance Practices original official guideline",
+      "source_type": "Guideline",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+      "raw_hash_validated": true,
+      "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+      "version_dates": {},
+      "version_scope_note": "MFDA Good Reliance Practice issue 01 revision 00. Issue/approval date fields blank in preserved file; operative status/date not independently established. Innovator verification separated from generic/biosimilar abridged routes.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          18203,
+          21789
+        ],
+        [
+          22951,
+          26260
+        ],
+        [
+          21789,
+          22951
+        ],
+        [
+          26260,
+          34300
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "Innovators assigned verification, subject to applicable quality/stability requirements.",
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "AnnexI dynamiclist not yet tied to FDA/EMA in coded section; no invented list.",
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "At least one recognised RRA approval and marketed status for innovator verification; list dynamic.",
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Sufficient supporting evidence and reference report considered; safety/efficacy traceable references may be used, official-site confirmation possible.",
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "discretionary/conditional",
+          "finding": "Official website approval confirmation and traceable references expressly possible; complete public-only eligibility not established.",
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "No universal foreign report-sharing consent rule established by read sections.",
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "discretionary/conditional",
+          "finding": "GMP mandatory; risk-based foreign inspection exemption for RRA/PICS/EUDRAGMP evidence. Local stability or commitment/protocol retained.",
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Verification is administrative no further own scientific assessment for qualifying innovator; missing ZoneIVA stability moves quality evaluation to abridged/Board decision.",
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "MFDA may ask additional documents and perform risk-based inspection.",
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        },
+        "E": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "MDV-Q01",
+            "MDV-Q02",
+            "MDV-CONTEXT-1",
+            "MDV-CONTEXT-2",
+            "MDV-CTX-1",
+            "MDV-CTX-2"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "MDV-Q01",
+          "iso3": "MDV",
+          "event_id": null,
+          "document_id": "700b492beb004122201c",
+          "source_id": "280e1f250d6938fd",
+          "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+          "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+          "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+          "start_offset": 18953,
+          "end_offset": 20789,
+          "pdf_page": 11,
+          "section_article": "6.1–6.2",
+          "verbatim_extracted_text": "Verification is an administrative process for taking a regulatory decision, based on GMP \ncertification / registration or other regulatory functions by any Reference Regulatory \nAuthority. The NRA does not undertake any further assessment activity on its own. \n6.1.2 \nVerification is applied where conformity with requirements of the Reference Regulatory \nAuthority is sufficient to meet the requirements of MFDA. \n6.1.3 \nMFDA will verify GMP status of abroad manufacturing site as per different options \nmentioned in Section 8.2 of these guidelines. \n6.1.4 \nMFDA verify that product applied for registration is approved by any Reference \nRegulatory Authority and is actually available in the market of that Authority. \n6.1.5 \nIn the case of imported product registration, MFDA confirm that applied product will be \nmanufactured at same manufacturing site(s) as approved by any Reference Regulatory \nAuthority. \n6.2 \nAbridged/Abbreviated Review \n6.2.1 \nAbridged/abbreviated review is the assessment of suitability of use under local \nconditions and regulatory requirements, while relying partly or fully on prior assessment \n/ GMP inspection outcomes/ Quality Control (QC) laboratory reports from any reference \nregulatory authority foe consideration by MFDA and then appropriate decision. \n6.2.2 \nThe abridged/abbreviated review may pertain to the full submission or parts thereof, \ndepending on the suitability of use under local conditions and regulatory requirements. \n6.2.3 \nThe evaluation of a certain part of the application (e.g. relevant to use under local \ncondition) such as product quality data in relation to climatic conditions and distribution \ninfrastructure and a benefit-risk assessment in relation to use in the local ethnic population, \nmedical practice/culture and patterns of disease and nutrition may be necessary",
+          "display_text": "Verification is an administrative process for taking a regulatory decision, based on GMP certification / registration or other regulatory functions by any Reference Regulatory Authority. The NRA does not undertake any further assessment activity on its own. 6.1.2 Verification is applied where conformity with requirements of the Reference Regulatory Authority is sufficient to meet the requirements of MFDA. 6.1.3 MFDA will verify GMP status of abroad manufacturing site as per different options mentioned in Section 8.2 of these guidelines. 6.1.4 MFDA verify that product applied for registration is approved by any Reference Regulatory Authority and is actually available in the market of that Authority. 6.1.5 In the case of imported product registration, MFDA confirm that applied product will be manufactured at same manufacturing site(s) as approved by any Reference Regulatory Authority. 6.2 Abridged/Abbreviated Review 6.2.1 Abridged/abbreviated review is the assessment of suitability of use under local conditions and regulatory requirements, while relying partly or fully on prior assessment / GMP inspection outcomes/ Quality Control (QC) laboratory reports from any reference regulatory authority foe consideration by MFDA and then appropriate decision. 6.2.2 The abridged/abbreviated review may pertain to the full submission or parts thereof, depending on the suitability of use under local conditions and regulatory requirements. 6.2.3 The evaluation of a certain part of the application (e.g. relevant to use under local condition) such as product quality data in relation to climatic conditions and distribution infrastructure and a benefit-risk assessment in relation to use in the local ethnic population, medical practice/culture and patterns of disease and nutrition may be necessary",
+          "feature_tags": [
+            "sameness",
+            "local_evidence",
+            "foreign_marketing"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank",
+          "evidence_tier": "national_rule",
+          "product_scope": "Human-medicine initial marketing authorisation",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MDV-Q02",
+          "iso3": "MDV",
+          "event_id": null,
+          "document_id": "700b492beb004122201c",
+          "source_id": "280e1f250d6938fd",
+          "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+          "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+          "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+          "start_offset": 23701,
+          "end_offset": 25260,
+          "pdf_page": 13,
+          "section_article": "7.1.2–7.2.1",
+          "verbatim_extracted_text": "MFDA by using verification pathway rely on the assessment of any Reference Regulatory \nAuthority (RRA) for granting Registration and post registration variation approvals to \ninnovator drug product (pharmaceutical and biological) subject to availability of quality \ndata of applied drug product (pharmaceutical) pertaining to Zone IVA conditions (if \nrequired) for pharmaceutical products. \n7.1.3 \nMFDA by using Abridged / Abbreviated pathway rely on the assessment of any Reference \nRegulatory Authority (RRA) for granting Registration / Marketing Authorization (MA) of \nMedicine and post approval/registration variation approvals to generic drug product / \nbiosimilar. A due consideration is given to alignment in standards and practices between \nMFDA and the relying RRA. The procedure involves a comprehensive evaluation of the \nRRA's assessment of the product including its safety, efficacy, and quality. \n7.2 \nReliance in Registration/ Marketing Authorization of Medicine \n7.2.1 \nThe applicant submits a Registration application to the MFDA including all requisite \nrelevant data and documentation as per the Guideline for Medicine Registration \nIncluding Emergency Use Authorization. The MFDA determines whether the applicant \nhas provided sufficient evidence to support the relevant reliance path for the submitted \napplication. If the applicant has provided sufficient evidence, then MFDA will assess the \nRRA's assessment report to ensure its consistency with the MFDA's regulatory requirements \nand will rely to grant the Registration or otherwise.",
+          "display_text": "MFDA by using verification pathway rely on the assessment of any Reference Regulatory Authority (RRA) for granting Registration and post registration variation approvals to innovator drug product (pharmaceutical and biological) subject to availability of quality data of applied drug product (pharmaceutical) pertaining to Zone IVA conditions (if required) for pharmaceutical products. 7.1.3 MFDA by using Abridged / Abbreviated pathway rely on the assessment of any Reference Regulatory Authority (RRA) for granting Registration / Marketing Authorization (MA) of Medicine and post approval/registration variation approvals to generic drug product / biosimilar. A due consideration is given to alignment in standards and practices between MFDA and the relying RRA. The procedure involves a comprehensive evaluation of the RRA's assessment of the product including its safety, efficacy, and quality. 7.2 Reliance in Registration/ Marketing Authorization of Medicine 7.2.1 The applicant submits a Registration application to the MFDA including all requisite relevant data and documentation as per the Guideline for Medicine Registration Including Emergency Use Authorization. The MFDA determines whether the applicant has provided sufficient evidence to support the relevant reliance path for the submitted application. If the applicant has provided sufficient evidence, then MFDA will assess the RRA's assessment report to ensure its consistency with the MFDA's regulatory requirements and will rely to grant the Registration or otherwise.",
+          "feature_tags": [
+            "discretion",
+            "reports",
+            "local_evidence",
+            "scope_limit"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank",
+          "evidence_tier": "national_rule",
+          "product_scope": "Human-medicine initial marketing authorisation",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MDV-CONTEXT-1",
+          "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+          "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+          "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+          "start_offset": 18203,
+          "end_offset": 21789,
+          "verbatim_extracted_text": "y in regulatory standards as per international \nrequirements. \n5.1.5 \nMFDA ensures accountability by upholding the responsibility for the regulatory decisions \ntaken. \n6 \nRELIANCE PATHWAYS \n \nRegulatory reliance can be followed by either of following approaches. \n6.1 \nVerification \n\n\nPAGE 11\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 11 of 21 \n \n \n \n6.1.1 \nVerification is an administrative process for taking a regulatory decision, based on GMP \ncertification / registration or other regulatory functions by any Reference Regulatory \nAuthority. The NRA does not undertake any further assessment activity on its own. \n6.1.2 \nVerification is applied where conformity with requirements of the Reference Regulatory \nAuthority is sufficient to meet the requirements of MFDA. \n6.1.3 \nMFDA will verify GMP status of abroad manufacturing site as per different options \nmentioned in Section 8.2 of these guidelines. \n6.1.4 \nMFDA verify that product applied for registration is approved by any Reference \nRegulatory Authority and is actually available in the market of that Authority. \n6.1.5 \nIn the case of imported product registration, MFDA confirm that applied product will be \nmanufactured at same manufacturing site(s) as approved by any Reference Regulatory \nAuthority. \n6.2 \nAbridged/Abbreviated Review \n6.2.1 \nAbridged/abbreviated review is the assessment of suitability of use under local \nconditions and regulatory requirements, while relying partly or fully on prior assessment \n/ GMP inspection outcomes/ Quality Control (QC) laboratory reports from any reference \nregulatory authority foe consideration by MFDA and then appropriate decision. \n6.2.2 \nThe abridged/abbreviated review may pertain to the full submission or parts thereof, \ndepending on the suitability of use under local conditions and regulatory requirements. \n6.2.3 \nThe evaluation of a certain part of the application (e.g. relevant to use under local \ncondition) such as product quality data in relation to climatic conditions and distribution \ninfrastructure and a benefit-risk assessment in relation to use in the local ethnic population, \nmedical practice/culture and patterns of disease and nutrition may be necessary \n6.3 \nReference Regulatory Authorities \n\n\nPAGE 12\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 12 of 21 \n \n \n \n6.3.1 \nWell-resourced National Regulatory Authorities, regional and international bodies \nhaving robust regulatory mechanisms are more efficient in performing their regulatory \nfunctions and are designated as Reference Regulatory Authorities (RRAs) to meet the \nchallenges of globalization, increasingly complex technologies and growing public \nexpectations of faster access to novel and new therapies. MFDA considers these National \nRegulatory Authorities, regional and international bodies as Refe",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank"
+        },
+        {
+          "clause_id": "MDV-CONTEXT-2",
+          "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+          "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+          "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+          "start_offset": 22951,
+          "end_offset": 26260,
+          "verbatim_extracted_text": " Division, MFDA is responsible for processing and assessment of \nregistration applications, followed by decision (approval or rejection) by National \nPharmaceutical Board. The basic principle for registration of medicine is compliance to \ncriteria of quality, safety, and efficacy. \n\n\nPAGE 13\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 13 of 21 \n \n \n \n7.1.2 \nMFDA by using verification pathway rely on the assessment of any Reference Regulatory \nAuthority (RRA) for granting Registration and post registration variation approvals to \ninnovator drug product (pharmaceutical and biological) subject to availability of quality \ndata of applied drug product (pharmaceutical) pertaining to Zone IVA conditions (if \nrequired) for pharmaceutical products. \n7.1.3 \nMFDA by using Abridged / Abbreviated pathway rely on the assessment of any Reference \nRegulatory Authority (RRA) for granting Registration / Marketing Authorization (MA) of \nMedicine and post approval/registration variation approvals to generic drug product / \nbiosimilar. A due consideration is given to alignment in standards and practices between \nMFDA and the relying RRA. The procedure involves a comprehensive evaluation of the \nRRA's assessment of the product including its safety, efficacy, and quality. \n7.2 \nReliance in Registration/ Marketing Authorization of Medicine \n7.2.1 \nThe applicant submits a Registration application to the MFDA including all requisite \nrelevant data and documentation as per the Guideline for Medicine Registration \nIncluding Emergency Use Authorization. The MFDA determines whether the applicant \nhas provided sufficient evidence to support the relevant reliance path for the submitted \napplication. If the applicant has provided sufficient evidence, then MFDA will assess the \nRRA's assessment report to ensure its consistency with the MFDA's regulatory requirements \nand will rely to grant the Registration or otherwise. \n8 \nDOCUMENTATION REQUIREMENT FOR RELIANCE MECHANISMS \n8.1.1 \nRequest must be submitted on Application form for Registration of a Product and the \nform must be filled on Dhirithi portal in accordance with the relevant guidelines. An \napplicant may inform MFDA about the assessment by using reliance pathway i.e. \nverification or Abridged/ abbreviated review. For applying in any of the aforementioned \nmechanisms, the applicant/ manufacturer must ensure that the applied product meets \nthe criteria mentioned in the Guideline for Medicine Registration Including Emergency \nUse Authorization. \n\n\nPAGE 14\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: ",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank"
+        },
+        {
+          "clause_id": "MDV-CTX-1",
+          "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+          "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+          "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+          "start_offset": 21789,
+          "end_offset": 22951,
+          "verbatim_extracted_text": "rence Regulatory \nAuthorities (Annexure-I). It is a dynamic list and is subject to change by MFDA as needed \nlike inclusion or exclusion of any NRA in World Listed Authority (WLA) list by WHO. \n6.3.2 \nMFDA relies on decisions of Reference Regulatory Authorities to ensure the safety, \nefficacy, and quality of medicines for robust and accurate decision-making about their \nown products, considering that the products registered and sold in the countries of \nReference Regulatory Authorities fulfill the harmonized regulatory standards. \n7 \nRegulatory Functions based on Reliance \nThe concept of reliance plays a pivotal role in various aspects of regulatory decision- making \nundertaken by Maldives Food and Drug Authority (MFDA). It ensures the efficiency and \neffectiveness of medicine (pharmaceutical and biological). Following are detailed \nprocedures for each regulatory function in which reliance is applied: \n7.1 \nRegistration/ Marketing Authorization (MA) of Medicine. \n7.1.1 \nMFDA is responsible for assessment, evaluation and Registration/ Marketing \nAuthorization (MA) of Medicine, post-registration variations and renewal. Medicine \nTherapeutic Goods",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank"
+        },
+        {
+          "clause_id": "MDV-CTX-2",
+          "source_url": "https://health.gov.mv/storage/uploads/dodnMOYp/htzw9d1n.pdf",
+          "raw_sha256": "90b921a641200079adf66e48047b26da7b9838fd625bece1cf441fe387917ee2",
+          "text_sha256": "c2256cf43c222a680c1ba5e0ffc78beb3f653f8da80d3a04cc6750ef4cd9d7e9",
+          "start_offset": 26260,
+          "end_offset": 34300,
+          "verbatim_extracted_text": "Technical \nCommittee of MTG \nPage No: 14 of 21 \n \n \n \n9 \nASSESSMENT USING RELIANCE PATHWAYS \n9.1 \nAdministrative Information \nAll administrative information as outlined in the application of product shall be provided. \na. Quality information (Stability data) \n• \nQuality documentation should include all the data as submitted to the Reference \nRegulatory Authority (RRA), unless indicated otherwise according to the \nrequirements of the MFDA. Stability study for active pharmaceutical \ningredient/Drug substance and drug product as per Zone IVA (for pharmaceutical) \nand relevant conditions for biological and other thermos labile drug products. In \ncase of non-availability of this data, the commitment and protocol should be \nprovided for stability studies under the appropriate climatic conditions for MFDA \nand then the stability data will be assessed by the MFDA and will be decided \naccordingly by National Pharmaceutical Board using Abridged/Abbreviated \nReview. \nb. Safety and Efficacy Information \n• \nFor the registration / enlistment applications of formulations which have been \napproved by any of the RRA, traceable references shall be provided to establish \nthe safety and efficacy of the applied formulation and will be decided using \nverification pathway of reliance. \nc. Additional Data in both Mechanisms \n• \nMFDA may require following additional data as and when required: \n \n1. A cover letter from the applicant explaining the rationale for reliance on the \nReference Regulatory Authority (RRA). \n2. A copy of the registration granted by the RRA or confirmation by MFDA from official \nwebsite of RRA. \n3. A copy of the product information leaflet (PIL) approved by the RRA. \n4. A copy of the risk management plan (RMP) approved by the RRA. \n5. Proposed label as per legislation / requirement of MFDA. \n\n\nPAGE 15\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 15 of 21 \n \n \n \n6. A statement from the applicant confirming that the approved medicinal product shall \nbe manufactured and marketed in accordance with the approved registration and \nPIL. \nd. Post Registration Variations \n• \nApplication for consideration of any post registration variation will be submitted \nas per Guidelines for Registration of Medicine and EUA. Assessment shall be done \nas per details recorded in above sections for depending on application part i.e. \npertaining to quality or safety and efficacy information. \n10 REGULATORY INSPECTIONS (GMP) \n10.1.1 Compliances to Good Manufacturing Practices is a mandatory consideration for \nregistration of a medicinal product (pharmaceutical and biological). MFDA has adopted \nreliance approach for verification of GMP of foreign manufacturing site by applying risk-\nbased exemption approach. Importers applying for registration of imported drug \nproducts are exempted for inspection of manufacturing unit abroad, if the applied \nproduct qualifies any of the following criteria: \na. Registered / enlisted in any of Reference Regulatory Authority (Annexure-I). \nb. Registered / enlisted in minimum three of the drug regulatory authorities of \nformer Eastern Europe. \nc. Manufacturer GMP certificate (for applied dosage form facility) is available on \nEUDRA-GMDP website \nd. (http://eudragmdp.ema.europa,eu/inspections/gmpc/searchGMPCompliance.do) \ne. WHO Pre-qualified product and manufacturing facility (section) thereof. \nf. Any product approved by Pharmaceutical Inspection Co-operation Scheme (PIC/S) \nParticipating Authority and manufacturing facility (section) of such product or \nmanufacturing site/facilities conformed to the regulatory inspection by any of the \nPIC/S Participating Authority (https://picscheme.org/en/members) \n\n\nPAGE 16\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 16 of 21 \n \n \n \ng. Inspection exemption on risk assessment criteria based on inspection of \nmanufacturing facility by any other NRA (other than NRA of country of origin) in \nthe past 3 years. MFDA will review another NRA's inspection report to determine \nwhether it is consistent with the MFDA's inspection requirements or otherwise. If \nthe MFDA is satisfied with the NRA's inspection report, it will accept the report as \nevidence of GMP compliance, otherwise it may conduct own inspection of the \napplicant site. In aforementioned case, such inspection reports will be shared by \nNRA via their official web addresses to confirm their genuineness / authenticity. \nh. ln case of suspension or cancellation of registration of the product by exporting \ncountry or delisting of WHO-PQ status or suspension / cancellation by PIC/S \nParticipating Authority, the registration holders shall be bound to inform MFDA \nabout such suspension or cancellation within fifteen days. In case of non-\ncompliance, the Registration Board may take action as per law against the \nimporter, which may also lead to suspension/cancellation of registration of such \nproduct. \ni. MFDA may conduct risk based GMP inspection of the manufacturing facility any \ntime (before or after grant of approval) due to any reason as it deems fit like \nrepeated GMP violations, supply of substandard products, Adverse Drug Reaction \ndue to manufacturing problem etc. \n11 CLINICAL TRIALS \n11.1.1 MFDA's reliance clinical trials involves accepting data from RRA approved clinical trials. To \nensure the reliability of this data, MFDA carefully evaluates the processes, \nmethodologies, and ethical considerations of the relevant RRA in line with international \nstandards such as ICH- GCP. This approach expedites the approval of clinical trials while \nupholding the highest standards of ethical conduct, patient safety, and data integrity. \nThe mechanism adopted for reliance encompasses following: \na. Review of approval or rejection of clinical trials in any Reference Regulatory \nAuthorities. \n\n\nPAGE 17\n \n \n \nMedicine and Therapeutic Goods Division, Maldives Food and Drug Authority \nAuthorized by: Director General, MFDA \nDoc. No:   MTG/RE-RE/GLN-TE 020 \nDoc. Name: Guideline on Good Reliance Practices for Regulation of Medicines \nIssue No: 01 \nIssue Date:  \nPrepared by: Senior Pharmacist \nApproved by: \nPharmaceutical \nSpecialist \nCopy Letter:  \nRevision No: 00 \nRevised Date: - \n \nVerified by: Technical \nCommittee of MTG \nPage No: 17 of 21 \n \n \n \nb. In case information is not available on the official website, the Reference Regulatory \nAuthority is contacted directly via electronic mail for a query or clarification on a \nparticular issue under consideration. \nc. Regulatory status or any other regulatory information available in the public domain \nthrough their website. \nd. Reports from reference regulatory authorities. \n12 PHARMACOVIGILANCE \n \n12.1.1 Reference Regulatory Authorities have better reporting and information sharing system and \nthus MFDA prioritizes pharmacovigilance data information sharing with RRAs and the \nutilization of their assessments for regulatory decisions. This process includes the \nestablishment of efficient communication channels for the exchange of safety-related data. \nMFDA may rely on the RRA's assessments of the safety of a product. This collaboration \naccelerates the response to emerging safety concerns and facilitates the protection of public \nhealth. \n12.1.2 The MFDA collects safety information about products that ",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Guideline verified by technical committee 18 July 2024; issue-date field itself blank"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

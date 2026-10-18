@@ -256,5 +256,645 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "BHR",
+    "country": "Bahrain",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "GCC central registration recognised after domestic formalities",
+    "source_url": "https://www.lloc.gov.bh/Legislation/HTM/RSCH3220",
+    "document_id": "F250_8c3f3544a7cf968da54c_de6dd4c7562e",
+    "genre": "Official implementing regulation",
+    "language": "ar",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Bahrain Decision 32/2020 Arts 11–17, Arabic official text. The selected recognition mechanism concerns GCC-central registration; FDA/EMA prior approval is a different issue.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "GCC-central product registration is treated as registered after national NHRA procedures.",
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "outside pathway scope",
+        "finding": "FDA and EC centralised approvals do not establish GCC-central registration.",
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "discretionary/conditional",
+        "finding": "Art 11 generally requires registration and marketing in origin country for a year, with stated alternatives/exceptions.",
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "No foreign report-sharing consent conclusion drawn from this clause.",
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Manufacturing-site approval/GCC requirements and samples/analysis retained; foreign CoA or GCC testing may substitute under conditions.",
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Local testing and NHRA procedures remain; GCC recognition does not waive all national steps.",
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "outside selected recognition pathway on fixed facts",
+        "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ],
+        "status": "outside selected recognition pathway on fixed facts"
+      },
+      "B": {
+        "eligibility": "outside selected recognition pathway on fixed facts",
+        "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ],
+        "status": "outside selected recognition pathway on fixed facts"
+      },
+      "C": {
+        "eligibility": "outside selected recognition pathway on fixed facts",
+        "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ],
+        "status": "outside selected recognition pathway on fixed facts"
+      },
+      "D": {
+        "eligibility": "outside selected recognition pathway on fixed facts",
+        "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ],
+        "status": "outside selected recognition pathway on fixed facts"
+      },
+      "E": {
+        "eligibility": "outside selected recognition pathway on fixed facts",
+        "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "BHR-R01",
+          "BHR-R02",
+          "BHR-CONTEXT-1"
+        ],
+        "status": "outside selected recognition pathway on fixed facts"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "BHR-R01",
+        "iso3": "BHR",
+        "event_id": null,
+        "document_id": "F250_8c3f3544a7cf968da54c_de6dd4c7562e",
+        "source_id": "F250_8c3f3544a7cf968da54c",
+        "source_url": "https://www.lloc.gov.bh/Legislation/HTM/RSCH3220",
+        "raw_sha256": "de6dd4c7562ef5864e8bf9e3221ba048ac57685767273c76f941be377f9796a1",
+        "text_sha256": "a13c380c90043d662791095c825e424cef0ff11a26dd0d8884fe501a7235f763",
+        "start_offset": 4992,
+        "end_offset": 5360,
+        "pdf_page": null,
+        "verbatim_extracted_text": "مادة\n(11)\nبالإضافة\nإلى الشروط الواردة في القانون، يجب أن يكون الدواء أو المستحضر الصيدلي مسجلاً\nومسوقاً في بلد المنشأ لمدة سنة على الأقل قبل تسجيله في المملكة، وفي حالة عدم\nتسويقه في بلد المنشأ يتم توضيح سبب ذلك مع تقديم شهادة موثقة بتسويقه بنفس\nالتركيبة في إحدى الدول التي تقبلها الهيئة.\nوللجنة\nاستثناء بعض الأدوية والمستحضرات الصيدلية المهمة والضرورية من شرط المدة.\n",
+        "display_text": "مادة (11) بالإضافة إلى الشروط الواردة في القانون، يجب أن يكون الدواء أو المستحضر الصيدلي مسجلاً ومسوقاً في بلد المنشأ لمدة سنة على الأقل قبل تسجيله في المملكة، وفي حالة عدم تسويقه في بلد المنشأ يتم توضيح سبب ذلك مع تقديم شهادة موثقة بتسويقه بنفس التركيبة في إحدى الدول التي تقبلها الهيئة. وللجنة استثناء بعض الأدوية والمستحضرات الصيدلية المهمة والضرورية من شرط المدة.",
+        "feature_tags": [
+          "foreign_marketing",
+          "minimum_foreign_history",
+          "discretion",
+          "scope_limit"
+        ],
+        "role": "Article 11: origin marketing and exceptions",
+        "language": "ar",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "Article 17 deems GCC Central Registration Committee medicines registered domestically after the authority’s required procedures. Article 11 normally requires one year of marketing in the country of origin, permits an accepted-country certificate if not marketed there and allows essential-product exceptions. Article 14 retains analytical requirements and permits specified foreign quality evidence. This is GCC recognition, not proof of a general FDA fast track.",
+        "version_alignment": "Decision issued 27 July 2020; commencement is day after Official Gazette publication, which is not replaced by issuance date. Arabic re-extracted correctly from the unchanged raw HTML.",
+        "evidence_tier": "national_rule",
+        "section_article": "Article 11: origin marketing and exceptions",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "BHR-R02",
+        "iso3": "BHR",
+        "event_id": null,
+        "document_id": "F250_8c3f3544a7cf968da54c_de6dd4c7562e",
+        "source_id": "F250_8c3f3544a7cf968da54c",
+        "source_url": "https://www.lloc.gov.bh/Legislation/HTM/RSCH3220",
+        "raw_sha256": "de6dd4c7562ef5864e8bf9e3221ba048ac57685767273c76f941be377f9796a1",
+        "text_sha256": "a13c380c90043d662791095c825e424cef0ff11a26dd0d8884fe501a7235f763",
+        "start_offset": 6593,
+        "end_offset": 6758,
+        "pdf_page": null,
+        "verbatim_extracted_text": "مادة\n(17)\nتعتبر\nالأدوية والمستحضرات الصيدلية المسجلة لدى اللجنة الخليجية المركزية للتسجيل، في\nحكم المسجلة لدى الهيئة، وذلك بعد استكمال الإجراءات التي تطلبها الهيئة.\n",
+        "display_text": "مادة (17) تعتبر الأدوية والمستحضرات الصيدلية المسجلة لدى اللجنة الخليجية المركزية للتسجيل، في حكم المسجلة لدى الهيئة، وذلك بعد استكمال الإجراءات التي تطلبها الهيئة.",
+        "feature_tags": [
+          "automatic",
+          "scope_limit"
+        ],
+        "role": "Article 17: GCC registration and domestic procedures",
+        "language": "ar",
+        "language_status": "Original official-language source retained; no unchecked English translation displayed",
+        "quote_method": "Exact substring of hash-preserved native extraction",
+        "ocr_in_passage": false,
+        "review_status": "Assistant source-text review; no independent legal certification",
+        "research_interpretation": "Article 17 deems GCC Central Registration Committee medicines registered domestically after the authority’s required procedures. Article 11 normally requires one year of marketing in the country of origin, permits an accepted-country certificate if not marketed there and allows essential-product exceptions. Article 14 retains analytical requirements and permits specified foreign quality evidence. This is GCC recognition, not proof of a general FDA fast track.",
+        "version_alignment": "Decision issued 27 July 2020; commencement is day after Official Gazette publication, which is not replaced by issuance date. Arabic re-extracted correctly from the unchanged raw HTML.",
+        "evidence_tier": "national_rule",
+        "section_article": "Article 17: GCC registration and domestic procedures",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "BHR-CONTEXT-1",
+        "source_url": "https://www.lloc.gov.bh/Legislation/HTM/RSCH3220",
+        "raw_sha256": "de6dd4c7562ef5864e8bf9e3221ba048ac57685767273c76f941be377f9796a1",
+        "text_sha256": "a13c380c90043d662791095c825e424cef0ff11a26dd0d8884fe501a7235f763",
+        "start_offset": 4242,
+        "end_offset": 7758,
+        "verbatim_extracted_text": "محاضر الجلسات وترتيبها وترقيمها والمحافظة\nعليها.\n4-\nأية مهام أخرى يكلفه بها رئيس اللجنة.\nالفصل\nالثالث\nتسجيل\nالأدوية والمستحضرات الصيدلية\nمادة\n(8)\nيُراعى\nعند تسجيل الأدوية والمستحضرات الصيدلية أحكام المادتين (36) و(37) من لائحة\nاشتراطات وإجراءات مزاولة مهن الصيدلة والترخيص للمراكز الصيدلية ومصانع الأدوية\nوالمستحضرات الصيدلية والمنشآت الدوائية الصادرة بالقرار رقم (63) لسنة 2019.\nمادة\n(9)\nيجب\nتقديم طلب لتسجيل الأدوية والمستحضرات الصيدلية بكافة أشكالها الصيدلية وجميع\nتركيزاتها وعبواتها حسب الإجراءات المتبعة وفقاً لأحكام هذه اللائحة.\nمادة\n(10)\nيجب\nعلى الجهات الصيدلية الحكومية ومصانع الأدوية والمستحضرات الصيدلية ووكلائهم\nالتجاريين داخل المملكة أن يتقدموا إلى اللجنة بطلبات تسجيل الأدوية، والمستحضرات\nالصيدلية المُصنعة محلياً، والمستوردة من الخارج.\nمادة\n(11)\nبالإضافة\nإلى الشروط الواردة في القانون، يجب أن يكون الدواء أو المستحضر الصيدلي مسجلاً\nومسوقاً في بلد المنشأ لمدة سنة على الأقل قبل تسجيله في المملكة، وفي حالة عدم\nتسويقه في بلد المنشأ يتم توضيح سبب ذلك مع تقديم شهادة موثقة بتسويقه بنفس\nالتركيبة في إحدى الدول التي تقبلها الهيئة.\nوللجنة\nاستثناء بعض الأدوية والمستحضرات الصيدلية المهمة والضرورية من شرط المدة.\nمادة\n(12)\nلا\nيجوز قبول طلبات التسجيل إلا بعد اعتماد مواقع تصنيع الأدوية أو المستحضرات\nالصيدلية حسب الأسس المعتمدة في دول مجلس التعاون لدول الخليج العربية، ولا يمنع\nمن ذلك تقييم اللجنة للأدوية أو المستحضرات الصيدلية.\nمادة\n(13)\nينشأ\nبالمكتب سجل خاص لقيد طلبات التسجيل بأرقام مسلسلة بحسب تاريخ ورودها، ويمنح طالب\nالتسجيل إيصالاً بقيد طلبه بالسجل بعد استيفائه المستندات والعينات المطلوبة.\nمادة\n(14)\nيتحمل\nطالب تسجيل الدواء أو المستحضر الصيدلي تكاليف التحاليل التي يخضع لها بالمختبرات\nالمحلية أو الخارجية التي تحددها الهيئة للتأكد من مطابقته للوائح الفنية\nوالمعلومات الواردة في ملف التسجيل، وعلى طالب التسجيل توفير العينات والمستلزمات\nالتي يتطلبها إتمام التحاليل.\nويجوز\nللهيئة حال عدم توفر الإمكانيات الفنية للتحليل أن تقبل شهادة التحليل الصادرة من\nمصنع الأدوية والمستحضرات الصيدلية أو ما يثبت تحليل الدواء لدى إحدى دول مجلس\nالتعاون لدول الخليج العربية التي تحددها الهيئة.\nمادة\n(15)\nفي\nحالة صدور شهادة تسجيل الدواء أو المستحضر الصيدلي، يتم قيده في السجلات الخاصة\nبذلك برقم مسلسل، ويُمنح طالب التسجيل مستخرجاً رسمياً من القيد يعتبر بمثابة\nترخيص بتداول الدواء أو المستحضر الصيدلي يظل سارياً لمدة خمس سنوات من تاريخ\nإصداره.\nمادة\n(16)\nيكون\nلطالب التسجيل التظلم من قرار اللجنة برفض الطلب وفقاً للأحكام المنصوص عليها في\nالمادة (65) من القانون.\nمادة\n(17)\nتعتبر\nالأدوية والمستحضرات الصيدلية المسجلة لدى اللجنة الخليجية المركزية للتسجيل، في\nحكم المسجلة لدى الهيئة، وذلك بعد استكمال الإجراءات التي تطلبها الهيئة.\nمادة\n(18)\nيجب\nعلى مصنع الأدوية والمستحضرات الصيدلية ذكر الاسم التجاري والعلمي للدواء أو\nالمستحضر الصيدلي المسجل، وبيان طريقه حفظه، وشكله الصيدلي وتركيزه، وكميته ورقم\nالتشغيلة، وتاريخ انتاجه وانتهاء صلاحيته على العبوة الخارجية للدواء باللغتين\nالعربية والإنجليزية، ووضع أية بيانات أخرى ترى الهيئة لزوم إضافتها.\nويجوز\nللهيئة لأسباب جدية، بطلب من مصنع الأدوية والمستحضرات الصيدلية، استثناء بعض\nالأدوية أو المستحضرات الصيدلية من تفاصيل بيانات العبوات المشار إليها.\nمادة\n(19)\nيجب\nتقديم طلب تجديد الترخيص بتداول الدواء أو المستحضر الصيدلي خلال ثلاثة أشهر من\nتاريخ انتهاء مدة الترخيص، وتسري في شأن طلب التجديد والبت فيه أحكام القانون وهذه\nاللائحة التي تسري في شأن طلب الترخيص لأول مرة.\nالفصل\nالرابع\nآلية\nاستيراد الأدوية والمستحضرات الصيدلية غير المسجلة\nمادة\n(20)\nأولاً:\nآلية استيراد الأدوية والمستحضرات الصيدلية غير المسجلة في المستشفيات الحكومية\nوالخاصة:\nأ-\nشروط الاستيراد:\n1-\nالحصول على أذن الهيئة لاستيراد الأدوية\nوالمستحضرات الصيدلية غير المسجلة قبل إصدار أمر الشراء.\n2-\nأن يكون الدواء أو المستحضر الصيدل",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "ar",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "Decision issued 27 July 2020; commencement is day after Official Gazette publication, which is not replaced by issuance date. Arabic re-extracted correctly from the unchanged raw HTML."
+      }
+    ],
+    "review_details": {
+      "iso3": "BHR",
+      "country": "Bahrain",
+      "selected_document_id": "F250_8c3f3544a7cf968da54c_de6dd4c7562e",
+      "source_id": "F250_8c3f3544a7cf968da54c",
+      "pathway": "GCC central registration recognised after domestic formalities",
+      "source_url": "https://www.lloc.gov.bh/Legislation/HTM/RSCH3220",
+      "document_title": "Bahrain Decision 32/2020 registration regulation, Articles 11–17",
+      "source_type": "Official implementing regulation",
+      "scope": "Human-medicine authorisation",
+      "language": "ar",
+      "translation_provenance": "Original-language contextual interpretation; no unchecked machine translation treated as authoritative",
+      "raw_sha256": "de6dd4c7562ef5864e8bf9e3221ba048ac57685767273c76f941be377f9796a1",
+      "raw_hash_validated": true,
+      "text_sha256": "a13c380c90043d662791095c825e424cef0ff11a26dd0d8884fe501a7235f763",
+      "version_dates": {},
+      "version_scope_note": "Bahrain Decision 32/2020 Arts 11–17, Arabic official text. The selected recognition mechanism concerns GCC-central registration; FDA/EMA prior approval is a different issue.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          4242,
+          7758
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "GCC-central product registration is treated as registered after national NHRA procedures.",
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "outside pathway scope",
+          "finding": "FDA and EC centralised approvals do not establish GCC-central registration.",
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "discretionary/conditional",
+          "finding": "Art 11 generally requires registration and marketing in origin country for a year, with stated alternatives/exceptions.",
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "No foreign report-sharing consent conclusion drawn from this clause.",
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Manufacturing-site approval/GCC requirements and samples/analysis retained; foreign CoA or GCC testing may substitute under conditions.",
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Local testing and NHRA procedures remain; GCC recognition does not waive all national steps.",
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside selected recognition pathway on fixed facts",
+          "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "B": {
+          "eligibility": "outside selected recognition pathway on fixed facts",
+          "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "C": {
+          "eligibility": "outside selected recognition pathway on fixed facts",
+          "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "D": {
+          "eligibility": "outside selected recognition pathway on fixed facts",
+          "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        },
+        "E": {
+          "eligibility": "outside selected recognition pathway on fixed facts",
+          "finding": "FDA/EMA approvals do not establish the selected GCC-central registration. Ordinary Bahrain routes are not ruled out.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "BHR-R01",
+            "BHR-R02",
+            "BHR-CONTEXT-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "BHR-R01",
+          "iso3": "BHR",
+          "event_id": null,
+          "document_id": "F250_8c3f3544a7cf968da54c_de6dd4c7562e",
+          "source_id": "F250_8c3f3544a7cf968da54c",
+          "source_url": "https://www.lloc.gov.bh/Legislation/HTM/RSCH3220",
+          "raw_sha256": "de6dd4c7562ef5864e8bf9e3221ba048ac57685767273c76f941be377f9796a1",
+          "text_sha256": "a13c380c90043d662791095c825e424cef0ff11a26dd0d8884fe501a7235f763",
+          "start_offset": 4992,
+          "end_offset": 5360,
+          "pdf_page": null,
+          "verbatim_extracted_text": "مادة\n(11)\nبالإضافة\nإلى الشروط الواردة في القانون، يجب أن يكون الدواء أو المستحضر الصيدلي مسجلاً\nومسوقاً في بلد المنشأ لمدة سنة على الأقل قبل تسجيله في المملكة، وفي حالة عدم\nتسويقه في بلد المنشأ يتم توضيح سبب ذلك مع تقديم شهادة موثقة بتسويقه بنفس\nالتركيبة في إحدى الدول التي تقبلها الهيئة.\nوللجنة\nاستثناء بعض الأدوية والمستحضرات الصيدلية المهمة والضرورية من شرط المدة.\n",
+          "display_text": "مادة (11) بالإضافة إلى الشروط الواردة في القانون، يجب أن يكون الدواء أو المستحضر الصيدلي مسجلاً ومسوقاً في بلد المنشأ لمدة سنة على الأقل قبل تسجيله في المملكة، وفي حالة عدم تسويقه في بلد المنشأ يتم توضيح سبب ذلك مع تقديم شهادة موثقة بتسويقه بنفس التركيبة في إحدى الدول التي تقبلها الهيئة. وللجنة استثناء بعض الأدوية والمستحضرات الصيدلية المهمة والضرورية من شرط المدة.",
+          "feature_tags": [
+            "foreign_marketing",
+            "minimum_foreign_history",
+            "discretion",
+            "scope_limit"
+          ],
+          "role": "Article 11: origin marketing and exceptions",
+          "language": "ar",
+          "language_status": "Original official-language source retained; no unchecked English translation displayed",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "Article 17 deems GCC Central Registration Committee medicines registered domestically after the authority’s required procedures. Article 11 normally requires one year of marketing in the country of origin, permits an accepted-country certificate if not marketed there and allows essential-product exceptions. Article 14 retains analytical requirements and permits specified foreign quality evidence. This is GCC recognition, not proof of a general FDA fast track.",
+          "version_alignment": "Decision issued 27 July 2020; commencement is day after Official Gazette publication, which is not replaced by issuance date. Arabic re-extracted correctly from the unchanged raw HTML.",
+          "evidence_tier": "national_rule",
+          "section_article": "Article 11: origin marketing and exceptions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "BHR-R02",
+          "iso3": "BHR",
+          "event_id": null,
+          "document_id": "F250_8c3f3544a7cf968da54c_de6dd4c7562e",
+          "source_id": "F250_8c3f3544a7cf968da54c",
+          "source_url": "https://www.lloc.gov.bh/Legislation/HTM/RSCH3220",
+          "raw_sha256": "de6dd4c7562ef5864e8bf9e3221ba048ac57685767273c76f941be377f9796a1",
+          "text_sha256": "a13c380c90043d662791095c825e424cef0ff11a26dd0d8884fe501a7235f763",
+          "start_offset": 6593,
+          "end_offset": 6758,
+          "pdf_page": null,
+          "verbatim_extracted_text": "مادة\n(17)\nتعتبر\nالأدوية والمستحضرات الصيدلية المسجلة لدى اللجنة الخليجية المركزية للتسجيل، في\nحكم المسجلة لدى الهيئة، وذلك بعد استكمال الإجراءات التي تطلبها الهيئة.\n",
+          "display_text": "مادة (17) تعتبر الأدوية والمستحضرات الصيدلية المسجلة لدى اللجنة الخليجية المركزية للتسجيل، في حكم المسجلة لدى الهيئة، وذلك بعد استكمال الإجراءات التي تطلبها الهيئة.",
+          "feature_tags": [
+            "automatic",
+            "scope_limit"
+          ],
+          "role": "Article 17: GCC registration and domestic procedures",
+          "language": "ar",
+          "language_status": "Original official-language source retained; no unchecked English translation displayed",
+          "quote_method": "Exact substring of hash-preserved native extraction",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review; no independent legal certification",
+          "research_interpretation": "Article 17 deems GCC Central Registration Committee medicines registered domestically after the authority’s required procedures. Article 11 normally requires one year of marketing in the country of origin, permits an accepted-country certificate if not marketed there and allows essential-product exceptions. Article 14 retains analytical requirements and permits specified foreign quality evidence. This is GCC recognition, not proof of a general FDA fast track.",
+          "version_alignment": "Decision issued 27 July 2020; commencement is day after Official Gazette publication, which is not replaced by issuance date. Arabic re-extracted correctly from the unchanged raw HTML.",
+          "evidence_tier": "national_rule",
+          "section_article": "Article 17: GCC registration and domestic procedures",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "BHR-CONTEXT-1",
+          "source_url": "https://www.lloc.gov.bh/Legislation/HTM/RSCH3220",
+          "raw_sha256": "de6dd4c7562ef5864e8bf9e3221ba048ac57685767273c76f941be377f9796a1",
+          "text_sha256": "a13c380c90043d662791095c825e424cef0ff11a26dd0d8884fe501a7235f763",
+          "start_offset": 4242,
+          "end_offset": 7758,
+          "verbatim_extracted_text": "محاضر الجلسات وترتيبها وترقيمها والمحافظة\nعليها.\n4-\nأية مهام أخرى يكلفه بها رئيس اللجنة.\nالفصل\nالثالث\nتسجيل\nالأدوية والمستحضرات الصيدلية\nمادة\n(8)\nيُراعى\nعند تسجيل الأدوية والمستحضرات الصيدلية أحكام المادتين (36) و(37) من لائحة\nاشتراطات وإجراءات مزاولة مهن الصيدلة والترخيص للمراكز الصيدلية ومصانع الأدوية\nوالمستحضرات الصيدلية والمنشآت الدوائية الصادرة بالقرار رقم (63) لسنة 2019.\nمادة\n(9)\nيجب\nتقديم طلب لتسجيل الأدوية والمستحضرات الصيدلية بكافة أشكالها الصيدلية وجميع\nتركيزاتها وعبواتها حسب الإجراءات المتبعة وفقاً لأحكام هذه اللائحة.\nمادة\n(10)\nيجب\nعلى الجهات الصيدلية الحكومية ومصانع الأدوية والمستحضرات الصيدلية ووكلائهم\nالتجاريين داخل المملكة أن يتقدموا إلى اللجنة بطلبات تسجيل الأدوية، والمستحضرات\nالصيدلية المُصنعة محلياً، والمستوردة من الخارج.\nمادة\n(11)\nبالإضافة\nإلى الشروط الواردة في القانون، يجب أن يكون الدواء أو المستحضر الصيدلي مسجلاً\nومسوقاً في بلد المنشأ لمدة سنة على الأقل قبل تسجيله في المملكة، وفي حالة عدم\nتسويقه في بلد المنشأ يتم توضيح سبب ذلك مع تقديم شهادة موثقة بتسويقه بنفس\nالتركيبة في إحدى الدول التي تقبلها الهيئة.\nوللجنة\nاستثناء بعض الأدوية والمستحضرات الصيدلية المهمة والضرورية من شرط المدة.\nمادة\n(12)\nلا\nيجوز قبول طلبات التسجيل إلا بعد اعتماد مواقع تصنيع الأدوية أو المستحضرات\nالصيدلية حسب الأسس المعتمدة في دول مجلس التعاون لدول الخليج العربية، ولا يمنع\nمن ذلك تقييم اللجنة للأدوية أو المستحضرات الصيدلية.\nمادة\n(13)\nينشأ\nبالمكتب سجل خاص لقيد طلبات التسجيل بأرقام مسلسلة بحسب تاريخ ورودها، ويمنح طالب\nالتسجيل إيصالاً بقيد طلبه بالسجل بعد استيفائه المستندات والعينات المطلوبة.\nمادة\n(14)\nيتحمل\nطالب تسجيل الدواء أو المستحضر الصيدلي تكاليف التحاليل التي يخضع لها بالمختبرات\nالمحلية أو الخارجية التي تحددها الهيئة للتأكد من مطابقته للوائح الفنية\nوالمعلومات الواردة في ملف التسجيل، وعلى طالب التسجيل توفير العينات والمستلزمات\nالتي يتطلبها إتمام التحاليل.\nويجوز\nللهيئة حال عدم توفر الإمكانيات الفنية للتحليل أن تقبل شهادة التحليل الصادرة من\nمصنع الأدوية والمستحضرات الصيدلية أو ما يثبت تحليل الدواء لدى إحدى دول مجلس\nالتعاون لدول الخليج العربية التي تحددها الهيئة.\nمادة\n(15)\nفي\nحالة صدور شهادة تسجيل الدواء أو المستحضر الصيدلي، يتم قيده في السجلات الخاصة\nبذلك برقم مسلسل، ويُمنح طالب التسجيل مستخرجاً رسمياً من القيد يعتبر بمثابة\nترخيص بتداول الدواء أو المستحضر الصيدلي يظل سارياً لمدة خمس سنوات من تاريخ\nإصداره.\nمادة\n(16)\nيكون\nلطالب التسجيل التظلم من قرار اللجنة برفض الطلب وفقاً للأحكام المنصوص عليها في\nالمادة (65) من القانون.\nمادة\n(17)\nتعتبر\nالأدوية والمستحضرات الصيدلية المسجلة لدى اللجنة الخليجية المركزية للتسجيل، في\nحكم المسجلة لدى الهيئة، وذلك بعد استكمال الإجراءات التي تطلبها الهيئة.\nمادة\n(18)\nيجب\nعلى مصنع الأدوية والمستحضرات الصيدلية ذكر الاسم التجاري والعلمي للدواء أو\nالمستحضر الصيدلي المسجل، وبيان طريقه حفظه، وشكله الصيدلي وتركيزه، وكميته ورقم\nالتشغيلة، وتاريخ انتاجه وانتهاء صلاحيته على العبوة الخارجية للدواء باللغتين\nالعربية والإنجليزية، ووضع أية بيانات أخرى ترى الهيئة لزوم إضافتها.\nويجوز\nللهيئة لأسباب جدية، بطلب من مصنع الأدوية والمستحضرات الصيدلية، استثناء بعض\nالأدوية أو المستحضرات الصيدلية من تفاصيل بيانات العبوات المشار إليها.\nمادة\n(19)\nيجب\nتقديم طلب تجديد الترخيص بتداول الدواء أو المستحضر الصيدلي خلال ثلاثة أشهر من\nتاريخ انتهاء مدة الترخيص، وتسري في شأن طلب التجديد والبت فيه أحكام القانون وهذه\nاللائحة التي تسري في شأن طلب الترخيص لأول مرة.\nالفصل\nالرابع\nآلية\nاستيراد الأدوية والمستحضرات الصيدلية غير المسجلة\nمادة\n(20)\nأولاً:\nآلية استيراد الأدوية والمستحضرات الصيدلية غير المسجلة في المستشفيات الحكومية\nوالخاصة:\nأ-\nشروط الاستيراد:\n1-\nالحصول على أذن الهيئة لاستيراد الأدوية\nوالمستحضرات الصيدلية غير المسجلة قبل إصدار أمر الشراء.\n2-\nأن يكون الدواء أو المستحضر الصيدل",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "ar",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Decision issued 27 July 2020; commencement is day after Official Gazette publication, which is not replaced by issuance date. Arabic re-extracted correctly from the unchanged raw HTML."
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }

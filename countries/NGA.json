@@ -476,5 +476,826 @@
       "1cfda0b439b5bb0ae019a116f2fe58556c92a6cd3a031edcc86c88687ec53ca9",
       "cc77d8d4cba95111c5152417f80b792e9ecadbf404359faabe40217d13c81f7c"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "NGA",
+    "country": "Nigeria",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Abridged assessment with national decision",
+    "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+    "document_id": "860e5ac2f69d79ba30e0",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine authorisation",
+    "version_note": "2024 NAFDAC guideline, effective 10 September 2024. Scope includes human drugs, vaccines and IVDs; registration-specific clauses are used. A general report requirement qualified by “where relevant” is not silently made unconditional.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "Drug registration including new-drug applications is within scope.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "WHO-defined SRAs; definition includes FDA and European Commission, among others.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "At least one qualifying SRA registration; no two-approval rule in reviewed MA provisions.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "explicit requirement",
+        "finding": "Product should have been registered for more than six months; fixed 18 months meets this condition.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same or sufficiently similar technical dossier, manufacturing chain, specifications, supporting studies and indications; differences justified.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "Complete unredacted assessment reports submitted where relevant; report definition expressly nonpublic.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "discretionary/conditional",
+        "finding": "Definition is nonpublic complete unredacted regulatory reports; “where relevant” in step 2.1 retained.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Public material alone is not established sufficient; report gate is conditional on relevance.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "discretionary/conditional",
+        "finding": "Manufacturer may supply reports; WHO SharePoint/sharing route described when manufacturer cannot access reports.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Facility-status verification and GMP evidence/application retained; inspection provisions also retained.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Abridged quality/safety/efficacy assessment; check population appropriateness and make a national decision.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "National decision within 60 working days (approximately 90 calendar days); not an observed processing time.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "NAFDAC assesses differences and makes its own decision.",
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "NGA-Q01",
+          "NGA-Q02",
+          "NGA-CTX-1",
+          "NGA-CTX-2",
+          "NGA-CTX-3"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "NGA-Q01",
+        "source_document_id": "860e5ac2f69d79ba30e0",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 7,
+        "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+        "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+        "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+        "exact_text": "Following receipt of the expression of interest application, the applicant \nshall submit a full CTD dossier along with complete unredacted \nassessment reports where relevant via the dossier management system. \n2.2 \nNon-public, complete, and unredacted assessment reports (see \ndefinitions) may also be obtained directly from the manufacturer when \nthe company is able to access these reports from the SRA. Otherwise, \nmanufacturers participating in the WHO SRA Collaboratory Reliance \nprocedure should upload these reports on WHO SharePoint for SRA \napproved products that are not currently prequalified by WHO. WHO is \nresponsible for sharing the assessment and inspection reports for the \nprequalified products. \n\n\nPAGE 8\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n8 \n \nThe uploaded dossier will be screened and reviewed by DRT to \ndetermine completeness and sameness of the dossier with that \napproved by authority being relied on. A screening and review clearance \nletter will be issued for dossiers that meet the requirements",
+        "start": 7260,
+        "end": 8335,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "NGA-Q02",
+        "source_document_id": "860e5ac2f69d79ba30e0",
+        "evidence_role": "Selected primary document",
+        "section_article": "Permission and conditions",
+        "pdf_page": 12,
+        "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+        "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+        "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+        "exact_text": "NAFDAC receives applications for the same pharmaceutical product as \nthe one registered by the SRA.  \nWithin the context of this procedure, the same pharmaceutical product \nis characterized by the same or sufficiently similar product dossier as \nfollows: \n• The same manufacturing chain, processes, and control of \nmaterials \n• The same active pharmaceutical ingredient (API) and finished \npharmaceutical product (FPP) specifications \n• The same essential elements of product information \n• The same supporting safety, efficacy, and quality studies \n• The same indications and conditions of use  \nNote: As part of the process, the manufacturer should confirm in the \napplication that the product is the same or sufficiently similar and that the \ndossier contains the same information as much as possible, with \nconsideration for any potential national requirements. Any differences \nshould be justified by the manufacturer and NAFDAC shall determine the \nmerit of using the SRA assessment reports or decisions. \n \n \nSTEP 6: Review and Assessment \n6.1 \nNAFDAC has identified areas of regulatory decision reliance. The areas \nof reliance include registration and marketing authorization, GMP/GCP \nInspections, Clinical Trials, Vigilance and Quality Control (QC) testing-\nrelated decisions to ensure full implementation and compliance to the \nreliance route. \n\n\nPAGE 13\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n13 \n \n6.2 \nAs part of the process of reliance for registration and marketing \nauthorization, the relevant Directorates shall be notified of the \nexpression of interest of the applicant for product registration via the \nreliance pathway leading to an abridged assessment of the quality, \nsafety, and efficacy/performance data considering information in the \nassessment and inspection reports of the reference regulatory \nauthority.  \n6.3 \nNAFDAC shall verify the information submitted by the applicant \ntogether with the shared assessment reports, inspection reports (which \nshall not exceed 3 years validity), and any bridging report from the applicant \nto make an informed decision in accordance with NAFDAC’s laid down \nprocesses to ensure appropriateness for the Nigerian population.  \n6.4 \nNAFDAC shall make a decision based on the review of all available \ninformation with input from Pharmacovigilance and Drug Evaluation \nand Research Directorate as regards the GMP/GCP/Cold-Chain \nStorage Facility (for applicable products)  and Clinical Trials.",
+        "start": 14701,
+        "end": 17208,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "NGA-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+        "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+        "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+        "exact_text": " \nletterhead to the Director-General (NAFDAC), ATTENTION: The Director, Drug \nRegistration & Regulatory Affairs (DR & R) Directorate, Ground Floor, \nNAFDAC Office Complex, Isolo Industrial Estate, Oshodi-Apapa Express Way, \nIsolo, Lagos State. Can be submitted via email to registration@nafdac.gov.ng \n     \n    STEP 2: Submission of dossier / Screening \n2.1 \nFollowing receipt of the expression of interest application, the applicant \nshall submit a full CTD dossier along with complete unredacted \nassessment reports where relevant via the dossier management system. \n2.2 \nNon-public, complete, and unredacted assessment reports (see \ndefinitions) may also be obtained directly from the manufacturer when \nthe company is able to access these reports from the SRA. Otherwise, \nmanufacturers participating in the WHO SRA Collaboratory Reliance \nprocedure should upload these reports on WHO SharePoint for SRA \napproved products that are not currently prequalified by WHO. WHO is \nresponsible for sharing the assessment and inspection reports for the \nprequalified products. \n\n\nPAGE 8\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n8 \n \nThe uploaded dossier will be screened and reviewed by DRT to \ndetermine completeness and sameness of the dossier with that \napproved by authority being relied on. A screening and review clearance \nletter will be issued for dossiers that meet the requirements \n    \nSTEP 3: Documentation \nThe required documents (stated below) are to be uploaded on the NAPAMS \nportal after obtaining the necessary dossier clearance. The original copies \nof these documents should be submitted at the Liaison Office of the \nDirector (LOD), R & R Directorate, Ground Floor, NAFDAC Office Complex, \nOshodi-Apapa Express Way, Isolo, Lagos State or any NAFDAC Office \n(outside Lagos) for verification/authentication. \n3.1 \nAn online application form for Product Registration should be \npurchased at: http://registration.nafdac.gov.ng and completed.  \n3.2 \nA separate application form should be submitted for each \nproduct. \n3.3 \nAn application for registration of imported drugs should be made \non the company’s letterhead to the Director General (NAFDAC), \nATTENTION: The Director, Drug Registration & Regulatory \nAffairs (DR & R) Directorate as part of the attachment of \nNAPAMS.  \n3.4 \nNotarized Declaration (Appendix I). To be completed (typed), \nsigned by Declarant, and notarized by a Notary Public in Nigeria. \n3.5 \n Power of Attorney (where the Applicant does not own the Brand \nname). The Power of Attorney shall be:  \n3.5.1 \nIssued by the manufacturer of the product.  \n3.5.2 \nSigned by the Managing Director, General Manager, \nChairman,or President of the Company, stating the \nnames of the products to be registered. The Power of \n\n\nPAGE 9\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n9 \n \nAttorney shall also state ‘Authority to register product \nwith NAFDAC’.  \n3.5.3 \nState ownership of Brand name(s)/Trademark.  \n3.5.4 \nNotarized by a Notary Public in the Country of \nmanufacture.  \n3.5.5 \nValid for at least five (5) years.  \n3.6 \nContract Manufacturer Agreement (where the Applicant owns the \nBrand name). The Contract Manufacturing Agreement shall be: \n3.6.1 \nNotarized by a Notary Public in the country of \nmanufacture.  \n3.6.2 \nSigned by both parties stating names and designations \nof the signatories with the names of all the products to \nbe registered and other relevant clauses clearly \nexplained in an unambiguous language.  \n3.7 \nEvidence of Business Incorporation of the Applicant with \nCorporate Affairs         Commission in Nigeria. \n3.8 \nManufacturing License/Certificate of Free Sale Evidence that \nthey are licensed to manufacture drugs for sale in the country of \norigin (Manufacturer’s Certificate). The license shall be issued by \na \nrelevant \nHealth/Regulatory \nbody \nin \nthe \ncountry \nof \nmanufacture. \n3.9 \nCertificate of Pharmaceutical Product (COPP-WHO Format).There \nmust be evidence by the competent Health Authority, that the \nsale of the product does not constitute a contravention of the \ndrug laws of that country. The Certificate of Pharmaceutical \nProduct (COPP) should;  \n3.9.1 \nConform to WHO format.  \n3.9.2 \nBe issued by the Health/Regulatory body in the country \nof manufacture.  \n\n\nPAGE 10\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n10 \n \n3.9.3 \nBe authenticated by the Nigerian Embassy or High \nCommission in the country of origin. In countries where \nno Nigerian Embassy exists, any Commonwealth or \nECOWAS country can authenticate the COPP.  \n3.10 Current \nGood \nManufacturing \nPractice \n(cGMP) \nof \nthe \nmanufacturing facility. This is to be:  \n3.10.1 \nValid at the time of submission.  \n3.10.2 \nBe issued by the Health/Regulatory body in the country \nof manufacture or any SRA.  \n3.10.3 \nBe authenticated by the Nigerian Embassy or High \nCommission in the country of origin. In countries where \nno Nigerian Embassy exists, any Commonwealth or \nECOWAS country can authenticate the document. \n3.11 Evidence of Registration of Brand Name with Trademark Registry \nin the Ministry of Industry, Trade and Investment. This should \nbe registered in the name of the owner of the Trademark/Brand \nname as the case may be (Trademark Class 5 for Drugs).  \n3.12 Copy of valid Annual License to practice for the Superintendent \nPharmacist for Human Drugs or Veterinary Drugs, issued by the \nPharmacists Council of Nigeria (PCN).  \n3.13 Evidence of valid Certificate of Retention of Premises for the \nfacility.  \n3.14 Letter of Invitation for Good Manufacturing Practice (GMP) \nInspection: A letter of invitation to inspect the factory abroad \nshall be written by the manufacturer and shall state the \nfollowing: \n3.14.1 \nMANUFACTURER INFORMATION: Name of Company, \nfull location address of factory (not administrative office \naddress), e-mail, and current phone no. Details (name, \nphone number, and email) of contact person overseas. \n\n\nPAGE 11\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n11 \n \n3.14.2 \nLOCAL REPRESENTATIVE INFORMATION: Name of \ncompany, full location address, functional phone no., e-\nmail address. Details (name, phone number, and email) \nof \ncontact \nperson. \nNames(s) \nof \nproduct(s) \nfor \nregistration. \n \nSTEP 4: Issuance of Import Permit and Label vetting \n4.1 \nUpon successful screening of the dossier, and review of supporting \ndocuments, a Permit to Import Product Samples for Registration \npurpose shall be issued after which products are submitted for vetting. \n4.2 \nThe products submitted under this procedure shall comply with the \nNAFDAC Labelling requirements \nhttps://www.nafdac.gov.ng/wp- \ncontent/uploads/Files/Resources/Guidelines/R_and_R_Guidelines/G\nENERAL/Quality-Guidelines-for- \nRegistration-of-Pharmaceutical-\nProducts26381.pdf#page=93 \n& \nhttps://www.nafdac.gov.ng/wp- \ncontent/uploads/Files/Resources/Guidelines/R_and_R_Guidelines/\nMore_On_R_and_R/Guidelines-for- Labelling-26375.pdf \n \nSTEP 5: Verification \n5.1 \nNAFDAC shall conduct a verification to ascertain that the product \nintended to be registered, imported, and distributed in Nigeria has been \nduly registered or authorized by a stringent regulatory authority.  \n5.2 \nThe product should have been registered for more than six (6) months, \nand the product characteristics (use, dosage, precautions) for local \nregistration should conform to that agreed in the authorization by the \nSRA. In addition, there should be an assurance that the product is \n\n\nPAGE 12\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n12 \n \neither identical or similar to that approved by the SRA in terms of \nquality, safety, and efficacy.  \n5.3 \nNAFDAC receives applications for the same pharmaceutical product as \nthe one registered by the SRA.  \nWithin the context of this procedure, the same pharmaceutical product \nis characterized by the same or sufficiently similar product dossier as \nfollows: \n• The same manufacturing chain, processes, and control of \nmaterials \n• The same active pharmaceutical ingredient (API) and finished \npharmaceutical product (FPP) specifications \n• The same essential elements of product information \n• The same supporting safety, efficacy, and quality studies \n• The same indications and conditions of use  \nNote: As part of the process, the manufacturer should confirm in the \napplication that the product is the same or sufficiently similar and that the \ndossier contains the same information as much as possible, with \nconsideration for any potential national requirements. Any differences \nshould be justified by the manufacturer and NAFDAC shall determine the \nmerit of using the SRA assessment reports or decisions. \n \n \nSTEP 6: Review and Assessment \n6.1 \nNAFDAC has identified areas of regulatory decision reliance. The areas \nof reliance include registration and marketing authorization, GMP/GCP \nInspections, Clinical Trials, Vigilance and Quality Control (QC) testing-\nrelated decisions to ensure full implementation and compliance to the \nreliance route. \n\n\nPAGE 13\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n13 \n \n6.2 \nAs part of the process of reliance for registration and marketing \nauthorization, the relevant Directorates shall be notified of the \nexpression of interest of the applicant for product registration via the \nreliance pathway leading to an abridged assessment of the quality, \nsafety, and efficacy/performance data considering information in the \nassessment and inspection reports of the reference regulatory \nauthority.  \n6.3 \nNAFDAC shall verify the information submitted by the applicant \ntogether with the shared assessment reports, inspection reports (which \nshall not exceed 3 years validity), and any bridging report from the applicant \nto make an informed decision in accordance with NAFDAC’s laid down \nprocesses to ensure appropriateness for the Nigerian population.  \n6.4 \nNAFDAC shall make a decision based on the review of all available \ninformation with input from Pharmacovigilance and Drug Evaluation \nand Research Directorate as regards the GMP/GCP/Cold-Chain \nStorage Facility (for applicable products)  and Clinical",
+        "start": 6900,
+        "end": 17200,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "NGA-CTX-2",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+        "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+        "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+        "exact_text": "rification, Risk-Based GMP \nCategorization of the production facility, and satisfactory laboratory \nanalysis (where applicable), products are presented to the FDRC for \nratification. \n8.3 \nNAFDAC will use the product-related information and documentation \nprovided by the applicant, at its discretion, to come to its conclusion \nabout national registration and make its decision on the registration \nwithin 60 working days (≈ 90 calendar days). \n \n9 GMP Inspections \n9.1 \nAn application must be made to the Drug Evaluation and Research \nDirectorate (as it relates to a New Drug Application) for facility status \nverification. \n9.2 \nThe Applicant must submit a completed Facility Status Verification \nForm to the Drug Evaluation and Research Directorate (DER) and \nfollow the process to obtain facility verification status. \nREVISION-01-SOP-for-FOREIGN-MANUFACTURING-FACILITY-GMP-\nCATEGORIZATION-Annexure-1-Facility-Status-Verification-Form-\nDER-607-01.pdf (nafdac.gov.ng) \n9.3 \nThe assessment of the application and documentation will be \nperformed with the objective of determining whether the application \ncontains enough evidence as proof of GMP compliance. \n9.4 \nAll sites are inspected upon payment of statutory fees, lines within a \nfacility are also inspected when inspectors conduct an inspection. The \nGMP certificate received is used as a basis for the categorization to give \n\n\nPAGE 16\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n16 \n \nlow priority to the inspection and allow for the completion of the \nregistration process. \n9.5 \nIn specific, NAFDAC has a policy on Risk Categorization of Foreign \nManufacturing facilities for facility status ",
+        "start": 19700,
+        "end": 21400,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      },
+      {
+        "passage_id": "NGA-CTX-3",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+        "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+        "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+        "exact_text": "d on the application of reliance. Normally this would also involve some \ndegree of work by the relying NRA. The expectation is that the use of \nreliance in these pathways would save resources and shorten the timelines \ncompared to the standard pathways while ensuring that the standards for \nregulatory oversight are maintained. \n \nAssessment: The term “assessment” covers the outcome of any evaluation \nconducted by NAFDAC (e.g., evaluation for a clinical trial application, \nevaluation of an initial authorization for a regulated product, evaluation of \nsafety data, evaluation as part of an inspection, etc. \n \nFull \nunredacted \nassessment \nreport: \nNon-public \ncomplete \nand \nunredacted regulatory reports that comply with data privacy laws as \napplicable. \n \nReliance: The act whereby NAFDAC considers and gives significant weight \nto assessments performed by another Regulatory Authority or trusted \ninstitution, or to any other authoritative information in reaching its own \ndecision. The relying authority remains independent, responsible, and \naccountable regarding the decisions taken, even when it relies on the \ndecisions and information of others. \n \nSovereignty: The decision to practice reliance, and how best to implement \nreliance, rests with the country. Reliance does not imply dependence. In \napplying reliance in their daily practice, NAFDAC shall maintain \nindependence, sovereignty, and accountability in regulatory decision-\nmaking. \n \nStringent Regulatory Authority (SRA): is defined as a well-resourced \nauthority as defined by the WHO that is: \n\n\nPAGE 22\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n22 \n \na. a member of ICH prior to 23 October 2015, namely: the US Food and \nDrug Administration, the European Commission, and the Ministry of \nHealth, Labour and Welfare of Japan also represented by the \nPharmaceuticals and Medical Devices Agency; or \nb. an ICH observer prior to 23 October 2015, namely: the European Free \nTrade Association, as represented by Swissmedic and Health Canada; \nor \nc. a regulatory authority associated with an ICH member through a \nlegally binding, mutual recognition agreement prior to 23 October \n2015, namely: Australia, Iceland, Liechtenstein and Norway. \n \nNAPAMS – NAFDAC Automated Product Administration and Management \nSystem. \nDMS- Dossier Management System \n \nSwiss Medic MAGHP procedure – Swiss medic procedure for scientific advice \nand Marketing Authorisation for Global Health Products. \n \nWAHO – West African Health Organization \n \nAMRH – African Medicine Regulatory Harmonization \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\nPAGE 23\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n23 \n \n \n \n \n \n \n \n \n \n \n \n \n",
+        "start": 30600,
+        "end": 33358,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "NGA",
+      "country": "Nigeria",
+      "selected_document_id": "860e5ac2f69d79ba30e0",
+      "source_id": "3cfb753e9384d7b7",
+      "pathway": "Abridged assessment with national decision",
+      "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+      "document_title": "NAFDAC reliance guideline effective10September2024",
+      "source_type": "Guideline",
+      "scope": "Human-medicine authorisation",
+      "language": "en",
+      "translation_provenance": [
+        {
+          "NGA-Q01": null
+        },
+        {
+          "NGA-Q02": null
+        }
+      ],
+      "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+      "raw_hash_validated": true,
+      "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+      "version_dates": {
+        "effective_date": "2024-09-10"
+      },
+      "version_scope_note": "2024 NAFDAC guideline, effective 10 September 2024. Scope includes human drugs, vaccines and IVDs; registration-specific clauses are used. A general report requirement qualified by “where relevant” is not silently made unconditional.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          7260,
+          8335
+        ],
+        [
+          14701,
+          17208
+        ],
+        [
+          6900,
+          17200
+        ],
+        [
+          19700,
+          21400
+        ],
+        [
+          30600,
+          33358
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "Drug registration including new-drug applications is within scope.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "WHO-defined SRAs; definition includes FDA and European Commission, among others.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "At least one qualifying SRA registration; no two-approval rule in reviewed MA provisions.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "Product should have been registered for more than six months; fixed 18 months meets this condition.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same or sufficiently similar technical dossier, manufacturing chain, specifications, supporting studies and indications; differences justified.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Complete unredacted assessment reports submitted where relevant; report definition expressly nonpublic.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "discretionary/conditional",
+          "finding": "Definition is nonpublic complete unredacted regulatory reports; “where relevant” in step 2.1 retained.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Public material alone is not established sufficient; report gate is conditional on relevance.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "discretionary/conditional",
+          "finding": "Manufacturer may supply reports; WHO SharePoint/sharing route described when manufacturer cannot access reports.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Facility-status verification and GMP evidence/application retained; inspection provisions also retained.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Abridged quality/safety/efficacy assessment; check population appropriateness and make a national decision.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "National decision within 60 working days (approximately 90 calendar days); not an observed processing time.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "NAFDAC assesses differences and makes its own decision.",
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "NGA-Q01",
+            "NGA-Q02",
+            "NGA-CTX-1",
+            "NGA-CTX-2",
+            "NGA-CTX-3"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "NGA-Q01",
+          "source_document_id": "860e5ac2f69d79ba30e0",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 7,
+          "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+          "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+          "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+          "exact_text": "Following receipt of the expression of interest application, the applicant \nshall submit a full CTD dossier along with complete unredacted \nassessment reports where relevant via the dossier management system. \n2.2 \nNon-public, complete, and unredacted assessment reports (see \ndefinitions) may also be obtained directly from the manufacturer when \nthe company is able to access these reports from the SRA. Otherwise, \nmanufacturers participating in the WHO SRA Collaboratory Reliance \nprocedure should upload these reports on WHO SharePoint for SRA \napproved products that are not currently prequalified by WHO. WHO is \nresponsible for sharing the assessment and inspection reports for the \nprequalified products. \n\n\nPAGE 8\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n8 \n \nThe uploaded dossier will be screened and reviewed by DRT to \ndetermine completeness and sameness of the dossier with that \napproved by authority being relied on. A screening and review clearance \nletter will be issued for dossiers that meet the requirements",
+          "start": 7260,
+          "end": 8335,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "NGA-Q02",
+          "source_document_id": "860e5ac2f69d79ba30e0",
+          "evidence_role": "Selected primary document",
+          "section_article": "Permission and conditions",
+          "pdf_page": 12,
+          "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+          "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+          "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+          "exact_text": "NAFDAC receives applications for the same pharmaceutical product as \nthe one registered by the SRA.  \nWithin the context of this procedure, the same pharmaceutical product \nis characterized by the same or sufficiently similar product dossier as \nfollows: \n• The same manufacturing chain, processes, and control of \nmaterials \n• The same active pharmaceutical ingredient (API) and finished \npharmaceutical product (FPP) specifications \n• The same essential elements of product information \n• The same supporting safety, efficacy, and quality studies \n• The same indications and conditions of use  \nNote: As part of the process, the manufacturer should confirm in the \napplication that the product is the same or sufficiently similar and that the \ndossier contains the same information as much as possible, with \nconsideration for any potential national requirements. Any differences \nshould be justified by the manufacturer and NAFDAC shall determine the \nmerit of using the SRA assessment reports or decisions. \n \n \nSTEP 6: Review and Assessment \n6.1 \nNAFDAC has identified areas of regulatory decision reliance. The areas \nof reliance include registration and marketing authorization, GMP/GCP \nInspections, Clinical Trials, Vigilance and Quality Control (QC) testing-\nrelated decisions to ensure full implementation and compliance to the \nreliance route. \n\n\nPAGE 13\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n13 \n \n6.2 \nAs part of the process of reliance for registration and marketing \nauthorization, the relevant Directorates shall be notified of the \nexpression of interest of the applicant for product registration via the \nreliance pathway leading to an abridged assessment of the quality, \nsafety, and efficacy/performance data considering information in the \nassessment and inspection reports of the reference regulatory \nauthority.  \n6.3 \nNAFDAC shall verify the information submitted by the applicant \ntogether with the shared assessment reports, inspection reports (which \nshall not exceed 3 years validity), and any bridging report from the applicant \nto make an informed decision in accordance with NAFDAC’s laid down \nprocesses to ensure appropriateness for the Nigerian population.  \n6.4 \nNAFDAC shall make a decision based on the review of all available \ninformation with input from Pharmacovigilance and Drug Evaluation \nand Research Directorate as regards the GMP/GCP/Cold-Chain \nStorage Facility (for applicable products)  and Clinical Trials.",
+          "start": 14701,
+          "end": 17208,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "NGA-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+          "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+          "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+          "exact_text": " \nletterhead to the Director-General (NAFDAC), ATTENTION: The Director, Drug \nRegistration & Regulatory Affairs (DR & R) Directorate, Ground Floor, \nNAFDAC Office Complex, Isolo Industrial Estate, Oshodi-Apapa Express Way, \nIsolo, Lagos State. Can be submitted via email to registration@nafdac.gov.ng \n     \n    STEP 2: Submission of dossier / Screening \n2.1 \nFollowing receipt of the expression of interest application, the applicant \nshall submit a full CTD dossier along with complete unredacted \nassessment reports where relevant via the dossier management system. \n2.2 \nNon-public, complete, and unredacted assessment reports (see \ndefinitions) may also be obtained directly from the manufacturer when \nthe company is able to access these reports from the SRA. Otherwise, \nmanufacturers participating in the WHO SRA Collaboratory Reliance \nprocedure should upload these reports on WHO SharePoint for SRA \napproved products that are not currently prequalified by WHO. WHO is \nresponsible for sharing the assessment and inspection reports for the \nprequalified products. \n\n\nPAGE 8\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n8 \n \nThe uploaded dossier will be screened and reviewed by DRT to \ndetermine completeness and sameness of the dossier with that \napproved by authority being relied on. A screening and review clearance \nletter will be issued for dossiers that meet the requirements \n    \nSTEP 3: Documentation \nThe required documents (stated below) are to be uploaded on the NAPAMS \nportal after obtaining the necessary dossier clearance. The original copies \nof these documents should be submitted at the Liaison Office of the \nDirector (LOD), R & R Directorate, Ground Floor, NAFDAC Office Complex, \nOshodi-Apapa Express Way, Isolo, Lagos State or any NAFDAC Office \n(outside Lagos) for verification/authentication. \n3.1 \nAn online application form for Product Registration should be \npurchased at: http://registration.nafdac.gov.ng and completed.  \n3.2 \nA separate application form should be submitted for each \nproduct. \n3.3 \nAn application for registration of imported drugs should be made \non the company’s letterhead to the Director General (NAFDAC), \nATTENTION: The Director, Drug Registration & Regulatory \nAffairs (DR & R) Directorate as part of the attachment of \nNAPAMS.  \n3.4 \nNotarized Declaration (Appendix I). To be completed (typed), \nsigned by Declarant, and notarized by a Notary Public in Nigeria. \n3.5 \n Power of Attorney (where the Applicant does not own the Brand \nname). The Power of Attorney shall be:  \n3.5.1 \nIssued by the manufacturer of the product.  \n3.5.2 \nSigned by the Managing Director, General Manager, \nChairman,or President of the Company, stating the \nnames of the products to be registered. The Power of \n\n\nPAGE 9\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n9 \n \nAttorney shall also state ‘Authority to register product \nwith NAFDAC’.  \n3.5.3 \nState ownership of Brand name(s)/Trademark.  \n3.5.4 \nNotarized by a Notary Public in the Country of \nmanufacture.  \n3.5.5 \nValid for at least five (5) years.  \n3.6 \nContract Manufacturer Agreement (where the Applicant owns the \nBrand name). The Contract Manufacturing Agreement shall be: \n3.6.1 \nNotarized by a Notary Public in the country of \nmanufacture.  \n3.6.2 \nSigned by both parties stating names and designations \nof the signatories with the names of all the products to \nbe registered and other relevant clauses clearly \nexplained in an unambiguous language.  \n3.7 \nEvidence of Business Incorporation of the Applicant with \nCorporate Affairs         Commission in Nigeria. \n3.8 \nManufacturing License/Certificate of Free Sale Evidence that \nthey are licensed to manufacture drugs for sale in the country of \norigin (Manufacturer’s Certificate). The license shall be issued by \na \nrelevant \nHealth/Regulatory \nbody \nin \nthe \ncountry \nof \nmanufacture. \n3.9 \nCertificate of Pharmaceutical Product (COPP-WHO Format).There \nmust be evidence by the competent Health Authority, that the \nsale of the product does not constitute a contravention of the \ndrug laws of that country. The Certificate of Pharmaceutical \nProduct (COPP) should;  \n3.9.1 \nConform to WHO format.  \n3.9.2 \nBe issued by the Health/Regulatory body in the country \nof manufacture.  \n\n\nPAGE 10\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n10 \n \n3.9.3 \nBe authenticated by the Nigerian Embassy or High \nCommission in the country of origin. In countries where \nno Nigerian Embassy exists, any Commonwealth or \nECOWAS country can authenticate the COPP.  \n3.10 Current \nGood \nManufacturing \nPractice \n(cGMP) \nof \nthe \nmanufacturing facility. This is to be:  \n3.10.1 \nValid at the time of submission.  \n3.10.2 \nBe issued by the Health/Regulatory body in the country \nof manufacture or any SRA.  \n3.10.3 \nBe authenticated by the Nigerian Embassy or High \nCommission in the country of origin. In countries where \nno Nigerian Embassy exists, any Commonwealth or \nECOWAS country can authenticate the document. \n3.11 Evidence of Registration of Brand Name with Trademark Registry \nin the Ministry of Industry, Trade and Investment. This should \nbe registered in the name of the owner of the Trademark/Brand \nname as the case may be (Trademark Class 5 for Drugs).  \n3.12 Copy of valid Annual License to practice for the Superintendent \nPharmacist for Human Drugs or Veterinary Drugs, issued by the \nPharmacists Council of Nigeria (PCN).  \n3.13 Evidence of valid Certificate of Retention of Premises for the \nfacility.  \n3.14 Letter of Invitation for Good Manufacturing Practice (GMP) \nInspection: A letter of invitation to inspect the factory abroad \nshall be written by the manufacturer and shall state the \nfollowing: \n3.14.1 \nMANUFACTURER INFORMATION: Name of Company, \nfull location address of factory (not administrative office \naddress), e-mail, and current phone no. Details (name, \nphone number, and email) of contact person overseas. \n\n\nPAGE 11\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n11 \n \n3.14.2 \nLOCAL REPRESENTATIVE INFORMATION: Name of \ncompany, full location address, functional phone no., e-\nmail address. Details (name, phone number, and email) \nof \ncontact \nperson. \nNames(s) \nof \nproduct(s) \nfor \nregistration. \n \nSTEP 4: Issuance of Import Permit and Label vetting \n4.1 \nUpon successful screening of the dossier, and review of supporting \ndocuments, a Permit to Import Product Samples for Registration \npurpose shall be issued after which products are submitted for vetting. \n4.2 \nThe products submitted under this procedure shall comply with the \nNAFDAC Labelling requirements \nhttps://www.nafdac.gov.ng/wp- \ncontent/uploads/Files/Resources/Guidelines/R_and_R_Guidelines/G\nENERAL/Quality-Guidelines-for- \nRegistration-of-Pharmaceutical-\nProducts26381.pdf#page=93 \n& \nhttps://www.nafdac.gov.ng/wp- \ncontent/uploads/Files/Resources/Guidelines/R_and_R_Guidelines/\nMore_On_R_and_R/Guidelines-for- Labelling-26375.pdf \n \nSTEP 5: Verification \n5.1 \nNAFDAC shall conduct a verification to ascertain that the product \nintended to be registered, imported, and distributed in Nigeria has been \nduly registered or authorized by a stringent regulatory authority.  \n5.2 \nThe product should have been registered for more than six (6) months, \nand the product characteristics (use, dosage, precautions) for local \nregistration should conform to that agreed in the authorization by the \nSRA. In addition, there should be an assurance that the product is \n\n\nPAGE 12\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n12 \n \neither identical or similar to that approved by the SRA in terms of \nquality, safety, and efficacy.  \n5.3 \nNAFDAC receives applications for the same pharmaceutical product as \nthe one registered by the SRA.  \nWithin the context of this procedure, the same pharmaceutical product \nis characterized by the same or sufficiently similar product dossier as \nfollows: \n• The same manufacturing chain, processes, and control of \nmaterials \n• The same active pharmaceutical ingredient (API) and finished \npharmaceutical product (FPP) specifications \n• The same essential elements of product information \n• The same supporting safety, efficacy, and quality studies \n• The same indications and conditions of use  \nNote: As part of the process, the manufacturer should confirm in the \napplication that the product is the same or sufficiently similar and that the \ndossier contains the same information as much as possible, with \nconsideration for any potential national requirements. Any differences \nshould be justified by the manufacturer and NAFDAC shall determine the \nmerit of using the SRA assessment reports or decisions. \n \n \nSTEP 6: Review and Assessment \n6.1 \nNAFDAC has identified areas of regulatory decision reliance. The areas \nof reliance include registration and marketing authorization, GMP/GCP \nInspections, Clinical Trials, Vigilance and Quality Control (QC) testing-\nrelated decisions to ensure full implementation and compliance to the \nreliance route. \n\n\nPAGE 13\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n13 \n \n6.2 \nAs part of the process of reliance for registration and marketing \nauthorization, the relevant Directorates shall be notified of the \nexpression of interest of the applicant for product registration via the \nreliance pathway leading to an abridged assessment of the quality, \nsafety, and efficacy/performance data considering information in the \nassessment and inspection reports of the reference regulatory \nauthority.  \n6.3 \nNAFDAC shall verify the information submitted by the applicant \ntogether with the shared assessment reports, inspection reports (which \nshall not exceed 3 years validity), and any bridging report from the applicant \nto make an informed decision in accordance with NAFDAC’s laid down \nprocesses to ensure appropriateness for the Nigerian population.  \n6.4 \nNAFDAC shall make a decision based on the review of all available \ninformation with input from Pharmacovigilance and Drug Evaluation \nand Research Directorate as regards the GMP/GCP/Cold-Chain \nStorage Facility (for applicable products)  and Clinical",
+          "start": 6900,
+          "end": 17200,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "NGA-CTX-2",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+          "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+          "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+          "exact_text": "rification, Risk-Based GMP \nCategorization of the production facility, and satisfactory laboratory \nanalysis (where applicable), products are presented to the FDRC for \nratification. \n8.3 \nNAFDAC will use the product-related information and documentation \nprovided by the applicant, at its discretion, to come to its conclusion \nabout national registration and make its decision on the registration \nwithin 60 working days (≈ 90 calendar days). \n \n9 GMP Inspections \n9.1 \nAn application must be made to the Drug Evaluation and Research \nDirectorate (as it relates to a New Drug Application) for facility status \nverification. \n9.2 \nThe Applicant must submit a completed Facility Status Verification \nForm to the Drug Evaluation and Research Directorate (DER) and \nfollow the process to obtain facility verification status. \nREVISION-01-SOP-for-FOREIGN-MANUFACTURING-FACILITY-GMP-\nCATEGORIZATION-Annexure-1-Facility-Status-Verification-Form-\nDER-607-01.pdf (nafdac.gov.ng) \n9.3 \nThe assessment of the application and documentation will be \nperformed with the objective of determining whether the application \ncontains enough evidence as proof of GMP compliance. \n9.4 \nAll sites are inspected upon payment of statutory fees, lines within a \nfacility are also inspected when inspectors conduct an inspection. The \nGMP certificate received is used as a basis for the categorization to give \n\n\nPAGE 16\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n16 \n \nlow priority to the inspection and allow for the completion of the \nregistration process. \n9.5 \nIn specific, NAFDAC has a policy on Risk Categorization of Foreign \nManufacturing facilities for facility status ",
+          "start": 19700,
+          "end": 21400,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        },
+        {
+          "passage_id": "NGA-CTX-3",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR%26R_2025/Guidelines-For-Registration-And-Related-Activities-Of-Drugs-Vaccines-And-In-Vitro-Diagnostics-Using-The-Reliance-Procedure.pdf",
+          "raw_sha256": "32475a9e715862de17989d53eda2885502d27d72f92c7d1ac9127e2c302ef8b2",
+          "text_sha256": "e3fb73f8345ea5a2156c5cbcb7182316e5c4a88efbde53b323064929b1301bf0",
+          "exact_text": "d on the application of reliance. Normally this would also involve some \ndegree of work by the relying NRA. The expectation is that the use of \nreliance in these pathways would save resources and shorten the timelines \ncompared to the standard pathways while ensuring that the standards for \nregulatory oversight are maintained. \n \nAssessment: The term “assessment” covers the outcome of any evaluation \nconducted by NAFDAC (e.g., evaluation for a clinical trial application, \nevaluation of an initial authorization for a regulated product, evaluation of \nsafety data, evaluation as part of an inspection, etc. \n \nFull \nunredacted \nassessment \nreport: \nNon-public \ncomplete \nand \nunredacted regulatory reports that comply with data privacy laws as \napplicable. \n \nReliance: The act whereby NAFDAC considers and gives significant weight \nto assessments performed by another Regulatory Authority or trusted \ninstitution, or to any other authoritative information in reaching its own \ndecision. The relying authority remains independent, responsible, and \naccountable regarding the decisions taken, even when it relies on the \ndecisions and information of others. \n \nSovereignty: The decision to practice reliance, and how best to implement \nreliance, rests with the country. Reliance does not imply dependence. In \napplying reliance in their daily practice, NAFDAC shall maintain \nindependence, sovereignty, and accountability in regulatory decision-\nmaking. \n \nStringent Regulatory Authority (SRA): is defined as a well-resourced \nauthority as defined by the WHO that is: \n\n\nPAGE 22\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n22 \n \na. a member of ICH prior to 23 October 2015, namely: the US Food and \nDrug Administration, the European Commission, and the Ministry of \nHealth, Labour and Welfare of Japan also represented by the \nPharmaceuticals and Medical Devices Agency; or \nb. an ICH observer prior to 23 October 2015, namely: the European Free \nTrade Association, as represented by Swissmedic and Health Canada; \nor \nc. a regulatory authority associated with an ICH member through a \nlegally binding, mutual recognition agreement prior to 23 October \n2015, namely: Australia, Iceland, Liechtenstein and Norway. \n \nNAPAMS – NAFDAC Automated Product Administration and Management \nSystem. \nDMS- Dossier Management System \n \nSwiss Medic MAGHP procedure – Swiss medic procedure for scientific advice \nand Marketing Authorisation for Global Health Products. \n \nWAHO – West African Health Organization \n \nAMRH – African Medicine Regulatory Harmonization \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\nPAGE 23\nReview Date: 09/09/2029 \n \n \nDoc. Ref. No: DR&R-GDL-035-00 \nEffective Date: 10/09/2024 \n23 \n \n \n \n \n \n \n \n \n \n \n \n \n",
+          "start": 30600,
+          "end": 33358,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": [
+        {
+          "clause_id": "NGA-SUP-1cfda0b4-510",
+          "source_url": "https://www.tmda.go.tz/uploads/publications/en1761117745-MoU%20Reliance%20on%20Regulatory%20Decisions%20by%20WHO%20maturity%20Level%203.pdf",
+          "section_article": "Seven-authority MoU Article2, page5",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "NGA-SUP-11d5a4c2-20346",
+          "source_url": "https://data.wahooas.org/tenders/uploads/attachment/document/319/ECOWAS_Joint_Assessment_Procedure_Edited_22072022.pdf",
+          "section_article": "ECOWAS procedure section 8, shared regional rule",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "NGA-SUP-11d5a4c2-21167",
+          "source_url": "https://data.wahooas.org/tenders/uploads/attachment/document/319/ECOWAS_Joint_Assessment_Procedure_Edited_22072022.pdf",
+          "section_article": "ECOWAS procedure section 9, WHO collaborative assessment",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "NGA-SUP-cc77d8d4-480",
+          "source_url": "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR_And_R_Guidelines/Guidelines-For-Registration-of-Imported-Drugs-Vaccines-IVDs-Under-Collaborative-Registration-Procedure.pdf",
+          "section_article": "Sections 1.1–1.5",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        },
+        {
+          "clause_id": "NGA-SUP-cc77d8d4-12396",
+          "source_url": "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR_And_R_Guidelines/Guidelines-For-Registration-of-Imported-Drugs-Vaccines-IVDs-Under-Collaborative-Registration-Procedure.pdf",
+          "section_article": "Steps III–VI",
+          "note": "Separate supplemental source/version not silently substituted for primary route."
+        }
+      ]
+    }
   }
 }

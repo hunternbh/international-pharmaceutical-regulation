@@ -209,5 +209,85 @@
       "15a68ecdb560d9a996cc83abb8ee7de77bd98ea69275bd7d617843cf93e296b4",
       "ca5ce5c8deb14ea8a2d1f3c068d43df21fd8997e7dcbe179012146e8898fe5d8"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "BRB",
+    "country": "Barbados",
+    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "evidence_type": "bill_and_historical_profile",
+    "fixed_case_scope_status": "draft_or_historical_only",
+    "finding": "The2026 Gazette bill proposes accelerated and discretionary reliance procedures. A2011 profile reports historical absence of mutual recognition. Neither establishes a currently operative route for this medicine.",
+    "primary_comparison": false,
+    "cases": {
+      "A": {
+        "status": "unresolved",
+        "finding": "The2026 Gazette bill proposes accelerated and discretionary reliance procedures. A2011 profile reports historical absence of mutual recognition. Neither establishes a currently operative route for this medicine."
+      },
+      "B": {
+        "status": "unresolved",
+        "finding": "The2026 Gazette bill proposes accelerated and discretionary reliance procedures. A2011 profile reports historical absence of mutual recognition. Neither establishes a currently operative route for this medicine."
+      },
+      "C": {
+        "status": "unresolved",
+        "finding": "The2026 Gazette bill proposes accelerated and discretionary reliance procedures. A2011 profile reports historical absence of mutual recognition. Neither establishes a currently operative route for this medicine."
+      },
+      "D": {
+        "status": "unresolved",
+        "finding": "The2026 Gazette bill proposes accelerated and discretionary reliance procedures. A2011 profile reports historical absence of mutual recognition. Neither establishes a currently operative route for this medicine."
+      },
+      "E": {
+        "status": "unresolved",
+        "finding": "The2026 Gazette bill proposes accelerated and discretionary reliance procedures. A2011 profile reports historical absence of mutual recognition. Neither establishes a currently operative route for this medicine."
+      }
+    },
+    "evidence": [
+      {
+        "clause_id": "BRB-SUP-15a68ecd-29128",
+        "source_url": "https://www.paho.org/sites/default/files/2025-06/pharmaceutical-country-profile-barbados.pdf",
+        "raw_sha256": "15a68ecdb560d9a996cc83abb8ee7de77bd98ea69275bd7d617843cf93e296b4",
+        "text_sha256": "30d5c7b3d2fb462606c9b6682e5e8665a22c6e78c6a3da099b66c5ff286fb7b9",
+        "start_offset": 29128,
+        "end_offset": 29368,
+        "verbatim_extracted_text": "5.2 Marketing Authorization (Registration) \n \nIn Barbados, legal provisions do not require marketing authorization (registration) \nfor all pharmaceutical products on the market, and mutual recognitions \nmechanisms are not in place9.   \n \n \n",
+        "pdf_page": 26,
+        "language": "en",
+        "language_status": "Supplemental original-language source; Official ministry/PAHO descriptive country profile",
+        "evidence_tier": "Supplemental: Official ministry/PAHO descriptive country profile",
+        "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      },
+      {
+        "clause_id": "BRB-SUP-ca5ce5c8-48857",
+        "source_url": "https://www.barbadosparliament.com/uploads/gazette/Gazette_June_4_2026_Part_A_CLXI_No_66_with_BILL.pdf",
+        "raw_sha256": "ca5ce5c8deb14ea8a2d1f3c068d43df21fd8997e7dcbe179012146e8898fe5d8",
+        "text_sha256": "7f1d62601014d1808d76147b1d4416b69ae85f0e58d8d38c6e34842c8047cbcc",
+        "start_offset": 48857,
+        "end_offset": 49583,
+        "verbatim_extracted_text": "Accelerated registration of medical products\nAn accelerated registration procedure applies, in accordance with\nsubsections (2) and (3), to a medical product approved by a stringent regulatory\nauthority in another jurisdiction that is on the list approved and published by the\nAuthority in accordance with section 57.\nWhere the Authority, upon receipt of an application for registration of a\nmedical product under section 44, determines that the same medical product is\nregistered in another jurisdiction which is on the list of stringent regulatory\nauthorities referred to in subsection (1)\nthe application shall not be considered; and\nthe applicant shall be advised to submit his case under the mutual\nrecognition procedure.\n",
+        "pdf_page": 44,
+        "language": "en",
+        "language_status": "Supplemental original-language source; Official gazette bill",
+        "evidence_tier": "Supplemental: Official gazette bill",
+        "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      },
+      {
+        "clause_id": "BRB-SUP-ca5ce5c8-60076",
+        "source_url": "https://www.barbadosparliament.com/uploads/gazette/Gazette_June_4_2026_Part_A_CLXI_No_66_with_BILL.pdf",
+        "raw_sha256": "ca5ce5c8deb14ea8a2d1f3c068d43df21fd8997e7dcbe179012146e8898fe5d8",
+        "text_sha256": "7f1d62601014d1808d76147b1d4416b69ae85f0e58d8d38c6e34842c8047cbcc",
+        "start_offset": 60076,
+        "end_offset": 61393,
+        "verbatim_extracted_text": "Regulatory reliance on stringent authorities in other jurisdictions\nThe Authority may, in performing its functions in respect of medical\nproducts, rely on stringent regulatory authorities in other jurisdictions, a list of\nwhich shall be approved and published by the Authority for the purpose.\nThe Authority shall, in determining the list of stringent regulatory\nauthorities to be approved and published, take into account the World Health\nOrganisation Listed Authority (WLA) list and regional cooperation initiatives.\nRegulatory reliance by the Authority on any assessments, decisions and\nother information provided by stringent regulatory authorities on the list referred\nto in subsection (1) may be\nunilateral or may be based on binding mutual agreements or\ninternational treaties; and\napplied throughout the life cycle of a medical product in all regulatory\nfunctions, including initial authorisation and registration of the medical\nproduct, clinical trials, vigilance and other post-authorisation activities.\nThe Authority, within the scope and conditions established by this Act or\nany of its statutory instruments, in its established forms and methods and to the\nextent determined, recognises or takes into account the assessments, decisions\nand other information provided by stringent regulatory authorities.\n",
+        "pdf_page": 52,
+        "language": "en",
+        "language_status": "Supplemental original-language source; Official gazette bill",
+        "evidence_tier": "Supplemental: Official gazette bill",
+        "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+        "translation_review": null
+      }
+    ],
+    "source_scope": "Supplemental evidence, scope/version retained in source records",
+    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
   }
 }

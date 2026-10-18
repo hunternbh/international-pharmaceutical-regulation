@@ -273,5 +273,627 @@
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": []
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "TUR",
+    "country": "Türkiye",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Prior-assessment reliance with national discretion",
+    "source_url": "https://www.lexpera.com.tr/resmi-gazete/metin/beseri-tibbi-urunlerin-ruhsatlandirma-surecine-iliskin-guven-uygulamalari-kilavuzu-20220926-1",
+    "document_id": "F250_d7c0c3d02ab4212cee72_0b96f543d96c",
+    "genre": "Agency guideline reproduced by legal publisher",
+    "language": "tr",
+    "scope": "Human-medicine authorisation",
+    "version_note": "Historical agency guideline reproduced on LEXPERA legal mirror; not official-hosted primary copy. Later 2023 version separately preserved. Targeted original Turkish Articles 1–6 and Annex 1 read with cautious assistant interpretation, not checked full translation.",
+    "components": {
+      "new_active_substance": {
+        "state": "discretionary/conditional",
+        "finding": "Unlicensed human medicines; priority-board selection required.",
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "WHO prequalification; ICH founding/permanent regulatory members, TGA and MHRA.",
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Same product/dossier with approved post-approval changes; justified differences declared.",
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "explicit requirement",
+        "finding": "Applicant supplies reference-authority assessment report; annex also requires dossier/correspondence.",
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Content/fullness/public status not resolved; report mention alone not a nonpublic gate.",
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "discretionary/conditional",
+        "finding": "Agency independent; may differ in benefit-risk, unmet need, risk management and local climatic stability.",
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "60-day assessment after start; applicant-deficiency clock stops; notify within subsequent 30 days.",
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "discretionary/conditional",
+        "finding": "Priority Evaluation Board eligibility selection and national assessment retained.",
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ]
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+        ],
+        "evidence_ids": [
+          "TUR-R01",
+          "TUR-R02",
+          "TUR-CTX-1"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not established",
+        "finding": "No resolved legal access change from this information contrast established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "No separately resolved applicant-consent gate; not a waiver."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not established",
+        "finding": "No resolved second-approval access gain."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "passage_id": "TUR-R01",
+        "source_document_id": "F250_d7c0c3d02ab4212cee72_0b96f543d96c",
+        "evidence_role": "Selected primary document",
+        "section_article": "Articles 1–3: scope and legal authority",
+        "pdf_page": null,
+        "source_url": "https://www.lexpera.com.tr/resmi-gazete/metin/beseri-tibbi-urunlerin-ruhsatlandirma-surecine-iliskin-guven-uygulamalari-kilavuzu-20220926-1",
+        "raw_sha256": "0b96f543d96c31cda68c820718eeb42c3bcdfe2ffe42ee457c8cc8234fa3a364",
+        "text_sha256": "0a80580209dba1b699c286301f66fb8a237d6a2f903b68d34a69c215fe45bd41",
+        "exact_text": "Amaç\nMADDE 1\n(1) Bu kılavuzun amacı, beşeri tıbbi ürünlerin ruhsatlandırma sürecindeki güven uygulamaları hakkında yapılacak iş ve işlemlerin usul ve esaslarını belirlemektir.\nKapsam\nMADDE 2\n(1) Bu kılavuz ülkemizde henüz ruhsatlandırılmamış beşeri tıbbi ürünlere ilişkin;\na) Dünya Sağlık Örgütü (DSÖ) tarafından ön yeterlilik kapsamında yapılan önceki değerlendirmeler veya\nb) ICH (Uluslararası Harmonizasyon Konseyi) kurucu veya daimi üyesi yetkili otoriteleri, Avusturalya Ulusal İlaç Otoritesi (TGA) veya İngiltere Ulusal İlaç Otoritesi (MHRA) tarafından ruhsatlandırmaya ilişkin yapılan önceki değerlendirmeler\nkapsamında hazırlanan değerlendirme raporlarının, ruhsat başvurularının Kurumda değerlendirilmesine yönelik iş ve işlemlere rehberlik etmesi açısından kullanılmasını kapsar.\nDayanak\nMADDE 3\n(1) Bu kılavuz, 11.12.2021 tarihli ve 31686 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğine dayanarak hazırlanmıştır.\n",
+        "start": 1339,
+        "end": 2299,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "TUR-R02",
+        "source_document_id": "F250_d7c0c3d02ab4212cee72_0b96f543d96c",
+        "evidence_role": "Selected primary document",
+        "section_article": "Articles 5–6: decision, timetable and applicant obligations",
+        "pdf_page": null,
+        "source_url": "https://www.lexpera.com.tr/resmi-gazete/metin/beseri-tibbi-urunlerin-ruhsatlandirma-surecine-iliskin-guven-uygulamalari-kilavuzu-20220926-1",
+        "raw_sha256": "0b96f543d96c31cda68c820718eeb42c3bcdfe2ffe42ee457c8cc8234fa3a364",
+        "text_sha256": "0a80580209dba1b699c286301f66fb8a237d6a2f903b68d34a69c215fe45bd41",
+        "exact_text": "MADDE 5\n(1) Güven uygulamaları doğrultusunda alınmış kararlar için referans düzenleyici otoritelerin karar, değerlendirme ve bilgilerine güvenilmiş olsa dahi güven duyan Kurum bağımsız, sorumlu ve mesuldür.\n(2) Kurum; mevzuatlar, yarar-risk değerlendirmesi, karşılanmayan tıbbi ihtiyaçlar, risk yönetim planları ve beşeri tıbbi ürünlerin stabilite çalışmalarında farklı iklim kuşağı seçilmesi gibi kalite ile ilgili hususlarda referans düzenleyici otorite değerlendirmelerinden farklı değerlendirmeler sunabilir.\n(3) Kuruma sunulan ürün ile referans düzenleyici otorite tarafından onaylanan ürün esas olarak aynı olmalıdır.\n(4) Ruhsat başvuru sahibi gerekçelendirilmiş olası farklılıkların etkisi hakkında değerlendirmelerini Kuruma sunmalıdır ve Kurum; referans düzenleyici otorite değerlendirme ve kararlarını değerlendirmelerinde dikkate alır.\n(5) Beşeri tıbbi ürünün aynılığı konusunda şüphe olması durumunda, Kurum başvuru sahibinden ek bilgi talep edebilir veya referans düzenleyici otorite ile iletişime geçebilir.\n(6) Yönetmeliğin 38 inci maddesi doğrultusunda, ruhsatlandırılacak beşeri tıbbi ürünlerin güven kapsamında değerlendirmesine ilişkin uygunluk durumunun tespitine yönelik, başvuru sahibi tarafından Kuruma öncelik değerlendirme başvurusu yapılır. Öncelik Değerlendirme Kurulu (ÖDEK) kararı başvuru sahibine bildirilir.\n(7) ÖDEK tarafından uygun bulunan başvurular için başvuru sahibi tarafından Yönetmelik ve bu kılavuzun Ek-1’inde belirtilen gereklilikler doğrultusunda hazırlanmış başvuru dosyası Kuruma sunulur. Başvuruya ilişkin Yönetmeliğin 12 nci maddesinde belirtilen ön değerlendirme süreci yürütülür. DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedüründe değerlendirme süreci, DSÖ’nün Kuruma ilgili verilere erişim sağlamasını takiben başlar.\n(8) Ruhsatlandırma süreci başlayan beşeri tıbbi ürünlerin Kurumumuzca değerlendirme süreci 60 gün içerisinde tamamlanır. Başvuru sahibine eksiklik bildirilmesi durumunda bu süre durur. Kurum tarafından değerlendirmenin tamamlanmasını takip eden 30 gün içerisinde başvuru sahibine değerlendirme sonucu bildirilir.\n(9) DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü’nde DSÖ’ye de 30 gün içerisinde değerlendirme sonucu bildirilir.\nRuhsat başvuru sahibinin yükümlülükleri\nMADDE 6\n(1) DSÖ tarafından ön yeterlilik verilmiş veya referans düzenleyici otoriteler tarafından ruhsatlandırılmış dosyanın aynısının ruhsatlandırma/ön yeterlilik sonrası onaylı güncellemeleri de içerecek şekilde Kuruma sunulduğunu taahhüt etmek,\n(2) Kurum tarafından talep edilen her türlü bilgi ve belgeyi eksiksiz olarak sunmak,\n(3) Referans düzenleyici otoriteye ilişkin değerlendirme raporunu Kuruma sunmak,\n(4) Referans düzenleyici otorite veya DSÖ tarafından ön yeterlilik verilmiş beşeri tıbbi ürün için, bu otoritelerce birbiriyle çelişen kararlar bulunması durumunda, tüm ilgili otoritelere ilişkin değerlendirme raporunu veya geri çekme durumunda geri çekilmeye ilişkin yazışmaları Kuruma bildirmek,\n(5) Dördüncü fıkrada belirtilen durumlarda kararlardaki farklılıkları (ret, geri çekmeye neden olabilecek yazışmalar, endikasyon, dozlama, saklama koşulları, raf ömrüne ilişkin farklılıklar veya diğer kısıtlamalar) açık şekilde belirten üst yazı ile birlikte Kuruma sunmakla yükümlüdür.\n",
+        "start": 4106,
+        "end": 7364,
+        "translation": null,
+        "translation_status": null,
+        "exact_offset_validated": true
+      },
+      {
+        "passage_id": "TUR-CTX-1",
+        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "source_url": "https://www.lexpera.com.tr/resmi-gazete/metin/beseri-tibbi-urunlerin-ruhsatlandirma-surecine-iliskin-guven-uygulamalari-kilavuzu-20220926-1",
+        "raw_sha256": "0b96f543d96c31cda68c820718eeb42c3bcdfe2ffe42ee457c8cc8234fa3a364",
+        "text_sha256": "0a80580209dba1b699c286301f66fb8a237d6a2f903b68d34a69c215fe45bd41",
+        "exact_text": "nizasyon Konseyi) kurucu veya daimi üyesi yetkili otoriteleri, Avusturalya Ulusal İlaç Otoritesi (TGA) veya İngiltere Ulusal İlaç Otoritesi (MHRA) tarafından ruhsatlandırmaya ilişkin yapılan önceki değerlendirmeler\nkapsamında hazırlanan değerlendirme raporlarının, ruhsat başvurularının Kurumda değerlendirilmesine yönelik iş ve işlemlere rehberlik etmesi açısından kullanılmasını kapsar.\nDayanak\nMADDE 3\n(1) Bu kılavuz, 11.12.2021 tarihli ve 31686 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğine dayanarak hazırlanmıştır.\nTanımlar\nMADDE 4\n(1) Bu kılavuzda geçen;\na) DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü: Başvuru sahiplerinin ön yeterlilik listesinde yer alan beşeri tıbbi ürünleri için talep etmesi ve Kurum tarafından uygun bulunması durumunda güven yoluyla ruhsatlandırmada uygulanan prosedürü,\nb) Güven: Belirli bir yetki alanı içinde yer alan Kurum tarafından, kendi kararını verirken başka bir düzenleyici otorite veya güvenilir bir kurum tarafından gerçekleştirilmiş olan değerlendirmeleri vb. güvenilir bilgileri göz önünde bulundurmasını veya bu gibi değerlendirmelere büyük ölçüde ağırlık vermesini,\nc) Kurum: Türkiye İlaç ve Tıbbi Cihaz Kurumunu,\nç) Referans düzenleyici otorite: Söz konusu beşeri tıbbi ürüne daha önce onay/ruhsat vermiş ve yaptığı değerlendirmelerin beşeri tıbbi ürünün ülkemizde ruhsatlandırılmasında rehberlik etmesi için ruhsat başvuru sahibi tarafından kullanıldığı güvenilir bir otoriteyi,\nd) Beşeri tıbbi ürünün aynılığı: Kalitatif ve kantitatif bileşim, yitilik, farmasötik şekil, kullanım amacı, saklama koşulları, üretim süreci, üretim yeri, etkin maddelerinin tedarikçileri, yardımcı maddelerin kalitesi gibi beşeri tıbbi ürüne özgü özelliklerin karşılaştırılan beşeri tıbbi ürünler için aynı olması ile güven duyan otoriteye (Türkiye İlaç ve Tıbbi Cihaz Kurumunu) ibraz edilen beşeri tıbbi ürün ile referans alınan düzenleyici otorite tarafından onaylanan beşeri tıbbi ürünün esasen aynı olması; güvenlilik, etkililik ve kalite, endikasyon ve kullanım koşullarına ilişkin destekleyici çalışma sonuçlarının aynı olması vb. yönünden beşeri tıbbi ürünlerin aynı olmasını,\ne) Yönetmelik: Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğini ifade eder.\nİKİNCİ BÖLÜM\nDeğerlendirme ve Ruhsat Başvuru Sahibi\nRuhsat başvurularının güven uygulamaları kapsamında değerlendirilmesi\nMADDE 5\n(1) Güven uygulamaları doğrultusunda alınmış kararlar için referans düzenleyici otoritelerin karar, değerlendirme ve bilgilerine güvenilmiş olsa dahi güven duyan Kurum bağımsız, sorumlu ve mesuldür.\n(2) Kurum; mevzuatlar, yarar-risk değerlendirmesi, karşılanmayan tıbbi ihtiyaçlar, risk yönetim planları ve beşeri tıbbi ürünlerin stabilite çalışmalarında farklı iklim kuşağı seçilmesi gibi kalite ile ilgili hususlarda referans düzenleyici otorite değerlendirmelerinden farklı değerlendirmeler sunabilir.\n(3) Kuruma sunulan ürün ile referans düzenleyici otorite tarafından onaylanan ürün esas olarak aynı olmalıdır.\n(4) Ruhsat başvuru sahibi gerekçelendirilmiş olası farklılıkların etkisi hakkında değerlendirmelerini Kuruma sunmalıdır ve Kurum; referans düzenleyici otorite değerlendirme ve kararlarını değerlendirmelerinde dikkate alır.\n(5) Beşeri tıbbi ürünün aynılığı konusunda şüphe olması durumunda, Kurum başvuru sahibinden ek bilgi talep edebilir veya referans düzenleyici otorite ile iletişime geçebilir.\n(6) Yönetmeliğin 38 inci maddesi doğrultusunda, ruhsatlandırılacak beşeri tıbbi ürünlerin güven kapsamında değerlendirmesine ilişkin uygunluk durumunun tespitine yönelik, başvuru sahibi tarafından Kuruma öncelik değerlendirme başvurusu yapılır. Öncelik Değerlendirme Kurulu (ÖDEK) kararı başvuru sahibine bildirilir.\n(7) ÖDEK tarafından uygun bulunan başvurular için başvuru sahibi tarafından Yönetmelik ve bu kılavuzun Ek-1’inde belirtilen gereklilikler doğrultusunda hazırlanmış başvuru dosyası Kuruma sunulur. Başvuruya ilişkin Yönetmeliğin 12 nci maddesinde belirtilen ön değerlendirme süreci yürütülür. DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedüründe değerlendirme süreci, DSÖ’nün Kuruma ilgili verilere erişim sağlamasını takiben başlar.\n(8) Ruhsatlandırma süreci başlayan beşeri tıbbi ürünlerin Kurumumuzca değerlendirme süreci 60 gün içerisinde tamamlanır. Başvuru sahibine eksiklik bildirilmesi durumunda bu süre durur. Kurum tarafından değerlendirmenin tamamlanmasını takip eden 30 gün içerisinde başvuru sahibine değerlendirme sonucu bildirilir.\n(9) DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü’nde DSÖ’ye de 30 gün içerisinde değerlendirme sonucu bildirilir.\nRuhsat başvuru sahibinin yükümlülükleri\nMADDE 6\n(1) DSÖ tarafından ön yeterlilik verilmiş veya referans düzenleyici otoriteler tarafından ruhsatlandırılmış dosyanın aynısının ruhsatlandırma/ön yeterlilik sonrası onaylı güncellemeleri de içerecek şekilde Kuruma sunulduğunu taahhüt etmek,\n(2) Kurum tarafından talep edilen her türlü bilgi ve belgeyi eksiksiz olarak sunmak,\n(3) Referans düzenleyici otoriteye ilişkin değerlendirme raporunu Kuruma sunmak,\n(4) Referans düzenleyici otorite veya DSÖ tarafından ön yeterlilik verilmiş beşeri tıbbi ürün için, bu otoritelerce birbiriyle çelişen kararlar bulunması durumunda, tüm ilgili otoritelere ilişkin değerlendirme raporunu veya geri çekme durumunda geri çekilmeye ilişkin yazışmaları Kuruma bildirmek,\n(5) Dördüncü fıkrada belirtilen durumlarda kararlardaki farklılıkları (ret, geri çekmeye neden olabilecek yazışmalar, endikasyon, dozlama, saklama koşulları, raf ömrüne ilişkin farklılıklar veya diğer kısıtlamalar) açık şekilde belirten üst yazı ile birlikte Kuruma sunmakla yükümlüdür.\nDÖRDÜNCÜ BÖLÜM\nÇeşitli ve Son Hükümler\nHükmü Bulunmayan Haller\nMADDE 7\n(1) Bu Kılavuzda belirtilmeyen hususlar için ilgili mevzuat hükümleri geçerlidir.\nYürürlük\nMADDE 8\n(1) Bu Kılavuz yayımı tarihinde yürürlüğe girer.\nYürütme\nMADDE 9\n(1) Bu Kılavuz hükümlerini Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı yürütür.\nEK 1\nSunulması Gereken Belgelere İlişkin Gereklilikler\nA. Referans düzenleyici otoriteye sunulan dokümanlar\n1. Kuruma ve referans düzenleyici otoriteye sunulan dokümanların karşılaştırılabilirliği:\na) Kuruma ve referans düzenleyici otoriteye, referans düzenleyici otorite tarafından ön yeterlilik verilen / ruhsatlandırılan beşeri tıbbi ürüne ilişkin sunulan belgeler aynı olmalıdır.\nb) Kuruma sunulacak tüm belgeler ve modüller CTD kılavuzuna uygun olarak hazırlanmalıdır. Modül 1 ve başvuru formu hem referans düzenleyici otoriteye sunulduğu şekilde hem de Kurumumuz gerekliliklerine göre düzenlenerek sunulmalıdır.\n2. Referans düzenleyici otorite kararı sonrasında yapılan değişiklik veya eklemeler:\na) Referans düzenleyici otorite tarafından ilk onay verildikten sonra yapılan her türlü değişiklik veya ekleme, Kuruma başvuru sırasında, ilgili güncel dokümanlar ile birlikte, başvuru dosyası veya ilgili modüle dahil edilerek veya ayrı olarak Kuruma bildirilmelidir.\nb) Değişikliklere ilişkin bilgi üst yazıda belirtilmeli ve söz konusu değişiklikleri detaylı şekilde içeren, mevcut ve önerilen duruma ilişkin karşılaştırmalı tablo sunulmalıdır.\n3. Etkin Madde Ana Dosyası (EMAD):\na) Söz konusu başvuruya ilişkin referans düzenleyici otoriteye sunulan EMAD için, erişim yazısı, kapalı kısma ilişkin değerlendirme raporu, soruların listesi ve EMAD sahibinin kapalı kısma ilişkin cevaplarını da içeren kapalı kısmın birebir kopyası EMAD sahibi tarafından sunulmalıdır.\nb) Eğer EMAD’da bir değişiklik söz konusuysa, onaylanan değişiklikler değerlendirme raporuyla birlikte ayrı olarak sunulmalıdır.\nc) Bu değişiklikler üst yazıda da belirtilmeli ve söz konusu değişiklikleri detaylı şekilde içeren, mevcut ve önerilen duruma ilişkin karşılaştırmalı tablo sunulmalıdır.\nB. Sunulan dokümanların geçerlilik veya güncellenme tarihi\n1. Dokümanın referans düzenleyici otorite tarafından ilk onaylanma tarihi veya en son güncellenme tarihi, Kuruma başvurunun yapıldığı tarihten en fazla 5 yıl önce olmalıdır.\nC. Referans düzenleyici otoriteye sunulan beşeri tıbbi üründen farklılıklar\n1. Kuruma başvurusu yapılan beşeri tıbbi ürün ile referans düzenleyici otorite tarafından onaylanan beşeri tıbbi ürün esas olarak birbirinin aynısı olmalıdır. Ancak aşağıda bildirilen hususlar kabul edilebilir farklardır:\nc) Sekonder ambalaj veya sekonder ambalajlama tesisi,\nd) Ambalaj boyutu (beşeri tıbbi ürünün kullanımını etkilemediği sürece),\ne) DSÖ veya referans düzenleyici otorite tarafından onaylanmış beşeri tıbbi ürünün ismi.\n2. Bitmiş ürün üretim yeri, iç ambalaj ve iç ambalajlama tesisine ilişkin değişiklikler bilimsel değerlendirmeye tabi olduğu için, güven kapsamında değerlendirilmez.\n3. Kuruma yapılan başvuru ile referans düzenleyici otoriteye sunulan arasında küçük farklılık varsa, referans düzenleyici otoriteye sunulan belgeler Kuruma sunulmalıdır. Farklılıklar üst yazıda belirtilmelidir.\nEK 2\nDSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü*\n1. Ruhsat başvuru sahipleri ön yeterlilik listesinde yer alan beşeri tıbbi ürünleri için DSÖ ile işbirliğine dayalı hızlı ruhsatlandırma prosedürü yoluyla ruhsat alma konusundaki isteklerini gönüllü olarak ÖDEK’e başvurarak ifade ederler.\n2. Ruhsat başvuru sahipleri, ilgili beşeri tıbbi ürünü/ürünleri için DSÖ’nün dosya değerlendirme ve denetim sonuçlarını Kurum ile paylaşma yetkisini DSÖ'ye verir.\n3. Beşeri tıbbi ürüne ait başvuru dosyasının teknik kısmı, ön yeterlilik sırasında DSÖ tarafından onaylanan verileri, DSÖ onaylı değişiklikleri ve varsa ön yeterlilik durumunun yenilenmesini (requalification) de yansıtacak şekilde güncellenmelidir.\n4. Ruhsat başvurusu sırasında, DSÖ ön yeterlilik onayında herhangi bir değişiklik olması veya değişiklik öngörülmesi halinde ruhsat başvuru sahibi Kurumu buna göre bilgilendirmelidir.\n5. DSÖ, ön yeterlilik için beşeri tıbbi ürünle ilgili değerlendirme ve denetim sonuçları ile ilgili olduğu durumlarda laboratuvar test sonuçlarını Kurum ile paylaşır. Bu bilgiler DSÖ tarafından gizlilik taahhütlerine ve üzerinde anlaşmaya varılan kullanım kısıtlamalarına tabi olarak güvenli bir internet tabanlı platform aracılığıyla Kurum ile paylaşılır.\n6. Kurum, başvurulan ilgili beşeri tıbbi ürün için işbirliğine dayalı prosedürü uygulamayı reddetme nedenlerini DSÖ'ye bildirerek reddedebilir. Benzer şekilde, Kurumun ön yeterlilik listesinde yer alan beşeri tıbbi ürüne ait ruhsat başvurusunu reddetmesi veya onaylanan ruhsatlandırma koşullarında farklılık olması durumunda, bu durumun gerekçeleri DSÖ’ye bildirilir.\n7. Kurum tarafından ruhsatlandırılan beşeri tıbbi ürün, DSÖ tarafından işbirliğine dayalı prosedür kapsamında ruhsatlandırılmış olan ön yeterlilik alan beşeri tıbbi ürünler listesine eklenir. Bu liste DSÖ’nün resmi internet sitesinde herkese açıktır. Daha sonra Kurum, ruhsatlandırdığı beşeri tıbbi ürün üzerinde yapılan değişiklikleri DSÖ'ye bildirir. Bu değişiklikler, DSÖ tarafından önceden onaylanmış beşeri tıbbi ürün ile Kurum tarafından ruhsatlandırılan beşeri tıbbi ürün arasındaki tutarlılığın sağlanması için DSÖ tarafından onaylanan değişiklikleri takip etmelidir. Ambalaj bilgileri veya ürün bilgilerindeki küçük değişikler gibi farklılıklar kabul edilebilir.\n8. Kurum tarafından DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü ile ruhsatlandırdığı bir beşeri tıbbi ürünün ruhsatı a",
+        "start": 1740,
+        "end": 13000,
+        "exact_offset_validated": true,
+        "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "review_details": {
+      "iso3": "TUR",
+      "country": "Türkiye",
+      "selected_document_id": "F250_d7c0c3d02ab4212cee72_0b96f543d96c",
+      "source_id": "F250_d7c0c3d02ab4212cee72",
+      "pathway": "Prior-assessment reliance with national discretion",
+      "source_url": "https://www.lexpera.com.tr/resmi-gazete/metin/beseri-tibbi-urunlerin-ruhsatlandirma-surecine-iliskin-guven-uygulamalari-kilavuzu-20220926-1",
+      "document_title": "TITCK reliance guideline, preserved 26 September 2022 version",
+      "source_type": "Agency guideline reproduced by legal publisher",
+      "scope": "Human-medicine authorisation",
+      "language": "tr",
+      "translation_provenance": [
+        {
+          "TUR-R01": null
+        },
+        {
+          "TUR-R02": null
+        }
+      ],
+      "raw_sha256": "0b96f543d96c31cda68c820718eeb42c3bcdfe2ffe42ee457c8cc8234fa3a364",
+      "raw_hash_validated": true,
+      "text_sha256": "0a80580209dba1b699c286301f66fb8a237d6a2f903b68d34a69c215fe45bd41",
+      "version_dates": {
+        "status": "Preserved version; exact operative start not reconstructed"
+      },
+      "version_scope_note": "Historical agency guideline reproduced on LEXPERA legal mirror; not official-hosted primary copy. Later 2023 version separately preserved. Targeted original Turkish Articles 1–6 and Annex 1 read with cautious assistant interpretation, not checked full translation.",
+      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
+      "reviewed_ranges": [
+        [
+          1339,
+          2299
+        ],
+        [
+          4106,
+          7364
+        ],
+        [
+          1740,
+          13000
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "discretionary/conditional",
+          "finding": "Unlicensed human medicines; priority-board selection required.",
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "WHO prequalification; ICH founding/permanent regulatory members, TGA and MHRA.",
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same product/dossier with approved post-approval changes; justified differences declared.",
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Applicant supplies reference-authority assessment report; annex also requires dossier/correspondence.",
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Content/fullness/public status not resolved; report mention alone not a nonpublic gate.",
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "discretionary/conditional",
+          "finding": "Agency independent; may differ in benefit-risk, unmet need, risk management and local climatic stability.",
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source/context; no absence inference.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "60-day assessment after start; applicant-deficiency clock stops; notify within subsequent 30 days.",
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "discretionary/conditional",
+          "finding": "Priority Evaluation Board eligibility selection and national assessment retained.",
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+          ],
+          "evidence_ids": [
+            "TUR-R01",
+            "TUR-R02",
+            "TUR-CTX-1"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not established",
+          "finding": "No resolved legal access change from this information contrast established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "No separately resolved applicant-consent gate; not a waiver."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not established",
+          "finding": "No resolved second-approval access gain."
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "TUR-R01",
+          "source_document_id": "F250_d7c0c3d02ab4212cee72_0b96f543d96c",
+          "evidence_role": "Selected primary document",
+          "section_article": "Articles 1–3: scope and legal authority",
+          "pdf_page": null,
+          "source_url": "https://www.lexpera.com.tr/resmi-gazete/metin/beseri-tibbi-urunlerin-ruhsatlandirma-surecine-iliskin-guven-uygulamalari-kilavuzu-20220926-1",
+          "raw_sha256": "0b96f543d96c31cda68c820718eeb42c3bcdfe2ffe42ee457c8cc8234fa3a364",
+          "text_sha256": "0a80580209dba1b699c286301f66fb8a237d6a2f903b68d34a69c215fe45bd41",
+          "exact_text": "Amaç\nMADDE 1\n(1) Bu kılavuzun amacı, beşeri tıbbi ürünlerin ruhsatlandırma sürecindeki güven uygulamaları hakkında yapılacak iş ve işlemlerin usul ve esaslarını belirlemektir.\nKapsam\nMADDE 2\n(1) Bu kılavuz ülkemizde henüz ruhsatlandırılmamış beşeri tıbbi ürünlere ilişkin;\na) Dünya Sağlık Örgütü (DSÖ) tarafından ön yeterlilik kapsamında yapılan önceki değerlendirmeler veya\nb) ICH (Uluslararası Harmonizasyon Konseyi) kurucu veya daimi üyesi yetkili otoriteleri, Avusturalya Ulusal İlaç Otoritesi (TGA) veya İngiltere Ulusal İlaç Otoritesi (MHRA) tarafından ruhsatlandırmaya ilişkin yapılan önceki değerlendirmeler\nkapsamında hazırlanan değerlendirme raporlarının, ruhsat başvurularının Kurumda değerlendirilmesine yönelik iş ve işlemlere rehberlik etmesi açısından kullanılmasını kapsar.\nDayanak\nMADDE 3\n(1) Bu kılavuz, 11.12.2021 tarihli ve 31686 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğine dayanarak hazırlanmıştır.\n",
+          "start": 1339,
+          "end": 2299,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "TUR-R02",
+          "source_document_id": "F250_d7c0c3d02ab4212cee72_0b96f543d96c",
+          "evidence_role": "Selected primary document",
+          "section_article": "Articles 5–6: decision, timetable and applicant obligations",
+          "pdf_page": null,
+          "source_url": "https://www.lexpera.com.tr/resmi-gazete/metin/beseri-tibbi-urunlerin-ruhsatlandirma-surecine-iliskin-guven-uygulamalari-kilavuzu-20220926-1",
+          "raw_sha256": "0b96f543d96c31cda68c820718eeb42c3bcdfe2ffe42ee457c8cc8234fa3a364",
+          "text_sha256": "0a80580209dba1b699c286301f66fb8a237d6a2f903b68d34a69c215fe45bd41",
+          "exact_text": "MADDE 5\n(1) Güven uygulamaları doğrultusunda alınmış kararlar için referans düzenleyici otoritelerin karar, değerlendirme ve bilgilerine güvenilmiş olsa dahi güven duyan Kurum bağımsız, sorumlu ve mesuldür.\n(2) Kurum; mevzuatlar, yarar-risk değerlendirmesi, karşılanmayan tıbbi ihtiyaçlar, risk yönetim planları ve beşeri tıbbi ürünlerin stabilite çalışmalarında farklı iklim kuşağı seçilmesi gibi kalite ile ilgili hususlarda referans düzenleyici otorite değerlendirmelerinden farklı değerlendirmeler sunabilir.\n(3) Kuruma sunulan ürün ile referans düzenleyici otorite tarafından onaylanan ürün esas olarak aynı olmalıdır.\n(4) Ruhsat başvuru sahibi gerekçelendirilmiş olası farklılıkların etkisi hakkında değerlendirmelerini Kuruma sunmalıdır ve Kurum; referans düzenleyici otorite değerlendirme ve kararlarını değerlendirmelerinde dikkate alır.\n(5) Beşeri tıbbi ürünün aynılığı konusunda şüphe olması durumunda, Kurum başvuru sahibinden ek bilgi talep edebilir veya referans düzenleyici otorite ile iletişime geçebilir.\n(6) Yönetmeliğin 38 inci maddesi doğrultusunda, ruhsatlandırılacak beşeri tıbbi ürünlerin güven kapsamında değerlendirmesine ilişkin uygunluk durumunun tespitine yönelik, başvuru sahibi tarafından Kuruma öncelik değerlendirme başvurusu yapılır. Öncelik Değerlendirme Kurulu (ÖDEK) kararı başvuru sahibine bildirilir.\n(7) ÖDEK tarafından uygun bulunan başvurular için başvuru sahibi tarafından Yönetmelik ve bu kılavuzun Ek-1’inde belirtilen gereklilikler doğrultusunda hazırlanmış başvuru dosyası Kuruma sunulur. Başvuruya ilişkin Yönetmeliğin 12 nci maddesinde belirtilen ön değerlendirme süreci yürütülür. DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedüründe değerlendirme süreci, DSÖ’nün Kuruma ilgili verilere erişim sağlamasını takiben başlar.\n(8) Ruhsatlandırma süreci başlayan beşeri tıbbi ürünlerin Kurumumuzca değerlendirme süreci 60 gün içerisinde tamamlanır. Başvuru sahibine eksiklik bildirilmesi durumunda bu süre durur. Kurum tarafından değerlendirmenin tamamlanmasını takip eden 30 gün içerisinde başvuru sahibine değerlendirme sonucu bildirilir.\n(9) DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü’nde DSÖ’ye de 30 gün içerisinde değerlendirme sonucu bildirilir.\nRuhsat başvuru sahibinin yükümlülükleri\nMADDE 6\n(1) DSÖ tarafından ön yeterlilik verilmiş veya referans düzenleyici otoriteler tarafından ruhsatlandırılmış dosyanın aynısının ruhsatlandırma/ön yeterlilik sonrası onaylı güncellemeleri de içerecek şekilde Kuruma sunulduğunu taahhüt etmek,\n(2) Kurum tarafından talep edilen her türlü bilgi ve belgeyi eksiksiz olarak sunmak,\n(3) Referans düzenleyici otoriteye ilişkin değerlendirme raporunu Kuruma sunmak,\n(4) Referans düzenleyici otorite veya DSÖ tarafından ön yeterlilik verilmiş beşeri tıbbi ürün için, bu otoritelerce birbiriyle çelişen kararlar bulunması durumunda, tüm ilgili otoritelere ilişkin değerlendirme raporunu veya geri çekme durumunda geri çekilmeye ilişkin yazışmaları Kuruma bildirmek,\n(5) Dördüncü fıkrada belirtilen durumlarda kararlardaki farklılıkları (ret, geri çekmeye neden olabilecek yazışmalar, endikasyon, dozlama, saklama koşulları, raf ömrüne ilişkin farklılıklar veya diğer kısıtlamalar) açık şekilde belirten üst yazı ile birlikte Kuruma sunmakla yükümlüdür.\n",
+          "start": 4106,
+          "end": 7364,
+          "translation": null,
+          "translation_status": null,
+          "exact_offset_validated": true
+        },
+        {
+          "passage_id": "TUR-CTX-1",
+          "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+          "source_url": "https://www.lexpera.com.tr/resmi-gazete/metin/beseri-tibbi-urunlerin-ruhsatlandirma-surecine-iliskin-guven-uygulamalari-kilavuzu-20220926-1",
+          "raw_sha256": "0b96f543d96c31cda68c820718eeb42c3bcdfe2ffe42ee457c8cc8234fa3a364",
+          "text_sha256": "0a80580209dba1b699c286301f66fb8a237d6a2f903b68d34a69c215fe45bd41",
+          "exact_text": "nizasyon Konseyi) kurucu veya daimi üyesi yetkili otoriteleri, Avusturalya Ulusal İlaç Otoritesi (TGA) veya İngiltere Ulusal İlaç Otoritesi (MHRA) tarafından ruhsatlandırmaya ilişkin yapılan önceki değerlendirmeler\nkapsamında hazırlanan değerlendirme raporlarının, ruhsat başvurularının Kurumda değerlendirilmesine yönelik iş ve işlemlere rehberlik etmesi açısından kullanılmasını kapsar.\nDayanak\nMADDE 3\n(1) Bu kılavuz, 11.12.2021 tarihli ve 31686 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğine dayanarak hazırlanmıştır.\nTanımlar\nMADDE 4\n(1) Bu kılavuzda geçen;\na) DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü: Başvuru sahiplerinin ön yeterlilik listesinde yer alan beşeri tıbbi ürünleri için talep etmesi ve Kurum tarafından uygun bulunması durumunda güven yoluyla ruhsatlandırmada uygulanan prosedürü,\nb) Güven: Belirli bir yetki alanı içinde yer alan Kurum tarafından, kendi kararını verirken başka bir düzenleyici otorite veya güvenilir bir kurum tarafından gerçekleştirilmiş olan değerlendirmeleri vb. güvenilir bilgileri göz önünde bulundurmasını veya bu gibi değerlendirmelere büyük ölçüde ağırlık vermesini,\nc) Kurum: Türkiye İlaç ve Tıbbi Cihaz Kurumunu,\nç) Referans düzenleyici otorite: Söz konusu beşeri tıbbi ürüne daha önce onay/ruhsat vermiş ve yaptığı değerlendirmelerin beşeri tıbbi ürünün ülkemizde ruhsatlandırılmasında rehberlik etmesi için ruhsat başvuru sahibi tarafından kullanıldığı güvenilir bir otoriteyi,\nd) Beşeri tıbbi ürünün aynılığı: Kalitatif ve kantitatif bileşim, yitilik, farmasötik şekil, kullanım amacı, saklama koşulları, üretim süreci, üretim yeri, etkin maddelerinin tedarikçileri, yardımcı maddelerin kalitesi gibi beşeri tıbbi ürüne özgü özelliklerin karşılaştırılan beşeri tıbbi ürünler için aynı olması ile güven duyan otoriteye (Türkiye İlaç ve Tıbbi Cihaz Kurumunu) ibraz edilen beşeri tıbbi ürün ile referans alınan düzenleyici otorite tarafından onaylanan beşeri tıbbi ürünün esasen aynı olması; güvenlilik, etkililik ve kalite, endikasyon ve kullanım koşullarına ilişkin destekleyici çalışma sonuçlarının aynı olması vb. yönünden beşeri tıbbi ürünlerin aynı olmasını,\ne) Yönetmelik: Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğini ifade eder.\nİKİNCİ BÖLÜM\nDeğerlendirme ve Ruhsat Başvuru Sahibi\nRuhsat başvurularının güven uygulamaları kapsamında değerlendirilmesi\nMADDE 5\n(1) Güven uygulamaları doğrultusunda alınmış kararlar için referans düzenleyici otoritelerin karar, değerlendirme ve bilgilerine güvenilmiş olsa dahi güven duyan Kurum bağımsız, sorumlu ve mesuldür.\n(2) Kurum; mevzuatlar, yarar-risk değerlendirmesi, karşılanmayan tıbbi ihtiyaçlar, risk yönetim planları ve beşeri tıbbi ürünlerin stabilite çalışmalarında farklı iklim kuşağı seçilmesi gibi kalite ile ilgili hususlarda referans düzenleyici otorite değerlendirmelerinden farklı değerlendirmeler sunabilir.\n(3) Kuruma sunulan ürün ile referans düzenleyici otorite tarafından onaylanan ürün esas olarak aynı olmalıdır.\n(4) Ruhsat başvuru sahibi gerekçelendirilmiş olası farklılıkların etkisi hakkında değerlendirmelerini Kuruma sunmalıdır ve Kurum; referans düzenleyici otorite değerlendirme ve kararlarını değerlendirmelerinde dikkate alır.\n(5) Beşeri tıbbi ürünün aynılığı konusunda şüphe olması durumunda, Kurum başvuru sahibinden ek bilgi talep edebilir veya referans düzenleyici otorite ile iletişime geçebilir.\n(6) Yönetmeliğin 38 inci maddesi doğrultusunda, ruhsatlandırılacak beşeri tıbbi ürünlerin güven kapsamında değerlendirmesine ilişkin uygunluk durumunun tespitine yönelik, başvuru sahibi tarafından Kuruma öncelik değerlendirme başvurusu yapılır. Öncelik Değerlendirme Kurulu (ÖDEK) kararı başvuru sahibine bildirilir.\n(7) ÖDEK tarafından uygun bulunan başvurular için başvuru sahibi tarafından Yönetmelik ve bu kılavuzun Ek-1’inde belirtilen gereklilikler doğrultusunda hazırlanmış başvuru dosyası Kuruma sunulur. Başvuruya ilişkin Yönetmeliğin 12 nci maddesinde belirtilen ön değerlendirme süreci yürütülür. DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedüründe değerlendirme süreci, DSÖ’nün Kuruma ilgili verilere erişim sağlamasını takiben başlar.\n(8) Ruhsatlandırma süreci başlayan beşeri tıbbi ürünlerin Kurumumuzca değerlendirme süreci 60 gün içerisinde tamamlanır. Başvuru sahibine eksiklik bildirilmesi durumunda bu süre durur. Kurum tarafından değerlendirmenin tamamlanmasını takip eden 30 gün içerisinde başvuru sahibine değerlendirme sonucu bildirilir.\n(9) DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü’nde DSÖ’ye de 30 gün içerisinde değerlendirme sonucu bildirilir.\nRuhsat başvuru sahibinin yükümlülükleri\nMADDE 6\n(1) DSÖ tarafından ön yeterlilik verilmiş veya referans düzenleyici otoriteler tarafından ruhsatlandırılmış dosyanın aynısının ruhsatlandırma/ön yeterlilik sonrası onaylı güncellemeleri de içerecek şekilde Kuruma sunulduğunu taahhüt etmek,\n(2) Kurum tarafından talep edilen her türlü bilgi ve belgeyi eksiksiz olarak sunmak,\n(3) Referans düzenleyici otoriteye ilişkin değerlendirme raporunu Kuruma sunmak,\n(4) Referans düzenleyici otorite veya DSÖ tarafından ön yeterlilik verilmiş beşeri tıbbi ürün için, bu otoritelerce birbiriyle çelişen kararlar bulunması durumunda, tüm ilgili otoritelere ilişkin değerlendirme raporunu veya geri çekme durumunda geri çekilmeye ilişkin yazışmaları Kuruma bildirmek,\n(5) Dördüncü fıkrada belirtilen durumlarda kararlardaki farklılıkları (ret, geri çekmeye neden olabilecek yazışmalar, endikasyon, dozlama, saklama koşulları, raf ömrüne ilişkin farklılıklar veya diğer kısıtlamalar) açık şekilde belirten üst yazı ile birlikte Kuruma sunmakla yükümlüdür.\nDÖRDÜNCÜ BÖLÜM\nÇeşitli ve Son Hükümler\nHükmü Bulunmayan Haller\nMADDE 7\n(1) Bu Kılavuzda belirtilmeyen hususlar için ilgili mevzuat hükümleri geçerlidir.\nYürürlük\nMADDE 8\n(1) Bu Kılavuz yayımı tarihinde yürürlüğe girer.\nYürütme\nMADDE 9\n(1) Bu Kılavuz hükümlerini Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı yürütür.\nEK 1\nSunulması Gereken Belgelere İlişkin Gereklilikler\nA. Referans düzenleyici otoriteye sunulan dokümanlar\n1. Kuruma ve referans düzenleyici otoriteye sunulan dokümanların karşılaştırılabilirliği:\na) Kuruma ve referans düzenleyici otoriteye, referans düzenleyici otorite tarafından ön yeterlilik verilen / ruhsatlandırılan beşeri tıbbi ürüne ilişkin sunulan belgeler aynı olmalıdır.\nb) Kuruma sunulacak tüm belgeler ve modüller CTD kılavuzuna uygun olarak hazırlanmalıdır. Modül 1 ve başvuru formu hem referans düzenleyici otoriteye sunulduğu şekilde hem de Kurumumuz gerekliliklerine göre düzenlenerek sunulmalıdır.\n2. Referans düzenleyici otorite kararı sonrasında yapılan değişiklik veya eklemeler:\na) Referans düzenleyici otorite tarafından ilk onay verildikten sonra yapılan her türlü değişiklik veya ekleme, Kuruma başvuru sırasında, ilgili güncel dokümanlar ile birlikte, başvuru dosyası veya ilgili modüle dahil edilerek veya ayrı olarak Kuruma bildirilmelidir.\nb) Değişikliklere ilişkin bilgi üst yazıda belirtilmeli ve söz konusu değişiklikleri detaylı şekilde içeren, mevcut ve önerilen duruma ilişkin karşılaştırmalı tablo sunulmalıdır.\n3. Etkin Madde Ana Dosyası (EMAD):\na) Söz konusu başvuruya ilişkin referans düzenleyici otoriteye sunulan EMAD için, erişim yazısı, kapalı kısma ilişkin değerlendirme raporu, soruların listesi ve EMAD sahibinin kapalı kısma ilişkin cevaplarını da içeren kapalı kısmın birebir kopyası EMAD sahibi tarafından sunulmalıdır.\nb) Eğer EMAD’da bir değişiklik söz konusuysa, onaylanan değişiklikler değerlendirme raporuyla birlikte ayrı olarak sunulmalıdır.\nc) Bu değişiklikler üst yazıda da belirtilmeli ve söz konusu değişiklikleri detaylı şekilde içeren, mevcut ve önerilen duruma ilişkin karşılaştırmalı tablo sunulmalıdır.\nB. Sunulan dokümanların geçerlilik veya güncellenme tarihi\n1. Dokümanın referans düzenleyici otorite tarafından ilk onaylanma tarihi veya en son güncellenme tarihi, Kuruma başvurunun yapıldığı tarihten en fazla 5 yıl önce olmalıdır.\nC. Referans düzenleyici otoriteye sunulan beşeri tıbbi üründen farklılıklar\n1. Kuruma başvurusu yapılan beşeri tıbbi ürün ile referans düzenleyici otorite tarafından onaylanan beşeri tıbbi ürün esas olarak birbirinin aynısı olmalıdır. Ancak aşağıda bildirilen hususlar kabul edilebilir farklardır:\nc) Sekonder ambalaj veya sekonder ambalajlama tesisi,\nd) Ambalaj boyutu (beşeri tıbbi ürünün kullanımını etkilemediği sürece),\ne) DSÖ veya referans düzenleyici otorite tarafından onaylanmış beşeri tıbbi ürünün ismi.\n2. Bitmiş ürün üretim yeri, iç ambalaj ve iç ambalajlama tesisine ilişkin değişiklikler bilimsel değerlendirmeye tabi olduğu için, güven kapsamında değerlendirilmez.\n3. Kuruma yapılan başvuru ile referans düzenleyici otoriteye sunulan arasında küçük farklılık varsa, referans düzenleyici otoriteye sunulan belgeler Kuruma sunulmalıdır. Farklılıklar üst yazıda belirtilmelidir.\nEK 2\nDSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü*\n1. Ruhsat başvuru sahipleri ön yeterlilik listesinde yer alan beşeri tıbbi ürünleri için DSÖ ile işbirliğine dayalı hızlı ruhsatlandırma prosedürü yoluyla ruhsat alma konusundaki isteklerini gönüllü olarak ÖDEK’e başvurarak ifade ederler.\n2. Ruhsat başvuru sahipleri, ilgili beşeri tıbbi ürünü/ürünleri için DSÖ’nün dosya değerlendirme ve denetim sonuçlarını Kurum ile paylaşma yetkisini DSÖ'ye verir.\n3. Beşeri tıbbi ürüne ait başvuru dosyasının teknik kısmı, ön yeterlilik sırasında DSÖ tarafından onaylanan verileri, DSÖ onaylı değişiklikleri ve varsa ön yeterlilik durumunun yenilenmesini (requalification) de yansıtacak şekilde güncellenmelidir.\n4. Ruhsat başvurusu sırasında, DSÖ ön yeterlilik onayında herhangi bir değişiklik olması veya değişiklik öngörülmesi halinde ruhsat başvuru sahibi Kurumu buna göre bilgilendirmelidir.\n5. DSÖ, ön yeterlilik için beşeri tıbbi ürünle ilgili değerlendirme ve denetim sonuçları ile ilgili olduğu durumlarda laboratuvar test sonuçlarını Kurum ile paylaşır. Bu bilgiler DSÖ tarafından gizlilik taahhütlerine ve üzerinde anlaşmaya varılan kullanım kısıtlamalarına tabi olarak güvenli bir internet tabanlı platform aracılığıyla Kurum ile paylaşılır.\n6. Kurum, başvurulan ilgili beşeri tıbbi ürün için işbirliğine dayalı prosedürü uygulamayı reddetme nedenlerini DSÖ'ye bildirerek reddedebilir. Benzer şekilde, Kurumun ön yeterlilik listesinde yer alan beşeri tıbbi ürüne ait ruhsat başvurusunu reddetmesi veya onaylanan ruhsatlandırma koşullarında farklılık olması durumunda, bu durumun gerekçeleri DSÖ’ye bildirilir.\n7. Kurum tarafından ruhsatlandırılan beşeri tıbbi ürün, DSÖ tarafından işbirliğine dayalı prosedür kapsamında ruhsatlandırılmış olan ön yeterlilik alan beşeri tıbbi ürünler listesine eklenir. Bu liste DSÖ’nün resmi internet sitesinde herkese açıktır. Daha sonra Kurum, ruhsatlandırdığı beşeri tıbbi ürün üzerinde yapılan değişiklikleri DSÖ'ye bildirir. Bu değişiklikler, DSÖ tarafından önceden onaylanmış beşeri tıbbi ürün ile Kurum tarafından ruhsatlandırılan beşeri tıbbi ürün arasındaki tutarlılığın sağlanması için DSÖ tarafından onaylanan değişiklikleri takip etmelidir. Ambalaj bilgileri veya ürün bilgilerindeki küçük değişikler gibi farklılıklar kabul edilebilir.\n8. Kurum tarafından DSÖ ile İşbirliğine Dayalı Hızlı Ruhsatlandırma Prosedürü ile ruhsatlandırdığı bir beşeri tıbbi ürünün ruhsatı a",
+          "start": 1740,
+          "end": 13000,
+          "exact_offset_validated": true,
+          "interpretation_language": "English assistant interpretation; original authoritative"
+        }
+      ],
+      "supplementary_versions_on_hand": []
+    }
   }
 }

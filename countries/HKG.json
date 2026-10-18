@@ -309,5 +309,831 @@
     "source_hashes": [
       "6566f8c760dd01e6b265348f71a606106d792fd0f76f1fc7f250a0401daf294f"
     ]
+  },
+  "standard_drug_legal_comparison": {
+    "iso3": "HKG",
+    "country": "China, Hong Kong Special Administrative Region",
+    "primary_comparison": true,
+    "sample": "89_selected_national_pathway_texts",
+    "pathway": "Abridged and verification NDA routes",
+    "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+    "document_id": "6fed979a2f1fbf66e408",
+    "genre": "Guideline",
+    "language": "en",
+    "scope": "Human-medicine initial marketing authorisation",
+    "version_note": "Hong Kong NDA guidance preserved 31 March 2026. Verification two-country and abridged 1+ mechanisms differ; new-drug primary evaluation expansion is not silently substituted for either.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "New chemical entities fall within NDA pathways, subject to route-specific restrictions.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "named_reference_agencies": {
+        "state": "explicit requirement",
+        "finding": "Listed-country authority evidence includes USA; EC centralised approval needs corresponding country/place evidence for verification.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "prior_approval_count": {
+        "state": "explicit requirement",
+        "finding": "Verification requires approvals in 2 listed countries/places;1+ abridged requires 1 plus special product/clinical conditions. Countries/places are not interchangeable with 2 agencies.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "FullCTD and product consistency/foreign label comparison required.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "report_completeness": {
+        "state": "discretionary/conditional",
+        "finding": "1+ requires complete unredacted assessment reports, but if unavailable explanatory redaction material/Q&A/supporting documents allowed. Verification has different documentary requirements.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "discretionary/conditional",
+        "finding": "1+ unredacted-report alternative expressly allows explanation/supporting material for redacted information.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "public_report_sufficiency": {
+        "state": "discretionary/conditional",
+        "finding": "Public-only sufficiency unresolved; full reports are not a universal verification requirement and 1+ has alternatives.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "MAH authorisation to act and contact declaration are not automatically applicant consent to disclose regulator-owned reports.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Contact-authorisation statement is not express reference authority permission to disclose its reports.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "1+ requires relevant local/Chinese/Asian data and specified health-priority eligibility; those are not fixed by nonorphan/nonemergency facts.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "GMP evidence, manufacturing licence and quality dossier retained.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Local expert safety/efficacy assessment for abridged route and local evaluation retained.",
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "evidence_ids": []
+      }
+    },
+    "cases": {
+      "A": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "B": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "C": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "D": {
+        "eligibility": "condition established but full eligibility unresolved",
+        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ],
+        "status": "condition established but full eligibility unresolved"
+      },
+      "E": {
+        "eligibility": "verification threshold fails; abridged eligibility unresolved",
+        "finding": "FDA-only gives one country below verification threshold;1+ alternative still requires special-category qualification and relevant clinical data, not fixed here.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "Other source-incorporated and administrative conditions; absence is not waiver."
+        ],
+        "evidence_ids": [
+          "HKG-Q01",
+          "HKG-Q02",
+          "HKG-CONTEXT-1",
+          "HKG-CONTEXT-2",
+          "HKG-CTX-1"
+        ],
+        "status": "verification threshold fails; abridged eligibility unresolved"
+      }
+    },
+    "pairwise_gates": {
+      "interpretation": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      }
+    },
+    "shared_authorization_effect": {
+      "status": "unresolved in selected source",
+      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+    },
+    "evidence": [
+      {
+        "clause_id": "HKG-Q01",
+        "iso3": "HKG",
+        "event_id": null,
+        "document_id": "6fed979a2f1fbf66e408",
+        "source_id": "88cb4dd2be4e8a16",
+        "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+        "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+        "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+        "start_offset": 14272,
+        "end_offset": 17542,
+        "pdf_page": 8,
+        "section_article": "7/Table 2",
+        "verbatim_extracted_text": "Table 2. Evaluation routes for initial registration of pharmaceutical products \nEvaluation route  Eligibility criteria  \nPrimary \nevaluation \nThe product has not been approved in any of the countries/places listed below.6 \nAbridged \nevaluation \n(i) There is a local unmet medical need of the product for public health \nemergency 7 , communicable diseases or matters of public health \nimportance in the areas of tuberculosis, emerging and/or re-emerging \ninfectious diseases (e.g. avian influenza, chicken pox, Ebola, COVID-19, \netc.) and antimicrobial resistance; AND the product is promulgated by \nreputable international health agencies on human or veterinary medicines, \nincluding the World Health Organization (WHO), World Organisation for \nAnimal Health, etc.;  \nOR \n(ii) The product is approved with orphan drug designation, breakthrough \ntherapy designation, priority review designation, or equivalent8, and is \ncurrently on the market in any of the listed countries/places: Australia, \nAustria, Belgium, Brazil, Bulgaria, Canada, Chinese Mainland, Cyprus, \nCzech Republic, Denmark, Estonia, Finland, France, Germany, Greece, \nHungary, Ireland, Italy, Japan, Republic of Korea, Latvia, Lithuania, \nLuxembourg, Malta, the Netherlands, Poland, Portugal, Romania, \nSingapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, the \nUnited Kingdom and the United States (U.S.); AND \nthere are local clinical data (e.g. clinical studies, case reports, case series, \nreal-world data, etc.) OR clinical data generated from Chinese and/or \n \n6The primary evaluation route only applies to NDA-2 or NDA-3 of chemical entities during the phase 1 of the primary evaluation. Please \nrefer to the phasic implementation of primary evaluation in <The Hong Kong Centre for Medical Products Regulation - Towards Primary \nEvaluation>.  \n7 Public health emergency refers to the occasion as specified in section 8(5) of the Prevention and Control of disease Ordinance (“Cap. \n599”). \n8 Including products indicated for treatment of any disease, with evidence demonstrating prominent clinical benefits, e.g. showing \nsignificant therapeutic effects and/or making improvements in patients’ quality of life. \n\nPAGE 9\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 9 \n \n \nEvaluation route  Eligibility criteria  \nAsian populations9 related to the proposed indication(s) and posology of \nthe product (i.e. the “1+” Mechanism).   \nVerification  \nThe product is approved in two or more of the above listed countries/places10. \n \n9 Clinical data in Chinese and/or Asian patient population(s) representative of the local patient population(s) in Hong Kong should be \ngathered from clinical studies, in which the drug has been shown in accordance with ICH E5 “Ethnic factors in the acceptability of \nforeign clinical data” to be ethnically insensitive and extrinsic factors (such as medical practice and conduct of clinical trials) in these \nregion(s) are generally similar to those in Hong Kong. \n10 For an advanced therapy product, approvals from the European Union countries must be issued from European Medicines Agency \n(“EMA”).  \n\nPAGE 10\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 10",
+        "display_text": "Table 2. Evaluation routes for initial registration of pharmaceutical products Evaluation route Eligibility criteria Primary evaluation The product has not been approved in any of the countries/places listed below.6 Abridged evaluation (i) There is a local unmet medical need of the product for public health emergency 7 , communicable diseases or matters of public health importance in the areas of tuberculosis, emerging and/or re-emerging infectious diseases (e.g. avian influenza, chicken pox, Ebola, COVID-19, etc.) and antimicrobial resistance; AND the product is promulgated by reputable international health agencies on human or veterinary medicines, including the World Health Organization (WHO), World Organisation for Animal Health, etc.; OR (ii) The product is approved with orphan drug designation, breakthrough therapy designation, priority review designation, or equivalent8, and is currently on the market in any of the listed countries/places: Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chinese Mainland, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Japan, Republic of Korea, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, the United Kingdom and the United States (U.S.); AND there are local clinical data (e.g. clinical studies, case reports, case series, real-world data, etc.) OR clinical data generated from Chinese and/or 6The primary evaluation route only applies to NDA-2 or NDA-3 of chemical entities during the phase 1 of the primary evaluation. Please refer to the phasic implementation of primary evaluation in <The Hong Kong Centre for Medical Products Regulation - Towards Primary Evaluation>. 7 Public health emergency refers to the occasion as specified in section 8(5) of the Prevention and Control of disease Ordinance (“Cap. 599”). 8 Including products indicated for treatment of any disease, with evidence demonstrating prominent clinical benefits, e.g. showing significant therapeutic effects and/or making improvements in patients’ quality of life. PAGE 9 Guidance Notes on Registration of Pharmaceutical Products: New Drug Applications Page 9 Evaluation route Eligibility criteria Asian populations9 related to the proposed indication(s) and posology of the product (i.e. the “1+” Mechanism). Verification The product is approved in two or more of the above listed countries/places10. 9 Clinical data in Chinese and/or Asian patient population(s) representative of the local patient population(s) in Hong Kong should be gathered from clinical studies, in which the drug has been shown in accordance with ICH E5 “Ethnic factors in the acceptability of foreign clinical data” to be ethnically insensitive and extrinsic factors (such as medical practice and conduct of clinical trials) in these region(s) are generally similar to those in Hong Kong. 10 For an advanced therapy product, approvals from the European Union countries must be issued from European Medicines Agency (“EMA”). PAGE 10 Guidance Notes on Registration of Pharmaceutical Products: New Drug Applications Page 10",
+        "feature_tags": [
+          "two_approvals",
+          "local_evidence",
+          "scope_limit",
+          "foreign_marketing"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording",
+        "evidence_tier": "national_rule",
+        "product_scope": "Human-medicine initial marketing authorisation",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "HKG-Q02",
+        "iso3": "HKG",
+        "event_id": null,
+        "document_id": "6fed979a2f1fbf66e408",
+        "source_id": "88cb4dd2be4e8a16",
+        "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+        "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+        "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+        "start_offset": 20998,
+        "end_offset": 24984,
+        "pdf_page": 12,
+        "section_article": "9.1.2–9.1.9",
+        "verbatim_extracted_text": "9.1.2. A letter of authorization* signed by the authorized representative of the marketing \nauthorization holder (or manufacturer, if applicable), who is also the owner of the \nproduct and its application dossier, and stamped with company chop (if applicable), \nto authorize the applicant to apply for registration and be the holder of Certificate of \nDrug/Product Registration in Hong Kong for their product; the official email address \nof marketing authorization holder (or the manufacturer) should be provided for \nverification of authenticity;  \n9.1.3. A letter of authorization signed by the applicant (sole-proprietor, managing partner, or \ndirector) and stamped with the applicant’s company chop (if applicable), to authorize \na person or a company to be the regulatory contact point for this application; \n9.1.4. A letter of undertaking, signed by the applicant, agreeing to provide, at any stage of \nregistration, any information and / or documents relating to the product upon request \nwithin the prescribed timeframe. The contact details for both the regulatory and \npharmacovigilance contact points should be stated; \n9.1.5. A cover letter that includes, a description of the CTD, justifications if any of the \nrequired modules are not included in the CTD, and whether the application relates to \nother registered product(s) or product(s) under application(s), with similarities and \ndifferences highlighted; \n9.1.6. A declaration letter, signed by marketing authorization holder, to confirm that the \nproduct name(s), if different, mentioned in the application dossier are identical in all \naspects of quality, safety and efficacy, except for the product name; \n9.1.7. Official evidence of registration approval 13  of the product (e.g. Certificate of a \nPharmaceutical Product)* in−  \n \n12 Some of the subsections in CTD modules 2 to 5 should be uploaded in module 1 on PRS for administrative purposes.  \n13 At least one of the Certificates of a Pharmaceutical Product should indicate that the product is currently on the market within the \njurisdiction of the certifying authority. \n\nPAGE 13\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 13 \n \n \n two or more of the countries / places listed in Table 2 for NDAs via the verification \nroute; or \n any of the countries / places listed in Table 2 for NDAs via the abridged evaluation \nroute; \n9.1.8. A summary of the worldwide marketing approval status of the product, including the \ntrade name(s), date(s) of first approval, type(s) of approval and designation(s) granted \nby the drug regulatory authority(ies), approved indication(s), post-approval \ncondition(s) and / or post-market requirement(s)/commitments, legal classification(s), \nand the marketing status of the product in the country(ies) / places. If the marketing \nauthorisations or applications of the product have been refused, suspended, revoked, \nwithdrawn, approved via appeal process, or pending deferral in any countries / places, \nthe assessments issued by the drug regulatory authority(ies) and the relevant \ncorrespondence should be provided; \n9.1.9. The name, address, and responsibility of each manufacturer (including any outsourced \nmanufacturer under contract), and each proposed production site or facility involved \nin manufacturing of the dose form, packaging, testing, batch release, and other \nproduction activities (if applicable) of the drug product (Module 3.2.P.3.1); \n In general, only one manufacturer will be allowed for each manufacturing step, \nexcept for quality control including stability testing. For products with more than \none manufacturer involved in the same production step (i.e. alternative \nmanufacturing pathway), a separate application is required for each pathway; \n For biological products, please refer to the “Supplementary Notes for Application \nfor Registration of Biological Products Involving Alternative / Back Up \nManufacturer(s) for Manufacturing Steps”;",
+        "display_text": "9.1.2. A letter of authorization* signed by the authorized representative of the marketing authorization holder (or manufacturer, if applicable), who is also the owner of the product and its application dossier, and stamped with company chop (if applicable), to authorize the applicant to apply for registration and be the holder of Certificate of Drug/Product Registration in Hong Kong for their product; the official email address of marketing authorization holder (or the manufacturer) should be provided for verification of authenticity; 9.1.3. A letter of authorization signed by the applicant (sole-proprietor, managing partner, or director) and stamped with the applicant’s company chop (if applicable), to authorize a person or a company to be the regulatory contact point for this application; 9.1.4. A letter of undertaking, signed by the applicant, agreeing to provide, at any stage of registration, any information and / or documents relating to the product upon request within the prescribed timeframe. The contact details for both the regulatory and pharmacovigilance contact points should be stated; 9.1.5. A cover letter that includes, a description of the CTD, justifications if any of the required modules are not included in the CTD, and whether the application relates to other registered product(s) or product(s) under application(s), with similarities and differences highlighted; 9.1.6. A declaration letter, signed by marketing authorization holder, to confirm that the product name(s), if different, mentioned in the application dossier are identical in all aspects of quality, safety and efficacy, except for the product name; 9.1.7. Official evidence of registration approval 13 of the product (e.g. Certificate of a Pharmaceutical Product)* in− 12 Some of the subsections in CTD modules 2 to 5 should be uploaded in module 1 on PRS for administrative purposes. 13 At least one of the Certificates of a Pharmaceutical Product should indicate that the product is currently on the market within the jurisdiction of the certifying authority. PAGE 13 Guidance Notes on Registration of Pharmaceutical Products: New Drug Applications Page 13  two or more of the countries / places listed in Table 2 for NDAs via the verification route; or  any of the countries / places listed in Table 2 for NDAs via the abridged evaluation route; 9.1.8. A summary of the worldwide marketing approval status of the product, including the trade name(s), date(s) of first approval, type(s) of approval and designation(s) granted by the drug regulatory authority(ies), approved indication(s), post-approval condition(s) and / or post-market requirement(s)/commitments, legal classification(s), and the marketing status of the product in the country(ies) / places. If the marketing authorisations or applications of the product have been refused, suspended, revoked, withdrawn, approved via appeal process, or pending deferral in any countries / places, the assessments issued by the drug regulatory authority(ies) and the relevant correspondence should be provided; 9.1.9. The name, address, and responsibility of each manufacturer (including any outsourced manufacturer under contract), and each proposed production site or facility involved in manufacturing of the dose form, packaging, testing, batch release, and other production activities (if applicable) of the drug product (Module 3.2.P.3.1);  In general, only one manufacturer will be allowed for each manufacturing step, except for quality control including stability testing. For products with more than one manufacturer involved in the same production step (i.e. alternative manufacturing pathway), a separate application is required for each pathway;  For biological products, please refer to the “Supplementary Notes for Application for Registration of Biological Products Involving Alternative / Back Up Manufacturer(s) for Manufacturing Steps”;",
+        "feature_tags": [
+          "applicant_consent",
+          "sameness",
+          "foreign_marketing",
+          "two_approvals",
+          "adverse_foreign_history"
+        ],
+        "role": "Permission and qualifying conditions",
+        "language": "en",
+        "language_status": "Official English source",
+        "quote_method": "Exact substring of preserved extracted text",
+        "ocr_in_passage": false,
+        "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+        "research_interpretation": "",
+        "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording",
+        "evidence_tier": "national_rule",
+        "product_scope": "Human-medicine initial marketing authorisation",
+        "translation_review": null,
+        "selected_primary_document": true
+      },
+      {
+        "clause_id": "HKG-CONTEXT-1",
+        "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+        "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+        "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+        "start_offset": 13522,
+        "end_offset": 18542,
+        "verbatim_extracted_text": "would consider whether an application for initial registration of a \npharmaceutical product is subject to the requirements specified on a case-by-case basis. \n \n4 Or products which have been registered as containing new chemical or biological entities before 31 March 2026.  \n5 Regarding non-injectable products which differ only in package sizes, please refer to “Guidance Notes on Change of Registered \nParticulars of Registered Pharmaceutical Products/Substances” for the addition of package sizes. \n\nPAGE 8\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 8 \n \n \n7. Evaluation routes  \n7.1. NDAs for initial registration can be submitted via one of the three evaluation routes as shown \nin Table 2. \nTable 2. Evaluation routes for initial registration of pharmaceutical products \nEvaluation route  Eligibility criteria  \nPrimary \nevaluation \nThe product has not been approved in any of the countries/places listed below.6 \nAbridged \nevaluation \n(i) There is a local unmet medical need of the product for public health \nemergency 7 , communicable diseases or matters of public health \nimportance in the areas of tuberculosis, emerging and/or re-emerging \ninfectious diseases (e.g. avian influenza, chicken pox, Ebola, COVID-19, \netc.) and antimicrobial resistance; AND the product is promulgated by \nreputable international health agencies on human or veterinary medicines, \nincluding the World Health Organization (WHO), World Organisation for \nAnimal Health, etc.;  \nOR \n(ii) The product is approved with orphan drug designation, breakthrough \ntherapy designation, priority review designation, or equivalent8, and is \ncurrently on the market in any of the listed countries/places: Australia, \nAustria, Belgium, Brazil, Bulgaria, Canada, Chinese Mainland, Cyprus, \nCzech Republic, Denmark, Estonia, Finland, France, Germany, Greece, \nHungary, Ireland, Italy, Japan, Republic of Korea, Latvia, Lithuania, \nLuxembourg, Malta, the Netherlands, Poland, Portugal, Romania, \nSingapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, the \nUnited Kingdom and the United States (U.S.); AND \nthere are local clinical data (e.g. clinical studies, case reports, case series, \nreal-world data, etc.) OR clinical data generated from Chinese and/or \n \n6The primary evaluation route only applies to NDA-2 or NDA-3 of chemical entities during the phase 1 of the primary evaluation. Please \nrefer to the phasic implementation of primary evaluation in <The Hong Kong Centre for Medical Products Regulation - Towards Primary \nEvaluation>.  \n7 Public health emergency refers to the occasion as specified in section 8(5) of the Prevention and Control of disease Ordinance (“Cap. \n599”). \n8 Including products indicated for treatment of any disease, with evidence demonstrating prominent clinical benefits, e.g. showing \nsignificant therapeutic effects and/or making improvements in patients’ quality of life. \n\nPAGE 9\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 9 \n \n \nEvaluation route  Eligibility criteria  \nAsian populations9 related to the proposed indication(s) and posology of \nthe product (i.e. the “1+” Mechanism).   \nVerification  \nThe product is approved in two or more of the above listed countries/places10. \n \n9 Clinical data in Chinese and/or Asian patient population(s) representative of the local patient population(s) in Hong Kong should be \ngathered from clinical studies, in which the drug has been shown in accordance with ICH E5 “Ethnic factors in the acceptability of \nforeign clinical data” to be ethnically insensitive and extrinsic factors (such as medical practice and conduct of clinical trials) in these \nregion(s) are generally similar to those in Hong Kong. \n10 For an advanced therapy product, approvals from the European Union countries must be issued from European Medicines Agency \n(“EMA”).  \n\nPAGE 10\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 10 \n \n \n8. General requirements for submission of NDAs  \n8.1. The application dossier should be organised in the Common Technical Document (“CTD”) \nformat promulgated by the International Council for Harmonisation of Technical \nRequirements for Pharmaceuticals for Human Use (“ICH”). These organisation and format are \ndescribed in ICH M4(R4), M4Q(R1), M4S(R2), and M4E(R2). The dossier should be \ncomplete and up-to-date. To ensure traceability, it is recommended to assign unique document \nand version numbers to each document.  \n8.2. CTD modules 2 to 5, where applicable (refer to sections 10 to 12 for evaluation route-specific \nrequirements), should be submitted in ONE DVD or blu-ray disc. Modules should be \norganised in folders and subfolders according to the chronology and titles specified in ICH \nM4(R4). To facilitate navigation through the dossier, bookmarks, a table of content (if \nappropriate), and reference hyperlinks to other documents should be included.11  \n8.3. Other requirements",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording"
+      },
+      {
+        "clause_id": "HKG-CONTEXT-2",
+        "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+        "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+        "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+        "start_offset": 20248,
+        "end_offset": 25984,
+        "verbatim_extracted_text": " 50mg”; \n products presented in different dose forms, e.g. injection, tablet and capsule; \n products with more than one presentation for the same pack size, unless otherwise justified; \n injectable products with different container volumes, e.g. “ABC Solution for Injection \n10mg/5ml” and “ABC Solution for Injection 20mg/10ml”. \n \n\nPAGE 12\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 12 \n \n \n9. Document requirements applicable to NDAs to be submitted via any evaluation route  \n9.1. The following documents and information, including selected sections from the CTD modules \nshould be electronically submitted via the PRS 2.0.12  \n9.1.1. The business registration certificate of the applicant; \n9.1.2. A letter of authorization* signed by the authorized representative of the marketing \nauthorization holder (or manufacturer, if applicable), who is also the owner of the \nproduct and its application dossier, and stamped with company chop (if applicable), \nto authorize the applicant to apply for registration and be the holder of Certificate of \nDrug/Product Registration in Hong Kong for their product; the official email address \nof marketing authorization holder (or the manufacturer) should be provided for \nverification of authenticity;  \n9.1.3. A letter of authorization signed by the applicant (sole-proprietor, managing partner, or \ndirector) and stamped with the applicant’s company chop (if applicable), to authorize \na person or a company to be the regulatory contact point for this application; \n9.1.4. A letter of undertaking, signed by the applicant, agreeing to provide, at any stage of \nregistration, any information and / or documents relating to the product upon request \nwithin the prescribed timeframe. The contact details for both the regulatory and \npharmacovigilance contact points should be stated; \n9.1.5. A cover letter that includes, a description of the CTD, justifications if any of the \nrequired modules are not included in the CTD, and whether the application relates to \nother registered product(s) or product(s) under application(s), with similarities and \ndifferences highlighted; \n9.1.6. A declaration letter, signed by marketing authorization holder, to confirm that the \nproduct name(s), if different, mentioned in the application dossier are identical in all \naspects of quality, safety and efficacy, except for the product name; \n9.1.7. Official evidence of registration approval 13  of the product (e.g. Certificate of a \nPharmaceutical Product)* in−  \n \n12 Some of the subsections in CTD modules 2 to 5 should be uploaded in module 1 on PRS for administrative purposes.  \n13 At least one of the Certificates of a Pharmaceutical Product should indicate that the product is currently on the market within the \njurisdiction of the certifying authority. \n\nPAGE 13\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 13 \n \n \n two or more of the countries / places listed in Table 2 for NDAs via the verification \nroute; or \n any of the countries / places listed in Table 2 for NDAs via the abridged evaluation \nroute; \n9.1.8. A summary of the worldwide marketing approval status of the product, including the \ntrade name(s), date(s) of first approval, type(s) of approval and designation(s) granted \nby the drug regulatory authority(ies), approved indication(s), post-approval \ncondition(s) and / or post-market requirement(s)/commitments, legal classification(s), \nand the marketing status of the product in the country(ies) / places. If the marketing \nauthorisations or applications of the product have been refused, suspended, revoked, \nwithdrawn, approved via appeal process, or pending deferral in any countries / places, \nthe assessments issued by the drug regulatory authority(ies) and the relevant \ncorrespondence should be provided; \n9.1.9. The name, address, and responsibility of each manufacturer (including any outsourced \nmanufacturer under contract), and each proposed production site or facility involved \nin manufacturing of the dose form, packaging, testing, batch release, and other \nproduction activities (if applicable) of the drug product (Module 3.2.P.3.1); \n In general, only one manufacturer will be allowed for each manufacturing step, \nexcept for quality control including stability testing. For products with more than \none manufacturer involved in the same production step (i.e. alternative \nmanufacturing pathway), a separate application is required for each pathway; \n For biological products, please refer to the “Supplementary Notes for Application \nfor Registration of Biological Products Involving Alternative / Back Up \nManufacturer(s) for Manufacturing Steps”; \n9.1.10. Good Manufacturing Practices (“GMP”) certificate(s)* of the manufacturer(s) of the \nproduct, with evidence of compliance to the Pharmaceutical Inspection Co-operation \nScheme (“PIC/S”) GMP standards. The inspection scope of the GMP certificate should \ncover the product categories and operations relevant to the product. Please refer to the \n<Questions and Answers on PIC/S GMP Requirements for Registration of Imported \nPharmaceutical Products>; \n\nPAGE 14\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 14 \n \n \n9.1.11. The manufacturer(s)’ licence(s)* issued by the drug regulatory authority where the \nmanufacturer(s) is located, if the GMP certificate(s) is not issued by that authority;  \n9.1.12. One set of prototype sales pack (e.g. outer carton, container label, and other \ncomponent(s) comprising the sales pack) for each of the pack sizes of the product \nunder application. All prototypes must be clear and legible in printed format.",
+        "section_article": "Context surrounding selected primary clauses; exact headings retained",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording"
+      },
+      {
+        "clause_id": "HKG-CTX-1",
+        "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+        "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+        "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+        "start_offset": 30000,
+        "end_offset": 38600,
+        "verbatim_extracted_text": "lemental impurities in accordance with ICH Q3D(R2); \n9.1.28. Container closure system of drug product (Module 3.2.P.7); \n9.1.29. Stability test data of drug substance and drug product (Modules 3.2.S.7 and 3.2.P.8), and \nin-use stability data (if applicable), in accordance with ICH Q1A(R2), Q1B, Q1C, \nQ1D, and Q1E;   \n\nPAGE 16\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 16 \n \n \n9.1.30. Information on the materials of animal and human origin (e.g. biological fluids, tissues, \norgans, cell lines) used in the production, including a description of the source and \nstarting material and raw materials of biological origin used in the manufacture of the \ndrug substance (Module 3.2.S.2.3), information regarding the excipients of human or \nanimal origin (Module 3.2.P.4.5), and adventitious agents safety evaluation (Module \n3.2.A.2). Information should include the source of the animals, the nature of the animal \ntissues used in the production processes, and should show compliance with one or \nmore of the safety measures taken to minimize the risk of potential contamination with \nadventitious agents, including but not limited to Transmissible Spongiform \nEncephalopathy;  \n9.1.31. Site master file(s), or equivalent, of the manufacturer(s) outside Hong Kong, providing \ndetailed information regarding their production and quality control facilities and \ntechnical personnel, etc; and  \n9.1.32. Plasma master file (“PMF”) for the product derived from human blood or plasma, or \nif such materials are used in the manufacturing process (e.g. culture media). The PMF \nshould include information on the collection and control of the source materials. A \nPMF Certificate issued by the EMA, or equivalent document issued by regulatory \nauthority, for each of the source materials derived from human blood or plasma should \nbe provided (if applicable). \n9.2. The originals15 or certified true copies of the documents marked with “*” (9.1.2, 9.1.7, 9.1.10 \nand 9.1.11), together with a cover letter specifying the application number(s) should be \nsubmitted to: \n \nDrug Evaluation and Pharmacovigilance Division,  \nDrug Office, Department of Health, \nSuites 2002-05, 20/F, AIA Kowloon Tower,  \nLandmark East, 100 How Ming Street,  \nKwun Tong, Kowloon, Hong Kong  \n(enquiries: 3974 4175).  \n \nIf it is necessary to submit the certified true copies of the documents, the electronic \n \n15 An electronic copy of the certificate may be sufficient if it is issued electronically with a valid and verifiable electronic signature by \nan authorized person of the issuing regulatory authority, and its authenticity could be verified on the designated official website. \n\nPAGE 17\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 17 \n \n \ndocuments uploaded to the PRS 2.0 should include those pages related to certification. A \ncertified true copy certifies that the photocopy presented is a true and accurate copy of the \noriginal document. Documents can be certified by a Hong Kong solicitor, a notary public, \nthe original issuing authority of the document, or an Embassy / Consulate.  \n9.3. If there is any doubt that any of the submitted scanned documents is not an accurate \nreflection of the original document, the applicant may also be requested to submit the \noriginal or certified true copy of the scanned document. \n \n\nPAGE 18\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 18 \n \n \n10. Additional requirements for NDAs via the verification route  \n10.1. Applicants are also required to provide the following documents for NDAs via the \nverification route:  \n10.1.1. For NDAs of chemical and biological entities, CTD Modules 2, 3 and 5 (and Module \n4 may also be required if appropriate);  \n10.1.2. A comparison of the therapeutic indications, dosage, warnings / precautions, \ncontraindications, and adverse effects in the package inserts authorized in other \ncountries/places, with justifications for any differences; and \n10.1.3. Package insert(s) of the product currently approved by the drug regulatory authority \nof at least one of the countries / places listed in Table 2, to substantiate the content \nof proposed package insert.16 \n11. Additional requirements for NDAs via the abridged evaluation route \n11.1. Applicants are also required to provide the following documents for NDAs via the abridged \nevaluation route: \n11.1.1. A cover letter indicating the intention to submit an NDA via the abridged evaluation \nroute, with documentary evidence showing that the product fulfils the criteria stated \nin Table 2;   \n11.1.2. An assessment report on safety and efficacy of the product to be prepared by a local \nexpert with fellowship or equivalent qualification and he/she has at least 5 years of \nexperience in the field relevant to the product;    \n11.1.3. A comparison of the therapeutic indications, dosage, warnings / precautions, \ncontraindications, and adverse effects in the package inserts authorized in other \ncountries/places, with justifications for any differences; and \n11.1.4. Package insert(s) of the product currently approved by the drug regulatory authority \nof at least one of the countries / places listed in Table 2, to substantiate the content \nof proposed package insert. \n \n16 If the reference document is not in English or Chinese, a certified translation provided by a professional translator is required. Cross-\nreferencing to documents should be made by referring to the page number of the reference documents and the relevant parts of the \nreference documents should be highlighted clearly. \n\nPAGE 19\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 19 \n \n \n11.2. For NDAs under the “1+” Mechanism, the following documents are also required: \n11.2.1. The assessment report by the local expert (paragraph 11.1.2) should also include an \nevaluation on the clinical data of the product as required in Table 2, a review of the \nglobal and local epidemiology of the disease(s), international and local treatment \nparadigms of the disease(s), and safety and efficacy of the product; \n11.2.2. An assessment report(s) 17 , post-authorization requirement(s), and licensing \ncondition(s) issued and imposed by the drug regulatory authority(ies) which granted \nthe approval of the product in the countries/places listed in Table 2; and  \n11.2.3. A post-registration development plan (e.g. global regulatory planning of the product, \nplanned and ongoing efficacy and safety studies, local clinical studies, real-world \nevidence studies). \n11.3. An application which does not fulfil the eligibility criteria for the abridged evaluation route \n(Table 2) may be refused for filing during screening. However, the refusal does not preclude \nsubmission of an NDA via the verification route. \n \n \n17 Assessment reports issued by the drug regulatory authorities that granted the approval (and if any, designation) should be complete \nand unredacted. The report should be translated to English or Chinese, if applicable. In case an unredacted assessment report is not \navailable, clarifications on the redacted information and other supporting documents relevant to the product’s safety, efficacy or quality \nshould be provided, which may include, but not limited to, the assessment or correspondence on questions and answers between the \napplicant in the reference country and the concerned authority during the authority’s evaluation and/or at the meetings. \n\nPAGE 20\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 20 \n \n \n12. Additional requirements for NDAs via the primary evaluation route  \n12.1. Prior to submission of an NDA via the primary evaluation route, the applicant must request \nfor a pre-NDA meeting.  \n12.2. The requirements of CTD Modules 2 to 5 for NDAs of chemical entities via the primary \nevaluation route are set out in <Guidance Notes on Registration of Pharmaceutical Products: \nSpecific Requirements for New Drug Applications of Chemical Entities via the Primary \nEvaluation Route>. An application with an incomplete CTD may be refused for filing during \nscreening stage. However, the refusal does not preclude an NDA under the abridged \nevaluation or verification routes. \n12.3. Applicant may be requested to submit samples of drug product.  \n13. Pharmaceutical products for veterinary use  \n13.1. Guidelines promulgated by International Cooperation on Harmonisation of Technical \nRequirements for Registration of Veterinary",
+        "section_article": "Contextual statutory/guideline extension; headings retained in text",
+        "language": "en",
+        "quote_method": "Exact substring of preserved decoded text",
+        "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording"
+      }
+    ],
+    "review_details": {
+      "iso3": "HKG",
+      "country": "China, Hong Kong Special Administrative Region",
+      "selected_document_id": "6fed979a2f1fbf66e408",
+      "source_id": "88cb4dd2be4e8a16",
+      "pathway": "Abridged and verification NDA routes",
+      "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+      "document_title": "",
+      "source_type": "Guideline",
+      "scope": "Human-medicine initial marketing authorisation",
+      "language": "en",
+      "translation_provenance": "Official English source",
+      "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+      "raw_hash_validated": true,
+      "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+      "version_dates": {},
+      "version_scope_note": "Hong Kong NDA guidance preserved 31 March 2026. Verification two-country and abridged 1+ mechanisms differ; new-drug primary evaluation expansion is not silently substituted for either.",
+      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
+      "reviewed_ranges": [
+        [
+          13522,
+          18542
+        ],
+        [
+          20248,
+          25984
+        ],
+        [
+          30000,
+          38600
+        ]
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New chemical entities fall within NDA pathways, subject to route-specific restrictions.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Listed-country authority evidence includes USA; EC centralised approval needs corresponding country/place evidence for verification.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Verification requires approvals in 2 listed countries/places;1+ abridged requires 1 plus special product/clinical conditions. Countries/places are not interchangeable with 2 agencies.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "FullCTD and product consistency/foreign label comparison required.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "1+ requires complete unredacted assessment reports, but if unavailable explanatory redaction material/Q&A/supporting documents allowed. Verification has different documentary requirements.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "discretionary/conditional",
+          "finding": "1+ unredacted-report alternative expressly allows explanation/supporting material for redacted information.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "public_report_sufficiency": {
+          "state": "discretionary/conditional",
+          "finding": "Public-only sufficiency unresolved; full reports are not a universal verification requirement and 1+ has alternatives.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "MAH authorisation to act and contact declaration are not automatically applicant consent to disclose regulator-owned reports.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Contact-authorisation statement is not express reference authority permission to disclose its reports.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "1+ requires relevant local/Chinese/Asian data and specified health-priority eligibility; those are not fixed by nonorphan/nonemergency facts.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "GMP evidence, manufacturing licence and quality dossier retained.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Local expert safety/efficacy assessment for abridged route and local evaluation retained.",
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "B": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "C": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "D": {
+          "eligibility": "condition established but full eligibility unresolved",
+          "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        },
+        "E": {
+          "eligibility": "verification threshold fails; abridged eligibility unresolved",
+          "finding": "FDA-only gives one country below verification threshold;1+ alternative still requires special-category qualification and relevant clinical data, not fixed here.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "Other source-incorporated and administrative conditions; absence is not waiver."
+          ],
+          "evidence_ids": [
+            "HKG-Q01",
+            "HKG-Q02",
+            "HKG-CONTEXT-1",
+            "HKG-CONTEXT-2",
+            "HKG-CTX-1"
+          ]
+        }
+      },
+      "shared_authorization_effect": {
+        "status": "unresolved in selected source",
+        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
+      },
+      "paired_comparisons": {
+        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      },
+      "evidence": [
+        {
+          "clause_id": "HKG-Q01",
+          "iso3": "HKG",
+          "event_id": null,
+          "document_id": "6fed979a2f1fbf66e408",
+          "source_id": "88cb4dd2be4e8a16",
+          "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+          "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+          "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+          "start_offset": 14272,
+          "end_offset": 17542,
+          "pdf_page": 8,
+          "section_article": "7/Table 2",
+          "verbatim_extracted_text": "Table 2. Evaluation routes for initial registration of pharmaceutical products \nEvaluation route  Eligibility criteria  \nPrimary \nevaluation \nThe product has not been approved in any of the countries/places listed below.6 \nAbridged \nevaluation \n(i) There is a local unmet medical need of the product for public health \nemergency 7 , communicable diseases or matters of public health \nimportance in the areas of tuberculosis, emerging and/or re-emerging \ninfectious diseases (e.g. avian influenza, chicken pox, Ebola, COVID-19, \netc.) and antimicrobial resistance; AND the product is promulgated by \nreputable international health agencies on human or veterinary medicines, \nincluding the World Health Organization (WHO), World Organisation for \nAnimal Health, etc.;  \nOR \n(ii) The product is approved with orphan drug designation, breakthrough \ntherapy designation, priority review designation, or equivalent8, and is \ncurrently on the market in any of the listed countries/places: Australia, \nAustria, Belgium, Brazil, Bulgaria, Canada, Chinese Mainland, Cyprus, \nCzech Republic, Denmark, Estonia, Finland, France, Germany, Greece, \nHungary, Ireland, Italy, Japan, Republic of Korea, Latvia, Lithuania, \nLuxembourg, Malta, the Netherlands, Poland, Portugal, Romania, \nSingapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, the \nUnited Kingdom and the United States (U.S.); AND \nthere are local clinical data (e.g. clinical studies, case reports, case series, \nreal-world data, etc.) OR clinical data generated from Chinese and/or \n \n6The primary evaluation route only applies to NDA-2 or NDA-3 of chemical entities during the phase 1 of the primary evaluation. Please \nrefer to the phasic implementation of primary evaluation in <The Hong Kong Centre for Medical Products Regulation - Towards Primary \nEvaluation>.  \n7 Public health emergency refers to the occasion as specified in section 8(5) of the Prevention and Control of disease Ordinance (“Cap. \n599”). \n8 Including products indicated for treatment of any disease, with evidence demonstrating prominent clinical benefits, e.g. showing \nsignificant therapeutic effects and/or making improvements in patients’ quality of life. \n\nPAGE 9\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 9 \n \n \nEvaluation route  Eligibility criteria  \nAsian populations9 related to the proposed indication(s) and posology of \nthe product (i.e. the “1+” Mechanism).   \nVerification  \nThe product is approved in two or more of the above listed countries/places10. \n \n9 Clinical data in Chinese and/or Asian patient population(s) representative of the local patient population(s) in Hong Kong should be \ngathered from clinical studies, in which the drug has been shown in accordance with ICH E5 “Ethnic factors in the acceptability of \nforeign clinical data” to be ethnically insensitive and extrinsic factors (such as medical practice and conduct of clinical trials) in these \nregion(s) are generally similar to those in Hong Kong. \n10 For an advanced therapy product, approvals from the European Union countries must be issued from European Medicines Agency \n(“EMA”).  \n\nPAGE 10\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 10",
+          "display_text": "Table 2. Evaluation routes for initial registration of pharmaceutical products Evaluation route Eligibility criteria Primary evaluation The product has not been approved in any of the countries/places listed below.6 Abridged evaluation (i) There is a local unmet medical need of the product for public health emergency 7 , communicable diseases or matters of public health importance in the areas of tuberculosis, emerging and/or re-emerging infectious diseases (e.g. avian influenza, chicken pox, Ebola, COVID-19, etc.) and antimicrobial resistance; AND the product is promulgated by reputable international health agencies on human or veterinary medicines, including the World Health Organization (WHO), World Organisation for Animal Health, etc.; OR (ii) The product is approved with orphan drug designation, breakthrough therapy designation, priority review designation, or equivalent8, and is currently on the market in any of the listed countries/places: Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chinese Mainland, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Japan, Republic of Korea, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, the United Kingdom and the United States (U.S.); AND there are local clinical data (e.g. clinical studies, case reports, case series, real-world data, etc.) OR clinical data generated from Chinese and/or 6The primary evaluation route only applies to NDA-2 or NDA-3 of chemical entities during the phase 1 of the primary evaluation. Please refer to the phasic implementation of primary evaluation in <The Hong Kong Centre for Medical Products Regulation - Towards Primary Evaluation>. 7 Public health emergency refers to the occasion as specified in section 8(5) of the Prevention and Control of disease Ordinance (“Cap. 599”). 8 Including products indicated for treatment of any disease, with evidence demonstrating prominent clinical benefits, e.g. showing significant therapeutic effects and/or making improvements in patients’ quality of life. PAGE 9 Guidance Notes on Registration of Pharmaceutical Products: New Drug Applications Page 9 Evaluation route Eligibility criteria Asian populations9 related to the proposed indication(s) and posology of the product (i.e. the “1+” Mechanism). Verification The product is approved in two or more of the above listed countries/places10. 9 Clinical data in Chinese and/or Asian patient population(s) representative of the local patient population(s) in Hong Kong should be gathered from clinical studies, in which the drug has been shown in accordance with ICH E5 “Ethnic factors in the acceptability of foreign clinical data” to be ethnically insensitive and extrinsic factors (such as medical practice and conduct of clinical trials) in these region(s) are generally similar to those in Hong Kong. 10 For an advanced therapy product, approvals from the European Union countries must be issued from European Medicines Agency (“EMA”). PAGE 10 Guidance Notes on Registration of Pharmaceutical Products: New Drug Applications Page 10",
+          "feature_tags": [
+            "two_approvals",
+            "local_evidence",
+            "scope_limit",
+            "foreign_marketing"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording",
+          "evidence_tier": "national_rule",
+          "product_scope": "Human-medicine initial marketing authorisation",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "HKG-Q02",
+          "iso3": "HKG",
+          "event_id": null,
+          "document_id": "6fed979a2f1fbf66e408",
+          "source_id": "88cb4dd2be4e8a16",
+          "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+          "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+          "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+          "start_offset": 20998,
+          "end_offset": 24984,
+          "pdf_page": 12,
+          "section_article": "9.1.2–9.1.9",
+          "verbatim_extracted_text": "9.1.2. A letter of authorization* signed by the authorized representative of the marketing \nauthorization holder (or manufacturer, if applicable), who is also the owner of the \nproduct and its application dossier, and stamped with company chop (if applicable), \nto authorize the applicant to apply for registration and be the holder of Certificate of \nDrug/Product Registration in Hong Kong for their product; the official email address \nof marketing authorization holder (or the manufacturer) should be provided for \nverification of authenticity;  \n9.1.3. A letter of authorization signed by the applicant (sole-proprietor, managing partner, or \ndirector) and stamped with the applicant’s company chop (if applicable), to authorize \na person or a company to be the regulatory contact point for this application; \n9.1.4. A letter of undertaking, signed by the applicant, agreeing to provide, at any stage of \nregistration, any information and / or documents relating to the product upon request \nwithin the prescribed timeframe. The contact details for both the regulatory and \npharmacovigilance contact points should be stated; \n9.1.5. A cover letter that includes, a description of the CTD, justifications if any of the \nrequired modules are not included in the CTD, and whether the application relates to \nother registered product(s) or product(s) under application(s), with similarities and \ndifferences highlighted; \n9.1.6. A declaration letter, signed by marketing authorization holder, to confirm that the \nproduct name(s), if different, mentioned in the application dossier are identical in all \naspects of quality, safety and efficacy, except for the product name; \n9.1.7. Official evidence of registration approval 13  of the product (e.g. Certificate of a \nPharmaceutical Product)* in−  \n \n12 Some of the subsections in CTD modules 2 to 5 should be uploaded in module 1 on PRS for administrative purposes.  \n13 At least one of the Certificates of a Pharmaceutical Product should indicate that the product is currently on the market within the \njurisdiction of the certifying authority. \n\nPAGE 13\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 13 \n \n \n two or more of the countries / places listed in Table 2 for NDAs via the verification \nroute; or \n any of the countries / places listed in Table 2 for NDAs via the abridged evaluation \nroute; \n9.1.8. A summary of the worldwide marketing approval status of the product, including the \ntrade name(s), date(s) of first approval, type(s) of approval and designation(s) granted \nby the drug regulatory authority(ies), approved indication(s), post-approval \ncondition(s) and / or post-market requirement(s)/commitments, legal classification(s), \nand the marketing status of the product in the country(ies) / places. If the marketing \nauthorisations or applications of the product have been refused, suspended, revoked, \nwithdrawn, approved via appeal process, or pending deferral in any countries / places, \nthe assessments issued by the drug regulatory authority(ies) and the relevant \ncorrespondence should be provided; \n9.1.9. The name, address, and responsibility of each manufacturer (including any outsourced \nmanufacturer under contract), and each proposed production site or facility involved \nin manufacturing of the dose form, packaging, testing, batch release, and other \nproduction activities (if applicable) of the drug product (Module 3.2.P.3.1); \n In general, only one manufacturer will be allowed for each manufacturing step, \nexcept for quality control including stability testing. For products with more than \none manufacturer involved in the same production step (i.e. alternative \nmanufacturing pathway), a separate application is required for each pathway; \n For biological products, please refer to the “Supplementary Notes for Application \nfor Registration of Biological Products Involving Alternative / Back Up \nManufacturer(s) for Manufacturing Steps”;",
+          "display_text": "9.1.2. A letter of authorization* signed by the authorized representative of the marketing authorization holder (or manufacturer, if applicable), who is also the owner of the product and its application dossier, and stamped with company chop (if applicable), to authorize the applicant to apply for registration and be the holder of Certificate of Drug/Product Registration in Hong Kong for their product; the official email address of marketing authorization holder (or the manufacturer) should be provided for verification of authenticity; 9.1.3. A letter of authorization signed by the applicant (sole-proprietor, managing partner, or director) and stamped with the applicant’s company chop (if applicable), to authorize a person or a company to be the regulatory contact point for this application; 9.1.4. A letter of undertaking, signed by the applicant, agreeing to provide, at any stage of registration, any information and / or documents relating to the product upon request within the prescribed timeframe. The contact details for both the regulatory and pharmacovigilance contact points should be stated; 9.1.5. A cover letter that includes, a description of the CTD, justifications if any of the required modules are not included in the CTD, and whether the application relates to other registered product(s) or product(s) under application(s), with similarities and differences highlighted; 9.1.6. A declaration letter, signed by marketing authorization holder, to confirm that the product name(s), if different, mentioned in the application dossier are identical in all aspects of quality, safety and efficacy, except for the product name; 9.1.7. Official evidence of registration approval 13 of the product (e.g. Certificate of a Pharmaceutical Product)* in− 12 Some of the subsections in CTD modules 2 to 5 should be uploaded in module 1 on PRS for administrative purposes. 13 At least one of the Certificates of a Pharmaceutical Product should indicate that the product is currently on the market within the jurisdiction of the certifying authority. PAGE 13 Guidance Notes on Registration of Pharmaceutical Products: New Drug Applications Page 13  two or more of the countries / places listed in Table 2 for NDAs via the verification route; or  any of the countries / places listed in Table 2 for NDAs via the abridged evaluation route; 9.1.8. A summary of the worldwide marketing approval status of the product, including the trade name(s), date(s) of first approval, type(s) of approval and designation(s) granted by the drug regulatory authority(ies), approved indication(s), post-approval condition(s) and / or post-market requirement(s)/commitments, legal classification(s), and the marketing status of the product in the country(ies) / places. If the marketing authorisations or applications of the product have been refused, suspended, revoked, withdrawn, approved via appeal process, or pending deferral in any countries / places, the assessments issued by the drug regulatory authority(ies) and the relevant correspondence should be provided; 9.1.9. The name, address, and responsibility of each manufacturer (including any outsourced manufacturer under contract), and each proposed production site or facility involved in manufacturing of the dose form, packaging, testing, batch release, and other production activities (if applicable) of the drug product (Module 3.2.P.3.1);  In general, only one manufacturer will be allowed for each manufacturing step, except for quality control including stability testing. For products with more than one manufacturer involved in the same production step (i.e. alternative manufacturing pathway), a separate application is required for each pathway;  For biological products, please refer to the “Supplementary Notes for Application for Registration of Biological Products Involving Alternative / Back Up Manufacturer(s) for Manufacturing Steps”;",
+          "feature_tags": [
+            "applicant_consent",
+            "sameness",
+            "foreign_marketing",
+            "two_approvals",
+            "adverse_foreign_history"
+          ],
+          "role": "Permission and qualifying conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant contextual source review; exact extraction validated separately; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording",
+          "evidence_tier": "national_rule",
+          "product_scope": "Human-medicine initial marketing authorisation",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "HKG-CONTEXT-1",
+          "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+          "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+          "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+          "start_offset": 13522,
+          "end_offset": 18542,
+          "verbatim_extracted_text": "would consider whether an application for initial registration of a \npharmaceutical product is subject to the requirements specified on a case-by-case basis. \n \n4 Or products which have been registered as containing new chemical or biological entities before 31 March 2026.  \n5 Regarding non-injectable products which differ only in package sizes, please refer to “Guidance Notes on Change of Registered \nParticulars of Registered Pharmaceutical Products/Substances” for the addition of package sizes. \n\nPAGE 8\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 8 \n \n \n7. Evaluation routes  \n7.1. NDAs for initial registration can be submitted via one of the three evaluation routes as shown \nin Table 2. \nTable 2. Evaluation routes for initial registration of pharmaceutical products \nEvaluation route  Eligibility criteria  \nPrimary \nevaluation \nThe product has not been approved in any of the countries/places listed below.6 \nAbridged \nevaluation \n(i) There is a local unmet medical need of the product for public health \nemergency 7 , communicable diseases or matters of public health \nimportance in the areas of tuberculosis, emerging and/or re-emerging \ninfectious diseases (e.g. avian influenza, chicken pox, Ebola, COVID-19, \netc.) and antimicrobial resistance; AND the product is promulgated by \nreputable international health agencies on human or veterinary medicines, \nincluding the World Health Organization (WHO), World Organisation for \nAnimal Health, etc.;  \nOR \n(ii) The product is approved with orphan drug designation, breakthrough \ntherapy designation, priority review designation, or equivalent8, and is \ncurrently on the market in any of the listed countries/places: Australia, \nAustria, Belgium, Brazil, Bulgaria, Canada, Chinese Mainland, Cyprus, \nCzech Republic, Denmark, Estonia, Finland, France, Germany, Greece, \nHungary, Ireland, Italy, Japan, Republic of Korea, Latvia, Lithuania, \nLuxembourg, Malta, the Netherlands, Poland, Portugal, Romania, \nSingapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, the \nUnited Kingdom and the United States (U.S.); AND \nthere are local clinical data (e.g. clinical studies, case reports, case series, \nreal-world data, etc.) OR clinical data generated from Chinese and/or \n \n6The primary evaluation route only applies to NDA-2 or NDA-3 of chemical entities during the phase 1 of the primary evaluation. Please \nrefer to the phasic implementation of primary evaluation in <The Hong Kong Centre for Medical Products Regulation - Towards Primary \nEvaluation>.  \n7 Public health emergency refers to the occasion as specified in section 8(5) of the Prevention and Control of disease Ordinance (“Cap. \n599”). \n8 Including products indicated for treatment of any disease, with evidence demonstrating prominent clinical benefits, e.g. showing \nsignificant therapeutic effects and/or making improvements in patients’ quality of life. \n\nPAGE 9\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 9 \n \n \nEvaluation route  Eligibility criteria  \nAsian populations9 related to the proposed indication(s) and posology of \nthe product (i.e. the “1+” Mechanism).   \nVerification  \nThe product is approved in two or more of the above listed countries/places10. \n \n9 Clinical data in Chinese and/or Asian patient population(s) representative of the local patient population(s) in Hong Kong should be \ngathered from clinical studies, in which the drug has been shown in accordance with ICH E5 “Ethnic factors in the acceptability of \nforeign clinical data” to be ethnically insensitive and extrinsic factors (such as medical practice and conduct of clinical trials) in these \nregion(s) are generally similar to those in Hong Kong. \n10 For an advanced therapy product, approvals from the European Union countries must be issued from European Medicines Agency \n(“EMA”).  \n\nPAGE 10\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 10 \n \n \n8. General requirements for submission of NDAs  \n8.1. The application dossier should be organised in the Common Technical Document (“CTD”) \nformat promulgated by the International Council for Harmonisation of Technical \nRequirements for Pharmaceuticals for Human Use (“ICH”). These organisation and format are \ndescribed in ICH M4(R4), M4Q(R1), M4S(R2), and M4E(R2). The dossier should be \ncomplete and up-to-date. To ensure traceability, it is recommended to assign unique document \nand version numbers to each document.  \n8.2. CTD modules 2 to 5, where applicable (refer to sections 10 to 12 for evaluation route-specific \nrequirements), should be submitted in ONE DVD or blu-ray disc. Modules should be \norganised in folders and subfolders according to the chronology and titles specified in ICH \nM4(R4). To facilitate navigation through the dossier, bookmarks, a table of content (if \nappropriate), and reference hyperlinks to other documents should be included.11  \n8.3. Other requirements",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording"
+        },
+        {
+          "clause_id": "HKG-CONTEXT-2",
+          "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+          "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+          "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+          "start_offset": 20248,
+          "end_offset": 25984,
+          "verbatim_extracted_text": " 50mg”; \n products presented in different dose forms, e.g. injection, tablet and capsule; \n products with more than one presentation for the same pack size, unless otherwise justified; \n injectable products with different container volumes, e.g. “ABC Solution for Injection \n10mg/5ml” and “ABC Solution for Injection 20mg/10ml”. \n \n\nPAGE 12\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 12 \n \n \n9. Document requirements applicable to NDAs to be submitted via any evaluation route  \n9.1. The following documents and information, including selected sections from the CTD modules \nshould be electronically submitted via the PRS 2.0.12  \n9.1.1. The business registration certificate of the applicant; \n9.1.2. A letter of authorization* signed by the authorized representative of the marketing \nauthorization holder (or manufacturer, if applicable), who is also the owner of the \nproduct and its application dossier, and stamped with company chop (if applicable), \nto authorize the applicant to apply for registration and be the holder of Certificate of \nDrug/Product Registration in Hong Kong for their product; the official email address \nof marketing authorization holder (or the manufacturer) should be provided for \nverification of authenticity;  \n9.1.3. A letter of authorization signed by the applicant (sole-proprietor, managing partner, or \ndirector) and stamped with the applicant’s company chop (if applicable), to authorize \na person or a company to be the regulatory contact point for this application; \n9.1.4. A letter of undertaking, signed by the applicant, agreeing to provide, at any stage of \nregistration, any information and / or documents relating to the product upon request \nwithin the prescribed timeframe. The contact details for both the regulatory and \npharmacovigilance contact points should be stated; \n9.1.5. A cover letter that includes, a description of the CTD, justifications if any of the \nrequired modules are not included in the CTD, and whether the application relates to \nother registered product(s) or product(s) under application(s), with similarities and \ndifferences highlighted; \n9.1.6. A declaration letter, signed by marketing authorization holder, to confirm that the \nproduct name(s), if different, mentioned in the application dossier are identical in all \naspects of quality, safety and efficacy, except for the product name; \n9.1.7. Official evidence of registration approval 13  of the product (e.g. Certificate of a \nPharmaceutical Product)* in−  \n \n12 Some of the subsections in CTD modules 2 to 5 should be uploaded in module 1 on PRS for administrative purposes.  \n13 At least one of the Certificates of a Pharmaceutical Product should indicate that the product is currently on the market within the \njurisdiction of the certifying authority. \n\nPAGE 13\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 13 \n \n \n two or more of the countries / places listed in Table 2 for NDAs via the verification \nroute; or \n any of the countries / places listed in Table 2 for NDAs via the abridged evaluation \nroute; \n9.1.8. A summary of the worldwide marketing approval status of the product, including the \ntrade name(s), date(s) of first approval, type(s) of approval and designation(s) granted \nby the drug regulatory authority(ies), approved indication(s), post-approval \ncondition(s) and / or post-market requirement(s)/commitments, legal classification(s), \nand the marketing status of the product in the country(ies) / places. If the marketing \nauthorisations or applications of the product have been refused, suspended, revoked, \nwithdrawn, approved via appeal process, or pending deferral in any countries / places, \nthe assessments issued by the drug regulatory authority(ies) and the relevant \ncorrespondence should be provided; \n9.1.9. The name, address, and responsibility of each manufacturer (including any outsourced \nmanufacturer under contract), and each proposed production site or facility involved \nin manufacturing of the dose form, packaging, testing, batch release, and other \nproduction activities (if applicable) of the drug product (Module 3.2.P.3.1); \n In general, only one manufacturer will be allowed for each manufacturing step, \nexcept for quality control including stability testing. For products with more than \none manufacturer involved in the same production step (i.e. alternative \nmanufacturing pathway), a separate application is required for each pathway; \n For biological products, please refer to the “Supplementary Notes for Application \nfor Registration of Biological Products Involving Alternative / Back Up \nManufacturer(s) for Manufacturing Steps”; \n9.1.10. Good Manufacturing Practices (“GMP”) certificate(s)* of the manufacturer(s) of the \nproduct, with evidence of compliance to the Pharmaceutical Inspection Co-operation \nScheme (“PIC/S”) GMP standards. The inspection scope of the GMP certificate should \ncover the product categories and operations relevant to the product. Please refer to the \n<Questions and Answers on PIC/S GMP Requirements for Registration of Imported \nPharmaceutical Products>; \n\nPAGE 14\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 14 \n \n \n9.1.11. The manufacturer(s)’ licence(s)* issued by the drug regulatory authority where the \nmanufacturer(s) is located, if the GMP certificate(s) is not issued by that authority;  \n9.1.12. One set of prototype sales pack (e.g. outer carton, container label, and other \ncomponent(s) comprising the sales pack) for each of the pack sizes of the product \nunder application. All prototypes must be clear and legible in printed format.",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording"
+        },
+        {
+          "clause_id": "HKG-CTX-1",
+          "source_url": "https://www.ppbhk.org.hk/eng/doc/guidelines_forms/guidance_notes_nda.pdf",
+          "raw_sha256": "12570c5d4c5dbed6db4a2ae5c3cead4d232499c728d6c1769c171baf90ecfb59",
+          "text_sha256": "b00c0b3860a0df30e787496c5cd34bda68918240ad62b9d696c683e09f1ff226",
+          "start_offset": 30000,
+          "end_offset": 38600,
+          "verbatim_extracted_text": "lemental impurities in accordance with ICH Q3D(R2); \n9.1.28. Container closure system of drug product (Module 3.2.P.7); \n9.1.29. Stability test data of drug substance and drug product (Modules 3.2.S.7 and 3.2.P.8), and \nin-use stability data (if applicable), in accordance with ICH Q1A(R2), Q1B, Q1C, \nQ1D, and Q1E;   \n\nPAGE 16\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 16 \n \n \n9.1.30. Information on the materials of animal and human origin (e.g. biological fluids, tissues, \norgans, cell lines) used in the production, including a description of the source and \nstarting material and raw materials of biological origin used in the manufacture of the \ndrug substance (Module 3.2.S.2.3), information regarding the excipients of human or \nanimal origin (Module 3.2.P.4.5), and adventitious agents safety evaluation (Module \n3.2.A.2). Information should include the source of the animals, the nature of the animal \ntissues used in the production processes, and should show compliance with one or \nmore of the safety measures taken to minimize the risk of potential contamination with \nadventitious agents, including but not limited to Transmissible Spongiform \nEncephalopathy;  \n9.1.31. Site master file(s), or equivalent, of the manufacturer(s) outside Hong Kong, providing \ndetailed information regarding their production and quality control facilities and \ntechnical personnel, etc; and  \n9.1.32. Plasma master file (“PMF”) for the product derived from human blood or plasma, or \nif such materials are used in the manufacturing process (e.g. culture media). The PMF \nshould include information on the collection and control of the source materials. A \nPMF Certificate issued by the EMA, or equivalent document issued by regulatory \nauthority, for each of the source materials derived from human blood or plasma should \nbe provided (if applicable). \n9.2. The originals15 or certified true copies of the documents marked with “*” (9.1.2, 9.1.7, 9.1.10 \nand 9.1.11), together with a cover letter specifying the application number(s) should be \nsubmitted to: \n \nDrug Evaluation and Pharmacovigilance Division,  \nDrug Office, Department of Health, \nSuites 2002-05, 20/F, AIA Kowloon Tower,  \nLandmark East, 100 How Ming Street,  \nKwun Tong, Kowloon, Hong Kong  \n(enquiries: 3974 4175).  \n \nIf it is necessary to submit the certified true copies of the documents, the electronic \n \n15 An electronic copy of the certificate may be sufficient if it is issued electronically with a valid and verifiable electronic signature by \nan authorized person of the issuing regulatory authority, and its authenticity could be verified on the designated official website. \n\nPAGE 17\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 17 \n \n \ndocuments uploaded to the PRS 2.0 should include those pages related to certification. A \ncertified true copy certifies that the photocopy presented is a true and accurate copy of the \noriginal document. Documents can be certified by a Hong Kong solicitor, a notary public, \nthe original issuing authority of the document, or an Embassy / Consulate.  \n9.3. If there is any doubt that any of the submitted scanned documents is not an accurate \nreflection of the original document, the applicant may also be requested to submit the \noriginal or certified true copy of the scanned document. \n \n\nPAGE 18\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 18 \n \n \n10. Additional requirements for NDAs via the verification route  \n10.1. Applicants are also required to provide the following documents for NDAs via the \nverification route:  \n10.1.1. For NDAs of chemical and biological entities, CTD Modules 2, 3 and 5 (and Module \n4 may also be required if appropriate);  \n10.1.2. A comparison of the therapeutic indications, dosage, warnings / precautions, \ncontraindications, and adverse effects in the package inserts authorized in other \ncountries/places, with justifications for any differences; and \n10.1.3. Package insert(s) of the product currently approved by the drug regulatory authority \nof at least one of the countries / places listed in Table 2, to substantiate the content \nof proposed package insert.16 \n11. Additional requirements for NDAs via the abridged evaluation route \n11.1. Applicants are also required to provide the following documents for NDAs via the abridged \nevaluation route: \n11.1.1. A cover letter indicating the intention to submit an NDA via the abridged evaluation \nroute, with documentary evidence showing that the product fulfils the criteria stated \nin Table 2;   \n11.1.2. An assessment report on safety and efficacy of the product to be prepared by a local \nexpert with fellowship or equivalent qualification and he/she has at least 5 years of \nexperience in the field relevant to the product;    \n11.1.3. A comparison of the therapeutic indications, dosage, warnings / precautions, \ncontraindications, and adverse effects in the package inserts authorized in other \ncountries/places, with justifications for any differences; and \n11.1.4. Package insert(s) of the product currently approved by the drug regulatory authority \nof at least one of the countries / places listed in Table 2, to substantiate the content \nof proposed package insert. \n \n16 If the reference document is not in English or Chinese, a certified translation provided by a professional translator is required. Cross-\nreferencing to documents should be made by referring to the page number of the reference documents and the relevant parts of the \nreference documents should be highlighted clearly. \n\nPAGE 19\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 19 \n \n \n11.2. For NDAs under the “1+” Mechanism, the following documents are also required: \n11.2.1. The assessment report by the local expert (paragraph 11.1.2) should also include an \nevaluation on the clinical data of the product as required in Table 2, a review of the \nglobal and local epidemiology of the disease(s), international and local treatment \nparadigms of the disease(s), and safety and efficacy of the product; \n11.2.2. An assessment report(s) 17 , post-authorization requirement(s), and licensing \ncondition(s) issued and imposed by the drug regulatory authority(ies) which granted \nthe approval of the product in the countries/places listed in Table 2; and  \n11.2.3. A post-registration development plan (e.g. global regulatory planning of the product, \nplanned and ongoing efficacy and safety studies, local clinical studies, real-world \nevidence studies). \n11.3. An application which does not fulfil the eligibility criteria for the abridged evaluation route \n(Table 2) may be refused for filing during screening. However, the refusal does not preclude \nsubmission of an NDA via the verification route. \n \n \n17 Assessment reports issued by the drug regulatory authorities that granted the approval (and if any, designation) should be complete \nand unredacted. The report should be translated to English or Chinese, if applicable. In case an unredacted assessment report is not \navailable, clarifications on the redacted information and other supporting documents relevant to the product’s safety, efficacy or quality \nshould be provided, which may include, but not limited to, the assessment or correspondence on questions and answers between the \napplicant in the reference country and the concerned authority during the authority’s evaluation and/or at the meetings. \n\nPAGE 20\n \n \n \n \nGuidance Notes on Registration of Pharmaceutical Products: New Drug Applications \nPage 20 \n \n \n12. Additional requirements for NDAs via the primary evaluation route  \n12.1. Prior to submission of an NDA via the primary evaluation route, the applicant must request \nfor a pre-NDA meeting.  \n12.2. The requirements of CTD Modules 2 to 5 for NDAs of chemical entities via the primary \nevaluation route are set out in <Guidance Notes on Registration of Pharmaceutical Products: \nSpecific Requirements for New Drug Applications of Chemical Entities via the Primary \nEvaluation Route>. An application with an incomplete CTD may be refused for filing during \nscreening stage. However, the refusal does not preclude an NDA under the abridged \nevaluation or verification routes. \n12.3. Applicant may be requested to submit samples of drug product.  \n13. Pharmaceutical products for veterinary use  \n13.1. Guidelines promulgated by International Cooperation on Harmonisation of Technical \nRequirements for Registration of Veterinary",
+          "section_article": "Contextual statutory/guideline extension; headings retained in text",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "NDA guidance version 1.0, 31 March 2026; not the original November 2023 wording"
+        }
+      ],
+      "explicit_full_report_gate": false,
+      "unresolved_requirements": [
+        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      ],
+      "possible_full_report_gate": false,
+      "gate_adjudication": ""
+    }
   }
 }
