@@ -6,7 +6,7 @@ comparison_adjudication.json and european_family.json. This reproduces counts
 from contextual coding; it does not automate interpretation of legislation.
 """
 from pathlib import Path
-import argparse, json, collections, hashlib
+import argparse, json, collections, hashlib, re
 
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--input-dir',default=str(Path(__file__).resolve().parent));args=ap.parse_args()
@@ -14,6 +14,7 @@ def main():
     p=read('primary_country_comparison.json')['records'];r=read('analysis_results.json');a=read('comparison_adjudication.json')
     expected=r['sample']['primary_pathway_records']
     assert len(p)==expected and len({x['iso3'] for x in p})==expected
+    assert all(re.fullmatch(r'[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*',x['language']) for x in p),'Source languages must use consistent codes before sensitivity classification'
     sets={k:set(v) for k,v in a['country_sets'].items()}
     components=[]
     for c in r['components']:
