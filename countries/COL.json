@@ -222,7 +222,7 @@
     "iso3": "COL",
     "country": "Colombia",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "Two reference-country approvals with a shortened pharmacological stage",
     "source_url": "https://normograma.invima.gov.co/compilacion/docs/decreto_0677_1995.htm",
     "document_id": "F250_8649a1ab0c5704d26a5a_f34cfdfd97c5",
@@ -500,6 +500,7 @@
         "version_alignment": "Current official consolidated presentation of Decree 677/1995; article-specific amendments elsewhere are annotated. First operative date and complete amendment chain not inferred from this snapshot."
       }
     ],
+    "other_reviewed_routes": [],
     "review_details": {
       "iso3": "COL",
       "country": "Colombia",
@@ -793,5 +794,7 @@
       "possible_full_report_gate": false,
       "gate_adjudication": ""
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

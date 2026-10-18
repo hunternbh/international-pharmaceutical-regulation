@@ -322,7 +322,7 @@
     "iso3": "MCO",
     "country": "Monaco",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "Designated foreign authority; authorisation separate from payment",
     "source_url": "https://legimonaco.mc/tnc/ordonnance/2003/03-03-15.712/",
     "document_id": "21f3b9d01f7ae085e5e7",
@@ -797,6 +797,7 @@
         "version_alignment": "Version on the preserved source; not backdated to older event rows"
       }
     ],
+    "other_reviewed_routes": [],
     "review_details": {
       "iso3": "MCO",
       "country": "Monaco",
@@ -1281,5 +1282,7 @@
       "possible_full_report_gate": false,
       "gate_adjudication": ""
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

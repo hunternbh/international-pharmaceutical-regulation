@@ -270,314 +270,992 @@
     "iso3": "PER",
     "country": "Peru",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
-    "pathway": "45-day accelerated assessment with positive administrative silence",
-    "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
-    "document_id": "b2afd864591d66482ac4",
-    "genre": "Statute",
+    "sample": "selected_national_route_comparisons",
+    "pathway": "Law 32319 accelerated registration: institutional implementation",
+    "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+    "document_id": "F250_11f869021ea515fdafa9",
+    "genre": "Official national guideline/procedure",
     "language": "es",
-    "scope": "Human-medicine initial marketing authorisation",
-    "version_note": "Law 32319 published 1 May 2025; legal text includes “and other diseases”, so ordinary nonorphan drugs are not excluded merely by the law’s rare-disease title. Country-of-high-surveillance designation and local-climate dossier conditions require validation.",
+    "scope": "Initial human-medicine marketing authorisation, subject to expressly recorded route limits",
+    "version_note": "RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted.",
     "components": {
       "new_active_substance": {
-        "state": "discretionary/conditional",
-        "finding": "Medicines for rare/orphan/cancer and other diseases, registered and marketed in high-surveillance countries.",
+        "state": "explicit requirement",
+        "finding": "Scope expressly includes other diseases beyond orphan and cancer; a nonorphan new small molecule is not excluded merely by disease category.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "named_reference_agencies": {
         "state": "unresolved/not stated",
-        "finding": "PAVS category; underlying country designation not enumerated in this law.",
+        "finding": "High-surveillance-country PAVS category incorporated by law; this directive does not reproduce the full country/authority list. FDA acceptance should be linked to the operative incorporated list.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "prior_approval_count": {
         "state": "explicit requirement",
-        "finding": "Registration and marketing in a qualifying country; no two-reference threshold stated.",
+        "finding": "Choose one qualifying PAVS and keep it throughout validity. Two foreign approvals are not the expressed minimum.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "standalone_review": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "approval_age": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "foreign_marketing": {
         "state": "explicit requirement",
-        "finding": "Foreign authorization plus commercial marketing and CPP/free-sale evidence.",
+        "finding": "Certificate must establish same medicine authorised and marketed in the chosen PAVS .",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "same_product_dossier_site": {
         "state": "explicit requirement",
-        "finding": "Complete foreign-authorized CTD for same product.",
+        "finding": "Complete quality/safety/efficacy CTD is the one authorised in PAVS ; CPP identifies product, strength, form, manufacturer and composition.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "report_completeness": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
-        "evidence_ids": []
+        "finding": "Full CTD means company scientific dossier, not the foreign regulator assessment report. No mandatory underlying-report gate established here.",
+        "evidence_ids": [
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
+        ]
       },
       "nonpublic_reports": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "accepted_redactions": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "public_report_sufficiency": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "applicant_consent": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "reference_authority_permission": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "regulator_to_regulator_sharing": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "local_clinical_evidence": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "quality_gmp": {
         "state": "explicit requirement",
-        "finding": "Stability for climatic zone IV-A or IV-B; full quality/safety/efficacy CTD.",
+        "finding": "CTD includes climatic Zone IV-A or IV-B stability. A full USCTD alone does not prove this climate-specific evidence.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "scientific_assessment_retained": {
         "state": "explicit requirement",
-        "finding": "Accelerated evaluation retained, not automatic scientific-assessment waiver.",
+        "finding": "Accelerated national dossier evaluation remains; DIGEMID may raise observations. It is not automatic registration at filing.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "local_representative": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "filing_fee": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source/context; no absence inference.",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
         "evidence_ids": []
       },
       "translation_legalization": {
         "state": "explicit requirement",
-        "finding": "CTD English or Spanish; Spanish labels/technical sheet/insert.",
+        "finding": "CTD English or Spanish; local label, technicalsheet and leaflet in Spanish as proposed for use/distribution.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "cpp": {
         "state": "explicit requirement",
-        "finding": "CPP or free-sale certificate showing same product authorized and marketed.",
+        "finding": "CPP or free-marketing certificate for same authorised/marketed product; riskmanagement plan also required. Extra authority composition letter if local CPP rules omit excipient details.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "clock": {
         "state": "explicit requirement",
-        "finding": "At most 45 calendar days with positive administrative silence on complete qualifying dossier.",
+        "finding": "At most 2 working days admissibility, with 2 working days correction; admission on compliance or silence. Then no more than 45 calendar days accelerated evaluation. Do not call 2 day admission a 2 day MA .",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
         ]
       },
       "domestic_discretion": {
-        "state": "discretionary/conditional",
-        "finding": "Conditions and unregulated matters subject to pharmaceutical law and implementing rules.",
-        "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
-        ]
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       }
     },
     "cases": {
       "A": {
-        "eligibility": "discretionary/conditional",
-        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
-        ],
+        "status": "one-reference condition established; residual eligibility unresolved",
+        "eligibility": "one-reference condition established; residual eligibility unresolved",
+        "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
-        ],
-        "status": "discretionary/conditional"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
+        ]
       },
       "B": {
-        "eligibility": "discretionary/conditional",
-        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
-        ],
+        "status": "one-reference condition established; residual eligibility unresolved",
+        "eligibility": "one-reference condition established; residual eligibility unresolved",
+        "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
-        ],
-        "status": "discretionary/conditional"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
+        ]
       },
       "C": {
-        "eligibility": "discretionary/conditional",
-        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
-        ],
+        "status": "one-reference condition established; residual eligibility unresolved",
+        "eligibility": "one-reference condition established; residual eligibility unresolved",
+        "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
-        ],
-        "status": "discretionary/conditional"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
+        ]
       },
       "D": {
-        "eligibility": "discretionary/conditional",
-        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
-        ],
+        "status": "one-reference condition established; residual eligibility unresolved",
+        "eligibility": "one-reference condition established; residual eligibility unresolved",
+        "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
-        ],
-        "status": "discretionary/conditional"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
+        ]
       },
       "E": {
-        "eligibility": "discretionary/conditional",
-        "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
-        ],
+        "status": "one-reference condition established; residual eligibility unresolved",
+        "eligibility": "one-reference condition established; residual eligibility unresolved",
+        "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
         "evidence_ids": [
-          "PER-Q01",
-          "PER-CTX-1"
-        ],
-        "status": "discretionary/conditional"
+          "EXP-A-055-3500",
+          "EXP-A-055-8200",
+          "EXP-A-055-11900",
+          "EXP-A-055-0"
+        ]
       }
     },
     "pairwise_gates": {
       "B_minus_A": {
-        "status": "unresolved/not established",
-        "finding": "No resolved legal access change from this information contrast established."
-      },
-      "B_minus_C": {
-        "status": "unresolved/not stated",
-        "finding": "No separately resolved applicant-consent gate; not a waiver."
-      },
-      "B_minus_D": {
-        "status": "unresolved/not stated",
-        "finding": "Separate reference-authority permission is not resolved; not a waiver."
+        "status": "reviewed contextual interpretation",
+        "finding": "No underlying-regulator report gate established. Do not confuse complete company CTD with foreign assessment report."
       },
       "B_minus_E": {
-        "status": "unresolved/not established",
-        "finding": "No resolved second-approval access gain."
+        "status": "reviewed contextual interpretation",
+        "finding": "One qualifying PAVS is sufficient for the prior-reference condition; precise FDA / PAVS list match remains incorporated."
       }
     },
     "shared_authorization_effect": null,
     "evidence": [
       {
-        "passage_id": "PER-Q01",
-        "source_document_id": "b2afd864591d66482ac4",
-        "evidence_role": "Selected primary document",
-        "section_article": "Articles 2–4",
-        "pdf_page": null,
-        "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
-        "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
-        "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
-        "exact_text": "Artículo 2\n. Ámbito de aplicación\nEstán comprendidos en la ley los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, registrados y comercializados en países de alta vigilancia sanitaria.\nEl Ministerio de Salud establece las enfermedades raras y huérfanas, en el plazo de treinta días calendario computados desde la entrada en vigor de la presente ley, bajo responsabilidad funcional.\nArtículo 3\n. Medidas y requisitos para facilitar la inscripción y reinscripción en el Registro Sanitario\nSe exonera de la aplicación de lo dispuesto en los artículos 10 y 11 de la Ley 29459, Ley de los productos farmacéuticos, dispositivos médicos y productos sanitarios, a los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades que cuenten con el registro y se comercialicen en los países de alta vigilancia sanitaria.\nEstos productos están sujetos a un procedimiento de evaluación acelerada en un plazo no mayor de cuarenta y cinco días calendario con silencio administrativo positivo, siempre que cumpla con remitir la información completa de calidad, seguridad y eficacia en formato del documento técnico común, el mismo que fue autorizado en el país de alta vigilancia sanitaria, en idioma inglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o IV-B; así como el certificado de producto farmacéutico o certificado de libre comercialización, que acredite que el mismo producto farmacéutico se encuentra autorizado y se esté comercializando en dicho PAVS; plan de gestión de riesgo; rotulados, ficha técnica e inserto, en idioma español, y certificado de liberación de lote emitido por la autoridad competente del país de origen para el caso de vacunas y derivados de plasma.\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro sanitario y cumplimiento de obligaciones específicas) en el registro sanitario serán la misma que la otorgada en el PAVS.\nArtículo 4\n. Condición para la aplicación de las medidas para facilitar la inscripción y reinscripción en el Registro Sanitario\nLos medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, deben encontrarse registrados y comercializarse en algún país de alta vigilancia sanitaria, contar con el registro autorizado y producirse para la zona climática IV-A o IV-B establecida por la Organización Mundial de la Salud.",
-        "start": 1021,
-        "end": 3558,
-        "translation": "Article 2. Scope. This law covers medicines and biological products for rare diseases, orphan diseases, cancer and other diseases, registered and marketed in countries with high sanitary surveillance. The Ministry of Health shall specify rare and orphan diseases within thirty calendar days from entry into force, under functional responsibility. Article 3. Measures and requirements facilitating registration and re-registration. Medicines and biological products for those diseases that are registered and marketed in high-surveillance countries are exempted from Articles 10 and 11 of Law 29459 on pharmaceutical products, medical devices and health products. These products undergo accelerated evaluation within no more than forty-five calendar days, with positive administrative silence, provided complete quality, safety and efficacy information is submitted in the common technical document format authorised in the high-surveillance country, in English or Spanish, including stability studies for Climatic Zone IV-A or IV-B; a pharmaceutical-product certificate or free-sale certificate showing that the same product is authorised and being marketed in that country; a risk-management plan; labels, technical information and package insert in Spanish; and, for vaccines and plasma derivatives, a batch-release certificate issued by the competent authority of the country of origin. The validity and updating conditions (registration modifications or changes and compliance with specific obligations) of the sanitary registration shall be the same as those granted in the high-surveillance country. Article 4. Condition for the facilitation measures. The medicines and biological products for rare diseases, orphan diseases, cancer and other diseases must be registered and marketed in a high-surveillance country, have the authorised registration and be produced for WHO Climatic Zone IV-A or IV-B.",
-        "translation_status": "Assistant checked and corrected research translation; not official/certified",
-        "exact_offset_validated": true
+        "clause_id": "EXP-A-055-3500",
+        "document_id": "F250_11f869021ea515fdafa9",
+        "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+        "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+        "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+        "start_offset": 3500,
+        "end_offset": 5500,
+        "verbatim_extracted_text": "29459;\n\nQue, con documento de visto, la Dirección de Productos Farmacéuticos, solicita la\naprobación de la Directriz Institucional para la atención de las solicitudes de inscripción y\nreinscripción en el registro sanitario presentadas en el marco de la Ley N° 32319, a efecto\nde garantizar que los procesos de evaluación acelerados aseguren la calidad, seguridad\ny eficacia de los medicamentos y productos biológicos;\n\nDe conformidad con lo dispuesto en la Ley N° 26842, Ley General de Salud, en la\nLey N° 29459, Ley de los Productos Farmacéuticos, Dispositivos Médicos y Productos\nSanitarios, en el Decreto Legislativo N° 1161, Ley de Organización y Funciones del\nMinisterio de Salud, y en el Decreto Supremo N° 008-2017-SA que aprueba el\nReglamento de Organización y Funciones del Ministerio de Salud;\n\nSE RESUELVE:\n\nARTÍCULO ÚNICO. - Aprobar la Directriz Institucional para la atención de las\nsolicitudes de inscripción y reinscripción en el registro sanitario presentadas en el marco\nde la Ley N° 32319, Ley que establece medidas para facilitar el acceso a medicamentos\ny productos biológicos registrados en países de alta vigilancia sanitaria destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, que como\nanexo forma parte integrante de la presente resolución directoral.\n\nRegístrese, comuníquese y cúmplase\n\nÑ Con\nwww.digemid.minsa.gob.pe Av. Parque de las Leyendas N° 240, put\n(511) 631-4300 \\\n\nUrb. Pando San Miguel, Lima 32, Perú p\ner\n\n\nPAGE 3 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nDIRECTRIZ INSTITUCIONAL PARA LA ATENCIÓN DE LAS SOLICITUDES DE\nINSCRIPCIÓN Y REINSCRIPCIÓN EN EL REGISTRO SANITARIO PRESENTADAS EN\nEL MARCO DE LA LEY N° 32319, LEY QUE ESTABLECE MEDIDAS PARA FACILITAR\n\nEL ACCESO A MEDICAMENTOS Y PRODUCTOS BIOLÓGICOS REGISTRADOS EN\nPAÍSES DE ALTA VIGILANCIA SANITARIA DESTINADOS AL TRATAMIENTO DE\nENFERMEDADES RARAS, HUÉRFANAS, CÁNCER Y DEMÁS ENFERMEDADES\n\nI. INTRODUCCION\n\nLa Dirección General de Medicamentos Insumos y Drogas - DIGE",
+        "section_article": "RD076/2025 adoption article",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+        "checked_english_research_rendering": "Approves the institutional directive under Law32319.",
+        "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+        "language": "es",
+        "checked_english_summary": "Approves the institutional directive under Law32319."
       },
       {
-        "passage_id": "PER-CTX-1",
-        "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+        "clause_id": "EXP-A-055-8200",
+        "document_id": "F250_11f869021ea515fdafa9",
+        "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+        "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+        "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+        "start_offset": 8200,
+        "end_offset": 11900,
+        "verbatim_extracted_text": " medicamentos y productos biológicos en el marco\nde la Ley N° 32319.\n\n\nPAGE 4 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nÁMBITO DE APLICACIÓN\n\nLa presente Directriz Institucional se aplica para la atención de las solicitudes de\ninscripción y reinscripción en el Registro Sanitario de medicamentos y productos\nbiológicos registrados y/o autorizados y comercializados en paises de alta vigilancia\nsanitaria, destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás\nenfermedades, en el marco de lo dispuesto en la Ley N° 32319.\n\nBASE LEGAL\n\ne Ley N° 32319, Ley que establece medidas para facilitar el acceso a medicamentos y\nproductos biológicos registrados en países de alta vigilancia sanitaria destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades.\n\ne Ley N° 29698, Ley que declara de interés Nacional y preferente atención el tratamiento\n\nde personas que padecen enfermedades raras o huérfanas\n\nLey N° 29459, Ley de los Productos Farmacéuticos, Dispositivos médicos y Productos\n\nsanitarios.\n\nDecreto Supremo N° 004-2019-JUS, que aprueba el Texto Único Ordenado de la Ley\n\nN° 27444, Ley del Procedimiento Administrativo General.\n\nLey N. 26842, Ley General de Salud.\n\nDecreto Legislativo N° 1161, que aprueba la Ley de Organización y Funciones del\n\nMinisterio de Salud y su modificatoria.\n\ne Decreto Supremo N. 008-2017-SA, que aprueba el Reglamento de Organización y\nFunciones del Ministerio de Salud, modificado por los Decretos Supremos N. 011-2017-\nSA y 032-2017-SA.\n\ne Decreto Supremo N° 016-2011-SA, que aprueba el Reglamento para el Registro,\nControl y Vigilancia Sanitaria de Productos Farmacéuticos, Dispositivos Médicos y\nProductos Sanitarios y sus modificatorias y respectivos reglamentos.\n\n+ Decreto Supremo N° 014-2011-SA, que aprueba el Reglamento de Establecimientos\nFarmacéuticos\n\nCONTENIDO\n\n6.1 Se encuentran comprendidos en la presente Directriz Institucional:\n\na) Los medicamentos y productos biológicos destinados al tratamiento de enfermedades\nraras o huérfanas, sobre la base de las enfermedades consideradas en el Listado de\nEnfermedades Raras o Huérfanas aprobado por el Ministerio de Salud.\n\nb) Los medicamentos y productos biológicos destinados al tratamiento de cáncer cuya\nindicación de uso está determinada por la autoridad reguladora del país de alta\nvigilancia sanitaria (PAVS).\n\nc) Los medicamentos y productos biológicos para el tratamiento de las demás\nenfermedades no comprendidas en los literales a) y b) del presente numeral.\n\n6.2 Para la inscripción o reinscripción en el registro sanitario de medicamentos y productos\n\nbiológicos registrados y/o autorizados y comercializados en PAVS, destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, se debe\npresentar:\n\n1. Solicitud con carácter de declaración jurada según formato (Anexo N° 01), que estará\ndisponible en versión editable en el portal web institucional de DIGEMID.\n\n2. Copia de la información completa de calidad, seguridad y eficacia en formato del\ndocumento técnico común (CTD), el mismo-que fue autorizado en el PAVS, en idioma\ninglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o\nIV-B. De corresponder, incluir las obligaciones específicas según formato (Anexo N°\n02).\n\n3. Copia del certificado de producto farmacéutico o certificado de libre comercialización,\nque acredite que el mismo medicamento o producto biológico se encuentra registrado\ny/o autorizado y comercializado en dicho PAVS.\n\n4. Copia del plan de gestión de riesgo.\n\n\nPAGE 5 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\n6.3\n\nVil.\n\nVill.\n\n8.1\n\nEn\n\n5. Rotulado, ficha técnica e inserto, en idioma español, los que de",
+        "section_article": "Directive scope6.1–6.2 and drug documentation",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+        "checked_english_research_rendering": "Covers rare/orphan, cancer and other diseases; complete same approvedCTD, local climatic stability, CPP/marketing proof, riskmanagement plan.",
+        "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+        "language": "es",
+        "checked_english_summary": "Covers rare/orphan, cancer and other diseases; complete same approvedCTD, local climatic stability, CPP/marketing proof, riskmanagement plan."
+      },
+      {
+        "clause_id": "EXP-A-055-11900",
+        "document_id": "F250_11f869021ea515fdafa9",
+        "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+        "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+        "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+        "start_offset": 11900,
+        "end_offset": 15100,
+        "verbatim_extracted_text": "ben presentarse tal\ncomo se va a comercializar, distribuir o usar el medicamento o producto biológico en\nel Perú.\n\n6. Certificado de liberación de lote emitido por la autoridad competente del país de\norigen para el caso de vacunas y derivados de plasma humano.\n\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro\nsanitario según formato (Anexo N° 03) y cumplimiento de obligaciones específicas según\nformato (Anexo N° 04) en el registro sanitario será la misma que la otorgada en el PAVS.\nPara presentar la solicitud debe acogerse a un único PAVS y mantenerse durante la\nvigencia de su registro sanitario.\n\nDel proceso de presentación de las solicitudes de inscripción y reinscripción en el Registro\nSanitario.\n\nA efecto de presentar la solicitud se debe tener en cuenta el formato del anexo N° 01, el\nque se presenta a través de mesa de partes presencial de DIGEMID, adjuntando la\ndocumentación digitalizada completa en formato CTD, en CD u otro sistema de\nalmacenamiento magnético, que esté indexada, evidencie trazabilidad con hipervínculos y\nlacrados, utilizando el formato zip.\n\n6.3.1 Admisibilidad de la solicitud\n\nLa ANM, en un plazo máximo de dos (02) días hábiles, verifica que la solicitud haya sido\npresentada bajo el ámbito de aplicación de la Ley 32319, así como la entrega completa de\nlos requisitos establecido en dicha Ley.\n\nDe cumplir con lo antes señalado o de vencido el plazo de dos (02) días hábiles sin que\nhaya pronunciamiento de la ANM se considera admitida la solicitud. De no cumplir, se\nprocede con la notificación de observaciones al administrado a fin que sean subsanadas\n\nen el plazo de dos (02) días hábiles; de no subsanar, la solicitud se considera como no\nadmitido y se procede a su devolución.\n\n6.3.2 Evaluación\n\nAdmitida la solicitud de inscripción o reinscripción en el registro sanitario, se le asigna un\nnúmero de expediente y la Dirección de Productos Farmacéuticos de la DIGEMID procede\na su evaluación acelerada en un plazo no mayor de cuarenta y cinco 45 días calendario.\nDicha evaluación no exime a la ANM de realizar observaciones relacionadas a la revisión\ndel expediente, conforme a lo dispuesto en el numeral 125.5 del artículo 125 del Texto\nUnico Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General.\nRESPONSABILIDADES\n\nLa Direccién de Medicamentos, Insumos y Drogas (DIGEMID), como ANM es responsable\nde verificar el cumplimiento de la presente Directriz Institucional.\n\nSEGUIMIENTO\n\nModalidad de presentación de solicitudes\n\ntanto se implementen las plataformas virtuales correspondientes, la presentación de\n\nsolicitudes de inscripción y reinscripción en el Registro Sanitario se realizará, de manera\ntemporal, a través de mesa de partes presencial de la DIGEMID.\n\n8.2 Implementación de plataforma virtual\n\nDIGEMID viene trabajando en el desarrollo e implementación de plataformas digitales que\npermita la gestión virtual del procedimiento comprendido en esta directriz, con el objetivo de\noptimizar los procesos y facilitar el acceso de los administrados.\n\n\nPAGE 6 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\n8.3\n\nMonitoreo del proceso\n\nLa implementación progresiva de las plataformas virt",
+        "section_article": "OnePAVS, admissibility6.3.1 and review6.3.2",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+        "checked_english_research_rendering": "Select onePAVS throughout MA validity; two working days admissibility, then at most45calendar days accelerated evaluation, with observations permitted.",
+        "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+        "language": "es",
+        "checked_english_summary": "Select onePAVS throughout MA validity; two working days admissibility, then at most45calendar days accelerated evaluation, with observations permitted."
+      },
+      {
+        "clause_id": "EXP-A-055-0",
+        "document_id": "F250_11f869021ea515fdafa9",
+        "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+        "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+        "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+        "start_offset": 0,
+        "end_offset": 1400,
+        "verbatim_extracted_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nDirección General\nde Medicamentos,\n1 Insumos y Drogas\n\nXo. o i\nMii\npa PERÚ | Misitere\n\n“Decenio de la Igualdad de Oportunidades para Mujeres y Hombres”\n“Año de la Recuperación y consolidación de la economía peruana”\n\nNo 076 -2025-DIGEMID-DG-MINSA\n\nRESOLUCION DIRECTORAL\n\nLima, 03 de mayo de 2025\n\nVisto, el Informe N° 001-2025-DIGEMID-DPF-MINSA de la Dirección de Productos\nFarmacéuticos, por la cual traslada la propuesta para la atención de las solicitudes de\ninscripción y reinscripción en el registro sanitario presentadas en el marco de la Ley N°\n32319;\n\nCONSIDERANDO:\n\n4 Que, los numerales | y II del Título Preliminar de la Ley N° 26842, Ley General de\n\nSES Salud, señalan que la salud es condición indispensable del desarrollo humano y medio\nOKAY. fundamental para alcanzar el bienestar individual y colectivo; por lo que la protección de\nla salud es de interés público, siendo responsabilidad del Estado regularla, vigilarla y\npromoverla;\n\nQue, el numeral 6) del artículo 3 del Decreto Legislativo N° 1161, Ley de Organización\ny Funciones del Ministerio de Salud, establece que el Ministerio de Salud es competente\nen productos farmacéuticos y sanitarios, dispositivos médicos y establecimientos\nfarmacéuticos;\n\nQue, el artículo 5 de la Ley N° 29459, Ley de los Productos Farmacéuticos,\nDispositivos Médicos y Productos Sanitarios, dispone",
+        "section_article": "RD076 date and title; scanned page1 visually checked",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+        "language": "es"
+      }
+    ],
+    "other_reviewed_routes": [
+      {
+        "record_key": "baseline",
+        "selected_for_primary": false,
+        "pathway": "45-day accelerated assessment with positive administrative silence",
         "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
-        "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
-        "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
-        "exact_text": "tos, y garantizar el derecho fundamental a la salud y a la vida de toda persona.\nArtículo 2\n. Ámbito de aplicación\nEstán comprendidos en la ley los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, registrados y comercializados en países de alta vigilancia sanitaria.\nEl Ministerio de Salud establece las enfermedades raras y huérfanas, en el plazo de treinta días calendario computados desde la entrada en vigor de la presente ley, bajo responsabilidad funcional.\nArtículo 3\n. Medidas y requisitos para facilitar la inscripción y reinscripción en el Registro Sanitario\nSe exonera de la aplicación de lo dispuesto en los artículos 10 y 11 de la Ley 29459, Ley de los productos farmacéuticos, dispositivos médicos y productos sanitarios, a los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades que cuenten con el registro y se comercialicen en los países de alta vigilancia sanitaria.\nEstos productos están sujetos a un procedimiento de evaluación acelerada en un plazo no mayor de cuarenta y cinco días calendario con silencio administrativo positivo, siempre que cumpla con remitir la información completa de calidad, seguridad y eficacia en formato del documento técnico común, el mismo que fue autorizado en el país de alta vigilancia sanitaria, en idioma inglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o IV-B; así como el certificado de producto farmacéutico o certificado de libre comercialización, que acredite que el mismo producto farmacéutico se encuentra autorizado y se esté comercializando en dicho PAVS; plan de gestión de riesgo; rotulados, ficha técnica e inserto, en idioma español, y certificado de liberación de lote emitido por la autoridad competente del país de origen para el caso de vacunas y derivados de plasma.\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro sanitario y cumplimiento de obligaciones específicas) en el registro sanitario serán la misma que la otorgada en el PAVS.\nArtículo 4\n. Condición para la aplicación de las medidas para facilitar la inscripción y reinscripción en el Registro Sanitario\nLos medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, deben encontrarse registrados y comercializarse en algún país de alta vigilancia sanitaria, contar con el registro autorizado y producirse para la zona climática IV-A o IV-B establecida por la Organización Mundial de la Salud.\nDISPOSICIONES COMPLEMENTARIAS FINALES\nPRIMERA. Declaración de interés nacional\nSe declara de interés nacional el fortalecimiento y modernización de la Dirección General de Medicamentos, Insumos y Drogas - DIGEMID, a fin de promover su funcionamiento con altos estándares internacionales, a nivel de países de alta vigilancia sanitaria.\nSEGUNDA. Aplicación inmediata\nLo dispuesto en la presente ley es de aplicación inmediata. Deróguese el artículo 9 de la Ley 29698 incorporado en la Ley 317",
-        "start": 940,
-        "end": 4050,
-        "exact_offset_validated": true,
-        "interpretation_language": "English assistant interpretation; original authoritative"
+        "version_note": null,
+        "version_scope_note": "Law 32319 published 1 May 2025; legal text includes “and other diseases”, so ordinary nonorphan drugs are not excluded merely by the law’s rare-disease title. Country-of-high-surveillance designation and local-climate dossier conditions require validation.",
+        "scope": "Human-medicine initial marketing authorisation",
+        "components": {
+          "new_active_substance": {
+            "state": "discretionary/conditional",
+            "finding": "Medicines for rare/orphan/cancer and other diseases, registered and marketed in high-surveillance countries.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "named_reference_agencies": {
+            "state": "unresolved/not stated",
+            "finding": "PAVS category; underlying country designation not enumerated in this law.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "prior_approval_count": {
+            "state": "explicit requirement",
+            "finding": "Registration and marketing in a qualifying country; no two-reference threshold stated.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "standalone_review": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "approval_age": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "foreign_marketing": {
+            "state": "explicit requirement",
+            "finding": "Foreign authorization plus commercial marketing and CPP/free-sale evidence.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "same_product_dossier_site": {
+            "state": "explicit requirement",
+            "finding": "Complete foreign-authorized CTD for same product.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "report_completeness": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "nonpublic_reports": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "accepted_redactions": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "public_report_sufficiency": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "applicant_consent": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "reference_authority_permission": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "regulator_to_regulator_sharing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "local_clinical_evidence": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "quality_gmp": {
+            "state": "explicit requirement",
+            "finding": "Stability for climatic zone IV-A or IV-B; full quality/safety/efficacy CTD.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "scientific_assessment_retained": {
+            "state": "explicit requirement",
+            "finding": "Accelerated evaluation retained, not automatic scientific-assessment waiver.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "local_representative": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "filing_fee": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source/context; no absence inference.",
+            "evidence_ids": []
+          },
+          "translation_legalization": {
+            "state": "explicit requirement",
+            "finding": "CTD English or Spanish; Spanish labels/technical sheet/insert.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "cpp": {
+            "state": "explicit requirement",
+            "finding": "CPP or free-sale certificate showing same product authorized and marketed.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "clock": {
+            "state": "explicit requirement",
+            "finding": "At most 45 calendar days with positive administrative silence on complete qualifying dossier.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "domestic_discretion": {
+            "state": "discretionary/conditional",
+            "finding": "Conditions and unregulated matters subject to pharmaceutical law and implementing rules.",
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          }
+        },
+        "cases": {
+          "A": {
+            "eligibility": "discretionary/conditional",
+            "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+            ],
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "B": {
+            "eligibility": "discretionary/conditional",
+            "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+            ],
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "C": {
+            "eligibility": "discretionary/conditional",
+            "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+            ],
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "D": {
+            "eligibility": "discretionary/conditional",
+            "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+            ],
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          },
+          "E": {
+            "eligibility": "discretionary/conditional",
+            "finding": "Route may be considered subject to documented local, documentary and discretionary requirements; no automatic grant or practical use asserted.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Complete eligibility, incorporated rules, administrative/local-evidence conditions and permissions where not explicitly resolved."
+            ],
+            "evidence_ids": [
+              "PER-Q01",
+              "PER-CTX-1"
+            ]
+          }
+        },
+        "gates": null,
+        "gate_notes": null,
+        "evidence": [
+          {
+            "passage_id": "PER-Q01",
+            "source_document_id": "b2afd864591d66482ac4",
+            "evidence_role": "Selected primary document",
+            "section_article": "Articles 2–4",
+            "pdf_page": null,
+            "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
+            "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
+            "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
+            "exact_text": "Artículo 2\n. Ámbito de aplicación\nEstán comprendidos en la ley los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, registrados y comercializados en países de alta vigilancia sanitaria.\nEl Ministerio de Salud establece las enfermedades raras y huérfanas, en el plazo de treinta días calendario computados desde la entrada en vigor de la presente ley, bajo responsabilidad funcional.\nArtículo 3\n. Medidas y requisitos para facilitar la inscripción y reinscripción en el Registro Sanitario\nSe exonera de la aplicación de lo dispuesto en los artículos 10 y 11 de la Ley 29459, Ley de los productos farmacéuticos, dispositivos médicos y productos sanitarios, a los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades que cuenten con el registro y se comercialicen en los países de alta vigilancia sanitaria.\nEstos productos están sujetos a un procedimiento de evaluación acelerada en un plazo no mayor de cuarenta y cinco días calendario con silencio administrativo positivo, siempre que cumpla con remitir la información completa de calidad, seguridad y eficacia en formato del documento técnico común, el mismo que fue autorizado en el país de alta vigilancia sanitaria, en idioma inglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o IV-B; así como el certificado de producto farmacéutico o certificado de libre comercialización, que acredite que el mismo producto farmacéutico se encuentra autorizado y se esté comercializando en dicho PAVS; plan de gestión de riesgo; rotulados, ficha técnica e inserto, en idioma español, y certificado de liberación de lote emitido por la autoridad competente del país de origen para el caso de vacunas y derivados de plasma.\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro sanitario y cumplimiento de obligaciones específicas) en el registro sanitario serán la misma que la otorgada en el PAVS.\nArtículo 4\n. Condición para la aplicación de las medidas para facilitar la inscripción y reinscripción en el Registro Sanitario\nLos medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, deben encontrarse registrados y comercializarse en algún país de alta vigilancia sanitaria, contar con el registro autorizado y producirse para la zona climática IV-A o IV-B establecida por la Organización Mundial de la Salud.",
+            "start": 1021,
+            "end": 3558,
+            "translation": "Article 2. Scope. This law covers medicines and biological products for rare diseases, orphan diseases, cancer and other diseases, registered and marketed in countries with high sanitary surveillance. The Ministry of Health shall specify rare and orphan diseases within thirty calendar days from entry into force, under functional responsibility. Article 3. Measures and requirements facilitating registration and re-registration. Medicines and biological products for those diseases that are registered and marketed in high-surveillance countries are exempted from Articles 10 and 11 of Law 29459 on pharmaceutical products, medical devices and health products. These products undergo accelerated evaluation within no more than forty-five calendar days, with positive administrative silence, provided complete quality, safety and efficacy information is submitted in the common technical document format authorised in the high-surveillance country, in English or Spanish, including stability studies for Climatic Zone IV-A or IV-B; a pharmaceutical-product certificate or free-sale certificate showing that the same product is authorised and being marketed in that country; a risk-management plan; labels, technical information and package insert in Spanish; and, for vaccines and plasma derivatives, a batch-release certificate issued by the competent authority of the country of origin. The validity and updating conditions (registration modifications or changes and compliance with specific obligations) of the sanitary registration shall be the same as those granted in the high-surveillance country. Article 4. Condition for the facilitation measures. The medicines and biological products for rare diseases, orphan diseases, cancer and other diseases must be registered and marketed in a high-surveillance country, have the authorised registration and be produced for WHO Climatic Zone IV-A or IV-B.",
+            "translation_status": "Assistant checked and corrected research translation; not official/certified",
+            "exact_offset_validated": true
+          },
+          {
+            "passage_id": "PER-CTX-1",
+            "section_article": "Context window, character coordinates in preserved full source; see PAGE markers where present",
+            "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
+            "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
+            "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
+            "exact_text": "tos, y garantizar el derecho fundamental a la salud y a la vida de toda persona.\nArtículo 2\n. Ámbito de aplicación\nEstán comprendidos en la ley los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, registrados y comercializados en países de alta vigilancia sanitaria.\nEl Ministerio de Salud establece las enfermedades raras y huérfanas, en el plazo de treinta días calendario computados desde la entrada en vigor de la presente ley, bajo responsabilidad funcional.\nArtículo 3\n. Medidas y requisitos para facilitar la inscripción y reinscripción en el Registro Sanitario\nSe exonera de la aplicación de lo dispuesto en los artículos 10 y 11 de la Ley 29459, Ley de los productos farmacéuticos, dispositivos médicos y productos sanitarios, a los medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades que cuenten con el registro y se comercialicen en los países de alta vigilancia sanitaria.\nEstos productos están sujetos a un procedimiento de evaluación acelerada en un plazo no mayor de cuarenta y cinco días calendario con silencio administrativo positivo, siempre que cumpla con remitir la información completa de calidad, seguridad y eficacia en formato del documento técnico común, el mismo que fue autorizado en el país de alta vigilancia sanitaria, en idioma inglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o IV-B; así como el certificado de producto farmacéutico o certificado de libre comercialización, que acredite que el mismo producto farmacéutico se encuentra autorizado y se esté comercializando en dicho PAVS; plan de gestión de riesgo; rotulados, ficha técnica e inserto, en idioma español, y certificado de liberación de lote emitido por la autoridad competente del país de origen para el caso de vacunas y derivados de plasma.\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro sanitario y cumplimiento de obligaciones específicas) en el registro sanitario serán la misma que la otorgada en el PAVS.\nArtículo 4\n. Condición para la aplicación de las medidas para facilitar la inscripción y reinscripción en el Registro Sanitario\nLos medicamentos y productos biológicos destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, deben encontrarse registrados y comercializarse en algún país de alta vigilancia sanitaria, contar con el registro autorizado y producirse para la zona climática IV-A o IV-B establecida por la Organización Mundial de la Salud.\nDISPOSICIONES COMPLEMENTARIAS FINALES\nPRIMERA. Declaración de interés nacional\nSe declara de interés nacional el fortalecimiento y modernización de la Dirección General de Medicamentos, Insumos y Drogas - DIGEMID, a fin de promover su funcionamiento con altos estándares internacionales, a nivel de países de alta vigilancia sanitaria.\nSEGUNDA. Aplicación inmediata\nLo dispuesto en la presente ley es de aplicación inmediata. Deróguese el artículo 9 de la Ley 29698 incorporado en la Ley 317",
+            "start": 940,
+            "end": 4050,
+            "exact_offset_validated": true,
+            "interpretation_language": "English assistant interpretation; original authoritative"
+          }
+        ],
+        "selection_recommendation": null,
+        "selection_reason": null
       }
     ],
     "review_details": {
+      "record_id": "PER-EXP-A-055",
       "iso3": "PER",
       "country": "Peru",
-      "selected_document_id": "b2afd864591d66482ac4",
-      "source_id": "e566ae203192b669",
-      "pathway": "45-day accelerated assessment with positive administrative silence",
-      "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
-      "document_title": "Law32319 official gazette",
-      "source_type": "Statute",
-      "scope": "Human-medicine initial marketing authorisation",
+      "pathway": "Law 32319 accelerated registration: institutional implementation",
+      "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+      "document_id": "F250_11f869021ea515fdafa9",
       "language": "es",
-      "translation_provenance": [
+      "genre": "Official national guideline/procedure",
+      "scope": "Initial human-medicine marketing authorisation, subject to expressly recorded route limits",
+      "version_note": "RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted.",
+      "version_scope_note": "RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted.",
+      "primary_comparison": true,
+      "selection_recommendation": "preferred_primary",
+      "selection_reason": "Operative implementation includes ordinary nonorphan indications and detailed filing/clock provisions; useful preferred alternate to narrower historical routes.",
+      "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+      "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "Scope expressly includes other diseases beyond orphan and cancer; a nonorphan new small molecule is not excluded merely by disease category.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "High-surveillance-country PAVS category incorporated by law; this directive does not reproduce the full country/authority list. FDA acceptance should be linked to the operative incorporated list.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Choose one qualifying PAVS and keep it throughout validity. Two foreign approvals are not the expressed minimum.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Certificate must establish same medicine authorised and marketed in the chosen PAVS .",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Complete quality/safety/efficacy CTD is the one authorised in PAVS ; CPP identifies product, strength, form, manufacturer and composition.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Full CTD means company scientific dossier, not the foreign regulator assessment report. No mandatory underlying-report gate established here.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "CTD includes climatic Zone IV-A or IV-B stability. A full USCTD alone does not prove this climate-specific evidence.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Accelerated national dossier evaluation remains; DIGEMID may raise observations. It is not automatic registration at filing.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "CTD English or Spanish; local label, technicalsheet and leaflet in Spanish as proposed for use/distribution.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "CPP or free-marketing certificate for same authorised/marketed product; riskmanagement plan also required. Extra authority composition letter if local CPP rules omit excipient details.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "At most 2 working days admissibility, with 2 working days correction; admission on compliance or silence. Then no more than 45 calendar days accelerated evaluation. Do not call 2 day admission a 2 day MA .",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "status": "one-reference condition established; residual eligibility unresolved",
+          "eligibility": "one-reference condition established; residual eligibility unresolved",
+          "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "B": {
+          "status": "one-reference condition established; residual eligibility unresolved",
+          "eligibility": "one-reference condition established; residual eligibility unresolved",
+          "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "C": {
+          "status": "one-reference condition established; residual eligibility unresolved",
+          "eligibility": "one-reference condition established; residual eligibility unresolved",
+          "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "D": {
+          "status": "one-reference condition established; residual eligibility unresolved",
+          "eligibility": "one-reference condition established; residual eligibility unresolved",
+          "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "E": {
+          "status": "one-reference condition established; residual eligibility unresolved",
+          "eligibility": "one-reference condition established; residual eligibility unresolved",
+          "finding": "Select one qualifying PAVS and submit same authorised/marketed product CTD , CPP , RMP , Spanish product information and Zone IV stability. Applicable PAVS -list eligibility, certificate details and local stability are not all fixed. More assessment content/consents does not resolve those facts.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": false,
+        "one_approval_alternative_described": false,
+        "ambiguous_additional_full_report_gate": null,
+        "one_approval_route_described": true
+      },
+      "gate_notes": {
+        "second_approval_selected_route": {
+          "finding": "Directive explicitly selects a singlePAVS; no second-reference minimum for this documented route.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "one_approval_alternative_described": {
+          "finding": "This is a one-reference route itself, not an expressly contrasted one-approval alternative to a two-approval route.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "one_approval_route_described": {
+          "finding": "The directive expressly uses one PAVS. It does not contrast this with a multiple-approval route, so it does not enlarge the older one-approval-alternative subset.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "complete_report_gate": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "nonpublic_report_or_public_domain_exclusion": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        },
+        "ambiguous_additional_full_report_gate": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-055-3500",
+            "EXP-A-055-8200",
+            "EXP-A-055-11900",
+            "EXP-A-055-0"
+          ]
+        }
+      },
+      "paired_comparisons": {
+        "B_vs_A": "No underlying-regulator report gate established. Do not confuse complete company CTD with foreign assessment report.",
+        "E_vs_B": "One qualifying PAVS is sufficient for the prior-reference condition; precise FDA / PAVS list match remains incorporated."
+      },
+      "evidence": [
         {
-          "PER-Q01": "Assistant checked and corrected research translation; not official/certified"
+          "clause_id": "EXP-A-055-3500",
+          "document_id": "F250_11f869021ea515fdafa9",
+          "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+          "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+          "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+          "start_offset": 3500,
+          "end_offset": 5500,
+          "verbatim_extracted_text": "29459;\n\nQue, con documento de visto, la Dirección de Productos Farmacéuticos, solicita la\naprobación de la Directriz Institucional para la atención de las solicitudes de inscripción y\nreinscripción en el registro sanitario presentadas en el marco de la Ley N° 32319, a efecto\nde garantizar que los procesos de evaluación acelerados aseguren la calidad, seguridad\ny eficacia de los medicamentos y productos biológicos;\n\nDe conformidad con lo dispuesto en la Ley N° 26842, Ley General de Salud, en la\nLey N° 29459, Ley de los Productos Farmacéuticos, Dispositivos Médicos y Productos\nSanitarios, en el Decreto Legislativo N° 1161, Ley de Organización y Funciones del\nMinisterio de Salud, y en el Decreto Supremo N° 008-2017-SA que aprueba el\nReglamento de Organización y Funciones del Ministerio de Salud;\n\nSE RESUELVE:\n\nARTÍCULO ÚNICO. - Aprobar la Directriz Institucional para la atención de las\nsolicitudes de inscripción y reinscripción en el registro sanitario presentadas en el marco\nde la Ley N° 32319, Ley que establece medidas para facilitar el acceso a medicamentos\ny productos biológicos registrados en países de alta vigilancia sanitaria destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, que como\nanexo forma parte integrante de la presente resolución directoral.\n\nRegístrese, comuníquese y cúmplase\n\nÑ Con\nwww.digemid.minsa.gob.pe Av. Parque de las Leyendas N° 240, put\n(511) 631-4300 \\\n\nUrb. Pando San Miguel, Lima 32, Perú p\ner\n\n\nPAGE 3 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nDIRECTRIZ INSTITUCIONAL PARA LA ATENCIÓN DE LAS SOLICITUDES DE\nINSCRIPCIÓN Y REINSCRIPCIÓN EN EL REGISTRO SANITARIO PRESENTADAS EN\nEL MARCO DE LA LEY N° 32319, LEY QUE ESTABLECE MEDIDAS PARA FACILITAR\n\nEL ACCESO A MEDICAMENTOS Y PRODUCTOS BIOLÓGICOS REGISTRADOS EN\nPAÍSES DE ALTA VIGILANCIA SANITARIA DESTINADOS AL TRATAMIENTO DE\nENFERMEDADES RARAS, HUÉRFANAS, CÁNCER Y DEMÁS ENFERMEDADES\n\nI. INTRODUCCION\n\nLa Dirección General de Medicamentos Insumos y Drogas - DIGE",
+          "section_article": "RD076/2025 adoption article",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+          "checked_english_research_rendering": "Approves the institutional directive under Law32319.",
+          "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+          "language": "es",
+          "checked_english_summary": "Approves the institutional directive under Law32319."
+        },
+        {
+          "clause_id": "EXP-A-055-8200",
+          "document_id": "F250_11f869021ea515fdafa9",
+          "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+          "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+          "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+          "start_offset": 8200,
+          "end_offset": 11900,
+          "verbatim_extracted_text": " medicamentos y productos biológicos en el marco\nde la Ley N° 32319.\n\n\nPAGE 4 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nÁMBITO DE APLICACIÓN\n\nLa presente Directriz Institucional se aplica para la atención de las solicitudes de\ninscripción y reinscripción en el Registro Sanitario de medicamentos y productos\nbiológicos registrados y/o autorizados y comercializados en paises de alta vigilancia\nsanitaria, destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás\nenfermedades, en el marco de lo dispuesto en la Ley N° 32319.\n\nBASE LEGAL\n\ne Ley N° 32319, Ley que establece medidas para facilitar el acceso a medicamentos y\nproductos biológicos registrados en países de alta vigilancia sanitaria destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades.\n\ne Ley N° 29698, Ley que declara de interés Nacional y preferente atención el tratamiento\n\nde personas que padecen enfermedades raras o huérfanas\n\nLey N° 29459, Ley de los Productos Farmacéuticos, Dispositivos médicos y Productos\n\nsanitarios.\n\nDecreto Supremo N° 004-2019-JUS, que aprueba el Texto Único Ordenado de la Ley\n\nN° 27444, Ley del Procedimiento Administrativo General.\n\nLey N. 26842, Ley General de Salud.\n\nDecreto Legislativo N° 1161, que aprueba la Ley de Organización y Funciones del\n\nMinisterio de Salud y su modificatoria.\n\ne Decreto Supremo N. 008-2017-SA, que aprueba el Reglamento de Organización y\nFunciones del Ministerio de Salud, modificado por los Decretos Supremos N. 011-2017-\nSA y 032-2017-SA.\n\ne Decreto Supremo N° 016-2011-SA, que aprueba el Reglamento para el Registro,\nControl y Vigilancia Sanitaria de Productos Farmacéuticos, Dispositivos Médicos y\nProductos Sanitarios y sus modificatorias y respectivos reglamentos.\n\n+ Decreto Supremo N° 014-2011-SA, que aprueba el Reglamento de Establecimientos\nFarmacéuticos\n\nCONTENIDO\n\n6.1 Se encuentran comprendidos en la presente Directriz Institucional:\n\na) Los medicamentos y productos biológicos destinados al tratamiento de enfermedades\nraras o huérfanas, sobre la base de las enfermedades consideradas en el Listado de\nEnfermedades Raras o Huérfanas aprobado por el Ministerio de Salud.\n\nb) Los medicamentos y productos biológicos destinados al tratamiento de cáncer cuya\nindicación de uso está determinada por la autoridad reguladora del país de alta\nvigilancia sanitaria (PAVS).\n\nc) Los medicamentos y productos biológicos para el tratamiento de las demás\nenfermedades no comprendidas en los literales a) y b) del presente numeral.\n\n6.2 Para la inscripción o reinscripción en el registro sanitario de medicamentos y productos\n\nbiológicos registrados y/o autorizados y comercializados en PAVS, destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, se debe\npresentar:\n\n1. Solicitud con carácter de declaración jurada según formato (Anexo N° 01), que estará\ndisponible en versión editable en el portal web institucional de DIGEMID.\n\n2. Copia de la información completa de calidad, seguridad y eficacia en formato del\ndocumento técnico común (CTD), el mismo-que fue autorizado en el PAVS, en idioma\ninglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o\nIV-B. De corresponder, incluir las obligaciones específicas según formato (Anexo N°\n02).\n\n3. Copia del certificado de producto farmacéutico o certificado de libre comercialización,\nque acredite que el mismo medicamento o producto biológico se encuentra registrado\ny/o autorizado y comercializado en dicho PAVS.\n\n4. Copia del plan de gestión de riesgo.\n\n\nPAGE 5 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\n6.3\n\nVil.\n\nVill.\n\n8.1\n\nEn\n\n5. Rotulado, ficha técnica e inserto, en idioma español, los que de",
+          "section_article": "Directive scope6.1–6.2 and drug documentation",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+          "checked_english_research_rendering": "Covers rare/orphan, cancer and other diseases; complete same approvedCTD, local climatic stability, CPP/marketing proof, riskmanagement plan.",
+          "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+          "language": "es",
+          "checked_english_summary": "Covers rare/orphan, cancer and other diseases; complete same approvedCTD, local climatic stability, CPP/marketing proof, riskmanagement plan."
+        },
+        {
+          "clause_id": "EXP-A-055-11900",
+          "document_id": "F250_11f869021ea515fdafa9",
+          "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+          "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+          "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+          "start_offset": 11900,
+          "end_offset": 15100,
+          "verbatim_extracted_text": "ben presentarse tal\ncomo se va a comercializar, distribuir o usar el medicamento o producto biológico en\nel Perú.\n\n6. Certificado de liberación de lote emitido por la autoridad competente del país de\norigen para el caso de vacunas y derivados de plasma humano.\n\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro\nsanitario según formato (Anexo N° 03) y cumplimiento de obligaciones específicas según\nformato (Anexo N° 04) en el registro sanitario será la misma que la otorgada en el PAVS.\nPara presentar la solicitud debe acogerse a un único PAVS y mantenerse durante la\nvigencia de su registro sanitario.\n\nDel proceso de presentación de las solicitudes de inscripción y reinscripción en el Registro\nSanitario.\n\nA efecto de presentar la solicitud se debe tener en cuenta el formato del anexo N° 01, el\nque se presenta a través de mesa de partes presencial de DIGEMID, adjuntando la\ndocumentación digitalizada completa en formato CTD, en CD u otro sistema de\nalmacenamiento magnético, que esté indexada, evidencie trazabilidad con hipervínculos y\nlacrados, utilizando el formato zip.\n\n6.3.1 Admisibilidad de la solicitud\n\nLa ANM, en un plazo máximo de dos (02) días hábiles, verifica que la solicitud haya sido\npresentada bajo el ámbito de aplicación de la Ley 32319, así como la entrega completa de\nlos requisitos establecido en dicha Ley.\n\nDe cumplir con lo antes señalado o de vencido el plazo de dos (02) días hábiles sin que\nhaya pronunciamiento de la ANM se considera admitida la solicitud. De no cumplir, se\nprocede con la notificación de observaciones al administrado a fin que sean subsanadas\n\nen el plazo de dos (02) días hábiles; de no subsanar, la solicitud se considera como no\nadmitido y se procede a su devolución.\n\n6.3.2 Evaluación\n\nAdmitida la solicitud de inscripción o reinscripción en el registro sanitario, se le asigna un\nnúmero de expediente y la Dirección de Productos Farmacéuticos de la DIGEMID procede\na su evaluación acelerada en un plazo no mayor de cuarenta y cinco 45 días calendario.\nDicha evaluación no exime a la ANM de realizar observaciones relacionadas a la revisión\ndel expediente, conforme a lo dispuesto en el numeral 125.5 del artículo 125 del Texto\nUnico Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General.\nRESPONSABILIDADES\n\nLa Direccién de Medicamentos, Insumos y Drogas (DIGEMID), como ANM es responsable\nde verificar el cumplimiento de la presente Directriz Institucional.\n\nSEGUIMIENTO\n\nModalidad de presentación de solicitudes\n\ntanto se implementen las plataformas virtuales correspondientes, la presentación de\n\nsolicitudes de inscripción y reinscripción en el Registro Sanitario se realizará, de manera\ntemporal, a través de mesa de partes presencial de la DIGEMID.\n\n8.2 Implementación de plataforma virtual\n\nDIGEMID viene trabajando en el desarrollo e implementación de plataformas digitales que\npermita la gestión virtual del procedimiento comprendido en esta directriz, con el objetivo de\noptimizar los procesos y facilitar el acceso de los administrados.\n\n\nPAGE 6 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\n8.3\n\nMonitoreo del proceso\n\nLa implementación progresiva de las plataformas virt",
+          "section_article": "OnePAVS, admissibility6.3.1 and review6.3.2",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+          "checked_english_research_rendering": "Select onePAVS throughout MA validity; two working days admissibility, then at most45calendar days accelerated evaluation, with observations permitted.",
+          "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+          "language": "es",
+          "checked_english_summary": "Select onePAVS throughout MA validity; two working days admissibility, then at most45calendar days accelerated evaluation, with observations permitted."
+        },
+        {
+          "clause_id": "EXP-A-055-0",
+          "document_id": "F250_11f869021ea515fdafa9",
+          "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+          "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+          "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+          "start_offset": 0,
+          "end_offset": 1400,
+          "verbatim_extracted_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nDirección General\nde Medicamentos,\n1 Insumos y Drogas\n\nXo. o i\nMii\npa PERÚ | Misitere\n\n“Decenio de la Igualdad de Oportunidades para Mujeres y Hombres”\n“Año de la Recuperación y consolidación de la economía peruana”\n\nNo 076 -2025-DIGEMID-DG-MINSA\n\nRESOLUCION DIRECTORAL\n\nLima, 03 de mayo de 2025\n\nVisto, el Informe N° 001-2025-DIGEMID-DPF-MINSA de la Dirección de Productos\nFarmacéuticos, por la cual traslada la propuesta para la atención de las solicitudes de\ninscripción y reinscripción en el registro sanitario presentadas en el marco de la Ley N°\n32319;\n\nCONSIDERANDO:\n\n4 Que, los numerales | y II del Título Preliminar de la Ley N° 26842, Ley General de\n\nSES Salud, señalan que la salud es condición indispensable del desarrollo humano y medio\nOKAY. fundamental para alcanzar el bienestar individual y colectivo; por lo que la protección de\nla salud es de interés público, siendo responsabilidad del Estado regularla, vigilarla y\npromoverla;\n\nQue, el numeral 6) del artículo 3 del Decreto Legislativo N° 1161, Ley de Organización\ny Funciones del Ministerio de Salud, establece que el Ministerio de Salud es competente\nen productos farmacéuticos y sanitarios, dispositivos médicos y establecimientos\nfarmacéuticos;\n\nQue, el artículo 5 de la Ley N° 29459, Ley de los Productos Farmacéuticos,\nDispositivos Médicos y Productos Sanitarios, dispone",
+          "section_article": "RD076 date and title; scanned page1 visually checked",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+          "language": "es"
         }
       ],
-      "raw_sha256": "c85b9acc8d1593cbb86dcf023295d4f23d9e24260d6f590373678426176a29f9",
-      "raw_hash_validated": true,
-      "text_sha256": "10282308d646c4662761e94253c0e500e924a11f7fdedec13241485ea24f97ed",
-      "version_dates": {
-        "publication_date": "2025-05-01"
-      },
-      "version_scope_note": "Law 32319 published 1 May 2025; legal text includes “and other diseases”, so ordinary nonorphan drugs are not excluded merely by the law’s rare-disease title. Country-of-high-surveillance designation and local-climate dossier conditions require validation.",
-      "contextual_review_status": "Targeted contextual legal-section review complete; full route eligibility unresolved where stated. Not independent legal certification.",
       "reviewed_ranges": [
         [
-          1021,
-          3558
+          0,
+          2200
         ],
         [
-          940,
-          4050
+          2000,
+          11500
+        ],
+        [
+          11000,
+          17687
         ]
       ],
+      "contextual_review_status": "Contextual review of the expressly recorded sections; not a certification that every incorporated rule is supplied.",
+      "version_dates": {
+        "resolution_date": "2025-05-03"
+      },
+      "complete_eligibility_resolved": false,
+      "translation_provenance": "Contextual original Spanish review with labelled checked English research rendering; no unchecked machine translation used",
+      "expansion_selection_reason": "Implemented Law 32319 guidance, distinct from consultation draft.",
+      "selected_expansion_record": "a:3"
+    }
+  },
+  "standard_drug_reviewed_routes": [
+    {
+      "record_key": "baseline",
+      "selected_for_primary": false,
+      "pathway": "45-day accelerated assessment with positive administrative silence",
+      "source_url": "https://busquedas.elperuano.pe/dispositivo/NL/2395814-4",
+      "version_note": null,
+      "version_scope_note": "Law 32319 published 1 May 2025; legal text includes “and other diseases”, so ordinary nonorphan drugs are not excluded merely by the law’s rare-disease title. Country-of-high-surveillance designation and local-climate dossier conditions require validation.",
+      "scope": "Human-medicine initial marketing authorisation",
       "components": {
         "new_active_substance": {
           "state": "discretionary/conditional",
@@ -790,24 +1468,8 @@
           ]
         }
       },
-      "pairwise_gates": {
-        "B_minus_A": {
-          "status": "unresolved/not established",
-          "finding": "No resolved legal access change from this information contrast established."
-        },
-        "B_minus_C": {
-          "status": "unresolved/not stated",
-          "finding": "No separately resolved applicant-consent gate; not a waiver."
-        },
-        "B_minus_D": {
-          "status": "unresolved/not stated",
-          "finding": "Separate reference-authority permission is not resolved; not a waiver."
-        },
-        "B_minus_E": {
-          "status": "unresolved/not established",
-          "finding": "No resolved second-approval access gain."
-        }
-      },
+      "gates": null,
+      "gate_notes": null,
       "evidence": [
         {
           "passage_id": "PER-Q01",
@@ -838,14 +1500,107 @@
           "interpretation_language": "English assistant interpretation; original authoritative"
         }
       ],
-      "supplementary_versions_on_hand": [
-        {
-          "clause_id": "PER-SUP-aa3b4c31-8140",
-          "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RM_403-2025-MINSA.pdf",
-          "section_article": "RM 403-2025/MINSA article 1: consultation, not final decree",
-          "note": "Separate supplemental source/version not silently substituted for primary route."
-        }
-      ]
+      "selection_recommendation": null,
+      "selection_reason": null
     }
-  }
+  ],
+  "standard_drug_expansion_clauses": [
+    {
+      "clause_id": "SDX-EXP-A-055-3500",
+      "document_id": "F250_11f869021ea515fdafa9",
+      "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+      "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+      "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+      "start_offset": 3500,
+      "end_offset": 5500,
+      "verbatim_extracted_text": "29459;\n\nQue, con documento de visto, la Dirección de Productos Farmacéuticos, solicita la\naprobación de la Directriz Institucional para la atención de las solicitudes de inscripción y\nreinscripción en el registro sanitario presentadas en el marco de la Ley N° 32319, a efecto\nde garantizar que los procesos de evaluación acelerados aseguren la calidad, seguridad\ny eficacia de los medicamentos y productos biológicos;\n\nDe conformidad con lo dispuesto en la Ley N° 26842, Ley General de Salud, en la\nLey N° 29459, Ley de los Productos Farmacéuticos, Dispositivos Médicos y Productos\nSanitarios, en el Decreto Legislativo N° 1161, Ley de Organización y Funciones del\nMinisterio de Salud, y en el Decreto Supremo N° 008-2017-SA que aprueba el\nReglamento de Organización y Funciones del Ministerio de Salud;\n\nSE RESUELVE:\n\nARTÍCULO ÚNICO. - Aprobar la Directriz Institucional para la atención de las\nsolicitudes de inscripción y reinscripción en el registro sanitario presentadas en el marco\nde la Ley N° 32319, Ley que establece medidas para facilitar el acceso a medicamentos\ny productos biológicos registrados en países de alta vigilancia sanitaria destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, que como\nanexo forma parte integrante de la presente resolución directoral.\n\nRegístrese, comuníquese y cúmplase\n\nÑ Con\nwww.digemid.minsa.gob.pe Av. Parque de las Leyendas N° 240, put\n(511) 631-4300 \\\n\nUrb. Pando San Miguel, Lima 32, Perú p\ner\n\n\nPAGE 3 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nDIRECTRIZ INSTITUCIONAL PARA LA ATENCIÓN DE LAS SOLICITUDES DE\nINSCRIPCIÓN Y REINSCRIPCIÓN EN EL REGISTRO SANITARIO PRESENTADAS EN\nEL MARCO DE LA LEY N° 32319, LEY QUE ESTABLECE MEDIDAS PARA FACILITAR\n\nEL ACCESO A MEDICAMENTOS Y PRODUCTOS BIOLÓGICOS REGISTRADOS EN\nPAÍSES DE ALTA VIGILANCIA SANITARIA DESTINADOS AL TRATAMIENTO DE\nENFERMEDADES RARAS, HUÉRFANAS, CÁNCER Y DEMÁS ENFERMEDADES\n\nI. INTRODUCCION\n\nLa Dirección General de Medicamentos Insumos y Drogas - DIGE",
+      "section_article": "RD076/2025 adoption article",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+      "checked_english_research_rendering": "Approves the institutional directive under Law32319.",
+      "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+      "language": "es",
+      "checked_english_summary": "Approves the institutional directive under Law32319.",
+      "iso3": "PER",
+      "country": "Peru",
+      "display_text": "29459;\n\nQue, con documento de visto, la Dirección de Productos Farmacéuticos, solicita la\naprobación de la Directriz Institucional para la atención de las solicitudes de inscripción y\nreinscripción en el registro sanitario presentadas en el marco de la Ley N° 32319, a efecto\nde garantizar que los procesos de evaluación acelerados aseguren la calidad, seguridad\ny eficacia de los medicamentos y productos biológicos;\n\nDe conformidad con lo dispuesto en la Ley N° 26842, Ley General de Salud, en la\nLey N° 29459, Ley de los Productos Farmacéuticos, Dispositivos Médicos y Productos\nSanitarios, en el Decreto Legislativo N° 1161, Ley de Organización y Funciones del\nMinisterio de Salud, y en el Decreto Supremo N° 008-2017-SA que aprueba el\nReglamento de Organización y Funciones del Ministerio de Salud;\n\nSE RESUELVE:\n\nARTÍCULO ÚNICO. - Aprobar la Directriz Institucional para la atención de las\nsolicitudes de inscripción y reinscripción en el registro sanitario presentadas en el marco\nde la Ley N° 32319, Ley que establece medidas para facilitar el acceso a medicamentos\ny productos biológicos registrados en países de alta vigilancia sanitaria destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, que como\nanexo forma parte integrante de la presente resolución directoral.\n\nRegístrese, comuníquese y cúmplase\n\nÑ Con\nwww.digemid.minsa.gob.pe Av. Parque de las Leyendas N° 240, put\n(511) 631-4300 \\\n\nUrb. Pando San Miguel, Lima 32, Perú p\ner\n\n\nPAGE 3 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nDIRECTRIZ INSTITUCIONAL PARA LA ATENCIÓN DE LAS SOLICITUDES DE\nINSCRIPCIÓN Y REINSCRIPCIÓN EN EL REGISTRO SANITARIO PRESENTADAS EN\nEL MARCO DE LA LEY N° 32319, LEY QUE ESTABLECE MEDIDAS PARA FACILITAR\n\nEL ACCESO A MEDICAMENTOS Y PRODUCTOS BIOLÓGICOS REGISTRADOS EN\nPAÍSES DE ALTA VIGILANCIA SANITARIA DESTINADOS AL TRATAMIENTO DE\nENFERMEDADES RARAS, HUÉRFANAS, CÁNCER Y DEMÁS ENFERMEDADES\n\nI. INTRODUCCION\n\nLa Dirección General de Medicamentos Insumos y Drogas - DIGE",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Law 32319 accelerated registration: institutional implementation RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted. Approves the institutional directive under Law32319.",
+      "version_alignment": "RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted."
+    },
+    {
+      "clause_id": "SDX-EXP-A-055-8200",
+      "document_id": "F250_11f869021ea515fdafa9",
+      "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+      "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+      "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+      "start_offset": 8200,
+      "end_offset": 11900,
+      "verbatim_extracted_text": " medicamentos y productos biológicos en el marco\nde la Ley N° 32319.\n\n\nPAGE 4 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nÁMBITO DE APLICACIÓN\n\nLa presente Directriz Institucional se aplica para la atención de las solicitudes de\ninscripción y reinscripción en el Registro Sanitario de medicamentos y productos\nbiológicos registrados y/o autorizados y comercializados en paises de alta vigilancia\nsanitaria, destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás\nenfermedades, en el marco de lo dispuesto en la Ley N° 32319.\n\nBASE LEGAL\n\ne Ley N° 32319, Ley que establece medidas para facilitar el acceso a medicamentos y\nproductos biológicos registrados en países de alta vigilancia sanitaria destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades.\n\ne Ley N° 29698, Ley que declara de interés Nacional y preferente atención el tratamiento\n\nde personas que padecen enfermedades raras o huérfanas\n\nLey N° 29459, Ley de los Productos Farmacéuticos, Dispositivos médicos y Productos\n\nsanitarios.\n\nDecreto Supremo N° 004-2019-JUS, que aprueba el Texto Único Ordenado de la Ley\n\nN° 27444, Ley del Procedimiento Administrativo General.\n\nLey N. 26842, Ley General de Salud.\n\nDecreto Legislativo N° 1161, que aprueba la Ley de Organización y Funciones del\n\nMinisterio de Salud y su modificatoria.\n\ne Decreto Supremo N. 008-2017-SA, que aprueba el Reglamento de Organización y\nFunciones del Ministerio de Salud, modificado por los Decretos Supremos N. 011-2017-\nSA y 032-2017-SA.\n\ne Decreto Supremo N° 016-2011-SA, que aprueba el Reglamento para el Registro,\nControl y Vigilancia Sanitaria de Productos Farmacéuticos, Dispositivos Médicos y\nProductos Sanitarios y sus modificatorias y respectivos reglamentos.\n\n+ Decreto Supremo N° 014-2011-SA, que aprueba el Reglamento de Establecimientos\nFarmacéuticos\n\nCONTENIDO\n\n6.1 Se encuentran comprendidos en la presente Directriz Institucional:\n\na) Los medicamentos y productos biológicos destinados al tratamiento de enfermedades\nraras o huérfanas, sobre la base de las enfermedades consideradas en el Listado de\nEnfermedades Raras o Huérfanas aprobado por el Ministerio de Salud.\n\nb) Los medicamentos y productos biológicos destinados al tratamiento de cáncer cuya\nindicación de uso está determinada por la autoridad reguladora del país de alta\nvigilancia sanitaria (PAVS).\n\nc) Los medicamentos y productos biológicos para el tratamiento de las demás\nenfermedades no comprendidas en los literales a) y b) del presente numeral.\n\n6.2 Para la inscripción o reinscripción en el registro sanitario de medicamentos y productos\n\nbiológicos registrados y/o autorizados y comercializados en PAVS, destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, se debe\npresentar:\n\n1. Solicitud con carácter de declaración jurada según formato (Anexo N° 01), que estará\ndisponible en versión editable en el portal web institucional de DIGEMID.\n\n2. Copia de la información completa de calidad, seguridad y eficacia en formato del\ndocumento técnico común (CTD), el mismo-que fue autorizado en el PAVS, en idioma\ninglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o\nIV-B. De corresponder, incluir las obligaciones específicas según formato (Anexo N°\n02).\n\n3. Copia del certificado de producto farmacéutico o certificado de libre comercialización,\nque acredite que el mismo medicamento o producto biológico se encuentra registrado\ny/o autorizado y comercializado en dicho PAVS.\n\n4. Copia del plan de gestión de riesgo.\n\n\nPAGE 5 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\n6.3\n\nVil.\n\nVill.\n\n8.1\n\nEn\n\n5. Rotulado, ficha técnica e inserto, en idioma español, los que de",
+      "section_article": "Directive scope6.1–6.2 and drug documentation",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+      "checked_english_research_rendering": "Covers rare/orphan, cancer and other diseases; complete same approvedCTD, local climatic stability, CPP/marketing proof, riskmanagement plan.",
+      "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+      "language": "es",
+      "checked_english_summary": "Covers rare/orphan, cancer and other diseases; complete same approvedCTD, local climatic stability, CPP/marketing proof, riskmanagement plan.",
+      "iso3": "PER",
+      "country": "Peru",
+      "display_text": " medicamentos y productos biológicos en el marco\nde la Ley N° 32319.\n\n\nPAGE 4 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nÁMBITO DE APLICACIÓN\n\nLa presente Directriz Institucional se aplica para la atención de las solicitudes de\ninscripción y reinscripción en el Registro Sanitario de medicamentos y productos\nbiológicos registrados y/o autorizados y comercializados en paises de alta vigilancia\nsanitaria, destinados al tratamiento de enfermedades raras, huérfanas, cáncer y demás\nenfermedades, en el marco de lo dispuesto en la Ley N° 32319.\n\nBASE LEGAL\n\ne Ley N° 32319, Ley que establece medidas para facilitar el acceso a medicamentos y\nproductos biológicos registrados en países de alta vigilancia sanitaria destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades.\n\ne Ley N° 29698, Ley que declara de interés Nacional y preferente atención el tratamiento\n\nde personas que padecen enfermedades raras o huérfanas\n\nLey N° 29459, Ley de los Productos Farmacéuticos, Dispositivos médicos y Productos\n\nsanitarios.\n\nDecreto Supremo N° 004-2019-JUS, que aprueba el Texto Único Ordenado de la Ley\n\nN° 27444, Ley del Procedimiento Administrativo General.\n\nLey N. 26842, Ley General de Salud.\n\nDecreto Legislativo N° 1161, que aprueba la Ley de Organización y Funciones del\n\nMinisterio de Salud y su modificatoria.\n\ne Decreto Supremo N. 008-2017-SA, que aprueba el Reglamento de Organización y\nFunciones del Ministerio de Salud, modificado por los Decretos Supremos N. 011-2017-\nSA y 032-2017-SA.\n\ne Decreto Supremo N° 016-2011-SA, que aprueba el Reglamento para el Registro,\nControl y Vigilancia Sanitaria de Productos Farmacéuticos, Dispositivos Médicos y\nProductos Sanitarios y sus modificatorias y respectivos reglamentos.\n\n+ Decreto Supremo N° 014-2011-SA, que aprueba el Reglamento de Establecimientos\nFarmacéuticos\n\nCONTENIDO\n\n6.1 Se encuentran comprendidos en la presente Directriz Institucional:\n\na) Los medicamentos y productos biológicos destinados al tratamiento de enfermedades\nraras o huérfanas, sobre la base de las enfermedades consideradas en el Listado de\nEnfermedades Raras o Huérfanas aprobado por el Ministerio de Salud.\n\nb) Los medicamentos y productos biológicos destinados al tratamiento de cáncer cuya\nindicación de uso está determinada por la autoridad reguladora del país de alta\nvigilancia sanitaria (PAVS).\n\nc) Los medicamentos y productos biológicos para el tratamiento de las demás\nenfermedades no comprendidas en los literales a) y b) del presente numeral.\n\n6.2 Para la inscripción o reinscripción en el registro sanitario de medicamentos y productos\n\nbiológicos registrados y/o autorizados y comercializados en PAVS, destinados al\ntratamiento de enfermedades raras, huérfanas, cáncer y demás enfermedades, se debe\npresentar:\n\n1. Solicitud con carácter de declaración jurada según formato (Anexo N° 01), que estará\ndisponible en versión editable en el portal web institucional de DIGEMID.\n\n2. Copia de la información completa de calidad, seguridad y eficacia en formato del\ndocumento técnico común (CTD), el mismo-que fue autorizado en el PAVS, en idioma\ninglés o español, y que incluya los estudios de estabilidad en la zona climática IV-A o\nIV-B. De corresponder, incluir las obligaciones específicas según formato (Anexo N°\n02).\n\n3. Copia del certificado de producto farmacéutico o certificado de libre comercialización,\nque acredite que el mismo medicamento o producto biológico se encuentra registrado\ny/o autorizado y comercializado en dicho PAVS.\n\n4. Copia del plan de gestión de riesgo.\n\n\nPAGE 5 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\n6.3\n\nVil.\n\nVill.\n\n8.1\n\nEn\n\n5. Rotulado, ficha técnica e inserto, en idioma español, los que de",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Law 32319 accelerated registration: institutional implementation RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted. Covers rare/orphan, cancer and other diseases; complete same approvedCTD, local climatic stability, CPP/marketing proof, riskmanagement plan.",
+      "version_alignment": "RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted."
+    },
+    {
+      "clause_id": "SDX-EXP-A-055-11900",
+      "document_id": "F250_11f869021ea515fdafa9",
+      "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+      "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+      "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+      "start_offset": 11900,
+      "end_offset": 15100,
+      "verbatim_extracted_text": "ben presentarse tal\ncomo se va a comercializar, distribuir o usar el medicamento o producto biológico en\nel Perú.\n\n6. Certificado de liberación de lote emitido por la autoridad competente del país de\norigen para el caso de vacunas y derivados de plasma humano.\n\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro\nsanitario según formato (Anexo N° 03) y cumplimiento de obligaciones específicas según\nformato (Anexo N° 04) en el registro sanitario será la misma que la otorgada en el PAVS.\nPara presentar la solicitud debe acogerse a un único PAVS y mantenerse durante la\nvigencia de su registro sanitario.\n\nDel proceso de presentación de las solicitudes de inscripción y reinscripción en el Registro\nSanitario.\n\nA efecto de presentar la solicitud se debe tener en cuenta el formato del anexo N° 01, el\nque se presenta a través de mesa de partes presencial de DIGEMID, adjuntando la\ndocumentación digitalizada completa en formato CTD, en CD u otro sistema de\nalmacenamiento magnético, que esté indexada, evidencie trazabilidad con hipervínculos y\nlacrados, utilizando el formato zip.\n\n6.3.1 Admisibilidad de la solicitud\n\nLa ANM, en un plazo máximo de dos (02) días hábiles, verifica que la solicitud haya sido\npresentada bajo el ámbito de aplicación de la Ley 32319, así como la entrega completa de\nlos requisitos establecido en dicha Ley.\n\nDe cumplir con lo antes señalado o de vencido el plazo de dos (02) días hábiles sin que\nhaya pronunciamiento de la ANM se considera admitida la solicitud. De no cumplir, se\nprocede con la notificación de observaciones al administrado a fin que sean subsanadas\n\nen el plazo de dos (02) días hábiles; de no subsanar, la solicitud se considera como no\nadmitido y se procede a su devolución.\n\n6.3.2 Evaluación\n\nAdmitida la solicitud de inscripción o reinscripción en el registro sanitario, se le asigna un\nnúmero de expediente y la Dirección de Productos Farmacéuticos de la DIGEMID procede\na su evaluación acelerada en un plazo no mayor de cuarenta y cinco 45 días calendario.\nDicha evaluación no exime a la ANM de realizar observaciones relacionadas a la revisión\ndel expediente, conforme a lo dispuesto en el numeral 125.5 del artículo 125 del Texto\nUnico Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General.\nRESPONSABILIDADES\n\nLa Direccién de Medicamentos, Insumos y Drogas (DIGEMID), como ANM es responsable\nde verificar el cumplimiento de la presente Directriz Institucional.\n\nSEGUIMIENTO\n\nModalidad de presentación de solicitudes\n\ntanto se implementen las plataformas virtuales correspondientes, la presentación de\n\nsolicitudes de inscripción y reinscripción en el Registro Sanitario se realizará, de manera\ntemporal, a través de mesa de partes presencial de la DIGEMID.\n\n8.2 Implementación de plataforma virtual\n\nDIGEMID viene trabajando en el desarrollo e implementación de plataformas digitales que\npermita la gestión virtual del procedimiento comprendido en esta directriz, con el objetivo de\noptimizar los procesos y facilitar el acceso de los administrados.\n\n\nPAGE 6 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\n8.3\n\nMonitoreo del proceso\n\nLa implementación progresiva de las plataformas virt",
+      "section_article": "OnePAVS, admissibility6.3.1 and review6.3.2",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+      "checked_english_research_rendering": "Select onePAVS throughout MA validity; two working days admissibility, then at most45calendar days accelerated evaluation, with observations permitted.",
+      "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+      "language": "es",
+      "checked_english_summary": "Select onePAVS throughout MA validity; two working days admissibility, then at most45calendar days accelerated evaluation, with observations permitted.",
+      "iso3": "PER",
+      "country": "Peru",
+      "display_text": "ben presentarse tal\ncomo se va a comercializar, distribuir o usar el medicamento o producto biológico en\nel Perú.\n\n6. Certificado de liberación de lote emitido por la autoridad competente del país de\norigen para el caso de vacunas y derivados de plasma humano.\n\nLa vigencia y las condiciones de actualización (modificaciones o cambios en el registro\nsanitario según formato (Anexo N° 03) y cumplimiento de obligaciones específicas según\nformato (Anexo N° 04) en el registro sanitario será la misma que la otorgada en el PAVS.\nPara presentar la solicitud debe acogerse a un único PAVS y mantenerse durante la\nvigencia de su registro sanitario.\n\nDel proceso de presentación de las solicitudes de inscripción y reinscripción en el Registro\nSanitario.\n\nA efecto de presentar la solicitud se debe tener en cuenta el formato del anexo N° 01, el\nque se presenta a través de mesa de partes presencial de DIGEMID, adjuntando la\ndocumentación digitalizada completa en formato CTD, en CD u otro sistema de\nalmacenamiento magnético, que esté indexada, evidencie trazabilidad con hipervínculos y\nlacrados, utilizando el formato zip.\n\n6.3.1 Admisibilidad de la solicitud\n\nLa ANM, en un plazo máximo de dos (02) días hábiles, verifica que la solicitud haya sido\npresentada bajo el ámbito de aplicación de la Ley 32319, así como la entrega completa de\nlos requisitos establecido en dicha Ley.\n\nDe cumplir con lo antes señalado o de vencido el plazo de dos (02) días hábiles sin que\nhaya pronunciamiento de la ANM se considera admitida la solicitud. De no cumplir, se\nprocede con la notificación de observaciones al administrado a fin que sean subsanadas\n\nen el plazo de dos (02) días hábiles; de no subsanar, la solicitud se considera como no\nadmitido y se procede a su devolución.\n\n6.3.2 Evaluación\n\nAdmitida la solicitud de inscripción o reinscripción en el registro sanitario, se le asigna un\nnúmero de expediente y la Dirección de Productos Farmacéuticos de la DIGEMID procede\na su evaluación acelerada en un plazo no mayor de cuarenta y cinco 45 días calendario.\nDicha evaluación no exime a la ANM de realizar observaciones relacionadas a la revisión\ndel expediente, conforme a lo dispuesto en el numeral 125.5 del artículo 125 del Texto\nUnico Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General.\nRESPONSABILIDADES\n\nLa Direccién de Medicamentos, Insumos y Drogas (DIGEMID), como ANM es responsable\nde verificar el cumplimiento de la presente Directriz Institucional.\n\nSEGUIMIENTO\n\nModalidad de presentación de solicitudes\n\ntanto se implementen las plataformas virtuales correspondientes, la presentación de\n\nsolicitudes de inscripción y reinscripción en el Registro Sanitario se realizará, de manera\ntemporal, a través de mesa de partes presencial de la DIGEMID.\n\n8.2 Implementación de plataforma virtual\n\nDIGEMID viene trabajando en el desarrollo e implementación de plataformas digitales que\npermita la gestión virtual del procedimiento comprendido en esta directriz, con el objetivo de\noptimizar los procesos y facilitar el acceso de los administrados.\n\n\nPAGE 6 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\n8.3\n\nMonitoreo del proceso\n\nLa implementación progresiva de las plataformas virt",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Law 32319 accelerated registration: institutional implementation RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted. Select onePAVS throughout MA validity; two working days admissibility, then at most45calendar days accelerated evaluation, with observations permitted.",
+      "version_alignment": "RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted."
+    },
+    {
+      "clause_id": "SDX-EXP-A-055-0",
+      "document_id": "F250_11f869021ea515fdafa9",
+      "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RD_076-2025-DIGEMID.pdf",
+      "raw_sha256": "5ac6c4dd14df73d61c8af44441c9476803e3bc56ff8ec5adaa833da79d7acbce",
+      "text_sha256": "a5c5a08e81d9265ee52cbea78ac9d25d2803014a70185c425349fbc1565315d9",
+      "start_offset": 0,
+      "end_offset": 1400,
+      "verbatim_extracted_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nDirección General\nde Medicamentos,\n1 Insumos y Drogas\n\nXo. o i\nMii\npa PERÚ | Misitere\n\n“Decenio de la Igualdad de Oportunidades para Mujeres y Hombres”\n“Año de la Recuperación y consolidación de la economía peruana”\n\nNo 076 -2025-DIGEMID-DG-MINSA\n\nRESOLUCION DIRECTORAL\n\nLima, 03 de mayo de 2025\n\nVisto, el Informe N° 001-2025-DIGEMID-DPF-MINSA de la Dirección de Productos\nFarmacéuticos, por la cual traslada la propuesta para la atención de las solicitudes de\ninscripción y reinscripción en el registro sanitario presentadas en el marco de la Ley N°\n32319;\n\nCONSIDERANDO:\n\n4 Que, los numerales | y II del Título Preliminar de la Ley N° 26842, Ley General de\n\nSES Salud, señalan que la salud es condición indispensable del desarrollo humano y medio\nOKAY. fundamental para alcanzar el bienestar individual y colectivo; por lo que la protección de\nla salud es de interés público, siendo responsabilidad del Estado regularla, vigilarla y\npromoverla;\n\nQue, el numeral 6) del artículo 3 del Decreto Legislativo N° 1161, Ley de Organización\ny Funciones del Ministerio de Salud, establece que el Ministerio de Salud es competente\nen productos farmacéuticos y sanitarios, dispositivos médicos y establecimientos\nfarmacéuticos;\n\nQue, el artículo 5 de la Ley N° 29459, Ley de los Productos Farmacéuticos,\nDispositivos Médicos y Productos Sanitarios, dispone",
+      "section_article": "RD076 date and title; scanned page1 visually checked",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:21:52.631159+00:00",
+      "language": "es",
+      "iso3": "PER",
+      "country": "Peru",
+      "display_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nDirección General\nde Medicamentos,\n1 Insumos y Drogas\n\nXo. o i\nMii\npa PERÚ | Misitere\n\n“Decenio de la Igualdad de Oportunidades para Mujeres y Hombres”\n“Año de la Recuperación y consolidación de la economía peruana”\n\nNo 076 -2025-DIGEMID-DG-MINSA\n\nRESOLUCION DIRECTORAL\n\nLima, 03 de mayo de 2025\n\nVisto, el Informe N° 001-2025-DIGEMID-DPF-MINSA de la Dirección de Productos\nFarmacéuticos, por la cual traslada la propuesta para la atención de las solicitudes de\ninscripción y reinscripción en el registro sanitario presentadas en el marco de la Ley N°\n32319;\n\nCONSIDERANDO:\n\n4 Que, los numerales | y II del Título Preliminar de la Ley N° 26842, Ley General de\n\nSES Salud, señalan que la salud es condición indispensable del desarrollo humano y medio\nOKAY. fundamental para alcanzar el bienestar individual y colectivo; por lo que la protección de\nla salud es de interés público, siendo responsabilidad del Estado regularla, vigilarla y\npromoverla;\n\nQue, el numeral 6) del artículo 3 del Decreto Legislativo N° 1161, Ley de Organización\ny Funciones del Ministerio de Salud, establece que el Ministerio de Salud es competente\nen productos farmacéuticos y sanitarios, dispositivos médicos y establecimientos\nfarmacéuticos;\n\nQue, el artículo 5 de la Ley N° 29459, Ley de los Productos Farmacéuticos,\nDispositivos Médicos y Productos Sanitarios, dispone",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Law 32319 accelerated registration: institutional implementation RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted. ",
+      "version_alignment": "RD 076-2025-DIGEMID-DG-MINSA dated 3 May 2025; original scan checked. Distinct from RM 403-2025 consultation draft; do not import draft provisions as enacted."
+    }
+  ]
 }

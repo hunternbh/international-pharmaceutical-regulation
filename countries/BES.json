@@ -170,7 +170,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "BES",
     "country": "Bonaire, Sint Eustatius and Saba",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "shared_register",
     "fixed_case_scope_status": "shared_register_conditions_unresolved",
     "finding": "The rule incorporates the Dutch register with exceptions. A register linkage is a shared territorial system, not evidence that any FDA-only drug gets an independent national reliance route.",
@@ -252,5 +252,7 @@
     ],
     "source_scope": "Shared Dutch-register incorporation and exceptions; not an independently verified third-country reliance route",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

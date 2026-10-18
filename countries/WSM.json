@@ -133,7 +133,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "WSM",
     "country": "Samoa",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "policy_acceptance",
     "fixed_case_scope_status": "policy_not_complete_route",
     "finding": "The policy refers to distribution of locally registered or internationally recognized TGA/FDA medicines but also requires compliance with the Food and Drugs Act. Complete operational conditions remain unresolved.",
@@ -179,5 +179,7 @@
     ],
     "source_scope": "Human-medicine authorisation",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

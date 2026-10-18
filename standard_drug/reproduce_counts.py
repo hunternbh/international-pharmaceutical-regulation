@@ -12,7 +12,8 @@ def main():
     ap=argparse.ArgumentParser();ap.add_argument('--input-dir',default=str(Path(__file__).resolve().parent));args=ap.parse_args()
     d=Path(args.input_dir);read=lambda n:json.loads((d/n).read_text(encoding='utf8'))
     p=read('primary_country_comparison.json')['records'];r=read('analysis_results.json');a=read('comparison_adjudication.json')
-    assert len(p)==89 and len({x['iso3'] for x in p})==89
+    expected=r['sample']['primary_pathway_records']
+    assert len(p)==expected and len({x['iso3'] for x in p})==expected
     sets={k:set(v) for k,v in a['country_sets'].items()}
     components=[]
     for c in r['components']:

@@ -134,7 +134,7 @@
     "iso3": "COK",
     "country": "Cook Islands",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "Foreign approval plus domestic approved schedule",
     "source_url": "https://www.health.gov.ck/wp-content/uploads/2020/06/MOHPharmacyandTherapeuticProductsRegulations2013.pdf",
     "document_id": "5086095602474b9405ca",
@@ -397,6 +397,7 @@
         "version_alignment": "Version on the preserved source; not backdated to older event rows"
       }
     ],
+    "other_reviewed_routes": [],
     "review_details": {
       "iso3": "COK",
       "country": "Cook Islands",
@@ -675,5 +676,7 @@
       "possible_full_report_gate": false,
       "gate_adjudication": ""
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

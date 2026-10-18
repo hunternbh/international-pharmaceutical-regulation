@@ -197,7 +197,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "ALB",
     "country": "Albania",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "historical_fast_track",
     "fixed_case_scope_status": "historical_only",
     "finding": "The older law names EMEA/FDA approvals for accelerated registration by ministerial order while retaining domestic registration and efficacy/safety criteria. A detailed ministerial procedure and current validity remain unresolved.",
@@ -258,5 +258,7 @@
     ],
     "source_scope": "Human-medicine authorisation",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

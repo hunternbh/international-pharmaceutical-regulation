@@ -135,7 +135,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "MUS",
     "country": "Mauritius",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "local_manufacturing",
     "fixed_case_scope_status": "outside_manufacturing_scope",
     "finding": "Section36D requires local manufacture under a technology-transfer agreement. The fixed US-manufactured drug falls outside that route regardless of its reports or foreign approvals.",
@@ -181,5 +181,7 @@
     ],
     "source_scope": "Local technology-transfer manufacturing; WHO GMP and EU-laboratory certificate",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

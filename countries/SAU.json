@@ -285,7 +285,7 @@
     "iso3": "SAU",
     "country": "Saudi Arabia",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "Verification and abridged review; approval plus marketing",
     "source_url": "https://oldsfda.sfda.gov.sa/sites/default/files/2025-10/VerificationAbridgedPathways3.pdf",
     "document_id": "dc0c923796a4a5b77933",
@@ -685,6 +685,7 @@
         "interpretation_language": "English assistant interpretation; original authoritative"
       }
     ],
+    "other_reviewed_routes": [],
     "review_details": {
       "iso3": "SAU",
       "country": "Saudi Arabia",
@@ -1134,5 +1135,7 @@
         }
       ]
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

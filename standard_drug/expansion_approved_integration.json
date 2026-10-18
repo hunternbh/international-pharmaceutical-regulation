@@ -1,0 +1,97 @@
+{
+  "created_utc": "2026-10-18T06:25:55.680771+00:00",
+  "method": "Explicit source/version selection, not automatic keyword promotion. Ordinary registration is separately labelled from reliance. All alternate versions retained.",
+  "primary_selections": [
+    {
+      "iso3": "LBR",
+      "record_key": "a:0",
+      "reason": "First substantive ordinary-registration requirements."
+    },
+    {
+      "iso3": "BOL",
+      "record_key": "a:1",
+      "reason": "Ordinary registration: representation and stability; no FDA reliance inferred."
+    },
+    {
+      "iso3": "SUR",
+      "record_key": "a:2",
+      "reason": "Signed Dutch circular controls; English date discrepancy retained."
+    },
+    {
+      "iso3": "PER",
+      "record_key": "a:3",
+      "reason": "Implemented Law 32319 guidance, distinct from consultation draft."
+    },
+    {
+      "iso3": "ARM",
+      "record_key": "b:1",
+      "reason": "Consolidated simplified-registration requirements; older version retained."
+    },
+    {
+      "iso3": "BHR",
+      "record_key": "b:5",
+      "reason": "January 2026 fast-track guidance; assessment clock distinguished from total approval."
+    },
+    {
+      "iso3": "GHA",
+      "record_key": "b:7",
+      "reason": "Context clarifies full AND/OR public reports and case-by-case discretion.",
+      "mode": "enrich_same_version"
+    },
+    {
+      "iso3": "GTM",
+      "record_key": "b:8",
+      "reason": "Same 2018 text: consent alternative retained; no backdating from missing 2023 text.",
+      "mode": "enrich_same_version"
+    },
+    {
+      "iso3": "CRI",
+      "record_key": "b:9",
+      "reason": "Official innovative-medicine ordinary-registration requirements, not inferred reliance."
+    },
+    {
+      "iso3": "SLE",
+      "record_key": "b:12",
+      "reason": "2024 ordinary initial registration; earlier WHO route retained separately."
+    },
+    {
+      "iso3": "ZAF",
+      "record_key": "b:16",
+      "reason": "Same v5 text: exact report and permission conditions clarified.",
+      "mode": "enrich_same_version"
+    },
+    {
+      "iso3": "HTI",
+      "record_key": "c:0",
+      "reason": "Substantive initial-registration chapter; no inferred reliance."
+    },
+    {
+      "iso3": "MDV",
+      "record_key": "c:1",
+      "reason": "Dated September 2024 innovator-verification guidance."
+    },
+    {
+      "iso3": "TZA",
+      "record_key": "c:6",
+      "reason": "Same July 2025 source: consent needed where applicant cannot supply reports.",
+      "mode": "enrich_same_version"
+    },
+    {
+      "iso3": "MWI",
+      "record_key": "c:8",
+      "reason": "Same May 2023 source: limited fast-track eligibility contextualized.",
+      "mode": "enrich_same_version"
+    }
+  ],
+  "supplemental_selections": [
+    {
+      "partition": "b",
+      "index": 2,
+      "iso3": "FJI"
+    }
+  ],
+  "interpretation_overrides": {
+    "GHA": "Public-report discretion is explicit; not an unconditional complete-report gate or an ambiguous malformed clause.",
+    "ETH": "Retain newer baseline 2024 canonical route; older full-report wording remains a separate version."
+  }
+}

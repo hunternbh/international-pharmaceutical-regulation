@@ -296,7 +296,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "USA",
     "country": "United States of America",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "foreign_clinical_data",
     "fixed_case_scope_status": "own_approval_not_foreign_reliance",
     "finding": "The source allows foreign clinical data subject to US applicability and validation requirements. It does not make another regulator’s approval sufficient. The hypothetical FDA approval already supplies the US authorization rather than a foreign-reliance event.",
@@ -342,5 +342,7 @@
     ],
     "source_scope": "Foreign clinical data, not recognition of another regulator’s marketing approval",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

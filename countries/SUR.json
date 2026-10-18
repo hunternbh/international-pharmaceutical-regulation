@@ -184,94 +184,694 @@
   "standard_drug_legal_comparison": {
     "iso3": "SUR",
     "country": "Suriname",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
-    "evidence_type": "extra_quality_evidence",
-    "fixed_case_scope_status": "quality_condition_only",
-    "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition.",
-    "primary_comparison": false,
-    "cases": {
-      "A": {
-        "status": "unresolved",
-        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+    "primary_comparison": true,
+    "sample": "selected_national_route_comparisons",
+    "pathway": "Initial registration/import quality evidence conditional on reference-country marketing and same site",
+    "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-indienen-van-registratie-dossiers-en-aanvragen-voor-importvergunningen-4.pdf",
+    "document_id": "F250_d36db3b528693a31bfcf",
+    "genre": "Official national guideline/procedure",
+    "language": "nl",
+    "scope": "Initial human-medicine marketing authorisation, subject to expressly recorded route limits",
+    "version_note": "Original Dutch signed instruction DVG 189/25 dated 19 February 2025. Official English counterpart prints 19 February 2024 despite /25 identifier; both dates visually verified and discrepancy retained, not silently harmonised.",
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       },
-      "B": {
-        "status": "unresolved",
-        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+      "named_reference_agencies": {
+        "state": "discretionary/conditional",
+        "finding": "Footnote describes PIC/S member countries, WHO -prequalified products and WHO -listed authorities; FDA / EMA are not individually enumerated in the instruction. Confirm the applicable reference class/list before treating the known approval as qualifying.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
       },
-      "C": {
-        "status": "unresolved",
-        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+      "prior_approval_count": {
+        "state": "discretionary/conditional",
+        "finding": "The additional-quality-evidence trigger turns on registration/marketing in a highlyregulated COUNTRY. It is not a universal requirement for two reference approvals or an automatic national MA .",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
       },
-      "D": {
-        "status": "unresolved",
-        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       },
-      "E": {
-        "status": "unresolved",
-        "finding": "Lack of marketing/registration in a highly regulated country and a different production site can trigger laboratory evidence. The fixed marketed, unchanged-site facts bear on that trigger, but the text does not establish the rest of registration or automatic foreign-approval recognition."
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "explicit requirement",
+        "finding": "Whether the manufacturer registered and/or marketed the product in a highlyregulated country determines the stated extra-quality-evidence trigger.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "same_product_dossier_site": {
+        "state": "explicit requirement",
+        "finding": "Extra independent quality evidence also applies to foreign-registered products made at a facility other than that specified in the registration dossier. Fixed same US site meets the sameness dimension, subject to documentary proof.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "The instruction concerns batch-analysis evidence and national registration/import documents, not an adjudicated public-versus-full assessment-report test.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "discretionary/conditional",
+        "finding": "RC can obtain further written/oral information from the competent manufacturing-country authority or authority in another country. No mandatory unredacted report package stated in this instruction.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "discretionary/conditional",
+        "finding": "For triggered cases, independent laboratory Co A for each batch from authority-approved laboratory meeting specified GLP standards. Long-established local products with no known quality problems may receive risk-based exception; fixed new product does not establish that exception.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "National registration criteria and import licensing remain; RC / FI retain authority to seek additional information. Avoid equating a quality-evidence condition with full foreign-approval recognition.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       }
     },
+    "cases": {
+      "A": {
+        "status": "quality condition partly established; complete eligibility unresolved",
+        "eligibility": "quality condition partly established; complete eligibility unresolved",
+        "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "B": {
+        "status": "quality condition partly established; complete eligibility unresolved",
+        "eligibility": "quality condition partly established; complete eligibility unresolved",
+        "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "C": {
+        "status": "quality condition partly established; complete eligibility unresolved",
+        "eligibility": "quality condition partly established; complete eligibility unresolved",
+        "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "D": {
+        "status": "quality condition partly established; complete eligibility unresolved",
+        "eligibility": "quality condition partly established; complete eligibility unresolved",
+        "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      },
+      "E": {
+        "status": "quality condition partly established; complete eligibility unresolved",
+        "eligibility": "quality condition partly established; complete eligibility unresolved",
+        "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+        "evidence_ids": [
+          "EXP-A-073-0",
+          "EXP-A-073-2600",
+          "EXP-A-074-2600"
+        ]
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "reviewed contextual interpretation",
+        "finding": "No foreign-regulator report-content contrast is established by this batch-quality instruction."
+      },
+      "B_minus_E": {
+        "status": "reviewed contextual interpretation",
+        "finding": "One qualifying-country registration/marketing can avoid the named additional-quality trigger; adding EC does not automatically establish a two-approval advantage."
+      }
+    },
+    "shared_authorization_effect": null,
     "evidence": [
       {
-        "clause_id": "SUR-Q01",
+        "clause_id": "EXP-A-073-0",
+        "document_id": "F250_d36db3b528693a31bfcf",
         "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-indienen-van-registratie-dossiers-en-aanvragen-voor-importvergunningen-4.pdf",
         "raw_sha256": "25c165670c31b1a4cefab7d0d9abf693913329d6d73e88ef7705ac5f650c89e9",
-        "text_sha256": "33e333acb26cbc46fe1dfd14bb594c30cbcb5e7d0d18185ba93ddc40280aa3fd",
-        "start_offset": 2608,
-        "end_offset": 4496,
-        "verbatim_extracted_text": "1. voor opname van verpakte geneesmiddelen in het Register en/of\n\n2. voor een importvergunning van verpakte geneesmiddelen,\nin het geval dat de fabrikant der middelen deze niet heeft geregistreerd en/of niet in de handel heeft\ngebracht in een “highly regulated”! land, gebruik maken van hun bevoegdheid om aanvullende\ninformatie op te vragen.\n\nDie aanvullende informatie zal in elk geval bestaan uit een analyserapport van betreffende verpakte\ngeneesmiddelen, afkomstig van een onafhankelijk, door de regulatie autoriteiten van het land van\nbereiding aantoonbaar goedgekeurd laboratorium, die moet voldoen aan de geldende Good\nLaboratory Practice (GLP) richtlijnen (bijvoorbeeld WHO prequalified, ISO 17025\ngeaccrediteerd, OECD principles of GLP and Compliance Monitoring of OMCL (Official\nMedicine Control Laboratory). Uit het analyserapport dient te blijken dat het verpakte\ngeneesmiddel voldoet aan de specificaties vermeld in het registratiedossier en is van toepassing op\nelke batch van het geneesmiddel waarvoor een aanvraag voor registratie is ingediend.\n\nDeze voorwaarde voor aanvullende informatie geldt ook voor het importeren van producten die\ngeregistreerd zijn in een “higly regulated” land en waarbij de productie plaatsvindt in een\nproductiefaciliteit anders dan de specificaties in het registratiedossier.\n\nEr zij op gewezen dat de RC en FI, fabrikanten die geneesmiddelen produceren, die niet\n\ngeregistreerd en/of niet in de handel in een “highly regulated” land zijn, kunnen afzien van de\n\nverplichting tot het overleggen van aanvullend kwaliteitsbewijs, als het gaat om verpakte\n\ngeneesmiddelen die\n\n- al langere tijd zijn geregistreerd in Suriname en al meerdere malen in Suriname zijn\ngeïmporteerd en op markt gebracht en:\n\n- zonder bekende kwaliteitsproblemen zijn gebruikt.\n\nRC en FI zullen hierbij op basis van hun professionele expertise een risicoafweging maken.",
-        "pdf_page": 2,
+        "text_sha256": "e7f05ccb0c645dda10495ebd7807164174f1f7bcf19e3a7e01ba8f937ad29489",
+        "start_offset": 0,
+        "end_offset": 2400,
+        "verbatim_extracted_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nzi Ministerie van Volksgezondheid\n; in\n\nSuriname\n\nDirectie en Centrale\nAdministratie\n\nNo: DVGI 89 | Le Paramaribo, Ig Februari 2025\n\nAan: de importeurs van geneesmiddelen\n\nBetreft: instructie indienen van registratiedossiers en aanvragen voor importvergunningen\n\nGeachte importeur,\n\nHierbij brengt het Ministerie van Volksgezondheid het volgende onder uw aandacht.\n\nDe Registratie Commissie (verder te noemen: RC) schrijft een geneesmiddel in het Register van\nverpakte geneesmiddelen in Suriname (verder te noemen: het Register) in conform artikel 4 van\nhet Besluit Verpakte Geneesmiddelen (G.B. 1973 no. 155; verder te noemen het Besluit), mits\nvoldaan is aan de in dit artikel genoemde criteria. Bovendien heeft de RC conform artikel 3 lid 3\nsub a van het eerdergenoemde Besluit de bevoegdheid om nadere schriftelijke of mondelinge\ninlichtingen, bij de aanvrager en bij de in artikel 3 lid 1 sub h bedoelde regeringsautoriteit (i.e. de\ndoor de RC daartoe bevoegd geachte regeringsautoriteit in het land van de bereiding van het\nverpakte geneesmiddel), of de desbetreffende autoriteit in een ander land, in te winnen.\n\nBij de import van geneesmiddelen is op grond van de Wet Goederenverkeer (S.B. 2003 no. 58,\nzoals zij luidt na daarin aangebrachte wijzigingen bij S.B. 2004 no. 121, en het bijbehorende\nBesluit Negatieve Lijst S.B. 2003 no. 74) een importvergunning nodig, afgegeven door de Dienst\nInvoer-, Uitvoer- en Deviezencontrole van het Ministerie van Economische Zaken,\nOndernemerschap en Technologische Innovatie en goedgekeurd door de Farmaceutische Inspectie\n(FI). Bij de aanvraag van de importvergunning moet de importeur bij de RC een bewijs van\ninschrijving in het Register (het zgn. ‘registratiecertificaat of import certificaat’) aanvragen en ter\nondersteuning aanleveren bij het Ministerie van Economische Zaken, Ondernemerschap en\nTechnologische Innovatie en de FI.\n\nGezien de recent gemelde casuïstiek aan het Ministerie van Volksgezondheid, is de RC in\nvoorkomende gevallen genoodzaakt om artikel 3 lid 3 sub a van het Besluit stringenter toe te\npassen en bij de import van geneesmiddelen aanvullend bewijs te vragen van het voldoen van de\nte verschepen geneesmiddelen aan de specificaties vermeld in het registratiedossier. Zulks om de\nkwaliteit van geneesmiddelen verkrijgbaar in Suriname maximaal te waarborgen.\n\nVanaf hede",
+        "section_article": "DVG189/25 original Dutch page1, registration/import authority",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:22:16.378402+00:00",
+        "checked_english_research_rendering": "Registration and import certificates remain national requirements; authority can seek information from applicant or foreign competent authority.",
+        "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
         "language": "nl",
-        "language_status": "Official original-language source",
-        "evidence_tier": "limited_scope_or_framework",
-        "version_alignment": "Ministry instruction DVG-189, 19 February 2025; original scan",
-        "translation_review": {
-          "id": "SUR-Q01",
-          "source_language": "nl",
-          "source_text": "1. voor opname van verpakte geneesmiddelen in het Register en/of\n\n2. voor een importvergunning van verpakte geneesmiddelen,\nin het geval dat de fabrikant der middelen deze niet heeft geregistreerd en/of niet in de handel heeft\ngebracht in een “highly regulated”! land, gebruik maken van hun bevoegdheid om aanvullende\ninformatie op te vragen.\n\nDie aanvullende informatie zal in elk geval bestaan uit een analyserapport van betreffende verpakte\ngeneesmiddelen, afkomstig van een onafhankelijk, door de regulatie autoriteiten van het land van\nbereiding aantoonbaar goedgekeurd laboratorium, die moet voldoen aan de geldende Good\nLaboratory Practice (GLP) richtlijnen (bijvoorbeeld WHO prequalified, ISO 17025\ngeaccrediteerd, OECD principles of GLP and Compliance Monitoring of OMCL (Official\nMedicine Control Laboratory). Uit het analyserapport dient te blijken dat het verpakte\ngeneesmiddel voldoet aan de specificaties vermeld in het registratiedossier en is van toepassing op\nelke batch van het geneesmiddel waarvoor een aanvraag voor registratie is ingediend.\n\nDeze voorwaarde voor aanvullende informatie geldt ook voor het importeren van producten die\ngeregistreerd zijn in een “higly regulated” land en waarbij de productie plaatsvindt in een\nproductiefaciliteit anders dan de specificaties in het registratiedossier.\n\nEr zij op gewezen dat de RC en FI, fabrikanten die geneesmiddelen produceren, die niet\n\ngeregistreerd en/of niet in de handel in een “highly regulated” land zijn, kunnen afzien van de\n\nverplichting tot het overleggen van aanvullend kwaliteitsbewijs, als het gaat om verpakte\n\ngeneesmiddelen die\n\n- al langere tijd zijn geregistreerd in Suriname en al meerdere malen in Suriname zijn\ngeïmporteerd en op markt gebracht en:\n\n- zonder bekende kwaliteitsproblemen zijn gebruikt.\n\nRC en FI zullen hierbij op basis van hun professionele expertise een risicoafweging maken.",
-          "document_id": "a859f94c09bde7445214",
-          "target_language": "en",
-          "translation_status": "Assistant checked and corrected research translation; not official/certified",
-          "model_provenance": {
-            "language": "nl",
-            "model_version": "1.8",
-            "model_url": "https://argos-net.com/v1/translate-nl_en-1_8.argosmodel",
-            "model_sha256": "f49ac90c5812e0cb86a2858f4cfa61accec8709612728e6f805f0771c9a91e0e",
-            "model_bytes": 69944805,
-            "model_root": null,
-            "model_metadata": {
-              "package_version": "1.8",
-              "argos_version": "1.8",
-              "from_code": "nl",
-              "from_name": "Dutch",
-              "to_code": "en",
-              "to_name": "English"
-            },
-            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
-            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
-            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
-          },
-          "source_text_sha256": "73b3469beafafaa5d607a4dae24a480afa3827724c8a4c3f9a234b054b572aef",
-          "translated_utc": "2026-10-18T00:50:41.164806+00:00",
-          "source_characters": 1888,
-          "segments": 6,
-          "raw_machine_translation": "1. for the inclusion of packaged medicinal products in the Register and/or 2. for an import licence of packaged medicinal products, in the event that the manufacturer of the products has not registered them and/or has not placed them on the market in a highly regulated veterinary medicinal product country, use their power to request additional information. In any event, that additional information will consist of an analytical report on packaged medicinal products from an independent laboratory approved by the regulatory authorities of the country of manufacture, which must comply with the applicable Good Laboratory Practice (GLP) guidelines (e.g. WHO prequalified, ISO 1702 accredited, OECD principles of GLP and Compliance Monitoring of OMCL). The analytical report shall show that the packaged medicinal product complies with the specifications set out in the registration dossier and shall apply to each batch of the medicinal product for which an application for registration has been submitted.  This condition for additional information also applies to the import of products registered in a regurgitated regulated product country where production takes place in a production facility other than the specifications in the registration file.  It should be noted that the RC and FI, manufacturers producing medicinal products, who are not registered and/or are not in trade in a highly regulated country, may waive the obligation to provide additional quality certificates in the case of packaged medicinal products which have been registered for a long time in Suriname and have been imported and marketed several times in Suriname and: - have been used without known quality problems. RC and FI will make a risk weighting based on their professional expertise.",
-          "checked_translation": "1. For entry of packaged medicines in the Register and/or 2. for an import permit, where the manufacturer has not registered the products and/or placed them on the market in a highly regulated country, the Registration Committee and Pharmaceutical Inspectorate use their power to request additional information. This shall at least include an analytical report for the medicines from an independent laboratory demonstrably approved by the regulatory authorities of the country of manufacture, complying with applicable Good Laboratory Practice guidelines (for example WHO prequalified, ISO 17025 accredited, OECD GLP principles and compliance monitoring of Official Medicine Control Laboratories). The report must demonstrate compliance with the registration-dossier specifications and applies to every batch covered by the registration application. Additional information is also required for imports registered in a highly regulated country where the production facility differs from that specified in the dossier. The Committee and Inspectorate may waive additional quality evidence for manufacturers whose medicines are not registered and/or marketed in a highly regulated country where those medicines have long been registered in Suriname, have been imported and marketed there several times, and have been used without known quality problems. They make a risk assessment using professional expertise.",
-          "check_note": "Material repair: removed invented veterinary scope and 'regurgitated'; restored ISO 17025 and actor/object of waiver. Original page 2 visually checked. Interpretation limited to additional quality evidence.",
-          "approved_for_display": true,
-          "approved_for_text_sensitivity": true,
-          "check_scope": [
-            "permission/modals",
-            "negation and conjunctions",
-            "numerical conditions and units",
-            "actors, scope and retained conditions"
-          ],
-          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
-          "checked_utc": "2026-10-18T01:00:51.129613+00:00"
-        }
+        "checked_english_summary": "Registration and import certificates remain national requirements; authority can seek information from applicant or foreign competent authority."
+      },
+      {
+        "clause_id": "EXP-A-073-2600",
+        "document_id": "F250_d36db3b528693a31bfcf",
+        "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-indienen-van-registratie-dossiers-en-aanvragen-voor-importvergunningen-4.pdf",
+        "raw_sha256": "25c165670c31b1a4cefab7d0d9abf693913329d6d73e88ef7705ac5f650c89e9",
+        "text_sha256": "e7f05ccb0c645dda10495ebd7807164174f1f7bcf19e3a7e01ba8f937ad29489",
+        "start_offset": 2600,
+        "end_offset": 5326,
+        "verbatim_extracted_text": "RITATIVE]\n1, voor opname van verpakte geneesmiddelen in het Register en/of\n\n2. voor een importvergunning van verpakte geneesmiddelen,\nin het geval dat de fabrikant der middelen deze niet heeft geregistreerd en/of niet in de handel heeft\ngebracht in een “highly regulated”! land, gebruik maken van hun bevoegdheid om aanvullende\ninformatie op te vragen.\n\nDie aanvullende informatie zal in elk geval bestaan uit een analyserapport van betreffende verpakte\ngeneesmiddelen, afkomstig van een onafhankelijk, door de regulatie autoriteiten van het land van\nbereiding aantoonbaar goedgekeurd laboratorium, die moet voldoen aan de geldende Good\nLaboratory Practice (GLP) richtlijnen (bijvoorbeeld WHO prequalified, ISO 17025\ngeaccrediteerd, OECD principles of GLP and Compliance Monitoring of OMCL (Official\nMedicine Control Laboratory). Uit het analyserapport dient te blijken dat het verpakte\ngeneesmiddel voldoet aan de specificaties vermeld in het registratiedossier en is van toepassing op\nelke batch van het geneesmiddel waarvoor een aanvraag voor registratie is ingediend.\n\nDeze voorwaarde voor aanvullende informatie geldt ook voor het importeren van producten die\ngeregistreerd zijn in een “higly regulated” land en waarbij de productie plaatsvindt in een\nproductiefaciliteit anders dan de specificaties in het registratiedossier.\n\nEr zij op gewezen dat de RC en FI, fabrikanten die geneesmiddelen produceren, die niet\n\ngeregistreerd en/of niet in de handel in een “highly regulated” land zijn, kunnen afzien van de\n\nverplichting tot het overleggen van aanvullend kwaliteitsbewijs, als het gaat om verpakte\n\ngeneesmiddelen die\n\n- al langere tijd zijn geregistreerd in Suriname en al meerdere malen in Suriname zijn\ngeïmporteerd en op markt gebracht en:\n\n- zonder bekende kwaliteitsproblemen zijn gebruikt.\n\nRC en FI zullen hierbij op basis van hun professionele expertise een risicoafweging maken.\n\nVerdere informatie over de registratie procedure kunt u vinden op de volgende website\nhttps://gov sr/misisteries/ministerie-van-volksgezondheid/de-registratie-commissie/\n\nen Volken\nfog mmm Ne\n\nMet vriendelijke aioe\n\nCe: _ Afdeling Farmaceutische Inspectie\nWnd. Hoofd Registratiebureau\nRegistratie commissie\n\n' Landen met een stringente geneesmiddelenregulatie; in de praktijk gelden landen als zodanig als zij lid zijn van het\nPIC/S scheme (https //picscheme.org/), producten die WHO prequalified zijn\n\n(hitps://extrinet, wha „int/prequal/medicines/pn:qualified/finished-pharm aceutical-products) en producten afkomstig\nvan WHO listed authorities https://www.who, int/publications/m/item/list-of-who-listed-authoritis-wlas\n\nMinisterie van Volksgezondheid HenckArronstraat 64 Tel. 477601 E-mail: secdir.volksgezondheid@gov.sr\n\n",
+        "section_article": "Original Dutch page2: reference-country and same-site quality condition",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:22:16.378402+00:00",
+        "checked_english_research_rendering": "If manufacturer has not registered/marketed product in a highlyregulated country, request independent laboratory batch-analysis proof. The additional requirement also applies when registered abroad but production site differs from dossier. Long-established local products may receive a risk-based exception.",
+        "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+        "language": "nl",
+        "checked_english_summary": "If manufacturer has not registered/marketed product in a highlyregulated country, request independent laboratory batch-analysis proof. The additional requirement also applies when registered abroad but production site differs from dossier. Long-established local products may receive a risk-based exception."
+      },
+      {
+        "clause_id": "EXP-A-074-2600",
+        "document_id": "F250_bba7c3e230cbd172d434",
+        "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-voor-het-aanbieden-van-registratie-dossiers-Engelse-versie.pdf",
+        "raw_sha256": "f5516d31d4dec76c2e2dd92935b45f072623710db31a91338bd1d5b6e1634abd",
+        "text_sha256": "b32a647ed28c2388f6bae566add1b8e5bd6935e00f0bbf16fe90e23850e4e956",
+        "start_offset": 2600,
+        "end_offset": 5228,
+        "verbatim_extracted_text": "VE]\nmentioned in the registration dossier. This in order to optimally guarantee the quality of medicines\navailable in Suriname.\n\nFrom now on, the RC and FI use their authority to request additional information, for reviewing\napplications:\n\n1. for the inclusion of packaged medicinal products in the Register and/or\n\n2. for an import license of packaged medicinal products,\nin case where the manufacturer of the products has not registered and/or marketed them in a\n\"highly regulated\"! country.\n\nThe additional information will in any case involve of a certificate of analysis (CoA) of the\npackaged medicinal products concerned, originating from an independent laboratory which is\napproved by the regulatory authorities of the country of preparation, and must comply with the\napplicable Good Laboratory Practice (GLP) guidelines (e.g. WHO prequalified, ISO 17025\naccredited, OECD principles of GLP and Compliance Monitoring of OMCL (Official Medicine\nControl Laboratory). The CoA must show that the packaged medicinal product meets the\nspecifications stated in the registration dossier and applies to each batch of the medicinal product\nfor which an application for registration is made.\n\nThis requirement for additional information also applies to the import of products registered in a\n“highly regulated\" country and where production takes place in a manufacturing facility other\nthan the specified in the registration dossier.\n\nFor manufacturers who produce medicinal products, which are not registered and/or not for sale\n\nin a “highly regulated” country, the RC and FI may waive the obligation to submit additional\n\nquality proof, if they are packaged medicines that\n\n- have been registered in Suriname for a long time and have already been imported and marketed\nin Suriname several times and:\n\n- have been used without known quality problems.\n\nRC and FI will in these cases make a risk assessment based on their professional expertise.\n\nFurther information on the registration procedure can be found on the following website\n\nA Ze: Pharmaceutical Inspection Department\n\nDeputy Head of the Registration Office\nRegistration Committee\n\n' Countries with strict drug regulation; in practice, countries are considered as such if they are members of the PIC/S\nscheme (https://picscheme.ore/), products that are WHO prequalified\n\n(https://extranet. who int/prequal/medicines/prequalified/finished-pharmaceutical-products) and products from WHO\nlisted authorities https://www.who.int/publications/m/item/list-of-who-listed-authorities-wlas\n\nMinistry of Health Henck Arronstraat 64 Tel. 477601 E-mail: secdir.volksgezondheld@gov.sr\n\n",
+        "section_article": "Official English page2, checked against Dutch original",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:22:35.485212+00:00",
+        "language": "nl"
       }
     ],
-    "source_scope": "Additional quality evidence for registration/import permits; not automatic acceptance of a foreign scientific decision",
-    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+    "other_reviewed_routes": [],
+    "review_details": {
+      "record_id": "SUR-EXP-A-073",
+      "iso3": "SUR",
+      "country": "Suriname",
+      "pathway": "Initial registration/import quality evidence conditional on reference-country marketing and same site",
+      "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-indienen-van-registratie-dossiers-en-aanvragen-voor-importvergunningen-4.pdf",
+      "document_id": "F250_d36db3b528693a31bfcf",
+      "language": "nl",
+      "genre": "Official national guideline/procedure",
+      "scope": "Initial human-medicine marketing authorisation, subject to expressly recorded route limits",
+      "version_note": "Original Dutch signed instruction DVG 189/25 dated 19 February 2025. Official English counterpart prints 19 February 2024 despite /25 identifier; both dates visually verified and discrepancy retained, not silently harmonised.",
+      "version_scope_note": "Original Dutch signed instruction DVG 189/25 dated 19 February 2025. Official English counterpart prints 19 February 2024 despite /25 identifier; both dates visually verified and discrepancy retained, not silently harmonised.",
+      "primary_comparison": true,
+      "selection_recommendation": "preferred_primary",
+      "selection_reason": "Specific national filing rule relevant to the fixed medicine: foreign-market status and manufacturing-site identity change additional batch-quality evidence; underlying-regulatory-report gates remain unresolved.",
+      "raw_sha256": "25c165670c31b1a4cefab7d0d9abf693913329d6d73e88ef7705ac5f650c89e9",
+      "text_sha256": "e7f05ccb0c645dda10495ebd7807164174f1f7bcf19e3a7e01ba8f937ad29489",
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "discretionary/conditional",
+          "finding": "Footnote describes PIC/S member countries, WHO -prequalified products and WHO -listed authorities; FDA / EMA are not individually enumerated in the instruction. Confirm the applicable reference class/list before treating the known approval as qualifying.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "discretionary/conditional",
+          "finding": "The additional-quality-evidence trigger turns on registration/marketing in a highlyregulated COUNTRY. It is not a universal requirement for two reference approvals or an automatic national MA .",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "explicit requirement",
+          "finding": "Whether the manufacturer registered and/or marketed the product in a highlyregulated country determines the stated extra-quality-evidence trigger.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Extra independent quality evidence also applies to foreign-registered products made at a facility other than that specified in the registration dossier. Fixed same US site meets the sameness dimension, subject to documentary proof.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "The instruction concerns batch-analysis evidence and national registration/import documents, not an adjudicated public-versus-full assessment-report test.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "discretionary/conditional",
+          "finding": "RC can obtain further written/oral information from the competent manufacturing-country authority or authority in another country. No mandatory unredacted report package stated in this instruction.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "discretionary/conditional",
+          "finding": "For triggered cases, independent laboratory Co A for each batch from authority-approved laboratory meeting specified GLP standards. Long-established local products with no known quality problems may receive risk-based exception; fixed new product does not establish that exception.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "National registration criteria and import licensing remain; RC / FI retain authority to seek additional information. Avoid equating a quality-evidence condition with full foreign-approval recognition.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "status": "quality condition partly established; complete eligibility unresolved",
+          "eligibility": "quality condition partly established; complete eligibility unresolved",
+          "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "B": {
+          "status": "quality condition partly established; complete eligibility unresolved",
+          "eligibility": "quality condition partly established; complete eligibility unresolved",
+          "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "C": {
+          "status": "quality condition partly established; complete eligibility unresolved",
+          "eligibility": "quality condition partly established; complete eligibility unresolved",
+          "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "D": {
+          "status": "quality condition partly established; complete eligibility unresolved",
+          "eligibility": "quality condition partly established; complete eligibility unresolved",
+          "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "E": {
+          "status": "quality condition partly established; complete eligibility unresolved",
+          "eligibility": "quality condition partly established; complete eligibility unresolved",
+          "finding": "Same manufacturing site is fixed, but qualifying highlyregulated reference status must be documented. If qualifying foreign registration/marketing is established, the stated lack-of-reference and changed-site triggers are avoided; this does not waive other registration/import or quality requirements. A–E report/consent changes do not settle overall eligibility.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": null,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null,
+        "one_approval_route_described": null
+      },
+      "gate_notes": {
+        "complete_report_gate": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "nonpublic_report_or_public_domain_exclusion": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "second_approval_selected_route": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "one_approval_alternative_described": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        },
+        "ambiguous_additional_full_report_gate": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-073-0",
+            "EXP-A-073-2600",
+            "EXP-A-074-2600"
+          ]
+        }
+      },
+      "paired_comparisons": {
+        "B_vs_A": "No foreign-regulator report-content contrast is established by this batch-quality instruction.",
+        "E_vs_B": "One qualifying-country registration/marketing can avoid the named additional-quality trigger; adding EC does not automatically establish a two-approval advantage."
+      },
+      "evidence": [
+        {
+          "clause_id": "EXP-A-073-0",
+          "document_id": "F250_d36db3b528693a31bfcf",
+          "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-indienen-van-registratie-dossiers-en-aanvragen-voor-importvergunningen-4.pdf",
+          "raw_sha256": "25c165670c31b1a4cefab7d0d9abf693913329d6d73e88ef7705ac5f650c89e9",
+          "text_sha256": "e7f05ccb0c645dda10495ebd7807164174f1f7bcf19e3a7e01ba8f937ad29489",
+          "start_offset": 0,
+          "end_offset": 2400,
+          "verbatim_extracted_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nzi Ministerie van Volksgezondheid\n; in\n\nSuriname\n\nDirectie en Centrale\nAdministratie\n\nNo: DVGI 89 | Le Paramaribo, Ig Februari 2025\n\nAan: de importeurs van geneesmiddelen\n\nBetreft: instructie indienen van registratiedossiers en aanvragen voor importvergunningen\n\nGeachte importeur,\n\nHierbij brengt het Ministerie van Volksgezondheid het volgende onder uw aandacht.\n\nDe Registratie Commissie (verder te noemen: RC) schrijft een geneesmiddel in het Register van\nverpakte geneesmiddelen in Suriname (verder te noemen: het Register) in conform artikel 4 van\nhet Besluit Verpakte Geneesmiddelen (G.B. 1973 no. 155; verder te noemen het Besluit), mits\nvoldaan is aan de in dit artikel genoemde criteria. Bovendien heeft de RC conform artikel 3 lid 3\nsub a van het eerdergenoemde Besluit de bevoegdheid om nadere schriftelijke of mondelinge\ninlichtingen, bij de aanvrager en bij de in artikel 3 lid 1 sub h bedoelde regeringsautoriteit (i.e. de\ndoor de RC daartoe bevoegd geachte regeringsautoriteit in het land van de bereiding van het\nverpakte geneesmiddel), of de desbetreffende autoriteit in een ander land, in te winnen.\n\nBij de import van geneesmiddelen is op grond van de Wet Goederenverkeer (S.B. 2003 no. 58,\nzoals zij luidt na daarin aangebrachte wijzigingen bij S.B. 2004 no. 121, en het bijbehorende\nBesluit Negatieve Lijst S.B. 2003 no. 74) een importvergunning nodig, afgegeven door de Dienst\nInvoer-, Uitvoer- en Deviezencontrole van het Ministerie van Economische Zaken,\nOndernemerschap en Technologische Innovatie en goedgekeurd door de Farmaceutische Inspectie\n(FI). Bij de aanvraag van de importvergunning moet de importeur bij de RC een bewijs van\ninschrijving in het Register (het zgn. ‘registratiecertificaat of import certificaat’) aanvragen en ter\nondersteuning aanleveren bij het Ministerie van Economische Zaken, Ondernemerschap en\nTechnologische Innovatie en de FI.\n\nGezien de recent gemelde casuïstiek aan het Ministerie van Volksgezondheid, is de RC in\nvoorkomende gevallen genoodzaakt om artikel 3 lid 3 sub a van het Besluit stringenter toe te\npassen en bij de import van geneesmiddelen aanvullend bewijs te vragen van het voldoen van de\nte verschepen geneesmiddelen aan de specificaties vermeld in het registratiedossier. Zulks om de\nkwaliteit van geneesmiddelen verkrijgbaar in Suriname maximaal te waarborgen.\n\nVanaf hede",
+          "section_article": "DVG189/25 original Dutch page1, registration/import authority",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:22:16.378402+00:00",
+          "checked_english_research_rendering": "Registration and import certificates remain national requirements; authority can seek information from applicant or foreign competent authority.",
+          "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+          "language": "nl",
+          "checked_english_summary": "Registration and import certificates remain national requirements; authority can seek information from applicant or foreign competent authority."
+        },
+        {
+          "clause_id": "EXP-A-073-2600",
+          "document_id": "F250_d36db3b528693a31bfcf",
+          "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-indienen-van-registratie-dossiers-en-aanvragen-voor-importvergunningen-4.pdf",
+          "raw_sha256": "25c165670c31b1a4cefab7d0d9abf693913329d6d73e88ef7705ac5f650c89e9",
+          "text_sha256": "e7f05ccb0c645dda10495ebd7807164174f1f7bcf19e3a7e01ba8f937ad29489",
+          "start_offset": 2600,
+          "end_offset": 5326,
+          "verbatim_extracted_text": "RITATIVE]\n1, voor opname van verpakte geneesmiddelen in het Register en/of\n\n2. voor een importvergunning van verpakte geneesmiddelen,\nin het geval dat de fabrikant der middelen deze niet heeft geregistreerd en/of niet in de handel heeft\ngebracht in een “highly regulated”! land, gebruik maken van hun bevoegdheid om aanvullende\ninformatie op te vragen.\n\nDie aanvullende informatie zal in elk geval bestaan uit een analyserapport van betreffende verpakte\ngeneesmiddelen, afkomstig van een onafhankelijk, door de regulatie autoriteiten van het land van\nbereiding aantoonbaar goedgekeurd laboratorium, die moet voldoen aan de geldende Good\nLaboratory Practice (GLP) richtlijnen (bijvoorbeeld WHO prequalified, ISO 17025\ngeaccrediteerd, OECD principles of GLP and Compliance Monitoring of OMCL (Official\nMedicine Control Laboratory). Uit het analyserapport dient te blijken dat het verpakte\ngeneesmiddel voldoet aan de specificaties vermeld in het registratiedossier en is van toepassing op\nelke batch van het geneesmiddel waarvoor een aanvraag voor registratie is ingediend.\n\nDeze voorwaarde voor aanvullende informatie geldt ook voor het importeren van producten die\ngeregistreerd zijn in een “higly regulated” land en waarbij de productie plaatsvindt in een\nproductiefaciliteit anders dan de specificaties in het registratiedossier.\n\nEr zij op gewezen dat de RC en FI, fabrikanten die geneesmiddelen produceren, die niet\n\ngeregistreerd en/of niet in de handel in een “highly regulated” land zijn, kunnen afzien van de\n\nverplichting tot het overleggen van aanvullend kwaliteitsbewijs, als het gaat om verpakte\n\ngeneesmiddelen die\n\n- al langere tijd zijn geregistreerd in Suriname en al meerdere malen in Suriname zijn\ngeïmporteerd en op markt gebracht en:\n\n- zonder bekende kwaliteitsproblemen zijn gebruikt.\n\nRC en FI zullen hierbij op basis van hun professionele expertise een risicoafweging maken.\n\nVerdere informatie over de registratie procedure kunt u vinden op de volgende website\nhttps://gov sr/misisteries/ministerie-van-volksgezondheid/de-registratie-commissie/\n\nen Volken\nfog mmm Ne\n\nMet vriendelijke aioe\n\nCe: _ Afdeling Farmaceutische Inspectie\nWnd. Hoofd Registratiebureau\nRegistratie commissie\n\n' Landen met een stringente geneesmiddelenregulatie; in de praktijk gelden landen als zodanig als zij lid zijn van het\nPIC/S scheme (https //picscheme.org/), producten die WHO prequalified zijn\n\n(hitps://extrinet, wha „int/prequal/medicines/pn:qualified/finished-pharm aceutical-products) en producten afkomstig\nvan WHO listed authorities https://www.who, int/publications/m/item/list-of-who-listed-authoritis-wlas\n\nMinisterie van Volksgezondheid HenckArronstraat 64 Tel. 477601 E-mail: secdir.volksgezondheid@gov.sr\n\n",
+          "section_article": "Original Dutch page2: reference-country and same-site quality condition",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:22:16.378402+00:00",
+          "checked_english_research_rendering": "If manufacturer has not registered/marketed product in a highlyregulated country, request independent laboratory batch-analysis proof. The additional requirement also applies when registered abroad but production site differs from dossier. Long-established local products may receive a risk-based exception.",
+          "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+          "language": "nl",
+          "checked_english_summary": "If manufacturer has not registered/marketed product in a highlyregulated country, request independent laboratory batch-analysis proof. The additional requirement also applies when registered abroad but production site differs from dossier. Long-established local products may receive a risk-based exception."
+        },
+        {
+          "clause_id": "EXP-A-074-2600",
+          "document_id": "F250_bba7c3e230cbd172d434",
+          "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-voor-het-aanbieden-van-registratie-dossiers-Engelse-versie.pdf",
+          "raw_sha256": "f5516d31d4dec76c2e2dd92935b45f072623710db31a91338bd1d5b6e1634abd",
+          "text_sha256": "b32a647ed28c2388f6bae566add1b8e5bd6935e00f0bbf16fe90e23850e4e956",
+          "start_offset": 2600,
+          "end_offset": 5228,
+          "verbatim_extracted_text": "VE]\nmentioned in the registration dossier. This in order to optimally guarantee the quality of medicines\navailable in Suriname.\n\nFrom now on, the RC and FI use their authority to request additional information, for reviewing\napplications:\n\n1. for the inclusion of packaged medicinal products in the Register and/or\n\n2. for an import license of packaged medicinal products,\nin case where the manufacturer of the products has not registered and/or marketed them in a\n\"highly regulated\"! country.\n\nThe additional information will in any case involve of a certificate of analysis (CoA) of the\npackaged medicinal products concerned, originating from an independent laboratory which is\napproved by the regulatory authorities of the country of preparation, and must comply with the\napplicable Good Laboratory Practice (GLP) guidelines (e.g. WHO prequalified, ISO 17025\naccredited, OECD principles of GLP and Compliance Monitoring of OMCL (Official Medicine\nControl Laboratory). The CoA must show that the packaged medicinal product meets the\nspecifications stated in the registration dossier and applies to each batch of the medicinal product\nfor which an application for registration is made.\n\nThis requirement for additional information also applies to the import of products registered in a\n“highly regulated\" country and where production takes place in a manufacturing facility other\nthan the specified in the registration dossier.\n\nFor manufacturers who produce medicinal products, which are not registered and/or not for sale\n\nin a “highly regulated” country, the RC and FI may waive the obligation to submit additional\n\nquality proof, if they are packaged medicines that\n\n- have been registered in Suriname for a long time and have already been imported and marketed\nin Suriname several times and:\n\n- have been used without known quality problems.\n\nRC and FI will in these cases make a risk assessment based on their professional expertise.\n\nFurther information on the registration procedure can be found on the following website\n\nA Ze: Pharmaceutical Inspection Department\n\nDeputy Head of the Registration Office\nRegistration Committee\n\n' Countries with strict drug regulation; in practice, countries are considered as such if they are members of the PIC/S\nscheme (https://picscheme.ore/), products that are WHO prequalified\n\n(https://extranet. who int/prequal/medicines/prequalified/finished-pharmaceutical-products) and products from WHO\nlisted authorities https://www.who.int/publications/m/item/list-of-who-listed-authorities-wlas\n\nMinistry of Health Henck Arronstraat 64 Tel. 477601 E-mail: secdir.volksgezondheld@gov.sr\n\n",
+          "section_article": "Official English page2, checked against Dutch original",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:22:35.485212+00:00",
+          "language": "nl"
+        }
+      ],
+      "reviewed_ranges": [
+        [
+          0,
+          2200
+        ],
+        [
+          2100,
+          5326
+        ]
+      ],
+      "contextual_review_status": "Contextual review of the expressly recorded sections; not a certification that every incorporated rule is supplied.",
+      "version_dates": {
+        "original_Dutch_document_date": "2025-02-19",
+        "conflicting_official_English_date": "2024-02-19"
+      },
+      "complete_eligibility_resolved": false,
+      "translation_provenance": "Original Dutch authoritative; official English counterpart checked against Dutch and scan",
+      "expansion_selection_reason": "Signed Dutch circular controls; English date discrepancy retained.",
+      "selected_expansion_record": "a:2"
+    }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": [
+    {
+      "clause_id": "SDX-EXP-A-073-0",
+      "document_id": "F250_d36db3b528693a31bfcf",
+      "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-indienen-van-registratie-dossiers-en-aanvragen-voor-importvergunningen-4.pdf",
+      "raw_sha256": "25c165670c31b1a4cefab7d0d9abf693913329d6d73e88ef7705ac5f650c89e9",
+      "text_sha256": "e7f05ccb0c645dda10495ebd7807164174f1f7bcf19e3a7e01ba8f937ad29489",
+      "start_offset": 0,
+      "end_offset": 2400,
+      "verbatim_extracted_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nzi Ministerie van Volksgezondheid\n; in\n\nSuriname\n\nDirectie en Centrale\nAdministratie\n\nNo: DVGI 89 | Le Paramaribo, Ig Februari 2025\n\nAan: de importeurs van geneesmiddelen\n\nBetreft: instructie indienen van registratiedossiers en aanvragen voor importvergunningen\n\nGeachte importeur,\n\nHierbij brengt het Ministerie van Volksgezondheid het volgende onder uw aandacht.\n\nDe Registratie Commissie (verder te noemen: RC) schrijft een geneesmiddel in het Register van\nverpakte geneesmiddelen in Suriname (verder te noemen: het Register) in conform artikel 4 van\nhet Besluit Verpakte Geneesmiddelen (G.B. 1973 no. 155; verder te noemen het Besluit), mits\nvoldaan is aan de in dit artikel genoemde criteria. Bovendien heeft de RC conform artikel 3 lid 3\nsub a van het eerdergenoemde Besluit de bevoegdheid om nadere schriftelijke of mondelinge\ninlichtingen, bij de aanvrager en bij de in artikel 3 lid 1 sub h bedoelde regeringsautoriteit (i.e. de\ndoor de RC daartoe bevoegd geachte regeringsautoriteit in het land van de bereiding van het\nverpakte geneesmiddel), of de desbetreffende autoriteit in een ander land, in te winnen.\n\nBij de import van geneesmiddelen is op grond van de Wet Goederenverkeer (S.B. 2003 no. 58,\nzoals zij luidt na daarin aangebrachte wijzigingen bij S.B. 2004 no. 121, en het bijbehorende\nBesluit Negatieve Lijst S.B. 2003 no. 74) een importvergunning nodig, afgegeven door de Dienst\nInvoer-, Uitvoer- en Deviezencontrole van het Ministerie van Economische Zaken,\nOndernemerschap en Technologische Innovatie en goedgekeurd door de Farmaceutische Inspectie\n(FI). Bij de aanvraag van de importvergunning moet de importeur bij de RC een bewijs van\ninschrijving in het Register (het zgn. ‘registratiecertificaat of import certificaat’) aanvragen en ter\nondersteuning aanleveren bij het Ministerie van Economische Zaken, Ondernemerschap en\nTechnologische Innovatie en de FI.\n\nGezien de recent gemelde casuïstiek aan het Ministerie van Volksgezondheid, is de RC in\nvoorkomende gevallen genoodzaakt om artikel 3 lid 3 sub a van het Besluit stringenter toe te\npassen en bij de import van geneesmiddelen aanvullend bewijs te vragen van het voldoen van de\nte verschepen geneesmiddelen aan de specificaties vermeld in het registratiedossier. Zulks om de\nkwaliteit van geneesmiddelen verkrijgbaar in Suriname maximaal te waarborgen.\n\nVanaf hede",
+      "section_article": "DVG189/25 original Dutch page1, registration/import authority",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:22:16.378402+00:00",
+      "checked_english_research_rendering": "Registration and import certificates remain national requirements; authority can seek information from applicant or foreign competent authority.",
+      "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+      "language": "nl",
+      "checked_english_summary": "Registration and import certificates remain national requirements; authority can seek information from applicant or foreign competent authority.",
+      "iso3": "SUR",
+      "country": "Suriname",
+      "display_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nzi Ministerie van Volksgezondheid\n; in\n\nSuriname\n\nDirectie en Centrale\nAdministratie\n\nNo: DVGI 89 | Le Paramaribo, Ig Februari 2025\n\nAan: de importeurs van geneesmiddelen\n\nBetreft: instructie indienen van registratiedossiers en aanvragen voor importvergunningen\n\nGeachte importeur,\n\nHierbij brengt het Ministerie van Volksgezondheid het volgende onder uw aandacht.\n\nDe Registratie Commissie (verder te noemen: RC) schrijft een geneesmiddel in het Register van\nverpakte geneesmiddelen in Suriname (verder te noemen: het Register) in conform artikel 4 van\nhet Besluit Verpakte Geneesmiddelen (G.B. 1973 no. 155; verder te noemen het Besluit), mits\nvoldaan is aan de in dit artikel genoemde criteria. Bovendien heeft de RC conform artikel 3 lid 3\nsub a van het eerdergenoemde Besluit de bevoegdheid om nadere schriftelijke of mondelinge\ninlichtingen, bij de aanvrager en bij de in artikel 3 lid 1 sub h bedoelde regeringsautoriteit (i.e. de\ndoor de RC daartoe bevoegd geachte regeringsautoriteit in het land van de bereiding van het\nverpakte geneesmiddel), of de desbetreffende autoriteit in een ander land, in te winnen.\n\nBij de import van geneesmiddelen is op grond van de Wet Goederenverkeer (S.B. 2003 no. 58,\nzoals zij luidt na daarin aangebrachte wijzigingen bij S.B. 2004 no. 121, en het bijbehorende\nBesluit Negatieve Lijst S.B. 2003 no. 74) een importvergunning nodig, afgegeven door de Dienst\nInvoer-, Uitvoer- en Deviezencontrole van het Ministerie van Economische Zaken,\nOndernemerschap en Technologische Innovatie en goedgekeurd door de Farmaceutische Inspectie\n(FI). Bij de aanvraag van de importvergunning moet de importeur bij de RC een bewijs van\ninschrijving in het Register (het zgn. ‘registratiecertificaat of import certificaat’) aanvragen en ter\nondersteuning aanleveren bij het Ministerie van Economische Zaken, Ondernemerschap en\nTechnologische Innovatie en de FI.\n\nGezien de recent gemelde casuïstiek aan het Ministerie van Volksgezondheid, is de RC in\nvoorkomende gevallen genoodzaakt om artikel 3 lid 3 sub a van het Besluit stringenter toe te\npassen en bij de import van geneesmiddelen aanvullend bewijs te vragen van het voldoen van de\nte verschepen geneesmiddelen aan de specificaties vermeld in het registratiedossier. Zulks om de\nkwaliteit van geneesmiddelen verkrijgbaar in Suriname maximaal te waarborgen.\n\nVanaf hede",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Initial registration/import quality evidence conditional on reference-country marketing and same site Original Dutch signed instruction DVG 189/25 dated 19 February 2025. Official English counterpart prints 19 February 2024 despite /25 identifier; both dates visually verified and discrepancy retained, not silently harmonised. Registration and import certificates remain national requirements; authority can seek information from applicant or foreign competent authority.",
+      "version_alignment": "Original Dutch signed instruction DVG 189/25 dated 19 February 2025. Official English counterpart prints 19 February 2024 despite /25 identifier; both dates visually verified and discrepancy retained, not silently harmonised."
+    },
+    {
+      "clause_id": "SDX-EXP-A-073-2600",
+      "document_id": "F250_d36db3b528693a31bfcf",
+      "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-indienen-van-registratie-dossiers-en-aanvragen-voor-importvergunningen-4.pdf",
+      "raw_sha256": "25c165670c31b1a4cefab7d0d9abf693913329d6d73e88ef7705ac5f650c89e9",
+      "text_sha256": "e7f05ccb0c645dda10495ebd7807164174f1f7bcf19e3a7e01ba8f937ad29489",
+      "start_offset": 2600,
+      "end_offset": 5326,
+      "verbatim_extracted_text": "RITATIVE]\n1, voor opname van verpakte geneesmiddelen in het Register en/of\n\n2. voor een importvergunning van verpakte geneesmiddelen,\nin het geval dat de fabrikant der middelen deze niet heeft geregistreerd en/of niet in de handel heeft\ngebracht in een “highly regulated”! land, gebruik maken van hun bevoegdheid om aanvullende\ninformatie op te vragen.\n\nDie aanvullende informatie zal in elk geval bestaan uit een analyserapport van betreffende verpakte\ngeneesmiddelen, afkomstig van een onafhankelijk, door de regulatie autoriteiten van het land van\nbereiding aantoonbaar goedgekeurd laboratorium, die moet voldoen aan de geldende Good\nLaboratory Practice (GLP) richtlijnen (bijvoorbeeld WHO prequalified, ISO 17025\ngeaccrediteerd, OECD principles of GLP and Compliance Monitoring of OMCL (Official\nMedicine Control Laboratory). Uit het analyserapport dient te blijken dat het verpakte\ngeneesmiddel voldoet aan de specificaties vermeld in het registratiedossier en is van toepassing op\nelke batch van het geneesmiddel waarvoor een aanvraag voor registratie is ingediend.\n\nDeze voorwaarde voor aanvullende informatie geldt ook voor het importeren van producten die\ngeregistreerd zijn in een “higly regulated” land en waarbij de productie plaatsvindt in een\nproductiefaciliteit anders dan de specificaties in het registratiedossier.\n\nEr zij op gewezen dat de RC en FI, fabrikanten die geneesmiddelen produceren, die niet\n\ngeregistreerd en/of niet in de handel in een “highly regulated” land zijn, kunnen afzien van de\n\nverplichting tot het overleggen van aanvullend kwaliteitsbewijs, als het gaat om verpakte\n\ngeneesmiddelen die\n\n- al langere tijd zijn geregistreerd in Suriname en al meerdere malen in Suriname zijn\ngeïmporteerd en op markt gebracht en:\n\n- zonder bekende kwaliteitsproblemen zijn gebruikt.\n\nRC en FI zullen hierbij op basis van hun professionele expertise een risicoafweging maken.\n\nVerdere informatie over de registratie procedure kunt u vinden op de volgende website\nhttps://gov sr/misisteries/ministerie-van-volksgezondheid/de-registratie-commissie/\n\nen Volken\nfog mmm Ne\n\nMet vriendelijke aioe\n\nCe: _ Afdeling Farmaceutische Inspectie\nWnd. Hoofd Registratiebureau\nRegistratie commissie\n\n' Landen met een stringente geneesmiddelenregulatie; in de praktijk gelden landen als zodanig als zij lid zijn van het\nPIC/S scheme (https //picscheme.org/), producten die WHO prequalified zijn\n\n(hitps://extrinet, wha „int/prequal/medicines/pn:qualified/finished-pharm aceutical-products) en producten afkomstig\nvan WHO listed authorities https://www.who, int/publications/m/item/list-of-who-listed-authoritis-wlas\n\nMinisterie van Volksgezondheid HenckArronstraat 64 Tel. 477601 E-mail: secdir.volksgezondheid@gov.sr\n\n",
+      "section_article": "Original Dutch page2: reference-country and same-site quality condition",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:22:16.378402+00:00",
+      "checked_english_research_rendering": "If manufacturer has not registered/marketed product in a highlyregulated country, request independent laboratory batch-analysis proof. The additional requirement also applies when registered abroad but production site differs from dossier. Long-established local products may receive a risk-based exception.",
+      "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+      "language": "nl",
+      "checked_english_summary": "If manufacturer has not registered/marketed product in a highlyregulated country, request independent laboratory batch-analysis proof. The additional requirement also applies when registered abroad but production site differs from dossier. Long-established local products may receive a risk-based exception.",
+      "iso3": "SUR",
+      "country": "Suriname",
+      "display_text": "RITATIVE]\n1, voor opname van verpakte geneesmiddelen in het Register en/of\n\n2. voor een importvergunning van verpakte geneesmiddelen,\nin het geval dat de fabrikant der middelen deze niet heeft geregistreerd en/of niet in de handel heeft\ngebracht in een “highly regulated”! land, gebruik maken van hun bevoegdheid om aanvullende\ninformatie op te vragen.\n\nDie aanvullende informatie zal in elk geval bestaan uit een analyserapport van betreffende verpakte\ngeneesmiddelen, afkomstig van een onafhankelijk, door de regulatie autoriteiten van het land van\nbereiding aantoonbaar goedgekeurd laboratorium, die moet voldoen aan de geldende Good\nLaboratory Practice (GLP) richtlijnen (bijvoorbeeld WHO prequalified, ISO 17025\ngeaccrediteerd, OECD principles of GLP and Compliance Monitoring of OMCL (Official\nMedicine Control Laboratory). Uit het analyserapport dient te blijken dat het verpakte\ngeneesmiddel voldoet aan de specificaties vermeld in het registratiedossier en is van toepassing op\nelke batch van het geneesmiddel waarvoor een aanvraag voor registratie is ingediend.\n\nDeze voorwaarde voor aanvullende informatie geldt ook voor het importeren van producten die\ngeregistreerd zijn in een “higly regulated” land en waarbij de productie plaatsvindt in een\nproductiefaciliteit anders dan de specificaties in het registratiedossier.\n\nEr zij op gewezen dat de RC en FI, fabrikanten die geneesmiddelen produceren, die niet\n\ngeregistreerd en/of niet in de handel in een “highly regulated” land zijn, kunnen afzien van de\n\nverplichting tot het overleggen van aanvullend kwaliteitsbewijs, als het gaat om verpakte\n\ngeneesmiddelen die\n\n- al langere tijd zijn geregistreerd in Suriname en al meerdere malen in Suriname zijn\ngeïmporteerd en op markt gebracht en:\n\n- zonder bekende kwaliteitsproblemen zijn gebruikt.\n\nRC en FI zullen hierbij op basis van hun professionele expertise een risicoafweging maken.\n\nVerdere informatie over de registratie procedure kunt u vinden op de volgende website\nhttps://gov sr/misisteries/ministerie-van-volksgezondheid/de-registratie-commissie/\n\nen Volken\nfog mmm Ne\n\nMet vriendelijke aioe\n\nCe: _ Afdeling Farmaceutische Inspectie\nWnd. Hoofd Registratiebureau\nRegistratie commissie\n\n' Landen met een stringente geneesmiddelenregulatie; in de praktijk gelden landen als zodanig als zij lid zijn van het\nPIC/S scheme (https //picscheme.org/), producten die WHO prequalified zijn\n\n(hitps://extrinet, wha „int/prequal/medicines/pn:qualified/finished-pharm aceutical-products) en producten afkomstig\nvan WHO listed authorities https://www.who, int/publications/m/item/list-of-who-listed-authoritis-wlas\n\nMinisterie van Volksgezondheid HenckArronstraat 64 Tel. 477601 E-mail: secdir.volksgezondheid@gov.sr\n\n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Initial registration/import quality evidence conditional on reference-country marketing and same site Original Dutch signed instruction DVG 189/25 dated 19 February 2025. Official English counterpart prints 19 February 2024 despite /25 identifier; both dates visually verified and discrepancy retained, not silently harmonised. If manufacturer has not registered/marketed product in a highlyregulated country, request independent laboratory batch-analysis proof. The additional requirement also applies when registered abroad but production site differs from dossier. Long-established local products may receive a risk-based exception.",
+      "version_alignment": "Original Dutch signed instruction DVG 189/25 dated 19 February 2025. Official English counterpart prints 19 February 2024 despite /25 identifier; both dates visually verified and discrepancy retained, not silently harmonised."
+    },
+    {
+      "clause_id": "SDX-EXP-A-074-2600",
+      "document_id": "F250_d36db3b528693a31bfcf",
+      "source_url": "https://gov.sr/wp-content/uploads/2025/04/DVG-189-Instructie-voor-het-aanbieden-van-registratie-dossiers-Engelse-versie.pdf",
+      "raw_sha256": "f5516d31d4dec76c2e2dd92935b45f072623710db31a91338bd1d5b6e1634abd",
+      "text_sha256": "b32a647ed28c2388f6bae566add1b8e5bd6935e00f0bbf16fe90e23850e4e956",
+      "start_offset": 2600,
+      "end_offset": 5228,
+      "verbatim_extracted_text": "VE]\nmentioned in the registration dossier. This in order to optimally guarantee the quality of medicines\navailable in Suriname.\n\nFrom now on, the RC and FI use their authority to request additional information, for reviewing\napplications:\n\n1. for the inclusion of packaged medicinal products in the Register and/or\n\n2. for an import license of packaged medicinal products,\nin case where the manufacturer of the products has not registered and/or marketed them in a\n\"highly regulated\"! country.\n\nThe additional information will in any case involve of a certificate of analysis (CoA) of the\npackaged medicinal products concerned, originating from an independent laboratory which is\napproved by the regulatory authorities of the country of preparation, and must comply with the\napplicable Good Laboratory Practice (GLP) guidelines (e.g. WHO prequalified, ISO 17025\naccredited, OECD principles of GLP and Compliance Monitoring of OMCL (Official Medicine\nControl Laboratory). The CoA must show that the packaged medicinal product meets the\nspecifications stated in the registration dossier and applies to each batch of the medicinal product\nfor which an application for registration is made.\n\nThis requirement for additional information also applies to the import of products registered in a\n“highly regulated\" country and where production takes place in a manufacturing facility other\nthan the specified in the registration dossier.\n\nFor manufacturers who produce medicinal products, which are not registered and/or not for sale\n\nin a “highly regulated” country, the RC and FI may waive the obligation to submit additional\n\nquality proof, if they are packaged medicines that\n\n- have been registered in Suriname for a long time and have already been imported and marketed\nin Suriname several times and:\n\n- have been used without known quality problems.\n\nRC and FI will in these cases make a risk assessment based on their professional expertise.\n\nFurther information on the registration procedure can be found on the following website\n\nA Ze: Pharmaceutical Inspection Department\n\nDeputy Head of the Registration Office\nRegistration Committee\n\n' Countries with strict drug regulation; in practice, countries are considered as such if they are members of the PIC/S\nscheme (https://picscheme.ore/), products that are WHO prequalified\n\n(https://extranet. who int/prequal/medicines/prequalified/finished-pharmaceutical-products) and products from WHO\nlisted authorities https://www.who.int/publications/m/item/list-of-who-listed-authorities-wlas\n\nMinistry of Health Henck Arronstraat 64 Tel. 477601 E-mail: secdir.volksgezondheld@gov.sr\n\n",
+      "section_article": "Official English page2, checked against Dutch original",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:22:35.485212+00:00",
+      "language": "nl",
+      "iso3": "SUR",
+      "country": "Suriname",
+      "display_text": "VE]\nmentioned in the registration dossier. This in order to optimally guarantee the quality of medicines\navailable in Suriname.\n\nFrom now on, the RC and FI use their authority to request additional information, for reviewing\napplications:\n\n1. for the inclusion of packaged medicinal products in the Register and/or\n\n2. for an import license of packaged medicinal products,\nin case where the manufacturer of the products has not registered and/or marketed them in a\n\"highly regulated\"! country.\n\nThe additional information will in any case involve of a certificate of analysis (CoA) of the\npackaged medicinal products concerned, originating from an independent laboratory which is\napproved by the regulatory authorities of the country of preparation, and must comply with the\napplicable Good Laboratory Practice (GLP) guidelines (e.g. WHO prequalified, ISO 17025\naccredited, OECD principles of GLP and Compliance Monitoring of OMCL (Official Medicine\nControl Laboratory). The CoA must show that the packaged medicinal product meets the\nspecifications stated in the registration dossier and applies to each batch of the medicinal product\nfor which an application for registration is made.\n\nThis requirement for additional information also applies to the import of products registered in a\n“highly regulated\" country and where production takes place in a manufacturing facility other\nthan the specified in the registration dossier.\n\nFor manufacturers who produce medicinal products, which are not registered and/or not for sale\n\nin a “highly regulated” country, the RC and FI may waive the obligation to submit additional\n\nquality proof, if they are packaged medicines that\n\n- have been registered in Suriname for a long time and have already been imported and marketed\nin Suriname several times and:\n\n- have been used without known quality problems.\n\nRC and FI will in these cases make a risk assessment based on their professional expertise.\n\nFurther information on the registration procedure can be found on the following website\n\nA Ze: Pharmaceutical Inspection Department\n\nDeputy Head of the Registration Office\nRegistration Committee\n\n' Countries with strict drug regulation; in practice, countries are considered as such if they are members of the PIC/S\nscheme (https://picscheme.ore/), products that are WHO prequalified\n\n(https://extranet. who int/prequal/medicines/prequalified/finished-pharmaceutical-products) and products from WHO\nlisted authorities https://www.who.int/publications/m/item/list-of-who-listed-authorities-wlas\n\nMinistry of Health Henck Arronstraat 64 Tel. 477601 E-mail: secdir.volksgezondheld@gov.sr\n\n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Initial registration/import quality evidence conditional on reference-country marketing and same site Original Dutch signed instruction DVG 189/25 dated 19 February 2025. Official English counterpart prints 19 February 2024 despite /25 identifier; both dates visually verified and discrepancy retained, not silently harmonised. ",
+      "version_alignment": "Original Dutch signed instruction DVG 189/25 dated 19 February 2025. Official English counterpart prints 19 February 2024 despite /25 identifier; both dates visually verified and discrepancy retained, not silently harmonised."
+    }
+  ]
 }

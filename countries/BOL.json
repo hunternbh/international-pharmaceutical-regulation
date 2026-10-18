@@ -81,31 +81,778 @@
   "standard_drug_legal_comparison": {
     "iso3": "BOL",
     "country": "Bolivia (Plurinational State of)",
-    "sample": "inventory_without_resolved_country_specific_case",
-    "primary_comparison": false,
-    "finding": "The inventory retains discovery/shared-programme evidence where present, but no complete country-specific standardized-drug route is coded here. This is not a finding of no reliance law.",
-    "cases": {
-      "A": {
-        "status": "unresolved",
-        "finding": "No resolved country-specific case decision."
+    "primary_comparison": true,
+    "sample": "selected_national_route_comparisons",
+    "pathway": "Ordinary registration: legal representation and stability requirements",
+    "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+    "document_id": "F250_6f30d666057b95f1e241",
+    "genre": "Official national guideline/procedure",
+    "language": "es",
+    "scope": "Initial human-medicine marketing authorisation, subject to expressly recorded route limits",
+    "version_note": "Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "RA 895 annex specifically requires API stability for a new molecule; ordinary medicine registration is within scope.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
       },
-      "B": {
-        "status": "unresolved",
-        "finding": "No resolved country-specific case decision."
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       },
-      "C": {
-        "status": "unresolved",
-        "finding": "No resolved country-specific case decision."
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       },
-      "D": {
-        "status": "unresolved",
-        "finding": "No resolved country-specific case decision."
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       },
-      "E": {
-        "status": "unresolved",
-        "finding": "No resolved country-specific case decision."
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Stability study reports are company technical data, not foreign-regulator assessment reports.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Legal representation and third-party manufacturing contract are expressly distinguished; neither is established as permission to disclose foreign regulator-owned reports.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "New API stability and finished-product Zone IVb stability with study protocol, specifications, container system, relevant batches and responsible professional signature. Accepted foreign GMP does not itself establish local stability evidence.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "local_representative": {
+        "state": "explicit requirement",
+        "finding": "Legal representation covering manufacturing sites is a prerequisite filed with the company record before MA /registration. It need not name each product or be an original in every product dossier.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "discretionary/conditional",
+        "finding": "Legal-representation originals may be apostilled; countries lacking Bolivian consular representation have stated ministerial-note or notarisation/legalisation alternatives. No universal need for a Bolivian consulate in origin.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "Circular dates for correcting representative records and issuing representative certificates are not initial medicine-review clocks.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       }
     },
-    "evidence": []
-  }
+    "cases": {
+      "A": {
+        "status": "unresolved ordinary-registration conditions",
+        "eligibility": "unresolved ordinary-registration conditions",
+        "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "B": {
+        "status": "unresolved ordinary-registration conditions",
+        "eligibility": "unresolved ordinary-registration conditions",
+        "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "C": {
+        "status": "unresolved ordinary-registration conditions",
+        "eligibility": "unresolved ordinary-registration conditions",
+        "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "D": {
+        "status": "unresolved ordinary-registration conditions",
+        "eligibility": "unresolved ordinary-registration conditions",
+        "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      },
+      "E": {
+        "status": "unresolved ordinary-registration conditions",
+        "eligibility": "unresolved ordinary-registration conditions",
+        "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+        "evidence_ids": [
+          "EXP-A-009-0",
+          "EXP-A-009-3100",
+          "EXP-A-008-9300",
+          "EXP-A-009-11000"
+        ]
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "reviewed contextual interpretation",
+        "finding": "More foreign assessment content does not resolve representation and climatic-stability filing conditions. No regulator-report requirement or waiver inferred."
+      },
+      "B_minus_E": {
+        "status": "reviewed contextual interpretation",
+        "finding": "This ordinary filing circular does not establish an FDA -versus- FDA + EC threshold."
+      }
+    },
+    "shared_authorization_effect": null,
+    "evidence": [
+      {
+        "clause_id": "EXP-A-009-0",
+        "document_id": "F250_6f30d666057b95f1e241",
+        "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+        "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+        "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+        "start_offset": 0,
+        "end_offset": 2100,
+        "verbatim_extracted_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nESTADO PLURINACIONAL DE\n\nBOLIVIA ¿iio voerorres\n\nFon /X 4\n\nBICENTENARIO DE felt\nBOLIVIA AVR\n\nGINGA ESTAIAL DE MADICAMENTOS\nY TECNOLOGÍAS EN SALUD\n\nCIRCULAR\nMSyD/AGEMED/CR/28/2024\n\nA los jefes de departamento, jefes de división, profesionales, técnicos,\nservidores y servidoras de la Agencia Estatal de Medicamentos y Tecnologías\nen Salud — AGEMED; a los regentes farmacéuticos de empresas\nfarmacéuticas, laboratorios industriales nacionales, ¡importadoras y\ndistribuidoras nacionales de Medicamentos Reconocidos Por Ley.\n\nRef.: Criterios para las Representaciones Legales\n\nLa Agencia Estatal de Medicamentos y Tecnologías en Salud — AGEMED del Ministerio\nde Salud y Deportes, conforme a los artículos 7 y 22 de la Ley No. 1737, artículo 42, del\nReglamento a la Ley del Medicamento D.S. 25235, y Decreto Supremo No. 3376 tiene a\nbien puntualizar lo siguiente con respecto a las representaciones legales:\n\nDefinición general: La representación legal es la facultad otorgada por ley o acuerdo\na una persona para obrar en nombre de otra, recayendo en esta los efectos de tales\nactos. El ejercicio de esa representación puede ser obligatorio para el representante.\n\nComo la Ley y Decretos lo establecen la Representación Legal surge para medicamentos\npor lo que se habla de laboratorios fabricantes, al extenderse la representación legal a todos\nlos Medicamentos Reconocidos por Ley se hace necesario enfatizar que el término\nlaboratorios fabricantes abarca todos los tipos de industria dedicadas a los diferentes rubros\ntales como alimenticios, cosméticos, reactivos, equipo y otros. Por ello se considerará que\nlaboratorio fabricante no es necesariamente un laboratorio.\n\nLas nuevas tecnologías establecidas para productos biológicos, entre otros; obligan a\ncontar con diferentes plantas o laboratorios para su producción por lo que para un producto\nno habrá un solo fabricante, cualquiera sea el caso la representación legal deberá\nmencionar todos los sitios de fabricación sobre los que se tiene Representación,\nparticularmente el fabricante final o",
+        "section_article": "Circular28/2024 scope and manufacturing-site representation",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:22:38.088319+00:00",
+        "checked_english_research_rendering": "Legal representation covers all manufacturing sites, especially the finished-product manufacturer.",
+        "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+        "language": "es",
+        "checked_english_summary": "Legal representation covers all manufacturing sites, especially the finished-product manufacturer."
+      },
+      {
+        "clause_id": "EXP-A-009-3100",
+        "document_id": "F250_6f30d666057b95f1e241",
+        "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+        "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+        "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+        "start_offset": 3100,
+        "end_offset": 5900,
+        "verbatim_extracted_text": "ACIONAL DE\n\nMea” BOLIVIA | satvovoerorres\n\nBICENTENARIO DE\nBOLIVIA £<EMEL\n\nNOLOSIAS EN SALUD\n\nE\n\nque señale que Bolivia no cuenta con representación consular en el país indicado,\nadjuntando el documento original de Representación Legal.\n\ne Para los países en los que no se cuente con representación consular se aceptará la\nnotarización o legalización por notario del Documento del país de origen, a ser\nremitido a AGEMED.\n\n+ Conforme a la Ley No 967 de 2 de agosto de 2017 y DECRETO SUPREMO N° 3541\ndel 25 de abril de 2018, Articulo 1 que señala la implementación del “Convenio\nSuprimiendo la Exigencia de Legalización de los Documentos Públicos Extranjeros”\n(Convención de la Haya sobre la Apostilla), queda establecido que las\nrepresentaciones legales podrán presentarse en original apostilladas en origen por\nla Entidad Emisora, no siendo necesario contar con Consulado Boliviano en origen.\n\nSe deberá tomar en cuenta que conforme al D.S. 3541, Artículo 7 (PROCEDIMIENTO DE\nAPOSTILLADO). Parágrafo |. Las personas podrán solicitar el trámite de apostillado de\ndocumentos públicos a través de medios físicos o digitales ante la Entidad Emisora o la\nAutoridad Competente.\n\nSe considerará lo establecido en los Manuales de Registro que a la letra señalan:\n\nManual para registro sanitario, con R.M. N° 0909 de 07 de diciembre de 2005\npunto 2.3.6. y Manual para registro sanitario de dispositivos médicos, con R.M.\nN° 0010 de 17 de enero de 2006 punto 2.3.4. Representación Legal señala “Si\nbien la representación legal no constituye un documento a ser incluido en cada\nexpediente de Registro Sanitario, deberá tomarse en cuenta que este requisito debe\nhaberse presentado con anterioridad al Área de Vigilancia y Control como paso\nprevio, el cual será incluido en el expediente de la empresa en fotocopia simple\nhabiéndose presentado el documento original ante la Dirección de Medicamentos y\nTecnología en Salud. No siendo necesario para este caso documento\nconsularizado”.\n\nManual para registro sanitario, con R.M. N° 0909 de 07 de diciembre de 2005\npunto 2.3.3. señala “para productos fabricados o bajo control de calidad por terceros\ndeberá presentarse fotocopia simple del contrato o documento acorde a criterios\nestablecidos en las BPM”, mismo que no debe confundirse con las\nRepresentaciones Legales. Criterio que se aplica a medicamentos. Para el caso de\nDispositivos médicos no se solicitará, contratos de terciarización, ya que estos se\nenmarcan en simples acuerdos y tampoco se confundirán con representaciones\nlegales a ser consularizado.\n\nSiendo la Representación legal un documento establecido con vigencia, previo a la emisión\nde autorización de comercialización o registro, bajo ningún motivo se solicitará que dicho\ndocumento incluya la relación o nombres de los productos a comercializ",
+        "section_article": "Legalisation alternatives and prior representative filing",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:22:38.088319+00:00",
+        "checked_english_research_rendering": "Apostilled original or permitted notarisation alternatives; representation is filed before registration, not resubmitted as a new original for each product.",
+        "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+        "language": "es",
+        "checked_english_summary": "Apostilled original or permitted notarisation alternatives; representation is filed before registration, not resubmitted as a new original for each product."
+      },
+      {
+        "clause_id": "EXP-A-008-9300",
+        "document_id": "F250_c9cb221fa654e0d4b922",
+        "source_url": "https://www.agemed.gob.bo/circulares/2020/CIRCULAR-112-2020.pdf",
+        "raw_sha256": "d7ce893d632ad398250c198ae587c1dbfccf26ca5380cf87db7292a29ec2e305",
+        "text_sha256": "173c54890467162f66c57e2a46e18ac42e5c05430637624bd2bdb095f2e8e187",
+        "start_offset": 9300,
+        "end_offset": 15000,
+        "verbatim_extracted_text": "ionados con la presentación de los estudios de estabilidad de productos \nfarmacéuticos terminados. \nQue, el Informe Legal MS/AGEMED/AUJ/IL/956/2020 de 20 de octubre de 2020, concluye \nque de la revisión del contenido del informe técnico MS/AGEMED/AUMyT/AAAyC/lT/422020 \nde 16 de octubre de 2020; no existe impedimento legal para su aquiescencia, por cuanto se \nrecomienda la aprobación de la propuesta de documento técnico normativo de la aprobación \nde la Modificación del contenido de los requisitos 2.4.8., 2.5.11. y 5.2.23. de estabilidad del \nManual para Registro Sanitario, toda vez que no se está contraviniendo ninguna disposición \nlegal. \nPágina 2 de 5 \nCalle Capitán Ravelo N2199 - Zona Sopocachi (Entre, Fernando Guachalla y Rosendo Gutiérrez) - www.agemed.00b.bo - Telf.: 2440122 \n\n\nPAGE 4\n- _a, \nOobien,o del Estado Plurinaciormi de \nBOLIVIA \nMinisterio de \nSalud \nAGEMED \nPOR TANTO: La Directora General Ejecutiva a.i. de la Agencia Estatal de Medicamentos y \nTecnologías en Salud — AGEMED, en uso de las atribuciones otorgadas por el Decreto \nSupremo N° 2905 de 21 de septiembre de 2016. \nRESUELVE: \nARTÍCULO PRIMERO. Aprobar la modificación del contenido de los requisitos 2.4.8., 2.5.11. \ny 5.2.23. de estabilidad señalados en el Manual para Registro Sanitario aprobado mediante \nResolución Ministerial N° 0909 de 7 de diciembre de 2005, conforme a anexo que forman \nparte indivisible de la presente Resolución Administrativa. \nARTICULO SEGUNDO. El Departamento de Autorización de Comercialización será el \nencargado de la socialización, implementación y cumplimiento de la presente Resolución \nAdministrativa. \nARTICULO TERCERO. Se otorga un plazo de un año improrrogable para la implementación \nplena de esta disposición, no obstante, las empresas, en la medida de sus posibilidades, \npodrán empezar con su aplicación a la aprobación de la presente Resolución Administrativa. \nRegístrese, comun íq uese, cúmplase y archívese. \nDra. 'no Ca ller. vedia \nDIRECTORA GENER 1 \n UI:CUT4YA aJ. \nAGEPCR ES1ATAL\nECCIMEkTøS \nY T€CNOLOG AS Ed SALUD \n. AGEMED \nPágina 3 de 5 \nCalle Capitán Ravelo N°2199 - Zona Sopocachi (Entre, Fernando Guachalla y Rosendo Gutiérrez) - www.aaemed.aob.bo - Telf.: 2440122 \n\n\nPAGE 5\n_e \nGobienno del Estado Pluninodonol de \nBOLIVIA \nMinisterio de \nSalud \nAGEMED \nY YEOLOLOGSS EM SALUD \nANEXO \nModificación del contenido de los requisitos 2.4.8., 2.5.11. y  5.2.23. de estabilidad señalados \nen el Manual para Registro Sanitario aprobado mediante Resolución Ministerial N° 0909 de \n7 de diciembre de 2005, conforme la siguiente redacción: \n2.4. INFORMACIÓN TÉCNICA DEL PRINCIPIO ACTIVO: \n2.4.8. Estabilidad de Principios Activos o Ingrediente Farmacéutico Activo, IFA: Deberá \nincluirse estudio de estabilidad que avale el periodo de validez otorgado al principio activo o \nIFA, en las condiciones de conservación y sistema envase cierre propuesto para: \na) Principio activo o IFA nuevo (nueva molécula). \nb) Nueva sal, éster, isómero, complejo o derivado. \n2.5. INFORMACIÓN TÉCNICA DEL PRODUCTO TERMINADO \n2.5.11.a. Estudios de Estabilidad del Producto Terminado: Remitir estudio de estabilidad, \nsegún zona climática lVb incluyendo: \na) Protocolo del estudio. \nb) Especificaciones de calidad del producto farmacéutico terminado y métodos analíticos. \nc) Descripción detallada del sistema envase cierre del producto evaluado. \nd) Condiciones de almacenamiento (temperatura, sensibilidad a la luz y humedad relativa \nambiental). \ne) Resultados de al menos dos lotes del Producto Farmacéutico Terminado, PFT, que \ncontengan principios activos o Ingrediente Farmacéutico Activo, IFA estables y tres lotes de \nPFT que contengan IFA menos estables de producto terminado. \nf) Conclusiones, período de validez y condiciones de almacenamiento propuestos. \ng) Los Estudios de Estabilidad deben estar firmados física o electrónicamente por el \nprofesional responsable del estudio e incluir el pie de firma correspondiente. \n/\"\nh) Cuando el medicamento se acompaña en su presentación de un solvente o diluyente, se \nrequiere la presentación de estudios de estabilidad del producto diluido, disuelto o dispersado \n\\W\n.IR C'T.RP. / \n.tva../  según proceda en las condiciones de utilización. Si el producto es para uso inmediato, no es \n\\  E.C.V. / necesario presentar resultados del estudio de estabilidad en uso. \ni) Si se utiliza más de un vehículo para su preparación se deben presentar los datos de los \nestudios de estabilidad realizados para cada uno de ellos. \nj) Si un producto es envasado en dos a más sistemas de envase/cierre, se presentarán los \nestudios de estabilidad para cada uno de ellos. \nk) Si un producto es envasado en dos a más volúmenes, se presentarán los estudios de \nestabilidad, se aceptará la presentación de estudios de estabilidad de las presentaciones de \nmenor y mayor concentración del principio activo, con diseños estadísticos de corchete \n(Bracketing) y de matrices (Matrixing) respectivamente. \n1) Se requiere la presentación de estudios acelerados y de vigencia terapéutica (vida de \nestante) o vigencia terapéutica exclusivamente para formas farmacéuticas que no resistan \nestudios de estabilidad acelerados, se realizarán solo estudios de estabilidad a largo plazo \n(vida de estante). Cuando por la naturaleza o características de estos productos se requiera \ncondiciones de almacenamiento menores a 30°C, esta debe ser sustentada y se aceptará los \nestudios de estabilidad a largo plazo correspondientes. \n2.5.11.b. Programa de estudios de estabilidad posterior a la autorización de \ncomercialización: Incluir el programa de estabilidad o compromiso de estabilidad a realizar \nPágina 4 de 5 \nCalle Capitán Ravelo N°2199 - Zona Sopoca",
+        "section_article": "RA895/2020 operative articles and new-molecule/finished-product stability annex",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "retrieved_utc": "2026-10-18T05:22:16.871347+00:00",
+        "checked_english_research_rendering": "API stability for a new molecule and finished-product stability for climatic ZoneIVb. One-year implementation period from approval; voluntary early compliance permitted.",
+        "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+        "language": "es",
+        "checked_english_summary": "API stability for a new molecule and finished-product stability for climatic ZoneIVb. One-year implementation period from approval; voluntary early compliance permitted."
+      },
+      {
+        "clause_id": "EXP-A-009-11000",
+        "document_id": "F250_6f30d666057b95f1e241",
+        "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+        "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+        "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+        "start_offset": 11000,
+        "end_offset": 12096,
+        "verbatim_extracted_text": " para la contratación de productos farmacéuticos, es importante\nestablecer y respetar lo establecido en el Manual para registro sanitario, con R.M. N* 0909\nde 07 de diciembre de 2005, numeral 7.4. otros certificados y autorizaciones, sobre el plazo\nperentorio de 3 días hábiles para la emisión de estos Certificados de Representación Legal,\nsiempre y cuando los mismos ya se encuentren visualizados en la plataforma MISA, este\ndocumento deberá llevar únicamente el nombre del fabricante. Certificado de\nRepresentación legal (para líneas o laboratorios que se representan)\n\nFinalmente, se deja establecido que el representante legal que otorga la representación\ndebe tener mandato y cualquier problema de orden legal, técnico o administrativo se\nencaminara por esta instancia.\n\nsel Porra\na. Patricia Elsa e ymva\n\nDIRECTORA CoN MEDICAMENTOS\n\nS ¿AL\nAGENCIES AAS EN SALUD\n\nLa Paz, 09 de mayo de 2024\n\nAdj. Ninguno\nUsuario: JSVM/CTT\nC.c. Arch: DGE/DAR\n\nDirección: Calle Aspiazu N*668 (Entre, Abdón Saavedra y Ecuador) Zona Sopocachi\nTeléfono: (591-2) 2119831 - (591-2) 2112598 Web: www.agemed.gob.bo\n\n",
+        "section_article": "Circular date and representative authority",
+        "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+        "retrieved_utc": "2026-10-18T05:22:38.088319+00:00",
+        "language": "es"
+      }
+    ],
+    "other_reviewed_routes": [],
+    "review_details": {
+      "record_id": "BOL-EXP-A-009",
+      "iso3": "BOL",
+      "country": "Bolivia",
+      "pathway": "Ordinary registration: legal representation and stability requirements",
+      "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+      "document_id": "F250_6f30d666057b95f1e241",
+      "language": "es",
+      "genre": "Official national guideline/procedure",
+      "scope": "Initial human-medicine marketing authorisation, subject to expressly recorded route limits",
+      "version_note": "Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance.",
+      "version_scope_note": "Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance.",
+      "primary_comparison": true,
+      "selection_recommendation": "preferred_primary",
+      "selection_reason": "National operative requirements explicitly attach to initial medicine registration; keep bounded ordinary comparison while broader MA /referral conditions remain unresolved.",
+      "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+      "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "RA 895 annex specifically requires API stability for a new molecule; ordinary medicine registration is within scope.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Stability study reports are company technical data, not foreign-regulator assessment reports.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Legal representation and third-party manufacturing contract are expressly distinguished; neither is established as permission to disclose foreign regulator-owned reports.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "New API stability and finished-product Zone IVb stability with study protocol, specifications, container system, relevant batches and responsible professional signature. Accepted foreign GMP does not itself establish local stability evidence.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "explicit requirement",
+          "finding": "Legal representation covering manufacturing sites is a prerequisite filed with the company record before MA /registration. It need not name each product or be an original in every product dossier.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "discretionary/conditional",
+          "finding": "Legal-representation originals may be apostilled; countries lacking Bolivian consular representation have stated ministerial-note or notarisation/legalisation alternatives. No universal need for a Bolivian consulate in origin.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "Circular dates for correcting representative records and issuing representative certificates are not initial medicine-review clocks.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "status": "unresolved ordinary-registration conditions",
+          "eligibility": "unresolved ordinary-registration conditions",
+          "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "B": {
+          "status": "unresolved ordinary-registration conditions",
+          "eligibility": "unresolved ordinary-registration conditions",
+          "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "C": {
+          "status": "unresolved ordinary-registration conditions",
+          "eligibility": "unresolved ordinary-registration conditions",
+          "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "D": {
+          "status": "unresolved ordinary-registration conditions",
+          "eligibility": "unresolved ordinary-registration conditions",
+          "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "E": {
+          "status": "unresolved ordinary-registration conditions",
+          "eligibility": "unresolved ordinary-registration conditions",
+          "finding": "FDA / EC approvals and a full CTD do not establish completion of the required prefiled representation or Zone IVb stability package. The circular does not resolve the full ordinary MA pathway or any foreign-approval shortcut; A–E cannot be scored as fully eligible or ineligible.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": null,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null,
+        "one_approval_route_described": null
+      },
+      "gate_notes": {
+        "complete_report_gate": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "nonpublic_report_or_public_domain_exclusion": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "second_approval_selected_route": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "one_approval_alternative_described": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        },
+        "ambiguous_additional_full_report_gate": {
+          "finding": "The recorded source does not settle this specific report/approval gate; unresolved is not a waiver. See the source-specific case finding and incorporated-document gaps.",
+          "evidence_ids": [
+            "EXP-A-009-0",
+            "EXP-A-009-3100",
+            "EXP-A-008-9300",
+            "EXP-A-009-11000"
+          ]
+        }
+      },
+      "paired_comparisons": {
+        "B_vs_A": "More foreign assessment content does not resolve representation and climatic-stability filing conditions. No regulator-report requirement or waiver inferred.",
+        "E_vs_B": "This ordinary filing circular does not establish an FDA -versus- FDA + EC threshold."
+      },
+      "evidence": [
+        {
+          "clause_id": "EXP-A-009-0",
+          "document_id": "F250_6f30d666057b95f1e241",
+          "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+          "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+          "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+          "start_offset": 0,
+          "end_offset": 2100,
+          "verbatim_extracted_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nESTADO PLURINACIONAL DE\n\nBOLIVIA ¿iio voerorres\n\nFon /X 4\n\nBICENTENARIO DE felt\nBOLIVIA AVR\n\nGINGA ESTAIAL DE MADICAMENTOS\nY TECNOLOGÍAS EN SALUD\n\nCIRCULAR\nMSyD/AGEMED/CR/28/2024\n\nA los jefes de departamento, jefes de división, profesionales, técnicos,\nservidores y servidoras de la Agencia Estatal de Medicamentos y Tecnologías\nen Salud — AGEMED; a los regentes farmacéuticos de empresas\nfarmacéuticas, laboratorios industriales nacionales, ¡importadoras y\ndistribuidoras nacionales de Medicamentos Reconocidos Por Ley.\n\nRef.: Criterios para las Representaciones Legales\n\nLa Agencia Estatal de Medicamentos y Tecnologías en Salud — AGEMED del Ministerio\nde Salud y Deportes, conforme a los artículos 7 y 22 de la Ley No. 1737, artículo 42, del\nReglamento a la Ley del Medicamento D.S. 25235, y Decreto Supremo No. 3376 tiene a\nbien puntualizar lo siguiente con respecto a las representaciones legales:\n\nDefinición general: La representación legal es la facultad otorgada por ley o acuerdo\na una persona para obrar en nombre de otra, recayendo en esta los efectos de tales\nactos. El ejercicio de esa representación puede ser obligatorio para el representante.\n\nComo la Ley y Decretos lo establecen la Representación Legal surge para medicamentos\npor lo que se habla de laboratorios fabricantes, al extenderse la representación legal a todos\nlos Medicamentos Reconocidos por Ley se hace necesario enfatizar que el término\nlaboratorios fabricantes abarca todos los tipos de industria dedicadas a los diferentes rubros\ntales como alimenticios, cosméticos, reactivos, equipo y otros. Por ello se considerará que\nlaboratorio fabricante no es necesariamente un laboratorio.\n\nLas nuevas tecnologías establecidas para productos biológicos, entre otros; obligan a\ncontar con diferentes plantas o laboratorios para su producción por lo que para un producto\nno habrá un solo fabricante, cualquiera sea el caso la representación legal deberá\nmencionar todos los sitios de fabricación sobre los que se tiene Representación,\nparticularmente el fabricante final o",
+          "section_article": "Circular28/2024 scope and manufacturing-site representation",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:22:38.088319+00:00",
+          "checked_english_research_rendering": "Legal representation covers all manufacturing sites, especially the finished-product manufacturer.",
+          "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+          "language": "es",
+          "checked_english_summary": "Legal representation covers all manufacturing sites, especially the finished-product manufacturer."
+        },
+        {
+          "clause_id": "EXP-A-009-3100",
+          "document_id": "F250_6f30d666057b95f1e241",
+          "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+          "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+          "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+          "start_offset": 3100,
+          "end_offset": 5900,
+          "verbatim_extracted_text": "ACIONAL DE\n\nMea” BOLIVIA | satvovoerorres\n\nBICENTENARIO DE\nBOLIVIA £<EMEL\n\nNOLOSIAS EN SALUD\n\nE\n\nque señale que Bolivia no cuenta con representación consular en el país indicado,\nadjuntando el documento original de Representación Legal.\n\ne Para los países en los que no se cuente con representación consular se aceptará la\nnotarización o legalización por notario del Documento del país de origen, a ser\nremitido a AGEMED.\n\n+ Conforme a la Ley No 967 de 2 de agosto de 2017 y DECRETO SUPREMO N° 3541\ndel 25 de abril de 2018, Articulo 1 que señala la implementación del “Convenio\nSuprimiendo la Exigencia de Legalización de los Documentos Públicos Extranjeros”\n(Convención de la Haya sobre la Apostilla), queda establecido que las\nrepresentaciones legales podrán presentarse en original apostilladas en origen por\nla Entidad Emisora, no siendo necesario contar con Consulado Boliviano en origen.\n\nSe deberá tomar en cuenta que conforme al D.S. 3541, Artículo 7 (PROCEDIMIENTO DE\nAPOSTILLADO). Parágrafo |. Las personas podrán solicitar el trámite de apostillado de\ndocumentos públicos a través de medios físicos o digitales ante la Entidad Emisora o la\nAutoridad Competente.\n\nSe considerará lo establecido en los Manuales de Registro que a la letra señalan:\n\nManual para registro sanitario, con R.M. N° 0909 de 07 de diciembre de 2005\npunto 2.3.6. y Manual para registro sanitario de dispositivos médicos, con R.M.\nN° 0010 de 17 de enero de 2006 punto 2.3.4. Representación Legal señala “Si\nbien la representación legal no constituye un documento a ser incluido en cada\nexpediente de Registro Sanitario, deberá tomarse en cuenta que este requisito debe\nhaberse presentado con anterioridad al Área de Vigilancia y Control como paso\nprevio, el cual será incluido en el expediente de la empresa en fotocopia simple\nhabiéndose presentado el documento original ante la Dirección de Medicamentos y\nTecnología en Salud. No siendo necesario para este caso documento\nconsularizado”.\n\nManual para registro sanitario, con R.M. N° 0909 de 07 de diciembre de 2005\npunto 2.3.3. señala “para productos fabricados o bajo control de calidad por terceros\ndeberá presentarse fotocopia simple del contrato o documento acorde a criterios\nestablecidos en las BPM”, mismo que no debe confundirse con las\nRepresentaciones Legales. Criterio que se aplica a medicamentos. Para el caso de\nDispositivos médicos no se solicitará, contratos de terciarización, ya que estos se\nenmarcan en simples acuerdos y tampoco se confundirán con representaciones\nlegales a ser consularizado.\n\nSiendo la Representación legal un documento establecido con vigencia, previo a la emisión\nde autorización de comercialización o registro, bajo ningún motivo se solicitará que dicho\ndocumento incluya la relación o nombres de los productos a comercializ",
+          "section_article": "Legalisation alternatives and prior representative filing",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:22:38.088319+00:00",
+          "checked_english_research_rendering": "Apostilled original or permitted notarisation alternatives; representation is filed before registration, not resubmitted as a new original for each product.",
+          "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+          "language": "es",
+          "checked_english_summary": "Apostilled original or permitted notarisation alternatives; representation is filed before registration, not resubmitted as a new original for each product."
+        },
+        {
+          "clause_id": "EXP-A-008-9300",
+          "document_id": "F250_c9cb221fa654e0d4b922",
+          "source_url": "https://www.agemed.gob.bo/circulares/2020/CIRCULAR-112-2020.pdf",
+          "raw_sha256": "d7ce893d632ad398250c198ae587c1dbfccf26ca5380cf87db7292a29ec2e305",
+          "text_sha256": "173c54890467162f66c57e2a46e18ac42e5c05430637624bd2bdb095f2e8e187",
+          "start_offset": 9300,
+          "end_offset": 15000,
+          "verbatim_extracted_text": "ionados con la presentación de los estudios de estabilidad de productos \nfarmacéuticos terminados. \nQue, el Informe Legal MS/AGEMED/AUJ/IL/956/2020 de 20 de octubre de 2020, concluye \nque de la revisión del contenido del informe técnico MS/AGEMED/AUMyT/AAAyC/lT/422020 \nde 16 de octubre de 2020; no existe impedimento legal para su aquiescencia, por cuanto se \nrecomienda la aprobación de la propuesta de documento técnico normativo de la aprobación \nde la Modificación del contenido de los requisitos 2.4.8., 2.5.11. y 5.2.23. de estabilidad del \nManual para Registro Sanitario, toda vez que no se está contraviniendo ninguna disposición \nlegal. \nPágina 2 de 5 \nCalle Capitán Ravelo N2199 - Zona Sopocachi (Entre, Fernando Guachalla y Rosendo Gutiérrez) - www.agemed.00b.bo - Telf.: 2440122 \n\n\nPAGE 4\n- _a, \nOobien,o del Estado Plurinaciormi de \nBOLIVIA \nMinisterio de \nSalud \nAGEMED \nPOR TANTO: La Directora General Ejecutiva a.i. de la Agencia Estatal de Medicamentos y \nTecnologías en Salud — AGEMED, en uso de las atribuciones otorgadas por el Decreto \nSupremo N° 2905 de 21 de septiembre de 2016. \nRESUELVE: \nARTÍCULO PRIMERO. Aprobar la modificación del contenido de los requisitos 2.4.8., 2.5.11. \ny 5.2.23. de estabilidad señalados en el Manual para Registro Sanitario aprobado mediante \nResolución Ministerial N° 0909 de 7 de diciembre de 2005, conforme a anexo que forman \nparte indivisible de la presente Resolución Administrativa. \nARTICULO SEGUNDO. El Departamento de Autorización de Comercialización será el \nencargado de la socialización, implementación y cumplimiento de la presente Resolución \nAdministrativa. \nARTICULO TERCERO. Se otorga un plazo de un año improrrogable para la implementación \nplena de esta disposición, no obstante, las empresas, en la medida de sus posibilidades, \npodrán empezar con su aplicación a la aprobación de la presente Resolución Administrativa. \nRegístrese, comun íq uese, cúmplase y archívese. \nDra. 'no Ca ller. vedia \nDIRECTORA GENER 1 \n UI:CUT4YA aJ. \nAGEPCR ES1ATAL\nECCIMEkTøS \nY T€CNOLOG AS Ed SALUD \n. AGEMED \nPágina 3 de 5 \nCalle Capitán Ravelo N°2199 - Zona Sopocachi (Entre, Fernando Guachalla y Rosendo Gutiérrez) - www.aaemed.aob.bo - Telf.: 2440122 \n\n\nPAGE 5\n_e \nGobienno del Estado Pluninodonol de \nBOLIVIA \nMinisterio de \nSalud \nAGEMED \nY YEOLOLOGSS EM SALUD \nANEXO \nModificación del contenido de los requisitos 2.4.8., 2.5.11. y  5.2.23. de estabilidad señalados \nen el Manual para Registro Sanitario aprobado mediante Resolución Ministerial N° 0909 de \n7 de diciembre de 2005, conforme la siguiente redacción: \n2.4. INFORMACIÓN TÉCNICA DEL PRINCIPIO ACTIVO: \n2.4.8. Estabilidad de Principios Activos o Ingrediente Farmacéutico Activo, IFA: Deberá \nincluirse estudio de estabilidad que avale el periodo de validez otorgado al principio activo o \nIFA, en las condiciones de conservación y sistema envase cierre propuesto para: \na) Principio activo o IFA nuevo (nueva molécula). \nb) Nueva sal, éster, isómero, complejo o derivado. \n2.5. INFORMACIÓN TÉCNICA DEL PRODUCTO TERMINADO \n2.5.11.a. Estudios de Estabilidad del Producto Terminado: Remitir estudio de estabilidad, \nsegún zona climática lVb incluyendo: \na) Protocolo del estudio. \nb) Especificaciones de calidad del producto farmacéutico terminado y métodos analíticos. \nc) Descripción detallada del sistema envase cierre del producto evaluado. \nd) Condiciones de almacenamiento (temperatura, sensibilidad a la luz y humedad relativa \nambiental). \ne) Resultados de al menos dos lotes del Producto Farmacéutico Terminado, PFT, que \ncontengan principios activos o Ingrediente Farmacéutico Activo, IFA estables y tres lotes de \nPFT que contengan IFA menos estables de producto terminado. \nf) Conclusiones, período de validez y condiciones de almacenamiento propuestos. \ng) Los Estudios de Estabilidad deben estar firmados física o electrónicamente por el \nprofesional responsable del estudio e incluir el pie de firma correspondiente. \n/\"\nh) Cuando el medicamento se acompaña en su presentación de un solvente o diluyente, se \nrequiere la presentación de estudios de estabilidad del producto diluido, disuelto o dispersado \n\\W\n.IR C'T.RP. / \n.tva../  según proceda en las condiciones de utilización. Si el producto es para uso inmediato, no es \n\\  E.C.V. / necesario presentar resultados del estudio de estabilidad en uso. \ni) Si se utiliza más de un vehículo para su preparación se deben presentar los datos de los \nestudios de estabilidad realizados para cada uno de ellos. \nj) Si un producto es envasado en dos a más sistemas de envase/cierre, se presentarán los \nestudios de estabilidad para cada uno de ellos. \nk) Si un producto es envasado en dos a más volúmenes, se presentarán los estudios de \nestabilidad, se aceptará la presentación de estudios de estabilidad de las presentaciones de \nmenor y mayor concentración del principio activo, con diseños estadísticos de corchete \n(Bracketing) y de matrices (Matrixing) respectivamente. \n1) Se requiere la presentación de estudios acelerados y de vigencia terapéutica (vida de \nestante) o vigencia terapéutica exclusivamente para formas farmacéuticas que no resistan \nestudios de estabilidad acelerados, se realizarán solo estudios de estabilidad a largo plazo \n(vida de estante). Cuando por la naturaleza o características de estos productos se requiera \ncondiciones de almacenamiento menores a 30°C, esta debe ser sustentada y se aceptará los \nestudios de estabilidad a largo plazo correspondientes. \n2.5.11.b. Programa de estudios de estabilidad posterior a la autorización de \ncomercialización: Incluir el programa de estabilidad o compromiso de estabilidad a realizar \nPágina 4 de 5 \nCalle Capitán Ravelo N°2199 - Zona Sopoca",
+          "section_article": "RA895/2020 operative articles and new-molecule/finished-product stability annex",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "retrieved_utc": "2026-10-18T05:22:16.871347+00:00",
+          "checked_english_research_rendering": "API stability for a new molecule and finished-product stability for climatic ZoneIVb. One-year implementation period from approval; voluntary early compliance permitted.",
+          "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+          "language": "es",
+          "checked_english_summary": "API stability for a new molecule and finished-product stability for climatic ZoneIVb. One-year implementation period from approval; voluntary early compliance permitted."
+        },
+        {
+          "clause_id": "EXP-A-009-11000",
+          "document_id": "F250_6f30d666057b95f1e241",
+          "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+          "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+          "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+          "start_offset": 11000,
+          "end_offset": 12096,
+          "verbatim_extracted_text": " para la contratación de productos farmacéuticos, es importante\nestablecer y respetar lo establecido en el Manual para registro sanitario, con R.M. N* 0909\nde 07 de diciembre de 2005, numeral 7.4. otros certificados y autorizaciones, sobre el plazo\nperentorio de 3 días hábiles para la emisión de estos Certificados de Representación Legal,\nsiempre y cuando los mismos ya se encuentren visualizados en la plataforma MISA, este\ndocumento deberá llevar únicamente el nombre del fabricante. Certificado de\nRepresentación legal (para líneas o laboratorios que se representan)\n\nFinalmente, se deja establecido que el representante legal que otorga la representación\ndebe tener mandato y cualquier problema de orden legal, técnico o administrativo se\nencaminara por esta instancia.\n\nsel Porra\na. Patricia Elsa e ymva\n\nDIRECTORA CoN MEDICAMENTOS\n\nS ¿AL\nAGENCIES AAS EN SALUD\n\nLa Paz, 09 de mayo de 2024\n\nAdj. Ninguno\nUsuario: JSVM/CTT\nC.c. Arch: DGE/DAR\n\nDirección: Calle Aspiazu N*668 (Entre, Abdón Saavedra y Ecuador) Zona Sopocachi\nTeléfono: (591-2) 2119831 - (591-2) 2112598 Web: www.agemed.gob.bo\n\n",
+          "section_article": "Circular date and representative authority",
+          "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+          "retrieved_utc": "2026-10-18T05:22:38.088319+00:00",
+          "language": "es"
+        }
+      ],
+      "reviewed_ranges": [
+        [
+          0,
+          43
+        ],
+        [
+          0,
+          2200
+        ],
+        [
+          2000,
+          12096
+        ]
+      ],
+      "contextual_review_status": "Contextual review of the expressly recorded sections; not a certification that every incorporated rule is supplied.",
+      "version_dates": {
+        "circular_date": "2024-05-09",
+        "stability_amendment_date": "2020-10-20"
+      },
+      "complete_eligibility_resolved": false,
+      "translation_provenance": "Contextual original Spanish review with labelled checked English research rendering; no unchecked machine translation used",
+      "expansion_selection_reason": "Ordinary registration: representation and stability; no FDA reliance inferred.",
+      "selected_expansion_record": "a:1"
+    }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": [
+    {
+      "clause_id": "SDX-EXP-A-009-0",
+      "document_id": "F250_6f30d666057b95f1e241",
+      "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+      "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+      "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+      "start_offset": 0,
+      "end_offset": 2100,
+      "verbatim_extracted_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nESTADO PLURINACIONAL DE\n\nBOLIVIA ¿iio voerorres\n\nFon /X 4\n\nBICENTENARIO DE felt\nBOLIVIA AVR\n\nGINGA ESTAIAL DE MADICAMENTOS\nY TECNOLOGÍAS EN SALUD\n\nCIRCULAR\nMSyD/AGEMED/CR/28/2024\n\nA los jefes de departamento, jefes de división, profesionales, técnicos,\nservidores y servidoras de la Agencia Estatal de Medicamentos y Tecnologías\nen Salud — AGEMED; a los regentes farmacéuticos de empresas\nfarmacéuticas, laboratorios industriales nacionales, ¡importadoras y\ndistribuidoras nacionales de Medicamentos Reconocidos Por Ley.\n\nRef.: Criterios para las Representaciones Legales\n\nLa Agencia Estatal de Medicamentos y Tecnologías en Salud — AGEMED del Ministerio\nde Salud y Deportes, conforme a los artículos 7 y 22 de la Ley No. 1737, artículo 42, del\nReglamento a la Ley del Medicamento D.S. 25235, y Decreto Supremo No. 3376 tiene a\nbien puntualizar lo siguiente con respecto a las representaciones legales:\n\nDefinición general: La representación legal es la facultad otorgada por ley o acuerdo\na una persona para obrar en nombre de otra, recayendo en esta los efectos de tales\nactos. El ejercicio de esa representación puede ser obligatorio para el representante.\n\nComo la Ley y Decretos lo establecen la Representación Legal surge para medicamentos\npor lo que se habla de laboratorios fabricantes, al extenderse la representación legal a todos\nlos Medicamentos Reconocidos por Ley se hace necesario enfatizar que el término\nlaboratorios fabricantes abarca todos los tipos de industria dedicadas a los diferentes rubros\ntales como alimenticios, cosméticos, reactivos, equipo y otros. Por ello se considerará que\nlaboratorio fabricante no es necesariamente un laboratorio.\n\nLas nuevas tecnologías establecidas para productos biológicos, entre otros; obligan a\ncontar con diferentes plantas o laboratorios para su producción por lo que para un producto\nno habrá un solo fabricante, cualquiera sea el caso la representación legal deberá\nmencionar todos los sitios de fabricación sobre los que se tiene Representación,\nparticularmente el fabricante final o",
+      "section_article": "Circular28/2024 scope and manufacturing-site representation",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:22:38.088319+00:00",
+      "checked_english_research_rendering": "Legal representation covers all manufacturing sites, especially the finished-product manufacturer.",
+      "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+      "language": "es",
+      "checked_english_summary": "Legal representation covers all manufacturing sites, especially the finished-product manufacturer.",
+      "iso3": "BOL",
+      "country": "Bolivia (Plurinational State of)",
+      "display_text": "\nPAGE 1 [MACHINE OCR; ORIGINAL IMAGE AUTHORITATIVE]\nESTADO PLURINACIONAL DE\n\nBOLIVIA ¿iio voerorres\n\nFon /X 4\n\nBICENTENARIO DE felt\nBOLIVIA AVR\n\nGINGA ESTAIAL DE MADICAMENTOS\nY TECNOLOGÍAS EN SALUD\n\nCIRCULAR\nMSyD/AGEMED/CR/28/2024\n\nA los jefes de departamento, jefes de división, profesionales, técnicos,\nservidores y servidoras de la Agencia Estatal de Medicamentos y Tecnologías\nen Salud — AGEMED; a los regentes farmacéuticos de empresas\nfarmacéuticas, laboratorios industriales nacionales, ¡importadoras y\ndistribuidoras nacionales de Medicamentos Reconocidos Por Ley.\n\nRef.: Criterios para las Representaciones Legales\n\nLa Agencia Estatal de Medicamentos y Tecnologías en Salud — AGEMED del Ministerio\nde Salud y Deportes, conforme a los artículos 7 y 22 de la Ley No. 1737, artículo 42, del\nReglamento a la Ley del Medicamento D.S. 25235, y Decreto Supremo No. 3376 tiene a\nbien puntualizar lo siguiente con respecto a las representaciones legales:\n\nDefinición general: La representación legal es la facultad otorgada por ley o acuerdo\na una persona para obrar en nombre de otra, recayendo en esta los efectos de tales\nactos. El ejercicio de esa representación puede ser obligatorio para el representante.\n\nComo la Ley y Decretos lo establecen la Representación Legal surge para medicamentos\npor lo que se habla de laboratorios fabricantes, al extenderse la representación legal a todos\nlos Medicamentos Reconocidos por Ley se hace necesario enfatizar que el término\nlaboratorios fabricantes abarca todos los tipos de industria dedicadas a los diferentes rubros\ntales como alimenticios, cosméticos, reactivos, equipo y otros. Por ello se considerará que\nlaboratorio fabricante no es necesariamente un laboratorio.\n\nLas nuevas tecnologías establecidas para productos biológicos, entre otros; obligan a\ncontar con diferentes plantas o laboratorios para su producción por lo que para un producto\nno habrá un solo fabricante, cualquiera sea el caso la representación legal deberá\nmencionar todos los sitios de fabricación sobre los que se tiene Representación,\nparticularmente el fabricante final o",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary registration: legal representation and stability requirements Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance. Legal representation covers all manufacturing sites, especially the finished-product manufacturer.",
+      "version_alignment": "Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance."
+    },
+    {
+      "clause_id": "SDX-EXP-A-009-3100",
+      "document_id": "F250_6f30d666057b95f1e241",
+      "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+      "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+      "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+      "start_offset": 3100,
+      "end_offset": 5900,
+      "verbatim_extracted_text": "ACIONAL DE\n\nMea” BOLIVIA | satvovoerorres\n\nBICENTENARIO DE\nBOLIVIA £<EMEL\n\nNOLOSIAS EN SALUD\n\nE\n\nque señale que Bolivia no cuenta con representación consular en el país indicado,\nadjuntando el documento original de Representación Legal.\n\ne Para los países en los que no se cuente con representación consular se aceptará la\nnotarización o legalización por notario del Documento del país de origen, a ser\nremitido a AGEMED.\n\n+ Conforme a la Ley No 967 de 2 de agosto de 2017 y DECRETO SUPREMO N° 3541\ndel 25 de abril de 2018, Articulo 1 que señala la implementación del “Convenio\nSuprimiendo la Exigencia de Legalización de los Documentos Públicos Extranjeros”\n(Convención de la Haya sobre la Apostilla), queda establecido que las\nrepresentaciones legales podrán presentarse en original apostilladas en origen por\nla Entidad Emisora, no siendo necesario contar con Consulado Boliviano en origen.\n\nSe deberá tomar en cuenta que conforme al D.S. 3541, Artículo 7 (PROCEDIMIENTO DE\nAPOSTILLADO). Parágrafo |. Las personas podrán solicitar el trámite de apostillado de\ndocumentos públicos a través de medios físicos o digitales ante la Entidad Emisora o la\nAutoridad Competente.\n\nSe considerará lo establecido en los Manuales de Registro que a la letra señalan:\n\nManual para registro sanitario, con R.M. N° 0909 de 07 de diciembre de 2005\npunto 2.3.6. y Manual para registro sanitario de dispositivos médicos, con R.M.\nN° 0010 de 17 de enero de 2006 punto 2.3.4. Representación Legal señala “Si\nbien la representación legal no constituye un documento a ser incluido en cada\nexpediente de Registro Sanitario, deberá tomarse en cuenta que este requisito debe\nhaberse presentado con anterioridad al Área de Vigilancia y Control como paso\nprevio, el cual será incluido en el expediente de la empresa en fotocopia simple\nhabiéndose presentado el documento original ante la Dirección de Medicamentos y\nTecnología en Salud. No siendo necesario para este caso documento\nconsularizado”.\n\nManual para registro sanitario, con R.M. N° 0909 de 07 de diciembre de 2005\npunto 2.3.3. señala “para productos fabricados o bajo control de calidad por terceros\ndeberá presentarse fotocopia simple del contrato o documento acorde a criterios\nestablecidos en las BPM”, mismo que no debe confundirse con las\nRepresentaciones Legales. Criterio que se aplica a medicamentos. Para el caso de\nDispositivos médicos no se solicitará, contratos de terciarización, ya que estos se\nenmarcan en simples acuerdos y tampoco se confundirán con representaciones\nlegales a ser consularizado.\n\nSiendo la Representación legal un documento establecido con vigencia, previo a la emisión\nde autorización de comercialización o registro, bajo ningún motivo se solicitará que dicho\ndocumento incluya la relación o nombres de los productos a comercializ",
+      "section_article": "Legalisation alternatives and prior representative filing",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:22:38.088319+00:00",
+      "checked_english_research_rendering": "Apostilled original or permitted notarisation alternatives; representation is filed before registration, not resubmitted as a new original for each product.",
+      "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+      "language": "es",
+      "checked_english_summary": "Apostilled original or permitted notarisation alternatives; representation is filed before registration, not resubmitted as a new original for each product.",
+      "iso3": "BOL",
+      "country": "Bolivia (Plurinational State of)",
+      "display_text": "ACIONAL DE\n\nMea” BOLIVIA | satvovoerorres\n\nBICENTENARIO DE\nBOLIVIA £<EMEL\n\nNOLOSIAS EN SALUD\n\nE\n\nque señale que Bolivia no cuenta con representación consular en el país indicado,\nadjuntando el documento original de Representación Legal.\n\ne Para los países en los que no se cuente con representación consular se aceptará la\nnotarización o legalización por notario del Documento del país de origen, a ser\nremitido a AGEMED.\n\n+ Conforme a la Ley No 967 de 2 de agosto de 2017 y DECRETO SUPREMO N° 3541\ndel 25 de abril de 2018, Articulo 1 que señala la implementación del “Convenio\nSuprimiendo la Exigencia de Legalización de los Documentos Públicos Extranjeros”\n(Convención de la Haya sobre la Apostilla), queda establecido que las\nrepresentaciones legales podrán presentarse en original apostilladas en origen por\nla Entidad Emisora, no siendo necesario contar con Consulado Boliviano en origen.\n\nSe deberá tomar en cuenta que conforme al D.S. 3541, Artículo 7 (PROCEDIMIENTO DE\nAPOSTILLADO). Parágrafo |. Las personas podrán solicitar el trámite de apostillado de\ndocumentos públicos a través de medios físicos o digitales ante la Entidad Emisora o la\nAutoridad Competente.\n\nSe considerará lo establecido en los Manuales de Registro que a la letra señalan:\n\nManual para registro sanitario, con R.M. N° 0909 de 07 de diciembre de 2005\npunto 2.3.6. y Manual para registro sanitario de dispositivos médicos, con R.M.\nN° 0010 de 17 de enero de 2006 punto 2.3.4. Representación Legal señala “Si\nbien la representación legal no constituye un documento a ser incluido en cada\nexpediente de Registro Sanitario, deberá tomarse en cuenta que este requisito debe\nhaberse presentado con anterioridad al Área de Vigilancia y Control como paso\nprevio, el cual será incluido en el expediente de la empresa en fotocopia simple\nhabiéndose presentado el documento original ante la Dirección de Medicamentos y\nTecnología en Salud. No siendo necesario para este caso documento\nconsularizado”.\n\nManual para registro sanitario, con R.M. N° 0909 de 07 de diciembre de 2005\npunto 2.3.3. señala “para productos fabricados o bajo control de calidad por terceros\ndeberá presentarse fotocopia simple del contrato o documento acorde a criterios\nestablecidos en las BPM”, mismo que no debe confundirse con las\nRepresentaciones Legales. Criterio que se aplica a medicamentos. Para el caso de\nDispositivos médicos no se solicitará, contratos de terciarización, ya que estos se\nenmarcan en simples acuerdos y tampoco se confundirán con representaciones\nlegales a ser consularizado.\n\nSiendo la Representación legal un documento establecido con vigencia, previo a la emisión\nde autorización de comercialización o registro, bajo ningún motivo se solicitará que dicho\ndocumento incluya la relación o nombres de los productos a comercializ",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary registration: legal representation and stability requirements Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance. Apostilled original or permitted notarisation alternatives; representation is filed before registration, not resubmitted as a new original for each product.",
+      "version_alignment": "Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance."
+    },
+    {
+      "clause_id": "SDX-EXP-A-008-9300",
+      "document_id": "F250_6f30d666057b95f1e241",
+      "source_url": "https://www.agemed.gob.bo/circulares/2020/CIRCULAR-112-2020.pdf",
+      "raw_sha256": "d7ce893d632ad398250c198ae587c1dbfccf26ca5380cf87db7292a29ec2e305",
+      "text_sha256": "173c54890467162f66c57e2a46e18ac42e5c05430637624bd2bdb095f2e8e187",
+      "start_offset": 9300,
+      "end_offset": 15000,
+      "verbatim_extracted_text": "ionados con la presentación de los estudios de estabilidad de productos \nfarmacéuticos terminados. \nQue, el Informe Legal MS/AGEMED/AUJ/IL/956/2020 de 20 de octubre de 2020, concluye \nque de la revisión del contenido del informe técnico MS/AGEMED/AUMyT/AAAyC/lT/422020 \nde 16 de octubre de 2020; no existe impedimento legal para su aquiescencia, por cuanto se \nrecomienda la aprobación de la propuesta de documento técnico normativo de la aprobación \nde la Modificación del contenido de los requisitos 2.4.8., 2.5.11. y 5.2.23. de estabilidad del \nManual para Registro Sanitario, toda vez que no se está contraviniendo ninguna disposición \nlegal. \nPágina 2 de 5 \nCalle Capitán Ravelo N2199 - Zona Sopocachi (Entre, Fernando Guachalla y Rosendo Gutiérrez) - www.agemed.00b.bo - Telf.: 2440122 \n\n\nPAGE 4\n- _a, \nOobien,o del Estado Plurinaciormi de \nBOLIVIA \nMinisterio de \nSalud \nAGEMED \nPOR TANTO: La Directora General Ejecutiva a.i. de la Agencia Estatal de Medicamentos y \nTecnologías en Salud — AGEMED, en uso de las atribuciones otorgadas por el Decreto \nSupremo N° 2905 de 21 de septiembre de 2016. \nRESUELVE: \nARTÍCULO PRIMERO. Aprobar la modificación del contenido de los requisitos 2.4.8., 2.5.11. \ny 5.2.23. de estabilidad señalados en el Manual para Registro Sanitario aprobado mediante \nResolución Ministerial N° 0909 de 7 de diciembre de 2005, conforme a anexo que forman \nparte indivisible de la presente Resolución Administrativa. \nARTICULO SEGUNDO. El Departamento de Autorización de Comercialización será el \nencargado de la socialización, implementación y cumplimiento de la presente Resolución \nAdministrativa. \nARTICULO TERCERO. Se otorga un plazo de un año improrrogable para la implementación \nplena de esta disposición, no obstante, las empresas, en la medida de sus posibilidades, \npodrán empezar con su aplicación a la aprobación de la presente Resolución Administrativa. \nRegístrese, comun íq uese, cúmplase y archívese. \nDra. 'no Ca ller. vedia \nDIRECTORA GENER 1 \n UI:CUT4YA aJ. \nAGEPCR ES1ATAL\nECCIMEkTøS \nY T€CNOLOG AS Ed SALUD \n. AGEMED \nPágina 3 de 5 \nCalle Capitán Ravelo N°2199 - Zona Sopocachi (Entre, Fernando Guachalla y Rosendo Gutiérrez) - www.aaemed.aob.bo - Telf.: 2440122 \n\n\nPAGE 5\n_e \nGobienno del Estado Pluninodonol de \nBOLIVIA \nMinisterio de \nSalud \nAGEMED \nY YEOLOLOGSS EM SALUD \nANEXO \nModificación del contenido de los requisitos 2.4.8., 2.5.11. y  5.2.23. de estabilidad señalados \nen el Manual para Registro Sanitario aprobado mediante Resolución Ministerial N° 0909 de \n7 de diciembre de 2005, conforme la siguiente redacción: \n2.4. INFORMACIÓN TÉCNICA DEL PRINCIPIO ACTIVO: \n2.4.8. Estabilidad de Principios Activos o Ingrediente Farmacéutico Activo, IFA: Deberá \nincluirse estudio de estabilidad que avale el periodo de validez otorgado al principio activo o \nIFA, en las condiciones de conservación y sistema envase cierre propuesto para: \na) Principio activo o IFA nuevo (nueva molécula). \nb) Nueva sal, éster, isómero, complejo o derivado. \n2.5. INFORMACIÓN TÉCNICA DEL PRODUCTO TERMINADO \n2.5.11.a. Estudios de Estabilidad del Producto Terminado: Remitir estudio de estabilidad, \nsegún zona climática lVb incluyendo: \na) Protocolo del estudio. \nb) Especificaciones de calidad del producto farmacéutico terminado y métodos analíticos. \nc) Descripción detallada del sistema envase cierre del producto evaluado. \nd) Condiciones de almacenamiento (temperatura, sensibilidad a la luz y humedad relativa \nambiental). \ne) Resultados de al menos dos lotes del Producto Farmacéutico Terminado, PFT, que \ncontengan principios activos o Ingrediente Farmacéutico Activo, IFA estables y tres lotes de \nPFT que contengan IFA menos estables de producto terminado. \nf) Conclusiones, período de validez y condiciones de almacenamiento propuestos. \ng) Los Estudios de Estabilidad deben estar firmados física o electrónicamente por el \nprofesional responsable del estudio e incluir el pie de firma correspondiente. \n/\"\nh) Cuando el medicamento se acompaña en su presentación de un solvente o diluyente, se \nrequiere la presentación de estudios de estabilidad del producto diluido, disuelto o dispersado \n\\W\n.IR C'T.RP. / \n.tva../  según proceda en las condiciones de utilización. Si el producto es para uso inmediato, no es \n\\  E.C.V. / necesario presentar resultados del estudio de estabilidad en uso. \ni) Si se utiliza más de un vehículo para su preparación se deben presentar los datos de los \nestudios de estabilidad realizados para cada uno de ellos. \nj) Si un producto es envasado en dos a más sistemas de envase/cierre, se presentarán los \nestudios de estabilidad para cada uno de ellos. \nk) Si un producto es envasado en dos a más volúmenes, se presentarán los estudios de \nestabilidad, se aceptará la presentación de estudios de estabilidad de las presentaciones de \nmenor y mayor concentración del principio activo, con diseños estadísticos de corchete \n(Bracketing) y de matrices (Matrixing) respectivamente. \n1) Se requiere la presentación de estudios acelerados y de vigencia terapéutica (vida de \nestante) o vigencia terapéutica exclusivamente para formas farmacéuticas que no resistan \nestudios de estabilidad acelerados, se realizarán solo estudios de estabilidad a largo plazo \n(vida de estante). Cuando por la naturaleza o características de estos productos se requiera \ncondiciones de almacenamiento menores a 30°C, esta debe ser sustentada y se aceptará los \nestudios de estabilidad a largo plazo correspondientes. \n2.5.11.b. Programa de estudios de estabilidad posterior a la autorización de \ncomercialización: Incluir el programa de estabilidad o compromiso de estabilidad a realizar \nPágina 4 de 5 \nCalle Capitán Ravelo N°2199 - Zona Sopoca",
+      "section_article": "RA895/2020 operative articles and new-molecule/finished-product stability annex",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "retrieved_utc": "2026-10-18T05:22:16.871347+00:00",
+      "checked_english_research_rendering": "API stability for a new molecule and finished-product stability for climatic ZoneIVb. One-year implementation period from approval; voluntary early compliance permitted.",
+      "translation_status": "Assistant checked against original-language context; English rendering is not authoritative original wording",
+      "language": "es",
+      "checked_english_summary": "API stability for a new molecule and finished-product stability for climatic ZoneIVb. One-year implementation period from approval; voluntary early compliance permitted.",
+      "iso3": "BOL",
+      "country": "Bolivia (Plurinational State of)",
+      "display_text": "ionados con la presentación de los estudios de estabilidad de productos \nfarmacéuticos terminados. \nQue, el Informe Legal MS/AGEMED/AUJ/IL/956/2020 de 20 de octubre de 2020, concluye \nque de la revisión del contenido del informe técnico MS/AGEMED/AUMyT/AAAyC/lT/422020 \nde 16 de octubre de 2020; no existe impedimento legal para su aquiescencia, por cuanto se \nrecomienda la aprobación de la propuesta de documento técnico normativo de la aprobación \nde la Modificación del contenido de los requisitos 2.4.8., 2.5.11. y 5.2.23. de estabilidad del \nManual para Registro Sanitario, toda vez que no se está contraviniendo ninguna disposición \nlegal. \nPágina 2 de 5 \nCalle Capitán Ravelo N2199 - Zona Sopocachi (Entre, Fernando Guachalla y Rosendo Gutiérrez) - www.agemed.00b.bo - Telf.: 2440122 \n\n\nPAGE 4\n- _a, \nOobien,o del Estado Plurinaciormi de \nBOLIVIA \nMinisterio de \nSalud \nAGEMED \nPOR TANTO: La Directora General Ejecutiva a.i. de la Agencia Estatal de Medicamentos y \nTecnologías en Salud — AGEMED, en uso de las atribuciones otorgadas por el Decreto \nSupremo N° 2905 de 21 de septiembre de 2016. \nRESUELVE: \nARTÍCULO PRIMERO. Aprobar la modificación del contenido de los requisitos 2.4.8., 2.5.11. \ny 5.2.23. de estabilidad señalados en el Manual para Registro Sanitario aprobado mediante \nResolución Ministerial N° 0909 de 7 de diciembre de 2005, conforme a anexo que forman \nparte indivisible de la presente Resolución Administrativa. \nARTICULO SEGUNDO. El Departamento de Autorización de Comercialización será el \nencargado de la socialización, implementación y cumplimiento de la presente Resolución \nAdministrativa. \nARTICULO TERCERO. Se otorga un plazo de un año improrrogable para la implementación \nplena de esta disposición, no obstante, las empresas, en la medida de sus posibilidades, \npodrán empezar con su aplicación a la aprobación de la presente Resolución Administrativa. \nRegístrese, comun íq uese, cúmplase y archívese. \nDra. 'no Ca ller. vedia \nDIRECTORA GENER 1 \n UI:CUT4YA aJ. \nAGEPCR ES1ATAL\nECCIMEkTøS \nY T€CNOLOG AS Ed SALUD \n. AGEMED \nPágina 3 de 5 \nCalle Capitán Ravelo N°2199 - Zona Sopocachi (Entre, Fernando Guachalla y Rosendo Gutiérrez) - www.aaemed.aob.bo - Telf.: 2440122 \n\n\nPAGE 5\n_e \nGobienno del Estado Pluninodonol de \nBOLIVIA \nMinisterio de \nSalud \nAGEMED \nY YEOLOLOGSS EM SALUD \nANEXO \nModificación del contenido de los requisitos 2.4.8., 2.5.11. y  5.2.23. de estabilidad señalados \nen el Manual para Registro Sanitario aprobado mediante Resolución Ministerial N° 0909 de \n7 de diciembre de 2005, conforme la siguiente redacción: \n2.4. INFORMACIÓN TÉCNICA DEL PRINCIPIO ACTIVO: \n2.4.8. Estabilidad de Principios Activos o Ingrediente Farmacéutico Activo, IFA: Deberá \nincluirse estudio de estabilidad que avale el periodo de validez otorgado al principio activo o \nIFA, en las condiciones de conservación y sistema envase cierre propuesto para: \na) Principio activo o IFA nuevo (nueva molécula). \nb) Nueva sal, éster, isómero, complejo o derivado. \n2.5. INFORMACIÓN TÉCNICA DEL PRODUCTO TERMINADO \n2.5.11.a. Estudios de Estabilidad del Producto Terminado: Remitir estudio de estabilidad, \nsegún zona climática lVb incluyendo: \na) Protocolo del estudio. \nb) Especificaciones de calidad del producto farmacéutico terminado y métodos analíticos. \nc) Descripción detallada del sistema envase cierre del producto evaluado. \nd) Condiciones de almacenamiento (temperatura, sensibilidad a la luz y humedad relativa \nambiental). \ne) Resultados de al menos dos lotes del Producto Farmacéutico Terminado, PFT, que \ncontengan principios activos o Ingrediente Farmacéutico Activo, IFA estables y tres lotes de \nPFT que contengan IFA menos estables de producto terminado. \nf) Conclusiones, período de validez y condiciones de almacenamiento propuestos. \ng) Los Estudios de Estabilidad deben estar firmados física o electrónicamente por el \nprofesional responsable del estudio e incluir el pie de firma correspondiente. \n/\"\nh) Cuando el medicamento se acompaña en su presentación de un solvente o diluyente, se \nrequiere la presentación de estudios de estabilidad del producto diluido, disuelto o dispersado \n\\W\n.IR C'T.RP. / \n.tva../  según proceda en las condiciones de utilización. Si el producto es para uso inmediato, no es \n\\  E.C.V. / necesario presentar resultados del estudio de estabilidad en uso. \ni) Si se utiliza más de un vehículo para su preparación se deben presentar los datos de los \nestudios de estabilidad realizados para cada uno de ellos. \nj) Si un producto es envasado en dos a más sistemas de envase/cierre, se presentarán los \nestudios de estabilidad para cada uno de ellos. \nk) Si un producto es envasado en dos a más volúmenes, se presentarán los estudios de \nestabilidad, se aceptará la presentación de estudios de estabilidad de las presentaciones de \nmenor y mayor concentración del principio activo, con diseños estadísticos de corchete \n(Bracketing) y de matrices (Matrixing) respectivamente. \n1) Se requiere la presentación de estudios acelerados y de vigencia terapéutica (vida de \nestante) o vigencia terapéutica exclusivamente para formas farmacéuticas que no resistan \nestudios de estabilidad acelerados, se realizarán solo estudios de estabilidad a largo plazo \n(vida de estante). Cuando por la naturaleza o características de estos productos se requiera \ncondiciones de almacenamiento menores a 30°C, esta debe ser sustentada y se aceptará los \nestudios de estabilidad a largo plazo correspondientes. \n2.5.11.b. Programa de estudios de estabilidad posterior a la autorización de \ncomercialización: Incluir el programa de estabilidad o compromiso de estabilidad a realizar \nPágina 4 de 5 \nCalle Capitán Ravelo N°2199 - Zona Sopoca",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary registration: legal representation and stability requirements Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance. API stability for a new molecule and finished-product stability for climatic ZoneIVb. One-year implementation period from approval; voluntary early compliance permitted.",
+      "version_alignment": "Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance."
+    },
+    {
+      "clause_id": "SDX-EXP-A-009-11000",
+      "document_id": "F250_6f30d666057b95f1e241",
+      "source_url": "https://www.agemed.gob.bo/circulares/2024/CIRCULAR-28-2024.pdf",
+      "raw_sha256": "97b68dd3ccf66e2e166ab9f76d60a898a353291fce147c843af00d0f50321294",
+      "text_sha256": "146fdc12326a91c45f44a4096a546fbf72b1d67051c9d4ff299fd71471704488",
+      "start_offset": 11000,
+      "end_offset": 12096,
+      "verbatim_extracted_text": " para la contratación de productos farmacéuticos, es importante\nestablecer y respetar lo establecido en el Manual para registro sanitario, con R.M. N* 0909\nde 07 de diciembre de 2005, numeral 7.4. otros certificados y autorizaciones, sobre el plazo\nperentorio de 3 días hábiles para la emisión de estos Certificados de Representación Legal,\nsiempre y cuando los mismos ya se encuentren visualizados en la plataforma MISA, este\ndocumento deberá llevar únicamente el nombre del fabricante. Certificado de\nRepresentación legal (para líneas o laboratorios que se representan)\n\nFinalmente, se deja establecido que el representante legal que otorga la representación\ndebe tener mandato y cualquier problema de orden legal, técnico o administrativo se\nencaminara por esta instancia.\n\nsel Porra\na. Patricia Elsa e ymva\n\nDIRECTORA CoN MEDICAMENTOS\n\nS ¿AL\nAGENCIES AAS EN SALUD\n\nLa Paz, 09 de mayo de 2024\n\nAdj. Ninguno\nUsuario: JSVM/CTT\nC.c. Arch: DGE/DAR\n\nDirección: Calle Aspiazu N*668 (Entre, Abdón Saavedra y Ecuador) Zona Sopocachi\nTeléfono: (591-2) 2119831 - (591-2) 2112598 Web: www.agemed.gob.bo\n\n",
+      "section_article": "Circular date and representative authority",
+      "extraction_method": "Existing local OCR, exact transcription; original scan authoritative",
+      "retrieved_utc": "2026-10-18T05:22:38.088319+00:00",
+      "language": "es",
+      "iso3": "BOL",
+      "country": "Bolivia (Plurinational State of)",
+      "display_text": " para la contratación de productos farmacéuticos, es importante\nestablecer y respetar lo establecido en el Manual para registro sanitario, con R.M. N* 0909\nde 07 de diciembre de 2005, numeral 7.4. otros certificados y autorizaciones, sobre el plazo\nperentorio de 3 días hábiles para la emisión de estos Certificados de Representación Legal,\nsiempre y cuando los mismos ya se encuentren visualizados en la plataforma MISA, este\ndocumento deberá llevar únicamente el nombre del fabricante. Certificado de\nRepresentación legal (para líneas o laboratorios que se representan)\n\nFinalmente, se deja establecido que el representante legal que otorga la representación\ndebe tener mandato y cualquier problema de orden legal, técnico o administrativo se\nencaminara por esta instancia.\n\nsel Porra\na. Patricia Elsa e ymva\n\nDIRECTORA CoN MEDICAMENTOS\n\nS ¿AL\nAGENCIES AAS EN SALUD\n\nLa Paz, 09 de mayo de 2024\n\nAdj. Ninguno\nUsuario: JSVM/CTT\nC.c. Arch: DGE/DAR\n\nDirección: Calle Aspiazu N*668 (Entre, Abdón Saavedra y Ecuador) Zona Sopocachi\nTeléfono: (591-2) 2119831 - (591-2) 2112598 Web: www.agemed.gob.bo\n\n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary registration: legal representation and stability requirements Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance. ",
+      "version_alignment": "Circular MSy D/AGEMED/CR/28/2024 dated 9 May 2024, read with RA 895 of 20 October 2020 modifying registration manual. These are partial ordinary requirements, not a finding of no reliance."
+    }
+  ]
 }

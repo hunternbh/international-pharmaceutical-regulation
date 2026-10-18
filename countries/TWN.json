@@ -419,7 +419,7 @@
     "iso3": "TWN",
     "country": "Taiwan",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "Abridged review after FDA AND EMA approval and bridging",
     "source_url": "https://regulation.cde.org.tw/media/ooiislf2/0991416281_新藥查驗登記精簡審查程序及新藥查驗登記優先審查機制.pdf?mediaDL=true",
     "document_id": "c70f4ff42574704085d3",
@@ -768,6 +768,670 @@
         "end": null,
         "exact_text": null,
         "image_context_check": "Assistant visually checked decisive wording against original PDF scan in this run; no certified translation. OCR context remains separately preserved."
+      }
+    ],
+    "other_reviewed_routes": [
+      {
+        "record_key": "c:11",
+        "selected_for_primary": false,
+        "pathway": "Type I abridged new-ingredient review",
+        "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+        "version_note": "Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline.",
+        "version_scope_note": null,
+        "scope": "Initial human medicinal product authorization",
+        "components": {
+          "new_active_substance": {
+            "state": "explicit requirement",
+            "finding": "New active-ingredient drugs expressly covered.",
+            "evidence_ids": [
+              "C87_036"
+            ]
+          },
+          "named_reference_agencies": {
+            "state": "explicit requirement",
+            "finding": "FDA, EMA and Japan MHLW/PMDA named; EMA/EC centralized approval interpretation held fixed.",
+            "evidence_ids": [
+              "C87_036"
+            ]
+          },
+          "prior_approval_count": {
+            "state": "explicit requirement",
+            "finding": "2 qualifying jurisdictions required for selected Type I.",
+            "evidence_ids": [
+              "C87_036"
+            ]
+          },
+          "standalone_review": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "approval_age": {
+            "state": "explicit requirement",
+            "finding": "Apply within one year of second reference approval. FDA and EC fixed at 18 months old: Type I fails; Type II also lacks Japanese approval.",
+            "evidence_ids": [
+              "C87_038",
+              "C87_039"
+            ]
+          },
+          "foreign_marketing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "same_product_dossier_site": {
+            "state": "explicit requirement",
+            "finding": "Same CTD as reference submission; Type II same CMC explicitly; mismatching formulation/factory may revert ordinary review.",
+            "evidence_ids": [
+              "C87_036",
+              "C87_037"
+            ]
+          },
+          "report_completeness": {
+            "state": "explicit requirement",
+            "finding": "Assessment reports requested without complete/unredacted qualifier; no absolute full-report gate established.",
+            "evidence_ids": [
+              "C87_037"
+            ]
+          },
+          "nonpublic_reports": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "accepted_redactions": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "public_report_sufficiency": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "applicant_consent": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "reference_authority_permission": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "regulator_to_regulator_sharing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "local_clinical_evidence": {
+            "state": "explicit requirement",
+            "finding": "No ethnic difference and unconditional bridging-study waiver required, not automatically met by foreign approval.",
+            "evidence_ids": [
+              "C87_036",
+              "C87_037"
+            ]
+          },
+          "quality_gmp": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "scientific_assessment_retained": {
+            "state": "explicit requirement",
+            "finding": "CMC, clinical and PK/PD elements retained for Type I; CMC/clinical for Type II.",
+            "evidence_ids": [
+              "C87_037"
+            ]
+          },
+          "local_representative": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "filing_fee": {
+            "state": "explicit requirement",
+            "finding": "Advance qualification application with prescribed fee.",
+            "evidence_ids": [
+              "C87_036"
+            ]
+          },
+          "translation_legalization": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "cpp": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "clock": {
+            "state": "explicit requirement",
+            "finding": "Stated 180 days Type I, 120 days Type II and 30-day qualification response, not observed processing.",
+            "evidence_ids": [
+              "C87_036",
+              "C87_037"
+            ]
+          },
+          "domestic_discretion": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          }
+        },
+        "cases": {
+          "A": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "Both FDA and EC approval dates are 18 months before filing; Type I one-year rule fails.",
+            "evidence_ids": [
+              "C87_036",
+              "C87_038",
+              "C87_039",
+              "C87_037"
+            ]
+          },
+          "B": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "Both FDA and EC approval dates are 18 months before filing; Type I one-year rule fails.",
+            "evidence_ids": [
+              "C87_036",
+              "C87_038",
+              "C87_039",
+              "C87_037"
+            ]
+          },
+          "C": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "Both FDA and EC approval dates are 18 months before filing; Type I one-year rule fails.",
+            "evidence_ids": [
+              "C87_036",
+              "C87_038",
+              "C87_039",
+              "C87_037"
+            ]
+          },
+          "D": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "Both FDA and EC approval dates are 18 months before filing; Type I one-year rule fails.",
+            "evidence_ids": [
+              "C87_036",
+              "C87_038",
+              "C87_039",
+              "C87_037"
+            ]
+          },
+          "E": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "FDA-only case lacks 2 required approval jurisdictions.",
+            "evidence_ids": [
+              "C87_036",
+              "C87_038",
+              "C87_039",
+              "C87_037"
+            ]
+          }
+        },
+        "gates": {
+          "complete_report_gate": null,
+          "nonpublic_report_or_public_domain_exclusion": null,
+          "second_approval_selected_route": true,
+          "one_approval_alternative_described": null,
+          "ambiguous_additional_full_report_gate": null
+        },
+        "gate_notes": {
+          "second_approval_selected_route": {
+            "finding": "Selected route explicitly requires 2 approvals; this descriptive rule does not imply a B−E switch when B also fails the age rule.",
+            "evidence_ids": [
+              "C87_036",
+              "C87_038",
+              "C87_039"
+            ]
+          }
+        },
+        "evidence": [
+          {
+            "evidence_id": "C87_036",
+            "document_index": 87,
+            "document_id": "F250_2527c0bedaeba0fc4ac0",
+            "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+            "text_file": null,
+            "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "text_start": 150,
+            "text_end": 720,
+            "exact_original_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+            "section": "§II eligibility and §III initial requirements",
+            "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": false,
+            "ocr_page": null,
+            "research_english_rendering": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days.",
+            "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+            "clause_id": "C87_036",
+            "verbatim_extracted_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+            "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "start_offset": 150,
+            "end_offset": 720,
+            "section_article": "§II eligibility and §III initial requirements",
+            "pdf_page": null,
+            "language": "Traditional Chinese",
+            "checked_english_summary": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days."
+          },
+          {
+            "evidence_id": "C87_038",
+            "document_index": 87,
+            "document_id": "F250_2527c0bedaeba0fc4ac0",
+            "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+            "text_file": null,
+            "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "text_start": 2125,
+            "text_end": 2170,
+            "exact_original_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+            "section": "§VI(2) Type I age rule",
+            "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": true,
+            "ocr_page": null,
+            "research_english_rendering": "For Type I, apply within one year after the second of the three reference jurisdictions approves.",
+            "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+            "clause_id": "C87_038",
+            "verbatim_extracted_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+            "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "start_offset": 2125,
+            "end_offset": 2170,
+            "section_article": "§VI(2) Type I age rule",
+            "pdf_page": null,
+            "language": "Traditional Chinese",
+            "checked_english_summary": "For Type I, apply within one year after the second of the three reference jurisdictions approves."
+          },
+          {
+            "evidence_id": "C87_039",
+            "document_index": 87,
+            "document_id": "F250_2527c0bedaeba0fc4ac0",
+            "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+            "text_file": null,
+            "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "text_start": 2184,
+            "text_end": 2229,
+            "exact_original_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+            "section": "§VI(3) Type II age rule",
+            "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": true,
+            "ocr_page": null,
+            "research_english_rendering": "For Type II, apply within one year after the third of the reference jurisdictions approves.",
+            "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+            "clause_id": "C87_039",
+            "verbatim_extracted_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+            "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "start_offset": 2184,
+            "end_offset": 2229,
+            "section_article": "§VI(3) Type II age rule",
+            "pdf_page": null,
+            "language": "Traditional Chinese",
+            "checked_english_summary": "For Type II, apply within one year after the third of the reference jurisdictions approves."
+          },
+          {
+            "evidence_id": "C87_037",
+            "document_index": 87,
+            "document_id": "F250_2527c0bedaeba0fc4ac0",
+            "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+            "text_file": null,
+            "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "text_start": 720,
+            "text_end": 1520,
+            "exact_original_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+            "section": "§III–IV application, bridging waiver and retained technical review",
+            "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": false,
+            "ocr_page": null,
+            "research_english_rendering": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained.",
+            "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+            "clause_id": "C87_037",
+            "verbatim_extracted_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+            "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "start_offset": 720,
+            "end_offset": 1520,
+            "section_article": "§III–IV application, bridging waiver and retained technical review",
+            "pdf_page": null,
+            "language": "Traditional Chinese",
+            "checked_english_summary": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained."
+          }
+        ],
+        "selection_recommendation": "history",
+        "selection_reason": "Preserve dated alternative; do not silently replace the existing selected baseline."
+      },
+      {
+        "record_key": "c:12",
+        "selected_for_primary": false,
+        "pathway": "Type II abridged new-ingredient review",
+        "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+        "version_note": "Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline.",
+        "version_scope_note": null,
+        "scope": "Initial human medicinal product authorization",
+        "components": {
+          "new_active_substance": {
+            "state": "explicit requirement",
+            "finding": "New active-ingredient drugs expressly covered.",
+            "evidence_ids": [
+              "C87_040"
+            ]
+          },
+          "named_reference_agencies": {
+            "state": "explicit requirement",
+            "finding": "FDA, EMA and Japan MHLW/PMDA named; EMA/EC centralized approval interpretation held fixed.",
+            "evidence_ids": [
+              "C87_040"
+            ]
+          },
+          "prior_approval_count": {
+            "state": "explicit requirement",
+            "finding": "3 qualifying jurisdictions required for selected Type II.",
+            "evidence_ids": [
+              "C87_040"
+            ]
+          },
+          "standalone_review": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "approval_age": {
+            "state": "explicit requirement",
+            "finding": "Apply within one year of third reference approval. FDA and EC fixed at 18 months old: Type I fails; Type II also lacks Japanese approval.",
+            "evidence_ids": [
+              "C87_042",
+              "C87_043"
+            ]
+          },
+          "foreign_marketing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "same_product_dossier_site": {
+            "state": "explicit requirement",
+            "finding": "Same CTD as reference submission; Type II same CMC explicitly; mismatching formulation/factory may revert ordinary review.",
+            "evidence_ids": [
+              "C87_040",
+              "C87_041"
+            ]
+          },
+          "report_completeness": {
+            "state": "explicit requirement",
+            "finding": "Assessment reports requested without complete/unredacted qualifier; no absolute full-report gate established.",
+            "evidence_ids": [
+              "C87_041"
+            ]
+          },
+          "nonpublic_reports": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "accepted_redactions": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "public_report_sufficiency": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "applicant_consent": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "reference_authority_permission": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "regulator_to_regulator_sharing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "local_clinical_evidence": {
+            "state": "explicit requirement",
+            "finding": "No ethnic difference and unconditional bridging-study waiver required, not automatically met by foreign approval.",
+            "evidence_ids": [
+              "C87_040",
+              "C87_041"
+            ]
+          },
+          "quality_gmp": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "scientific_assessment_retained": {
+            "state": "explicit requirement",
+            "finding": "CMC, clinical and PK/PD elements retained for Type I; CMC/clinical for Type II.",
+            "evidence_ids": [
+              "C87_041"
+            ]
+          },
+          "local_representative": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "filing_fee": {
+            "state": "explicit requirement",
+            "finding": "Advance qualification application with prescribed fee.",
+            "evidence_ids": [
+              "C87_040"
+            ]
+          },
+          "translation_legalization": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "cpp": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "clock": {
+            "state": "explicit requirement",
+            "finding": "Stated 180 days Type I, 120 days Type II and 30-day qualification response, not observed processing.",
+            "evidence_ids": [
+              "C87_040",
+              "C87_041"
+            ]
+          },
+          "domestic_discretion": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          }
+        },
+        "cases": {
+          "A": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "Type II needs Japan in addition to FDA and EC; fixed A–D have only FDA+EC.",
+            "evidence_ids": [
+              "C87_040",
+              "C87_042",
+              "C87_043",
+              "C87_041"
+            ]
+          },
+          "B": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "Type II needs Japan in addition to FDA and EC; fixed A–D have only FDA+EC.",
+            "evidence_ids": [
+              "C87_040",
+              "C87_042",
+              "C87_043",
+              "C87_041"
+            ]
+          },
+          "C": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "Type II needs Japan in addition to FDA and EC; fixed A–D have only FDA+EC.",
+            "evidence_ids": [
+              "C87_040",
+              "C87_042",
+              "C87_043",
+              "C87_041"
+            ]
+          },
+          "D": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "Type II needs Japan in addition to FDA and EC; fixed A–D have only FDA+EC.",
+            "evidence_ids": [
+              "C87_040",
+              "C87_042",
+              "C87_043",
+              "C87_041"
+            ]
+          },
+          "E": {
+            "status": "explicitly ineligible for identified route",
+            "finding": "FDA-only case lacks 3 required approval jurisdictions.",
+            "evidence_ids": [
+              "C87_040",
+              "C87_042",
+              "C87_043",
+              "C87_041"
+            ]
+          }
+        },
+        "gates": {
+          "complete_report_gate": null,
+          "nonpublic_report_or_public_domain_exclusion": null,
+          "second_approval_selected_route": true,
+          "one_approval_alternative_described": null,
+          "ambiguous_additional_full_report_gate": null
+        },
+        "gate_notes": {
+          "second_approval_selected_route": {
+            "finding": "Selected route explicitly requires 3 approvals; this descriptive rule does not imply a B−E switch when B also fails the age rule.",
+            "evidence_ids": [
+              "C87_040",
+              "C87_042",
+              "C87_043"
+            ]
+          }
+        },
+        "evidence": [
+          {
+            "evidence_id": "C87_040",
+            "document_index": 87,
+            "document_id": "F250_2527c0bedaeba0fc4ac0",
+            "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+            "text_file": null,
+            "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "text_start": 150,
+            "text_end": 720,
+            "exact_original_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+            "section": "§II eligibility and §III initial requirements",
+            "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": false,
+            "ocr_page": null,
+            "research_english_rendering": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days.",
+            "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+            "clause_id": "C87_040",
+            "verbatim_extracted_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+            "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "start_offset": 150,
+            "end_offset": 720,
+            "section_article": "§II eligibility and §III initial requirements",
+            "pdf_page": null,
+            "language": "Traditional Chinese",
+            "checked_english_summary": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days."
+          },
+          {
+            "evidence_id": "C87_042",
+            "document_index": 87,
+            "document_id": "F250_2527c0bedaeba0fc4ac0",
+            "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+            "text_file": null,
+            "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "text_start": 2125,
+            "text_end": 2170,
+            "exact_original_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+            "section": "§VI(2) Type I age rule",
+            "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": true,
+            "ocr_page": null,
+            "research_english_rendering": "For Type I, apply within one year after the second of the three reference jurisdictions approves.",
+            "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+            "clause_id": "C87_042",
+            "verbatim_extracted_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+            "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "start_offset": 2125,
+            "end_offset": 2170,
+            "section_article": "§VI(2) Type I age rule",
+            "pdf_page": null,
+            "language": "Traditional Chinese",
+            "checked_english_summary": "For Type I, apply within one year after the second of the three reference jurisdictions approves."
+          },
+          {
+            "evidence_id": "C87_043",
+            "document_index": 87,
+            "document_id": "F250_2527c0bedaeba0fc4ac0",
+            "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+            "text_file": null,
+            "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "text_start": 2184,
+            "text_end": 2229,
+            "exact_original_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+            "section": "§VI(3) Type II age rule",
+            "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": true,
+            "ocr_page": null,
+            "research_english_rendering": "For Type II, apply within one year after the third of the reference jurisdictions approves.",
+            "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+            "clause_id": "C87_043",
+            "verbatim_extracted_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+            "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "start_offset": 2184,
+            "end_offset": 2229,
+            "section_article": "§VI(3) Type II age rule",
+            "pdf_page": null,
+            "language": "Traditional Chinese",
+            "checked_english_summary": "For Type II, apply within one year after the third of the reference jurisdictions approves."
+          },
+          {
+            "evidence_id": "C87_041",
+            "document_index": 87,
+            "document_id": "F250_2527c0bedaeba0fc4ac0",
+            "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+            "text_file": null,
+            "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "text_start": 720,
+            "text_end": 1520,
+            "exact_original_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+            "section": "§III–IV application, bridging waiver and retained technical review",
+            "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": false,
+            "ocr_page": null,
+            "research_english_rendering": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained.",
+            "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+            "clause_id": "C87_041",
+            "verbatim_extracted_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+            "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+            "start_offset": 720,
+            "end_offset": 1520,
+            "section_article": "§III–IV application, bridging waiver and retained technical review",
+            "pdf_page": null,
+            "language": "Traditional Chinese",
+            "checked_english_summary": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained."
+          }
+        ],
+        "selection_recommendation": "history",
+        "selection_reason": "Preserve dated alternative; do not silently replace the existing selected baseline."
       }
     ],
     "review_details": {
@@ -1164,5 +1828,811 @@
         }
       ]
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [
+    {
+      "record_key": "c:11",
+      "selected_for_primary": false,
+      "pathway": "Type I abridged new-ingredient review",
+      "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+      "version_note": "Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline.",
+      "version_scope_note": null,
+      "scope": "Initial human medicinal product authorization",
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New active-ingredient drugs expressly covered.",
+          "evidence_ids": [
+            "C87_036"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA, EMA and Japan MHLW/PMDA named; EMA/EC centralized approval interpretation held fixed.",
+          "evidence_ids": [
+            "C87_036"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "2 qualifying jurisdictions required for selected Type I.",
+          "evidence_ids": [
+            "C87_036"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "Apply within one year of second reference approval. FDA and EC fixed at 18 months old: Type I fails; Type II also lacks Japanese approval.",
+          "evidence_ids": [
+            "C87_038",
+            "C87_039"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same CTD as reference submission; Type II same CMC explicitly; mismatching formulation/factory may revert ordinary review.",
+          "evidence_ids": [
+            "C87_036",
+            "C87_037"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Assessment reports requested without complete/unredacted qualifier; no absolute full-report gate established.",
+          "evidence_ids": [
+            "C87_037"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "explicit requirement",
+          "finding": "No ethnic difference and unconditional bridging-study waiver required, not automatically met by foreign approval.",
+          "evidence_ids": [
+            "C87_036",
+            "C87_037"
+          ]
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "CMC, clinical and PK/PD elements retained for Type I; CMC/clinical for Type II.",
+          "evidence_ids": [
+            "C87_037"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Advance qualification application with prescribed fee.",
+          "evidence_ids": [
+            "C87_036"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Stated 180 days Type I, 120 days Type II and 30-day qualification response, not observed processing.",
+          "evidence_ids": [
+            "C87_036",
+            "C87_037"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "Both FDA and EC approval dates are 18 months before filing; Type I one-year rule fails.",
+          "evidence_ids": [
+            "C87_036",
+            "C87_038",
+            "C87_039",
+            "C87_037"
+          ]
+        },
+        "B": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "Both FDA and EC approval dates are 18 months before filing; Type I one-year rule fails.",
+          "evidence_ids": [
+            "C87_036",
+            "C87_038",
+            "C87_039",
+            "C87_037"
+          ]
+        },
+        "C": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "Both FDA and EC approval dates are 18 months before filing; Type I one-year rule fails.",
+          "evidence_ids": [
+            "C87_036",
+            "C87_038",
+            "C87_039",
+            "C87_037"
+          ]
+        },
+        "D": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "Both FDA and EC approval dates are 18 months before filing; Type I one-year rule fails.",
+          "evidence_ids": [
+            "C87_036",
+            "C87_038",
+            "C87_039",
+            "C87_037"
+          ]
+        },
+        "E": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "FDA-only case lacks 2 required approval jurisdictions.",
+          "evidence_ids": [
+            "C87_036",
+            "C87_038",
+            "C87_039",
+            "C87_037"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": true,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {
+        "second_approval_selected_route": {
+          "finding": "Selected route explicitly requires 2 approvals; this descriptive rule does not imply a B−E switch when B also fails the age rule.",
+          "evidence_ids": [
+            "C87_036",
+            "C87_038",
+            "C87_039"
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "evidence_id": "C87_036",
+          "document_index": 87,
+          "document_id": "F250_2527c0bedaeba0fc4ac0",
+          "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+          "text_file": null,
+          "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "text_start": 150,
+          "text_end": 720,
+          "exact_original_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+          "section": "§II eligibility and §III initial requirements",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C87_036",
+          "verbatim_extracted_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+          "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "start_offset": 150,
+          "end_offset": 720,
+          "section_article": "§II eligibility and §III initial requirements",
+          "pdf_page": null,
+          "language": "Traditional Chinese",
+          "checked_english_summary": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days."
+        },
+        {
+          "evidence_id": "C87_038",
+          "document_index": 87,
+          "document_id": "F250_2527c0bedaeba0fc4ac0",
+          "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+          "text_file": null,
+          "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "text_start": 2125,
+          "text_end": 2170,
+          "exact_original_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+          "section": "§VI(2) Type I age rule",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": true,
+          "ocr_page": null,
+          "research_english_rendering": "For Type I, apply within one year after the second of the three reference jurisdictions approves.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C87_038",
+          "verbatim_extracted_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+          "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "start_offset": 2125,
+          "end_offset": 2170,
+          "section_article": "§VI(2) Type I age rule",
+          "pdf_page": null,
+          "language": "Traditional Chinese",
+          "checked_english_summary": "For Type I, apply within one year after the second of the three reference jurisdictions approves."
+        },
+        {
+          "evidence_id": "C87_039",
+          "document_index": 87,
+          "document_id": "F250_2527c0bedaeba0fc4ac0",
+          "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+          "text_file": null,
+          "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "text_start": 2184,
+          "text_end": 2229,
+          "exact_original_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+          "section": "§VI(3) Type II age rule",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": true,
+          "ocr_page": null,
+          "research_english_rendering": "For Type II, apply within one year after the third of the reference jurisdictions approves.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C87_039",
+          "verbatim_extracted_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+          "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "start_offset": 2184,
+          "end_offset": 2229,
+          "section_article": "§VI(3) Type II age rule",
+          "pdf_page": null,
+          "language": "Traditional Chinese",
+          "checked_english_summary": "For Type II, apply within one year after the third of the reference jurisdictions approves."
+        },
+        {
+          "evidence_id": "C87_037",
+          "document_index": 87,
+          "document_id": "F250_2527c0bedaeba0fc4ac0",
+          "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+          "text_file": null,
+          "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "text_start": 720,
+          "text_end": 1520,
+          "exact_original_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+          "section": "§III–IV application, bridging waiver and retained technical review",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C87_037",
+          "verbatim_extracted_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+          "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "start_offset": 720,
+          "end_offset": 1520,
+          "section_article": "§III–IV application, bridging waiver and retained technical review",
+          "pdf_page": null,
+          "language": "Traditional Chinese",
+          "checked_english_summary": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained."
+        }
+      ],
+      "selection_recommendation": "history",
+      "selection_reason": "Preserve dated alternative; do not silently replace the existing selected baseline."
+    },
+    {
+      "record_key": "c:12",
+      "selected_for_primary": false,
+      "pathway": "Type II abridged new-ingredient review",
+      "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+      "version_note": "Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline.",
+      "version_scope_note": null,
+      "scope": "Initial human medicinal product authorization",
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New active-ingredient drugs expressly covered.",
+          "evidence_ids": [
+            "C87_040"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "FDA, EMA and Japan MHLW/PMDA named; EMA/EC centralized approval interpretation held fixed.",
+          "evidence_ids": [
+            "C87_040"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "3 qualifying jurisdictions required for selected Type II.",
+          "evidence_ids": [
+            "C87_040"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "explicit requirement",
+          "finding": "Apply within one year of third reference approval. FDA and EC fixed at 18 months old: Type I fails; Type II also lacks Japanese approval.",
+          "evidence_ids": [
+            "C87_042",
+            "C87_043"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Same CTD as reference submission; Type II same CMC explicitly; mismatching formulation/factory may revert ordinary review.",
+          "evidence_ids": [
+            "C87_040",
+            "C87_041"
+          ]
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Assessment reports requested without complete/unredacted qualifier; no absolute full-report gate established.",
+          "evidence_ids": [
+            "C87_041"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "explicit requirement",
+          "finding": "No ethnic difference and unconditional bridging-study waiver required, not automatically met by foreign approval.",
+          "evidence_ids": [
+            "C87_040",
+            "C87_041"
+          ]
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "CMC, clinical and PK/PD elements retained for Type I; CMC/clinical for Type II.",
+          "evidence_ids": [
+            "C87_041"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Advance qualification application with prescribed fee.",
+          "evidence_ids": [
+            "C87_040"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Stated 180 days Type I, 120 days Type II and 30-day qualification response, not observed processing.",
+          "evidence_ids": [
+            "C87_040",
+            "C87_041"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "Type II needs Japan in addition to FDA and EC; fixed A–D have only FDA+EC.",
+          "evidence_ids": [
+            "C87_040",
+            "C87_042",
+            "C87_043",
+            "C87_041"
+          ]
+        },
+        "B": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "Type II needs Japan in addition to FDA and EC; fixed A–D have only FDA+EC.",
+          "evidence_ids": [
+            "C87_040",
+            "C87_042",
+            "C87_043",
+            "C87_041"
+          ]
+        },
+        "C": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "Type II needs Japan in addition to FDA and EC; fixed A–D have only FDA+EC.",
+          "evidence_ids": [
+            "C87_040",
+            "C87_042",
+            "C87_043",
+            "C87_041"
+          ]
+        },
+        "D": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "Type II needs Japan in addition to FDA and EC; fixed A–D have only FDA+EC.",
+          "evidence_ids": [
+            "C87_040",
+            "C87_042",
+            "C87_043",
+            "C87_041"
+          ]
+        },
+        "E": {
+          "status": "explicitly ineligible for identified route",
+          "finding": "FDA-only case lacks 3 required approval jurisdictions.",
+          "evidence_ids": [
+            "C87_040",
+            "C87_042",
+            "C87_043",
+            "C87_041"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": true,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {
+        "second_approval_selected_route": {
+          "finding": "Selected route explicitly requires 3 approvals; this descriptive rule does not imply a B−E switch when B also fails the age rule.",
+          "evidence_ids": [
+            "C87_040",
+            "C87_042",
+            "C87_043"
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "evidence_id": "C87_040",
+          "document_index": 87,
+          "document_id": "F250_2527c0bedaeba0fc4ac0",
+          "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+          "text_file": null,
+          "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "text_start": 150,
+          "text_end": 720,
+          "exact_original_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+          "section": "§II eligibility and §III initial requirements",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C87_040",
+          "verbatim_extracted_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+          "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "start_offset": 150,
+          "end_offset": 720,
+          "section_article": "§II eligibility and §III initial requirements",
+          "pdf_page": null,
+          "language": "Traditional Chinese",
+          "checked_english_summary": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days."
+        },
+        {
+          "evidence_id": "C87_042",
+          "document_index": 87,
+          "document_id": "F250_2527c0bedaeba0fc4ac0",
+          "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+          "text_file": null,
+          "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "text_start": 2125,
+          "text_end": 2170,
+          "exact_original_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+          "section": "§VI(2) Type I age rule",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": true,
+          "ocr_page": null,
+          "research_english_rendering": "For Type I, apply within one year after the second of the three reference jurisdictions approves.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C87_042",
+          "verbatim_extracted_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+          "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "start_offset": 2125,
+          "end_offset": 2170,
+          "section_article": "§VI(2) Type I age rule",
+          "pdf_page": null,
+          "language": "Traditional Chinese",
+          "checked_english_summary": "For Type I, apply within one year after the second of the three reference jurisdictions approves."
+        },
+        {
+          "evidence_id": "C87_043",
+          "document_index": 87,
+          "document_id": "F250_2527c0bedaeba0fc4ac0",
+          "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+          "text_file": null,
+          "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "text_start": 2184,
+          "text_end": 2229,
+          "exact_original_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+          "section": "§VI(3) Type II age rule",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": true,
+          "ocr_page": null,
+          "research_english_rendering": "For Type II, apply within one year after the third of the reference jurisdictions approves.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C87_043",
+          "verbatim_extracted_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+          "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "start_offset": 2184,
+          "end_offset": 2229,
+          "section_article": "§VI(3) Type II age rule",
+          "pdf_page": null,
+          "language": "Traditional Chinese",
+          "checked_english_summary": "For Type II, apply within one year after the third of the reference jurisdictions approves."
+        },
+        {
+          "evidence_id": "C87_041",
+          "document_index": 87,
+          "document_id": "F250_2527c0bedaeba0fc4ac0",
+          "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+          "text_file": null,
+          "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "text_start": 720,
+          "text_end": 1520,
+          "exact_original_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+          "section": "§III–IV application, bridging waiver and retained technical review",
+          "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C87_041",
+          "verbatim_extracted_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+          "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+          "start_offset": 720,
+          "end_offset": 1520,
+          "section_article": "§III–IV application, bridging waiver and retained technical review",
+          "pdf_page": null,
+          "language": "Traditional Chinese",
+          "checked_english_summary": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained."
+        }
+      ],
+      "selection_recommendation": "history",
+      "selection_reason": "Preserve dated alternative; do not silently replace the existing selected baseline."
+    }
+  ],
+  "standard_drug_expansion_clauses": [
+    {
+      "evidence_id": "C87_036",
+      "document_index": 87,
+      "document_id": "F250_2527c0bedaeba0fc4ac0",
+      "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+      "text_file": null,
+      "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+      "text_start": 150,
+      "text_end": 720,
+      "exact_original_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+      "section": "§II eligibility and §III initial requirements",
+      "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days.",
+      "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+      "clause_id": "SDX-C87_036",
+      "verbatim_extracted_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+      "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+      "start_offset": 150,
+      "end_offset": 720,
+      "section_article": "§II eligibility and §III initial requirements",
+      "pdf_page": null,
+      "language": "Traditional Chinese",
+      "checked_english_summary": "Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days.",
+      "iso3": "TWN",
+      "country": "Taiwan",
+      "display_text": "訂定精簡審查程序，以期該類新藥能快速上市，使病人\n早日獲得治療並保障病人的權益。 \n二、 適用對象 \n(一) 第一類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 或\n日本MHLW 其中兩地區核准證明，經評估未具族群差異者，查\n驗登記審查天數縮短為180 天。 \n(二) 第二類精簡審查：屬新成分新藥，具有美國FDA、歐盟EMA 及\n日本MHLW 核准證明且化學製造管制(CMC)資料皆相同，經評\n估未具族群差異者，查驗登記審查天數縮短為120 天。 \n三、 申請精簡審查認定應檢送資料： \n(一) 申請人應事先向食藥署提出申請適用本機制之認定，並應檢附\n相關說明及資料，繳交該申請案之規費，應檢附之資料如下： \n1、美國FDA、歐盟EMA 或日本MHLW/PMDA 之核准證明、\n審查報告(Assessment report) 及仿單。 \n2、申請第二類精簡審查檢附之審查報告或行政文件應可供本署\n確認送案產品與核准上市產品具相同化學製造管制(CMC)。 \n3、免除銜接性試驗證明文件，且非有條件准予免除。 \n(二) 食藥署根據廠商提出之資料進行評估，並於30 天內函復廠商認\n定結果。適用本機制者，應於申請查驗登記案時檢附適用通知\n函，始得採用精簡審查程序。 \n(三) 倘食藥署已開始進行該藥品查驗登記案審查，則不再受理認定\n申請。",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Type I abridged new-ingredient review Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline. Type I: two of FDA, EMA, Japan plus no ethnic difference; 180 days. Type II: all three, same CMC, no ethnic difference; 120 days.",
+      "version_alignment": "Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline."
+    },
+    {
+      "evidence_id": "C87_038",
+      "document_index": 87,
+      "document_id": "F250_2527c0bedaeba0fc4ac0",
+      "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+      "text_file": null,
+      "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+      "text_start": 2125,
+      "text_end": 2170,
+      "exact_original_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+      "section": "§VI(2) Type I age rule",
+      "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": true,
+      "ocr_page": null,
+      "research_english_rendering": "For Type I, apply within one year after the second of the three reference jurisdictions approves.",
+      "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+      "clause_id": "SDX-C87_038",
+      "verbatim_extracted_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+      "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+      "start_offset": 2125,
+      "end_offset": 2170,
+      "section_article": "§VI(2) Type I age rule",
+      "pdf_page": null,
+      "language": "Traditional Chinese",
+      "checked_english_summary": "For Type I, apply within one year after the second of the three reference jurisdictions approves.",
+      "iso3": "TWN",
+      "country": "Taiwan",
+      "display_text": "(二) 申請適用第一類精簡審查機制者，須在美歐日第二國核准的一\n年內向食藥署申請查驗登記。",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Type I abridged new-ingredient review Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline. For Type I, apply within one year after the second of the three reference jurisdictions approves.",
+      "version_alignment": "Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline."
+    },
+    {
+      "evidence_id": "C87_039",
+      "document_index": 87,
+      "document_id": "F250_2527c0bedaeba0fc4ac0",
+      "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+      "text_file": null,
+      "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+      "text_start": 2184,
+      "text_end": 2229,
+      "exact_original_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+      "section": "§VI(3) Type II age rule",
+      "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": true,
+      "ocr_page": null,
+      "research_english_rendering": "For Type II, apply within one year after the third of the reference jurisdictions approves.",
+      "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+      "clause_id": "SDX-C87_039",
+      "verbatim_extracted_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+      "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+      "start_offset": 2184,
+      "end_offset": 2229,
+      "section_article": "§VI(3) Type II age rule",
+      "pdf_page": null,
+      "language": "Traditional Chinese",
+      "checked_english_summary": "For Type II, apply within one year after the third of the reference jurisdictions approves.",
+      "iso3": "TWN",
+      "country": "Taiwan",
+      "display_text": "(三) 申請適用第二類精簡審查機制者，須在美歐日第三國核准的一\n年內向食藥署申請查驗登記。",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Type I abridged new-ingredient review Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline. For Type II, apply within one year after the third of the reference jurisdictions approves.",
+      "version_alignment": "Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline."
+    },
+    {
+      "evidence_id": "C87_037",
+      "document_index": 87,
+      "document_id": "F250_2527c0bedaeba0fc4ac0",
+      "raw_sha256": "1020fe06d205521d6c153551865a2476fbd15acbd88cf2ce282cd2908670da88",
+      "text_file": null,
+      "source_text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+      "text_start": 720,
+      "text_end": 1520,
+      "exact_original_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+      "section": "§III–IV application, bridging waiver and retained technical review",
+      "source_url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637097695047973843&type=1",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained.",
+      "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+      "clause_id": "SDX-C87_037",
+      "verbatim_extracted_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+      "text_sha256": "0c328d33d21b06be05b5a1f85032ad2284829e52d317e310967f9dfde1392f23",
+      "start_offset": 720,
+      "end_offset": 1520,
+      "section_article": "§III–IV application, bridging waiver and retained technical review",
+      "pdf_page": null,
+      "language": "Traditional Chinese",
+      "checked_english_summary": "Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained.",
+      "iso3": "TWN",
+      "country": "Taiwan",
+      "display_text": " \n\n\nPAGE 2\n2 \n四、 精簡審查於查驗登記應檢附資料及審查原則 \n(一) 應檢附資料： \n1. 精簡審查認定同意函。 \n2. 美國FDA、歐盟EMA 或日本MHLW/PMDA 核准證明、審查報\n告(Assessment report) 及仿單。 \n3. 針對美國FDA、歐盟EMA 或日本MHLW/PMDA(獨立行政法\n人醫藥品醫療器材綜合機構)所要求之藥品風險管理計畫(Risk \nManagement Plan; RMP) 及上市後承諾(Post-marketing \nCommitment)提出最新進度報告。 \n4. 免除銜接性試驗證明文件，且非有條件准予免除。 \n5. 依「藥品查驗登記審查準則」第三十九條附件三或附件七之規\n定，檢附相關技術性資料。 \n6. 檢附資料應符合通用技術文件(CTD)格式且與檢送美國FDA、\n歐盟EMA 或日本MHLW/PMDA 相同。 \n(二) 審查原則： \n第一類精簡審查原則上以化學製造管制(CMC) 、臨床資料、藥動\n藥效(PK/PD)為主要審查內容，其他部分於必要時加入審查。 \n第二類精簡審查原則上以化學製造管制(CMC)及臨床資料為主要\n審查內容，其他部分於必要時加入審查。 \n各專業領域之技術性資料審查重點，說明如下： \n1、 臨床部分審查重點： \n(1) 適應症及用法用量的審查評估。 \n(2) 藥品風險管理計畫與上市後承諾(Post-marketing \nCommitment) 的審查評估  \n(3) 上市後之藥品定期效益風險評估報告(PBRER：periodic \nbenefit-risk evaluation report)中，新增之不良反應與其安全\n性議題。 \n2、 化學製造管制部分依通用技術文件(CTD)格式進行完整審\n查，審查重點如下： \n\n\nPAGE 3\n3 \n(1) 原料藥：若提供原料藥之規格與包裝同美國FDA",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Type I abridged new-ingredient review Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline. Prior qualification application, fees, approval documents, assessment reports and labels; unconditional bridging-study waiver. CTD same as foreign submission; CMC/clinical and PK-PD review retained.",
+      "version_alignment": "Revised 18 November 2019; historical route, no inferred supersession of prior Taiwan baseline."
+    }
+  ]
 }

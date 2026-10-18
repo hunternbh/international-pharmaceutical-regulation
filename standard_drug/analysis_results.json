@@ -1,13 +1,21 @@
 {
   "schema_version": "1.0",
-  "created_utc": "2026-10-18T05:38:29.760215+00:00",
+  "created_utc": "2026-10-18T06:26:46.462169+00:00",
   "status": "executed_descriptive_legal_comparison",
   "unit": "One selected country–pathway–preserved version, with a common medicine and dossier; other on-hand sources separately screened.",
   "sample": {
     "inventory": 250,
-    "primary_pathway_records": 89,
-    "other_evidence_scope_records": 44,
-    "inventory_without_resolved_country_specific_route": 117,
+    "primary_pathway_records": 94,
+    "baseline_primary_pathway_records": 89,
+    "new_primary_countries": [
+      "BOL",
+      "CRI",
+      "HTI",
+      "LBR",
+      "SUR"
+    ],
+    "other_evidence_scope_records": 40,
+    "inventory_without_resolved_country_specific_route": 116,
     "shared_EU_EEA_authorization_links": 30
   },
   "case_definition": {
@@ -63,11 +71,11 @@
     {
       "component": "new_active_substance",
       "label": "New active substance in scope",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
         "unresolved/not stated": 58,
-        "explicit requirement": 14,
-        "discretionary/conditional": 14,
+        "explicit requirement": 21,
+        "discretionary/conditional": 12,
         "outside pathway scope": 3
       },
       "country_groups": {
@@ -116,7 +124,6 @@
           "LIE",
           "LTU",
           "LUX",
-          "MWI",
           "MYS",
           "MLT",
           "MEX",
@@ -129,17 +136,25 @@
           "SVK",
           "SVN",
           "ESP",
+          "SUR",
           "SWE"
         ],
         "explicit requirement": [
+          "BOL",
           "HKG",
+          "CRI",
           "SLV",
           "GTM",
+          "HTI",
+          "LBR",
+          "MWI",
           "MDV",
           "NGA",
           "PAK",
+          "PER",
           "PHL",
           "SAU",
+          "SLE",
           "SGP",
           "ZAF",
           "LKA",
@@ -152,10 +167,8 @@
           "NLD",
           "NZL",
           "PAN",
-          "PER",
           "RWA",
           "SRB",
-          "SLE",
           "TON",
           "TUV",
           "TUR",
@@ -173,10 +186,10 @@
     {
       "component": "named_reference_agencies",
       "label": "Accepted reference agencies",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 24,
-        "explicit requirement": 48,
+        "unresolved/not stated": 27,
+        "explicit requirement": 50,
         "outside pathway scope": 13,
         "discretionary/conditional": 4
       },
@@ -187,20 +200,23 @@
           "AZE",
           "BGD",
           "BTN",
+          "BOL",
           "BRA",
           "CAN",
           "COK",
+          "CRI",
           "ETH",
           "GMB",
           "GEO",
-          "GHA",
+          "HTI",
           "JOR",
           "KEN",
-          "MDV",
+          "LBR",
           "FSM",
           "NZL",
           "PER",
           "PHL",
+          "SLE",
           "LKA",
           "THA",
           "TUV",
@@ -221,6 +237,7 @@
           "EGY",
           "SLV",
           "FIN",
+          "GHA",
           "GTM",
           "GUY",
           "ISL",
@@ -231,6 +248,7 @@
           "LUX",
           "MWI",
           "MYS",
+          "MDV",
           "MEX",
           "MCO",
           "MNE",
@@ -275,20 +293,20 @@
         "discretionary/conditional": [
           "PRT",
           "ROU",
-          "SLE",
-          "SVN"
+          "SVN",
+          "SUR"
         ]
       }
     },
     {
       "component": "prior_approval_count",
       "label": "Number of foreign approvals",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "explicit requirement": 42,
-        "unresolved/not stated": 33,
-        "outside pathway scope": 2,
-        "discretionary/conditional": 12
+        "explicit requirement": 45,
+        "unresolved/not stated": 37,
+        "discretionary/conditional": 11,
+        "outside pathway scope": 1
       },
       "country_groups": {
         "explicit requirement": [
@@ -297,6 +315,7 @@
           "ARM",
           "AUS",
           "AZE",
+          "BHR",
           "BTN",
           "BIH",
           "CAN",
@@ -309,6 +328,7 @@
           "SLV",
           "ETH",
           "GEO",
+          "GHA",
           "GTM",
           "GUY",
           "ISR",
@@ -333,13 +353,16 @@
           "TWN",
           "TUV",
           "GBR",
+          "TZA",
           "ZMB"
         ],
         "unresolved/not stated": [
           "AUT",
           "BEL",
+          "BOL",
           "BRA",
           "BGR",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -349,12 +372,14 @@
           "GMB",
           "DEU",
           "GRC",
+          "HTI",
           "ISL",
           "IRL",
           "ITA",
           "JEY",
           "KGZ",
           "LVA",
+          "LBR",
           "LTU",
           "LUX",
           "MLT",
@@ -370,13 +395,8 @@
           "VNM",
           "ZWE"
         ],
-        "outside pathway scope": [
-          "BHR",
-          "LIE"
-        ],
         "discretionary/conditional": [
           "BGD",
-          "GHA",
           "JOR",
           "NLD",
           "PAK",
@@ -384,18 +404,21 @@
           "RWA",
           "SRB",
           "SVK",
+          "SUR",
           "TON",
-          "TZA",
           "UZB"
+        ],
+        "outside pathway scope": [
+          "LIE"
         ]
       }
     },
     {
       "component": "standalone_review",
       "label": "Original standalone foreign review",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 82,
+        "unresolved/not stated": 87,
         "explicit requirement": 7
       },
       "country_groups": {
@@ -409,12 +432,14 @@
           "BGD",
           "BEL",
           "BTN",
+          "BOL",
           "BIH",
           "BRA",
           "BGR",
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -433,6 +458,7 @@
           "GRC",
           "GTM",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "ITA",
@@ -441,6 +467,7 @@
           "KEN",
           "KGZ",
           "LVA",
+          "LBR",
           "LIE",
           "LTU",
           "LUX",
@@ -470,6 +497,7 @@
           "ZAF",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -497,11 +525,11 @@
     {
       "component": "approval_age",
       "label": "Age of foreign approval",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 76,
-        "explicit requirement": 12,
-        "discretionary/conditional": 1
+        "unresolved/not stated": 79,
+        "explicit requirement": 13,
+        "discretionary/conditional": 2
       },
       "country_groups": {
         "unresolved/not stated": [
@@ -509,16 +537,17 @@
           "ARG",
           "ARM",
           "AUT",
-          "BHR",
           "BGD",
           "BEL",
           "BTN",
+          "BOL",
           "BIH",
           "BRA",
           "BGR",
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -537,6 +566,7 @@
           "GRC",
           "GTM",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "ITA",
@@ -569,6 +599,7 @@
           "ZAF",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -585,6 +616,7 @@
         "explicit requirement": [
           "AUS",
           "AZE",
+          "BHR",
           "ISR",
           "JEY",
           "MYS",
@@ -597,18 +629,18 @@
           "GBR"
         ],
         "discretionary/conditional": [
-          "CAN"
+          "CAN",
+          "LBR"
         ]
       }
     },
     {
       "component": "foreign_marketing",
       "label": "Already marketed abroad",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 80,
-        "explicit requirement": 8,
-        "discretionary/conditional": 1
+        "unresolved/not stated": 83,
+        "explicit requirement": 11
       },
       "country_groups": {
         "unresolved/not stated": [
@@ -620,12 +652,14 @@
           "BGD",
           "BEL",
           "BTN",
+          "BOL",
           "BRA",
           "BGR",
           "CAN",
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -642,6 +676,7 @@
           "GRC",
           "GTM",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "ISR",
@@ -650,12 +685,12 @@
           "KEN",
           "KGZ",
           "LVA",
+          "LBR",
           "LIE",
           "LTU",
           "LUX",
           "MWI",
           "MYS",
-          "MDV",
           "MLT",
           "MEX",
           "FSM",
@@ -695,32 +730,34 @@
         ],
         "explicit requirement": [
           "ARG",
+          "BHR",
           "BIH",
           "ETH",
           "GMB",
           "JOR",
+          "MDV",
           "PAN",
           "PER",
-          "SAU"
-        ],
-        "discretionary/conditional": [
-          "BHR"
+          "SAU",
+          "SUR"
         ]
       }
     },
     {
       "component": "same_product_dossier_site",
       "label": "Same product, dossier or factory",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "explicit requirement": 44,
-        "unresolved/not stated": 45
+        "explicit requirement": 46,
+        "unresolved/not stated": 47,
+        "discretionary/conditional": 1
       },
       "country_groups": {
         "explicit requirement": [
           "DZA",
           "ARM",
           "AUS",
+          "BHR",
           "BIH",
           "BRA",
           "BGR",
@@ -740,6 +777,7 @@
           "KEN",
           "LVA",
           "MYS",
+          "MDV",
           "MLT",
           "MEX",
           "NZL",
@@ -751,10 +789,10 @@
           "PHL",
           "RWA",
           "SAU",
-          "SLE",
           "SGP",
           "ZAF",
           "LKA",
+          "SUR",
           "TWN",
           "TON",
           "TUR",
@@ -767,12 +805,13 @@
           "ARG",
           "AUT",
           "AZE",
-          "BHR",
           "BGD",
           "BEL",
           "BTN",
+          "BOL",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "DNK",
           "DOM",
@@ -783,6 +822,7 @@
           "GEO",
           "GTM",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "JEY",
@@ -791,7 +831,6 @@
           "LTU",
           "LUX",
           "MWI",
-          "MDV",
           "FSM",
           "MCO",
           "MNE",
@@ -800,6 +839,7 @@
           "PRT",
           "ROU",
           "SRB",
+          "SLE",
           "SVK",
           "SVN",
           "ESP",
@@ -809,22 +849,24 @@
           "TUV",
           "UZB",
           "VNM"
+        ],
+        "discretionary/conditional": [
+          "LBR"
         ]
       }
     },
     {
       "component": "report_completeness",
       "label": "Foreign regulatory assessment reports",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "explicit requirement": 16,
-        "unresolved/not stated": 55,
-        "discretionary/conditional": 18
+        "explicit requirement": 15,
+        "unresolved/not stated": 62,
+        "discretionary/conditional": 17
       },
       "country_groups": {
         "explicit requirement": [
           "DZA",
-          "ARM",
           "AUS",
           "BIH",
           "MWI",
@@ -847,10 +889,12 @@
           "BHR",
           "BEL",
           "BTN",
+          "BOL",
           "BGR",
           "CAN",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -865,15 +909,18 @@
           "GRC",
           "GTM",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "ITA",
           "JEY",
           "KGZ",
           "LVA",
+          "LBR",
           "LIE",
           "LTU",
           "LUX",
+          "MDV",
           "MEX",
           "FSM",
           "MCO",
@@ -887,9 +934,11 @@
           "PRT",
           "ROU",
           "SRB",
+          "SLE",
           "SVK",
           "SVN",
           "ESP",
+          "SUR",
           "SWE",
           "THA",
           "TON",
@@ -898,6 +947,7 @@
           "ZMB"
         ],
         "discretionary/conditional": [
+          "ARM",
           "BGD",
           "BRA",
           "HKG",
@@ -909,11 +959,9 @@
           "JOR",
           "KEN",
           "MYS",
-          "MDV",
           "MLT",
           "NGA",
           "RWA",
-          "SLE",
           "TWN",
           "ZWE"
         ]
@@ -922,11 +970,11 @@
     {
       "component": "nonpublic_reports",
       "label": "Nonpublic report condition",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "explicit requirement": 4,
-        "unresolved/not stated": 79,
-        "discretionary/conditional": 5,
+        "explicit requirement": 5,
+        "unresolved/not stated": 82,
+        "discretionary/conditional": 6,
         "explicit waiver/not required": 1
       },
       "country_groups": {
@@ -934,7 +982,8 @@
           "DZA",
           "AUS",
           "SAU",
-          "GBR"
+          "GBR",
+          "TZA"
         ],
         "unresolved/not stated": [
           "ARG",
@@ -945,12 +994,14 @@
           "BGD",
           "BEL",
           "BTN",
+          "BOL",
           "BIH",
           "BGR",
           "CAN",
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -965,10 +1016,10 @@
           "GMB",
           "GEO",
           "DEU",
-          "GHA",
           "GRC",
           "GTM",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "ITA",
@@ -977,6 +1028,7 @@
           "KEN",
           "KGZ",
           "LVA",
+          "LBR",
           "LIE",
           "LTU",
           "LUX",
@@ -1004,6 +1056,7 @@
           "SVN",
           "ZAF",
           "ESP",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -1011,7 +1064,6 @@
           "TON",
           "TUV",
           "TUR",
-          "TZA",
           "UZB",
           "VNM",
           "ZMB",
@@ -1019,6 +1071,7 @@
         ],
         "discretionary/conditional": [
           "BRA",
+          "GHA",
           "ISR",
           "MYS",
           "NGA",
@@ -1032,9 +1085,9 @@
     {
       "component": "accepted_redactions",
       "label": "Permitted redactions",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 84,
+        "unresolved/not stated": 89,
         "discretionary/conditional": 5
       },
       "country_groups": {
@@ -1049,12 +1102,14 @@
           "BGD",
           "BEL",
           "BTN",
+          "BOL",
           "BIH",
           "BRA",
           "BGR",
           "CAN",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -1071,6 +1126,7 @@
           "GRC",
           "GTM",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "ISR",
@@ -1080,6 +1136,7 @@
           "KEN",
           "KGZ",
           "LVA",
+          "LBR",
           "LIE",
           "LTU",
           "LUX",
@@ -1110,6 +1167,7 @@
           "ZAF",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -1136,12 +1194,12 @@
     {
       "component": "public_report_sufficiency",
       "label": "Rule about public reports",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
         "explicit requirement": 4,
-        "unresolved/not stated": 52,
+        "unresolved/not stated": 58,
         "outside pathway scope": 22,
-        "discretionary/conditional": 11
+        "discretionary/conditional": 10
       },
       "country_groups": {
         "explicit requirement": [
@@ -1156,11 +1214,13 @@
           "AZE",
           "BHR",
           "BTN",
+          "BOL",
           "BIH",
           "BRA",
           "CAN",
           "COL",
           "COK",
+          "CRI",
           "DOM",
           "ECU",
           "SLV",
@@ -1168,9 +1228,12 @@
           "DEU",
           "GTM",
           "GUY",
+          "HTI",
           "ISR",
+          "LBR",
           "LIE",
           "MWI",
+          "MDV",
           "FSM",
           "MCO",
           "MNE",
@@ -1193,6 +1256,7 @@
           "SVN",
           "ZAF",
           "LKA",
+          "SUR",
           "SWE",
           "TWN",
           "TON",
@@ -1238,7 +1302,6 @@
           "JOR",
           "KEN",
           "MYS",
-          "MDV",
           "MEX"
         ]
       }
@@ -1246,9 +1309,9 @@
     {
       "component": "applicant_consent",
       "label": "Applicant/manufacturer sharing consent",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 80,
+        "unresolved/not stated": 85,
         "discretionary/conditional": 8,
         "explicit requirement": 1
       },
@@ -1264,6 +1327,7 @@
           "BGD",
           "BEL",
           "BTN",
+          "BOL",
           "BIH",
           "BRA",
           "BGR",
@@ -1271,6 +1335,7 @@
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -1286,6 +1351,7 @@
           "GHA",
           "GRC",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "ISR",
@@ -1293,6 +1359,7 @@
           "JEY",
           "KGZ",
           "LVA",
+          "LBR",
           "LIE",
           "LTU",
           "LUX",
@@ -1323,6 +1390,7 @@
           "SVN",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -1353,9 +1421,9 @@
     {
       "component": "reference_authority_permission",
       "label": "Foreign authority sharing permission",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 85,
+        "unresolved/not stated": 90,
         "discretionary/conditional": 2,
         "explicit requirement": 2
       },
@@ -1371,6 +1439,7 @@
           "BGD",
           "BEL",
           "BTN",
+          "BOL",
           "BIH",
           "BRA",
           "BGR",
@@ -1378,6 +1447,7 @@
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -1394,6 +1464,7 @@
           "GRC",
           "GTM",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "ISR",
@@ -1402,6 +1473,7 @@
           "JOR",
           "KGZ",
           "LVA",
+          "LBR",
           "LIE",
           "LTU",
           "LUX",
@@ -1434,6 +1506,7 @@
           "ZAF",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -1460,11 +1533,11 @@
     {
       "component": "regulator_to_regulator_sharing",
       "label": "Direct sharing between regulators",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 66,
+        "unresolved/not stated": 70,
         "explicit requirement": 15,
-        "discretionary/conditional": 8
+        "discretionary/conditional": 9
       },
       "country_groups": {
         "unresolved/not stated": [
@@ -1476,12 +1549,14 @@
           "BHR",
           "BGD",
           "BTN",
+          "BOL",
           "BIH",
           "BRA",
           "CAN",
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "DNK",
           "DOM",
@@ -1494,6 +1569,7 @@
           "GHA",
           "GTM",
           "GUY",
+          "HTI",
           "ISL",
           "IRL",
           "ISR",
@@ -1519,6 +1595,7 @@
           "RWA",
           "SAU",
           "SRB",
+          "SLE",
           "SGP",
           "SVN",
           "ESP",
@@ -1549,17 +1626,18 @@
           "LVA",
           "MLT",
           "NOR",
-          "SLE",
-          "SVK"
+          "SVK",
+          "TZA"
         ],
         "discretionary/conditional": [
           "GMB",
           "KEN",
+          "LBR",
           "NGA",
           "PAK",
           "PRT",
           "ZAF",
-          "TZA",
+          "SUR",
           "ZWE"
         ]
       }
@@ -1567,11 +1645,11 @@
     {
       "component": "local_clinical_evidence",
       "label": "Local clinical evidence",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 79,
-        "discretionary/conditional": 9,
-        "explicit requirement": 1
+        "unresolved/not stated": 81,
+        "discretionary/conditional": 11,
+        "explicit requirement": 2
       },
       "country_groups": {
         "unresolved/not stated": [
@@ -1585,11 +1663,13 @@
           "BGD",
           "BEL",
           "BTN",
+          "BOL",
           "BIH",
           "BGR",
           "CAN",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -1603,7 +1683,6 @@
           "FIN",
           "GEO",
           "DEU",
-          "GHA",
           "GRC",
           "GTM",
           "GUY",
@@ -1642,6 +1721,7 @@
           "ZAF",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "THA",
@@ -1659,7 +1739,9 @@
           "BRA",
           "HKG",
           "GMB",
+          "GHA",
           "JOR",
+          "LBR",
           "PAK",
           "PHL",
           "RWA",
@@ -1667,6 +1749,7 @@
           "SGP"
         ],
         "explicit requirement": [
+          "HTI",
           "TWN"
         ]
       }
@@ -1674,17 +1757,16 @@
     {
       "component": "quality_gmp",
       "label": "Quality or manufacturing checks",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
         "unresolved/not stated": 64,
-        "discretionary/conditional": 6,
-        "explicit requirement": 19
+        "discretionary/conditional": 7,
+        "explicit requirement": 23
       },
       "country_groups": {
         "unresolved/not stated": [
           "DZA",
           "ARG",
-          "ARM",
           "AUS",
           "AUT",
           "BGD",
@@ -1696,6 +1778,7 @@
           "CAN",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -1748,22 +1831,27 @@
           "ZWE"
         ],
         "discretionary/conditional": [
+          "ARM",
           "AZE",
           "ECU",
           "ETH",
-          "MDV",
           "PAK",
-          "RWA"
+          "RWA",
+          "SUR"
         ],
         "explicit requirement": [
           "BHR",
+          "BOL",
           "HKG",
           "DOM",
           "EGY",
+          "HTI",
           "JOR",
           "KEN",
+          "LBR",
           "MWI",
           "MYS",
+          "MDV",
           "MEX",
           "NZL",
           "NGA",
@@ -1781,11 +1869,11 @@
     {
       "component": "scientific_assessment_retained",
       "label": "Domestic scientific assessment",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "explicit requirement": 35,
-        "discretionary/conditional": 42,
-        "unresolved/not stated": 10,
+        "explicit requirement": 40,
+        "discretionary/conditional": 41,
+        "unresolved/not stated": 11,
         "explicit waiver/not required": 2
       },
       "country_groups": {
@@ -1805,12 +1893,14 @@
           "ETH",
           "GMB",
           "GEO",
-          "GHA",
+          "GTM",
           "GUY",
+          "HTI",
           "ISR",
           "JOR",
           "KEN",
           "KGZ",
+          "LBR",
           "MWI",
           "MYS",
           "MNE",
@@ -1819,11 +1909,14 @@
           "PHL",
           "RWA",
           "SRB",
+          "SLE",
           "ZAF",
           "LKA",
+          "SUR",
           "CHE",
           "TWN",
           "TON",
+          "TZA",
           "UZB"
         ],
         "discretionary/conditional": [
@@ -1841,8 +1934,8 @@
           "EST",
           "FIN",
           "DEU",
+          "GHA",
           "GRC",
-          "GTM",
           "ISL",
           "IRL",
           "ITA",
@@ -1866,18 +1959,18 @@
           "TUV",
           "TUR",
           "GBR",
-          "TZA",
           "VNM",
           "ZWE"
         ],
         "unresolved/not stated": [
+          "BOL",
+          "CRI",
           "DOM",
           "ECU",
           "MCO",
           "NLD",
           "NOR",
           "ROU",
-          "SLE",
           "SVN",
           "THA",
           "ZMB"
@@ -1891,10 +1984,10 @@
     {
       "component": "local_representative",
       "label": "Local representative",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
         "unresolved/not stated": 83,
-        "explicit requirement": 5,
+        "explicit requirement": 10,
         "discretionary/conditional": 1
       },
       "country_groups": {
@@ -1914,6 +2007,7 @@
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -1930,7 +2024,6 @@
           "DEU",
           "GHA",
           "GRC",
-          "GTM",
           "GUY",
           "ISL",
           "IRL",
@@ -1963,12 +2056,12 @@
           "RWA",
           "SAU",
           "SRB",
-          "SLE",
           "SGP",
           "SVK",
           "ZAF",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -1985,9 +2078,14 @@
         ],
         "explicit requirement": [
           "BTN",
+          "BOL",
           "BGR",
+          "GTM",
+          "HTI",
+          "LBR",
           "PAN",
           "PHL",
+          "SLE",
           "SVN"
         ],
         "discretionary/conditional": [
@@ -1998,28 +2096,30 @@
     {
       "component": "filing_fee",
       "label": "Application or fee",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 67,
-        "explicit requirement": 21,
+        "unresolved/not stated": 69,
+        "explicit requirement": 24,
         "discretionary/conditional": 1
       },
       "country_groups": {
         "unresolved/not stated": [
           "DZA",
           "ARG",
+          "ARM",
           "AUS",
           "AUT",
           "AZE",
-          "BHR",
           "BGD",
           "BEL",
+          "BOL",
           "BIH",
           "BRA",
           "CAN",
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -2035,7 +2135,6 @@
           "DEU",
           "GHA",
           "GRC",
-          "GTM",
           "GUY",
           "ISL",
           "IRL",
@@ -2064,6 +2163,7 @@
           "ZAF",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -2075,11 +2175,14 @@
           "ZWE"
         ],
         "explicit requirement": [
-          "ARM",
+          "BHR",
           "BTN",
           "BGR",
           "SLV",
+          "GTM",
+          "HTI",
           "LVA",
+          "LBR",
           "LIE",
           "MWI",
           "MEX",
@@ -2105,15 +2208,15 @@
     {
       "component": "translation_legalization",
       "label": "Translation or certification",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
         "unresolved/not stated": 77,
-        "explicit requirement": 12
+        "explicit requirement": 16,
+        "discretionary/conditional": 1
       },
       "country_groups": {
         "unresolved/not stated": [
           "DZA",
-          "ARM",
           "AUS",
           "AUT",
           "BHR",
@@ -2127,6 +2230,7 @@
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -2172,12 +2276,12 @@
           "RWA",
           "SAU",
           "SRB",
-          "SLE",
           "SGP",
           "SVK",
           "SVN",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -2192,27 +2296,34 @@
         ],
         "explicit requirement": [
           "ARG",
+          "ARM",
           "AZE",
           "ECU",
           "GEO",
           "GTM",
+          "HTI",
           "LVA",
+          "LBR",
           "PAN",
           "PER",
           "PHL",
+          "SLE",
           "ZAF",
           "GBR",
           "UZB"
+        ],
+        "discretionary/conditional": [
+          "BOL"
         ]
       }
     },
     {
       "component": "cpp",
       "label": "Pharmaceutical-product certificate",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "unresolved/not stated": 75,
-        "explicit requirement": 14
+        "unresolved/not stated": 77,
+        "explicit requirement": 17
       },
       "country_groups": {
         "unresolved/not stated": [
@@ -2221,9 +2332,9 @@
           "ARM",
           "AUS",
           "AUT",
-          "BHR",
           "BEL",
           "BTN",
+          "BOL",
           "BIH",
           "BRA",
           "BGR",
@@ -2231,6 +2342,7 @@
           "HKG",
           "COL",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -2278,6 +2390,7 @@
           "ZAF",
           "ESP",
           "LKA",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -2294,14 +2407,17 @@
         ],
         "explicit requirement": [
           "AZE",
+          "BHR",
           "BGD",
           "DOM",
           "ECU",
           "EGY",
           "GEO",
           "GTM",
+          "HTI",
           "ISR",
           "KEN",
+          "LBR",
           "MEX",
           "PAK",
           "PAN",
@@ -2313,11 +2429,11 @@
     {
       "component": "clock",
       "label": "Published review clock",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "explicit requirement": 27,
-        "unresolved/not stated": 50,
-        "discretionary/conditional": 12
+        "explicit requirement": 32,
+        "unresolved/not stated": 51,
+        "discretionary/conditional": 11
       },
       "country_groups": {
         "explicit requirement": [
@@ -2325,15 +2441,19 @@
           "ARM",
           "AUS",
           "AZE",
+          "BHR",
           "BIH",
           "BGR",
           "COL",
           "CZE",
           "SLV",
           "GEO",
+          "GTM",
+          "HTI",
           "ISL",
           "ISR",
           "KGZ",
+          "MWI",
           "MYS",
           "MLT",
           "MEX",
@@ -2342,6 +2462,7 @@
           "PER",
           "PHL",
           "SRB",
+          "SLE",
           "SVK",
           "LKA",
           "TUR",
@@ -2352,13 +2473,14 @@
         "unresolved/not stated": [
           "ARG",
           "AUT",
-          "BHR",
           "BGD",
           "BEL",
+          "BOL",
           "BRA",
           "CAN",
           "HKG",
           "COK",
+          "CRI",
           "HRV",
           "CYP",
           "DNK",
@@ -2371,7 +2493,6 @@
           "GMB",
           "DEU",
           "GRC",
-          "GTM",
           "GUY",
           "IRL",
           "ITA",
@@ -2394,6 +2515,7 @@
           "SVN",
           "ZAF",
           "ESP",
+          "SUR",
           "SWE",
           "CHE",
           "TWN",
@@ -2404,13 +2526,12 @@
         "discretionary/conditional": [
           "BTN",
           "GHA",
-          "MWI",
+          "LBR",
           "NLD",
           "NGA",
           "NOR",
           "RWA",
           "SAU",
-          "SLE",
           "TZA",
           "ZMB",
           "ZWE"
@@ -2420,16 +2541,15 @@
     {
       "component": "domestic_discretion",
       "label": "Domestic decision or further questions",
-      "denominator": 89,
+      "denominator": 94,
       "counts": {
-        "discretionary/conditional": 39,
-        "unresolved/not stated": 48,
-        "explicit requirement": 2
+        "discretionary/conditional": 35,
+        "unresolved/not stated": 53,
+        "explicit requirement": 6
       },
       "country_groups": {
         "discretionary/conditional": [
           "DZA",
-          "ARM",
           "AUS",
           "BGD",
           "CAN",
@@ -2449,12 +2569,10 @@
           "NGA",
           "PAK",
           "PAN",
-          "PER",
           "PRT",
           "RWA",
           "SAU",
           "SRB",
-          "SLE",
           "SGP",
           "SVK",
           "ZAF",
@@ -2464,21 +2582,22 @@
           "TUV",
           "TUR",
           "GBR",
-          "TZA",
           "UZB",
           "VNM"
         ],
         "unresolved/not stated": [
           "ARG",
+          "ARM",
           "AUT",
           "AZE",
-          "BHR",
           "BEL",
           "BTN",
+          "BOL",
           "BIH",
           "BGR",
           "HKG",
           "COL",
+          "CRI",
           "HRV",
           "CYP",
           "CZE",
@@ -2499,6 +2618,7 @@
           "KEN",
           "KGZ",
           "LVA",
+          "LBR",
           "LIE",
           "LTU",
           "LUX",
@@ -2508,113 +2628,141 @@
           "MCO",
           "MOZ",
           "NOR",
+          "PER",
           "PHL",
           "ROU",
           "SVN",
           "ESP",
           "LKA",
+          "SUR",
           "CHE",
           "THA",
           "ZMB",
           "ZWE"
         ],
         "explicit requirement": [
+          "BHR",
           "BRA",
-          "NLD"
+          "HTI",
+          "NLD",
+          "SLE",
+          "TZA"
         ]
       }
     }
   ],
   "case_status_counts": {
     "A": {
-      "explicitly ineligible for identified full-report route": 9,
-      "condition established but full eligibility unresolved": 40,
+      "explicitly ineligible for identified full-report route": 8,
+      "condition established but full eligibility unresolved": 35,
+      "discretionary/conditional": 18,
       "outside selected MRP pathway on fixed facts": 17,
-      "outside selected recognition pathway on fixed facts": 1,
-      "discretionary/conditional": 14,
+      "unresolved ordinary-registration conditions": 1,
+      "full eligibility unresolved": 3,
       "outside selected regional MRP pathway on fixed facts": 1,
+      "unresolved minimum-global-age condition": 1,
+      "one-reference condition established; residual eligibility unresolved": 1,
       "unresolved": 4,
-      "outside pathway scope": 3
+      "quality condition partly established; complete eligibility unresolved": 1,
+      "outside pathway scope": 3,
+      "explicitly ineligible for identified route": 1
     },
     "B": {
-      "condition established but full eligibility unresolved": 43,
+      "condition established but full eligibility unresolved": 38,
+      "discretionary/conditional": 23,
       "outside selected MRP pathway on fixed facts": 17,
-      "outside selected recognition pathway on fixed facts": 1,
-      "discretionary/conditional": 20,
+      "unresolved ordinary-registration conditions": 1,
+      "full eligibility unresolved": 4,
       "outside selected regional MRP pathway on fixed facts": 1,
+      "unresolved minimum-global-age condition": 1,
+      "one-reference condition established; residual eligibility unresolved": 1,
       "unresolved": 4,
+      "quality condition partly established; complete eligibility unresolved": 1,
       "outside pathway scope": 3
     },
     "C": {
-      "condition established but full eligibility unresolved": 42,
+      "condition established but full eligibility unresolved": 37,
+      "discretionary/conditional": 21,
       "outside selected MRP pathway on fixed facts": 17,
-      "outside selected recognition pathway on fixed facts": 1,
-      "discretionary/conditional": 17,
+      "unresolved ordinary-registration conditions": 1,
       "nonpublic-sharing option impeded; public alternative unresolved": 1,
+      "full eligibility unresolved": 4,
       "outside selected regional MRP pathway on fixed facts": 1,
+      "unresolved minimum-global-age condition": 1,
+      "one-reference condition established; residual eligibility unresolved": 1,
       "unresolved": 4,
       "unresolved across alternative references": 1,
+      "quality condition partly established; complete eligibility unresolved": 1,
       "outside pathway scope": 3,
-      "unresolved consent-gate ambiguity": 1,
       "discretionary/conditional; full-sharing option impeded": 1
     },
     "D": {
-      "condition established but full eligibility unresolved": 41,
+      "condition established but full eligibility unresolved": 36,
+      "discretionary/conditional": 22,
       "outside selected MRP pathway on fixed facts": 17,
-      "outside selected recognition pathway on fixed facts": 1,
-      "discretionary/conditional": 19,
+      "unresolved ordinary-registration conditions": 1,
       "nonpublic-sharing option impeded; public alternative unresolved": 1,
+      "full eligibility unresolved": 4,
       "confidential-sharing condition fails; alternative public-material route unresolved": 1,
       "outside selected regional MRP pathway on fixed facts": 1,
+      "unresolved minimum-global-age condition": 1,
+      "one-reference condition established; residual eligibility unresolved": 1,
       "unresolved": 4,
+      "quality condition partly established; complete eligibility unresolved": 1,
       "outside pathway scope": 3,
       "discretionary/conditional; full-sharing option impeded": 1
     },
     "E": {
-      "condition established but full eligibility unresolved": 27,
+      "condition established but full eligibility unresolved": 22,
+      "discretionary/conditional": 17,
       "outside selected MRP pathway on fixed facts": 17,
-      "outside selected recognition pathway on fixed facts": 4,
+      "unresolved ordinary-registration conditions": 1,
+      "outside selected recognition pathway on fixed facts": 3,
       "verification threshold fails; abridged eligibility unresolved": 1,
       "explicitly ineligible for identified two-country shortcut": 1,
       "outside selected shared authorisation pathway": 7,
       "condition established for abridged alternative; verification threshold fails": 1,
-      "discretionary/conditional": 14,
+      "full eligibility unresolved": 4,
       "condition established for RouteB; RouteA threshold fails": 1,
       "outside selected regional MRP pathway on fixed facts": 1,
+      "unresolved minimum-global-age condition": 1,
       "outside selected EU-based shorter assessment on fixed facts": 1,
       "explicitly ineligible for selected route": 2,
+      "one-reference condition established; residual eligibility unresolved": 1,
       "discretionary/conditional via abridged alternative; verification fails": 3,
       "unresolved": 5,
       "explicitly ineligible for identified two-reference new-API route": 1,
+      "quality condition partly established; complete eligibility unresolved": 1,
       "outside pathway scope": 3
     }
   },
   "pairwise_review_status_counts": {
     "B_minus_A": {
-      "unresolved/not stated": 55,
-      "reviewed contextual interpretation": 4,
-      "unresolved/not established": 24,
-      "explicit full-report condition; overall access gain not fully resolved": 6
+      "unresolved/not stated": 59,
+      "reviewed contextual interpretation": 8,
+      "unresolved/not established": 22,
+      "explicit full-report condition; overall access gain not fully resolved": 5
     },
     "B_minus_C": {
-      "unresolved/not stated": 86,
-      "conditional sharing provision": 3
+      "unresolved/not stated": 91,
+      "express alternative to holder consent": 1,
+      "conditional sharing provision": 2
     },
     "B_minus_D": {
-      "unresolved/not stated": 88,
+      "unresolved/not stated": 93,
       "conditional sharing provision": 1
     },
     "B_minus_E": {
-      "unresolved/not stated": 56,
-      "unresolved/not established": 24,
-      "reviewed contextual interpretation": 3,
+      "unresolved/not stated": 60,
+      "reviewed contextual interpretation": 7,
+      "unresolved/not established": 21,
       "explicit selected-route threshold": 6
     }
   },
   "adjudicated_legal_comparisons": {
     "complete_report_gate": {
       "n": 9,
-      "denominator": 89,
+      "denominator": 94,
       "countries": [
         "AUS",
         "DZA",
@@ -2629,7 +2777,7 @@
     },
     "nonpublic_report_or_public_domain_exclusion": {
       "n": 2,
-      "denominator": 89,
+      "denominator": 94,
       "countries": [
         "DZA",
         "SAU"
@@ -2637,7 +2785,7 @@
     },
     "second_approval_selected_route": {
       "n": 10,
-      "denominator": 89,
+      "denominator": 94,
       "countries": [
         "COL",
         "EGY",
@@ -2653,7 +2801,7 @@
     },
     "one_approval_alternative_described": {
       "n": 6,
-      "denominator": 89,
+      "denominator": 94,
       "countries": [
         "EGY",
         "HKG",
@@ -2665,7 +2813,7 @@
     },
     "ambiguous_additional_full_report_gate": {
       "n": 1,
-      "denominator": 89,
+      "denominator": 94,
       "countries": [
         "LKA"
       ]
@@ -2674,18 +2822,19 @@
   "adjudication_notes": [
     "The nine complete-report records establish a report-content requirement for an identified route compatible with, or conditionally assessable for, the fixed ordinary medicine. Other eligibility requirements remain. Some countries offer other routes, so these are not nine countries closed to the medicine.",
     "Case A fixes information content: only public summaries are accessible to the domestic assessor, and the complete underlying package is unavailable through both applicant and information-sharing channels. Case B supplies the complete package with needed permissions. If A meant merely that the applicant personally lacked a report but the assessor could obtain it through an authorized sharing channel, some apparent A–B differences would disappear.",
-    "Nine is a conservative identified count, not proof that the remaining 80 have no full-report condition. Sri Lanka adds a possible tenth: its preserved guideline says 'full unreductant assessment report', while an earlier paragraph accepts a public report/CoPP as approval evidence. The malformed term and delivery requirement need clarification. Show 9 in the strict count and 10 in this interpretation sensitivity.",
+    "Nine is a conservative identified count, not proof that the remaining 85 have no full-report condition. Sri Lanka adds a possible tenth: its preserved guideline says 'full unreductant assessment report', while an earlier paragraph accepts a public report/CoPP as approval evidence. The malformed term and delivery requirement need clarification. Show 9 in the strict count and 10 in this interpretation sensitivity.",
     "Algeria expressly requires a complete, nonpublic report without confidential information removed. Saudi Arabia expressly rejects public-domain reports while allowing certain irrelevant-to-quality/safety/efficacy redactions. These are different formulations of a nonpublic/public-source restriction. Other unredacted-report requirements are not automatically called categorical public-domain bans.",
     "The ten multi-approval/multi-country rules concern identified pathway or scientific-review options. Colombia and Hong Kong count countries/places; Sri Lanka distinguishes new APIs/new combinations from other products. These are not ten identical rules requiring FDA plus EMA, and we do not assume two agency names always satisfy a two-country certificate requirement.",
     "Six of those ten sources describe a one-approval alternative, often with different assessment or clinical conditions. FDA-only does not therefore imply that every reliance option is unavailable. The comparison does not claim these six fixed-drug cases meet every remaining alternative-route requirement.",
     "Swiss Art13's preserved NAS restriction excludes the fixed nonorphan case; it is not counted as a report gate for this medicine. Canada and Mexico's company-dossier/data conditions are not counted as foreign regulator assessment-report gates. Gambia's European-public-report option and the exceptions in Egypt, Hong Kong, Israel and Malaysia are retained.",
     "European Commission centralized authorization has shared territorial legal effect. A selected national MRP procedure may still require a national reference-state authorization, which the centralized authorization is not. Those facts are separately coded; no destination is called inaccessible just because the selected MRP route does not fit.",
-    "Primary denominator 89 is the preserved selected national pathway sample, not a probability sample of all 250 countries. Source genre, original language, shared legal systems and applicability are reported separately. Drafts, historical surveys and supplementary mirrors do not silently enter the main 89."
+    "Primary denominator 94 is the explicitly selected national route/version sample, not a probability sample of all 250 countries. Source genre, original language, shared legal systems and applicability are reported separately. Drafts, historical surveys and supplementary mirrors do not silently enter the main comparison.",
+    "Expansion selects 15 country readings explicitly; other routes and dated versions remain available separately. Ghana retains a public-report alternative, Ethiopia retains the newer baseline route, and no additional unconditional complete-report gate is established. One-approval-alternative counts are a subset of the multi-approval group, not every one-approval route."
   ],
   "sensitivity": [
     {
       "sample": "All selected national pathways",
-      "n": 89,
+      "n": 94,
       "complete_report_gate": 9,
       "nonpublic_report_or_public_domain_exclusion": 2,
       "second_approval_selected_route": 10,
@@ -2694,7 +2843,7 @@
     },
     {
       "sample": "Excluding identified European shared-system family",
-      "n": 62,
+      "n": 67,
       "complete_report_gate": 9,
       "nonpublic_report_or_public_domain_exclusion": 2,
       "second_approval_selected_route": 10,
@@ -2703,8 +2852,8 @@
     },
     {
       "sample": "Official English source",
-      "n": 57,
-      "complete_report_gate": 8,
+      "n": 56,
+      "complete_report_gate": 7,
       "nonpublic_report_or_public_domain_exclusion": 1,
       "second_approval_selected_route": 7,
       "one_approval_alternative_described": 5,
@@ -2712,8 +2861,8 @@
     },
     {
       "sample": "Original non-English sources",
-      "n": 32,
-      "complete_report_gate": 1,
+      "n": 38,
+      "complete_report_gate": 2,
       "nonpublic_report_or_public_domain_exclusion": 1,
       "second_approval_selected_route": 3,
       "one_approval_alternative_described": 1,
@@ -2736,6 +2885,10 @@
     {
       "headline": "Shared authorization and national reliance are different institutions.",
       "explanation": "European Commission authorization can already provide a shared EU/EEA authorization basis. A national mutual-recognition application has different reference requirements. Counting each member as a separate foreign-approval reform would overstate the number of independent policy changes."
+    },
+    {
+      "headline": "An approval’s age can help in one country and exclude a shortcut in another.",
+      "explanation": "Liberia’s guideline normally requires two years since the first international registration of a new substance. The dated Taiwan 2019 shortcuts instead specify filing within one year after the second or third reference approval. These are different timing incentives. FDA and European approval dates alone do not establish the first global registration date."
     }
   ],
   "uncertainty": {
@@ -2754,6 +2907,26 @@
       "file": null,
       "sha256": "2f79060fe73c8d1c2d9ee95d6adeecca99e62bc7095d3b545d987eb7a5b7997b",
       "records": 30
+    },
+    {
+      "file": null,
+      "sha256": "27a88eba5402e8da1293e7226f65f75484930d1b7fb09954c2182ce78d9f6f19",
+      "records": 15
+    },
+    {
+      "file": null,
+      "sha256": "ff5f88bd65128484fbe424d64d222037de3f8e4d6db6d111c0fa7dc19a32d9b6",
+      "records": 8
+    },
+    {
+      "file": null,
+      "sha256": "6b4ad55a66adee5b904e7ed1b2c2773ff30d1c41531a9e2a01b94f24aa7640ac",
+      "records": 19
+    },
+    {
+      "file": null,
+      "sha256": "a2caf617fe9348b147f8f72fb69da443d6c2a62079843d1d9cd3812ab89db5c0",
+      "records": 13
     }
   ],
   "reproduction": "Run review_other_evidence.py then build_analysis.py after both contextual-review partitions and adjudication are present."

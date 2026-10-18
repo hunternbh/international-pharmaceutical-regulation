@@ -165,7 +165,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "GGY",
     "country": "Guernsey",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "recognition_enabling_law",
     "fixed_case_scope_status": "implementing_rules_unresolved",
     "finding": "Recognition depends on implementing regulations and allows further information requests. The selected law alone does not establish which FDA/EC approvals qualify or how much scientific review remains.",
@@ -226,5 +226,7 @@
     ],
     "source_scope": "Human-medicine initial marketing authorisation",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

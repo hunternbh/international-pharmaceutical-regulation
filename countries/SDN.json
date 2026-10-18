@@ -136,7 +136,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "SDN",
     "country": "Sudan",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "registration_documentation",
     "fixed_case_scope_status": "registration_requirements_not_reliance",
     "finding": "The registration instructions require plant registration, origin marketing or justification, application/fees, English documents, authenticated CPP and foreign authorizations. These are documented local steps, with no reduced-review pathway established by the selected passage.",
@@ -182,5 +182,7 @@
     ],
     "source_scope": "Foreign-marketing and certification requirements; no review reduction demonstrated",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

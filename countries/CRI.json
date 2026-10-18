@@ -222,94 +222,648 @@
   "standard_drug_legal_comparison": {
     "iso3": "CRI",
     "country": "Costa Rica",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
-    "evidence_type": "particular_evidence",
-    "fixed_case_scope_status": "particular_evidence_only",
-    "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine.",
-    "primary_comparison": false,
-    "cases": {
-      "A": {
-        "status": "unresolved",
-        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+    "primary_comparison": true,
+    "sample": "selected_national_route_comparisons",
+    "pathway": "National registration; recognition decree referenced",
+    "source_url": "https://www.ministeriodesalud.go.cr/index.php/component/content/article/160-registro-de-medicamentos?Itemid=101&catid=34",
+    "document_id": "EXP-B-CRI-14",
+    "genre": "Official guidance",
+    "language": "es",
+    "scope": "Initial human medicine marketing authorization",
+    "version_note": "Page carries 6 March 2020 header and November 2023 reference-list update. This is a regulator service summary, not full Decree39433-S.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "Innovative chemically synthesized products expressly among registration categories.",
+        "evidence_ids": [
+          "EXP-B-CRI-14-Q01"
+        ]
       },
-      "B": {
-        "status": "unresolved",
-        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Reference authorities list exists, but names are not in this preserved page.",
+        "evidence_ids": [
+          "EXP-B-CRI-14-Q02"
+        ]
       },
-      "C": {
-        "status": "unresolved",
-        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
       },
-      "D": {
-        "status": "unresolved",
-        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
       },
-      "E": {
-        "status": "unresolved",
-        "finding": "The rule concerns accepting clinical/nonclinical study reports as evidence within registration. It does not establish a whole-approval shortcut for the FDA/EC-approved medicine."
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Recognition of evaluation/approval of final clinical and nonclinical study reports is not a requirement to submit complete regulator assessment reports.",
+        "evidence_ids": [
+          "EXP-B-CRI-14-Q02"
+        ]
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "Page does not supply assessment workflow; recognition of clinical/nonclinical final-study evaluation mentioned via decree title.",
+        "evidence_ids": [
+          "EXP-B-CRI-14-Q02"
+        ]
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
       }
     },
+    "cases": {
+      "A": {
+        "eligibility": "discretionary/conditional",
+        "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-CRI-14-Q01",
+          "EXP-B-CRI-14-Q02"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "B": {
+        "eligibility": "discretionary/conditional",
+        "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-CRI-14-Q01",
+          "EXP-B-CRI-14-Q02"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "C": {
+        "eligibility": "discretionary/conditional",
+        "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-CRI-14-Q01",
+          "EXP-B-CRI-14-Q02"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "D": {
+        "eligibility": "discretionary/conditional",
+        "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-CRI-14-Q01",
+          "EXP-B-CRI-14-Q02"
+        ],
+        "status": "discretionary/conditional"
+      },
+      "E": {
+        "eligibility": "discretionary/conditional",
+        "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-CRI-14-Q01",
+          "EXP-B-CRI-14-Q02"
+        ],
+        "status": "discretionary/conditional"
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not stated",
+        "finding": "No unconditional report-access effect established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "Separate applicant report-sharing permission not resolved; registration representation is distinct."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority report-sharing permission not resolved."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not stated",
+        "finding": "No second-approval advantage established for this route."
+      }
+    },
+    "shared_authorization_effect": null,
     "evidence": [
       {
-        "clause_id": "CRI-Q01",
-        "source_url": "https://www.ministeriodesalud.go.cr/index.php/biblioteca-de-archivos-left/documentos-ministerio-de-salud/ministerio-de-salud/tramites-1/empresariales/registro-de-medicamentos/7176-ms-drpis-9043-2023-listado-de-autoridades-reguladoras-de-referencia-a-las-que-se-les-aplicara-el-reconocimiento-de-la-evaluacion-y-aprobacion-de-informes-finales-de-estudios-clinicos-y-no-clinicos-del-decreto-ejecutivo-no-39433-s-publicada-en-el-alcance-n/file",
-        "raw_sha256": "fcf2e18abd38e1950f1759d70b3159b057c2f1bfdcb6a4ac8661305cac103021",
-        "text_sha256": "e0bfde05bc918aa9fabbeda4f2b446892d22ce095445982062bd5450687a9420",
-        "start_offset": 809,
-        "end_offset": 1302,
-        "verbatim_extracted_text": "Que el Decreto N° 39433-S del 9 de noviembre de 2015\nReconocimiento de la\nEvaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por\nparte de las Autoridades Reguladoras de referencia como evidencia para el Registro\nestablece las condiciones para que el Ministerio de\nSalud pueda considerar reconocer informes concluyentes de estudios clínicos y\npreclínicos de seguridad y eficacia, bioequivalencia o biosimilitud, como parte del\nregistro sanitario de los medicamentos.",
-        "pdf_page": 1,
+        "passage_id": "EXP-B-CRI-14-Q01",
+        "source_document_id": "F250_5cff4c04b21c04927a6b",
+        "source_url": "https://www.ministeriodesalud.go.cr/index.php/component/content/article/160-registro-de-medicamentos?Itemid=101&catid=34",
+        "raw_sha256": "7ee24bf20d954eeee7be5b6b78b3be5cfc767bc45db0cba63ccfc1c0d90bab77",
+        "text_sha256": "af5e0aa346f1d89ed1069567ad6d5f027362726dff320e08e0908e0eb9e860f7",
+        "exact_text": "Registro de Medicamentos\nEn este espacio encontrará la información concerniente al registro sanitario\nde medicamentos, el cual se realiza de manera virtual y tiene una vigencia de 5 años.\nRequisitos\nLos requisitos para registrar medicamentos varían según la naturaleza de los mismos:\nMulti origen.\nProductos Innovadores de síntesis químicas.\nMedicamento homeopático.\nMedicamento biológico y biotecnológico.\nMedicamentos que requieren demostrar bioequivalencia.\nRadiofármacos.\n¿Donde de Presenta?\nEl trámite se realiza en la plataforma\nwww.registrelo.go.cr.\n(Excepto Radiofármacos)\n",
+        "start": 14,
+        "end": 595,
+        "exact_offset_validated": true,
+        "section_article": "Registration/requisites",
+        "pdf_page": null,
         "language": "es",
-        "language_status": "Original Spanish signed resolution",
-        "evidence_tier": "limited_scope_or_framework",
-        "version_alignment": "Version on the preserved source; not backdated to older event rows",
-        "translation_review": {
-          "id": "CRI-Q01",
-          "source_language": "es",
-          "source_text": "Que el Decreto N° 39433-S del 9 de noviembre de 2015\nReconocimiento de la\nEvaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por\nparte de las Autoridades Reguladoras de referencia como evidencia para el Registro\nestablece las condiciones para que el Ministerio de\nSalud pueda considerar reconocer informes concluyentes de estudios clínicos y\npreclínicos de seguridad y eficacia, bioequivalencia o biosimilitud, como parte del\nregistro sanitario de los medicamentos.",
-          "document_id": "963cf12efcb90e4f1f2a",
-          "target_language": "en",
-          "translation_status": "Assistant checked and corrected research translation; not official/certified",
-          "model_provenance": {
-            "language": "es",
-            "model_version": "1.9",
-            "model_url": "https://argos-net.com/v1/translate-es_en-1_9.argosmodel",
-            "model_sha256": "c54df2b62fceaf54a3ce5d97db6bf56efd7940063329f6778f4212d2acb370d4",
-            "model_bytes": 285208831,
-            "model_root": null,
-            "model_metadata": {
-              "package_version": "1.9",
-              "argos_version": "1.9.0",
-              "from_code": "es",
-              "from_name": "Spanish",
-              "to_code": "en",
-              "to_name": "English"
-            },
-            "engine": "CTranslate2 4.8.3; SentencePiece 0.2.2",
-            "decoding": "CPU int8; beam=4; length_penalty=.2; replace_unknowns; deterministic clause/sentence segmentation; direct Argos model inference",
-            "index_url": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json"
-          },
-          "source_text_sha256": "0375c86af2ac93c13d5e45d40241399fda01722da667d060683f8c091b2c486a",
-          "translated_utc": "2026-10-18T00:48:10.593039+00:00",
-          "source_characters": 493,
-          "segments": 1,
-          "raw_machine_translation": "That Decree N ° 39433-S of 9 November 2015 recognizes the Evaluation and Approval of Final Reports of Clinical and Non-Clinical Studies by the Regulatory Authorities referred to as evidence for the Register lays down the conditions for the Ministry of Health to consider recognizing conclusive reports of clinical and preclinical studies of safety and efficacy, bioequivalency or bisimilarity as part of the health register of medicines.",
-          "checked_translation": "Decree 39433-S of 9 November 2015, Recognition of the Evaluation and Approval of Final Reports of Clinical and Non-Clinical Studies by Reference Regulatory Authorities as Evidence for Registration, establishes the conditions under which the Ministry of Health will consider recognising conclusive clinical and preclinical study reports on safety and efficacy, bioequivalence or biosimilarity as part of the sanitary registration of medicines.",
-          "check_note": "Retained 'consider recognising' and evidence scope; not automatic foreign marketing authorisation.",
-          "approved_for_display": true,
-          "approved_for_text_sensitivity": true,
-          "check_scope": [
-            "permission/modals",
-            "negation and conjunctions",
-            "numerical conditions and units",
-            "actors, scope and retained conditions"
-          ],
-          "checked_by": "Codex assistant against preserved original; no independent bilingual/legal second reviewer",
-          "checked_utc": "2026-10-18T01:00:51.128614+00:00"
-        }
+        "visually_checked": false,
+        "quote_type": "preserved extracted text exact substring",
+        "clause_id": "EXP-B-CRI-14-Q01",
+        "verbatim_extracted_text": "Registro de Medicamentos\nEn este espacio encontrará la información concerniente al registro sanitario\nde medicamentos, el cual se realiza de manera virtual y tiene una vigencia de 5 años.\nRequisitos\nLos requisitos para registrar medicamentos varían según la naturaleza de los mismos:\nMulti origen.\nProductos Innovadores de síntesis químicas.\nMedicamento homeopático.\nMedicamento biológico y biotecnológico.\nMedicamentos que requieren demostrar bioequivalencia.\nRadiofármacos.\n¿Donde de Presenta?\nEl trámite se realiza en la plataforma\nwww.registrelo.go.cr.\n(Excepto Radiofármacos)\n",
+        "start_offset": 14,
+        "end_offset": 595
+      },
+      {
+        "passage_id": "EXP-B-CRI-14-Q02",
+        "source_document_id": "F250_5cff4c04b21c04927a6b",
+        "source_url": "https://www.ministeriodesalud.go.cr/index.php/component/content/article/160-registro-de-medicamentos?Itemid=101&catid=34",
+        "raw_sha256": "7ee24bf20d954eeee7be5b6b78b3be5cfc767bc45db0cba63ccfc1c0d90bab77",
+        "text_sha256": "af5e0aa346f1d89ed1069567ad6d5f027362726dff320e08e0908e0eb9e860f7",
+        "exact_text": "Decreto Ejecutivo No. 39433-S. Reconocimiento de la Evaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por parte de las Autoridades Reguladoras de referencia como evidencia para el Registro Sanitario de Medicamentos.\nMS-DRPIS-9043-2023 Listado de Autoridades Reguladoras de Referencia a las que se les aplicará el Reconocimiento de la evaluación y aprobación de informes finales de estudios clínicos y no clínicos del Decreto Ejecutivo No. 39433-S, publicada en el Alcance N°235 a La Gaceta N°221 del 28 de noviembre de 2023.\n",
+        "start": 1629,
+        "end": 2183,
+        "exact_offset_validated": true,
+        "section_article": "Specific legislation/reference-list links",
+        "pdf_page": null,
+        "language": "es",
+        "visually_checked": false,
+        "quote_type": "preserved extracted text exact substring",
+        "clause_id": "EXP-B-CRI-14-Q02",
+        "verbatim_extracted_text": "Decreto Ejecutivo No. 39433-S. Reconocimiento de la Evaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por parte de las Autoridades Reguladoras de referencia como evidencia para el Registro Sanitario de Medicamentos.\nMS-DRPIS-9043-2023 Listado de Autoridades Reguladoras de Referencia a las que se les aplicará el Reconocimiento de la evaluación y aprobación de informes finales de estudios clínicos y no clínicos del Decreto Ejecutivo No. 39433-S, publicada en el Alcance N°235 a La Gaceta N°221 del 28 de noviembre de 2023.\n",
+        "start_offset": 1629,
+        "end_offset": 2183
       }
     ],
-    "source_scope": "Clinical/nonclinical evidence; not automatic full authorisation",
-    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+    "other_reviewed_routes": [],
+    "review_details": {
+      "record_id": "EXP-B-CRI-14",
+      "iso3": "CRI",
+      "country": "Costa Rica",
+      "selected_document_id": "EXP-B-CRI-14",
+      "source_id": "F250_5cff4c04b21c04927a6b",
+      "pathway": "National registration; recognition decree referenced",
+      "source_url": "https://www.ministeriodesalud.go.cr/index.php/component/content/article/160-registro-de-medicamentos?Itemid=101&catid=34",
+      "document_title": "Official medicine registration service page",
+      "source_type": "official administrative service guidance",
+      "scope": "Initial human medicine marketing authorization",
+      "language": "es",
+      "translation_provenance": "Original language controls; contextual research interpretation; not an official English translation",
+      "raw_sha256": "7ee24bf20d954eeee7be5b6b78b3be5cfc767bc45db0cba63ccfc1c0d90bab77",
+      "raw_hash_validated": true,
+      "text_sha256": "af5e0aa346f1d89ed1069567ad6d5f027362726dff320e08e0908e0eb9e860f7",
+      "version_dates": {},
+      "version_scope_note": "Page carries 6 March 2020 header and November 2023 reference-list update. This is a regulator service summary, not full Decree39433-S.",
+      "contextual_review_status": "targeted contextual review; not a claim to read every technical annex",
+      "reviewed_ranges": [
+        {
+          "start": 14,
+          "end": 595,
+          "section_article": "Registration/requisites"
+        },
+        {
+          "start": 1629,
+          "end": 2183,
+          "section_article": "Specific legislation/reference-list links"
+        }
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "Innovative chemically synthesized products expressly among registration categories.",
+          "evidence_ids": [
+            "EXP-B-CRI-14-Q01"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Reference authorities list exists, but names are not in this preserved page.",
+          "evidence_ids": [
+            "EXP-B-CRI-14-Q02"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Recognition of evaluation/approval of final clinical and nonclinical study reports is not a requirement to submit complete regulator assessment reports.",
+          "evidence_ids": [
+            "EXP-B-CRI-14-Q02"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Page does not supply assessment workflow; recognition of clinical/nonclinical final-study evaluation mentioned via decree title.",
+          "evidence_ids": [
+            "EXP-B-CRI-14-Q02"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-CRI-14-Q01",
+            "EXP-B-CRI-14-Q02"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-CRI-14-Q01",
+            "EXP-B-CRI-14-Q02"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-CRI-14-Q01",
+            "EXP-B-CRI-14-Q02"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-CRI-14-Q01",
+            "EXP-B-CRI-14-Q02"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "National registration for innovative synthetic products is documented. Eligibility under Decree39433-S and 2023 authority list requires those exact instruments; all five contrasts remain unresolved.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-CRI-14-Q01",
+            "EXP-B-CRI-14-Q02"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not stated",
+          "finding": "No unconditional report-access effect established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "Separate applicant report-sharing permission not resolved; registration representation is distinct."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority report-sharing permission not resolved."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not stated",
+          "finding": "No second-approval advantage established for this route."
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": null,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {
+        "complete_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "nonpublic_report_or_public_domain_exclusion": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "second_approval_selected_route": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "one_approval_alternative_described": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "ambiguous_additional_full_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "EXP-B-CRI-14-Q01",
+          "source_document_id": "F250_5cff4c04b21c04927a6b",
+          "source_url": "https://www.ministeriodesalud.go.cr/index.php/component/content/article/160-registro-de-medicamentos?Itemid=101&catid=34",
+          "raw_sha256": "7ee24bf20d954eeee7be5b6b78b3be5cfc767bc45db0cba63ccfc1c0d90bab77",
+          "text_sha256": "af5e0aa346f1d89ed1069567ad6d5f027362726dff320e08e0908e0eb9e860f7",
+          "exact_text": "Registro de Medicamentos\nEn este espacio encontrará la información concerniente al registro sanitario\nde medicamentos, el cual se realiza de manera virtual y tiene una vigencia de 5 años.\nRequisitos\nLos requisitos para registrar medicamentos varían según la naturaleza de los mismos:\nMulti origen.\nProductos Innovadores de síntesis químicas.\nMedicamento homeopático.\nMedicamento biológico y biotecnológico.\nMedicamentos que requieren demostrar bioequivalencia.\nRadiofármacos.\n¿Donde de Presenta?\nEl trámite se realiza en la plataforma\nwww.registrelo.go.cr.\n(Excepto Radiofármacos)\n",
+          "start": 14,
+          "end": 595,
+          "exact_offset_validated": true,
+          "section_article": "Registration/requisites",
+          "pdf_page": null,
+          "language": "es",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-CRI-14-Q01",
+          "verbatim_extracted_text": "Registro de Medicamentos\nEn este espacio encontrará la información concerniente al registro sanitario\nde medicamentos, el cual se realiza de manera virtual y tiene una vigencia de 5 años.\nRequisitos\nLos requisitos para registrar medicamentos varían según la naturaleza de los mismos:\nMulti origen.\nProductos Innovadores de síntesis químicas.\nMedicamento homeopático.\nMedicamento biológico y biotecnológico.\nMedicamentos que requieren demostrar bioequivalencia.\nRadiofármacos.\n¿Donde de Presenta?\nEl trámite se realiza en la plataforma\nwww.registrelo.go.cr.\n(Excepto Radiofármacos)\n",
+          "start_offset": 14,
+          "end_offset": 595
+        },
+        {
+          "passage_id": "EXP-B-CRI-14-Q02",
+          "source_document_id": "F250_5cff4c04b21c04927a6b",
+          "source_url": "https://www.ministeriodesalud.go.cr/index.php/component/content/article/160-registro-de-medicamentos?Itemid=101&catid=34",
+          "raw_sha256": "7ee24bf20d954eeee7be5b6b78b3be5cfc767bc45db0cba63ccfc1c0d90bab77",
+          "text_sha256": "af5e0aa346f1d89ed1069567ad6d5f027362726dff320e08e0908e0eb9e860f7",
+          "exact_text": "Decreto Ejecutivo No. 39433-S. Reconocimiento de la Evaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por parte de las Autoridades Reguladoras de referencia como evidencia para el Registro Sanitario de Medicamentos.\nMS-DRPIS-9043-2023 Listado de Autoridades Reguladoras de Referencia a las que se les aplicará el Reconocimiento de la evaluación y aprobación de informes finales de estudios clínicos y no clínicos del Decreto Ejecutivo No. 39433-S, publicada en el Alcance N°235 a La Gaceta N°221 del 28 de noviembre de 2023.\n",
+          "start": 1629,
+          "end": 2183,
+          "exact_offset_validated": true,
+          "section_article": "Specific legislation/reference-list links",
+          "pdf_page": null,
+          "language": "es",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-CRI-14-Q02",
+          "verbatim_extracted_text": "Decreto Ejecutivo No. 39433-S. Reconocimiento de la Evaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por parte de las Autoridades Reguladoras de referencia como evidencia para el Registro Sanitario de Medicamentos.\nMS-DRPIS-9043-2023 Listado de Autoridades Reguladoras de Referencia a las que se les aplicará el Reconocimiento de la evaluación y aprobación de informes finales de estudios clínicos y no clínicos del Decreto Ejecutivo No. 39433-S, publicada en el Alcance N°235 a La Gaceta N°221 del 28 de noviembre de 2023.\n",
+          "start_offset": 1629,
+          "end_offset": 2183
+        }
+      ],
+      "primary_comparison": true,
+      "selection_recommendation": "preferred_primary",
+      "selection_reason": "Page carries 6 March 2020 header and November 2023 reference-list update. This is a regulator service summary, not full Decree39433-S.",
+      "reviewer": "Assistant contextual",
+      "missing_sources": [
+        "Full Decree Ejecutivo39433-S (including amendments)",
+        "MS-DRPIS-9043-2023 authority list, Alcance235/LaGaceta221,28November2023",
+        "Applicable RTCA11.03.59 registration requirements"
+      ],
+      "expansion_selection_reason": "Official innovative-medicine ordinary-registration requirements, not inferred reliance.",
+      "selected_expansion_record": "b:9"
+    }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": [
+    {
+      "passage_id": "EXP-B-CRI-14-Q01",
+      "source_document_id": "F250_5cff4c04b21c04927a6b",
+      "source_url": "https://www.ministeriodesalud.go.cr/index.php/component/content/article/160-registro-de-medicamentos?Itemid=101&catid=34",
+      "raw_sha256": "7ee24bf20d954eeee7be5b6b78b3be5cfc767bc45db0cba63ccfc1c0d90bab77",
+      "text_sha256": "af5e0aa346f1d89ed1069567ad6d5f027362726dff320e08e0908e0eb9e860f7",
+      "exact_text": "Registro de Medicamentos\nEn este espacio encontrará la información concerniente al registro sanitario\nde medicamentos, el cual se realiza de manera virtual y tiene una vigencia de 5 años.\nRequisitos\nLos requisitos para registrar medicamentos varían según la naturaleza de los mismos:\nMulti origen.\nProductos Innovadores de síntesis químicas.\nMedicamento homeopático.\nMedicamento biológico y biotecnológico.\nMedicamentos que requieren demostrar bioequivalencia.\nRadiofármacos.\n¿Donde de Presenta?\nEl trámite se realiza en la plataforma\nwww.registrelo.go.cr.\n(Excepto Radiofármacos)\n",
+      "start": 14,
+      "end": 595,
+      "exact_offset_validated": true,
+      "section_article": "Registration/requisites",
+      "pdf_page": null,
+      "language": "es",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-CRI-14-Q01",
+      "verbatim_extracted_text": "Registro de Medicamentos\nEn este espacio encontrará la información concerniente al registro sanitario\nde medicamentos, el cual se realiza de manera virtual y tiene una vigencia de 5 años.\nRequisitos\nLos requisitos para registrar medicamentos varían según la naturaleza de los mismos:\nMulti origen.\nProductos Innovadores de síntesis químicas.\nMedicamento homeopático.\nMedicamento biológico y biotecnológico.\nMedicamentos que requieren demostrar bioequivalencia.\nRadiofármacos.\n¿Donde de Presenta?\nEl trámite se realiza en la plataforma\nwww.registrelo.go.cr.\n(Excepto Radiofármacos)\n",
+      "start_offset": 14,
+      "end_offset": 595,
+      "iso3": "CRI",
+      "country": "Costa Rica",
+      "document_id": "EXP-B-CRI-14",
+      "display_text": "Registro de Medicamentos\nEn este espacio encontrará la información concerniente al registro sanitario\nde medicamentos, el cual se realiza de manera virtual y tiene una vigencia de 5 años.\nRequisitos\nLos requisitos para registrar medicamentos varían según la naturaleza de los mismos:\nMulti origen.\nProductos Innovadores de síntesis químicas.\nMedicamento homeopático.\nMedicamento biológico y biotecnológico.\nMedicamentos que requieren demostrar bioequivalencia.\nRadiofármacos.\n¿Donde de Presenta?\nEl trámite se realiza en la plataforma\nwww.registrelo.go.cr.\n(Excepto Radiofármacos)\n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "National registration; recognition decree referenced Page carries 6 March 2020 header and November 2023 reference-list update. This is a regulator service summary, not full Decree39433-S. ",
+      "version_alignment": "Page carries 6 March 2020 header and November 2023 reference-list update. This is a regulator service summary, not full Decree39433-S."
+    },
+    {
+      "passage_id": "EXP-B-CRI-14-Q02",
+      "source_document_id": "F250_5cff4c04b21c04927a6b",
+      "source_url": "https://www.ministeriodesalud.go.cr/index.php/component/content/article/160-registro-de-medicamentos?Itemid=101&catid=34",
+      "raw_sha256": "7ee24bf20d954eeee7be5b6b78b3be5cfc767bc45db0cba63ccfc1c0d90bab77",
+      "text_sha256": "af5e0aa346f1d89ed1069567ad6d5f027362726dff320e08e0908e0eb9e860f7",
+      "exact_text": "Decreto Ejecutivo No. 39433-S. Reconocimiento de la Evaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por parte de las Autoridades Reguladoras de referencia como evidencia para el Registro Sanitario de Medicamentos.\nMS-DRPIS-9043-2023 Listado de Autoridades Reguladoras de Referencia a las que se les aplicará el Reconocimiento de la evaluación y aprobación de informes finales de estudios clínicos y no clínicos del Decreto Ejecutivo No. 39433-S, publicada en el Alcance N°235 a La Gaceta N°221 del 28 de noviembre de 2023.\n",
+      "start": 1629,
+      "end": 2183,
+      "exact_offset_validated": true,
+      "section_article": "Specific legislation/reference-list links",
+      "pdf_page": null,
+      "language": "es",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-CRI-14-Q02",
+      "verbatim_extracted_text": "Decreto Ejecutivo No. 39433-S. Reconocimiento de la Evaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por parte de las Autoridades Reguladoras de referencia como evidencia para el Registro Sanitario de Medicamentos.\nMS-DRPIS-9043-2023 Listado de Autoridades Reguladoras de Referencia a las que se les aplicará el Reconocimiento de la evaluación y aprobación de informes finales de estudios clínicos y no clínicos del Decreto Ejecutivo No. 39433-S, publicada en el Alcance N°235 a La Gaceta N°221 del 28 de noviembre de 2023.\n",
+      "start_offset": 1629,
+      "end_offset": 2183,
+      "iso3": "CRI",
+      "country": "Costa Rica",
+      "document_id": "EXP-B-CRI-14",
+      "display_text": "Decreto Ejecutivo No. 39433-S. Reconocimiento de la Evaluación y Aprobación de informes finales de Estudios Clínicos y no Clínicos por parte de las Autoridades Reguladoras de referencia como evidencia para el Registro Sanitario de Medicamentos.\nMS-DRPIS-9043-2023 Listado de Autoridades Reguladoras de Referencia a las que se les aplicará el Reconocimiento de la evaluación y aprobación de informes finales de estudios clínicos y no clínicos del Decreto Ejecutivo No. 39433-S, publicada en el Alcance N°235 a La Gaceta N°221 del 28 de noviembre de 2023.\n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "National registration; recognition decree referenced Page carries 6 March 2020 header and November 2023 reference-list update. This is a regulator service summary, not full Decree39433-S. ",
+      "version_alignment": "Page carries 6 March 2020 header and November 2023 reference-list update. This is a regulator service summary, not full Decree39433-S."
+    }
+  ]
 }

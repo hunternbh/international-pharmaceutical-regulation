@@ -200,7 +200,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "LAO",
     "country": "Lao People's Democratic Republic",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "new_drug_and_serious_disease_rule",
     "fixed_case_scope_status": "narrow_conditions_unresolved",
     "finding": "The English rendering defines some foreign-marketed products under five years as new drugs. Article10 refers to first-import medicines OR new drugs for serious diseases, names foreign approvals and allows further evidence. Article9(f) separately lists new drugs among applications not considered, while Article11 asks for new-drug evidence. This source tension requires original-language/implementation clarification; no general five-year ban or clean fast-track eligibility is asserted.",
@@ -288,5 +288,7 @@
     ],
     "source_scope": "Supplemental evidence, scope/version retained in source records",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

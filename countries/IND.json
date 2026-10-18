@@ -187,7 +187,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "IND",
     "country": "India",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "clinical_trial_waiver",
     "fixed_case_scope_status": "conditional_evidence_waiver",
     "finding": "A local-trial waiver has separate named-country, safety, population-applicability and PhaseIV conditions. FDA/EC approval and a full CTD do not by themselves resolve those conditions or waive domestic marketing approval.",
@@ -248,5 +248,7 @@
     ],
     "source_scope": "Local clinical-trial waiver in new-drug marketing application; not automatic recognition",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

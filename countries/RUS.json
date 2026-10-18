@@ -124,7 +124,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "RUS",
     "country": "Russian Federation",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "shared_eaeu_route",
     "fixed_case_scope_status": "outside_selected_reference_system",
     "finding": "The authority-initiated shared EAEU procedure requires an EAEU reference-state registration, MA-holder consent, dossier access and further conditions. FDA/EC approvals alone are not that reference-state registration; additional reports alone cannot overcome the regional gate.",
@@ -170,5 +170,7 @@
     ],
     "source_scope": "Supplemental evidence, scope/version retained in source records",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

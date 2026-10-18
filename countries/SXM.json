@@ -176,7 +176,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "SXM",
     "country": "Sint Maarten (Dutch part)",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "import_and_dispensing",
     "fixed_case_scope_status": "outside_full_authorisation_scope",
     "finding": "The source maps foreign dispensing categories after special import permission. That function differs from granting initial safety/efficacy authorization.",
@@ -265,5 +265,7 @@
     ],
     "source_scope": "Prescription/OTC classification of authorised unregistered imports; not initial marketing approval",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

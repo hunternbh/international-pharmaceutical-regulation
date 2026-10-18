@@ -200,7 +200,7 @@
     "iso3": "NZL",
     "country": "New Zealand",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "Verification with statutory requirements and a decision clock",
     "source_url": "https://www.health.govt.nz/system/files/2026-05/medicines-consent-verification-rules-2026.pdf",
     "document_id": "0eb724f25908fa5aab08",
@@ -516,6 +516,314 @@
         "end": 8180,
         "exact_offset_validated": true,
         "interpretation_language": "English assistant interpretation; original authoritative"
+      }
+    ],
+    "other_reviewed_routes": [
+      {
+        "record_key": "c:10",
+        "selected_for_primary": false,
+        "pathway": "Ordinary new medicine application: administrative and decision process",
+        "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+        "version_note": "GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline.",
+        "version_scope_note": null,
+        "scope": "Initial human medicinal product authorization",
+        "components": {
+          "new_active_substance": {
+            "state": "explicit requirement",
+            "finding": "New medicine applications under Medicines Act ss20–23.",
+            "evidence_ids": [
+              "C65_032"
+            ]
+          },
+          "named_reference_agencies": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "prior_approval_count": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "standalone_review": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "approval_age": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "foreign_marketing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "same_product_dossier_site": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "report_completeness": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "nonpublic_reports": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "accepted_redactions": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "public_report_sufficiency": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "applicant_consent": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "reference_authority_permission": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "regulator_to_regulator_sharing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "local_clinical_evidence": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "quality_gmp": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "scientific_assessment_retained": {
+            "state": "explicit requirement",
+            "finding": "Medsafe assesses safety, quality, efficacy and benefit–risk; Minister delegate decision and Gazette notification.",
+            "evidence_ids": [
+              "C65_034"
+            ]
+          },
+          "local_representative": {
+            "state": "explicit requirement",
+            "finding": "New Zealand resident sponsor/manufacturer/importer/proprietor required.",
+            "evidence_ids": [
+              "C65_032"
+            ]
+          },
+          "filing_fee": {
+            "state": "explicit requirement",
+            "finding": "Regulation61 fees with potential partial waivers; overseas abbreviated fee waiver is not authorization itself.",
+            "evidence_ids": [
+              "C65_035"
+            ]
+          },
+          "translation_legalization": {
+            "state": "explicit requirement",
+            "finding": "Searchable electronic CTD; scanned documents OCR verified; foreign-language originals with searchable translations exception.",
+            "evidence_ids": [
+              "C65_033"
+            ]
+          },
+          "cpp": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "clock": {
+            "state": "explicit requirement",
+            "finding": "Published targets include sponsor responses; no stop-clock policy in reported total evaluation time.",
+            "evidence_ids": [
+              "C65_035"
+            ]
+          },
+          "domestic_discretion": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+            "evidence_ids": []
+          }
+        },
+        "cases": {
+          "A": {
+            "status": "full eligibility unresolved",
+            "finding": "Known approval and dossier facts do not establish every locally required condition.",
+            "evidence_ids": [
+              "C65_032",
+              "C65_034",
+              "C65_035",
+              "C65_033"
+            ]
+          },
+          "B": {
+            "status": "full eligibility unresolved",
+            "finding": "Known approval and dossier facts do not establish every locally required condition.",
+            "evidence_ids": [
+              "C65_032",
+              "C65_034",
+              "C65_035",
+              "C65_033"
+            ]
+          },
+          "C": {
+            "status": "full eligibility unresolved",
+            "finding": "Known approval and dossier facts do not establish every locally required condition.",
+            "evidence_ids": [
+              "C65_032",
+              "C65_034",
+              "C65_035",
+              "C65_033"
+            ]
+          },
+          "D": {
+            "status": "full eligibility unresolved",
+            "finding": "Known approval and dossier facts do not establish every locally required condition.",
+            "evidence_ids": [
+              "C65_032",
+              "C65_034",
+              "C65_035",
+              "C65_033"
+            ]
+          },
+          "E": {
+            "status": "full eligibility unresolved",
+            "finding": "Known approval and dossier facts do not establish every locally required condition.",
+            "evidence_ids": [
+              "C65_032",
+              "C65_034",
+              "C65_035",
+              "C65_033"
+            ]
+          }
+        },
+        "gates": {
+          "complete_report_gate": null,
+          "nonpublic_report_or_public_domain_exclusion": null,
+          "second_approval_selected_route": null,
+          "one_approval_alternative_described": null,
+          "ambiguous_additional_full_report_gate": null
+        },
+        "gate_notes": {},
+        "evidence": [
+          {
+            "evidence_id": "C65_032",
+            "document_index": 65,
+            "document_id": "F250_49ea5b8af6d58c870ef1",
+            "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+            "text_file": null,
+            "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+            "text_start": 5500,
+            "text_end": 9200,
+            "exact_original_text": "aland Medicines Act 1981 \nThe following sections of the Medicines Act 1981 (the Act) are most relevant to the approval \nof new and changed medicines and related products.  \nMedicines Act 1981: \n Section 3:  \nMeaning of medicine, new medicine, prescription medicine and  \nrestricted medicine \n Section 20: \nRestrictions on sale or supply of new medicines \n Section 21: \nApplications for Minister’s consent \n Section 22:  \nProcedure in respect of applications for Minister’s consent \n Section 23: \nMinister may give provisional consent \n Section 24: \nDistribution of changed medicines restricted \n Part 7:  \nRelated products \n \n \n\n\nPAGE 4\n \n \nGRTPNZ: Overview \n \nPage 4 of 13 \n \n1.3 \nOther information relevant to this guideline \n Application forms including guides to completing an application \n Fees payable for applications \n Regulatory timelines  \n Application search \n Application status \n Medsafe’s position statement on biosimilars \n Guidelines for the Regulation of Therapeutic Products in New Zealand  \n \n2. Who can submit an application? \nThe Medicines Act 1981 requires that a New Medicine Application (NMA), New Related \nProduct Application (NRPA), Changed Medicine Notification (CMN) or Changed \nRelated Product Notification (CRPN) is lodged by or in the name of a manufacturer, \nimporter or proprietor resident in New Zealand.  \nThe New Zealand resident manufacturer, importer or proprietor may be an individual or a \ncompany and is designated the “sponsor” (or “licence holder”) for the product concerned. \nThe sponsor is legally responsible for all aspects of the product in New Zealand, including \nany regulatory action relating to it. The sponsor is responsible for ensuring the accuracy of \nany information submitted to Medsafe in support of any NMA, NRPA, CMN or CRPN. \nAn overseas pharmaceutical company wishing to market a medicine or related product in \nNew Zealand needs to have a New Zealand-based subsidiary, or appoint a local individual \nor company as a New Zealand agent to act for them in New Zealand as a sponsor for the \nproduct concerned. The New Zealand subsidiary or agent is the sponsor responsible for the \nproduct, including any supply of the product under section 2 of the Medicines Act and any \nrecall of the product from the market. \nAn NMA or NRPA or CMN or CRPN is submitted to Medsafe in the name of the sponsor. An \noverseas branch of the company or a local or overseas regulatory affairs consultant may act \non the sponsor’s behalf and prepare the paperwork for an application and submit it to \nMedsafe. For administrative purposes, the identity of the “applicant” depends upon the \ncircumstances: \n Many applications and notifications are prepared, signed and forwarded to Medsafe \nby an employee of the sponsor (eg, a regulatory affairs manager or associate). In this \ncase the applicant is the sponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an independent regulatory affairs consultant who signs the documentation \nas if he or she was an employee of the sponsor. In this case the applicant is the \nsponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by a local or overseas consultant who signs the documentation, not as an \nemployee, but in his or her own right as a contracted agent of the sponsor. In this \ncase the consultant (not the sponsor) is the applicant. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an overseas branch of the company. An employee of the overseas \ncompany signs the documentation and forwards it to Medsafe. In this case the \noverseas branch of the company is the applicant whi",
+            "section": "§1.2–2 legal authority and resident sponsor",
+            "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": false,
+            "ocr_page": null,
+            "research_english_rendering": null,
+            "translation_status": "English original or no translation supplied",
+            "clause_id": "C65_032",
+            "verbatim_extracted_text": "aland Medicines Act 1981 \nThe following sections of the Medicines Act 1981 (the Act) are most relevant to the approval \nof new and changed medicines and related products.  \nMedicines Act 1981: \n Section 3:  \nMeaning of medicine, new medicine, prescription medicine and  \nrestricted medicine \n Section 20: \nRestrictions on sale or supply of new medicines \n Section 21: \nApplications for Minister’s consent \n Section 22:  \nProcedure in respect of applications for Minister’s consent \n Section 23: \nMinister may give provisional consent \n Section 24: \nDistribution of changed medicines restricted \n Part 7:  \nRelated products \n \n \n\n\nPAGE 4\n \n \nGRTPNZ: Overview \n \nPage 4 of 13 \n \n1.3 \nOther information relevant to this guideline \n Application forms including guides to completing an application \n Fees payable for applications \n Regulatory timelines  \n Application search \n Application status \n Medsafe’s position statement on biosimilars \n Guidelines for the Regulation of Therapeutic Products in New Zealand  \n \n2. Who can submit an application? \nThe Medicines Act 1981 requires that a New Medicine Application (NMA), New Related \nProduct Application (NRPA), Changed Medicine Notification (CMN) or Changed \nRelated Product Notification (CRPN) is lodged by or in the name of a manufacturer, \nimporter or proprietor resident in New Zealand.  \nThe New Zealand resident manufacturer, importer or proprietor may be an individual or a \ncompany and is designated the “sponsor” (or “licence holder”) for the product concerned. \nThe sponsor is legally responsible for all aspects of the product in New Zealand, including \nany regulatory action relating to it. The sponsor is responsible for ensuring the accuracy of \nany information submitted to Medsafe in support of any NMA, NRPA, CMN or CRPN. \nAn overseas pharmaceutical company wishing to market a medicine or related product in \nNew Zealand needs to have a New Zealand-based subsidiary, or appoint a local individual \nor company as a New Zealand agent to act for them in New Zealand as a sponsor for the \nproduct concerned. The New Zealand subsidiary or agent is the sponsor responsible for the \nproduct, including any supply of the product under section 2 of the Medicines Act and any \nrecall of the product from the market. \nAn NMA or NRPA or CMN or CRPN is submitted to Medsafe in the name of the sponsor. An \noverseas branch of the company or a local or overseas regulatory affairs consultant may act \non the sponsor’s behalf and prepare the paperwork for an application and submit it to \nMedsafe. For administrative purposes, the identity of the “applicant” depends upon the \ncircumstances: \n Many applications and notifications are prepared, signed and forwarded to Medsafe \nby an employee of the sponsor (eg, a regulatory affairs manager or associate). In this \ncase the applicant is the sponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an independent regulatory affairs consultant who signs the documentation \nas if he or she was an employee of the sponsor. In this case the applicant is the \nsponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by a local or overseas consultant who signs the documentation, not as an \nemployee, but in his or her own right as a contracted agent of the sponsor. In this \ncase the consultant (not the sponsor) is the applicant. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an overseas branch of the company. An employee of the overseas \ncompany signs the documentation and forwards it to Medsafe. In this case the \noverseas branch of the company is the applicant whi",
+            "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+            "start_offset": 5500,
+            "end_offset": 9200,
+            "section_article": "§1.2–2 legal authority and resident sponsor",
+            "pdf_page": null,
+            "language": "English"
+          },
+          {
+            "evidence_id": "C65_034",
+            "document_index": 65,
+            "document_id": "F250_49ea5b8af6d58c870ef1",
+            "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+            "text_file": null,
+            "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+            "text_start": 26000,
+            "text_end": 28700,
+            "exact_original_text": "f sponsors are unable to respond to an RFI for a CMN, the application will be referred under \nsection 24(5) of the Act. \nIf sponsors do not respond to RFIs, Medsafe will conclude the assessment by considering \nthe safety, quality and efficacy of the proposed medicine, based on the information already \nsubmitted, and make a recommendation on whether or not to approve the application. \n4.6 \nDecision and finalisation  \nIf Medsafe concludes that the application includes sufficient data to attest to the safety, \nquality and efficacy of the medicine and that the benefits outweigh the risk of harm to the \npatient, a recommendation that consent should be granted will be made to the Minister’s \ndelegate.  \nIn the case of NMAs, and CMNs referred under section 24(5), if the recommendation is \naccepted, then consent for the new medicine will be notified through publication of the \ndecision in the New Zealand Gazette.   \nIf Medsafe concludes that the application does not include sufficient data to attest to the \nsafety, quality and efficacy of the medicine and/or that the risks outweigh the benefits to the \npatient, the Minister’s delegate may refer the application to an advisory committee.   \nAdvice on specific issues relating to the application will be sought from the Medicine \nAssessment Advisory Committee (MAAC) which has expertise in the safety, quality and \nefficacy of medicines. Where an application is referred to the MAAC for advice, application \nprocessing timelines will be adjusted accordingly. The Committee typically meets three times \nper year and decisions are notified seven weeks following a meeting. \nSection 22 of the Medicines Act also permits the Minister’s delegate to refer any New \nMedicine Application to the MAAC for advice where he is not satisfied that the medicine \nshould be approved for use in New Zealand.   \nThe following types of medicines will typically be referred to the MAAC irrespective of \nwhether Medsafe has concluded that the application includes sufficient data to attest to the \n\n\nPAGE 12\n \n \nGRTPNZ: Overview \n \nPage 12 of 13 \n \nsafety, quality and efficacy of the medicine and that the benefits outweigh the risk of harm to \nthe patient: \n World-first new chemical entities (NCEs) and new biological entities (NBEs) \n new vaccines indicated for children \n novel technologies such as medicines derived from stem cells and nano-technology \n medicines that have been withdrawn or refused consent by a recognised regulator. \nConsent for changes to existing medicines and related products will be notified by letter from \nthe DGs delegate, unless the application has been referred under section 24(5) of the Act.  \nIn this latter case the applicat",
+            "section": "§4.6 local benefit–risk recommendation",
+            "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": false,
+            "ocr_page": null,
+            "research_english_rendering": null,
+            "translation_status": "English original or no translation supplied",
+            "clause_id": "C65_034",
+            "verbatim_extracted_text": "f sponsors are unable to respond to an RFI for a CMN, the application will be referred under \nsection 24(5) of the Act. \nIf sponsors do not respond to RFIs, Medsafe will conclude the assessment by considering \nthe safety, quality and efficacy of the proposed medicine, based on the information already \nsubmitted, and make a recommendation on whether or not to approve the application. \n4.6 \nDecision and finalisation  \nIf Medsafe concludes that the application includes sufficient data to attest to the safety, \nquality and efficacy of the medicine and that the benefits outweigh the risk of harm to the \npatient, a recommendation that consent should be granted will be made to the Minister’s \ndelegate.  \nIn the case of NMAs, and CMNs referred under section 24(5), if the recommendation is \naccepted, then consent for the new medicine will be notified through publication of the \ndecision in the New Zealand Gazette.   \nIf Medsafe concludes that the application does not include sufficient data to attest to the \nsafety, quality and efficacy of the medicine and/or that the risks outweigh the benefits to the \npatient, the Minister’s delegate may refer the application to an advisory committee.   \nAdvice on specific issues relating to the application will be sought from the Medicine \nAssessment Advisory Committee (MAAC) which has expertise in the safety, quality and \nefficacy of medicines. Where an application is referred to the MAAC for advice, application \nprocessing timelines will be adjusted accordingly. The Committee typically meets three times \nper year and decisions are notified seven weeks following a meeting. \nSection 22 of the Medicines Act also permits the Minister’s delegate to refer any New \nMedicine Application to the MAAC for advice where he is not satisfied that the medicine \nshould be approved for use in New Zealand.   \nThe following types of medicines will typically be referred to the MAAC irrespective of \nwhether Medsafe has concluded that the application includes sufficient data to attest to the \n\n\nPAGE 12\n \n \nGRTPNZ: Overview \n \nPage 12 of 13 \n \nsafety, quality and efficacy of the medicine and that the benefits outweigh the risk of harm to \nthe patient: \n World-first new chemical entities (NCEs) and new biological entities (NBEs) \n new vaccines indicated for children \n novel technologies such as medicines derived from stem cells and nano-technology \n medicines that have been withdrawn or refused consent by a recognised regulator. \nConsent for changes to existing medicines and related products will be notified by letter from \nthe DGs delegate, unless the application has been referred under section 24(5) of the Act.  \nIn this latter case the applicat",
+            "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+            "start_offset": 26000,
+            "end_offset": 28700,
+            "section_article": "§4.6 local benefit–risk recommendation",
+            "pdf_page": null,
+            "language": "English"
+          },
+          {
+            "evidence_id": "C65_035",
+            "document_index": 65,
+            "document_id": "F250_49ea5b8af6d58c870ef1",
+            "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+            "text_file": null,
+            "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+            "text_start": 30500,
+            "text_end": 33615,
+            "exact_original_text": "cant clinical need \nbut have been declined due to resource availability. \n \n5. Fees \nThe Ministry of Health is responsible for administering the Medicines Act 1981 and \nMedicines Regulations 1984. Its functions in relation to this legislation are funded from a \nmixture of Crown funding and third party revenue collected from fees set under the Act.  \nThe Act provides for the charging of fees in relation to applications for licences and for the \napproval of new and changed medicines and clinical trials. The schedule of fees payable is \ncontained in regulation 61 of the Medicines Regulations 1984.  \n\n\nPAGE 13\n \n \nGRTPNZ: Overview \n \nPage 13 of 13 \n \nRegulation 61A of the Regulations provides that the Director General of Health may waive or \nrefund, in whole or in part, a fee otherwise payable under regulation 61.  \nIn exercising this power the Director-General is obliged to have regard to the degree of \ncomplexity and time required to consider an application, and the interests of public health in \nNew Zealand.  \nA ‘standard’ waiver is applied in a number of instances to reduce the fee for approval of a \nnew or changed medicine in order to recognise the reduced time required to consider the \napplication. For example, a partial waiver is routinely applied to applications for approval of \nnew non-prescription medicines.  \nA partial fee waiver is also available for applications made under the abbreviated process for \nnew prescription medicines already approved by a recognised overseas regulator.  \nThe actual fee payable for an application of a particular type, after application of any \napplicable standard waiver, is set out in a schedule of fees.  \nApplicants may request additional partial or fee waivers in accordance with regulation 61A of \nthe Medicines Regulations 1984. \nFee waivers are rarely granted for changed medicine notifications especially when the \nchange notified relates to multiple products. This is because the change must be added to \neach regulatory file and the administrative cost must be recovered. \n \n6. Timelines \n6.1 \nTarget timelines \nTo provide sponsors with predictable timelines, Medsafe has used historical data to forecast \nthe percentage of applications through each application category in order to determine \nrealistic target timelines.  \nIt is important to note, however, that Medsafe can only commit to meeting target timelines \nwhere the sponsor has provided a complete and high-quality application. Performance \nagainst target timelines is published annually.  \n \n6.2 \nClock stops \nTarget timelines are expressed in calendar days and the total time includes the time taken \nfor sponsors to respond to RFI questions. Medsafe does not have a ‘stop clock’ policy and \nwill include the sponsor response time in reporting performance for the total evaluation time.   \n \nDocument history  \nRevision \nDate \n \nVersion \nNumber \nSummary of Changes \nJanuary \n2023 \nNew \nNew document following major review and restructure of \nGRTPNZ Part 2, which has been obsoleted.  \nApril 2023 \n1.1 \nNew title for guideline, changed from “Overview of medicine \nregulation”. \n \n \n",
+            "section": "§5 fees and §6 clock reporting",
+            "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": false,
+            "ocr_page": null,
+            "research_english_rendering": null,
+            "translation_status": "English original or no translation supplied",
+            "clause_id": "C65_035",
+            "verbatim_extracted_text": "cant clinical need \nbut have been declined due to resource availability. \n \n5. Fees \nThe Ministry of Health is responsible for administering the Medicines Act 1981 and \nMedicines Regulations 1984. Its functions in relation to this legislation are funded from a \nmixture of Crown funding and third party revenue collected from fees set under the Act.  \nThe Act provides for the charging of fees in relation to applications for licences and for the \napproval of new and changed medicines and clinical trials. The schedule of fees payable is \ncontained in regulation 61 of the Medicines Regulations 1984.  \n\n\nPAGE 13\n \n \nGRTPNZ: Overview \n \nPage 13 of 13 \n \nRegulation 61A of the Regulations provides that the Director General of Health may waive or \nrefund, in whole or in part, a fee otherwise payable under regulation 61.  \nIn exercising this power the Director-General is obliged to have regard to the degree of \ncomplexity and time required to consider an application, and the interests of public health in \nNew Zealand.  \nA ‘standard’ waiver is applied in a number of instances to reduce the fee for approval of a \nnew or changed medicine in order to recognise the reduced time required to consider the \napplication. For example, a partial waiver is routinely applied to applications for approval of \nnew non-prescription medicines.  \nA partial fee waiver is also available for applications made under the abbreviated process for \nnew prescription medicines already approved by a recognised overseas regulator.  \nThe actual fee payable for an application of a particular type, after application of any \napplicable standard waiver, is set out in a schedule of fees.  \nApplicants may request additional partial or fee waivers in accordance with regulation 61A of \nthe Medicines Regulations 1984. \nFee waivers are rarely granted for changed medicine notifications especially when the \nchange notified relates to multiple products. This is because the change must be added to \neach regulatory file and the administrative cost must be recovered. \n \n6. Timelines \n6.1 \nTarget timelines \nTo provide sponsors with predictable timelines, Medsafe has used historical data to forecast \nthe percentage of applications through each application category in order to determine \nrealistic target timelines.  \nIt is important to note, however, that Medsafe can only commit to meeting target timelines \nwhere the sponsor has provided a complete and high-quality application. Performance \nagainst target timelines is published annually.  \n \n6.2 \nClock stops \nTarget timelines are expressed in calendar days and the total time includes the time taken \nfor sponsors to respond to RFI questions. Medsafe does not have a ‘stop clock’ policy and \nwill include the sponsor response time in reporting performance for the total evaluation time.   \n \nDocument history  \nRevision \nDate \n \nVersion \nNumber \nSummary of Changes \nJanuary \n2023 \nNew \nNew document following major review and restructure of \nGRTPNZ Part 2, which has been obsoleted.  \nApril 2023 \n1.1 \nNew title for guideline, changed from “Overview of medicine \nregulation”. \n \n \n",
+            "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+            "start_offset": 30500,
+            "end_offset": 33615,
+            "section_article": "§5 fees and §6 clock reporting",
+            "pdf_page": null,
+            "language": "English"
+          },
+          {
+            "evidence_id": "C65_033",
+            "document_index": 65,
+            "document_id": "F250_49ea5b8af6d58c870ef1",
+            "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+            "text_file": null,
+            "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+            "text_start": 16500,
+            "text_end": 19600,
+            "exact_original_text": ". Please ensure your \nDMF/PMF holders send their email requests with EFT set up – DMF or PMF in the subject \nline. \nApplicants should contact Medsafe prior to submission of their medicine application or \nnotification if they have any questions. \n \n3.2  \nFormatting of electronic submissions \nMedsafe does not require dossiers to be prepared with eCTD software or in NeeS format, \nbut electronic format should: \n be in PDF except the application form which may be in MS Word \n have files and folders structured to correspond with Common Technical Document \n(CTD) format \n be readable in Acrobat Reader version X (10) \n enable the user to easily view a clear and legible copy of the information \n enable the user to print each document page by page maintaining fonts, orientation, \nformats and page numbers \n include a well-structured table of contents with hyperlinks to the CTD sections and \nother various documentation provided in the submission \n\n\nPAGE 8\n \n \nGRTPNZ: Overview \n \nPage 8 of 13 \n \n allow information (including images) to be copied and pasted into other common \nword programmes \n contain hyperlinks and bookmarks to cross-reference information \n virus checked using up to date programmes (with confirmation of this to be provided \nin the cover letter) \n not have any security settings or password protection enabled. \nOrganisation of any electronic response to a Request for Information (RFI) should follow the \nsame principles as the initial electronic submission. However, responses can be aligned with \nthe questions rather than be structured to correspond with CTD format. \n \nSource of electronic document \nIt is preferable that dossiers are created from an electronic source document so they can be \nsearched and copied to other documents. \nScanned paper documents are inferior to those produced from an electronic source \ndocument as they are more difficult to read and do not allow search function capability. If \nscanning is essential, then optical character recognition software (OCR) is required and text \nverified as accurate prior to submission. Scanning must be at resolutions to ensure the \ndocument is legible on screen and when printed. As a guide, text documents should be \nscanned at 300 dpi and photographs at 600 dpi. \nThe following documents do not have to be converted to searchable text: \n Good Manufacturing Practice (GMP) certificates \n Certificates of Analysis \n European Pharmacopoeial Commission Certificates of Suitability \n manufacturer’s licences \n documents in foreign languages and for which a translation is provided as searchable \ntext \n literature references (expect those in bibliographic applications) \n handwritten documents such as batch records and operating logs. \n  \n3.3. \nPre-submission meetings \nPre-submission meetings are not mandatory in New Zealand. As a small regulator, Medsafe \nis limited as to the advice it can give prior to lodgement of an application for consent without \ncompromising its ability to undertake independent assessments on behalf of the New \nZealand public.    \nInstead Medsafe encourages applicants to read the Gu",
+            "section": "§3.2 electronic CTD and OCR requirements",
+            "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+            "extraction_method": "PyMuPDF native text; no OCR",
+            "visual_original_checked": false,
+            "ocr_page": null,
+            "research_english_rendering": null,
+            "translation_status": "English original or no translation supplied",
+            "clause_id": "C65_033",
+            "verbatim_extracted_text": ". Please ensure your \nDMF/PMF holders send their email requests with EFT set up – DMF or PMF in the subject \nline. \nApplicants should contact Medsafe prior to submission of their medicine application or \nnotification if they have any questions. \n \n3.2  \nFormatting of electronic submissions \nMedsafe does not require dossiers to be prepared with eCTD software or in NeeS format, \nbut electronic format should: \n be in PDF except the application form which may be in MS Word \n have files and folders structured to correspond with Common Technical Document \n(CTD) format \n be readable in Acrobat Reader version X (10) \n enable the user to easily view a clear and legible copy of the information \n enable the user to print each document page by page maintaining fonts, orientation, \nformats and page numbers \n include a well-structured table of contents with hyperlinks to the CTD sections and \nother various documentation provided in the submission \n\n\nPAGE 8\n \n \nGRTPNZ: Overview \n \nPage 8 of 13 \n \n allow information (including images) to be copied and pasted into other common \nword programmes \n contain hyperlinks and bookmarks to cross-reference information \n virus checked using up to date programmes (with confirmation of this to be provided \nin the cover letter) \n not have any security settings or password protection enabled. \nOrganisation of any electronic response to a Request for Information (RFI) should follow the \nsame principles as the initial electronic submission. However, responses can be aligned with \nthe questions rather than be structured to correspond with CTD format. \n \nSource of electronic document \nIt is preferable that dossiers are created from an electronic source document so they can be \nsearched and copied to other documents. \nScanned paper documents are inferior to those produced from an electronic source \ndocument as they are more difficult to read and do not allow search function capability. If \nscanning is essential, then optical character recognition software (OCR) is required and text \nverified as accurate prior to submission. Scanning must be at resolutions to ensure the \ndocument is legible on screen and when printed. As a guide, text documents should be \nscanned at 300 dpi and photographs at 600 dpi. \nThe following documents do not have to be converted to searchable text: \n Good Manufacturing Practice (GMP) certificates \n Certificates of Analysis \n European Pharmacopoeial Commission Certificates of Suitability \n manufacturer’s licences \n documents in foreign languages and for which a translation is provided as searchable \ntext \n literature references (expect those in bibliographic applications) \n handwritten documents such as batch records and operating logs. \n  \n3.3. \nPre-submission meetings \nPre-submission meetings are not mandatory in New Zealand. As a small regulator, Medsafe \nis limited as to the advice it can give prior to lodgement of an application for consent without \ncompromising its ability to undertake independent assessments on behalf of the New \nZealand public.    \nInstead Medsafe encourages applicants to read the Gu",
+            "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+            "start_offset": 16500,
+            "end_offset": 19600,
+            "section_article": "§3.2 electronic CTD and OCR requirements",
+            "pdf_page": null,
+            "language": "English"
+          }
+        ],
+        "selection_recommendation": "alternate",
+        "selection_reason": "Preserve dated alternative; do not silently replace the existing selected baseline."
       }
     ],
     "review_details": {
@@ -866,5 +1174,451 @@
       ],
       "supplementary_versions_on_hand": []
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [
+    {
+      "record_key": "c:10",
+      "selected_for_primary": false,
+      "pathway": "Ordinary new medicine application: administrative and decision process",
+      "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+      "version_note": "GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline.",
+      "version_scope_note": null,
+      "scope": "Initial human medicinal product authorization",
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New medicine applications under Medicines Act ss20–23.",
+          "evidence_ids": [
+            "C65_032"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Medsafe assesses safety, quality, efficacy and benefit–risk; Minister delegate decision and Gazette notification.",
+          "evidence_ids": [
+            "C65_034"
+          ]
+        },
+        "local_representative": {
+          "state": "explicit requirement",
+          "finding": "New Zealand resident sponsor/manufacturer/importer/proprietor required.",
+          "evidence_ids": [
+            "C65_032"
+          ]
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Regulation61 fees with potential partial waivers; overseas abbreviated fee waiver is not authorization itself.",
+          "evidence_ids": [
+            "C65_035"
+          ]
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Searchable electronic CTD; scanned documents OCR verified; foreign-language originals with searchable translations exception.",
+          "evidence_ids": [
+            "C65_033"
+          ]
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Published targets include sponsor responses; no stop-clock policy in reported total evaluation time.",
+          "evidence_ids": [
+            "C65_035"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "status": "full eligibility unresolved",
+          "finding": "Known approval and dossier facts do not establish every locally required condition.",
+          "evidence_ids": [
+            "C65_032",
+            "C65_034",
+            "C65_035",
+            "C65_033"
+          ]
+        },
+        "B": {
+          "status": "full eligibility unresolved",
+          "finding": "Known approval and dossier facts do not establish every locally required condition.",
+          "evidence_ids": [
+            "C65_032",
+            "C65_034",
+            "C65_035",
+            "C65_033"
+          ]
+        },
+        "C": {
+          "status": "full eligibility unresolved",
+          "finding": "Known approval and dossier facts do not establish every locally required condition.",
+          "evidence_ids": [
+            "C65_032",
+            "C65_034",
+            "C65_035",
+            "C65_033"
+          ]
+        },
+        "D": {
+          "status": "full eligibility unresolved",
+          "finding": "Known approval and dossier facts do not establish every locally required condition.",
+          "evidence_ids": [
+            "C65_032",
+            "C65_034",
+            "C65_035",
+            "C65_033"
+          ]
+        },
+        "E": {
+          "status": "full eligibility unresolved",
+          "finding": "Known approval and dossier facts do not establish every locally required condition.",
+          "evidence_ids": [
+            "C65_032",
+            "C65_034",
+            "C65_035",
+            "C65_033"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": null,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {},
+      "evidence": [
+        {
+          "evidence_id": "C65_032",
+          "document_index": 65,
+          "document_id": "F250_49ea5b8af6d58c870ef1",
+          "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+          "text_file": null,
+          "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+          "text_start": 5500,
+          "text_end": 9200,
+          "exact_original_text": "aland Medicines Act 1981 \nThe following sections of the Medicines Act 1981 (the Act) are most relevant to the approval \nof new and changed medicines and related products.  \nMedicines Act 1981: \n Section 3:  \nMeaning of medicine, new medicine, prescription medicine and  \nrestricted medicine \n Section 20: \nRestrictions on sale or supply of new medicines \n Section 21: \nApplications for Minister’s consent \n Section 22:  \nProcedure in respect of applications for Minister’s consent \n Section 23: \nMinister may give provisional consent \n Section 24: \nDistribution of changed medicines restricted \n Part 7:  \nRelated products \n \n \n\n\nPAGE 4\n \n \nGRTPNZ: Overview \n \nPage 4 of 13 \n \n1.3 \nOther information relevant to this guideline \n Application forms including guides to completing an application \n Fees payable for applications \n Regulatory timelines  \n Application search \n Application status \n Medsafe’s position statement on biosimilars \n Guidelines for the Regulation of Therapeutic Products in New Zealand  \n \n2. Who can submit an application? \nThe Medicines Act 1981 requires that a New Medicine Application (NMA), New Related \nProduct Application (NRPA), Changed Medicine Notification (CMN) or Changed \nRelated Product Notification (CRPN) is lodged by or in the name of a manufacturer, \nimporter or proprietor resident in New Zealand.  \nThe New Zealand resident manufacturer, importer or proprietor may be an individual or a \ncompany and is designated the “sponsor” (or “licence holder”) for the product concerned. \nThe sponsor is legally responsible for all aspects of the product in New Zealand, including \nany regulatory action relating to it. The sponsor is responsible for ensuring the accuracy of \nany information submitted to Medsafe in support of any NMA, NRPA, CMN or CRPN. \nAn overseas pharmaceutical company wishing to market a medicine or related product in \nNew Zealand needs to have a New Zealand-based subsidiary, or appoint a local individual \nor company as a New Zealand agent to act for them in New Zealand as a sponsor for the \nproduct concerned. The New Zealand subsidiary or agent is the sponsor responsible for the \nproduct, including any supply of the product under section 2 of the Medicines Act and any \nrecall of the product from the market. \nAn NMA or NRPA or CMN or CRPN is submitted to Medsafe in the name of the sponsor. An \noverseas branch of the company or a local or overseas regulatory affairs consultant may act \non the sponsor’s behalf and prepare the paperwork for an application and submit it to \nMedsafe. For administrative purposes, the identity of the “applicant” depends upon the \ncircumstances: \n Many applications and notifications are prepared, signed and forwarded to Medsafe \nby an employee of the sponsor (eg, a regulatory affairs manager or associate). In this \ncase the applicant is the sponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an independent regulatory affairs consultant who signs the documentation \nas if he or she was an employee of the sponsor. In this case the applicant is the \nsponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by a local or overseas consultant who signs the documentation, not as an \nemployee, but in his or her own right as a contracted agent of the sponsor. In this \ncase the consultant (not the sponsor) is the applicant. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an overseas branch of the company. An employee of the overseas \ncompany signs the documentation and forwards it to Medsafe. In this case the \noverseas branch of the company is the applicant whi",
+          "section": "§1.2–2 legal authority and resident sponsor",
+          "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": null,
+          "translation_status": "English original or no translation supplied",
+          "clause_id": "C65_032",
+          "verbatim_extracted_text": "aland Medicines Act 1981 \nThe following sections of the Medicines Act 1981 (the Act) are most relevant to the approval \nof new and changed medicines and related products.  \nMedicines Act 1981: \n Section 3:  \nMeaning of medicine, new medicine, prescription medicine and  \nrestricted medicine \n Section 20: \nRestrictions on sale or supply of new medicines \n Section 21: \nApplications for Minister’s consent \n Section 22:  \nProcedure in respect of applications for Minister’s consent \n Section 23: \nMinister may give provisional consent \n Section 24: \nDistribution of changed medicines restricted \n Part 7:  \nRelated products \n \n \n\n\nPAGE 4\n \n \nGRTPNZ: Overview \n \nPage 4 of 13 \n \n1.3 \nOther information relevant to this guideline \n Application forms including guides to completing an application \n Fees payable for applications \n Regulatory timelines  \n Application search \n Application status \n Medsafe’s position statement on biosimilars \n Guidelines for the Regulation of Therapeutic Products in New Zealand  \n \n2. Who can submit an application? \nThe Medicines Act 1981 requires that a New Medicine Application (NMA), New Related \nProduct Application (NRPA), Changed Medicine Notification (CMN) or Changed \nRelated Product Notification (CRPN) is lodged by or in the name of a manufacturer, \nimporter or proprietor resident in New Zealand.  \nThe New Zealand resident manufacturer, importer or proprietor may be an individual or a \ncompany and is designated the “sponsor” (or “licence holder”) for the product concerned. \nThe sponsor is legally responsible for all aspects of the product in New Zealand, including \nany regulatory action relating to it. The sponsor is responsible for ensuring the accuracy of \nany information submitted to Medsafe in support of any NMA, NRPA, CMN or CRPN. \nAn overseas pharmaceutical company wishing to market a medicine or related product in \nNew Zealand needs to have a New Zealand-based subsidiary, or appoint a local individual \nor company as a New Zealand agent to act for them in New Zealand as a sponsor for the \nproduct concerned. The New Zealand subsidiary or agent is the sponsor responsible for the \nproduct, including any supply of the product under section 2 of the Medicines Act and any \nrecall of the product from the market. \nAn NMA or NRPA or CMN or CRPN is submitted to Medsafe in the name of the sponsor. An \noverseas branch of the company or a local or overseas regulatory affairs consultant may act \non the sponsor’s behalf and prepare the paperwork for an application and submit it to \nMedsafe. For administrative purposes, the identity of the “applicant” depends upon the \ncircumstances: \n Many applications and notifications are prepared, signed and forwarded to Medsafe \nby an employee of the sponsor (eg, a regulatory affairs manager or associate). In this \ncase the applicant is the sponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an independent regulatory affairs consultant who signs the documentation \nas if he or she was an employee of the sponsor. In this case the applicant is the \nsponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by a local or overseas consultant who signs the documentation, not as an \nemployee, but in his or her own right as a contracted agent of the sponsor. In this \ncase the consultant (not the sponsor) is the applicant. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an overseas branch of the company. An employee of the overseas \ncompany signs the documentation and forwards it to Medsafe. In this case the \noverseas branch of the company is the applicant whi",
+          "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+          "start_offset": 5500,
+          "end_offset": 9200,
+          "section_article": "§1.2–2 legal authority and resident sponsor",
+          "pdf_page": null,
+          "language": "English"
+        },
+        {
+          "evidence_id": "C65_034",
+          "document_index": 65,
+          "document_id": "F250_49ea5b8af6d58c870ef1",
+          "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+          "text_file": null,
+          "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+          "text_start": 26000,
+          "text_end": 28700,
+          "exact_original_text": "f sponsors are unable to respond to an RFI for a CMN, the application will be referred under \nsection 24(5) of the Act. \nIf sponsors do not respond to RFIs, Medsafe will conclude the assessment by considering \nthe safety, quality and efficacy of the proposed medicine, based on the information already \nsubmitted, and make a recommendation on whether or not to approve the application. \n4.6 \nDecision and finalisation  \nIf Medsafe concludes that the application includes sufficient data to attest to the safety, \nquality and efficacy of the medicine and that the benefits outweigh the risk of harm to the \npatient, a recommendation that consent should be granted will be made to the Minister’s \ndelegate.  \nIn the case of NMAs, and CMNs referred under section 24(5), if the recommendation is \naccepted, then consent for the new medicine will be notified through publication of the \ndecision in the New Zealand Gazette.   \nIf Medsafe concludes that the application does not include sufficient data to attest to the \nsafety, quality and efficacy of the medicine and/or that the risks outweigh the benefits to the \npatient, the Minister’s delegate may refer the application to an advisory committee.   \nAdvice on specific issues relating to the application will be sought from the Medicine \nAssessment Advisory Committee (MAAC) which has expertise in the safety, quality and \nefficacy of medicines. Where an application is referred to the MAAC for advice, application \nprocessing timelines will be adjusted accordingly. The Committee typically meets three times \nper year and decisions are notified seven weeks following a meeting. \nSection 22 of the Medicines Act also permits the Minister’s delegate to refer any New \nMedicine Application to the MAAC for advice where he is not satisfied that the medicine \nshould be approved for use in New Zealand.   \nThe following types of medicines will typically be referred to the MAAC irrespective of \nwhether Medsafe has concluded that the application includes sufficient data to attest to the \n\n\nPAGE 12\n \n \nGRTPNZ: Overview \n \nPage 12 of 13 \n \nsafety, quality and efficacy of the medicine and that the benefits outweigh the risk of harm to \nthe patient: \n World-first new chemical entities (NCEs) and new biological entities (NBEs) \n new vaccines indicated for children \n novel technologies such as medicines derived from stem cells and nano-technology \n medicines that have been withdrawn or refused consent by a recognised regulator. \nConsent for changes to existing medicines and related products will be notified by letter from \nthe DGs delegate, unless the application has been referred under section 24(5) of the Act.  \nIn this latter case the applicat",
+          "section": "§4.6 local benefit–risk recommendation",
+          "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": null,
+          "translation_status": "English original or no translation supplied",
+          "clause_id": "C65_034",
+          "verbatim_extracted_text": "f sponsors are unable to respond to an RFI for a CMN, the application will be referred under \nsection 24(5) of the Act. \nIf sponsors do not respond to RFIs, Medsafe will conclude the assessment by considering \nthe safety, quality and efficacy of the proposed medicine, based on the information already \nsubmitted, and make a recommendation on whether or not to approve the application. \n4.6 \nDecision and finalisation  \nIf Medsafe concludes that the application includes sufficient data to attest to the safety, \nquality and efficacy of the medicine and that the benefits outweigh the risk of harm to the \npatient, a recommendation that consent should be granted will be made to the Minister’s \ndelegate.  \nIn the case of NMAs, and CMNs referred under section 24(5), if the recommendation is \naccepted, then consent for the new medicine will be notified through publication of the \ndecision in the New Zealand Gazette.   \nIf Medsafe concludes that the application does not include sufficient data to attest to the \nsafety, quality and efficacy of the medicine and/or that the risks outweigh the benefits to the \npatient, the Minister’s delegate may refer the application to an advisory committee.   \nAdvice on specific issues relating to the application will be sought from the Medicine \nAssessment Advisory Committee (MAAC) which has expertise in the safety, quality and \nefficacy of medicines. Where an application is referred to the MAAC for advice, application \nprocessing timelines will be adjusted accordingly. The Committee typically meets three times \nper year and decisions are notified seven weeks following a meeting. \nSection 22 of the Medicines Act also permits the Minister’s delegate to refer any New \nMedicine Application to the MAAC for advice where he is not satisfied that the medicine \nshould be approved for use in New Zealand.   \nThe following types of medicines will typically be referred to the MAAC irrespective of \nwhether Medsafe has concluded that the application includes sufficient data to attest to the \n\n\nPAGE 12\n \n \nGRTPNZ: Overview \n \nPage 12 of 13 \n \nsafety, quality and efficacy of the medicine and that the benefits outweigh the risk of harm to \nthe patient: \n World-first new chemical entities (NCEs) and new biological entities (NBEs) \n new vaccines indicated for children \n novel technologies such as medicines derived from stem cells and nano-technology \n medicines that have been withdrawn or refused consent by a recognised regulator. \nConsent for changes to existing medicines and related products will be notified by letter from \nthe DGs delegate, unless the application has been referred under section 24(5) of the Act.  \nIn this latter case the applicat",
+          "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+          "start_offset": 26000,
+          "end_offset": 28700,
+          "section_article": "§4.6 local benefit–risk recommendation",
+          "pdf_page": null,
+          "language": "English"
+        },
+        {
+          "evidence_id": "C65_035",
+          "document_index": 65,
+          "document_id": "F250_49ea5b8af6d58c870ef1",
+          "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+          "text_file": null,
+          "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+          "text_start": 30500,
+          "text_end": 33615,
+          "exact_original_text": "cant clinical need \nbut have been declined due to resource availability. \n \n5. Fees \nThe Ministry of Health is responsible for administering the Medicines Act 1981 and \nMedicines Regulations 1984. Its functions in relation to this legislation are funded from a \nmixture of Crown funding and third party revenue collected from fees set under the Act.  \nThe Act provides for the charging of fees in relation to applications for licences and for the \napproval of new and changed medicines and clinical trials. The schedule of fees payable is \ncontained in regulation 61 of the Medicines Regulations 1984.  \n\n\nPAGE 13\n \n \nGRTPNZ: Overview \n \nPage 13 of 13 \n \nRegulation 61A of the Regulations provides that the Director General of Health may waive or \nrefund, in whole or in part, a fee otherwise payable under regulation 61.  \nIn exercising this power the Director-General is obliged to have regard to the degree of \ncomplexity and time required to consider an application, and the interests of public health in \nNew Zealand.  \nA ‘standard’ waiver is applied in a number of instances to reduce the fee for approval of a \nnew or changed medicine in order to recognise the reduced time required to consider the \napplication. For example, a partial waiver is routinely applied to applications for approval of \nnew non-prescription medicines.  \nA partial fee waiver is also available for applications made under the abbreviated process for \nnew prescription medicines already approved by a recognised overseas regulator.  \nThe actual fee payable for an application of a particular type, after application of any \napplicable standard waiver, is set out in a schedule of fees.  \nApplicants may request additional partial or fee waivers in accordance with regulation 61A of \nthe Medicines Regulations 1984. \nFee waivers are rarely granted for changed medicine notifications especially when the \nchange notified relates to multiple products. This is because the change must be added to \neach regulatory file and the administrative cost must be recovered. \n \n6. Timelines \n6.1 \nTarget timelines \nTo provide sponsors with predictable timelines, Medsafe has used historical data to forecast \nthe percentage of applications through each application category in order to determine \nrealistic target timelines.  \nIt is important to note, however, that Medsafe can only commit to meeting target timelines \nwhere the sponsor has provided a complete and high-quality application. Performance \nagainst target timelines is published annually.  \n \n6.2 \nClock stops \nTarget timelines are expressed in calendar days and the total time includes the time taken \nfor sponsors to respond to RFI questions. Medsafe does not have a ‘stop clock’ policy and \nwill include the sponsor response time in reporting performance for the total evaluation time.   \n \nDocument history  \nRevision \nDate \n \nVersion \nNumber \nSummary of Changes \nJanuary \n2023 \nNew \nNew document following major review and restructure of \nGRTPNZ Part 2, which has been obsoleted.  \nApril 2023 \n1.1 \nNew title for guideline, changed from “Overview of medicine \nregulation”. \n \n \n",
+          "section": "§5 fees and §6 clock reporting",
+          "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": null,
+          "translation_status": "English original or no translation supplied",
+          "clause_id": "C65_035",
+          "verbatim_extracted_text": "cant clinical need \nbut have been declined due to resource availability. \n \n5. Fees \nThe Ministry of Health is responsible for administering the Medicines Act 1981 and \nMedicines Regulations 1984. Its functions in relation to this legislation are funded from a \nmixture of Crown funding and third party revenue collected from fees set under the Act.  \nThe Act provides for the charging of fees in relation to applications for licences and for the \napproval of new and changed medicines and clinical trials. The schedule of fees payable is \ncontained in regulation 61 of the Medicines Regulations 1984.  \n\n\nPAGE 13\n \n \nGRTPNZ: Overview \n \nPage 13 of 13 \n \nRegulation 61A of the Regulations provides that the Director General of Health may waive or \nrefund, in whole or in part, a fee otherwise payable under regulation 61.  \nIn exercising this power the Director-General is obliged to have regard to the degree of \ncomplexity and time required to consider an application, and the interests of public health in \nNew Zealand.  \nA ‘standard’ waiver is applied in a number of instances to reduce the fee for approval of a \nnew or changed medicine in order to recognise the reduced time required to consider the \napplication. For example, a partial waiver is routinely applied to applications for approval of \nnew non-prescription medicines.  \nA partial fee waiver is also available for applications made under the abbreviated process for \nnew prescription medicines already approved by a recognised overseas regulator.  \nThe actual fee payable for an application of a particular type, after application of any \napplicable standard waiver, is set out in a schedule of fees.  \nApplicants may request additional partial or fee waivers in accordance with regulation 61A of \nthe Medicines Regulations 1984. \nFee waivers are rarely granted for changed medicine notifications especially when the \nchange notified relates to multiple products. This is because the change must be added to \neach regulatory file and the administrative cost must be recovered. \n \n6. Timelines \n6.1 \nTarget timelines \nTo provide sponsors with predictable timelines, Medsafe has used historical data to forecast \nthe percentage of applications through each application category in order to determine \nrealistic target timelines.  \nIt is important to note, however, that Medsafe can only commit to meeting target timelines \nwhere the sponsor has provided a complete and high-quality application. Performance \nagainst target timelines is published annually.  \n \n6.2 \nClock stops \nTarget timelines are expressed in calendar days and the total time includes the time taken \nfor sponsors to respond to RFI questions. Medsafe does not have a ‘stop clock’ policy and \nwill include the sponsor response time in reporting performance for the total evaluation time.   \n \nDocument history  \nRevision \nDate \n \nVersion \nNumber \nSummary of Changes \nJanuary \n2023 \nNew \nNew document following major review and restructure of \nGRTPNZ Part 2, which has been obsoleted.  \nApril 2023 \n1.1 \nNew title for guideline, changed from “Overview of medicine \nregulation”. \n \n \n",
+          "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+          "start_offset": 30500,
+          "end_offset": 33615,
+          "section_article": "§5 fees and §6 clock reporting",
+          "pdf_page": null,
+          "language": "English"
+        },
+        {
+          "evidence_id": "C65_033",
+          "document_index": 65,
+          "document_id": "F250_49ea5b8af6d58c870ef1",
+          "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+          "text_file": null,
+          "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+          "text_start": 16500,
+          "text_end": 19600,
+          "exact_original_text": ". Please ensure your \nDMF/PMF holders send their email requests with EFT set up – DMF or PMF in the subject \nline. \nApplicants should contact Medsafe prior to submission of their medicine application or \nnotification if they have any questions. \n \n3.2  \nFormatting of electronic submissions \nMedsafe does not require dossiers to be prepared with eCTD software or in NeeS format, \nbut electronic format should: \n be in PDF except the application form which may be in MS Word \n have files and folders structured to correspond with Common Technical Document \n(CTD) format \n be readable in Acrobat Reader version X (10) \n enable the user to easily view a clear and legible copy of the information \n enable the user to print each document page by page maintaining fonts, orientation, \nformats and page numbers \n include a well-structured table of contents with hyperlinks to the CTD sections and \nother various documentation provided in the submission \n\n\nPAGE 8\n \n \nGRTPNZ: Overview \n \nPage 8 of 13 \n \n allow information (including images) to be copied and pasted into other common \nword programmes \n contain hyperlinks and bookmarks to cross-reference information \n virus checked using up to date programmes (with confirmation of this to be provided \nin the cover letter) \n not have any security settings or password protection enabled. \nOrganisation of any electronic response to a Request for Information (RFI) should follow the \nsame principles as the initial electronic submission. However, responses can be aligned with \nthe questions rather than be structured to correspond with CTD format. \n \nSource of electronic document \nIt is preferable that dossiers are created from an electronic source document so they can be \nsearched and copied to other documents. \nScanned paper documents are inferior to those produced from an electronic source \ndocument as they are more difficult to read and do not allow search function capability. If \nscanning is essential, then optical character recognition software (OCR) is required and text \nverified as accurate prior to submission. Scanning must be at resolutions to ensure the \ndocument is legible on screen and when printed. As a guide, text documents should be \nscanned at 300 dpi and photographs at 600 dpi. \nThe following documents do not have to be converted to searchable text: \n Good Manufacturing Practice (GMP) certificates \n Certificates of Analysis \n European Pharmacopoeial Commission Certificates of Suitability \n manufacturer’s licences \n documents in foreign languages and for which a translation is provided as searchable \ntext \n literature references (expect those in bibliographic applications) \n handwritten documents such as batch records and operating logs. \n  \n3.3. \nPre-submission meetings \nPre-submission meetings are not mandatory in New Zealand. As a small regulator, Medsafe \nis limited as to the advice it can give prior to lodgement of an application for consent without \ncompromising its ability to undertake independent assessments on behalf of the New \nZealand public.    \nInstead Medsafe encourages applicants to read the Gu",
+          "section": "§3.2 electronic CTD and OCR requirements",
+          "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": null,
+          "translation_status": "English original or no translation supplied",
+          "clause_id": "C65_033",
+          "verbatim_extracted_text": ". Please ensure your \nDMF/PMF holders send their email requests with EFT set up – DMF or PMF in the subject \nline. \nApplicants should contact Medsafe prior to submission of their medicine application or \nnotification if they have any questions. \n \n3.2  \nFormatting of electronic submissions \nMedsafe does not require dossiers to be prepared with eCTD software or in NeeS format, \nbut electronic format should: \n be in PDF except the application form which may be in MS Word \n have files and folders structured to correspond with Common Technical Document \n(CTD) format \n be readable in Acrobat Reader version X (10) \n enable the user to easily view a clear and legible copy of the information \n enable the user to print each document page by page maintaining fonts, orientation, \nformats and page numbers \n include a well-structured table of contents with hyperlinks to the CTD sections and \nother various documentation provided in the submission \n\n\nPAGE 8\n \n \nGRTPNZ: Overview \n \nPage 8 of 13 \n \n allow information (including images) to be copied and pasted into other common \nword programmes \n contain hyperlinks and bookmarks to cross-reference information \n virus checked using up to date programmes (with confirmation of this to be provided \nin the cover letter) \n not have any security settings or password protection enabled. \nOrganisation of any electronic response to a Request for Information (RFI) should follow the \nsame principles as the initial electronic submission. However, responses can be aligned with \nthe questions rather than be structured to correspond with CTD format. \n \nSource of electronic document \nIt is preferable that dossiers are created from an electronic source document so they can be \nsearched and copied to other documents. \nScanned paper documents are inferior to those produced from an electronic source \ndocument as they are more difficult to read and do not allow search function capability. If \nscanning is essential, then optical character recognition software (OCR) is required and text \nverified as accurate prior to submission. Scanning must be at resolutions to ensure the \ndocument is legible on screen and when printed. As a guide, text documents should be \nscanned at 300 dpi and photographs at 600 dpi. \nThe following documents do not have to be converted to searchable text: \n Good Manufacturing Practice (GMP) certificates \n Certificates of Analysis \n European Pharmacopoeial Commission Certificates of Suitability \n manufacturer’s licences \n documents in foreign languages and for which a translation is provided as searchable \ntext \n literature references (expect those in bibliographic applications) \n handwritten documents such as batch records and operating logs. \n  \n3.3. \nPre-submission meetings \nPre-submission meetings are not mandatory in New Zealand. As a small regulator, Medsafe \nis limited as to the advice it can give prior to lodgement of an application for consent without \ncompromising its ability to undertake independent assessments on behalf of the New \nZealand public.    \nInstead Medsafe encourages applicants to read the Gu",
+          "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+          "start_offset": 16500,
+          "end_offset": 19600,
+          "section_article": "§3.2 electronic CTD and OCR requirements",
+          "pdf_page": null,
+          "language": "English"
+        }
+      ],
+      "selection_recommendation": "alternate",
+      "selection_reason": "Preserve dated alternative; do not silently replace the existing selected baseline."
+    }
+  ],
+  "standard_drug_expansion_clauses": [
+    {
+      "evidence_id": "C65_032",
+      "document_index": 65,
+      "document_id": "F250_49ea5b8af6d58c870ef1",
+      "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+      "text_file": null,
+      "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+      "text_start": 5500,
+      "text_end": 9200,
+      "exact_original_text": "aland Medicines Act 1981 \nThe following sections of the Medicines Act 1981 (the Act) are most relevant to the approval \nof new and changed medicines and related products.  \nMedicines Act 1981: \n Section 3:  \nMeaning of medicine, new medicine, prescription medicine and  \nrestricted medicine \n Section 20: \nRestrictions on sale or supply of new medicines \n Section 21: \nApplications for Minister’s consent \n Section 22:  \nProcedure in respect of applications for Minister’s consent \n Section 23: \nMinister may give provisional consent \n Section 24: \nDistribution of changed medicines restricted \n Part 7:  \nRelated products \n \n \n\n\nPAGE 4\n \n \nGRTPNZ: Overview \n \nPage 4 of 13 \n \n1.3 \nOther information relevant to this guideline \n Application forms including guides to completing an application \n Fees payable for applications \n Regulatory timelines  \n Application search \n Application status \n Medsafe’s position statement on biosimilars \n Guidelines for the Regulation of Therapeutic Products in New Zealand  \n \n2. Who can submit an application? \nThe Medicines Act 1981 requires that a New Medicine Application (NMA), New Related \nProduct Application (NRPA), Changed Medicine Notification (CMN) or Changed \nRelated Product Notification (CRPN) is lodged by or in the name of a manufacturer, \nimporter or proprietor resident in New Zealand.  \nThe New Zealand resident manufacturer, importer or proprietor may be an individual or a \ncompany and is designated the “sponsor” (or “licence holder”) for the product concerned. \nThe sponsor is legally responsible for all aspects of the product in New Zealand, including \nany regulatory action relating to it. The sponsor is responsible for ensuring the accuracy of \nany information submitted to Medsafe in support of any NMA, NRPA, CMN or CRPN. \nAn overseas pharmaceutical company wishing to market a medicine or related product in \nNew Zealand needs to have a New Zealand-based subsidiary, or appoint a local individual \nor company as a New Zealand agent to act for them in New Zealand as a sponsor for the \nproduct concerned. The New Zealand subsidiary or agent is the sponsor responsible for the \nproduct, including any supply of the product under section 2 of the Medicines Act and any \nrecall of the product from the market. \nAn NMA or NRPA or CMN or CRPN is submitted to Medsafe in the name of the sponsor. An \noverseas branch of the company or a local or overseas regulatory affairs consultant may act \non the sponsor’s behalf and prepare the paperwork for an application and submit it to \nMedsafe. For administrative purposes, the identity of the “applicant” depends upon the \ncircumstances: \n Many applications and notifications are prepared, signed and forwarded to Medsafe \nby an employee of the sponsor (eg, a regulatory affairs manager or associate). In this \ncase the applicant is the sponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an independent regulatory affairs consultant who signs the documentation \nas if he or she was an employee of the sponsor. In this case the applicant is the \nsponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by a local or overseas consultant who signs the documentation, not as an \nemployee, but in his or her own right as a contracted agent of the sponsor. In this \ncase the consultant (not the sponsor) is the applicant. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an overseas branch of the company. An employee of the overseas \ncompany signs the documentation and forwards it to Medsafe. In this case the \noverseas branch of the company is the applicant whi",
+      "section": "§1.2–2 legal authority and resident sponsor",
+      "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": null,
+      "translation_status": "English original or no translation supplied",
+      "clause_id": "SDX-C65_032",
+      "verbatim_extracted_text": "aland Medicines Act 1981 \nThe following sections of the Medicines Act 1981 (the Act) are most relevant to the approval \nof new and changed medicines and related products.  \nMedicines Act 1981: \n Section 3:  \nMeaning of medicine, new medicine, prescription medicine and  \nrestricted medicine \n Section 20: \nRestrictions on sale or supply of new medicines \n Section 21: \nApplications for Minister’s consent \n Section 22:  \nProcedure in respect of applications for Minister’s consent \n Section 23: \nMinister may give provisional consent \n Section 24: \nDistribution of changed medicines restricted \n Part 7:  \nRelated products \n \n \n\n\nPAGE 4\n \n \nGRTPNZ: Overview \n \nPage 4 of 13 \n \n1.3 \nOther information relevant to this guideline \n Application forms including guides to completing an application \n Fees payable for applications \n Regulatory timelines  \n Application search \n Application status \n Medsafe’s position statement on biosimilars \n Guidelines for the Regulation of Therapeutic Products in New Zealand  \n \n2. Who can submit an application? \nThe Medicines Act 1981 requires that a New Medicine Application (NMA), New Related \nProduct Application (NRPA), Changed Medicine Notification (CMN) or Changed \nRelated Product Notification (CRPN) is lodged by or in the name of a manufacturer, \nimporter or proprietor resident in New Zealand.  \nThe New Zealand resident manufacturer, importer or proprietor may be an individual or a \ncompany and is designated the “sponsor” (or “licence holder”) for the product concerned. \nThe sponsor is legally responsible for all aspects of the product in New Zealand, including \nany regulatory action relating to it. The sponsor is responsible for ensuring the accuracy of \nany information submitted to Medsafe in support of any NMA, NRPA, CMN or CRPN. \nAn overseas pharmaceutical company wishing to market a medicine or related product in \nNew Zealand needs to have a New Zealand-based subsidiary, or appoint a local individual \nor company as a New Zealand agent to act for them in New Zealand as a sponsor for the \nproduct concerned. The New Zealand subsidiary or agent is the sponsor responsible for the \nproduct, including any supply of the product under section 2 of the Medicines Act and any \nrecall of the product from the market. \nAn NMA or NRPA or CMN or CRPN is submitted to Medsafe in the name of the sponsor. An \noverseas branch of the company or a local or overseas regulatory affairs consultant may act \non the sponsor’s behalf and prepare the paperwork for an application and submit it to \nMedsafe. For administrative purposes, the identity of the “applicant” depends upon the \ncircumstances: \n Many applications and notifications are prepared, signed and forwarded to Medsafe \nby an employee of the sponsor (eg, a regulatory affairs manager or associate). In this \ncase the applicant is the sponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an independent regulatory affairs consultant who signs the documentation \nas if he or she was an employee of the sponsor. In this case the applicant is the \nsponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by a local or overseas consultant who signs the documentation, not as an \nemployee, but in his or her own right as a contracted agent of the sponsor. In this \ncase the consultant (not the sponsor) is the applicant. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an overseas branch of the company. An employee of the overseas \ncompany signs the documentation and forwards it to Medsafe. In this case the \noverseas branch of the company is the applicant whi",
+      "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+      "start_offset": 5500,
+      "end_offset": 9200,
+      "section_article": "§1.2–2 legal authority and resident sponsor",
+      "pdf_page": null,
+      "language": "English",
+      "iso3": "NZL",
+      "country": "New Zealand",
+      "display_text": "aland Medicines Act 1981 \nThe following sections of the Medicines Act 1981 (the Act) are most relevant to the approval \nof new and changed medicines and related products.  \nMedicines Act 1981: \n Section 3:  \nMeaning of medicine, new medicine, prescription medicine and  \nrestricted medicine \n Section 20: \nRestrictions on sale or supply of new medicines \n Section 21: \nApplications for Minister’s consent \n Section 22:  \nProcedure in respect of applications for Minister’s consent \n Section 23: \nMinister may give provisional consent \n Section 24: \nDistribution of changed medicines restricted \n Part 7:  \nRelated products \n \n \n\n\nPAGE 4\n \n \nGRTPNZ: Overview \n \nPage 4 of 13 \n \n1.3 \nOther information relevant to this guideline \n Application forms including guides to completing an application \n Fees payable for applications \n Regulatory timelines  \n Application search \n Application status \n Medsafe’s position statement on biosimilars \n Guidelines for the Regulation of Therapeutic Products in New Zealand  \n \n2. Who can submit an application? \nThe Medicines Act 1981 requires that a New Medicine Application (NMA), New Related \nProduct Application (NRPA), Changed Medicine Notification (CMN) or Changed \nRelated Product Notification (CRPN) is lodged by or in the name of a manufacturer, \nimporter or proprietor resident in New Zealand.  \nThe New Zealand resident manufacturer, importer or proprietor may be an individual or a \ncompany and is designated the “sponsor” (or “licence holder”) for the product concerned. \nThe sponsor is legally responsible for all aspects of the product in New Zealand, including \nany regulatory action relating to it. The sponsor is responsible for ensuring the accuracy of \nany information submitted to Medsafe in support of any NMA, NRPA, CMN or CRPN. \nAn overseas pharmaceutical company wishing to market a medicine or related product in \nNew Zealand needs to have a New Zealand-based subsidiary, or appoint a local individual \nor company as a New Zealand agent to act for them in New Zealand as a sponsor for the \nproduct concerned. The New Zealand subsidiary or agent is the sponsor responsible for the \nproduct, including any supply of the product under section 2 of the Medicines Act and any \nrecall of the product from the market. \nAn NMA or NRPA or CMN or CRPN is submitted to Medsafe in the name of the sponsor. An \noverseas branch of the company or a local or overseas regulatory affairs consultant may act \non the sponsor’s behalf and prepare the paperwork for an application and submit it to \nMedsafe. For administrative purposes, the identity of the “applicant” depends upon the \ncircumstances: \n Many applications and notifications are prepared, signed and forwarded to Medsafe \nby an employee of the sponsor (eg, a regulatory affairs manager or associate). In this \ncase the applicant is the sponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an independent regulatory affairs consultant who signs the documentation \nas if he or she was an employee of the sponsor. In this case the applicant is the \nsponsor. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by a local or overseas consultant who signs the documentation, not as an \nemployee, but in his or her own right as a contracted agent of the sponsor. In this \ncase the consultant (not the sponsor) is the applicant. \n Some applications and notifications are prepared and submitted on the sponsor’s \nbehalf by an overseas branch of the company. An employee of the overseas \ncompany signs the documentation and forwards it to Medsafe. In this case the \noverseas branch of the company is the applicant whi",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary new medicine application: administrative and decision process GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline. ",
+      "version_alignment": "GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline."
+    },
+    {
+      "evidence_id": "C65_034",
+      "document_index": 65,
+      "document_id": "F250_49ea5b8af6d58c870ef1",
+      "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+      "text_file": null,
+      "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+      "text_start": 26000,
+      "text_end": 28700,
+      "exact_original_text": "f sponsors are unable to respond to an RFI for a CMN, the application will be referred under \nsection 24(5) of the Act. \nIf sponsors do not respond to RFIs, Medsafe will conclude the assessment by considering \nthe safety, quality and efficacy of the proposed medicine, based on the information already \nsubmitted, and make a recommendation on whether or not to approve the application. \n4.6 \nDecision and finalisation  \nIf Medsafe concludes that the application includes sufficient data to attest to the safety, \nquality and efficacy of the medicine and that the benefits outweigh the risk of harm to the \npatient, a recommendation that consent should be granted will be made to the Minister’s \ndelegate.  \nIn the case of NMAs, and CMNs referred under section 24(5), if the recommendation is \naccepted, then consent for the new medicine will be notified through publication of the \ndecision in the New Zealand Gazette.   \nIf Medsafe concludes that the application does not include sufficient data to attest to the \nsafety, quality and efficacy of the medicine and/or that the risks outweigh the benefits to the \npatient, the Minister’s delegate may refer the application to an advisory committee.   \nAdvice on specific issues relating to the application will be sought from the Medicine \nAssessment Advisory Committee (MAAC) which has expertise in the safety, quality and \nefficacy of medicines. Where an application is referred to the MAAC for advice, application \nprocessing timelines will be adjusted accordingly. The Committee typically meets three times \nper year and decisions are notified seven weeks following a meeting. \nSection 22 of the Medicines Act also permits the Minister’s delegate to refer any New \nMedicine Application to the MAAC for advice where he is not satisfied that the medicine \nshould be approved for use in New Zealand.   \nThe following types of medicines will typically be referred to the MAAC irrespective of \nwhether Medsafe has concluded that the application includes sufficient data to attest to the \n\n\nPAGE 12\n \n \nGRTPNZ: Overview \n \nPage 12 of 13 \n \nsafety, quality and efficacy of the medicine and that the benefits outweigh the risk of harm to \nthe patient: \n World-first new chemical entities (NCEs) and new biological entities (NBEs) \n new vaccines indicated for children \n novel technologies such as medicines derived from stem cells and nano-technology \n medicines that have been withdrawn or refused consent by a recognised regulator. \nConsent for changes to existing medicines and related products will be notified by letter from \nthe DGs delegate, unless the application has been referred under section 24(5) of the Act.  \nIn this latter case the applicat",
+      "section": "§4.6 local benefit–risk recommendation",
+      "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": null,
+      "translation_status": "English original or no translation supplied",
+      "clause_id": "SDX-C65_034",
+      "verbatim_extracted_text": "f sponsors are unable to respond to an RFI for a CMN, the application will be referred under \nsection 24(5) of the Act. \nIf sponsors do not respond to RFIs, Medsafe will conclude the assessment by considering \nthe safety, quality and efficacy of the proposed medicine, based on the information already \nsubmitted, and make a recommendation on whether or not to approve the application. \n4.6 \nDecision and finalisation  \nIf Medsafe concludes that the application includes sufficient data to attest to the safety, \nquality and efficacy of the medicine and that the benefits outweigh the risk of harm to the \npatient, a recommendation that consent should be granted will be made to the Minister’s \ndelegate.  \nIn the case of NMAs, and CMNs referred under section 24(5), if the recommendation is \naccepted, then consent for the new medicine will be notified through publication of the \ndecision in the New Zealand Gazette.   \nIf Medsafe concludes that the application does not include sufficient data to attest to the \nsafety, quality and efficacy of the medicine and/or that the risks outweigh the benefits to the \npatient, the Minister’s delegate may refer the application to an advisory committee.   \nAdvice on specific issues relating to the application will be sought from the Medicine \nAssessment Advisory Committee (MAAC) which has expertise in the safety, quality and \nefficacy of medicines. Where an application is referred to the MAAC for advice, application \nprocessing timelines will be adjusted accordingly. The Committee typically meets three times \nper year and decisions are notified seven weeks following a meeting. \nSection 22 of the Medicines Act also permits the Minister’s delegate to refer any New \nMedicine Application to the MAAC for advice where he is not satisfied that the medicine \nshould be approved for use in New Zealand.   \nThe following types of medicines will typically be referred to the MAAC irrespective of \nwhether Medsafe has concluded that the application includes sufficient data to attest to the \n\n\nPAGE 12\n \n \nGRTPNZ: Overview \n \nPage 12 of 13 \n \nsafety, quality and efficacy of the medicine and that the benefits outweigh the risk of harm to \nthe patient: \n World-first new chemical entities (NCEs) and new biological entities (NBEs) \n new vaccines indicated for children \n novel technologies such as medicines derived from stem cells and nano-technology \n medicines that have been withdrawn or refused consent by a recognised regulator. \nConsent for changes to existing medicines and related products will be notified by letter from \nthe DGs delegate, unless the application has been referred under section 24(5) of the Act.  \nIn this latter case the applicat",
+      "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+      "start_offset": 26000,
+      "end_offset": 28700,
+      "section_article": "§4.6 local benefit–risk recommendation",
+      "pdf_page": null,
+      "language": "English",
+      "iso3": "NZL",
+      "country": "New Zealand",
+      "display_text": "f sponsors are unable to respond to an RFI for a CMN, the application will be referred under \nsection 24(5) of the Act. \nIf sponsors do not respond to RFIs, Medsafe will conclude the assessment by considering \nthe safety, quality and efficacy of the proposed medicine, based on the information already \nsubmitted, and make a recommendation on whether or not to approve the application. \n4.6 \nDecision and finalisation  \nIf Medsafe concludes that the application includes sufficient data to attest to the safety, \nquality and efficacy of the medicine and that the benefits outweigh the risk of harm to the \npatient, a recommendation that consent should be granted will be made to the Minister’s \ndelegate.  \nIn the case of NMAs, and CMNs referred under section 24(5), if the recommendation is \naccepted, then consent for the new medicine will be notified through publication of the \ndecision in the New Zealand Gazette.   \nIf Medsafe concludes that the application does not include sufficient data to attest to the \nsafety, quality and efficacy of the medicine and/or that the risks outweigh the benefits to the \npatient, the Minister’s delegate may refer the application to an advisory committee.   \nAdvice on specific issues relating to the application will be sought from the Medicine \nAssessment Advisory Committee (MAAC) which has expertise in the safety, quality and \nefficacy of medicines. Where an application is referred to the MAAC for advice, application \nprocessing timelines will be adjusted accordingly. The Committee typically meets three times \nper year and decisions are notified seven weeks following a meeting. \nSection 22 of the Medicines Act also permits the Minister’s delegate to refer any New \nMedicine Application to the MAAC for advice where he is not satisfied that the medicine \nshould be approved for use in New Zealand.   \nThe following types of medicines will typically be referred to the MAAC irrespective of \nwhether Medsafe has concluded that the application includes sufficient data to attest to the \n\n\nPAGE 12\n \n \nGRTPNZ: Overview \n \nPage 12 of 13 \n \nsafety, quality and efficacy of the medicine and that the benefits outweigh the risk of harm to \nthe patient: \n World-first new chemical entities (NCEs) and new biological entities (NBEs) \n new vaccines indicated for children \n novel technologies such as medicines derived from stem cells and nano-technology \n medicines that have been withdrawn or refused consent by a recognised regulator. \nConsent for changes to existing medicines and related products will be notified by letter from \nthe DGs delegate, unless the application has been referred under section 24(5) of the Act.  \nIn this latter case the applicat",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary new medicine application: administrative and decision process GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline. ",
+      "version_alignment": "GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline."
+    },
+    {
+      "evidence_id": "C65_035",
+      "document_index": 65,
+      "document_id": "F250_49ea5b8af6d58c870ef1",
+      "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+      "text_file": null,
+      "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+      "text_start": 30500,
+      "text_end": 33615,
+      "exact_original_text": "cant clinical need \nbut have been declined due to resource availability. \n \n5. Fees \nThe Ministry of Health is responsible for administering the Medicines Act 1981 and \nMedicines Regulations 1984. Its functions in relation to this legislation are funded from a \nmixture of Crown funding and third party revenue collected from fees set under the Act.  \nThe Act provides for the charging of fees in relation to applications for licences and for the \napproval of new and changed medicines and clinical trials. The schedule of fees payable is \ncontained in regulation 61 of the Medicines Regulations 1984.  \n\n\nPAGE 13\n \n \nGRTPNZ: Overview \n \nPage 13 of 13 \n \nRegulation 61A of the Regulations provides that the Director General of Health may waive or \nrefund, in whole or in part, a fee otherwise payable under regulation 61.  \nIn exercising this power the Director-General is obliged to have regard to the degree of \ncomplexity and time required to consider an application, and the interests of public health in \nNew Zealand.  \nA ‘standard’ waiver is applied in a number of instances to reduce the fee for approval of a \nnew or changed medicine in order to recognise the reduced time required to consider the \napplication. For example, a partial waiver is routinely applied to applications for approval of \nnew non-prescription medicines.  \nA partial fee waiver is also available for applications made under the abbreviated process for \nnew prescription medicines already approved by a recognised overseas regulator.  \nThe actual fee payable for an application of a particular type, after application of any \napplicable standard waiver, is set out in a schedule of fees.  \nApplicants may request additional partial or fee waivers in accordance with regulation 61A of \nthe Medicines Regulations 1984. \nFee waivers are rarely granted for changed medicine notifications especially when the \nchange notified relates to multiple products. This is because the change must be added to \neach regulatory file and the administrative cost must be recovered. \n \n6. Timelines \n6.1 \nTarget timelines \nTo provide sponsors with predictable timelines, Medsafe has used historical data to forecast \nthe percentage of applications through each application category in order to determine \nrealistic target timelines.  \nIt is important to note, however, that Medsafe can only commit to meeting target timelines \nwhere the sponsor has provided a complete and high-quality application. Performance \nagainst target timelines is published annually.  \n \n6.2 \nClock stops \nTarget timelines are expressed in calendar days and the total time includes the time taken \nfor sponsors to respond to RFI questions. Medsafe does not have a ‘stop clock’ policy and \nwill include the sponsor response time in reporting performance for the total evaluation time.   \n \nDocument history  \nRevision \nDate \n \nVersion \nNumber \nSummary of Changes \nJanuary \n2023 \nNew \nNew document following major review and restructure of \nGRTPNZ Part 2, which has been obsoleted.  \nApril 2023 \n1.1 \nNew title for guideline, changed from “Overview of medicine \nregulation”. \n \n \n",
+      "section": "§5 fees and §6 clock reporting",
+      "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": null,
+      "translation_status": "English original or no translation supplied",
+      "clause_id": "SDX-C65_035",
+      "verbatim_extracted_text": "cant clinical need \nbut have been declined due to resource availability. \n \n5. Fees \nThe Ministry of Health is responsible for administering the Medicines Act 1981 and \nMedicines Regulations 1984. Its functions in relation to this legislation are funded from a \nmixture of Crown funding and third party revenue collected from fees set under the Act.  \nThe Act provides for the charging of fees in relation to applications for licences and for the \napproval of new and changed medicines and clinical trials. The schedule of fees payable is \ncontained in regulation 61 of the Medicines Regulations 1984.  \n\n\nPAGE 13\n \n \nGRTPNZ: Overview \n \nPage 13 of 13 \n \nRegulation 61A of the Regulations provides that the Director General of Health may waive or \nrefund, in whole or in part, a fee otherwise payable under regulation 61.  \nIn exercising this power the Director-General is obliged to have regard to the degree of \ncomplexity and time required to consider an application, and the interests of public health in \nNew Zealand.  \nA ‘standard’ waiver is applied in a number of instances to reduce the fee for approval of a \nnew or changed medicine in order to recognise the reduced time required to consider the \napplication. For example, a partial waiver is routinely applied to applications for approval of \nnew non-prescription medicines.  \nA partial fee waiver is also available for applications made under the abbreviated process for \nnew prescription medicines already approved by a recognised overseas regulator.  \nThe actual fee payable for an application of a particular type, after application of any \napplicable standard waiver, is set out in a schedule of fees.  \nApplicants may request additional partial or fee waivers in accordance with regulation 61A of \nthe Medicines Regulations 1984. \nFee waivers are rarely granted for changed medicine notifications especially when the \nchange notified relates to multiple products. This is because the change must be added to \neach regulatory file and the administrative cost must be recovered. \n \n6. Timelines \n6.1 \nTarget timelines \nTo provide sponsors with predictable timelines, Medsafe has used historical data to forecast \nthe percentage of applications through each application category in order to determine \nrealistic target timelines.  \nIt is important to note, however, that Medsafe can only commit to meeting target timelines \nwhere the sponsor has provided a complete and high-quality application. Performance \nagainst target timelines is published annually.  \n \n6.2 \nClock stops \nTarget timelines are expressed in calendar days and the total time includes the time taken \nfor sponsors to respond to RFI questions. Medsafe does not have a ‘stop clock’ policy and \nwill include the sponsor response time in reporting performance for the total evaluation time.   \n \nDocument history  \nRevision \nDate \n \nVersion \nNumber \nSummary of Changes \nJanuary \n2023 \nNew \nNew document following major review and restructure of \nGRTPNZ Part 2, which has been obsoleted.  \nApril 2023 \n1.1 \nNew title for guideline, changed from “Overview of medicine \nregulation”. \n \n \n",
+      "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+      "start_offset": 30500,
+      "end_offset": 33615,
+      "section_article": "§5 fees and §6 clock reporting",
+      "pdf_page": null,
+      "language": "English",
+      "iso3": "NZL",
+      "country": "New Zealand",
+      "display_text": "cant clinical need \nbut have been declined due to resource availability. \n \n5. Fees \nThe Ministry of Health is responsible for administering the Medicines Act 1981 and \nMedicines Regulations 1984. Its functions in relation to this legislation are funded from a \nmixture of Crown funding and third party revenue collected from fees set under the Act.  \nThe Act provides for the charging of fees in relation to applications for licences and for the \napproval of new and changed medicines and clinical trials. The schedule of fees payable is \ncontained in regulation 61 of the Medicines Regulations 1984.  \n\n\nPAGE 13\n \n \nGRTPNZ: Overview \n \nPage 13 of 13 \n \nRegulation 61A of the Regulations provides that the Director General of Health may waive or \nrefund, in whole or in part, a fee otherwise payable under regulation 61.  \nIn exercising this power the Director-General is obliged to have regard to the degree of \ncomplexity and time required to consider an application, and the interests of public health in \nNew Zealand.  \nA ‘standard’ waiver is applied in a number of instances to reduce the fee for approval of a \nnew or changed medicine in order to recognise the reduced time required to consider the \napplication. For example, a partial waiver is routinely applied to applications for approval of \nnew non-prescription medicines.  \nA partial fee waiver is also available for applications made under the abbreviated process for \nnew prescription medicines already approved by a recognised overseas regulator.  \nThe actual fee payable for an application of a particular type, after application of any \napplicable standard waiver, is set out in a schedule of fees.  \nApplicants may request additional partial or fee waivers in accordance with regulation 61A of \nthe Medicines Regulations 1984. \nFee waivers are rarely granted for changed medicine notifications especially when the \nchange notified relates to multiple products. This is because the change must be added to \neach regulatory file and the administrative cost must be recovered. \n \n6. Timelines \n6.1 \nTarget timelines \nTo provide sponsors with predictable timelines, Medsafe has used historical data to forecast \nthe percentage of applications through each application category in order to determine \nrealistic target timelines.  \nIt is important to note, however, that Medsafe can only commit to meeting target timelines \nwhere the sponsor has provided a complete and high-quality application. Performance \nagainst target timelines is published annually.  \n \n6.2 \nClock stops \nTarget timelines are expressed in calendar days and the total time includes the time taken \nfor sponsors to respond to RFI questions. Medsafe does not have a ‘stop clock’ policy and \nwill include the sponsor response time in reporting performance for the total evaluation time.   \n \nDocument history  \nRevision \nDate \n \nVersion \nNumber \nSummary of Changes \nJanuary \n2023 \nNew \nNew document following major review and restructure of \nGRTPNZ Part 2, which has been obsoleted.  \nApril 2023 \n1.1 \nNew title for guideline, changed from “Overview of medicine \nregulation”. \n \n \n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary new medicine application: administrative and decision process GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline. ",
+      "version_alignment": "GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline."
+    },
+    {
+      "evidence_id": "C65_033",
+      "document_index": 65,
+      "document_id": "F250_49ea5b8af6d58c870ef1",
+      "raw_sha256": "0d94178c3dc8193e101fc48b3117f12fe5ae921d36199e5532de116a56f4d426",
+      "text_file": null,
+      "source_text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+      "text_start": 16500,
+      "text_end": 19600,
+      "exact_original_text": ". Please ensure your \nDMF/PMF holders send their email requests with EFT set up – DMF or PMF in the subject \nline. \nApplicants should contact Medsafe prior to submission of their medicine application or \nnotification if they have any questions. \n \n3.2  \nFormatting of electronic submissions \nMedsafe does not require dossiers to be prepared with eCTD software or in NeeS format, \nbut electronic format should: \n be in PDF except the application form which may be in MS Word \n have files and folders structured to correspond with Common Technical Document \n(CTD) format \n be readable in Acrobat Reader version X (10) \n enable the user to easily view a clear and legible copy of the information \n enable the user to print each document page by page maintaining fonts, orientation, \nformats and page numbers \n include a well-structured table of contents with hyperlinks to the CTD sections and \nother various documentation provided in the submission \n\n\nPAGE 8\n \n \nGRTPNZ: Overview \n \nPage 8 of 13 \n \n allow information (including images) to be copied and pasted into other common \nword programmes \n contain hyperlinks and bookmarks to cross-reference information \n virus checked using up to date programmes (with confirmation of this to be provided \nin the cover letter) \n not have any security settings or password protection enabled. \nOrganisation of any electronic response to a Request for Information (RFI) should follow the \nsame principles as the initial electronic submission. However, responses can be aligned with \nthe questions rather than be structured to correspond with CTD format. \n \nSource of electronic document \nIt is preferable that dossiers are created from an electronic source document so they can be \nsearched and copied to other documents. \nScanned paper documents are inferior to those produced from an electronic source \ndocument as they are more difficult to read and do not allow search function capability. If \nscanning is essential, then optical character recognition software (OCR) is required and text \nverified as accurate prior to submission. Scanning must be at resolutions to ensure the \ndocument is legible on screen and when printed. As a guide, text documents should be \nscanned at 300 dpi and photographs at 600 dpi. \nThe following documents do not have to be converted to searchable text: \n Good Manufacturing Practice (GMP) certificates \n Certificates of Analysis \n European Pharmacopoeial Commission Certificates of Suitability \n manufacturer’s licences \n documents in foreign languages and for which a translation is provided as searchable \ntext \n literature references (expect those in bibliographic applications) \n handwritten documents such as batch records and operating logs. \n  \n3.3. \nPre-submission meetings \nPre-submission meetings are not mandatory in New Zealand. As a small regulator, Medsafe \nis limited as to the advice it can give prior to lodgement of an application for consent without \ncompromising its ability to undertake independent assessments on behalf of the New \nZealand public.    \nInstead Medsafe encourages applicants to read the Gu",
+      "section": "§3.2 electronic CTD and OCR requirements",
+      "source_url": "https://www.medsafe.govt.nz/regulatory/Guideline/GRTPNZ/overview-of-medicine-regulation.pdf",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": null,
+      "translation_status": "English original or no translation supplied",
+      "clause_id": "SDX-C65_033",
+      "verbatim_extracted_text": ". Please ensure your \nDMF/PMF holders send their email requests with EFT set up – DMF or PMF in the subject \nline. \nApplicants should contact Medsafe prior to submission of their medicine application or \nnotification if they have any questions. \n \n3.2  \nFormatting of electronic submissions \nMedsafe does not require dossiers to be prepared with eCTD software or in NeeS format, \nbut electronic format should: \n be in PDF except the application form which may be in MS Word \n have files and folders structured to correspond with Common Technical Document \n(CTD) format \n be readable in Acrobat Reader version X (10) \n enable the user to easily view a clear and legible copy of the information \n enable the user to print each document page by page maintaining fonts, orientation, \nformats and page numbers \n include a well-structured table of contents with hyperlinks to the CTD sections and \nother various documentation provided in the submission \n\n\nPAGE 8\n \n \nGRTPNZ: Overview \n \nPage 8 of 13 \n \n allow information (including images) to be copied and pasted into other common \nword programmes \n contain hyperlinks and bookmarks to cross-reference information \n virus checked using up to date programmes (with confirmation of this to be provided \nin the cover letter) \n not have any security settings or password protection enabled. \nOrganisation of any electronic response to a Request for Information (RFI) should follow the \nsame principles as the initial electronic submission. However, responses can be aligned with \nthe questions rather than be structured to correspond with CTD format. \n \nSource of electronic document \nIt is preferable that dossiers are created from an electronic source document so they can be \nsearched and copied to other documents. \nScanned paper documents are inferior to those produced from an electronic source \ndocument as they are more difficult to read and do not allow search function capability. If \nscanning is essential, then optical character recognition software (OCR) is required and text \nverified as accurate prior to submission. Scanning must be at resolutions to ensure the \ndocument is legible on screen and when printed. As a guide, text documents should be \nscanned at 300 dpi and photographs at 600 dpi. \nThe following documents do not have to be converted to searchable text: \n Good Manufacturing Practice (GMP) certificates \n Certificates of Analysis \n European Pharmacopoeial Commission Certificates of Suitability \n manufacturer’s licences \n documents in foreign languages and for which a translation is provided as searchable \ntext \n literature references (expect those in bibliographic applications) \n handwritten documents such as batch records and operating logs. \n  \n3.3. \nPre-submission meetings \nPre-submission meetings are not mandatory in New Zealand. As a small regulator, Medsafe \nis limited as to the advice it can give prior to lodgement of an application for consent without \ncompromising its ability to undertake independent assessments on behalf of the New \nZealand public.    \nInstead Medsafe encourages applicants to read the Gu",
+      "text_sha256": "3d05fa8e99d64644eda02b429a6157b0d771ed51865f40d49ad616ba0213d511",
+      "start_offset": 16500,
+      "end_offset": 19600,
+      "section_article": "§3.2 electronic CTD and OCR requirements",
+      "pdf_page": null,
+      "language": "English",
+      "iso3": "NZL",
+      "country": "New Zealand",
+      "display_text": ". Please ensure your \nDMF/PMF holders send their email requests with EFT set up – DMF or PMF in the subject \nline. \nApplicants should contact Medsafe prior to submission of their medicine application or \nnotification if they have any questions. \n \n3.2  \nFormatting of electronic submissions \nMedsafe does not require dossiers to be prepared with eCTD software or in NeeS format, \nbut electronic format should: \n be in PDF except the application form which may be in MS Word \n have files and folders structured to correspond with Common Technical Document \n(CTD) format \n be readable in Acrobat Reader version X (10) \n enable the user to easily view a clear and legible copy of the information \n enable the user to print each document page by page maintaining fonts, orientation, \nformats and page numbers \n include a well-structured table of contents with hyperlinks to the CTD sections and \nother various documentation provided in the submission \n\n\nPAGE 8\n \n \nGRTPNZ: Overview \n \nPage 8 of 13 \n \n allow information (including images) to be copied and pasted into other common \nword programmes \n contain hyperlinks and bookmarks to cross-reference information \n virus checked using up to date programmes (with confirmation of this to be provided \nin the cover letter) \n not have any security settings or password protection enabled. \nOrganisation of any electronic response to a Request for Information (RFI) should follow the \nsame principles as the initial electronic submission. However, responses can be aligned with \nthe questions rather than be structured to correspond with CTD format. \n \nSource of electronic document \nIt is preferable that dossiers are created from an electronic source document so they can be \nsearched and copied to other documents. \nScanned paper documents are inferior to those produced from an electronic source \ndocument as they are more difficult to read and do not allow search function capability. If \nscanning is essential, then optical character recognition software (OCR) is required and text \nverified as accurate prior to submission. Scanning must be at resolutions to ensure the \ndocument is legible on screen and when printed. As a guide, text documents should be \nscanned at 300 dpi and photographs at 600 dpi. \nThe following documents do not have to be converted to searchable text: \n Good Manufacturing Practice (GMP) certificates \n Certificates of Analysis \n European Pharmacopoeial Commission Certificates of Suitability \n manufacturer’s licences \n documents in foreign languages and for which a translation is provided as searchable \ntext \n literature references (expect those in bibliographic applications) \n handwritten documents such as batch records and operating logs. \n  \n3.3. \nPre-submission meetings \nPre-submission meetings are not mandatory in New Zealand. As a small regulator, Medsafe \nis limited as to the advice it can give prior to lodgement of an application for consent without \ncompromising its ability to undertake independent assessments on behalf of the New \nZealand public.    \nInstead Medsafe encourages applicants to read the Gu",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary new medicine application: administrative and decision process GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline. ",
+      "version_alignment": "GRTPNZ overview version1.1 April2023; January2023 initial version. Not a substitute for detailed abbreviated-route guideline."
+    }
+  ]
 }

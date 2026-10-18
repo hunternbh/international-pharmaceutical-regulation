@@ -195,7 +195,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "CHN",
     "country": "China",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "foreign_clinical_data",
     "fixed_case_scope_status": "particular_evidence_only",
     "finding": "Foreign multicentre data can support a filing if Chinese requirements are met; clinical evidence about population differences remains relevant. It does not establish an FDA/EC approval shortcut.",
@@ -284,5 +284,7 @@
     ],
     "source_scope": "Foreign clinical evidence and ethnic differences; not recognition of a foreign authorisation decision",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

@@ -247,7 +247,7 @@
     "iso3": "LKA",
     "country": "Sri Lanka",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "Conditional shall-register directive",
     "source_url": "https://cdn.prod.website-files.com/666d0695ca3ba7fa496a5068/679c90bf660dfa9e9b05f552_Guideline%20on%20Reliance%20Practices%20in%20Marketing%20Authorization%20of%20Medicine%20-%20Revision%2001.pdf",
     "document_id": "4871136124016cb83333",
@@ -559,6 +559,7 @@
         "version_alignment": "Version on the preserved source; not backdated to older event rows"
       }
     ],
+    "other_reviewed_routes": [],
     "review_details": {
       "iso3": "LKA",
       "country": "Sri Lanka",
@@ -892,5 +893,7 @@
       "possible_full_report_gate": true,
       "gate_adjudication": "Explicit full-report wording for internal new-molecule evaluation, but unreductant is malformed and applicant delivery/nonpublic requirement is not independently explicit. Proof-of-approval public report option does not automatically replace later scientific report. Count only in sensitivity/possible-gate category, not confirmed public-only exclusion."
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

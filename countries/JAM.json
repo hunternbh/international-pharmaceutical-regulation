@@ -189,7 +189,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "JAM",
     "country": "Jamaica",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "import_conformity",
     "fixed_case_scope_status": "import_condition_only",
     "finding": "An origin-country conformity certificate is required for import, with local-law prohibitions retained. This does not establish reduced scientific assessment of the fixed medicine.",
@@ -235,5 +235,7 @@
     ],
     "source_scope": "Import conformity and certification; no general reliance approval pathway established",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

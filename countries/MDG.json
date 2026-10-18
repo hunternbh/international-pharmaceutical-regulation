@@ -122,7 +122,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "MDG",
     "country": "Madagascar",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "emergency_aid",
     "fixed_case_scope_status": "outside_emergency_scope",
     "finding": "The foreign-authorization/WHO document exception concerns international emergency-aid imports. The fixed ordinary commercial medicine is outside that exception.",
@@ -168,5 +168,7 @@
     ],
     "source_scope": "Supplemental evidence, scope/version retained in source records",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

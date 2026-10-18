@@ -290,7 +290,7 @@
     "iso3": "SGP",
     "country": "Singapore",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "Abridged and verification routes with different thresholds",
     "source_url": "https://www.hsa.gov.sg/therapeutic-products/registration-of-therapeutic-products/register-your-therapeutic-product/registration-of-therapeutic-products/evaluation-routes/",
     "document_id": "8f1f11a6137eca53b27a",
@@ -632,6 +632,7 @@
         "exact_offset_validated": true
       }
     ],
+    "other_reviewed_routes": [],
     "review_details": {
       "iso3": "SGP",
       "country": "Singapore",
@@ -1014,5 +1015,7 @@
         }
       ]
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

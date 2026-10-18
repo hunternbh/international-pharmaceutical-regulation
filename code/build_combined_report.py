@@ -161,10 +161,12 @@ def build(output):
  std_path=O.parent/'Regulatory_Reliance_Standard_Drug_20261018/panel.html'
  standard_panel=std_path.read_text('utf8') if std_path.exists() else ''
  if standard_panel:
-  rr=read(O.parent/'Regulatory_Reliance_Standard_Drug_20261018/analysis_results.json');nn=rr['adjudicated_legal_comparisons']['complete_report_gate']['n']
+  rr=read(O.parent/'Regulatory_Reliance_Standard_Drug_20261018/analysis_results.json');nn=rr['adjudicated_legal_comparisons']['complete_report_gate']['n'];case_n=rr['sample']['primary_pathway_records']
   std_download=Path(os.path.relpath(O/'standard_drug',output.parent)).as_posix()
   standard_panel=standard_panel.replace('</section>',f'<p><a href="{std_download}/analysis_results.json">Download results JSON</a> · <a href="{std_download}/all_250_country_comparison.json">Country comparisons JSON</a> · <a href="{std_download}/reproduce_counts.py">Reproduce the counts</a> · <a href="{std_download}/research_questions.json">Economics questions JSON</a></p></section>',1)
-  top_findings=top_findings.replace('<ol>',f'<ol><li><b>For the same drug, access to the underlying review can determine the available shortcut.</b> We establish a complete-assessment-report condition in {nn} selected route options. Public approval summaries do not meet that condition; other eligibility requirements and alternative routes remain separate. <a href="#standardDrugPanel">See the fixed-drug comparison</a>.</li>',1)
+  top_findings=top_findings.replace('<ol>',f'<ol><li><b>For the same drug, access to the underlying review can determine the available shortcut.</b> We establish a complete-assessment-report condition in {nn} of {case_n} selected country route/version comparisons. Public approval summaries do not meet that condition; other eligibility requirements and alternative routes remain separate. <a href="#standardDrugPanel">See the fixed-drug comparison</a>.</li>',1)
+  top_findings=top_findings.replace('Counts use 89 selected national pathways.',f'Wording percentages use 89 selected national pathways. Same-drug counts use {case_n} selected country route/version comparisons.')
+  header=header.replace(f'<span>{counts["jurisdictions_individually_reviewed"]} jurisdiction text reviews</span>',f'<span>{case_n} same-drug country comparisons</span>')
  if standard_panel:
   header=header.replace('<a href="#wording">','<a href="#standardDrugPanel">Same-drug comparison</a><a href="#wording">')
   # Preserve the established panel order. Add the new comparison after the
@@ -180,6 +182,8 @@ if (STD/'analysis_results.json').exists():
  (O/'standard_drug').mkdir(exist_ok=True)
  for name in ['analysis_results.json','all_250_country_comparison.json','primary_country_comparison.json','comparison_adjudication.json','research_questions.json','case_definition.json','european_family.json','reproduce_counts.py']:
   shutil.copyfile(STD/name,O/'standard_drug'/name)
+ for name in ['review_summary.json','source_document_review.json','new_wording_clauses.json','approved_integration.json','versioned_country_comparison.json']:
+  if (STD/'expansion_20261018'/name).exists():shutil.copyfile(STD/'expansion_20261018'/name,O/'standard_drug'/('expansion_'+name))
 outputs=[build(TIMELINE),build(O/'International_Pharmaceutical_Regulation.html')]
 manifest=dict(created_utc=datetime.datetime.now(datetime.timezone.utc).isoformat(),outputs=outputs,timeline_source=str(SOURCE),timeline_source_sha256=hashlib.sha256(SOURCE.read_bytes()).hexdigest(),wording_source=str(LEGAL),wording_source_sha256=hashlib.sha256(LEGAL.read_bytes()).hexdigest(),groups=HELP,data_policy='Display-only regrouping. No dates, categories, counts, links or legal coding changed.',panel_order=['Main findings','Country-year heatmap','Reference-authority reach','Descending condition counts','Text comparison','Standardized-drug legal comparison','Single-country exact wording','Published research','Review additions','Country audit','What is complete, and what resumes next?'])
 (HERE/'combined_report_manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf8');print(json.dumps(outputs,indent=2))

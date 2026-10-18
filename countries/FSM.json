@@ -220,7 +220,7 @@
     "iso3": "FSM",
     "country": "Micronesia (Federated States of)",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "Conditional exemption tied to domestic list",
     "source_url": "https://hsa.gov.fm/wp-content/uploads/2023/06/FSM-Safe-Pharmaceutical-Act-of-2022.pdf",
     "document_id": "36400116c983759b5d18",
@@ -546,6 +546,7 @@
         "version_alignment": "Version on the preserved source; not backdated to older event rows"
       }
     ],
+    "other_reviewed_routes": [],
     "review_details": {
       "iso3": "FSM",
       "country": "Micronesia (Federated States of)",
@@ -891,5 +892,7 @@
       "possible_full_report_gate": false,
       "gate_adjudication": ""
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

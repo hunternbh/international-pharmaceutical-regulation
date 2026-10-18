@@ -189,34 +189,34 @@
     "iso3": "MWI",
     "country": "Malawi",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
-    "pathway": "Fast-track assessment with extended-clock possibility",
+    "sample": "selected_national_route_comparisons",
+    "pathway": "Fast-track registration: SRA-registered medicines",
     "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
-    "document_id": "94c430f06e6a86625531",
-    "genre": "Guideline",
-    "language": "en",
-    "scope": "Human-medicine authorisation",
-    "version_note": "Malawi fast-track guideline effectiveMay 2023, section 4.3 for SRA-approved medicines. WHO sharing consents in 4.1 are not automatically conditions of unilateral SRA reliance.",
+    "document_id": "F250_19c0ca308af1750ba981",
+    "genre": "Official national guideline",
+    "language": "English",
+    "scope": "Initial human medicinal product authorization",
+    "version_note": "PMRA-GD-REG-MA-002-00, effective May 2023.",
     "components": {
       "new_active_substance": {
-        "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
-        "evidence_ids": []
+        "state": "explicit requirement",
+        "finding": "All products holding valid SRA MA eligible; not restricted to programme medicines.",
+        "evidence_ids": [
+          "C59_028"
+        ]
       },
       "named_reference_agencies": {
         "state": "explicit requirement",
-        "finding": "SRA defined through pre 2015 ICH countries/regions; exact accepted-agency version remains to be tied to that definition.",
+        "finding": "SRA defined through ICH membership/observer/associate and pre-2015 members; FDA/EC not individually enumerated here.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
+          "C59_027"
         ]
       },
       "prior_approval_count": {
         "state": "explicit requirement",
-        "finding": "One qualifying SRA registration with full application supports fast-track consideration.",
+        "finding": "SRA-country or region MA; no two-authority threshold.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
+          "C59_028"
         ]
       },
       "standalone_review": {
@@ -241,10 +241,9 @@
       },
       "report_completeness": {
         "state": "explicit requirement",
-        "finding": "Foreign SRA evaluation reports AND applicant responses, with signature of responsible SRA person. Nonpublic/unredacted qualification not explicit.",
+        "finding": "Evaluation reports and applicant responses required, signed by responsible reference-SRA person. No explicit complete/unredacted qualifier.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
+          "C59_028"
         ]
       },
       "nonpublic_reports": {
@@ -314,10 +313,9 @@
       },
       "filing_fee": {
         "state": "explicit requirement",
-        "finding": "Full registration fee required.",
+        "finding": "Allopathic medicine application fees required.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
+          "C59_028"
         ]
       },
       "translation_legalization": {
@@ -331,11 +329,10 @@
         "evidence_ids": []
       },
       "clock": {
-        "state": "discretionary/conditional",
-        "finding": "SRA fast-track 90 calendar days, extendable for applicant delay. Separate public-health 180 day route not pooled.",
+        "state": "explicit requirement",
+        "finding": "90 calendar days; applicant delayed additional information may extend. Not observed duration.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
+          "C59_028"
         ]
       },
       "domestic_discretion": {
@@ -346,82 +343,118 @@
     },
     "cases": {
       "A": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
-        ],
+        "status": "full eligibility unresolved",
+        "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
-        ],
-        "status": "condition established but full eligibility unresolved"
+          "C59_028",
+          "C59_027"
+        ]
       },
       "B": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
-        ],
+        "status": "full eligibility unresolved",
+        "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
-        ],
-        "status": "condition established but full eligibility unresolved"
+          "C59_028",
+          "C59_027"
+        ]
       },
       "C": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
-        ],
+        "status": "full eligibility unresolved",
+        "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
-        ],
-        "status": "condition established but full eligibility unresolved"
+          "C59_028",
+          "C59_027"
+        ]
       },
       "D": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
-        ],
+        "status": "full eligibility unresolved",
+        "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
-        ],
-        "status": "condition established but full eligibility unresolved"
+          "C59_028",
+          "C59_027"
+        ]
       },
       "E": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
-        "decisive_conditions": [],
-        "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
-        ],
+        "status": "full eligibility unresolved",
+        "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
         "evidence_ids": [
-          "MWI-Q01",
-          "MWI-CONTEXT-1"
-        ],
-        "status": "condition established but full eligibility unresolved"
+          "C59_028",
+          "C59_027"
+        ]
       }
     },
     "pairwise_gates": {
-      "interpretation": {
-        "status": "reviewed contextual interpretation",
-        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      "B-A": {
+        "switch_established": null,
+        "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+      },
+      "B-C": {
+        "switch_established": null,
+        "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+      },
+      "B-D": {
+        "switch_established": null,
+        "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+      },
+      "B-E": {
+        "switch_established": null,
+        "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
       }
     },
-    "shared_authorization_effect": {
-      "status": "unresolved in selected source",
-      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
-    },
+    "shared_authorization_effect": null,
     "evidence": [
+      {
+        "evidence_id": "C59_028",
+        "document_index": 59,
+        "document_id": "F250_19c0ca308af1750ba981",
+        "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+        "text_file": null,
+        "source_text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+        "text_start": 8420,
+        "text_end": 10096,
+        "exact_original_text": " \nits decision on the product to the applicant within 180 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n    \n4.3. SRA REGISTERED MEDICINES     \n    \nAll products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n \n \n    \n \n",
+        "section": "§4.3 SRA route and §4.3.2 processing",
+        "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "visual_original_checked": false,
+        "ocr_page": null,
+        "research_english_rendering": null,
+        "translation_status": "English original or no translation supplied",
+        "clause_id": "C59_028",
+        "verbatim_extracted_text": " \nits decision on the product to the applicant within 180 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n    \n4.3. SRA REGISTERED MEDICINES     \n    \nAll products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n \n \n    \n \n",
+        "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+        "start_offset": 8420,
+        "end_offset": 10096,
+        "section_article": "§4.3 SRA route and §4.3.2 processing",
+        "pdf_page": null,
+        "language": "English"
+      },
+      {
+        "evidence_id": "C59_027",
+        "document_index": 59,
+        "document_id": "F250_19c0ca308af1750ba981",
+        "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+        "text_file": null,
+        "source_text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+        "text_start": 2400,
+        "text_end": 4950,
+        "exact_original_text": "ng words are defined as follows:    \n \n‘Authority’ means Pharmacy and Medicines Regulatory Authority  \n   \n‘Medicinal purpose’ means treating or preventing a disease, diagnosing or \nascertaining the presence and extent of a physiological function, contraception, \ninducing anaesthesia, altering normal physiologic function permanently or \ntemporarily in any way in humans.     \n    \n‘Applicant’ means the product owner or licence holder.  \n    \n‘Medicine, medicine or pharmaceutical product’ means a substance or mixture of \nsubstances prepared, sold or represented for use in -     \n(a) Diagnosis, treatment, mitigation or prevention of disease, disorders or abnormal \nphysical state or the symptoms of it in human or animal    \n(b) Restoring, correcting or modifying organic functions in human or animal.     \n    \n‘Finished Pharmaceutical Product (FPP)’ means a product that has undergone all \nstages of production, including packaging in its final container and labelling.    \n‘Manufacture (manufacturing)’ means all operations of purchase of materials, \nproduction, quality control, release, storage and the related controls.     \n \n\n\nPAGE 5\nPage 5 of 8 \n \n‘Manufacturer’ means a person or firm that is engaged in the manufacture of \nproduct(s).     \n \n‘Stringent Regulatory Authority’ means a national medicines regulatory authority \nwhich is a member, observer or associate of the International Conference on \nHarmonization of Technical Requirements for Registration of Pharmaceuticals for \nHuman Use, as may be updated from time to time. \n    \n‘Variation’ means a change to any aspect of a pharmaceutical product, including but \nnot limited to a change to formulation, method and site of manufacture, specifications \nfor the finished product and ingredients, container and container labelling and \nproduct information.     \n4.0 REQUIREMENTS    \n    \n4.1 WHO PREQUALIFIED MEDICINAL PRODUCTS    \n• \nThis guideline outlines the procedure for the application and registration of \nWHO prequalified medicines by the Authority.     \n• \nThis is based on a collaborative procedure between the WHO Prequalification \nof Medicines Programme (WHO/PQP) and the Authority in the assessment and \naccelerated registration of WHO prequalified medicines.    \n• \nApplicants that have been prequalified by the WHO/PQP can take advantage \nof this procedure for fast track registration of their prequalified medicinal \nproduct by the Authority.    \n    \n4.1.1 APPLICATION STEPS    \n1. Applicant should submit the product dossier for a WHO-prequalified \npharmaceutic",
+        "section": "§2–3 scope and SRA definition",
+        "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "visual_original_checked": false,
+        "ocr_page": null,
+        "research_english_rendering": null,
+        "translation_status": "English original or no translation supplied",
+        "clause_id": "C59_027",
+        "verbatim_extracted_text": "ng words are defined as follows:    \n \n‘Authority’ means Pharmacy and Medicines Regulatory Authority  \n   \n‘Medicinal purpose’ means treating or preventing a disease, diagnosing or \nascertaining the presence and extent of a physiological function, contraception, \ninducing anaesthesia, altering normal physiologic function permanently or \ntemporarily in any way in humans.     \n    \n‘Applicant’ means the product owner or licence holder.  \n    \n‘Medicine, medicine or pharmaceutical product’ means a substance or mixture of \nsubstances prepared, sold or represented for use in -     \n(a) Diagnosis, treatment, mitigation or prevention of disease, disorders or abnormal \nphysical state or the symptoms of it in human or animal    \n(b) Restoring, correcting or modifying organic functions in human or animal.     \n    \n‘Finished Pharmaceutical Product (FPP)’ means a product that has undergone all \nstages of production, including packaging in its final container and labelling.    \n‘Manufacture (manufacturing)’ means all operations of purchase of materials, \nproduction, quality control, release, storage and the related controls.     \n \n\n\nPAGE 5\nPage 5 of 8 \n \n‘Manufacturer’ means a person or firm that is engaged in the manufacture of \nproduct(s).     \n \n‘Stringent Regulatory Authority’ means a national medicines regulatory authority \nwhich is a member, observer or associate of the International Conference on \nHarmonization of Technical Requirements for Registration of Pharmaceuticals for \nHuman Use, as may be updated from time to time. \n    \n‘Variation’ means a change to any aspect of a pharmaceutical product, including but \nnot limited to a change to formulation, method and site of manufacture, specifications \nfor the finished product and ingredients, container and container labelling and \nproduct information.     \n4.0 REQUIREMENTS    \n    \n4.1 WHO PREQUALIFIED MEDICINAL PRODUCTS    \n• \nThis guideline outlines the procedure for the application and registration of \nWHO prequalified medicines by the Authority.     \n• \nThis is based on a collaborative procedure between the WHO Prequalification \nof Medicines Programme (WHO/PQP) and the Authority in the assessment and \naccelerated registration of WHO prequalified medicines.    \n• \nApplicants that have been prequalified by the WHO/PQP can take advantage \nof this procedure for fast track registration of their prequalified medicinal \nproduct by the Authority.    \n    \n4.1.1 APPLICATION STEPS    \n1. Applicant should submit the product dossier for a WHO-prequalified \npharmaceutic",
+        "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+        "start_offset": 2400,
+        "end_offset": 4950,
+        "section_article": "§2–3 scope and SRA definition",
+        "pdf_page": null,
+        "language": "English"
+      },
       {
         "clause_id": "MWI-Q01",
         "iso3": "MWI",
@@ -467,32 +500,765 @@
         "version_alignment": "Version on the preserved source; not backdated to older event rows"
       }
     ],
+    "other_reviewed_routes": [
+      {
+        "record_key": "baseline",
+        "selected_for_primary": false,
+        "pathway": "Fast-track assessment with extended-clock possibility",
+        "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+        "version_note": null,
+        "version_scope_note": "Malawi fast-track guideline effectiveMay 2023, section 4.3 for SRA-approved medicines. WHO sharing consents in 4.1 are not automatically conditions of unilateral SRA reliance.",
+        "scope": "Human-medicine authorisation",
+        "components": {
+          "new_active_substance": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "named_reference_agencies": {
+            "state": "explicit requirement",
+            "finding": "SRA defined through pre 2015 ICH countries/regions; exact accepted-agency version remains to be tied to that definition.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "prior_approval_count": {
+            "state": "explicit requirement",
+            "finding": "One qualifying SRA registration with full application supports fast-track consideration.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "standalone_review": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "approval_age": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "foreign_marketing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "same_product_dossier_site": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "report_completeness": {
+            "state": "explicit requirement",
+            "finding": "Foreign SRA evaluation reports AND applicant responses, with signature of responsible SRA person. Nonpublic/unredacted qualification not explicit.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "nonpublic_reports": {
+            "state": "unresolved/not stated",
+            "finding": "Reports, responses and signature may exceed a public summary, but an unconditional nonpublic/unredacted requirement is not established.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "accepted_redactions": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "public_report_sufficiency": {
+            "state": "unresolved/not stated",
+            "finding": "Public material alone is not established sufficient for the required report, responses and SRA signature.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "applicant_consent": {
+            "state": "discretionary/conditional",
+            "finding": "Consent to WHO sharing is explicit for the WHO-prequalified route; not an established universal unilateral-SRA consent gate.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "reference_authority_permission": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "regulator_to_regulator_sharing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "local_clinical_evidence": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "quality_gmp": {
+            "state": "explicit requirement",
+            "finding": "Full application and product samples required; other national quality rules incorporated.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "scientific_assessment_retained": {
+            "state": "explicit requirement",
+            "finding": "PMRA evaluates foreign reports and responses with national registration requirements.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "local_representative": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "filing_fee": {
+            "state": "explicit requirement",
+            "finding": "Full registration fee required.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "translation_legalization": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "cpp": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "clock": {
+            "state": "discretionary/conditional",
+            "finding": "SRA fast-track 90 calendar days, extendable for applicant delay. Separate public-health 180 day route not pooled.",
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "domestic_discretion": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          }
+        },
+        "cases": {
+          "A": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "B": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "C": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "D": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          },
+          "E": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "MWI-Q01",
+              "MWI-CONTEXT-1"
+            ]
+          }
+        },
+        "gates": null,
+        "gate_notes": null,
+        "evidence": [
+          {
+            "clause_id": "MWI-Q01",
+            "iso3": "MWI",
+            "event_id": "MWI_097",
+            "document_id": "94c430f06e6a86625531",
+            "source_id": "19c0ca308af1750b",
+            "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+            "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+            "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+            "start_offset": 8695,
+            "end_offset": 10082,
+            "pdf_page": 7,
+            "verbatim_extracted_text": "All products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.",
+            "display_text": "All products with valid marketing authorization issued by SRA countries or region will be eligible for fast-tract registration. This will include countries that were members of the ICH prior to 2015. 4.3.1 APPLICATION STEPS Applicant for the registration of medicines under this category shall: PAGE 8 Page 8 of 8 1. Submit full application as per the Authority’s requirement for the registration of medicines. 2. Pay the required application fees for the registration of allopathic medicines as per the fee schedule of the Authority. (access a copy of the fee schedule at www.pmra.mw). 3. Submit the required number of samples of the product as per the Authority’s sample schedule. 4. Evidence that the product is registered in SRA country, evaluation reports by reference SRA country(ies) and responses by the applicant. The report from reference SRA need to be signed by response person at the reference SRA. 4.3.2 PROCESSING Products submitted through this route will be processed without following principle of first in first evaluated. The Authority will assess the application and communicate its decision on the product to the applicant within 90 calendar days. In cases where the applicant does not provide additional information in time as requested by the Authority, the 90-day timeline may be extended further.",
+            "feature_tags": [
+              "reports",
+              "decision_clock"
+            ],
+            "role": "Permission and conditions",
+            "language": "en",
+            "language_status": "Official English source",
+            "quote_method": "Exact substring of preserved extracted text",
+            "ocr_in_passage": false,
+            "review_status": "Assistant source-text review in this run; not independent legal certification",
+            "research_interpretation": "",
+            "version_alignment": "Version on the preserved source; not backdated to older event rows",
+            "evidence_tier": "national_rule",
+            "section_article": "Permission and conditions",
+            "translation_review": null,
+            "selected_primary_document": true
+          },
+          {
+            "clause_id": "MWI-CONTEXT-1",
+            "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+            "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+            "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+            "start_offset": 0,
+            "end_offset": 10096,
+            "verbatim_extracted_text": "PAGE 1\nPage 1 of 8 \n \n \nDoc. No: PMRA-GD-REG-MA-002-00 \n \n \n \n \nEffective Date: May 2023 \n \n \n \n \n \nGUIDANCE FOR THE REGISTRATION OF HUMAN MEDICINAL PRODUCTS \nCLASSIFIED FOR FAST TRACK PROCESS \n \n \n \n \n \n \n \n \n \n\n\nPAGE 2\nPage 2 of 8 \n \nTABLE OF CONTENTS      \n   \n \n1-Abbreviations .............................................................................................................. 3 \n2.0 Scope ......................................................................................................................... 4 \n3.0 Glossary .................................................................................................................... 4 \n4.0 Requirements ........................................................................................................... 5 \n4.1 Who Prequalified Medicinal Products.................................................................. 5 \n4.2 Program Medicines ............................................................................................... 7 \n4.3. SRA Registered Medicines ................................................................................... 7 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\nPAGE 3\nPage 3 of 8 \n \n1-ABBREVIATIONS \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFPP \nGMP   \n \nFinished Pharmaceutical Product \nGood Manufacturing Practices \nICH   \n \nInternational Conference on \nHarmonization    \nSRA  \n \nStringent Regulatory Authority   \nQIS   \n \nQuality Information Summary \nWHO \nWHO/PQP   \n \nWorld Health Organization  \nWorld Health Organization  \nPrequalification of Medicines \nProgramme  \n\n\nPAGE 4\nPage 4 of 8 \n \n2.0 SCOPE    \nThis guideline covers the requirement and processing of medicines classified by the \nAuthority for expedited processing for registration. Currently, the following \ncategories of applications are eligible to be reviewed through fast-track registration;    \n• \nWorld Health Organization (WHO) Prequalified Products    \n• \nPublic health products (Anti-Retroviral Medicines, Anti-Malaria medicines, \nMedicines for Tuberculosis, Reproductive health products and Medicines for \nneglected health products. The Authority may fast-track the review of other \nproducts on case by case basis.    \n• \nProduct Registered by countries within the International Conference on \nHarmonization (ICH) region.    \n    \n3.0 GLOSSARY    \n    \nIn the context of this guideline, the following words are defined as follows:    \n \n‘Authority’ means Pharmacy and Medicines Regulatory Authority  \n   \n‘Medicinal purpose’ means treating or preventing a disease, diagnosing or \nascertaining the presence and extent of a physiological function, contraception, \ninducing anaesthesia, altering normal physiologic function permanently or \ntemporarily in any way in humans.     \n    \n‘Applicant’ means the product owner or licence holder.  \n    \n‘Medicine, medicine or pharmaceutical product’ means a substance or mixture of \nsubstances prepared, sold or represented for use in -     \n(a) Diagnosis, treatment, mitigation or prevention of disease, disorders or abnormal \nphysical state or the symptoms of it in human or animal    \n(b) Restoring, correcting or modifying organic functions in human or animal.     \n    \n‘Finished Pharmaceutical Product (FPP)’ means a product that has undergone all \nstages of production, including packaging in its final container and labelling.    \n‘Manufacture (manufacturing)’ means all operations of purchase of materials, \nproduction, quality control, release, storage and the related controls.     \n \n\n\nPAGE 5\nPage 5 of 8 \n \n‘Manufacturer’ means a person or firm that is engaged in the manufacture of \nproduct(s).     \n \n‘Stringent Regulatory Authority’ means a national medicines regulatory authority \nwhich is a member, observer or associate of the International Conference on \nHarmonization of Technical Requirements for Registration of Pharmaceuticals for \nHuman Use, as may be updated from time to time. \n    \n‘Variation’ means a change to any aspect of a pharmaceutical product, including but \nnot limited to a change to formulation, method and site of manufacture, specifications \nfor the finished product and ingredients, container and container labelling and \nproduct information.     \n4.0 REQUIREMENTS    \n    \n4.1 WHO PREQUALIFIED MEDICINAL PRODUCTS    \n• \nThis guideline outlines the procedure for the application and registration of \nWHO prequalified medicines by the Authority.     \n• \nThis is based on a collaborative procedure between the WHO Prequalification \nof Medicines Programme (WHO/PQP) and the Authority in the assessment and \naccelerated registration of WHO prequalified medicines.    \n• \nApplicants that have been prequalified by the WHO/PQP can take advantage \nof this procedure for fast track registration of their prequalified medicinal \nproduct by the Authority.    \n    \n4.1.1 APPLICATION STEPS    \n1. Applicant should submit the product dossier for a WHO-prequalified \npharmaceutical product to the Authority. The dossier submitted should be the \nsame as submitted to the WHO-PQP during the initial prequalification \nprocedure, and subsequent variation documentation where applicable;  \n \nThe application should include;    \n    \na) A completed application form for the registration of the product, including \nthe same technical information as that submitted to WHO/PQP. The \ntechnical part of the dossier should be identical to the current version of \nthe WHO/PQP dossier.    \n\n\nPAGE 6\nPage 6 of 8 \n \n    \nb) The following country specific documentation;    \ni) \nExecuted batch manufacturing records of one production batch.    \nii) \nWhere applicable, long-term stability studies protocol and report \nconducted at Zone IVB conditions    \nCopy of the current version of Quality Information Summary (QIS) submitted to the \nWHO.    \nc) Pay the normal product registration fees as per prescribed fee schedule. \n(access a copy of the fee schedule at www.pmra.mw).    \n2. In situations where the applicant wishes to apply the Procedure to an application \nwhich is already pending with the Authority, the applicant should first update the \ndossier to ensure that the technical part of the information is the same as that \nsubmitted to WHO.     \n    \n3. Complete and submit an expression of interest form (Part A of Appendix 3) to the \nAuthority through the WHO-PQ collaborative procedure focal person of the \nAuthority.     \n    \n4. The Authority shall communicate its consent to apply the procedure to the \napplication for registration of the product and to request the WHO-PQ to share \nproduct specific information by completing and signing Part B of Appendix 3.    \n    \n5. Applicant shall then complete and submit an expression of interest form (Part A \nof Appendix 3) to WHO-PQP directing the PQP to provide full access to the \ninformation on the prequalified product to the Authority.    \n    \n4.1.2 PROCESSING    \nThe Authority shall process the application and communicate its decision on the \nproduct to the applicant and WHO within 90 calendar days.    \n    \n4.1.3 POST APPROVAL    \n    \nAll post-prequalification variations submitted to WHO shall be submitted \nsimultaneously to the Authority after the product has been registered.   The variation \nshall only be approved by the Authority only after a positive response by WHO PQP. \n    \n\n\nPAGE 7\nPage 7 of 8 \n \n \n4.2 PUBLIC HEALTH MEDICINES   \n   \nThe applicant shall be required to express an interest to register any product to the \nAuthority with justification of fast-tracking registration of the product. The Authority \nshall determine if the product qualifies to be registered through fast tract \nregistration. \n \n    4.2.1 APPLICATION STEPS    \n \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required fast-track application fees for the registration of medicines as per \nthe fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample guideline.    \n4. Fast tract registration shall only apply to medicines manufactured at sites that are \ngood manufacturing practices (GMP) compliant with the Authority. \n    \n4.2.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 180 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n    \n4.3. SRA REGISTERED MEDICINES     \n    \nAll products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n \n \n    \n \n",
+            "section_article": "Context surrounding selected primary clauses; exact headings retained",
+            "language": "en",
+            "quote_method": "Exact substring of preserved decoded text",
+            "version_alignment": "Version on the preserved source; not backdated to older event rows"
+          }
+        ],
+        "selection_recommendation": null,
+        "selection_reason": null
+      }
+    ],
     "review_details": {
+      "record_id": "MWI_EXP_C_59",
       "iso3": "MWI",
       "country": "Malawi",
-      "selected_document_id": "94c430f06e6a86625531",
-      "source_id": "19c0ca308af1750b",
+      "pathway": "Fast-track registration: SRA-registered medicines",
+      "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+      "document_id": "F250_19c0ca308af1750ba981",
+      "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+      "text_file": null,
+      "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+      "language": "English",
+      "genre": "Official national guideline",
+      "scope": "Initial human medicinal product authorization",
+      "version_note": "PMRA-GD-REG-MA-002-00, effective May 2023.",
+      "primary_comparison": true,
+      "selection_recommendation": "alternate",
+      "selection_reason": "Preserve dated alternative; do not silently replace the existing selected baseline.",
+      "components23": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "All products holding valid SRA MA eligible; not restricted to programme medicines.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "SRA defined through ICH membership/observer/associate and pre-2015 members; FDA/EC not individually enumerated here.",
+          "evidence_ids": [
+            "C59_027"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "SRA-country or region MA; no two-authority threshold.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Evaluation reports and applicant responses required, signed by responsible reference-SRA person. No explicit complete/unredacted qualifier.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Allopathic medicine application fees required.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "90 calendar days; applicant delayed additional information may extend. Not observed duration.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": false,
+        "one_approval_alternative_described": false,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {
+        "second_approval_selected_route": {
+          "finding": "One SRA MA described.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "one_approval_alternative_described": {
+          "finding": "Single-approval selected route is coded separately; no multi-approval-route alternative inferred.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "status": "full eligibility unresolved",
+          "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
+          "evidence_ids": [
+            "C59_028",
+            "C59_027"
+          ]
+        },
+        "B": {
+          "status": "full eligibility unresolved",
+          "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
+          "evidence_ids": [
+            "C59_028",
+            "C59_027"
+          ]
+        },
+        "C": {
+          "status": "full eligibility unresolved",
+          "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
+          "evidence_ids": [
+            "C59_028",
+            "C59_027"
+          ]
+        },
+        "D": {
+          "status": "full eligibility unresolved",
+          "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
+          "evidence_ids": [
+            "C59_028",
+            "C59_027"
+          ]
+        },
+        "E": {
+          "status": "full eligibility unresolved",
+          "finding": "Signed reference evaluation report and other application criteria must be established. WHO-PQ consent/full-access rules in §4.1 are not transferred to selected SRA §4.3.",
+          "evidence_ids": [
+            "C59_028",
+            "C59_027"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B-A": {
+          "switch_established": null,
+          "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+        },
+        "B-C": {
+          "switch_established": null,
+          "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+        },
+        "B-D": {
+          "switch_established": null,
+          "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+        },
+        "B-E": {
+          "switch_established": null,
+          "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+        }
+      },
+      "evidence_ids": [
+        "C59_028",
+        "C59_027"
+      ],
+      "one_approval_route_described": {
+        "state": true,
+        "finding": "Selected route describes a qualifying single reference approval; distinct from an alternative to a multi-approval route."
+      },
+      "evidence": [
+        {
+          "evidence_id": "C59_028",
+          "document_index": 59,
+          "document_id": "F250_19c0ca308af1750ba981",
+          "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+          "text_file": null,
+          "source_text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+          "text_start": 8420,
+          "text_end": 10096,
+          "exact_original_text": " \nits decision on the product to the applicant within 180 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n    \n4.3. SRA REGISTERED MEDICINES     \n    \nAll products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n \n \n    \n \n",
+          "section": "§4.3 SRA route and §4.3.2 processing",
+          "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": null,
+          "translation_status": "English original or no translation supplied",
+          "clause_id": "C59_028",
+          "verbatim_extracted_text": " \nits decision on the product to the applicant within 180 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n    \n4.3. SRA REGISTERED MEDICINES     \n    \nAll products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n \n \n    \n \n",
+          "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+          "start_offset": 8420,
+          "end_offset": 10096,
+          "section_article": "§4.3 SRA route and §4.3.2 processing",
+          "pdf_page": null,
+          "language": "English"
+        },
+        {
+          "evidence_id": "C59_027",
+          "document_index": 59,
+          "document_id": "F250_19c0ca308af1750ba981",
+          "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+          "text_file": null,
+          "source_text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+          "text_start": 2400,
+          "text_end": 4950,
+          "exact_original_text": "ng words are defined as follows:    \n \n‘Authority’ means Pharmacy and Medicines Regulatory Authority  \n   \n‘Medicinal purpose’ means treating or preventing a disease, diagnosing or \nascertaining the presence and extent of a physiological function, contraception, \ninducing anaesthesia, altering normal physiologic function permanently or \ntemporarily in any way in humans.     \n    \n‘Applicant’ means the product owner or licence holder.  \n    \n‘Medicine, medicine or pharmaceutical product’ means a substance or mixture of \nsubstances prepared, sold or represented for use in -     \n(a) Diagnosis, treatment, mitigation or prevention of disease, disorders or abnormal \nphysical state or the symptoms of it in human or animal    \n(b) Restoring, correcting or modifying organic functions in human or animal.     \n    \n‘Finished Pharmaceutical Product (FPP)’ means a product that has undergone all \nstages of production, including packaging in its final container and labelling.    \n‘Manufacture (manufacturing)’ means all operations of purchase of materials, \nproduction, quality control, release, storage and the related controls.     \n \n\n\nPAGE 5\nPage 5 of 8 \n \n‘Manufacturer’ means a person or firm that is engaged in the manufacture of \nproduct(s).     \n \n‘Stringent Regulatory Authority’ means a national medicines regulatory authority \nwhich is a member, observer or associate of the International Conference on \nHarmonization of Technical Requirements for Registration of Pharmaceuticals for \nHuman Use, as may be updated from time to time. \n    \n‘Variation’ means a change to any aspect of a pharmaceutical product, including but \nnot limited to a change to formulation, method and site of manufacture, specifications \nfor the finished product and ingredients, container and container labelling and \nproduct information.     \n4.0 REQUIREMENTS    \n    \n4.1 WHO PREQUALIFIED MEDICINAL PRODUCTS    \n• \nThis guideline outlines the procedure for the application and registration of \nWHO prequalified medicines by the Authority.     \n• \nThis is based on a collaborative procedure between the WHO Prequalification \nof Medicines Programme (WHO/PQP) and the Authority in the assessment and \naccelerated registration of WHO prequalified medicines.    \n• \nApplicants that have been prequalified by the WHO/PQP can take advantage \nof this procedure for fast track registration of their prequalified medicinal \nproduct by the Authority.    \n    \n4.1.1 APPLICATION STEPS    \n1. Applicant should submit the product dossier for a WHO-prequalified \npharmaceutic",
+          "section": "§2–3 scope and SRA definition",
+          "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": null,
+          "translation_status": "English original or no translation supplied",
+          "clause_id": "C59_027",
+          "verbatim_extracted_text": "ng words are defined as follows:    \n \n‘Authority’ means Pharmacy and Medicines Regulatory Authority  \n   \n‘Medicinal purpose’ means treating or preventing a disease, diagnosing or \nascertaining the presence and extent of a physiological function, contraception, \ninducing anaesthesia, altering normal physiologic function permanently or \ntemporarily in any way in humans.     \n    \n‘Applicant’ means the product owner or licence holder.  \n    \n‘Medicine, medicine or pharmaceutical product’ means a substance or mixture of \nsubstances prepared, sold or represented for use in -     \n(a) Diagnosis, treatment, mitigation or prevention of disease, disorders or abnormal \nphysical state or the symptoms of it in human or animal    \n(b) Restoring, correcting or modifying organic functions in human or animal.     \n    \n‘Finished Pharmaceutical Product (FPP)’ means a product that has undergone all \nstages of production, including packaging in its final container and labelling.    \n‘Manufacture (manufacturing)’ means all operations of purchase of materials, \nproduction, quality control, release, storage and the related controls.     \n \n\n\nPAGE 5\nPage 5 of 8 \n \n‘Manufacturer’ means a person or firm that is engaged in the manufacture of \nproduct(s).     \n \n‘Stringent Regulatory Authority’ means a national medicines regulatory authority \nwhich is a member, observer or associate of the International Conference on \nHarmonization of Technical Requirements for Registration of Pharmaceuticals for \nHuman Use, as may be updated from time to time. \n    \n‘Variation’ means a change to any aspect of a pharmaceutical product, including but \nnot limited to a change to formulation, method and site of manufacture, specifications \nfor the finished product and ingredients, container and container labelling and \nproduct information.     \n4.0 REQUIREMENTS    \n    \n4.1 WHO PREQUALIFIED MEDICINAL PRODUCTS    \n• \nThis guideline outlines the procedure for the application and registration of \nWHO prequalified medicines by the Authority.     \n• \nThis is based on a collaborative procedure between the WHO Prequalification \nof Medicines Programme (WHO/PQP) and the Authority in the assessment and \naccelerated registration of WHO prequalified medicines.    \n• \nApplicants that have been prequalified by the WHO/PQP can take advantage \nof this procedure for fast track registration of their prequalified medicinal \nproduct by the Authority.    \n    \n4.1.1 APPLICATION STEPS    \n1. Applicant should submit the product dossier for a WHO-prequalified \npharmaceutic",
+          "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+          "start_offset": 2400,
+          "end_offset": 4950,
+          "section_article": "§2–3 scope and SRA definition",
+          "pdf_page": null,
+          "language": "English"
+        },
+        {
+          "clause_id": "MWI-Q01",
+          "iso3": "MWI",
+          "event_id": "MWI_097",
+          "document_id": "94c430f06e6a86625531",
+          "source_id": "19c0ca308af1750b",
+          "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+          "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+          "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+          "start_offset": 8695,
+          "end_offset": 10082,
+          "pdf_page": 7,
+          "verbatim_extracted_text": "All products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.",
+          "display_text": "All products with valid marketing authorization issued by SRA countries or region will be eligible for fast-tract registration. This will include countries that were members of the ICH prior to 2015. 4.3.1 APPLICATION STEPS Applicant for the registration of medicines under this category shall: PAGE 8 Page 8 of 8 1. Submit full application as per the Authority’s requirement for the registration of medicines. 2. Pay the required application fees for the registration of allopathic medicines as per the fee schedule of the Authority. (access a copy of the fee schedule at www.pmra.mw). 3. Submit the required number of samples of the product as per the Authority’s sample schedule. 4. Evidence that the product is registered in SRA country, evaluation reports by reference SRA country(ies) and responses by the applicant. The report from reference SRA need to be signed by response person at the reference SRA. 4.3.2 PROCESSING Products submitted through this route will be processed without following principle of first in first evaluated. The Authority will assess the application and communicate its decision on the product to the applicant within 90 calendar days. In cases where the applicant does not provide additional information in time as requested by the Authority, the 90-day timeline may be extended further.",
+          "feature_tags": [
+            "reports",
+            "decision_clock"
+          ],
+          "role": "Permission and conditions",
+          "language": "en",
+          "language_status": "Official English source",
+          "quote_method": "Exact substring of preserved extracted text",
+          "ocr_in_passage": false,
+          "review_status": "Assistant source-text review in this run; not independent legal certification",
+          "research_interpretation": "",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows",
+          "evidence_tier": "national_rule",
+          "section_article": "Permission and conditions",
+          "translation_review": null,
+          "selected_primary_document": true
+        },
+        {
+          "clause_id": "MWI-CONTEXT-1",
+          "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+          "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+          "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+          "start_offset": 0,
+          "end_offset": 10096,
+          "verbatim_extracted_text": "PAGE 1\nPage 1 of 8 \n \n \nDoc. No: PMRA-GD-REG-MA-002-00 \n \n \n \n \nEffective Date: May 2023 \n \n \n \n \n \nGUIDANCE FOR THE REGISTRATION OF HUMAN MEDICINAL PRODUCTS \nCLASSIFIED FOR FAST TRACK PROCESS \n \n \n \n \n \n \n \n \n \n\n\nPAGE 2\nPage 2 of 8 \n \nTABLE OF CONTENTS      \n   \n \n1-Abbreviations .............................................................................................................. 3 \n2.0 Scope ......................................................................................................................... 4 \n3.0 Glossary .................................................................................................................... 4 \n4.0 Requirements ........................................................................................................... 5 \n4.1 Who Prequalified Medicinal Products.................................................................. 5 \n4.2 Program Medicines ............................................................................................... 7 \n4.3. SRA Registered Medicines ................................................................................... 7 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\nPAGE 3\nPage 3 of 8 \n \n1-ABBREVIATIONS \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFPP \nGMP   \n \nFinished Pharmaceutical Product \nGood Manufacturing Practices \nICH   \n \nInternational Conference on \nHarmonization    \nSRA  \n \nStringent Regulatory Authority   \nQIS   \n \nQuality Information Summary \nWHO \nWHO/PQP   \n \nWorld Health Organization  \nWorld Health Organization  \nPrequalification of Medicines \nProgramme  \n\n\nPAGE 4\nPage 4 of 8 \n \n2.0 SCOPE    \nThis guideline covers the requirement and processing of medicines classified by the \nAuthority for expedited processing for registration. Currently, the following \ncategories of applications are eligible to be reviewed through fast-track registration;    \n• \nWorld Health Organization (WHO) Prequalified Products    \n• \nPublic health products (Anti-Retroviral Medicines, Anti-Malaria medicines, \nMedicines for Tuberculosis, Reproductive health products and Medicines for \nneglected health products. The Authority may fast-track the review of other \nproducts on case by case basis.    \n• \nProduct Registered by countries within the International Conference on \nHarmonization (ICH) region.    \n    \n3.0 GLOSSARY    \n    \nIn the context of this guideline, the following words are defined as follows:    \n \n‘Authority’ means Pharmacy and Medicines Regulatory Authority  \n   \n‘Medicinal purpose’ means treating or preventing a disease, diagnosing or \nascertaining the presence and extent of a physiological function, contraception, \ninducing anaesthesia, altering normal physiologic function permanently or \ntemporarily in any way in humans.     \n    \n‘Applicant’ means the product owner or licence holder.  \n    \n‘Medicine, medicine or pharmaceutical product’ means a substance or mixture of \nsubstances prepared, sold or represented for use in -     \n(a) Diagnosis, treatment, mitigation or prevention of disease, disorders or abnormal \nphysical state or the symptoms of it in human or animal    \n(b) Restoring, correcting or modifying organic functions in human or animal.     \n    \n‘Finished Pharmaceutical Product (FPP)’ means a product that has undergone all \nstages of production, including packaging in its final container and labelling.    \n‘Manufacture (manufacturing)’ means all operations of purchase of materials, \nproduction, quality control, release, storage and the related controls.     \n \n\n\nPAGE 5\nPage 5 of 8 \n \n‘Manufacturer’ means a person or firm that is engaged in the manufacture of \nproduct(s).     \n \n‘Stringent Regulatory Authority’ means a national medicines regulatory authority \nwhich is a member, observer or associate of the International Conference on \nHarmonization of Technical Requirements for Registration of Pharmaceuticals for \nHuman Use, as may be updated from time to time. \n    \n‘Variation’ means a change to any aspect of a pharmaceutical product, including but \nnot limited to a change to formulation, method and site of manufacture, specifications \nfor the finished product and ingredients, container and container labelling and \nproduct information.     \n4.0 REQUIREMENTS    \n    \n4.1 WHO PREQUALIFIED MEDICINAL PRODUCTS    \n• \nThis guideline outlines the procedure for the application and registration of \nWHO prequalified medicines by the Authority.     \n• \nThis is based on a collaborative procedure between the WHO Prequalification \nof Medicines Programme (WHO/PQP) and the Authority in the assessment and \naccelerated registration of WHO prequalified medicines.    \n• \nApplicants that have been prequalified by the WHO/PQP can take advantage \nof this procedure for fast track registration of their prequalified medicinal \nproduct by the Authority.    \n    \n4.1.1 APPLICATION STEPS    \n1. Applicant should submit the product dossier for a WHO-prequalified \npharmaceutical product to the Authority. The dossier submitted should be the \nsame as submitted to the WHO-PQP during the initial prequalification \nprocedure, and subsequent variation documentation where applicable;  \n \nThe application should include;    \n    \na) A completed application form for the registration of the product, including \nthe same technical information as that submitted to WHO/PQP. The \ntechnical part of the dossier should be identical to the current version of \nthe WHO/PQP dossier.    \n\n\nPAGE 6\nPage 6 of 8 \n \n    \nb) The following country specific documentation;    \ni) \nExecuted batch manufacturing records of one production batch.    \nii) \nWhere applicable, long-term stability studies protocol and report \nconducted at Zone IVB conditions    \nCopy of the current version of Quality Information Summary (QIS) submitted to the \nWHO.    \nc) Pay the normal product registration fees as per prescribed fee schedule. \n(access a copy of the fee schedule at www.pmra.mw).    \n2. In situations where the applicant wishes to apply the Procedure to an application \nwhich is already pending with the Authority, the applicant should first update the \ndossier to ensure that the technical part of the information is the same as that \nsubmitted to WHO.     \n    \n3. Complete and submit an expression of interest form (Part A of Appendix 3) to the \nAuthority through the WHO-PQ collaborative procedure focal person of the \nAuthority.     \n    \n4. The Authority shall communicate its consent to apply the procedure to the \napplication for registration of the product and to request the WHO-PQ to share \nproduct specific information by completing and signing Part B of Appendix 3.    \n    \n5. Applicant shall then complete and submit an expression of interest form (Part A \nof Appendix 3) to WHO-PQP directing the PQP to provide full access to the \ninformation on the prequalified product to the Authority.    \n    \n4.1.2 PROCESSING    \nThe Authority shall process the application and communicate its decision on the \nproduct to the applicant and WHO within 90 calendar days.    \n    \n4.1.3 POST APPROVAL    \n    \nAll post-prequalification variations submitted to WHO shall be submitted \nsimultaneously to the Authority after the product has been registered.   The variation \nshall only be approved by the Authority only after a positive response by WHO PQP. \n    \n\n\nPAGE 7\nPage 7 of 8 \n \n \n4.2 PUBLIC HEALTH MEDICINES   \n   \nThe applicant shall be required to express an interest to register any product to the \nAuthority with justification of fast-tracking registration of the product. The Authority \nshall determine if the product qualifies to be registered through fast tract \nregistration. \n \n    4.2.1 APPLICATION STEPS    \n \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required fast-track application fees for the registration of medicines as per \nthe fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample guideline.    \n4. Fast tract registration shall only apply to medicines manufactured at sites that are \ngood manufacturing practices (GMP) compliant with the Authority. \n    \n4.2.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 180 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n    \n4.3. SRA REGISTERED MEDICINES     \n    \nAll products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n \n \n    \n \n",
+          "section_article": "Context surrounding selected primary clauses; exact headings retained",
+          "language": "en",
+          "quote_method": "Exact substring of preserved decoded text",
+          "version_alignment": "Version on the preserved source; not backdated to older event rows"
+        }
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "All products holding valid SRA MA eligible; not restricted to programme medicines.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "SRA defined through ICH membership/observer/associate and pre-2015 members; FDA/EC not individually enumerated here.",
+          "evidence_ids": [
+            "C59_027"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "SRA-country or region MA; no two-authority threshold.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "explicit requirement",
+          "finding": "Evaluation reports and applicant responses required, signed by responsible reference-SRA person. No explicit complete/unredacted qualifier.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Reports, responses and signature may exceed a public summary, but an unconditional nonpublic/unredacted requirement is not established.",
+          "evidence_ids": [
+            "MWI-Q01",
+            "MWI-CONTEXT-1"
+          ]
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Public material alone is not established sufficient for the required report, responses and SRA signature.",
+          "evidence_ids": [
+            "MWI-Q01",
+            "MWI-CONTEXT-1"
+          ]
+        },
+        "applicant_consent": {
+          "state": "discretionary/conditional",
+          "finding": "Consent to WHO sharing is explicit for the WHO-prequalified route; not an established universal unilateral-SRA consent gate.",
+          "evidence_ids": [
+            "MWI-Q01",
+            "MWI-CONTEXT-1"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Full application and product samples required; other national quality rules incorporated.",
+          "evidence_ids": [
+            "MWI-Q01",
+            "MWI-CONTEXT-1"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "PMRA evaluates foreign reports and responses with national registration requirements.",
+          "evidence_ids": [
+            "MWI-Q01",
+            "MWI-CONTEXT-1"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Allopathic medicine application fees required.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "90 calendar days; applicant delayed additional information may extend. Not observed duration.",
+          "evidence_ids": [
+            "C59_028"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by reviewed source and context; no inference from silence.",
+          "evidence_ids": []
+        }
+      },
+      "same_version_enrichment_note": "Previously documented components retained only where the additional reading is unresolved, using identical source bytes. New contextual findings and cases are separately sourced.",
+      "expansion_selection_reason": "Same May 2023 source: limited fast-track eligibility contextualized.",
+      "selected_expansion_record": "c:8"
+    }
+  },
+  "standard_drug_reviewed_routes": [
+    {
+      "record_key": "baseline",
+      "selected_for_primary": false,
       "pathway": "Fast-track assessment with extended-clock possibility",
       "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
-      "document_title": "MWI | Recovered official reliance source Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
-      "source_type": "Guideline",
-      "scope": "Human-medicine authorisation",
-      "language": "en",
-      "translation_provenance": "Official English source",
-      "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
-      "raw_hash_validated": true,
-      "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
-      "version_dates": {
-        "effective_month": "2023-05"
-      },
+      "version_note": null,
       "version_scope_note": "Malawi fast-track guideline effectiveMay 2023, section 4.3 for SRA-approved medicines. WHO sharing consents in 4.1 are not automatically conditions of unilateral SRA reliance.",
-      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
-      "reviewed_ranges": [
-        [
-          0,
-          10096
-        ]
-      ],
+      "scope": "Human-medicine authorisation",
       "components": {
         "new_active_substance": {
           "state": "unresolved/not stated",
@@ -702,13 +1468,8 @@
           ]
         }
       },
-      "shared_authorization_effect": {
-        "status": "unresolved in selected source",
-        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
-      },
-      "paired_comparisons": {
-        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
-      },
+      "gates": null,
+      "gate_notes": null,
       "evidence": [
         {
           "clause_id": "MWI-Q01",
@@ -755,12 +1516,78 @@
           "version_alignment": "Version on the preserved source; not backdated to older event rows"
         }
       ],
-      "explicit_full_report_gate": false,
-      "unresolved_requirements": [
-        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
-      ],
-      "possible_full_report_gate": false,
-      "gate_adjudication": ""
+      "selection_recommendation": null,
+      "selection_reason": null
     }
-  }
+  ],
+  "standard_drug_expansion_clauses": [
+    {
+      "evidence_id": "C59_028",
+      "document_index": 59,
+      "document_id": "F250_19c0ca308af1750ba981",
+      "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+      "text_file": null,
+      "source_text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+      "text_start": 8420,
+      "text_end": 10096,
+      "exact_original_text": " \nits decision on the product to the applicant within 180 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n    \n4.3. SRA REGISTERED MEDICINES     \n    \nAll products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n \n \n    \n \n",
+      "section": "§4.3 SRA route and §4.3.2 processing",
+      "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": null,
+      "translation_status": "English original or no translation supplied",
+      "clause_id": "SDX-C59_028",
+      "verbatim_extracted_text": " \nits decision on the product to the applicant within 180 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n    \n4.3. SRA REGISTERED MEDICINES     \n    \nAll products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n \n \n    \n \n",
+      "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+      "start_offset": 8420,
+      "end_offset": 10096,
+      "section_article": "§4.3 SRA route and §4.3.2 processing",
+      "pdf_page": null,
+      "language": "English",
+      "iso3": "MWI",
+      "country": "Malawi",
+      "display_text": " \nits decision on the product to the applicant within 180 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n    \n4.3. SRA REGISTERED MEDICINES     \n    \nAll products with valid marketing authorization issued by SRA countries or region \nwill be eligible for fast-tract registration. This will include countries that were \nmembers of the ICH prior to 2015.     \n    \n4.3.1 APPLICATION STEPS    \nApplicant for the registration of medicines under this category shall:    \n\n\nPAGE 8\nPage 8 of 8 \n \n     \n1. Submit full application as per the Authority’s requirement for the registration of \nmedicines.    \n2. Pay the required application fees for the registration of allopathic medicines as \nper the fee schedule of the Authority. (access a copy of the fee schedule at \nwww.pmra.mw).    \n3. Submit the required number of samples of the product as per the Authority’s \nsample schedule.  \n4. Evidence that the product is registered in SRA country, evaluation reports by \nreference SRA country(ies) and responses by the applicant.  The report from \nreference SRA need to be signed by response person at the reference SRA. \n    \n4.3.2 PROCESSING     \n \nProducts submitted through this route will be processed without following principle \nof first in first evaluated. The Authority will assess the application and communicate \nits decision on the product to the applicant within 90 calendar days. In cases where \nthe applicant does not provide additional information in time as requested by the \nAuthority, the 90-day timeline may be extended further.  \n \n \n    \n \n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Fast-track registration: SRA-registered medicines PMRA-GD-REG-MA-002-00, effective May 2023. ",
+      "version_alignment": "PMRA-GD-REG-MA-002-00, effective May 2023."
+    },
+    {
+      "evidence_id": "C59_027",
+      "document_index": 59,
+      "document_id": "F250_19c0ca308af1750ba981",
+      "raw_sha256": "699417e25bb48a6ffbfc52441d0a6a11ef7fd0877e95ab68692cd165b44fb886",
+      "text_file": null,
+      "source_text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+      "text_start": 2400,
+      "text_end": 4950,
+      "exact_original_text": "ng words are defined as follows:    \n \n‘Authority’ means Pharmacy and Medicines Regulatory Authority  \n   \n‘Medicinal purpose’ means treating or preventing a disease, diagnosing or \nascertaining the presence and extent of a physiological function, contraception, \ninducing anaesthesia, altering normal physiologic function permanently or \ntemporarily in any way in humans.     \n    \n‘Applicant’ means the product owner or licence holder.  \n    \n‘Medicine, medicine or pharmaceutical product’ means a substance or mixture of \nsubstances prepared, sold or represented for use in -     \n(a) Diagnosis, treatment, mitigation or prevention of disease, disorders or abnormal \nphysical state or the symptoms of it in human or animal    \n(b) Restoring, correcting or modifying organic functions in human or animal.     \n    \n‘Finished Pharmaceutical Product (FPP)’ means a product that has undergone all \nstages of production, including packaging in its final container and labelling.    \n‘Manufacture (manufacturing)’ means all operations of purchase of materials, \nproduction, quality control, release, storage and the related controls.     \n \n\n\nPAGE 5\nPage 5 of 8 \n \n‘Manufacturer’ means a person or firm that is engaged in the manufacture of \nproduct(s).     \n \n‘Stringent Regulatory Authority’ means a national medicines regulatory authority \nwhich is a member, observer or associate of the International Conference on \nHarmonization of Technical Requirements for Registration of Pharmaceuticals for \nHuman Use, as may be updated from time to time. \n    \n‘Variation’ means a change to any aspect of a pharmaceutical product, including but \nnot limited to a change to formulation, method and site of manufacture, specifications \nfor the finished product and ingredients, container and container labelling and \nproduct information.     \n4.0 REQUIREMENTS    \n    \n4.1 WHO PREQUALIFIED MEDICINAL PRODUCTS    \n• \nThis guideline outlines the procedure for the application and registration of \nWHO prequalified medicines by the Authority.     \n• \nThis is based on a collaborative procedure between the WHO Prequalification \nof Medicines Programme (WHO/PQP) and the Authority in the assessment and \naccelerated registration of WHO prequalified medicines.    \n• \nApplicants that have been prequalified by the WHO/PQP can take advantage \nof this procedure for fast track registration of their prequalified medicinal \nproduct by the Authority.    \n    \n4.1.1 APPLICATION STEPS    \n1. Applicant should submit the product dossier for a WHO-prequalified \npharmaceutic",
+      "section": "§2–3 scope and SRA definition",
+      "source_url": "https://www.pmra.mw/wp-content/uploads/2024/07/Guidelines-for-the-registration-of-medicinal-products-classified-for-fast-track-process.pdf",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": null,
+      "translation_status": "English original or no translation supplied",
+      "clause_id": "SDX-C59_027",
+      "verbatim_extracted_text": "ng words are defined as follows:    \n \n‘Authority’ means Pharmacy and Medicines Regulatory Authority  \n   \n‘Medicinal purpose’ means treating or preventing a disease, diagnosing or \nascertaining the presence and extent of a physiological function, contraception, \ninducing anaesthesia, altering normal physiologic function permanently or \ntemporarily in any way in humans.     \n    \n‘Applicant’ means the product owner or licence holder.  \n    \n‘Medicine, medicine or pharmaceutical product’ means a substance or mixture of \nsubstances prepared, sold or represented for use in -     \n(a) Diagnosis, treatment, mitigation or prevention of disease, disorders or abnormal \nphysical state or the symptoms of it in human or animal    \n(b) Restoring, correcting or modifying organic functions in human or animal.     \n    \n‘Finished Pharmaceutical Product (FPP)’ means a product that has undergone all \nstages of production, including packaging in its final container and labelling.    \n‘Manufacture (manufacturing)’ means all operations of purchase of materials, \nproduction, quality control, release, storage and the related controls.     \n \n\n\nPAGE 5\nPage 5 of 8 \n \n‘Manufacturer’ means a person or firm that is engaged in the manufacture of \nproduct(s).     \n \n‘Stringent Regulatory Authority’ means a national medicines regulatory authority \nwhich is a member, observer or associate of the International Conference on \nHarmonization of Technical Requirements for Registration of Pharmaceuticals for \nHuman Use, as may be updated from time to time. \n    \n‘Variation’ means a change to any aspect of a pharmaceutical product, including but \nnot limited to a change to formulation, method and site of manufacture, specifications \nfor the finished product and ingredients, container and container labelling and \nproduct information.     \n4.0 REQUIREMENTS    \n    \n4.1 WHO PREQUALIFIED MEDICINAL PRODUCTS    \n• \nThis guideline outlines the procedure for the application and registration of \nWHO prequalified medicines by the Authority.     \n• \nThis is based on a collaborative procedure between the WHO Prequalification \nof Medicines Programme (WHO/PQP) and the Authority in the assessment and \naccelerated registration of WHO prequalified medicines.    \n• \nApplicants that have been prequalified by the WHO/PQP can take advantage \nof this procedure for fast track registration of their prequalified medicinal \nproduct by the Authority.    \n    \n4.1.1 APPLICATION STEPS    \n1. Applicant should submit the product dossier for a WHO-prequalified \npharmaceutic",
+      "text_sha256": "b0fe86490f5a5c43c24809d81da48012fd14f32e5ff1b76180ae5b87487c8fe8",
+      "start_offset": 2400,
+      "end_offset": 4950,
+      "section_article": "§2–3 scope and SRA definition",
+      "pdf_page": null,
+      "language": "English",
+      "iso3": "MWI",
+      "country": "Malawi",
+      "display_text": "ng words are defined as follows:    \n \n‘Authority’ means Pharmacy and Medicines Regulatory Authority  \n   \n‘Medicinal purpose’ means treating or preventing a disease, diagnosing or \nascertaining the presence and extent of a physiological function, contraception, \ninducing anaesthesia, altering normal physiologic function permanently or \ntemporarily in any way in humans.     \n    \n‘Applicant’ means the product owner or licence holder.  \n    \n‘Medicine, medicine or pharmaceutical product’ means a substance or mixture of \nsubstances prepared, sold or represented for use in -     \n(a) Diagnosis, treatment, mitigation or prevention of disease, disorders or abnormal \nphysical state or the symptoms of it in human or animal    \n(b) Restoring, correcting or modifying organic functions in human or animal.     \n    \n‘Finished Pharmaceutical Product (FPP)’ means a product that has undergone all \nstages of production, including packaging in its final container and labelling.    \n‘Manufacture (manufacturing)’ means all operations of purchase of materials, \nproduction, quality control, release, storage and the related controls.     \n \n\n\nPAGE 5\nPage 5 of 8 \n \n‘Manufacturer’ means a person or firm that is engaged in the manufacture of \nproduct(s).     \n \n‘Stringent Regulatory Authority’ means a national medicines regulatory authority \nwhich is a member, observer or associate of the International Conference on \nHarmonization of Technical Requirements for Registration of Pharmaceuticals for \nHuman Use, as may be updated from time to time. \n    \n‘Variation’ means a change to any aspect of a pharmaceutical product, including but \nnot limited to a change to formulation, method and site of manufacture, specifications \nfor the finished product and ingredients, container and container labelling and \nproduct information.     \n4.0 REQUIREMENTS    \n    \n4.1 WHO PREQUALIFIED MEDICINAL PRODUCTS    \n• \nThis guideline outlines the procedure for the application and registration of \nWHO prequalified medicines by the Authority.     \n• \nThis is based on a collaborative procedure between the WHO Prequalification \nof Medicines Programme (WHO/PQP) and the Authority in the assessment and \naccelerated registration of WHO prequalified medicines.    \n• \nApplicants that have been prequalified by the WHO/PQP can take advantage \nof this procedure for fast track registration of their prequalified medicinal \nproduct by the Authority.    \n    \n4.1.1 APPLICATION STEPS    \n1. Applicant should submit the product dossier for a WHO-prequalified \npharmaceutic",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Fast-track registration: SRA-registered medicines PMRA-GD-REG-MA-002-00, effective May 2023. ",
+      "version_alignment": "PMRA-GD-REG-MA-002-00, effective May 2023."
+    }
+  ]
 }

@@ -190,7 +190,7 @@
     "iso3": "NOR",
     "country": "Norway",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
+    "sample": "selected_national_route_comparisons",
     "pathway": "EU/EEA mutual recognition",
     "source_url": "https://www.dmp.no/en/approval-of-medicines/approval-and-follow-up-of-marketing-authorisation-ma/application-for-marketing-authorisation/gjensidig-anerkjennelsesprosedyre-mrp",
     "document_id": "F250_bbf62fbff5d6082368aa_c462f76b4975",
@@ -512,6 +512,7 @@
         "not_independent_national_law": true
       }
     ],
+    "other_reviewed_routes": [],
     "review_details": {
       "iso3": "NOR",
       "country": "Norway",
@@ -848,5 +849,7 @@
         }
       ]
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

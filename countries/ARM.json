@@ -166,435 +166,1314 @@
     "iso3": "ARM",
     "country": "Armenia",
     "primary_comparison": true,
-    "sample": "89_selected_national_pathway_texts",
-    "pathway": "ICH-member approval or WHO-prequalification simplified registration",
-    "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
-    "document_id": "F250_acdf785cdf833c3ea1fb_644747568b52",
-    "genre": "Regulator-provided decree translation",
+    "sample": "selected_national_route_comparisons",
+    "pathway": "Simplified registration under Decision 162",
+    "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+    "document_id": "EXP-B-ARM-02",
+    "genre": "Official guidance",
     "language": "en",
-    "scope": "Human-medicine authorisation",
-    "version_note": "English translation of Armenian registration decree. Simplified procedure is a comparative assessment, not automatic foreign authorisation.",
+    "scope": "Initial human medicine marketing authorization",
+    "version_note": "2019 decision consolidated with explicit 2021/2024 amendments. The 2024 wording is not backdated to 2019.",
     "components": {
       "new_active_substance": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "named_reference_agencies": {
         "state": "explicit requirement",
-        "finding": "ICH Member State approval category; this source does not itself enumerate FDA/EMA as separate authorities.",
+        "finding": "Simplified procedure covers registration in an ICH member state or WHO prequalification.",
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q01"
         ]
       },
       "prior_approval_count": {
         "state": "explicit requirement",
-        "finding": "A product registered in an ICH Member State or WHO-prequalified can enter simplified procedure.",
+        "finding": "Singular qualifying ICH-member registration; no two-approval threshold established.",
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q01"
         ]
       },
       "standalone_review": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "approval_age": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "foreign_marketing": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "same_product_dossier_site": {
         "state": "explicit requirement",
-        "finding": "Compare composition, specifications, production areas, research data and accompanying information; inconsistency may require general procedure.",
+        "finding": "Composition, site, stability, specifications and accompanying information compared.",
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q02"
         ]
       },
       "report_completeness": {
-        "state": "explicit requirement",
-        "finding": "Annex 2 para 36 evaluates the reference competent authority assessment report against submitted documents and data; completeness/unredaction not specified.",
+        "state": "discretionary/conditional",
+        "finding": "Reference authority expert-examination report is evaluated; full/unredacted content is not specified.",
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q02"
         ]
       },
       "nonpublic_reports": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "accepted_redactions": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "public_report_sufficiency": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "applicant_consent": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "reference_authority_permission": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "regulator_to_regulator_sharing": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "local_clinical_evidence": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "quality_gmp": {
-        "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
-        "evidence_ids": []
+        "state": "discretionary/conditional",
+        "finding": "Qualifying PIC/S/EAEU GMP reports within three years recognized except inconsistencies requiring monitoring.",
+        "evidence_ids": [
+          "EXP-B-ARM-02-Q03"
+        ]
       },
       "scientific_assessment_retained": {
         "state": "explicit requirement",
-        "finding": "Positive local comparative assessment report required for registration.",
+        "finding": "Comparative assessment plus local packaging/information examination; discrepancies can trigger general procedure.",
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q02"
         ]
       },
       "local_representative": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "filing_fee": {
-        "state": "explicit requirement",
-        "finding": "Assessment fee and possible recalculation; general-route difference may require additional payment.",
-        "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
-        ]
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
       },
       "translation_legalization": {
-        "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
-        "evidence_ids": []
+        "state": "explicit requirement",
+        "finding": "Armenian information developed/verified during examination.",
+        "evidence_ids": [
+          "EXP-B-ARM-02-Q02"
+        ]
       },
       "cpp": {
         "state": "unresolved/not stated",
-        "finding": "Not resolved by reviewed source and context; no inference from silence.",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
         "evidence_ids": []
       },
       "clock": {
         "state": "explicit requirement",
-        "finding": "Simplified registration 31 calendar days including 21 assessment; general 150 including 140 assessment. Applicant response time excluded; amendments may add 10 days.",
+        "finding": "21 calendar days maximum expert examination; distinguish final decision and administrative steps.",
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q02"
         ]
       },
       "domestic_discretion": {
-        "state": "discretionary/conditional",
-        "finding": "Inconsistent product information can transfer application to general route.",
-        "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
-        ]
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
       }
     },
     "cases": {
       "A": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "eligibility": "discretionary/conditional",
+        "finding": "Conditional application; this source does not establish automatic approval.",
         "decisive_conditions": [],
         "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
         ],
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q01",
+          "EXP-B-ARM-02-Q02",
+          "EXP-B-ARM-02-Q03"
         ],
-        "status": "condition established but full eligibility unresolved"
+        "status": "discretionary/conditional"
       },
       "B": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "eligibility": "discretionary/conditional",
+        "finding": "Conditional application; this source does not establish automatic approval.",
         "decisive_conditions": [],
         "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
         ],
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q01",
+          "EXP-B-ARM-02-Q02",
+          "EXP-B-ARM-02-Q03"
         ],
-        "status": "condition established but full eligibility unresolved"
+        "status": "discretionary/conditional"
       },
       "C": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "eligibility": "discretionary/conditional",
+        "finding": "Conditional application; this source does not establish automatic approval.",
         "decisive_conditions": [],
         "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
         ],
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q01",
+          "EXP-B-ARM-02-Q02",
+          "EXP-B-ARM-02-Q03"
         ],
-        "status": "condition established but full eligibility unresolved"
+        "status": "discretionary/conditional"
       },
       "D": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "eligibility": "discretionary/conditional",
+        "finding": "Conditional application; this source does not establish automatic approval.",
         "decisive_conditions": [],
         "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
         ],
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q01",
+          "EXP-B-ARM-02-Q02",
+          "EXP-B-ARM-02-Q03"
         ],
-        "status": "condition established but full eligibility unresolved"
+        "status": "discretionary/conditional"
       },
       "E": {
-        "eligibility": "condition established but full eligibility unresolved",
-        "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+        "eligibility": "discretionary/conditional",
+        "finding": "FDA-only can satisfy ICH-reference approval component; acceptance of submitted report and all national conditions still must be assessed.",
         "decisive_conditions": [],
         "unresolved_conditions": [
-          "Other source-incorporated and administrative conditions; absence is not waiver."
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
         ],
         "evidence_ids": [
-          "ARM-R01",
-          "ARM-R02",
-          "ARM-CONTEXT-1",
-          "ARM-CONTEXT-2",
-          "ARM-CTX-1",
-          "ARM-CTX-2"
+          "EXP-B-ARM-02-Q01",
+          "EXP-B-ARM-02-Q02",
+          "EXP-B-ARM-02-Q03"
         ],
-        "status": "condition established but full eligibility unresolved"
+        "status": "discretionary/conditional"
       }
     },
     "pairwise_gates": {
-      "interpretation": {
-        "status": "reviewed contextual interpretation",
-        "finding": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
+      "B_minus_A": {
+        "status": "unresolved/not stated",
+        "finding": "No unconditional report-access effect established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "Separate applicant report-sharing permission not resolved; registration representation is distinct."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority report-sharing permission not resolved."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not stated",
+        "finding": "No second-approval advantage established for this route."
       }
     },
-    "shared_authorization_effect": {
-      "status": "unresolved in selected source",
-      "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
-    },
+    "shared_authorization_effect": null,
     "evidence": [
       {
-        "clause_id": "ARM-R01",
-        "iso3": "ARM",
-        "event_id": null,
-        "document_id": "F250_acdf785cdf833c3ea1fb_644747568b52",
-        "source_id": "F250_acdf785cdf833c3ea1fb",
+        "passage_id": "EXP-B-ARM-02-Q01",
+        "source_document_id": "F250_b8711a6ccc6435364d3a",
+        "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+        "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+        "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+        "exact_text": "a for safety, efficiency and quality of products adopted as prescribed by \nthe legislation of the Republic of Armenia and the requirements of the \nInternational Council for Harmonisation of Technical Requirements for \nPharmaceutic\n \n10. \ngeneral and simplified procedure, in case of availability of a positive expert-\nexamination opinion. \n11. \nSimplified procedure for registration of medicine shall be applied to the \nmedicines registered (undergone expert-examination) in a member state of the \nICH or pre-qualified by the World Health Organisation (hereinafter referred to \n\n\nPAGE 6\n6 \n \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn all other cases, the general procedure for registration of medicine shall apply, \nwithin the terms specified in point 19 of this Procedure. \n13. For the purpose of registration, the person defined in part 9 of Article 16 of the \nLaw of the Republic of Armenia \"On medicine\" may act as an applicant and (or) \nsubmit documents of registration. \n14. ",
+        "start": 6638,
+        "end": 7643,
+        "exact_offset_validated": true,
+        "section_article": "Annex 1, 10–12",
+        "pdf_page": null,
+        "language": "en",
+        "visually_checked": false,
+        "quote_type": "preserved extracted text exact substring",
+        "clause_id": "EXP-B-ARM-02-Q01",
+        "verbatim_extracted_text": "a for safety, efficiency and quality of products adopted as prescribed by \nthe legislation of the Republic of Armenia and the requirements of the \nInternational Council for Harmonisation of Technical Requirements for \nPharmaceutic\n \n10. \ngeneral and simplified procedure, in case of availability of a positive expert-\nexamination opinion. \n11. \nSimplified procedure for registration of medicine shall be applied to the \nmedicines registered (undergone expert-examination) in a member state of the \nICH or pre-qualified by the World Health Organisation (hereinafter referred to \n\n\nPAGE 6\n6 \n \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn all other cases, the general procedure for registration of medicine shall apply, \nwithin the terms specified in point 19 of this Procedure. \n13. For the purpose of registration, the person defined in part 9 of Article 16 of the \nLaw of the Republic of Armenia \"On medicine\" may act as an applicant and (or) \nsubmit documents of registration. \n14. ",
+        "start_offset": 6638,
+        "end_offset": 7643
+      },
+      {
+        "passage_id": "EXP-B-ARM-02-Q02",
+        "source_document_id": "F250_b8711a6ccc6435364d3a",
+        "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+        "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+        "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+        "exact_text": "35. In case of simplified procedure, the maximum duration of expert-examination \nshall be 21 calendar days. \n36. In case of the simplified procedure, the report on the expert-examination \nconducted by the Reference Competent Authority for medicines registered in an \nICH member state or prequalified by the WHO shall be evaluated by comparing \nit with the submitted documents and data. \n37. In case of the simplified procedure, where there is inconsistency of qualitative \nand quantitative composition, manufacturing site, stability and data of \nspecifications or the normative document of quality, as well as accompanying \ninformation, the applicant shall be notified, and in case of his/her consent, after \nmaking the necessary payments, registration shall be carried out through the \ngeneral procedure approved by this Decision. \n(point 37 supplemented by No 1873-N of 28 November 2024)  \n38. During the expert-examination for the purpose of registration through general \nand simplified procedures, the compliance of the primary and (or) outer \npackaging, the general description of the medicine (instruction for medical use), \nand the instruction for use (leaflet) with the requirements established by the \n\n\nPAGE 24\n24 \nlegislation of the Republic of Armenia shall also be verified, while simultaneously \ndeveloping the Armenian version of the instruction for medical use (general \ndescription of the medicine) and the instruction for use (leaflet). In case of heavy \nworkload, the development of Armenian versions may be carried out after \nregistration, within a maximum of 180 days, ensuring the approval and publicity \nof the document in the original language before that. \n(point 38 amended, supplemented by No 1873-N",
+        "start": 38774,
+        "end": 40500,
+        "exact_offset_validated": true,
+        "section_article": "Annex 2, 35–38",
+        "pdf_page": "23–24",
+        "language": "en",
+        "visually_checked": false,
+        "quote_type": "preserved extracted text exact substring",
+        "clause_id": "EXP-B-ARM-02-Q02",
+        "verbatim_extracted_text": "35. In case of simplified procedure, the maximum duration of expert-examination \nshall be 21 calendar days. \n36. In case of the simplified procedure, the report on the expert-examination \nconducted by the Reference Competent Authority for medicines registered in an \nICH member state or prequalified by the WHO shall be evaluated by comparing \nit with the submitted documents and data. \n37. In case of the simplified procedure, where there is inconsistency of qualitative \nand quantitative composition, manufacturing site, stability and data of \nspecifications or the normative document of quality, as well as accompanying \ninformation, the applicant shall be notified, and in case of his/her consent, after \nmaking the necessary payments, registration shall be carried out through the \ngeneral procedure approved by this Decision. \n(point 37 supplemented by No 1873-N of 28 November 2024)  \n38. During the expert-examination for the purpose of registration through general \nand simplified procedures, the compliance of the primary and (or) outer \npackaging, the general description of the medicine (instruction for medical use), \nand the instruction for use (leaflet) with the requirements established by the \n\n\nPAGE 24\n24 \nlegislation of the Republic of Armenia shall also be verified, while simultaneously \ndeveloping the Armenian version of the instruction for medical use (general \ndescription of the medicine) and the instruction for use (leaflet). In case of heavy \nworkload, the development of Armenian versions may be carried out after \nregistration, within a maximum of 180 days, ensuring the approval and publicity \nof the document in the original language before that. \n(point 38 amended, supplemented by No 1873-N",
+        "start_offset": 38774,
+        "end_offset": 40500
+      },
+      {
+        "passage_id": "EXP-B-ARM-02-Q03",
+        "source_document_id": "F250_b8711a6ccc6435364d3a",
+        "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+        "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+        "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+        "exact_text": "\n36 \nThe maximum term for monitoring shall be 5 working days. Based on the results \nof the monitoring, a protocol shall be drawn up, which shall be signed by the \nexpert(s) conducting the monitoring and the representative of the applicant. \n11. \nIn case of positive results of monitoring of GMP compliance conducted by \ncompetent authorities of states that are members to the Pharmaceutical \nInspection Co-operation Scheme and the Eurasian Economic Union within the \nprevious three years, the reports shall be recognised, and no monitoring is \nconducted, except for cases when inconsistencies have been identified as a result \nof the expert-examination, the study whereof requires conducting professional \nmonitoring during registration or after registration, in accordance with this \nProcedure. \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn case of positive results of observations conducted during the prequalification \nby the WHO, as well as that conducted by competent authorities of states that are \nmembers to the ICH and Eurasian Economic Union at the sites of pre-clinical \ntesting, clinical trials and bioequivalence studies, the reports shall be recognised, \nand no monitoring is conducted, except for cases when inconsistencies have \nbeen identified as a result of the expert-examination, the study whereof requires \nconducting professional monitoring during registration or after registration, in \naccordance with this Procedure. \n(point 12 supplemented by No 1873-N of 28 November 2024) \n(Annex amended, supplemented",
+        "start": 56500,
+        "end": 58050,
+        "exact_offset_validated": true,
+        "section_article": "Annex 5, 11–12",
+        "pdf_page": "35–36",
+        "language": "en",
+        "visually_checked": false,
+        "quote_type": "preserved extracted text exact substring",
+        "clause_id": "EXP-B-ARM-02-Q03",
+        "verbatim_extracted_text": "\n36 \nThe maximum term for monitoring shall be 5 working days. Based on the results \nof the monitoring, a protocol shall be drawn up, which shall be signed by the \nexpert(s) conducting the monitoring and the representative of the applicant. \n11. \nIn case of positive results of monitoring of GMP compliance conducted by \ncompetent authorities of states that are members to the Pharmaceutical \nInspection Co-operation Scheme and the Eurasian Economic Union within the \nprevious three years, the reports shall be recognised, and no monitoring is \nconducted, except for cases when inconsistencies have been identified as a result \nof the expert-examination, the study whereof requires conducting professional \nmonitoring during registration or after registration, in accordance with this \nProcedure. \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn case of positive results of observations conducted during the prequalification \nby the WHO, as well as that conducted by competent authorities of states that are \nmembers to the ICH and Eurasian Economic Union at the sites of pre-clinical \ntesting, clinical trials and bioequivalence studies, the reports shall be recognised, \nand no monitoring is conducted, except for cases when inconsistencies have \nbeen identified as a result of the expert-examination, the study whereof requires \nconducting professional monitoring during registration or after registration, in \naccordance with this Procedure. \n(point 12 supplemented by No 1873-N of 28 November 2024) \n(Annex amended, supplemented",
+        "start_offset": 56500,
+        "end_offset": 58050
+      }
+    ],
+    "other_reviewed_routes": [
+      {
+        "record_key": "baseline",
+        "selected_for_primary": false,
+        "pathway": "ICH-member approval or WHO-prequalification simplified registration",
         "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
-        "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
-        "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
-        "start_offset": 8445,
-        "end_offset": 9268,
-        "pdf_page": 4,
-        "verbatim_extracted_text": "10. Pursuant to part 3 of Article 16 of the Law of the Republic of Armenia “On medicinal products”, \nin the Republic of Armenia the medicinal products shall be registered under the simplified procedure \nand general procedure in case of existence of a positive assessment report.  \n \n \n \n11. The simplified procedure for registration of medicinal product shall be applied to medicinal \nproducts registered in ICH Member State or to pre-qualified medicinal products of World Health \nOrganisation (hereinafter referred to as “the WHO”)(hereinafter referred to as “the reference \ncompetent authority”) within the time periods prescribed by point 20 of this Rule. \n12. In all other cases the general procedure for registration of medicinal product shall be applied \nwithin the time periods prescribed by point 19 of this Rule. \n",
-        "display_text": "10. Pursuant to part 3 of Article 16 of the Law of the Republic of Armenia “On medicinal products”, in the Republic of Armenia the medicinal products shall be registered under the simplified procedure and general procedure in case of existence of a positive assessment report. 11. The simplified procedure for registration of medicinal product shall be applied to medicinal products registered in ICH Member State or to pre-qualified medicinal products of World Health Organisation (hereinafter referred to as “the WHO”)(hereinafter referred to as “the reference competent authority”) within the time periods prescribed by point 20 of this Rule. 12. In all other cases the general procedure for registration of medicinal product shall be applied within the time periods prescribed by point 19 of this Rule.",
-        "feature_tags": [
-          "scope_limit"
+        "version_note": null,
+        "version_scope_note": "English translation of Armenian registration decree. Simplified procedure is a comparative assessment, not automatic foreign authorisation.",
+        "scope": "Human-medicine authorisation",
+        "components": {
+          "new_active_substance": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "named_reference_agencies": {
+            "state": "explicit requirement",
+            "finding": "ICH Member State approval category; this source does not itself enumerate FDA/EMA as separate authorities.",
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "prior_approval_count": {
+            "state": "explicit requirement",
+            "finding": "A product registered in an ICH Member State or WHO-prequalified can enter simplified procedure.",
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "standalone_review": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "approval_age": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "foreign_marketing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "same_product_dossier_site": {
+            "state": "explicit requirement",
+            "finding": "Compare composition, specifications, production areas, research data and accompanying information; inconsistency may require general procedure.",
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "report_completeness": {
+            "state": "explicit requirement",
+            "finding": "Annex 2 para 36 evaluates the reference competent authority assessment report against submitted documents and data; completeness/unredaction not specified.",
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "nonpublic_reports": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "accepted_redactions": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "public_report_sufficiency": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "applicant_consent": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "reference_authority_permission": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "regulator_to_regulator_sharing": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "local_clinical_evidence": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "quality_gmp": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "scientific_assessment_retained": {
+            "state": "explicit requirement",
+            "finding": "Positive local comparative assessment report required for registration.",
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "local_representative": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "filing_fee": {
+            "state": "explicit requirement",
+            "finding": "Assessment fee and possible recalculation; general-route difference may require additional payment.",
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "translation_legalization": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "cpp": {
+            "state": "unresolved/not stated",
+            "finding": "Not resolved by reviewed source and context; no inference from silence.",
+            "evidence_ids": []
+          },
+          "clock": {
+            "state": "explicit requirement",
+            "finding": "Simplified registration 31 calendar days including 21 assessment; general 150 including 140 assessment. Applicant response time excluded; amendments may add 10 days.",
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "domestic_discretion": {
+            "state": "discretionary/conditional",
+            "finding": "Inconsistent product information can transfer application to general route.",
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          }
+        },
+        "cases": {
+          "A": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "B": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "C": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "D": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          },
+          "E": {
+            "eligibility": "condition established but full eligibility unresolved",
+            "finding": "Full eligibility is not established by the selected permission clause. Incorporated requirements, local conditions and administrative evidence remain unresolved.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "Other source-incorporated and administrative conditions; absence is not waiver."
+            ],
+            "evidence_ids": [
+              "ARM-R01",
+              "ARM-R02",
+              "ARM-CONTEXT-1",
+              "ARM-CONTEXT-2",
+              "ARM-CTX-1",
+              "ARM-CTX-2"
+            ]
+          }
+        },
+        "gates": null,
+        "gate_notes": null,
+        "evidence": [
+          {
+            "clause_id": "ARM-R01",
+            "iso3": "ARM",
+            "event_id": null,
+            "document_id": "F250_acdf785cdf833c3ea1fb_644747568b52",
+            "source_id": "F250_acdf785cdf833c3ea1fb",
+            "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
+            "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
+            "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
+            "start_offset": 8445,
+            "end_offset": 9268,
+            "pdf_page": 4,
+            "verbatim_extracted_text": "10. Pursuant to part 3 of Article 16 of the Law of the Republic of Armenia “On medicinal products”, \nin the Republic of Armenia the medicinal products shall be registered under the simplified procedure \nand general procedure in case of existence of a positive assessment report.  \n \n \n \n11. The simplified procedure for registration of medicinal product shall be applied to medicinal \nproducts registered in ICH Member State or to pre-qualified medicinal products of World Health \nOrganisation (hereinafter referred to as “the WHO”)(hereinafter referred to as “the reference \ncompetent authority”) within the time periods prescribed by point 20 of this Rule. \n12. In all other cases the general procedure for registration of medicinal product shall be applied \nwithin the time periods prescribed by point 19 of this Rule. \n",
+            "display_text": "10. Pursuant to part 3 of Article 16 of the Law of the Republic of Armenia “On medicinal products”, in the Republic of Armenia the medicinal products shall be registered under the simplified procedure and general procedure in case of existence of a positive assessment report. 11. The simplified procedure for registration of medicinal product shall be applied to medicinal products registered in ICH Member State or to pre-qualified medicinal products of World Health Organisation (hereinafter referred to as “the WHO”)(hereinafter referred to as “the reference competent authority”) within the time periods prescribed by point 20 of this Rule. 12. In all other cases the general procedure for registration of medicinal product shall be applied within the time periods prescribed by point 19 of this Rule.",
+            "feature_tags": [
+              "scope_limit"
+            ],
+            "role": "Annex 1 points 10–12",
+            "language": "en",
+            "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+            "quote_method": "Exact substring of hash-preserved native extraction",
+            "ocr_in_passage": false,
+            "review_status": "Assistant source-text review; no independent legal certification",
+            "research_interpretation": "Annex 1 point 11 permits simplified registration following ICH-member registration or WHO prequalification. Point 20 gives a 31-calendar-day registration period including 21 days of assessment. Points 21–22 allow extension and stop the clock for applicant responses. Foreign approval does not itself issue an Armenian authorisation.",
+            "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed.",
+            "evidence_tier": "national_rule",
+            "section_article": "Annex 1 points 10–12",
+            "translation_review": null,
+            "selected_primary_document": true
+          },
+          {
+            "clause_id": "ARM-R02",
+            "iso3": "ARM",
+            "event_id": null,
+            "document_id": "F250_acdf785cdf833c3ea1fb_644747568b52",
+            "source_id": "F250_acdf785cdf833c3ea1fb",
+            "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
+            "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
+            "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
+            "start_offset": 11406,
+            "end_offset": 12450,
+            "pdf_page": 5,
+            "verbatim_extracted_text": "19. The general maximum time period for registration of medicinal product shall constitute 150 \ncalendar days, which shall include the time period of assessment for the purpose of registration the \nmaximum duration whereof shall constitute 140 calendar days. \n20. The maximum time period of registration under simplified procedure shall constitute 31 calendar \ndays, which shall include the time period of assessment for the purpose of registration, the maximum \nduration whereof shall constitute 21 calendar days. \n21. At the time of assessment, in case of making amendments, by the applicant, to relevant \ndocuments, the time period of assessment shall be extended by 10 calendar days, whereon the \napplicant shall be notified within a period of 2 working days following the receipt of the documents \nthrough mail delivery or electronic mail. \n22. The period for submission of materials, data and documents required from the applicant at the \ntime of assessment shall not be calculated in the general time period of carrying out assessment. \n",
+            "display_text": "19. The general maximum time period for registration of medicinal product shall constitute 150 calendar days, which shall include the time period of assessment for the purpose of registration the maximum duration whereof shall constitute 140 calendar days. 20. The maximum time period of registration under simplified procedure shall constitute 31 calendar days, which shall include the time period of assessment for the purpose of registration, the maximum duration whereof shall constitute 21 calendar days. 21. At the time of assessment, in case of making amendments, by the applicant, to relevant documents, the time period of assessment shall be extended by 10 calendar days, whereon the applicant shall be notified within a period of 2 working days following the receipt of the documents through mail delivery or electronic mail. 22. The period for submission of materials, data and documents required from the applicant at the time of assessment shall not be calculated in the general time period of carrying out assessment.",
+            "feature_tags": [
+              "decision_clock",
+              "discretion"
+            ],
+            "role": "Annex 1 points 19–22",
+            "language": "en",
+            "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
+            "quote_method": "Exact substring of hash-preserved native extraction",
+            "ocr_in_passage": false,
+            "review_status": "Assistant source-text review; no independent legal certification",
+            "research_interpretation": "Annex 1 point 11 permits simplified registration following ICH-member registration or WHO prequalification. Point 20 gives a 31-calendar-day registration period including 21 days of assessment. Points 21–22 allow extension and stop the clock for applicant responses. Foreign approval does not itself issue an Armenian authorisation.",
+            "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed.",
+            "evidence_tier": "national_rule",
+            "section_article": "Annex 1 points 19–22",
+            "translation_review": null,
+            "selected_primary_document": true
+          },
+          {
+            "clause_id": "ARM-CONTEXT-1",
+            "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
+            "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
+            "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
+            "start_offset": 7695,
+            "end_offset": 10268,
+            "verbatim_extracted_text": "nal product \nmay be appealed against under the rule adopted by the Law of the Republic of Armenia “On \nfundamentals of administrative action and administrative proceedings” or through judicial procedure.  \n2. STATE REGISTRATION OF MEDICINAL PRODUCTS \n \n9. Pursuant to part 4 of Article 16 of the Law of the Republic of Armenia “On medicinal products”, \nthe registration of medicinal product shall be based on the scientifically-justified criteria of product \nsafety, efficacy and quality, which are adopted as prescribed by legislation of the Republic of \nArmenia, as well as on the requirements of the International Conference on Harmonization of \nTechnical Requirements for Registration of Pharmaceuticals (hereinafter referred to as “the ICH”).  \n10. Pursuant to part 3 of Article 16 of the Law of the Republic of Armenia “On medicinal products”, \nin the Republic of Armenia the medicinal products shall be registered under the simplified procedure \nand general procedure in case of existence of a positive assessment report.  \n \n \n \n11. The simplified procedure for registration of medicinal product shall be applied to medicinal \nproducts registered in ICH Member State or to pre-qualified medicinal products of World Health \nOrganisation (hereinafter referred to as “the WHO”)(hereinafter referred to as “the reference \ncompetent authority”) within the time periods prescribed by point 20 of this Rule. \n12. In all other cases the general procedure for registration of medicinal product shall be applied \nwithin the time periods prescribed by point 19 of this Rule. \n13. The person referred to in part 9 of Article 16 of the Law of the Republic of Armenia “On \nmedicinal products” may, for the purpose of registration, act as an applicant and (or) submit the \nregistration documents. \n14. For the purpose of registration, re-registration and making post-registration changes the applicant \nshall submit to the organisation an application and the necessary documents — according to the list \napproved by Annex No 3 of this Decree, the samples, standards and specific reagents (hereinafter \n\n\nPAGE 5\n5 \n \nreferred to as “the materials”) of laboratory assessment. The documents shall be submitted in person, \nand (or) through electronic mail, and (or) electronic system, and (or) mail delivery. The data on the \napplication and on list of documents shall be available at www.moh.am, with distinction between the \nlists of registration documents of medicinal products for human use and those of registration \ndocuments of veterinary medicinal products. \n15. For the purpo",
+            "section_article": "Context surrounding selected primary clauses; exact headings retained",
+            "language": "en",
+            "quote_method": "Exact substring of preserved decoded text",
+            "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed."
+          },
+          {
+            "clause_id": "ARM-CONTEXT-2",
+            "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
+            "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
+            "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
+            "start_offset": 10656,
+            "end_offset": 13450,
+            "verbatim_extracted_text": "tion and request within organisation shall be ensured on working \ndays and hours. The documents submitted on non-working days and hours shall be deemed as \nsubmitted on the next working day. \n17. The fact as to the application or request being registered within organisation shall be approved \nduring the same day by forwarding a return mail to the electronic address of the applicant. Following \nthe registration of the applications and requests, the organisation shall inform the authorised body \nthereof. \n18. The organisation shall ensure the confidentiality of data existing in the documents submitted for \nregistration, which shall be deemed as information protected by law of the Republic of Armenia and \nshall not be subject to publication. \n19. The general maximum time period for registration of medicinal product shall constitute 150 \ncalendar days, which shall include the time period of assessment for the purpose of registration the \nmaximum duration whereof shall constitute 140 calendar days. \n20. The maximum time period of registration under simplified procedure shall constitute 31 calendar \ndays, which shall include the time period of assessment for the purpose of registration, the maximum \nduration whereof shall constitute 21 calendar days. \n21. At the time of assessment, in case of making amendments, by the applicant, to relevant \ndocuments, the time period of assessment shall be extended by 10 calendar days, whereon the \napplicant shall be notified within a period of 2 working days following the receipt of the documents \nthrough mail delivery or electronic mail. \n22. The period for submission of materials, data and documents required from the applicant at the \ntime of assessment shall not be calculated in the general time period of carrying out assessment. \n23. The applicant shall have the right to waive the registration in any stage of assessment. In this case \nthe fee for assessment shall not be subject to return irrespective of the stage of assessment. \n24. Pursuant to part 5 of Article 16 of the Law of the Republic of Armenia “On medicinal products” \neach name, composition, strength, pharmaceutical form, presentation (form of presentation as of \ncertain quantity of units included in the package), new indication, manufacturer (including each \nperformer of production process), holder of registration certificate of medicinal product, shall be \nsubject to registration.   \n\n\nPAGE 6\n6 \n \n25. The primary and (or) external package, labeling (including in the form of coloured mock-ups of \npackages), instruction for medical application (summary of product characteristics), instruction for \nuse (patient information leaflet) and quality indicators (specifications) of medicinal product shall be \napproved at the time of registration. \n26. The quali",
+            "section_article": "Context surrounding selected primary clauses; exact headings retained",
+            "language": "en",
+            "quote_method": "Exact substring of preserved decoded text",
+            "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed."
+          },
+          {
+            "clause_id": "ARM-CTX-1",
+            "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
+            "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
+            "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
+            "start_offset": 33500,
+            "end_offset": 35400,
+            "verbatim_extracted_text": " \n17. The maximum time period for submission of responses shall constitute 120 calendar days. \nFollowing the expiry of 120 calendar days after having been duly informed of the necessity of \nsubmitting additional or missing materials required at the time of assessment, failure to submit them \nshall result in termination of assessment, and an assessment report shall be drawn up on refusal of \nregistration. \n18. In case of general procedure, assessment reports on quality, pre-clinical studies, clinical trials and \naccompanying information, as well as the conclusion of laboratory inspection and the inspection \nreport (if available) shall serve as a ground for delivering an assessment report. \n19. In case of simplified procedure, the comparative assessment report, signed by relevant expert, on \nthe data relating to the composition, specifications, production areas of, research data and \naccompanying information on the medicinal product approved by the reference competent authority \nand that registered in the Republic of Armenia, shall serve as a basis for delivering an assessment \nreport.    \n20. Where at the time of assessment it appears that the fee for assessment does not correspond to the \ncase of registration, the fee shall be recalculated as of the results of assessment, whereon the applicant \nshall be notified in writing until the completion of assessment.   \n21. Irrespective of the results of assessment, the documents, materials submitted and the fee provided \nfor assessment for the purpose of registration, shall not be subject to return by ensuring the \npermanent maintenance and record-registration of documents within the organisation. \n22. Prior to submission of the application, the organisation may, if the applicant so wishes, give paid \nconsultation for the purpose of clarifying the selection of registration processes, the volume of \ndocuments  and submission o",
+            "section_article": "Contextual statutory/guideline extension; headings retained in text",
+            "language": "en",
+            "quote_method": "Exact substring of preserved decoded text",
+            "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed."
+          },
+          {
+            "clause_id": "ARM-CTX-2",
+            "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
+            "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
+            "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
+            "start_offset": 40000,
+            "end_offset": 41250,
+            "verbatim_extracted_text": "with \nAnnex 5 of this Decree. The inspections shall be carried out within the period prescribed for \nassessment.    \n35. In case of simplified procedure, the maximum duration of assessment shall constitute 21 calendar \ndays. \n36. In case of simplified procedure, the report of the assessment conducted by the reference \ncompetent authority with regard to medicinal products registered in ICH Member State or pre-\nqualified medicinal products of WHO shall be evaluated, by comparing with the submitted \ndocuments and data. \n37. In case of simplified procedure, the applicant shall be notified of incompliance of the data on \nquality and quantity composition, production area, stability and specifications, as well as of \nincompliance of accompanying information, and after making the necessary payments upon the \nconsent thereof the registration shall be made under the general procedure prescribed by this Decree. \n38. At the time of assessment for the purpose registration under general procedure and simplified \nprocedure, the compliance of primary and (or) external packages, summary of product characteristics \n(instruction for medical application), instruction for use (patient information leaflet) of medicinal \nproduct with the requirements pr",
+            "section_article": "Contextual statutory/guideline extension; headings retained in text",
+            "language": "en",
+            "quote_method": "Exact substring of preserved decoded text",
+            "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed."
+          }
         ],
-        "role": "Annex 1 points 10–12",
-        "language": "en",
-        "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
-        "quote_method": "Exact substring of hash-preserved native extraction",
-        "ocr_in_passage": false,
-        "review_status": "Assistant source-text review; no independent legal certification",
-        "research_interpretation": "Annex 1 point 11 permits simplified registration following ICH-member registration or WHO prequalification. Point 20 gives a 31-calendar-day registration period including 21 days of assessment. Points 21–22 allow extension and stop the clock for applicant responses. Foreign approval does not itself issue an Armenian authorisation.",
-        "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed.",
-        "evidence_tier": "national_rule",
-        "section_article": "Annex 1 points 10–12",
-        "translation_review": null,
-        "selected_primary_document": true
+        "selection_recommendation": null,
+        "selection_reason": null
       },
       {
-        "clause_id": "ARM-R02",
-        "iso3": "ARM",
-        "event_id": null,
-        "document_id": "F250_acdf785cdf833c3ea1fb_644747568b52",
-        "source_id": "F250_acdf785cdf833c3ea1fb",
-        "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
-        "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
-        "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
-        "start_offset": 11406,
-        "end_offset": 12450,
-        "pdf_page": 5,
-        "verbatim_extracted_text": "19. The general maximum time period for registration of medicinal product shall constitute 150 \ncalendar days, which shall include the time period of assessment for the purpose of registration the \nmaximum duration whereof shall constitute 140 calendar days. \n20. The maximum time period of registration under simplified procedure shall constitute 31 calendar \ndays, which shall include the time period of assessment for the purpose of registration, the maximum \nduration whereof shall constitute 21 calendar days. \n21. At the time of assessment, in case of making amendments, by the applicant, to relevant \ndocuments, the time period of assessment shall be extended by 10 calendar days, whereon the \napplicant shall be notified within a period of 2 working days following the receipt of the documents \nthrough mail delivery or electronic mail. \n22. The period for submission of materials, data and documents required from the applicant at the \ntime of assessment shall not be calculated in the general time period of carrying out assessment. \n",
-        "display_text": "19. The general maximum time period for registration of medicinal product shall constitute 150 calendar days, which shall include the time period of assessment for the purpose of registration the maximum duration whereof shall constitute 140 calendar days. 20. The maximum time period of registration under simplified procedure shall constitute 31 calendar days, which shall include the time period of assessment for the purpose of registration, the maximum duration whereof shall constitute 21 calendar days. 21. At the time of assessment, in case of making amendments, by the applicant, to relevant documents, the time period of assessment shall be extended by 10 calendar days, whereon the applicant shall be notified within a period of 2 working days following the receipt of the documents through mail delivery or electronic mail. 22. The period for submission of materials, data and documents required from the applicant at the time of assessment shall not be calculated in the general time period of carrying out assessment.",
-        "feature_tags": [
-          "decision_clock",
-          "discretion"
+        "record_key": "b:0",
+        "selected_for_primary": false,
+        "pathway": "Simplified registration: EU/USA/Japan",
+        "source_url": "https://www.pharm.am/attachments/article/187/Requirements%20to%20the%20State%20Registration_2017_eng_New.pdf",
+        "version_note": null,
+        "version_scope_note": "Historical 2017 rule. Decree 347 framework later repealed by Decision 162/2019; not a current-law claim.",
+        "scope": "Initial human medicine marketing authorization",
+        "components": {
+          "new_active_substance": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "named_reference_agencies": {
+            "state": "explicit requirement",
+            "finding": "One EU-member, US or Japanese registration qualifies the foreign-approval condition.",
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "prior_approval_count": {
+            "state": "explicit requirement",
+            "finding": "One qualifying approval; FDA alone meets this component.",
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "standalone_review": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "approval_age": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "foreign_marketing": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "same_product_dossier_site": {
+            "state": "explicit requirement",
+            "finding": "Composition must match; otherwise common procedure.",
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "report_completeness": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "nonpublic_reports": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "accepted_redactions": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "public_report_sufficiency": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "applicant_consent": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "reference_authority_permission": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "regulator_to_regulator_sharing": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "local_clinical_evidence": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "quality_gmp": {
+            "state": "discretionary/conditional",
+            "finding": "Simplified assessment expressly waives product testing; other GMP conditions remain unresolved by this passage.",
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "scientific_assessment_retained": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "local_representative": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "filing_fee": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          },
+          "translation_legalization": {
+            "state": "explicit requirement",
+            "finding": "Listed documents in English or Armenian; certified copy of approval evidence.",
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "cpp": {
+            "state": "explicit requirement",
+            "finding": "Certified approval certificate OR WHO-format CPP issued within two years.",
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "clock": {
+            "state": "explicit requirement",
+            "finding": "Maximum assessment 30 days; general assessment 180 days. These are not observed durations.",
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "domestic_discretion": {
+            "state": "unresolved/not stated",
+            "finding": "This source review does not resolve this condition; silence is not a waiver.",
+            "evidence_ids": []
+          }
+        },
+        "cases": {
+          "A": {
+            "eligibility": "discretionary/conditional",
+            "finding": "Conditional application; this source does not establish automatic approval.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+            ],
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "B": {
+            "eligibility": "discretionary/conditional",
+            "finding": "Conditional application; this source does not establish automatic approval.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+            ],
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "C": {
+            "eligibility": "discretionary/conditional",
+            "finding": "Conditional application; this source does not establish automatic approval.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+            ],
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "D": {
+            "eligibility": "discretionary/conditional",
+            "finding": "Conditional application; this source does not establish automatic approval.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+            ],
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "E": {
+            "eligibility": "discretionary/conditional",
+            "finding": "FDA-only satisfies the listed foreign-approval component; other documents and national decision remain conditional.",
+            "decisive_conditions": [],
+            "unresolved_conditions": [
+              "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+            ],
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          }
+        },
+        "gates": {
+          "complete_report_gate": null,
+          "nonpublic_report_or_public_domain_exclusion": null,
+          "second_approval_selected_route": false,
+          "one_approval_alternative_described": null,
+          "ambiguous_additional_full_report_gate": null
+        },
+        "gate_notes": {
+          "second_approval_selected_route": {
+            "finding": "One qualifying approval expressly suffices.",
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "one_approval_alternative_described": {
+            "finding": "Single-approval route described, but no multi-approval route documented in this compatible version. Not counted as alternative in headline subset.",
+            "evidence_ids": []
+          },
+          "one_approval_route_described": {
+            "finding": "This route itself accepts one prior approval.",
+            "evidence_ids": [
+              "EXP-B-ARM-01-Q01"
+            ]
+          },
+          "complete_report_gate": {
+            "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+            "evidence_ids": []
+          },
+          "nonpublic_report_or_public_domain_exclusion": {
+            "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+            "evidence_ids": []
+          },
+          "ambiguous_additional_full_report_gate": {
+            "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "passage_id": "EXP-B-ARM-01-Q01",
+            "source_document_id": "F250_0385e0f3117283d72a79",
+            "source_url": "https://www.pharm.am/attachments/article/187/Requirements%20to%20the%20State%20Registration_2017_eng_New.pdf",
+            "raw_sha256": "b96be20e258d015b89ecc8f86f93cb58e56cfcbfc42b0816e1fa0b3a9d516743",
+            "text_sha256": "4cb4366a6e88ecc5e64f3ef711acc81c92a36c095f883a121174c0066567d244",
+            "exact_text": "3.5. The maximum duration of assessment is 180 days except for: \n3.5.1 Medicinal products registered in one of the member countries of European Union, \nthe USA or Japan, The assessment of the medicinal products registered in the above-\nmentioned countries should be carried out within a maximum of 30 days in a \nsimplified order without any testing. The following documents should be attached to \nthe application either in English or in Armenian:  \n \n a) certified true copy of the registration certificate of the medicinal product in one \nof the member countries of European Union or in the USA, or in Japan, or \nCertificate of Pharmaceutical Product (CPP) in format approved by the World \nHealth Organization issued in the last 2 years,  \nb) Summary of Product Characteristics (SmPC) approved by the authorized body of \nthe country that has registered the medicinal product,  \nc) data on the qualitative and quantitative composition of the medicinal product \n(including excipients),  \nd) pharmacopoeial monographs or control methods, specifications of the medicinal \nproduct,  \ne) label of the medicinal product, packages, their colored mock-ups, patient \ninformation leaflet or the instruction for medical use for specialists and patients, as \nwell as their electronic versions for all output forms indicated in the application in \nEnglish or in Armenian,  \nf) Periodic Safety Update Report (PSUR).  \nIn case the data mentioned in subpoint ―c‖ do not comply with the similar data of \nthe medicinal product registered in one of the full member countries of European \nUnion or in the USA, or in Japan, then the assessment should be carried out under \ncommon procedure defined by Decree of the Government of the Republic of Armenia \n№347 of April 25, 2001. \n \n\n\nPAGE 6\n \n",
+            "start": 13494,
+            "end": 15265,
+            "exact_offset_validated": true,
+            "section_article": "3.5–3.5.1",
+            "pdf_page": "5–6",
+            "language": "en",
+            "visually_checked": false,
+            "quote_type": "preserved extracted text exact substring",
+            "clause_id": "EXP-B-ARM-01-Q01",
+            "verbatim_extracted_text": "3.5. The maximum duration of assessment is 180 days except for: \n3.5.1 Medicinal products registered in one of the member countries of European Union, \nthe USA or Japan, The assessment of the medicinal products registered in the above-\nmentioned countries should be carried out within a maximum of 30 days in a \nsimplified order without any testing. The following documents should be attached to \nthe application either in English or in Armenian:  \n \n a) certified true copy of the registration certificate of the medicinal product in one \nof the member countries of European Union or in the USA, or in Japan, or \nCertificate of Pharmaceutical Product (CPP) in format approved by the World \nHealth Organization issued in the last 2 years,  \nb) Summary of Product Characteristics (SmPC) approved by the authorized body of \nthe country that has registered the medicinal product,  \nc) data on the qualitative and quantitative composition of the medicinal product \n(including excipients),  \nd) pharmacopoeial monographs or control methods, specifications of the medicinal \nproduct,  \ne) label of the medicinal product, packages, their colored mock-ups, patient \ninformation leaflet or the instruction for medical use for specialists and patients, as \nwell as their electronic versions for all output forms indicated in the application in \nEnglish or in Armenian,  \nf) Periodic Safety Update Report (PSUR).  \nIn case the data mentioned in subpoint ―c‖ do not comply with the similar data of \nthe medicinal product registered in one of the full member countries of European \nUnion or in the USA, or in Japan, then the assessment should be carried out under \ncommon procedure defined by Decree of the Government of the Republic of Armenia \n№347 of April 25, 2001. \n \n\n\nPAGE 6\n \n",
+            "start_offset": 13494,
+            "end_offset": 15265
+          }
         ],
-        "role": "Annex 1 points 19–22",
-        "language": "en",
-        "language_status": "Regulator/legislature-provided English translation; authoritative local-language version controls",
-        "quote_method": "Exact substring of hash-preserved native extraction",
-        "ocr_in_passage": false,
-        "review_status": "Assistant source-text review; no independent legal certification",
-        "research_interpretation": "Annex 1 point 11 permits simplified registration following ICH-member registration or WHO prequalification. Point 20 gives a 31-calendar-day registration period including 21 days of assessment. Points 21–22 allow extension and stop the clock for applicant responses. Foreign approval does not itself issue an Armenian authorisation.",
-        "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed.",
-        "evidence_tier": "national_rule",
-        "section_article": "Annex 1 points 19–22",
-        "translation_review": null,
-        "selected_primary_document": true
-      },
-      {
-        "clause_id": "ARM-CONTEXT-1",
-        "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
-        "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
-        "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
-        "start_offset": 7695,
-        "end_offset": 10268,
-        "verbatim_extracted_text": "nal product \nmay be appealed against under the rule adopted by the Law of the Republic of Armenia “On \nfundamentals of administrative action and administrative proceedings” or through judicial procedure.  \n2. STATE REGISTRATION OF MEDICINAL PRODUCTS \n \n9. Pursuant to part 4 of Article 16 of the Law of the Republic of Armenia “On medicinal products”, \nthe registration of medicinal product shall be based on the scientifically-justified criteria of product \nsafety, efficacy and quality, which are adopted as prescribed by legislation of the Republic of \nArmenia, as well as on the requirements of the International Conference on Harmonization of \nTechnical Requirements for Registration of Pharmaceuticals (hereinafter referred to as “the ICH”).  \n10. Pursuant to part 3 of Article 16 of the Law of the Republic of Armenia “On medicinal products”, \nin the Republic of Armenia the medicinal products shall be registered under the simplified procedure \nand general procedure in case of existence of a positive assessment report.  \n \n \n \n11. The simplified procedure for registration of medicinal product shall be applied to medicinal \nproducts registered in ICH Member State or to pre-qualified medicinal products of World Health \nOrganisation (hereinafter referred to as “the WHO”)(hereinafter referred to as “the reference \ncompetent authority”) within the time periods prescribed by point 20 of this Rule. \n12. In all other cases the general procedure for registration of medicinal product shall be applied \nwithin the time periods prescribed by point 19 of this Rule. \n13. The person referred to in part 9 of Article 16 of the Law of the Republic of Armenia “On \nmedicinal products” may, for the purpose of registration, act as an applicant and (or) submit the \nregistration documents. \n14. For the purpose of registration, re-registration and making post-registration changes the applicant \nshall submit to the organisation an application and the necessary documents — according to the list \napproved by Annex No 3 of this Decree, the samples, standards and specific reagents (hereinafter \n\n\nPAGE 5\n5 \n \nreferred to as “the materials”) of laboratory assessment. The documents shall be submitted in person, \nand (or) through electronic mail, and (or) electronic system, and (or) mail delivery. The data on the \napplication and on list of documents shall be available at www.moh.am, with distinction between the \nlists of registration documents of medicinal products for human use and those of registration \ndocuments of veterinary medicinal products. \n15. For the purpo",
-        "section_article": "Context surrounding selected primary clauses; exact headings retained",
-        "language": "en",
-        "quote_method": "Exact substring of preserved decoded text",
-        "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed."
-      },
-      {
-        "clause_id": "ARM-CONTEXT-2",
-        "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
-        "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
-        "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
-        "start_offset": 10656,
-        "end_offset": 13450,
-        "verbatim_extracted_text": "tion and request within organisation shall be ensured on working \ndays and hours. The documents submitted on non-working days and hours shall be deemed as \nsubmitted on the next working day. \n17. The fact as to the application or request being registered within organisation shall be approved \nduring the same day by forwarding a return mail to the electronic address of the applicant. Following \nthe registration of the applications and requests, the organisation shall inform the authorised body \nthereof. \n18. The organisation shall ensure the confidentiality of data existing in the documents submitted for \nregistration, which shall be deemed as information protected by law of the Republic of Armenia and \nshall not be subject to publication. \n19. The general maximum time period for registration of medicinal product shall constitute 150 \ncalendar days, which shall include the time period of assessment for the purpose of registration the \nmaximum duration whereof shall constitute 140 calendar days. \n20. The maximum time period of registration under simplified procedure shall constitute 31 calendar \ndays, which shall include the time period of assessment for the purpose of registration, the maximum \nduration whereof shall constitute 21 calendar days. \n21. At the time of assessment, in case of making amendments, by the applicant, to relevant \ndocuments, the time period of assessment shall be extended by 10 calendar days, whereon the \napplicant shall be notified within a period of 2 working days following the receipt of the documents \nthrough mail delivery or electronic mail. \n22. The period for submission of materials, data and documents required from the applicant at the \ntime of assessment shall not be calculated in the general time period of carrying out assessment. \n23. The applicant shall have the right to waive the registration in any stage of assessment. In this case \nthe fee for assessment shall not be subject to return irrespective of the stage of assessment. \n24. Pursuant to part 5 of Article 16 of the Law of the Republic of Armenia “On medicinal products” \neach name, composition, strength, pharmaceutical form, presentation (form of presentation as of \ncertain quantity of units included in the package), new indication, manufacturer (including each \nperformer of production process), holder of registration certificate of medicinal product, shall be \nsubject to registration.   \n\n\nPAGE 6\n6 \n \n25. The primary and (or) external package, labeling (including in the form of coloured mock-ups of \npackages), instruction for medical application (summary of product characteristics), instruction for \nuse (patient information leaflet) and quality indicators (specifications) of medicinal product shall be \napproved at the time of registration. \n26. The quali",
-        "section_article": "Context surrounding selected primary clauses; exact headings retained",
-        "language": "en",
-        "quote_method": "Exact substring of preserved decoded text",
-        "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed."
-      },
-      {
-        "clause_id": "ARM-CTX-1",
-        "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
-        "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
-        "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
-        "start_offset": 33500,
-        "end_offset": 35400,
-        "verbatim_extracted_text": " \n17. The maximum time period for submission of responses shall constitute 120 calendar days. \nFollowing the expiry of 120 calendar days after having been duly informed of the necessity of \nsubmitting additional or missing materials required at the time of assessment, failure to submit them \nshall result in termination of assessment, and an assessment report shall be drawn up on refusal of \nregistration. \n18. In case of general procedure, assessment reports on quality, pre-clinical studies, clinical trials and \naccompanying information, as well as the conclusion of laboratory inspection and the inspection \nreport (if available) shall serve as a ground for delivering an assessment report. \n19. In case of simplified procedure, the comparative assessment report, signed by relevant expert, on \nthe data relating to the composition, specifications, production areas of, research data and \naccompanying information on the medicinal product approved by the reference competent authority \nand that registered in the Republic of Armenia, shall serve as a basis for delivering an assessment \nreport.    \n20. Where at the time of assessment it appears that the fee for assessment does not correspond to the \ncase of registration, the fee shall be recalculated as of the results of assessment, whereon the applicant \nshall be notified in writing until the completion of assessment.   \n21. Irrespective of the results of assessment, the documents, materials submitted and the fee provided \nfor assessment for the purpose of registration, shall not be subject to return by ensuring the \npermanent maintenance and record-registration of documents within the organisation. \n22. Prior to submission of the application, the organisation may, if the applicant so wishes, give paid \nconsultation for the purpose of clarifying the selection of registration processes, the volume of \ndocuments  and submission o",
-        "section_article": "Contextual statutory/guideline extension; headings retained in text",
-        "language": "en",
-        "quote_method": "Exact substring of preserved decoded text",
-        "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed."
-      },
-      {
-        "clause_id": "ARM-CTX-2",
-        "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
-        "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
-        "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
-        "start_offset": 40000,
-        "end_offset": 41250,
-        "verbatim_extracted_text": "with \nAnnex 5 of this Decree. The inspections shall be carried out within the period prescribed for \nassessment.    \n35. In case of simplified procedure, the maximum duration of assessment shall constitute 21 calendar \ndays. \n36. In case of simplified procedure, the report of the assessment conducted by the reference \ncompetent authority with regard to medicinal products registered in ICH Member State or pre-\nqualified medicinal products of WHO shall be evaluated, by comparing with the submitted \ndocuments and data. \n37. In case of simplified procedure, the applicant shall be notified of incompliance of the data on \nquality and quantity composition, production area, stability and specifications, as well as of \nincompliance of accompanying information, and after making the necessary payments upon the \nconsent thereof the registration shall be made under the general procedure prescribed by this Decree. \n38. At the time of assessment for the purpose registration under general procedure and simplified \nprocedure, the compliance of primary and (or) external packages, summary of product characteristics \n(instruction for medical application), instruction for use (patient information leaflet) of medicinal \nproduct with the requirements pr",
-        "section_article": "Contextual statutory/guideline extension; headings retained in text",
-        "language": "en",
-        "quote_method": "Exact substring of preserved decoded text",
-        "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed."
+        "selection_recommendation": "history",
+        "selection_reason": "Historical 2017 rule. Decree 347 framework later repealed by Decision 162/2019; not a current-law claim."
       }
     ],
     "review_details": {
+      "record_id": "EXP-B-ARM-02",
       "iso3": "ARM",
       "country": "Armenia",
-      "selected_document_id": "F250_acdf785cdf833c3ea1fb_644747568b52",
-      "source_id": "F250_acdf785cdf833c3ea1fb",
+      "selected_document_id": "EXP-B-ARM-02",
+      "source_id": "F250_b8711a6ccc6435364d3a",
+      "pathway": "Simplified registration under Decision 162",
+      "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+      "document_title": "Decision 162-N: consolidated English text",
+      "source_type": "official legal translation",
+      "scope": "Initial human medicine marketing authorization",
+      "language": "en",
+      "translation_provenance": "Official English text",
+      "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+      "raw_hash_validated": true,
+      "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+      "version_dates": {},
+      "version_scope_note": "2019 decision consolidated with explicit 2021/2024 amendments. The 2024 wording is not backdated to 2019.",
+      "contextual_review_status": "targeted contextual review; not a claim to read every technical annex",
+      "reviewed_ranges": [
+        {
+          "start": 6638,
+          "end": 7643,
+          "section_article": "Annex 1, 10–12"
+        },
+        {
+          "start": 38774,
+          "end": 40500,
+          "section_article": "Annex 2, 35–38"
+        },
+        {
+          "start": 56500,
+          "end": 58050,
+          "section_article": "Annex 5, 11–12"
+        }
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "Simplified procedure covers registration in an ICH member state or WHO prequalification.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q01"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Singular qualifying ICH-member registration; no two-approval threshold established.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q01"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Composition, site, stability, specifications and accompanying information compared.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q02"
+          ]
+        },
+        "report_completeness": {
+          "state": "discretionary/conditional",
+          "finding": "Reference authority expert-examination report is evaluated; full/unredacted content is not specified.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q02"
+          ]
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "discretionary/conditional",
+          "finding": "Qualifying PIC/S/EAEU GMP reports within three years recognized except inconsistencies requiring monitoring.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q03"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Comparative assessment plus local packaging/information examination; discrepancies can trigger general procedure.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q02"
+          ]
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Armenian information developed/verified during examination.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q02"
+          ]
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "21 calendar days maximum expert examination; distinguish final decision and administrative steps.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q02"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Conditional application; this source does not establish automatic approval.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q01",
+            "EXP-B-ARM-02-Q02",
+            "EXP-B-ARM-02-Q03"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Conditional application; this source does not establish automatic approval.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q01",
+            "EXP-B-ARM-02-Q02",
+            "EXP-B-ARM-02-Q03"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Conditional application; this source does not establish automatic approval.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q01",
+            "EXP-B-ARM-02-Q02",
+            "EXP-B-ARM-02-Q03"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Conditional application; this source does not establish automatic approval.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q01",
+            "EXP-B-ARM-02-Q02",
+            "EXP-B-ARM-02-Q03"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "FDA-only can satisfy ICH-reference approval component; acceptance of submitted report and all national conditions still must be assessed.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q01",
+            "EXP-B-ARM-02-Q02",
+            "EXP-B-ARM-02-Q03"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B_minus_A": {
+          "status": "unresolved/not stated",
+          "finding": "No unconditional report-access effect established."
+        },
+        "B_minus_C": {
+          "status": "unresolved/not stated",
+          "finding": "Separate applicant report-sharing permission not resolved; registration representation is distinct."
+        },
+        "B_minus_D": {
+          "status": "unresolved/not stated",
+          "finding": "Separate reference-authority report-sharing permission not resolved."
+        },
+        "B_minus_E": {
+          "status": "unresolved/not stated",
+          "finding": "No second-approval advantage established for this route."
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": false,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {
+        "second_approval_selected_route": {
+          "finding": "One ICH-member registration is the approval component.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q01"
+          ]
+        },
+        "one_approval_alternative_described": {
+          "finding": "Single-approval route described, but no multi-approval route documented in this compatible version. Not counted as alternative in headline subset.",
+          "evidence_ids": []
+        },
+        "one_approval_route_described": {
+          "finding": "One qualifying registration described.",
+          "evidence_ids": [
+            "EXP-B-ARM-02-Q01"
+          ]
+        },
+        "complete_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "nonpublic_report_or_public_domain_exclusion": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "ambiguous_additional_full_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "EXP-B-ARM-02-Q01",
+          "source_document_id": "F250_b8711a6ccc6435364d3a",
+          "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+          "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+          "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+          "exact_text": "a for safety, efficiency and quality of products adopted as prescribed by \nthe legislation of the Republic of Armenia and the requirements of the \nInternational Council for Harmonisation of Technical Requirements for \nPharmaceutic\n \n10. \ngeneral and simplified procedure, in case of availability of a positive expert-\nexamination opinion. \n11. \nSimplified procedure for registration of medicine shall be applied to the \nmedicines registered (undergone expert-examination) in a member state of the \nICH or pre-qualified by the World Health Organisation (hereinafter referred to \n\n\nPAGE 6\n6 \n \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn all other cases, the general procedure for registration of medicine shall apply, \nwithin the terms specified in point 19 of this Procedure. \n13. For the purpose of registration, the person defined in part 9 of Article 16 of the \nLaw of the Republic of Armenia \"On medicine\" may act as an applicant and (or) \nsubmit documents of registration. \n14. ",
+          "start": 6638,
+          "end": 7643,
+          "exact_offset_validated": true,
+          "section_article": "Annex 1, 10–12",
+          "pdf_page": null,
+          "language": "en",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-ARM-02-Q01",
+          "verbatim_extracted_text": "a for safety, efficiency and quality of products adopted as prescribed by \nthe legislation of the Republic of Armenia and the requirements of the \nInternational Council for Harmonisation of Technical Requirements for \nPharmaceutic\n \n10. \ngeneral and simplified procedure, in case of availability of a positive expert-\nexamination opinion. \n11. \nSimplified procedure for registration of medicine shall be applied to the \nmedicines registered (undergone expert-examination) in a member state of the \nICH or pre-qualified by the World Health Organisation (hereinafter referred to \n\n\nPAGE 6\n6 \n \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn all other cases, the general procedure for registration of medicine shall apply, \nwithin the terms specified in point 19 of this Procedure. \n13. For the purpose of registration, the person defined in part 9 of Article 16 of the \nLaw of the Republic of Armenia \"On medicine\" may act as an applicant and (or) \nsubmit documents of registration. \n14. ",
+          "start_offset": 6638,
+          "end_offset": 7643
+        },
+        {
+          "passage_id": "EXP-B-ARM-02-Q02",
+          "source_document_id": "F250_b8711a6ccc6435364d3a",
+          "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+          "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+          "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+          "exact_text": "35. In case of simplified procedure, the maximum duration of expert-examination \nshall be 21 calendar days. \n36. In case of the simplified procedure, the report on the expert-examination \nconducted by the Reference Competent Authority for medicines registered in an \nICH member state or prequalified by the WHO shall be evaluated by comparing \nit with the submitted documents and data. \n37. In case of the simplified procedure, where there is inconsistency of qualitative \nand quantitative composition, manufacturing site, stability and data of \nspecifications or the normative document of quality, as well as accompanying \ninformation, the applicant shall be notified, and in case of his/her consent, after \nmaking the necessary payments, registration shall be carried out through the \ngeneral procedure approved by this Decision. \n(point 37 supplemented by No 1873-N of 28 November 2024)  \n38. During the expert-examination for the purpose of registration through general \nand simplified procedures, the compliance of the primary and (or) outer \npackaging, the general description of the medicine (instruction for medical use), \nand the instruction for use (leaflet) with the requirements established by the \n\n\nPAGE 24\n24 \nlegislation of the Republic of Armenia shall also be verified, while simultaneously \ndeveloping the Armenian version of the instruction for medical use (general \ndescription of the medicine) and the instruction for use (leaflet). In case of heavy \nworkload, the development of Armenian versions may be carried out after \nregistration, within a maximum of 180 days, ensuring the approval and publicity \nof the document in the original language before that. \n(point 38 amended, supplemented by No 1873-N",
+          "start": 38774,
+          "end": 40500,
+          "exact_offset_validated": true,
+          "section_article": "Annex 2, 35–38",
+          "pdf_page": "23–24",
+          "language": "en",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-ARM-02-Q02",
+          "verbatim_extracted_text": "35. In case of simplified procedure, the maximum duration of expert-examination \nshall be 21 calendar days. \n36. In case of the simplified procedure, the report on the expert-examination \nconducted by the Reference Competent Authority for medicines registered in an \nICH member state or prequalified by the WHO shall be evaluated by comparing \nit with the submitted documents and data. \n37. In case of the simplified procedure, where there is inconsistency of qualitative \nand quantitative composition, manufacturing site, stability and data of \nspecifications or the normative document of quality, as well as accompanying \ninformation, the applicant shall be notified, and in case of his/her consent, after \nmaking the necessary payments, registration shall be carried out through the \ngeneral procedure approved by this Decision. \n(point 37 supplemented by No 1873-N of 28 November 2024)  \n38. During the expert-examination for the purpose of registration through general \nand simplified procedures, the compliance of the primary and (or) outer \npackaging, the general description of the medicine (instruction for medical use), \nand the instruction for use (leaflet) with the requirements established by the \n\n\nPAGE 24\n24 \nlegislation of the Republic of Armenia shall also be verified, while simultaneously \ndeveloping the Armenian version of the instruction for medical use (general \ndescription of the medicine) and the instruction for use (leaflet). In case of heavy \nworkload, the development of Armenian versions may be carried out after \nregistration, within a maximum of 180 days, ensuring the approval and publicity \nof the document in the original language before that. \n(point 38 amended, supplemented by No 1873-N",
+          "start_offset": 38774,
+          "end_offset": 40500
+        },
+        {
+          "passage_id": "EXP-B-ARM-02-Q03",
+          "source_document_id": "F250_b8711a6ccc6435364d3a",
+          "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+          "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+          "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+          "exact_text": "\n36 \nThe maximum term for monitoring shall be 5 working days. Based on the results \nof the monitoring, a protocol shall be drawn up, which shall be signed by the \nexpert(s) conducting the monitoring and the representative of the applicant. \n11. \nIn case of positive results of monitoring of GMP compliance conducted by \ncompetent authorities of states that are members to the Pharmaceutical \nInspection Co-operation Scheme and the Eurasian Economic Union within the \nprevious three years, the reports shall be recognised, and no monitoring is \nconducted, except for cases when inconsistencies have been identified as a result \nof the expert-examination, the study whereof requires conducting professional \nmonitoring during registration or after registration, in accordance with this \nProcedure. \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn case of positive results of observations conducted during the prequalification \nby the WHO, as well as that conducted by competent authorities of states that are \nmembers to the ICH and Eurasian Economic Union at the sites of pre-clinical \ntesting, clinical trials and bioequivalence studies, the reports shall be recognised, \nand no monitoring is conducted, except for cases when inconsistencies have \nbeen identified as a result of the expert-examination, the study whereof requires \nconducting professional monitoring during registration or after registration, in \naccordance with this Procedure. \n(point 12 supplemented by No 1873-N of 28 November 2024) \n(Annex amended, supplemented",
+          "start": 56500,
+          "end": 58050,
+          "exact_offset_validated": true,
+          "section_article": "Annex 5, 11–12",
+          "pdf_page": "35–36",
+          "language": "en",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-ARM-02-Q03",
+          "verbatim_extracted_text": "\n36 \nThe maximum term for monitoring shall be 5 working days. Based on the results \nof the monitoring, a protocol shall be drawn up, which shall be signed by the \nexpert(s) conducting the monitoring and the representative of the applicant. \n11. \nIn case of positive results of monitoring of GMP compliance conducted by \ncompetent authorities of states that are members to the Pharmaceutical \nInspection Co-operation Scheme and the Eurasian Economic Union within the \nprevious three years, the reports shall be recognised, and no monitoring is \nconducted, except for cases when inconsistencies have been identified as a result \nof the expert-examination, the study whereof requires conducting professional \nmonitoring during registration or after registration, in accordance with this \nProcedure. \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn case of positive results of observations conducted during the prequalification \nby the WHO, as well as that conducted by competent authorities of states that are \nmembers to the ICH and Eurasian Economic Union at the sites of pre-clinical \ntesting, clinical trials and bioequivalence studies, the reports shall be recognised, \nand no monitoring is conducted, except for cases when inconsistencies have \nbeen identified as a result of the expert-examination, the study whereof requires \nconducting professional monitoring during registration or after registration, in \naccordance with this Procedure. \n(point 12 supplemented by No 1873-N of 28 November 2024) \n(Annex amended, supplemented",
+          "start_offset": 56500,
+          "end_offset": 58050
+        }
+      ],
+      "primary_comparison": true,
+      "selection_recommendation": "preferred_primary",
+      "selection_reason": "2019 decision consolidated with explicit 2021/2024 amendments. The 2024 wording is not backdated to 2019.",
+      "reviewer": "Assistant contextual",
+      "one_approval_route_described": true,
+      "expansion_selection_reason": "Consolidated simplified-registration requirements; older version retained.",
+      "selected_expansion_record": "b:1"
+    }
+  },
+  "standard_drug_reviewed_routes": [
+    {
+      "record_key": "baseline",
+      "selected_for_primary": false,
       "pathway": "ICH-member approval or WHO-prequalification simplified registration",
       "source_url": "https://www.pharm.am/attachments/article/4917/162_eng.pdf",
-      "document_title": "Armenia Government Decree 162-N, 28 February 2019",
-      "source_type": "Regulator-provided decree translation",
-      "scope": "Human-medicine authorisation",
-      "language": "en",
-      "translation_provenance": "Official English source",
-      "raw_sha256": "644747568b52df35db1f4ed449584154ac5f854ae22c30481d7dd1ad9be90c9f",
-      "raw_hash_validated": true,
-      "text_sha256": "28d2461d39aeb351a31a6998468874cb9879864b82da3562030a8a91b48e579c",
-      "version_dates": {},
+      "version_note": null,
       "version_scope_note": "English translation of Armenian registration decree. Simplified procedure is a comparative assessment, not automatic foreign authorisation.",
-      "contextual_review_status": "Targeted contextual review complete for recorded sections; full eligibility unresolved where stated.",
-      "reviewed_ranges": [
-        [
-          7695,
-          10268
-        ],
-        [
-          10656,
-          13450
-        ],
-        [
-          33500,
-          35400
-        ],
-        [
-          40000,
-          41250
-        ]
-      ],
+      "scope": "Human-medicine authorisation",
       "components": {
         "new_active_substance": {
           "state": "unresolved/not stated",
@@ -850,13 +1729,8 @@
           ]
         }
       },
-      "shared_authorization_effect": {
-        "status": "unresolved in selected source",
-        "finding": "Do not infer market inaccessibility from absence of a usable reference for the selected route."
-      },
-      "paired_comparisons": {
-        "interpretation": "Condition-level legal comparison only; not an observed approval, causal time saving, cost or price estimate."
-      },
+      "gates": null,
+      "gate_notes": null,
       "evidence": [
         {
           "clause_id": "ARM-R01",
@@ -972,12 +1846,384 @@
           "version_alignment": "Cover records adoption 28 February 2019 and entry into force 30 March 2019; subsequent amendment history not completed."
         }
       ],
-      "explicit_full_report_gate": false,
-      "unresolved_requirements": [
-        "All incorporated rules and application facts not expressly resolved remain open; source absence is not waiver."
+      "selection_recommendation": null,
+      "selection_reason": null
+    },
+    {
+      "record_key": "b:0",
+      "selected_for_primary": false,
+      "pathway": "Simplified registration: EU/USA/Japan",
+      "source_url": "https://www.pharm.am/attachments/article/187/Requirements%20to%20the%20State%20Registration_2017_eng_New.pdf",
+      "version_note": null,
+      "version_scope_note": "Historical 2017 rule. Decree 347 framework later repealed by Decision 162/2019; not a current-law claim.",
+      "scope": "Initial human medicine marketing authorization",
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "One EU-member, US or Japanese registration qualifies the foreign-approval condition.",
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "One qualifying approval; FDA alone meets this component.",
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "explicit requirement",
+          "finding": "Composition must match; otherwise common procedure.",
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "discretionary/conditional",
+          "finding": "Simplified assessment expressly waives product testing; other GMP conditions remain unresolved by this passage.",
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Listed documents in English or Armenian; certified copy of approval evidence.",
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "Certified approval certificate OR WHO-format CPP issued within two years.",
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Maximum assessment 30 days; general assessment 180 days. These are not observed durations.",
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Conditional application; this source does not establish automatic approval.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "B": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Conditional application; this source does not establish automatic approval.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "C": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Conditional application; this source does not establish automatic approval.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "D": {
+          "eligibility": "discretionary/conditional",
+          "finding": "Conditional application; this source does not establish automatic approval.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "E": {
+          "eligibility": "discretionary/conditional",
+          "finding": "FDA-only satisfies the listed foreign-approval component; other documents and national decision remain conditional.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": false,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {
+        "second_approval_selected_route": {
+          "finding": "One qualifying approval expressly suffices.",
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "one_approval_alternative_described": {
+          "finding": "Single-approval route described, but no multi-approval route documented in this compatible version. Not counted as alternative in headline subset.",
+          "evidence_ids": []
+        },
+        "one_approval_route_described": {
+          "finding": "This route itself accepts one prior approval.",
+          "evidence_ids": [
+            "EXP-B-ARM-01-Q01"
+          ]
+        },
+        "complete_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "nonpublic_report_or_public_domain_exclusion": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "ambiguous_additional_full_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "EXP-B-ARM-01-Q01",
+          "source_document_id": "F250_0385e0f3117283d72a79",
+          "source_url": "https://www.pharm.am/attachments/article/187/Requirements%20to%20the%20State%20Registration_2017_eng_New.pdf",
+          "raw_sha256": "b96be20e258d015b89ecc8f86f93cb58e56cfcbfc42b0816e1fa0b3a9d516743",
+          "text_sha256": "4cb4366a6e88ecc5e64f3ef711acc81c92a36c095f883a121174c0066567d244",
+          "exact_text": "3.5. The maximum duration of assessment is 180 days except for: \n3.5.1 Medicinal products registered in one of the member countries of European Union, \nthe USA or Japan, The assessment of the medicinal products registered in the above-\nmentioned countries should be carried out within a maximum of 30 days in a \nsimplified order without any testing. The following documents should be attached to \nthe application either in English or in Armenian:  \n \n a) certified true copy of the registration certificate of the medicinal product in one \nof the member countries of European Union or in the USA, or in Japan, or \nCertificate of Pharmaceutical Product (CPP) in format approved by the World \nHealth Organization issued in the last 2 years,  \nb) Summary of Product Characteristics (SmPC) approved by the authorized body of \nthe country that has registered the medicinal product,  \nc) data on the qualitative and quantitative composition of the medicinal product \n(including excipients),  \nd) pharmacopoeial monographs or control methods, specifications of the medicinal \nproduct,  \ne) label of the medicinal product, packages, their colored mock-ups, patient \ninformation leaflet or the instruction for medical use for specialists and patients, as \nwell as their electronic versions for all output forms indicated in the application in \nEnglish or in Armenian,  \nf) Periodic Safety Update Report (PSUR).  \nIn case the data mentioned in subpoint ―c‖ do not comply with the similar data of \nthe medicinal product registered in one of the full member countries of European \nUnion or in the USA, or in Japan, then the assessment should be carried out under \ncommon procedure defined by Decree of the Government of the Republic of Armenia \n№347 of April 25, 2001. \n \n\n\nPAGE 6\n \n",
+          "start": 13494,
+          "end": 15265,
+          "exact_offset_validated": true,
+          "section_article": "3.5–3.5.1",
+          "pdf_page": "5–6",
+          "language": "en",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-ARM-01-Q01",
+          "verbatim_extracted_text": "3.5. The maximum duration of assessment is 180 days except for: \n3.5.1 Medicinal products registered in one of the member countries of European Union, \nthe USA or Japan, The assessment of the medicinal products registered in the above-\nmentioned countries should be carried out within a maximum of 30 days in a \nsimplified order without any testing. The following documents should be attached to \nthe application either in English or in Armenian:  \n \n a) certified true copy of the registration certificate of the medicinal product in one \nof the member countries of European Union or in the USA, or in Japan, or \nCertificate of Pharmaceutical Product (CPP) in format approved by the World \nHealth Organization issued in the last 2 years,  \nb) Summary of Product Characteristics (SmPC) approved by the authorized body of \nthe country that has registered the medicinal product,  \nc) data on the qualitative and quantitative composition of the medicinal product \n(including excipients),  \nd) pharmacopoeial monographs or control methods, specifications of the medicinal \nproduct,  \ne) label of the medicinal product, packages, their colored mock-ups, patient \ninformation leaflet or the instruction for medical use for specialists and patients, as \nwell as their electronic versions for all output forms indicated in the application in \nEnglish or in Armenian,  \nf) Periodic Safety Update Report (PSUR).  \nIn case the data mentioned in subpoint ―c‖ do not comply with the similar data of \nthe medicinal product registered in one of the full member countries of European \nUnion or in the USA, or in Japan, then the assessment should be carried out under \ncommon procedure defined by Decree of the Government of the Republic of Armenia \n№347 of April 25, 2001. \n \n\n\nPAGE 6\n \n",
+          "start_offset": 13494,
+          "end_offset": 15265
+        }
       ],
-      "possible_full_report_gate": false,
-      "gate_adjudication": ""
+      "selection_recommendation": "history",
+      "selection_reason": "Historical 2017 rule. Decree 347 framework later repealed by Decision 162/2019; not a current-law claim."
     }
-  }
+  ],
+  "standard_drug_expansion_clauses": [
+    {
+      "passage_id": "EXP-B-ARM-01-Q01",
+      "source_document_id": "F250_0385e0f3117283d72a79",
+      "source_url": "https://www.pharm.am/attachments/article/187/Requirements%20to%20the%20State%20Registration_2017_eng_New.pdf",
+      "raw_sha256": "b96be20e258d015b89ecc8f86f93cb58e56cfcbfc42b0816e1fa0b3a9d516743",
+      "text_sha256": "4cb4366a6e88ecc5e64f3ef711acc81c92a36c095f883a121174c0066567d244",
+      "exact_text": "3.5. The maximum duration of assessment is 180 days except for: \n3.5.1 Medicinal products registered in one of the member countries of European Union, \nthe USA or Japan, The assessment of the medicinal products registered in the above-\nmentioned countries should be carried out within a maximum of 30 days in a \nsimplified order without any testing. The following documents should be attached to \nthe application either in English or in Armenian:  \n \n a) certified true copy of the registration certificate of the medicinal product in one \nof the member countries of European Union or in the USA, or in Japan, or \nCertificate of Pharmaceutical Product (CPP) in format approved by the World \nHealth Organization issued in the last 2 years,  \nb) Summary of Product Characteristics (SmPC) approved by the authorized body of \nthe country that has registered the medicinal product,  \nc) data on the qualitative and quantitative composition of the medicinal product \n(including excipients),  \nd) pharmacopoeial monographs or control methods, specifications of the medicinal \nproduct,  \ne) label of the medicinal product, packages, their colored mock-ups, patient \ninformation leaflet or the instruction for medical use for specialists and patients, as \nwell as their electronic versions for all output forms indicated in the application in \nEnglish or in Armenian,  \nf) Periodic Safety Update Report (PSUR).  \nIn case the data mentioned in subpoint ―c‖ do not comply with the similar data of \nthe medicinal product registered in one of the full member countries of European \nUnion or in the USA, or in Japan, then the assessment should be carried out under \ncommon procedure defined by Decree of the Government of the Republic of Armenia \n№347 of April 25, 2001. \n \n\n\nPAGE 6\n \n",
+      "start": 13494,
+      "end": 15265,
+      "exact_offset_validated": true,
+      "section_article": "3.5–3.5.1",
+      "pdf_page": "5–6",
+      "language": "en",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-ARM-01-Q01",
+      "verbatim_extracted_text": "3.5. The maximum duration of assessment is 180 days except for: \n3.5.1 Medicinal products registered in one of the member countries of European Union, \nthe USA or Japan, The assessment of the medicinal products registered in the above-\nmentioned countries should be carried out within a maximum of 30 days in a \nsimplified order without any testing. The following documents should be attached to \nthe application either in English or in Armenian:  \n \n a) certified true copy of the registration certificate of the medicinal product in one \nof the member countries of European Union or in the USA, or in Japan, or \nCertificate of Pharmaceutical Product (CPP) in format approved by the World \nHealth Organization issued in the last 2 years,  \nb) Summary of Product Characteristics (SmPC) approved by the authorized body of \nthe country that has registered the medicinal product,  \nc) data on the qualitative and quantitative composition of the medicinal product \n(including excipients),  \nd) pharmacopoeial monographs or control methods, specifications of the medicinal \nproduct,  \ne) label of the medicinal product, packages, their colored mock-ups, patient \ninformation leaflet or the instruction for medical use for specialists and patients, as \nwell as their electronic versions for all output forms indicated in the application in \nEnglish or in Armenian,  \nf) Periodic Safety Update Report (PSUR).  \nIn case the data mentioned in subpoint ―c‖ do not comply with the similar data of \nthe medicinal product registered in one of the full member countries of European \nUnion or in the USA, or in Japan, then the assessment should be carried out under \ncommon procedure defined by Decree of the Government of the Republic of Armenia \n№347 of April 25, 2001. \n \n\n\nPAGE 6\n \n",
+      "start_offset": 13494,
+      "end_offset": 15265,
+      "iso3": "ARM",
+      "country": "Armenia",
+      "document_id": "EXP-B-ARM-01",
+      "display_text": "3.5. The maximum duration of assessment is 180 days except for: \n3.5.1 Medicinal products registered in one of the member countries of European Union, \nthe USA or Japan, The assessment of the medicinal products registered in the above-\nmentioned countries should be carried out within a maximum of 30 days in a \nsimplified order without any testing. The following documents should be attached to \nthe application either in English or in Armenian:  \n \n a) certified true copy of the registration certificate of the medicinal product in one \nof the member countries of European Union or in the USA, or in Japan, or \nCertificate of Pharmaceutical Product (CPP) in format approved by the World \nHealth Organization issued in the last 2 years,  \nb) Summary of Product Characteristics (SmPC) approved by the authorized body of \nthe country that has registered the medicinal product,  \nc) data on the qualitative and quantitative composition of the medicinal product \n(including excipients),  \nd) pharmacopoeial monographs or control methods, specifications of the medicinal \nproduct,  \ne) label of the medicinal product, packages, their colored mock-ups, patient \ninformation leaflet or the instruction for medical use for specialists and patients, as \nwell as their electronic versions for all output forms indicated in the application in \nEnglish or in Armenian,  \nf) Periodic Safety Update Report (PSUR).  \nIn case the data mentioned in subpoint ―c‖ do not comply with the similar data of \nthe medicinal product registered in one of the full member countries of European \nUnion or in the USA, or in Japan, then the assessment should be carried out under \ncommon procedure defined by Decree of the Government of the Republic of Armenia \n№347 of April 25, 2001. \n \n\n\nPAGE 6\n \n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Simplified registration: EU/USA/Japan Historical 2017 rule. Decree 347 framework later repealed by Decision 162/2019; not a current-law claim. ",
+      "version_alignment": "Historical 2017 rule. Decree 347 framework later repealed by Decision 162/2019; not a current-law claim."
+    },
+    {
+      "passage_id": "EXP-B-ARM-02-Q01",
+      "source_document_id": "F250_b8711a6ccc6435364d3a",
+      "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+      "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+      "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+      "exact_text": "a for safety, efficiency and quality of products adopted as prescribed by \nthe legislation of the Republic of Armenia and the requirements of the \nInternational Council for Harmonisation of Technical Requirements for \nPharmaceutic\n \n10. \ngeneral and simplified procedure, in case of availability of a positive expert-\nexamination opinion. \n11. \nSimplified procedure for registration of medicine shall be applied to the \nmedicines registered (undergone expert-examination) in a member state of the \nICH or pre-qualified by the World Health Organisation (hereinafter referred to \n\n\nPAGE 6\n6 \n \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn all other cases, the general procedure for registration of medicine shall apply, \nwithin the terms specified in point 19 of this Procedure. \n13. For the purpose of registration, the person defined in part 9 of Article 16 of the \nLaw of the Republic of Armenia \"On medicine\" may act as an applicant and (or) \nsubmit documents of registration. \n14. ",
+      "start": 6638,
+      "end": 7643,
+      "exact_offset_validated": true,
+      "section_article": "Annex 1, 10–12",
+      "pdf_page": null,
+      "language": "en",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-ARM-02-Q01",
+      "verbatim_extracted_text": "a for safety, efficiency and quality of products adopted as prescribed by \nthe legislation of the Republic of Armenia and the requirements of the \nInternational Council for Harmonisation of Technical Requirements for \nPharmaceutic\n \n10. \ngeneral and simplified procedure, in case of availability of a positive expert-\nexamination opinion. \n11. \nSimplified procedure for registration of medicine shall be applied to the \nmedicines registered (undergone expert-examination) in a member state of the \nICH or pre-qualified by the World Health Organisation (hereinafter referred to \n\n\nPAGE 6\n6 \n \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn all other cases, the general procedure for registration of medicine shall apply, \nwithin the terms specified in point 19 of this Procedure. \n13. For the purpose of registration, the person defined in part 9 of Article 16 of the \nLaw of the Republic of Armenia \"On medicine\" may act as an applicant and (or) \nsubmit documents of registration. \n14. ",
+      "start_offset": 6638,
+      "end_offset": 7643,
+      "iso3": "ARM",
+      "country": "Armenia",
+      "document_id": "EXP-B-ARM-02",
+      "display_text": "a for safety, efficiency and quality of products adopted as prescribed by \nthe legislation of the Republic of Armenia and the requirements of the \nInternational Council for Harmonisation of Technical Requirements for \nPharmaceutic\n \n10. \ngeneral and simplified procedure, in case of availability of a positive expert-\nexamination opinion. \n11. \nSimplified procedure for registration of medicine shall be applied to the \nmedicines registered (undergone expert-examination) in a member state of the \nICH or pre-qualified by the World Health Organisation (hereinafter referred to \n\n\nPAGE 6\n6 \n \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn all other cases, the general procedure for registration of medicine shall apply, \nwithin the terms specified in point 19 of this Procedure. \n13. For the purpose of registration, the person defined in part 9 of Article 16 of the \nLaw of the Republic of Armenia \"On medicine\" may act as an applicant and (or) \nsubmit documents of registration. \n14. ",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Simplified registration under Decision 162 2019 decision consolidated with explicit 2021/2024 amendments. The 2024 wording is not backdated to 2019. ",
+      "version_alignment": "2019 decision consolidated with explicit 2021/2024 amendments. The 2024 wording is not backdated to 2019."
+    },
+    {
+      "passage_id": "EXP-B-ARM-02-Q02",
+      "source_document_id": "F250_b8711a6ccc6435364d3a",
+      "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+      "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+      "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+      "exact_text": "35. In case of simplified procedure, the maximum duration of expert-examination \nshall be 21 calendar days. \n36. In case of the simplified procedure, the report on the expert-examination \nconducted by the Reference Competent Authority for medicines registered in an \nICH member state or prequalified by the WHO shall be evaluated by comparing \nit with the submitted documents and data. \n37. In case of the simplified procedure, where there is inconsistency of qualitative \nand quantitative composition, manufacturing site, stability and data of \nspecifications or the normative document of quality, as well as accompanying \ninformation, the applicant shall be notified, and in case of his/her consent, after \nmaking the necessary payments, registration shall be carried out through the \ngeneral procedure approved by this Decision. \n(point 37 supplemented by No 1873-N of 28 November 2024)  \n38. During the expert-examination for the purpose of registration through general \nand simplified procedures, the compliance of the primary and (or) outer \npackaging, the general description of the medicine (instruction for medical use), \nand the instruction for use (leaflet) with the requirements established by the \n\n\nPAGE 24\n24 \nlegislation of the Republic of Armenia shall also be verified, while simultaneously \ndeveloping the Armenian version of the instruction for medical use (general \ndescription of the medicine) and the instruction for use (leaflet). In case of heavy \nworkload, the development of Armenian versions may be carried out after \nregistration, within a maximum of 180 days, ensuring the approval and publicity \nof the document in the original language before that. \n(point 38 amended, supplemented by No 1873-N",
+      "start": 38774,
+      "end": 40500,
+      "exact_offset_validated": true,
+      "section_article": "Annex 2, 35–38",
+      "pdf_page": "23–24",
+      "language": "en",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-ARM-02-Q02",
+      "verbatim_extracted_text": "35. In case of simplified procedure, the maximum duration of expert-examination \nshall be 21 calendar days. \n36. In case of the simplified procedure, the report on the expert-examination \nconducted by the Reference Competent Authority for medicines registered in an \nICH member state or prequalified by the WHO shall be evaluated by comparing \nit with the submitted documents and data. \n37. In case of the simplified procedure, where there is inconsistency of qualitative \nand quantitative composition, manufacturing site, stability and data of \nspecifications or the normative document of quality, as well as accompanying \ninformation, the applicant shall be notified, and in case of his/her consent, after \nmaking the necessary payments, registration shall be carried out through the \ngeneral procedure approved by this Decision. \n(point 37 supplemented by No 1873-N of 28 November 2024)  \n38. During the expert-examination for the purpose of registration through general \nand simplified procedures, the compliance of the primary and (or) outer \npackaging, the general description of the medicine (instruction for medical use), \nand the instruction for use (leaflet) with the requirements established by the \n\n\nPAGE 24\n24 \nlegislation of the Republic of Armenia shall also be verified, while simultaneously \ndeveloping the Armenian version of the instruction for medical use (general \ndescription of the medicine) and the instruction for use (leaflet). In case of heavy \nworkload, the development of Armenian versions may be carried out after \nregistration, within a maximum of 180 days, ensuring the approval and publicity \nof the document in the original language before that. \n(point 38 amended, supplemented by No 1873-N",
+      "start_offset": 38774,
+      "end_offset": 40500,
+      "iso3": "ARM",
+      "country": "Armenia",
+      "document_id": "EXP-B-ARM-02",
+      "display_text": "35. In case of simplified procedure, the maximum duration of expert-examination \nshall be 21 calendar days. \n36. In case of the simplified procedure, the report on the expert-examination \nconducted by the Reference Competent Authority for medicines registered in an \nICH member state or prequalified by the WHO shall be evaluated by comparing \nit with the submitted documents and data. \n37. In case of the simplified procedure, where there is inconsistency of qualitative \nand quantitative composition, manufacturing site, stability and data of \nspecifications or the normative document of quality, as well as accompanying \ninformation, the applicant shall be notified, and in case of his/her consent, after \nmaking the necessary payments, registration shall be carried out through the \ngeneral procedure approved by this Decision. \n(point 37 supplemented by No 1873-N of 28 November 2024)  \n38. During the expert-examination for the purpose of registration through general \nand simplified procedures, the compliance of the primary and (or) outer \npackaging, the general description of the medicine (instruction for medical use), \nand the instruction for use (leaflet) with the requirements established by the \n\n\nPAGE 24\n24 \nlegislation of the Republic of Armenia shall also be verified, while simultaneously \ndeveloping the Armenian version of the instruction for medical use (general \ndescription of the medicine) and the instruction for use (leaflet). In case of heavy \nworkload, the development of Armenian versions may be carried out after \nregistration, within a maximum of 180 days, ensuring the approval and publicity \nof the document in the original language before that. \n(point 38 amended, supplemented by No 1873-N",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Simplified registration under Decision 162 2019 decision consolidated with explicit 2021/2024 amendments. The 2024 wording is not backdated to 2019. ",
+      "version_alignment": "2019 decision consolidated with explicit 2021/2024 amendments. The 2024 wording is not backdated to 2019."
+    },
+    {
+      "passage_id": "EXP-B-ARM-02-Q03",
+      "source_document_id": "F250_b8711a6ccc6435364d3a",
+      "source_url": "https://www.pharm.am/attachments/article/4813/Degree_162_eng_1.pdf",
+      "raw_sha256": "6da5014aa7ff71298b8f2db2ec48db2a1b6fdb87ac16f92044c62bb01467d960",
+      "text_sha256": "e95f852dd5de6fc1442601579f5158fab8bc1ac1cdc6b35b07147931c75eeaa8",
+      "exact_text": "\n36 \nThe maximum term for monitoring shall be 5 working days. Based on the results \nof the monitoring, a protocol shall be drawn up, which shall be signed by the \nexpert(s) conducting the monitoring and the representative of the applicant. \n11. \nIn case of positive results of monitoring of GMP compliance conducted by \ncompetent authorities of states that are members to the Pharmaceutical \nInspection Co-operation Scheme and the Eurasian Economic Union within the \nprevious three years, the reports shall be recognised, and no monitoring is \nconducted, except for cases when inconsistencies have been identified as a result \nof the expert-examination, the study whereof requires conducting professional \nmonitoring during registration or after registration, in accordance with this \nProcedure. \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn case of positive results of observations conducted during the prequalification \nby the WHO, as well as that conducted by competent authorities of states that are \nmembers to the ICH and Eurasian Economic Union at the sites of pre-clinical \ntesting, clinical trials and bioequivalence studies, the reports shall be recognised, \nand no monitoring is conducted, except for cases when inconsistencies have \nbeen identified as a result of the expert-examination, the study whereof requires \nconducting professional monitoring during registration or after registration, in \naccordance with this Procedure. \n(point 12 supplemented by No 1873-N of 28 November 2024) \n(Annex amended, supplemented",
+      "start": 56500,
+      "end": 58050,
+      "exact_offset_validated": true,
+      "section_article": "Annex 5, 11–12",
+      "pdf_page": "35–36",
+      "language": "en",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-ARM-02-Q03",
+      "verbatim_extracted_text": "\n36 \nThe maximum term for monitoring shall be 5 working days. Based on the results \nof the monitoring, a protocol shall be drawn up, which shall be signed by the \nexpert(s) conducting the monitoring and the representative of the applicant. \n11. \nIn case of positive results of monitoring of GMP compliance conducted by \ncompetent authorities of states that are members to the Pharmaceutical \nInspection Co-operation Scheme and the Eurasian Economic Union within the \nprevious three years, the reports shall be recognised, and no monitoring is \nconducted, except for cases when inconsistencies have been identified as a result \nof the expert-examination, the study whereof requires conducting professional \nmonitoring during registration or after registration, in accordance with this \nProcedure. \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn case of positive results of observations conducted during the prequalification \nby the WHO, as well as that conducted by competent authorities of states that are \nmembers to the ICH and Eurasian Economic Union at the sites of pre-clinical \ntesting, clinical trials and bioequivalence studies, the reports shall be recognised, \nand no monitoring is conducted, except for cases when inconsistencies have \nbeen identified as a result of the expert-examination, the study whereof requires \nconducting professional monitoring during registration or after registration, in \naccordance with this Procedure. \n(point 12 supplemented by No 1873-N of 28 November 2024) \n(Annex amended, supplemented",
+      "start_offset": 56500,
+      "end_offset": 58050,
+      "iso3": "ARM",
+      "country": "Armenia",
+      "document_id": "EXP-B-ARM-02",
+      "display_text": "\n36 \nThe maximum term for monitoring shall be 5 working days. Based on the results \nof the monitoring, a protocol shall be drawn up, which shall be signed by the \nexpert(s) conducting the monitoring and the representative of the applicant. \n11. \nIn case of positive results of monitoring of GMP compliance conducted by \ncompetent authorities of states that are members to the Pharmaceutical \nInspection Co-operation Scheme and the Eurasian Economic Union within the \nprevious three years, the reports shall be recognised, and no monitoring is \nconducted, except for cases when inconsistencies have been identified as a result \nof the expert-examination, the study whereof requires conducting professional \nmonitoring during registration or after registration, in accordance with this \nProcedure. \n(point 11 supplemented by No 1873-N of 28 November 2024) \n12. \nIn case of positive results of observations conducted during the prequalification \nby the WHO, as well as that conducted by competent authorities of states that are \nmembers to the ICH and Eurasian Economic Union at the sites of pre-clinical \ntesting, clinical trials and bioequivalence studies, the reports shall be recognised, \nand no monitoring is conducted, except for cases when inconsistencies have \nbeen identified as a result of the expert-examination, the study whereof requires \nconducting professional monitoring during registration or after registration, in \naccordance with this Procedure. \n(point 12 supplemented by No 1873-N of 28 November 2024) \n(Annex amended, supplemented",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Simplified registration under Decision 162 2019 decision consolidated with explicit 2021/2024 amendments. The 2024 wording is not backdated to 2019. ",
+      "version_alignment": "2019 decision consolidated with explicit 2021/2024 amendments. The 2024 wording is not backdated to 2019."
+    }
+  ]
 }

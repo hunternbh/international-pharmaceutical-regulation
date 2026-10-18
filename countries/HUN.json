@@ -134,27 +134,27 @@
   "standard_drug_legal_comparison": {
     "iso3": "HUN",
     "country": "Hungary",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "shared_authorisation",
     "fixed_case_scope_status": "shared_authorisation_effect",
     "finding": "Section5(1) permits marketing with a national or European Commission authorization. Thus the EC-approved baseline has a shared EU authorization basis. This is distinct from an independently verified Hungarian third-country reliance route; FDA-only still requires an applicable route.",
     "primary_comparison": false,
     "cases": {
       "A": {
-        "status": "shared European authorization applies",
-        "finding": "Section5(1) establishes the European Commission authorization basis, separate from a national reliance shortcut; applicable local obligations remain."
+        "status": "shared EC authorization basis",
+        "finding": "Existing EC authorization has shared territorial validity; local formalities remain separate."
       },
       "B": {
-        "status": "shared European authorization applies",
-        "finding": "Section5(1) establishes the European Commission authorization basis, separate from a national reliance shortcut; applicable local obligations remain."
+        "status": "shared EC authorization basis",
+        "finding": "Existing EC authorization has shared territorial validity; local formalities remain separate."
       },
       "C": {
-        "status": "shared European authorization applies",
-        "finding": "Section5(1) establishes the European Commission authorization basis, separate from a national reliance shortcut; applicable local obligations remain."
+        "status": "shared EC authorization basis",
+        "finding": "Existing EC authorization has shared territorial validity; local formalities remain separate."
       },
       "D": {
-        "status": "shared European authorization applies",
-        "finding": "Section5(1) establishes the European Commission authorization basis, separate from a national reliance shortcut; applicable local obligations remain."
+        "status": "shared EC authorization basis",
+        "finding": "Existing EC authorization has shared territorial validity; local formalities remain separate."
       },
       "E": {
         "status": "unresolved",
@@ -234,5 +234,7 @@
         "EU-APPLICABILITY-Q01"
       ]
     }
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

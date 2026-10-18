@@ -150,51 +150,913 @@
   "standard_drug_legal_comparison": {
     "iso3": "LBR",
     "country": "Liberia",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
-    "evidence_type": "policy_framework",
-    "fixed_case_scope_status": "operational_conditions_unresolved",
-    "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved.",
-    "primary_comparison": false,
-    "cases": {
-      "A": {
-        "status": "unresolved",
-        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+    "primary_comparison": true,
+    "sample": "selected_national_route_comparisons",
+    "pathway": "Ordinary initial registration; WAHO summary-decision alternative noted",
+    "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+    "document_id": "F250_5b7d825293f06331fbcf",
+    "genre": "Official national guideline/procedure",
+    "language": "en",
+    "scope": "Initial human-medicine marketing authorisation, subject to expressly recorded route limits",
+    "version_note": "Guideline approved 15 April 2012; URL upload 2022 is not adoption date.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "New chemical entities and innovator products are explicitly covered by section 3.2.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
       },
-      "B": {
-        "status": "unresolved",
-        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       },
-      "C": {
-        "status": "unresolved",
-        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Ordinary new-molecule provision uses time since first international registration, not an express two-agency threshold. Regional WAHO decision is a distinct alternative.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
       },
-      "D": {
-        "status": "unresolved",
-        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       },
-      "E": {
-        "status": "unresolved",
-        "finding": "The policy makes reliance depend on authority/information availability and retains national responsibility. Product-specific filing conditions and legal route eligibility remain unresolved."
+      "approval_age": {
+        "state": "discretionary/conditional",
+        "finding": "Registration shall normally not be permitted within the first two years of FIRST INTERNATIONAL registration. FDA / EC approvals 18 months old do not identify that earliest global date; an earlier third-country approval could change the result.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "discretionary/conditional",
+        "finding": "Differences from certificate-country product must be listed/justified; authority decides relevance. CPP requirements distinguish direct-export and multiple manufacturing countries.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Manufacturer authority to REGISTER and LMHRA onward confidentiality provisions are not a foreign assessment-sharing consent requirement.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "discretionary/conditional",
+        "finding": "WAHO region-wide registration triggers local registration on WAHO summary decision plus fees; FDA / EC approval is not a WAHO decision.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "local_clinical_evidence": {
+        "state": "discretionary/conditional",
+        "finding": "Foreign clinical data considered, but local clinical evaluation may be requested where necessary at applicant expense. No local trial is automatically required for every product.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Drug Master File, process validation, Zone IV stability for specified trial batches, Site Master File; authority may inspect facility at prescribed fee.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "Registration decisions use national dossier evaluation, quality-control and where needed c GMP inspection reports; foreign approval does not automatically establish this ordinary MA .",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "local_representative": {
+        "state": "explicit requirement",
+        "finding": "Nonresident applicant appoints locally resident person or incorporated company authorised by LMHRA, with power of attorney and signed manufacturer agreement.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "Nonrefundable application fee; inspection and requested local-trial costs additional where applicable.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "English labels and notarised English certificate translation when certificate issued in another language.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "WHO -format CPP from competent statutory authority, current original/certified copy and certificate of analysis; issuing country tied to direct export where manufacturing occurs in several countries.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "clock": {
+        "state": "discretionary/conditional",
+        "finding": "Applications processed within three months; may lengthen for additional information. No reply within six months can terminate application. Appeal within 30 days of rejection.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+        "evidence_ids": []
       }
     },
+    "cases": {
+      "A": {
+        "status": "unresolved minimum-global-age condition",
+        "eligibility": "unresolved minimum-global-age condition",
+        "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "B": {
+        "status": "unresolved minimum-global-age condition",
+        "eligibility": "unresolved minimum-global-age condition",
+        "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "C": {
+        "status": "unresolved minimum-global-age condition",
+        "eligibility": "unresolved minimum-global-age condition",
+        "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "D": {
+        "status": "unresolved minimum-global-age condition",
+        "eligibility": "unresolved minimum-global-age condition",
+        "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      },
+      "E": {
+        "status": "unresolved minimum-global-age condition",
+        "eligibility": "unresolved minimum-global-age condition",
+        "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+        "evidence_ids": [
+          "EXP-A-048-0",
+          "EXP-A-048-6200",
+          "EXP-A-048-11500",
+          "EXP-A-048-14000",
+          "EXP-A-048-19800"
+        ]
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "reviewed contextual interpretation",
+        "finding": "No underlying-report gate established by this ordinary-registration guideline. Company CTD /DMF and local evaluation are distinct."
+      },
+      "B_minus_E": {
+        "status": "reviewed contextual interpretation",
+        "finding": "Adding EMA does not by itself settle the time since FIRST worldwide registration. Do not treat approval age as an agency-count effect."
+      }
+    },
+    "shared_authorization_effect": null,
     "evidence": [
       {
-        "clause_id": "LBR-Q01",
-        "source_url": "https://lmhra.gov.lr/new/pg_img/Reliance%20Policy.pdf",
-        "raw_sha256": "014779daa5205b5ea701522f1a1aa4ca4c729345723fc7ee2556b2154c3ae68a",
-        "text_sha256": "2478cacdffda04531092f50bfa3c5dd19c7e3fa0841978216eabd9ad1e936faa",
-        "start_offset": 11325,
-        "end_offset": 12687,
-        "verbatim_extracted_text": "To facilitate and accelerate regulatory processes and activities with the use of information from\n\napproved stringent and well-resourced NRAs while retaining the LMHRA’s regulatory\nresponsibilities and decision-making autonomy. The decision to practice reliance shall take into\nconsideration the existing capacities and regulatory systems’ needs of the LMHRA. Depending on\nthe availability of an authority and access to their information, LMHRA can rely upon any national\nor international authority or organisation with confidence and weigh how reliance can complement\n\nLMHRAs capacities to drive efficiencies and the optimal use of resources.\nThe purpose of the reliance policy is to:\n\n= specify regulatory procedures to complement the regulatory framework and the national\nlegislation on reliance and recognition.\n\n= enable collaboration with other authorities.\n\n= enable work-sharing (for example, through regional networks); and\n\n= enable reliance on decisions from other regulatory authorities and laboratories and\n\ninternational organizations (as WHO, PICs, EMA etc).\n\n3.4 Scope\nThe scope of this Reliance policy shall be applicable to the regulatory oversight of medicinal\n\nproducts for human and veterinary use (including vaccines and medical devices) encompassing all\n\nregulatory functions spanning the full life cycle of a medicinal product in Liberia.",
-        "pdf_page": 7,
-        "language": "en",
-        "language_status": "English machine OCR; image remains authoritative",
-        "evidence_tier": "limited_scope_or_framework",
-        "version_alignment": "Version on the preserved source; not backdated to older event rows",
-        "translation_review": null
+        "clause_id": "EXP-A-048-0",
+        "document_id": "F250_5b7d825293f06331fbcf",
+        "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+        "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+        "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+        "start_offset": 0,
+        "end_offset": 1400,
+        "verbatim_extracted_text": "PAGE 1\n1 \n \nLIBERIA MEDICINES AND HEALTH PRODUCTS REGULATORY AUTHORITY \n \nGUIDELINES FOR REGISTRATION OF MEDICINES AND HEALTH PRODUCTS IN \nLIBERIA \nINTRODUCTION \nThe regulation of medicines and related health products in Liberia is governed by the provisions and \nrequirements of the Liberia Medicines and Health Products Regulatory Authority (LMHRA) Act, 2010. \nThe law requires that all medicines manufactured, imported or exported, distributed, or sold in Liberia \nshould be of acceptable quality, safety and efficacy. The process of medicine registration forms an \nimportant basis for evaluating and assuring medicines and health products for safety, efficacy and quality.  \nFor products that are registered by the West Africa health Organization (WAHO) for region wide use, the \nLMHRA shall cause it to be registered upon receipt of summary decision by WAHO and the payment of \nthe applicable fees by the applicant. Applications submitted for registration in the WAHO Common \nTechnical Document (CTD) format shall be accepted for processing. \nLEGAL BASIS \nIn pursuance of Part 1 Section 1 of the Act to Establish the Liberia Medicines and Health Products \nRegulatory Authority (LMHRA) of 2010, these guidelines are hereby made to provide guidance to \napplicants on the procedure for registering medicines and health products in Liberia. Applicants are \nrequired to familiarize themselves with th",
+        "section_article": "Introduction and legal basis",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+        "language": "en"
+      },
+      {
+        "clause_id": "EXP-A-048-6200",
+        "document_id": "F250_5b7d825293f06331fbcf",
+        "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+        "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+        "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+        "start_offset": 6200,
+        "end_offset": 9400,
+        "verbatim_extracted_text": " \ngauze, cotton, artificial teeth, chemicals, and x-ray film and other similar articles. \n \nv) Medicine: Means any substance or mixture of substances intended for use in: \n(i) the diagnosis, treatment, mitigation or prevention of a disease, disorder, abnormal \nphysical or mental state, or the symptoms thereof, in man or animal; or, \n(ii) restoring, correcting or beneficial modification of organic or mental functions in man or \nanimal; or, \n(iii) medicine shall include traditional medicine, narcotic drugs, psychotropic substances, \nblood and blood products, vaccines, sera, and radiopharmaceuticals, but not health products \nas defined herein. \nw) Pharmaceutical Importer: Means a registered entity and licensed by LMHRA to procure \nand import medicines and health products from foreign countries and/or distribution in the \ncommerce of Liberia \n \n \n REGISTRATION \n \n2.1 NEW APPLICATION \nAn application for the registration of a drug, either locally manufactured or imported, shall be made in \nwriting as specified in the Application Form \n \n\n\nPAGE 4\n4 \n \nThe Application Form shall be completed in accordance with the sequence of appendices and shall be \ndated, signed and stamped by the applicant/license holder.  \n \nEvery applicant who is not resident in Liberia shall appoint a local responsible person who must be a \nperson residing or a company incorporated in Liberia and authorized by LMHRA to deal in \nmedicine and Health Products. Evidence shall be made by submitting a power of attorney that \ncomplies with Liberia laws and accompanied with duly signed agreement between the local \nrepresentative and manufacturers of the finished product. The list of products under the agreement \nshould be appended to the agency agreement. \n \nThe local responsible person shall be responsible for facilitating communication with the applicant and \nwhen the product is registered he shall assume all legal responsibilities regarding the product safety, \nefficacy and quality follow-up on the Liberian market. \n \nApplications shall be accompanied by: \na) a duly signed covering letter  \nb) two (2) completed application forms  \nc) samples of the product in the final package as specified in Samples Schedule \nd) reference or working standard for Active Pharmaceutical Ingredient and related impurities \nwhere necessary. \ne) all supporting documents as specified on the application form \nf) clinical trial and/or bioequivalence trial certificate where applicable \ng) non-refundable application fee as specified in Fee Schedule \n \nThe Authority shall approve the application before any importation of the product, other than those used \nas samples for the purpose of this application, shall be made into the country. \n \n \nREGISTRATION VARIATION \n \nAn application for a variation of the registration of a product prior to its re-registration becoming due may \nbe made to the Authority. \n  \nThe application shall be accompanied by: \na) a duly signed covering letter  \nb) documentation in support of the variation   \nc) samples reflecting the variation as specified in the Samples Schedule. \nd) a non-refundable variation fee as specified in the Fee Schedule \n  \nThis variation shall be approved by the Au",
+        "section_article": "Section2.1 new application, local representative, samples and fees",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+        "language": "en"
+      },
+      {
+        "clause_id": "EXP-A-048-11500",
+        "document_id": "F250_5b7d825293f06331fbcf",
+        "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+        "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+        "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+        "start_offset": 11500,
+        "end_offset": 13900,
+        "verbatim_extracted_text": " conditions of purchase and use. \n \nMinimum required information for labeling \n \n Name of product \n Dosage form \n Indication and recommended dosage of the product  \n Mode of administration \n Duration of use \n Major adverse effects, if any \n Symptoms  and management of overdose \n Contraindication, warning, precautions and major drug interactions \n Use during pregnancy and lactation \n Expiry date \n Batch number \n Shelf life and storage condition \n Name of manufacturer and/or applicant with full location address \n \n3.2 \nNEW CHEMICAL ENTITIES OR INNOVATOR PRODUCTS \n3.2.1 Registration in Liberia shall normally not be permitted within the first two years of the first \nregistration of the drug on the international market. \n3.2.2  Verifiable information shall be provided regarding the date of expiry of the patent. \n3.2.3 Although clinical trial data derived from studies in other countries will be considered in taking a \ndecision with any application, the Authority reserves the right to request for local clinical evaluation, \nbased on existing guidelines for clinical trials, where necessary.  The cost of this trial shall be borne by the \napplicant.   \n \n3.3.     GENERIC DRUGS \n3.3.1. Shall not be marketed in a name similar in pronunciation or form to the innovator product.    \n3.3.2. A bio-equivalence study report shall be submitted in line with existing guidelines WHO Guidelines \n3.3.3. Although bio-equivalence data derived from studies in other countries will be considered in taking \na decision with any application, the Authority reserves the right to request for local clinical \nevaluation, based on existing WHO guidelines for bio-equivalence studies, where necessary.   \nThe cost of this trial shall be borne by the applicant.   \n\n\nPAGE 7\n7 \n \nFor all solid oral dosage forms, reports of dissolution studies will be required. If the official \ncompendia monograph doesn’t require dissolution the dissolution requirement in the USP \nshall apply. \nIf the product is manufactured on contract basis, evidence of the contract shall be submitted. This \ninformation shall be clearly stated on the product label and package insert. \n \nFor both locally manufactured and imported drugs the original certificate of analysis for the drug, \nissued by a recognized public analyst, shall be submitted. \n \nFor imported drugs a Certificate of Pharmaceutical Product (CPP) issued by t",
+        "section_article": "Section3.2 new chemical entities / innovator products",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+        "language": "en"
+      },
+      {
+        "clause_id": "EXP-A-048-14000",
+        "document_id": "F250_5b7d825293f06331fbcf",
+        "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+        "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+        "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+        "start_offset": 14000,
+        "end_offset": 19800,
+        "verbatim_extracted_text": "WHO) \nCertification Scheme for Pharmaceutical Products Moving in International Commerce, shall \nbe submitted along with the certificate of analysis. \n \nIf the product is not identical to that in the issuing country, the applicants must list any differences in the \napplication form and justify the differences. The Authority will decide whether the differences are \nminor and have been adequately justified, and consequently whether certificate is relevant for the \nintended purposes. \n \nWhere different phases of the manufacturing are conducted in different countries, the CPP must be issued \nby the competent authorities in the country that directly exports the product to Liberia. Different \nphases of manufacture may be conducted in different countries.  \n \nWhere the product is fully manufactured in both in different countries and the applicant wishes to obtain \napproval to use both sites of manufacture, the certificate should be submitted from both countries. \n \nThe certificate should officially be stamped and dated together with all copies of product information \nsubmitted in support of an application for registration.  \n \nThe applicant is responsible for providing a notarized translation of the contents of the certificate in \nEnglish in case when the certifying Authority issued the certificate in any other language. \n \nThe certificate should be original and/or a notarized or certified copy and current. \nA Drug Master File and process validation protocols shall be submitted for all applications. \n \nStability study reports conducted for three (3) trial batches of the product, and suited to the \nconditions specified below, shall be submitted :- \n \n \n \n\n\nPAGE 8\n8 \n \na) WHO Zone IV climatic conditions \n \nCondition \nAccelerated \nReal Time \n \n \n \nStorage Temperature   \n40 + 2 oC \n30 oC \nRelative Humidity \n75 + 5 % \n70 +/- 5 % \nDuration \n6 months \nUntil end of shelf life \n \nb) The stability study shall be conducted in the container closure system in which the product \nwill be marketed in Liberia.  \n \nWhere the product is to be registered in more than one container closure system, stability data shall \nbe provided for each presentation. Real-time stability data shall be required for all biologicals.    \n \nThe result of the stability test shall be presented in both tabular and graphical    forms and the \nproposed shelf-life and storage conditions shall be determined on the basis of these results.            \n \nThe Authority in considering an application: \n \na) shall satisfy itself that there is need to have the drug registered in Liberia. \n \nb) shall request the applicant to submit a manufacturer’s authorization to register the drug. \n \nc) may consult with other bodies and experts with knowledge of the drug. \nd) For purposes of verification of compliance to cGMP, all applications shall be \naccompanied by a Site Master File.   \n \ne) Reserves the right to conduct a Good Manufacturing Practice (GMP) audit inspection on \nthe manufacturing facility for the product at a fee prescribed by the Authority. \n \nf) May ask the applicant to supply such other information as may be required to enable it \nreach a decision on the application. \n \ng) Shall acknowledge receipt of all applications at submission and payment of fees and shall \nbe processed within three months. Where it becomes necessary to ask for additional \ninformation from the applicant, this time period may be lengthened.   \n \nh) When the applicant fails to submit written responses to queries within 6 months from \nthe date of their issuance, it will be deemed that the applicant has withdrawn the \napplication or if the queries have been reissued for a second time and the applicant \nprovides unsatisfactory responses, the product will be disqualified and the application \nwill be rejected. The applicant will be required to apply afresh. \n \n\n\nPAGE 9\n9 \n \ni) If no response is received within six months of the request, the application will be \ndiscontinued.    \nj) Decisions on registration shall be based on the dossier evaluation report, quality control \nreport and inspection report on compliance to cGMP where necessary.   \n \nAn appeal for the review of an application may be made in writing to the Chairman of the LMHRA \nwithin thirty (30) days of receipt of the rejection notice. \n \nWhere the Authority is satisfied that there is the need to register a medicinal product, and all \nrequirements for its registration have been satisfied, it shall do so and issue to the applicant a \ncertificate of registration, subject to such conditions as may be prescribed by the Authority \nfrom time to time. \n \nThe registration of a drug under these regulations, unless otherwise revoked, shall be valid for a \nperiod of three (3) years and may be renewed. \n \nThe Authority shall from time to time, publish a notice in the Gazzette notifying the registration of a \ndrug under these regulations. \n \nNo information given in this application shall be disclosed by the LMHRA to a third party except:- \n \na) with the written consent of the license holder; or \n \nb) in accordance with the directive of the Board of Directors of LMHRA or \n \nc) for the purpose of a legal process under the LMHRA Act of 2010 \n \nThe Authority shall cancel, suspend, or withdraw the registration of a drug if:- \n \na) the grounds on which the drug was registered is later found to be false; or \n \nb) the circumstances under which the drug was registered no longer exist; or \n \nc) any of the provisions under which the drug was registered has been contravened; or \n \nd) the standard of quality, safety and efficacy, as prescribed in the documentation for \nregistration is not being complied with; or \n \n\n\nPAGE 10\n10 \n \ne) the premises, in which the drug or part thereof is manufactured, packaged or stored by or on \nbehalf of the holder",
+        "section_article": "CPP, stability, review, inspection and appeal requirements",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+        "language": "en"
+      },
+      {
+        "clause_id": "EXP-A-048-19800",
+        "document_id": "F250_5b7d825293f06331fbcf",
+        "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+        "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+        "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+        "start_offset": 19800,
+        "end_offset": 20208,
+        "verbatim_extracted_text": " of the certificate of registration is unsuitable for the manufacture, \npackaging or storage of the drug. \n \nWhere the registration of a drug is suspended, withdrawn or cancelled, the Authority shall cause the \nwithdrawal from circulation of that drug and shall accordingly cause the suspension, \ncancellation or withdrawal to be published in the Gazzette \n \n \n \n \n \n \n \n \n \n \nAPPROVED DATE: APRIL 15, 2012 \n",
+        "section_article": "Approved date at end of guideline",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+        "language": "en"
       }
     ],
-    "source_scope": "Broad policy framework",
-    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+    "other_reviewed_routes": [],
+    "review_details": {
+      "record_id": "LBR-EXP-A-048",
+      "iso3": "LBR",
+      "country": "Liberia",
+      "pathway": "Ordinary initial registration; WAHO summary-decision alternative noted",
+      "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+      "document_id": "F250_5b7d825293f06331fbcf",
+      "language": "en",
+      "genre": "Official national guideline/procedure",
+      "scope": "Initial human-medicine marketing authorisation, subject to expressly recorded route limits",
+      "version_note": "Guideline approved 15 April 2012; URL upload 2022 is not adoption date.",
+      "version_scope_note": "Guideline approved 15 April 2012; URL upload 2022 is not adoption date.",
+      "primary_comparison": true,
+      "selection_recommendation": "preferred_primary",
+      "selection_reason": "Substantive ordinary new-molecule requirements, a global-age restriction and review clock extend comparison beyond broad reliance labels.",
+      "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+      "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "New chemical entities and innovator products are explicitly covered by section 3.2.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Ordinary new-molecule provision uses time since first international registration, not an express two-agency threshold. Regional WAHO decision is a distinct alternative.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "discretionary/conditional",
+          "finding": "Registration shall normally not be permitted within the first two years of FIRST INTERNATIONAL registration. FDA / EC approvals 18 months old do not identify that earliest global date; an earlier third-country approval could change the result.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "discretionary/conditional",
+          "finding": "Differences from certificate-country product must be listed/justified; authority decides relevance. CPP requirements distinguish direct-export and multiple manufacturing countries.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Manufacturer authority to REGISTER and LMHRA onward confidentiality provisions are not a foreign assessment-sharing consent requirement.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "discretionary/conditional",
+          "finding": "WAHO region-wide registration triggers local registration on WAHO summary decision plus fees; FDA / EC approval is not a WAHO decision.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "local_clinical_evidence": {
+          "state": "discretionary/conditional",
+          "finding": "Foreign clinical data considered, but local clinical evaluation may be requested where necessary at applicant expense. No local trial is automatically required for every product.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Drug Master File, process validation, Zone IV stability for specified trial batches, Site Master File; authority may inspect facility at prescribed fee.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "Registration decisions use national dossier evaluation, quality-control and where needed c GMP inspection reports; foreign approval does not automatically establish this ordinary MA .",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "local_representative": {
+          "state": "explicit requirement",
+          "finding": "Nonresident applicant appoints locally resident person or incorporated company authorised by LMHRA, with power of attorney and signed manufacturer agreement.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "Nonrefundable application fee; inspection and requested local-trial costs additional where applicable.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "English labels and notarised English certificate translation when certificate issued in another language.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "WHO -format CPP from competent statutory authority, current original/certified copy and certificate of analysis; issuing country tied to direct export where manufacturing occurs in several countries.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "clock": {
+          "state": "discretionary/conditional",
+          "finding": "Applications processed within three months; may lengthen for additional information. No reply within six months can terminate application. Appeal within 30 days of rejection.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "Not established by this version of the selected route. No requirement or waiver inferred from silence.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "status": "unresolved minimum-global-age condition",
+          "eligibility": "unresolved minimum-global-age condition",
+          "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "B": {
+          "status": "unresolved minimum-global-age condition",
+          "eligibility": "unresolved minimum-global-age condition",
+          "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "C": {
+          "status": "unresolved minimum-global-age condition",
+          "eligibility": "unresolved minimum-global-age condition",
+          "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "D": {
+          "status": "unresolved minimum-global-age condition",
+          "eligibility": "unresolved minimum-global-age condition",
+          "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "E": {
+          "status": "unresolved minimum-global-age condition",
+          "eligibility": "unresolved minimum-global-age condition",
+          "finding": "Known FDA / EC approvals are 18 months old. The guideline normally prevents registration in the first 2 years after FIRST international registration, but the case does not rule out an earlier third-country approval. Even if age is met, local representative, stability, CPP and national evaluation must be satisfied. A–E report/consent changes do not settle these facts.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": null,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null,
+        "one_approval_route_described": null
+      },
+      "gate_notes": {
+        "complete_report_gate": {
+          "finding": "No express determination on this report/approval-comparison gate in the reviewed ordinary-registration provisions. An explicit minimum-global-age condition is coded separately.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "nonpublic_report_or_public_domain_exclusion": {
+          "finding": "No express determination on this report/approval-comparison gate in the reviewed ordinary-registration provisions. An explicit minimum-global-age condition is coded separately.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "second_approval_selected_route": {
+          "finding": "No express determination on this report/approval-comparison gate in the reviewed ordinary-registration provisions. An explicit minimum-global-age condition is coded separately.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "one_approval_alternative_described": {
+          "finding": "No express determination on this report/approval-comparison gate in the reviewed ordinary-registration provisions. An explicit minimum-global-age condition is coded separately.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        },
+        "ambiguous_additional_full_report_gate": {
+          "finding": "No express determination on this report/approval-comparison gate in the reviewed ordinary-registration provisions. An explicit minimum-global-age condition is coded separately.",
+          "evidence_ids": [
+            "EXP-A-048-0",
+            "EXP-A-048-6200",
+            "EXP-A-048-11500",
+            "EXP-A-048-14000",
+            "EXP-A-048-19800"
+          ]
+        }
+      },
+      "paired_comparisons": {
+        "B_vs_A": "No underlying-report gate established by this ordinary-registration guideline. Company CTD /DMF and local evaluation are distinct.",
+        "E_vs_B": "Adding EMA does not by itself settle the time since FIRST worldwide registration. Do not treat approval age as an agency-count effect."
+      },
+      "evidence": [
+        {
+          "clause_id": "EXP-A-048-0",
+          "document_id": "F250_5b7d825293f06331fbcf",
+          "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+          "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+          "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+          "start_offset": 0,
+          "end_offset": 1400,
+          "verbatim_extracted_text": "PAGE 1\n1 \n \nLIBERIA MEDICINES AND HEALTH PRODUCTS REGULATORY AUTHORITY \n \nGUIDELINES FOR REGISTRATION OF MEDICINES AND HEALTH PRODUCTS IN \nLIBERIA \nINTRODUCTION \nThe regulation of medicines and related health products in Liberia is governed by the provisions and \nrequirements of the Liberia Medicines and Health Products Regulatory Authority (LMHRA) Act, 2010. \nThe law requires that all medicines manufactured, imported or exported, distributed, or sold in Liberia \nshould be of acceptable quality, safety and efficacy. The process of medicine registration forms an \nimportant basis for evaluating and assuring medicines and health products for safety, efficacy and quality.  \nFor products that are registered by the West Africa health Organization (WAHO) for region wide use, the \nLMHRA shall cause it to be registered upon receipt of summary decision by WAHO and the payment of \nthe applicable fees by the applicant. Applications submitted for registration in the WAHO Common \nTechnical Document (CTD) format shall be accepted for processing. \nLEGAL BASIS \nIn pursuance of Part 1 Section 1 of the Act to Establish the Liberia Medicines and Health Products \nRegulatory Authority (LMHRA) of 2010, these guidelines are hereby made to provide guidance to \napplicants on the procedure for registering medicines and health products in Liberia. Applicants are \nrequired to familiarize themselves with th",
+          "section_article": "Introduction and legal basis",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+          "language": "en"
+        },
+        {
+          "clause_id": "EXP-A-048-6200",
+          "document_id": "F250_5b7d825293f06331fbcf",
+          "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+          "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+          "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+          "start_offset": 6200,
+          "end_offset": 9400,
+          "verbatim_extracted_text": " \ngauze, cotton, artificial teeth, chemicals, and x-ray film and other similar articles. \n \nv) Medicine: Means any substance or mixture of substances intended for use in: \n(i) the diagnosis, treatment, mitigation or prevention of a disease, disorder, abnormal \nphysical or mental state, or the symptoms thereof, in man or animal; or, \n(ii) restoring, correcting or beneficial modification of organic or mental functions in man or \nanimal; or, \n(iii) medicine shall include traditional medicine, narcotic drugs, psychotropic substances, \nblood and blood products, vaccines, sera, and radiopharmaceuticals, but not health products \nas defined herein. \nw) Pharmaceutical Importer: Means a registered entity and licensed by LMHRA to procure \nand import medicines and health products from foreign countries and/or distribution in the \ncommerce of Liberia \n \n \n REGISTRATION \n \n2.1 NEW APPLICATION \nAn application for the registration of a drug, either locally manufactured or imported, shall be made in \nwriting as specified in the Application Form \n \n\n\nPAGE 4\n4 \n \nThe Application Form shall be completed in accordance with the sequence of appendices and shall be \ndated, signed and stamped by the applicant/license holder.  \n \nEvery applicant who is not resident in Liberia shall appoint a local responsible person who must be a \nperson residing or a company incorporated in Liberia and authorized by LMHRA to deal in \nmedicine and Health Products. Evidence shall be made by submitting a power of attorney that \ncomplies with Liberia laws and accompanied with duly signed agreement between the local \nrepresentative and manufacturers of the finished product. The list of products under the agreement \nshould be appended to the agency agreement. \n \nThe local responsible person shall be responsible for facilitating communication with the applicant and \nwhen the product is registered he shall assume all legal responsibilities regarding the product safety, \nefficacy and quality follow-up on the Liberian market. \n \nApplications shall be accompanied by: \na) a duly signed covering letter  \nb) two (2) completed application forms  \nc) samples of the product in the final package as specified in Samples Schedule \nd) reference or working standard for Active Pharmaceutical Ingredient and related impurities \nwhere necessary. \ne) all supporting documents as specified on the application form \nf) clinical trial and/or bioequivalence trial certificate where applicable \ng) non-refundable application fee as specified in Fee Schedule \n \nThe Authority shall approve the application before any importation of the product, other than those used \nas samples for the purpose of this application, shall be made into the country. \n \n \nREGISTRATION VARIATION \n \nAn application for a variation of the registration of a product prior to its re-registration becoming due may \nbe made to the Authority. \n  \nThe application shall be accompanied by: \na) a duly signed covering letter  \nb) documentation in support of the variation   \nc) samples reflecting the variation as specified in the Samples Schedule. \nd) a non-refundable variation fee as specified in the Fee Schedule \n  \nThis variation shall be approved by the Au",
+          "section_article": "Section2.1 new application, local representative, samples and fees",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+          "language": "en"
+        },
+        {
+          "clause_id": "EXP-A-048-11500",
+          "document_id": "F250_5b7d825293f06331fbcf",
+          "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+          "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+          "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+          "start_offset": 11500,
+          "end_offset": 13900,
+          "verbatim_extracted_text": " conditions of purchase and use. \n \nMinimum required information for labeling \n \n Name of product \n Dosage form \n Indication and recommended dosage of the product  \n Mode of administration \n Duration of use \n Major adverse effects, if any \n Symptoms  and management of overdose \n Contraindication, warning, precautions and major drug interactions \n Use during pregnancy and lactation \n Expiry date \n Batch number \n Shelf life and storage condition \n Name of manufacturer and/or applicant with full location address \n \n3.2 \nNEW CHEMICAL ENTITIES OR INNOVATOR PRODUCTS \n3.2.1 Registration in Liberia shall normally not be permitted within the first two years of the first \nregistration of the drug on the international market. \n3.2.2  Verifiable information shall be provided regarding the date of expiry of the patent. \n3.2.3 Although clinical trial data derived from studies in other countries will be considered in taking a \ndecision with any application, the Authority reserves the right to request for local clinical evaluation, \nbased on existing guidelines for clinical trials, where necessary.  The cost of this trial shall be borne by the \napplicant.   \n \n3.3.     GENERIC DRUGS \n3.3.1. Shall not be marketed in a name similar in pronunciation or form to the innovator product.    \n3.3.2. A bio-equivalence study report shall be submitted in line with existing guidelines WHO Guidelines \n3.3.3. Although bio-equivalence data derived from studies in other countries will be considered in taking \na decision with any application, the Authority reserves the right to request for local clinical \nevaluation, based on existing WHO guidelines for bio-equivalence studies, where necessary.   \nThe cost of this trial shall be borne by the applicant.   \n\n\nPAGE 7\n7 \n \nFor all solid oral dosage forms, reports of dissolution studies will be required. If the official \ncompendia monograph doesn’t require dissolution the dissolution requirement in the USP \nshall apply. \nIf the product is manufactured on contract basis, evidence of the contract shall be submitted. This \ninformation shall be clearly stated on the product label and package insert. \n \nFor both locally manufactured and imported drugs the original certificate of analysis for the drug, \nissued by a recognized public analyst, shall be submitted. \n \nFor imported drugs a Certificate of Pharmaceutical Product (CPP) issued by t",
+          "section_article": "Section3.2 new chemical entities / innovator products",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+          "language": "en"
+        },
+        {
+          "clause_id": "EXP-A-048-14000",
+          "document_id": "F250_5b7d825293f06331fbcf",
+          "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+          "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+          "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+          "start_offset": 14000,
+          "end_offset": 19800,
+          "verbatim_extracted_text": "WHO) \nCertification Scheme for Pharmaceutical Products Moving in International Commerce, shall \nbe submitted along with the certificate of analysis. \n \nIf the product is not identical to that in the issuing country, the applicants must list any differences in the \napplication form and justify the differences. The Authority will decide whether the differences are \nminor and have been adequately justified, and consequently whether certificate is relevant for the \nintended purposes. \n \nWhere different phases of the manufacturing are conducted in different countries, the CPP must be issued \nby the competent authorities in the country that directly exports the product to Liberia. Different \nphases of manufacture may be conducted in different countries.  \n \nWhere the product is fully manufactured in both in different countries and the applicant wishes to obtain \napproval to use both sites of manufacture, the certificate should be submitted from both countries. \n \nThe certificate should officially be stamped and dated together with all copies of product information \nsubmitted in support of an application for registration.  \n \nThe applicant is responsible for providing a notarized translation of the contents of the certificate in \nEnglish in case when the certifying Authority issued the certificate in any other language. \n \nThe certificate should be original and/or a notarized or certified copy and current. \nA Drug Master File and process validation protocols shall be submitted for all applications. \n \nStability study reports conducted for three (3) trial batches of the product, and suited to the \nconditions specified below, shall be submitted :- \n \n \n \n\n\nPAGE 8\n8 \n \na) WHO Zone IV climatic conditions \n \nCondition \nAccelerated \nReal Time \n \n \n \nStorage Temperature   \n40 + 2 oC \n30 oC \nRelative Humidity \n75 + 5 % \n70 +/- 5 % \nDuration \n6 months \nUntil end of shelf life \n \nb) The stability study shall be conducted in the container closure system in which the product \nwill be marketed in Liberia.  \n \nWhere the product is to be registered in more than one container closure system, stability data shall \nbe provided for each presentation. Real-time stability data shall be required for all biologicals.    \n \nThe result of the stability test shall be presented in both tabular and graphical    forms and the \nproposed shelf-life and storage conditions shall be determined on the basis of these results.            \n \nThe Authority in considering an application: \n \na) shall satisfy itself that there is need to have the drug registered in Liberia. \n \nb) shall request the applicant to submit a manufacturer’s authorization to register the drug. \n \nc) may consult with other bodies and experts with knowledge of the drug. \nd) For purposes of verification of compliance to cGMP, all applications shall be \naccompanied by a Site Master File.   \n \ne) Reserves the right to conduct a Good Manufacturing Practice (GMP) audit inspection on \nthe manufacturing facility for the product at a fee prescribed by the Authority. \n \nf) May ask the applicant to supply such other information as may be required to enable it \nreach a decision on the application. \n \ng) Shall acknowledge receipt of all applications at submission and payment of fees and shall \nbe processed within three months. Where it becomes necessary to ask for additional \ninformation from the applicant, this time period may be lengthened.   \n \nh) When the applicant fails to submit written responses to queries within 6 months from \nthe date of their issuance, it will be deemed that the applicant has withdrawn the \napplication or if the queries have been reissued for a second time and the applicant \nprovides unsatisfactory responses, the product will be disqualified and the application \nwill be rejected. The applicant will be required to apply afresh. \n \n\n\nPAGE 9\n9 \n \ni) If no response is received within six months of the request, the application will be \ndiscontinued.    \nj) Decisions on registration shall be based on the dossier evaluation report, quality control \nreport and inspection report on compliance to cGMP where necessary.   \n \nAn appeal for the review of an application may be made in writing to the Chairman of the LMHRA \nwithin thirty (30) days of receipt of the rejection notice. \n \nWhere the Authority is satisfied that there is the need to register a medicinal product, and all \nrequirements for its registration have been satisfied, it shall do so and issue to the applicant a \ncertificate of registration, subject to such conditions as may be prescribed by the Authority \nfrom time to time. \n \nThe registration of a drug under these regulations, unless otherwise revoked, shall be valid for a \nperiod of three (3) years and may be renewed. \n \nThe Authority shall from time to time, publish a notice in the Gazzette notifying the registration of a \ndrug under these regulations. \n \nNo information given in this application shall be disclosed by the LMHRA to a third party except:- \n \na) with the written consent of the license holder; or \n \nb) in accordance with the directive of the Board of Directors of LMHRA or \n \nc) for the purpose of a legal process under the LMHRA Act of 2010 \n \nThe Authority shall cancel, suspend, or withdraw the registration of a drug if:- \n \na) the grounds on which the drug was registered is later found to be false; or \n \nb) the circumstances under which the drug was registered no longer exist; or \n \nc) any of the provisions under which the drug was registered has been contravened; or \n \nd) the standard of quality, safety and efficacy, as prescribed in the documentation for \nregistration is not being complied with; or \n \n\n\nPAGE 10\n10 \n \ne) the premises, in which the drug or part thereof is manufactured, packaged or stored by or on \nbehalf of the holder",
+          "section_article": "CPP, stability, review, inspection and appeal requirements",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+          "language": "en"
+        },
+        {
+          "clause_id": "EXP-A-048-19800",
+          "document_id": "F250_5b7d825293f06331fbcf",
+          "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+          "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+          "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+          "start_offset": 19800,
+          "end_offset": 20208,
+          "verbatim_extracted_text": " of the certificate of registration is unsuitable for the manufacture, \npackaging or storage of the drug. \n \nWhere the registration of a drug is suspended, withdrawn or cancelled, the Authority shall cause the \nwithdrawal from circulation of that drug and shall accordingly cause the suspension, \ncancellation or withdrawal to be published in the Gazzette \n \n \n \n \n \n \n \n \n \n \nAPPROVED DATE: APRIL 15, 2012 \n",
+          "section_article": "Approved date at end of guideline",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+          "language": "en"
+        }
+      ],
+      "reviewed_ranges": [
+        [
+          0,
+          2200
+        ],
+        [
+          2200,
+          14000
+        ],
+        [
+          14000,
+          20208
+        ]
+      ],
+      "contextual_review_status": "Contextual review of the expressly recorded sections; not a certification that every incorporated rule is supplied.",
+      "version_dates": {
+        "guideline_approved_date": "2012-04-15"
+      },
+      "complete_eligibility_resolved": false,
+      "translation_provenance": "Official English source",
+      "expansion_selection_reason": "First substantive ordinary-registration requirements.",
+      "selected_expansion_record": "a:0"
+    }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": [
+    {
+      "clause_id": "SDX-EXP-A-048-0",
+      "document_id": "F250_5b7d825293f06331fbcf",
+      "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+      "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+      "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+      "start_offset": 0,
+      "end_offset": 1400,
+      "verbatim_extracted_text": "PAGE 1\n1 \n \nLIBERIA MEDICINES AND HEALTH PRODUCTS REGULATORY AUTHORITY \n \nGUIDELINES FOR REGISTRATION OF MEDICINES AND HEALTH PRODUCTS IN \nLIBERIA \nINTRODUCTION \nThe regulation of medicines and related health products in Liberia is governed by the provisions and \nrequirements of the Liberia Medicines and Health Products Regulatory Authority (LMHRA) Act, 2010. \nThe law requires that all medicines manufactured, imported or exported, distributed, or sold in Liberia \nshould be of acceptable quality, safety and efficacy. The process of medicine registration forms an \nimportant basis for evaluating and assuring medicines and health products for safety, efficacy and quality.  \nFor products that are registered by the West Africa health Organization (WAHO) for region wide use, the \nLMHRA shall cause it to be registered upon receipt of summary decision by WAHO and the payment of \nthe applicable fees by the applicant. Applications submitted for registration in the WAHO Common \nTechnical Document (CTD) format shall be accepted for processing. \nLEGAL BASIS \nIn pursuance of Part 1 Section 1 of the Act to Establish the Liberia Medicines and Health Products \nRegulatory Authority (LMHRA) of 2010, these guidelines are hereby made to provide guidance to \napplicants on the procedure for registering medicines and health products in Liberia. Applicants are \nrequired to familiarize themselves with th",
+      "section_article": "Introduction and legal basis",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+      "language": "en",
+      "iso3": "LBR",
+      "country": "Liberia",
+      "display_text": "PAGE 1\n1 \n \nLIBERIA MEDICINES AND HEALTH PRODUCTS REGULATORY AUTHORITY \n \nGUIDELINES FOR REGISTRATION OF MEDICINES AND HEALTH PRODUCTS IN \nLIBERIA \nINTRODUCTION \nThe regulation of medicines and related health products in Liberia is governed by the provisions and \nrequirements of the Liberia Medicines and Health Products Regulatory Authority (LMHRA) Act, 2010. \nThe law requires that all medicines manufactured, imported or exported, distributed, or sold in Liberia \nshould be of acceptable quality, safety and efficacy. The process of medicine registration forms an \nimportant basis for evaluating and assuring medicines and health products for safety, efficacy and quality.  \nFor products that are registered by the West Africa health Organization (WAHO) for region wide use, the \nLMHRA shall cause it to be registered upon receipt of summary decision by WAHO and the payment of \nthe applicable fees by the applicant. Applications submitted for registration in the WAHO Common \nTechnical Document (CTD) format shall be accepted for processing. \nLEGAL BASIS \nIn pursuance of Part 1 Section 1 of the Act to Establish the Liberia Medicines and Health Products \nRegulatory Authority (LMHRA) of 2010, these guidelines are hereby made to provide guidance to \napplicants on the procedure for registering medicines and health products in Liberia. Applicants are \nrequired to familiarize themselves with th",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary initial registration; WAHO summary-decision alternative noted Guideline approved 15 April 2012; URL upload 2022 is not adoption date. ",
+      "version_alignment": "Guideline approved 15 April 2012; URL upload 2022 is not adoption date."
+    },
+    {
+      "clause_id": "SDX-EXP-A-048-6200",
+      "document_id": "F250_5b7d825293f06331fbcf",
+      "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+      "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+      "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+      "start_offset": 6200,
+      "end_offset": 9400,
+      "verbatim_extracted_text": " \ngauze, cotton, artificial teeth, chemicals, and x-ray film and other similar articles. \n \nv) Medicine: Means any substance or mixture of substances intended for use in: \n(i) the diagnosis, treatment, mitigation or prevention of a disease, disorder, abnormal \nphysical or mental state, or the symptoms thereof, in man or animal; or, \n(ii) restoring, correcting or beneficial modification of organic or mental functions in man or \nanimal; or, \n(iii) medicine shall include traditional medicine, narcotic drugs, psychotropic substances, \nblood and blood products, vaccines, sera, and radiopharmaceuticals, but not health products \nas defined herein. \nw) Pharmaceutical Importer: Means a registered entity and licensed by LMHRA to procure \nand import medicines and health products from foreign countries and/or distribution in the \ncommerce of Liberia \n \n \n REGISTRATION \n \n2.1 NEW APPLICATION \nAn application for the registration of a drug, either locally manufactured or imported, shall be made in \nwriting as specified in the Application Form \n \n\n\nPAGE 4\n4 \n \nThe Application Form shall be completed in accordance with the sequence of appendices and shall be \ndated, signed and stamped by the applicant/license holder.  \n \nEvery applicant who is not resident in Liberia shall appoint a local responsible person who must be a \nperson residing or a company incorporated in Liberia and authorized by LMHRA to deal in \nmedicine and Health Products. Evidence shall be made by submitting a power of attorney that \ncomplies with Liberia laws and accompanied with duly signed agreement between the local \nrepresentative and manufacturers of the finished product. The list of products under the agreement \nshould be appended to the agency agreement. \n \nThe local responsible person shall be responsible for facilitating communication with the applicant and \nwhen the product is registered he shall assume all legal responsibilities regarding the product safety, \nefficacy and quality follow-up on the Liberian market. \n \nApplications shall be accompanied by: \na) a duly signed covering letter  \nb) two (2) completed application forms  \nc) samples of the product in the final package as specified in Samples Schedule \nd) reference or working standard for Active Pharmaceutical Ingredient and related impurities \nwhere necessary. \ne) all supporting documents as specified on the application form \nf) clinical trial and/or bioequivalence trial certificate where applicable \ng) non-refundable application fee as specified in Fee Schedule \n \nThe Authority shall approve the application before any importation of the product, other than those used \nas samples for the purpose of this application, shall be made into the country. \n \n \nREGISTRATION VARIATION \n \nAn application for a variation of the registration of a product prior to its re-registration becoming due may \nbe made to the Authority. \n  \nThe application shall be accompanied by: \na) a duly signed covering letter  \nb) documentation in support of the variation   \nc) samples reflecting the variation as specified in the Samples Schedule. \nd) a non-refundable variation fee as specified in the Fee Schedule \n  \nThis variation shall be approved by the Au",
+      "section_article": "Section2.1 new application, local representative, samples and fees",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+      "language": "en",
+      "iso3": "LBR",
+      "country": "Liberia",
+      "display_text": " \ngauze, cotton, artificial teeth, chemicals, and x-ray film and other similar articles. \n \nv) Medicine: Means any substance or mixture of substances intended for use in: \n(i) the diagnosis, treatment, mitigation or prevention of a disease, disorder, abnormal \nphysical or mental state, or the symptoms thereof, in man or animal; or, \n(ii) restoring, correcting or beneficial modification of organic or mental functions in man or \nanimal; or, \n(iii) medicine shall include traditional medicine, narcotic drugs, psychotropic substances, \nblood and blood products, vaccines, sera, and radiopharmaceuticals, but not health products \nas defined herein. \nw) Pharmaceutical Importer: Means a registered entity and licensed by LMHRA to procure \nand import medicines and health products from foreign countries and/or distribution in the \ncommerce of Liberia \n \n \n REGISTRATION \n \n2.1 NEW APPLICATION \nAn application for the registration of a drug, either locally manufactured or imported, shall be made in \nwriting as specified in the Application Form \n \n\n\nPAGE 4\n4 \n \nThe Application Form shall be completed in accordance with the sequence of appendices and shall be \ndated, signed and stamped by the applicant/license holder.  \n \nEvery applicant who is not resident in Liberia shall appoint a local responsible person who must be a \nperson residing or a company incorporated in Liberia and authorized by LMHRA to deal in \nmedicine and Health Products. Evidence shall be made by submitting a power of attorney that \ncomplies with Liberia laws and accompanied with duly signed agreement between the local \nrepresentative and manufacturers of the finished product. The list of products under the agreement \nshould be appended to the agency agreement. \n \nThe local responsible person shall be responsible for facilitating communication with the applicant and \nwhen the product is registered he shall assume all legal responsibilities regarding the product safety, \nefficacy and quality follow-up on the Liberian market. \n \nApplications shall be accompanied by: \na) a duly signed covering letter  \nb) two (2) completed application forms  \nc) samples of the product in the final package as specified in Samples Schedule \nd) reference or working standard for Active Pharmaceutical Ingredient and related impurities \nwhere necessary. \ne) all supporting documents as specified on the application form \nf) clinical trial and/or bioequivalence trial certificate where applicable \ng) non-refundable application fee as specified in Fee Schedule \n \nThe Authority shall approve the application before any importation of the product, other than those used \nas samples for the purpose of this application, shall be made into the country. \n \n \nREGISTRATION VARIATION \n \nAn application for a variation of the registration of a product prior to its re-registration becoming due may \nbe made to the Authority. \n  \nThe application shall be accompanied by: \na) a duly signed covering letter  \nb) documentation in support of the variation   \nc) samples reflecting the variation as specified in the Samples Schedule. \nd) a non-refundable variation fee as specified in the Fee Schedule \n  \nThis variation shall be approved by the Au",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary initial registration; WAHO summary-decision alternative noted Guideline approved 15 April 2012; URL upload 2022 is not adoption date. ",
+      "version_alignment": "Guideline approved 15 April 2012; URL upload 2022 is not adoption date."
+    },
+    {
+      "clause_id": "SDX-EXP-A-048-11500",
+      "document_id": "F250_5b7d825293f06331fbcf",
+      "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+      "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+      "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+      "start_offset": 11500,
+      "end_offset": 13900,
+      "verbatim_extracted_text": " conditions of purchase and use. \n \nMinimum required information for labeling \n \n Name of product \n Dosage form \n Indication and recommended dosage of the product  \n Mode of administration \n Duration of use \n Major adverse effects, if any \n Symptoms  and management of overdose \n Contraindication, warning, precautions and major drug interactions \n Use during pregnancy and lactation \n Expiry date \n Batch number \n Shelf life and storage condition \n Name of manufacturer and/or applicant with full location address \n \n3.2 \nNEW CHEMICAL ENTITIES OR INNOVATOR PRODUCTS \n3.2.1 Registration in Liberia shall normally not be permitted within the first two years of the first \nregistration of the drug on the international market. \n3.2.2  Verifiable information shall be provided regarding the date of expiry of the patent. \n3.2.3 Although clinical trial data derived from studies in other countries will be considered in taking a \ndecision with any application, the Authority reserves the right to request for local clinical evaluation, \nbased on existing guidelines for clinical trials, where necessary.  The cost of this trial shall be borne by the \napplicant.   \n \n3.3.     GENERIC DRUGS \n3.3.1. Shall not be marketed in a name similar in pronunciation or form to the innovator product.    \n3.3.2. A bio-equivalence study report shall be submitted in line with existing guidelines WHO Guidelines \n3.3.3. Although bio-equivalence data derived from studies in other countries will be considered in taking \na decision with any application, the Authority reserves the right to request for local clinical \nevaluation, based on existing WHO guidelines for bio-equivalence studies, where necessary.   \nThe cost of this trial shall be borne by the applicant.   \n\n\nPAGE 7\n7 \n \nFor all solid oral dosage forms, reports of dissolution studies will be required. If the official \ncompendia monograph doesn’t require dissolution the dissolution requirement in the USP \nshall apply. \nIf the product is manufactured on contract basis, evidence of the contract shall be submitted. This \ninformation shall be clearly stated on the product label and package insert. \n \nFor both locally manufactured and imported drugs the original certificate of analysis for the drug, \nissued by a recognized public analyst, shall be submitted. \n \nFor imported drugs a Certificate of Pharmaceutical Product (CPP) issued by t",
+      "section_article": "Section3.2 new chemical entities / innovator products",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+      "language": "en",
+      "iso3": "LBR",
+      "country": "Liberia",
+      "display_text": " conditions of purchase and use. \n \nMinimum required information for labeling \n \n Name of product \n Dosage form \n Indication and recommended dosage of the product  \n Mode of administration \n Duration of use \n Major adverse effects, if any \n Symptoms  and management of overdose \n Contraindication, warning, precautions and major drug interactions \n Use during pregnancy and lactation \n Expiry date \n Batch number \n Shelf life and storage condition \n Name of manufacturer and/or applicant with full location address \n \n3.2 \nNEW CHEMICAL ENTITIES OR INNOVATOR PRODUCTS \n3.2.1 Registration in Liberia shall normally not be permitted within the first two years of the first \nregistration of the drug on the international market. \n3.2.2  Verifiable information shall be provided regarding the date of expiry of the patent. \n3.2.3 Although clinical trial data derived from studies in other countries will be considered in taking a \ndecision with any application, the Authority reserves the right to request for local clinical evaluation, \nbased on existing guidelines for clinical trials, where necessary.  The cost of this trial shall be borne by the \napplicant.   \n \n3.3.     GENERIC DRUGS \n3.3.1. Shall not be marketed in a name similar in pronunciation or form to the innovator product.    \n3.3.2. A bio-equivalence study report shall be submitted in line with existing guidelines WHO Guidelines \n3.3.3. Although bio-equivalence data derived from studies in other countries will be considered in taking \na decision with any application, the Authority reserves the right to request for local clinical \nevaluation, based on existing WHO guidelines for bio-equivalence studies, where necessary.   \nThe cost of this trial shall be borne by the applicant.   \n\n\nPAGE 7\n7 \n \nFor all solid oral dosage forms, reports of dissolution studies will be required. If the official \ncompendia monograph doesn’t require dissolution the dissolution requirement in the USP \nshall apply. \nIf the product is manufactured on contract basis, evidence of the contract shall be submitted. This \ninformation shall be clearly stated on the product label and package insert. \n \nFor both locally manufactured and imported drugs the original certificate of analysis for the drug, \nissued by a recognized public analyst, shall be submitted. \n \nFor imported drugs a Certificate of Pharmaceutical Product (CPP) issued by t",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary initial registration; WAHO summary-decision alternative noted Guideline approved 15 April 2012; URL upload 2022 is not adoption date. ",
+      "version_alignment": "Guideline approved 15 April 2012; URL upload 2022 is not adoption date."
+    },
+    {
+      "clause_id": "SDX-EXP-A-048-14000",
+      "document_id": "F250_5b7d825293f06331fbcf",
+      "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+      "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+      "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+      "start_offset": 14000,
+      "end_offset": 19800,
+      "verbatim_extracted_text": "WHO) \nCertification Scheme for Pharmaceutical Products Moving in International Commerce, shall \nbe submitted along with the certificate of analysis. \n \nIf the product is not identical to that in the issuing country, the applicants must list any differences in the \napplication form and justify the differences. The Authority will decide whether the differences are \nminor and have been adequately justified, and consequently whether certificate is relevant for the \nintended purposes. \n \nWhere different phases of the manufacturing are conducted in different countries, the CPP must be issued \nby the competent authorities in the country that directly exports the product to Liberia. Different \nphases of manufacture may be conducted in different countries.  \n \nWhere the product is fully manufactured in both in different countries and the applicant wishes to obtain \napproval to use both sites of manufacture, the certificate should be submitted from both countries. \n \nThe certificate should officially be stamped and dated together with all copies of product information \nsubmitted in support of an application for registration.  \n \nThe applicant is responsible for providing a notarized translation of the contents of the certificate in \nEnglish in case when the certifying Authority issued the certificate in any other language. \n \nThe certificate should be original and/or a notarized or certified copy and current. \nA Drug Master File and process validation protocols shall be submitted for all applications. \n \nStability study reports conducted for three (3) trial batches of the product, and suited to the \nconditions specified below, shall be submitted :- \n \n \n \n\n\nPAGE 8\n8 \n \na) WHO Zone IV climatic conditions \n \nCondition \nAccelerated \nReal Time \n \n \n \nStorage Temperature   \n40 + 2 oC \n30 oC \nRelative Humidity \n75 + 5 % \n70 +/- 5 % \nDuration \n6 months \nUntil end of shelf life \n \nb) The stability study shall be conducted in the container closure system in which the product \nwill be marketed in Liberia.  \n \nWhere the product is to be registered in more than one container closure system, stability data shall \nbe provided for each presentation. Real-time stability data shall be required for all biologicals.    \n \nThe result of the stability test shall be presented in both tabular and graphical    forms and the \nproposed shelf-life and storage conditions shall be determined on the basis of these results.            \n \nThe Authority in considering an application: \n \na) shall satisfy itself that there is need to have the drug registered in Liberia. \n \nb) shall request the applicant to submit a manufacturer’s authorization to register the drug. \n \nc) may consult with other bodies and experts with knowledge of the drug. \nd) For purposes of verification of compliance to cGMP, all applications shall be \naccompanied by a Site Master File.   \n \ne) Reserves the right to conduct a Good Manufacturing Practice (GMP) audit inspection on \nthe manufacturing facility for the product at a fee prescribed by the Authority. \n \nf) May ask the applicant to supply such other information as may be required to enable it \nreach a decision on the application. \n \ng) Shall acknowledge receipt of all applications at submission and payment of fees and shall \nbe processed within three months. Where it becomes necessary to ask for additional \ninformation from the applicant, this time period may be lengthened.   \n \nh) When the applicant fails to submit written responses to queries within 6 months from \nthe date of their issuance, it will be deemed that the applicant has withdrawn the \napplication or if the queries have been reissued for a second time and the applicant \nprovides unsatisfactory responses, the product will be disqualified and the application \nwill be rejected. The applicant will be required to apply afresh. \n \n\n\nPAGE 9\n9 \n \ni) If no response is received within six months of the request, the application will be \ndiscontinued.    \nj) Decisions on registration shall be based on the dossier evaluation report, quality control \nreport and inspection report on compliance to cGMP where necessary.   \n \nAn appeal for the review of an application may be made in writing to the Chairman of the LMHRA \nwithin thirty (30) days of receipt of the rejection notice. \n \nWhere the Authority is satisfied that there is the need to register a medicinal product, and all \nrequirements for its registration have been satisfied, it shall do so and issue to the applicant a \ncertificate of registration, subject to such conditions as may be prescribed by the Authority \nfrom time to time. \n \nThe registration of a drug under these regulations, unless otherwise revoked, shall be valid for a \nperiod of three (3) years and may be renewed. \n \nThe Authority shall from time to time, publish a notice in the Gazzette notifying the registration of a \ndrug under these regulations. \n \nNo information given in this application shall be disclosed by the LMHRA to a third party except:- \n \na) with the written consent of the license holder; or \n \nb) in accordance with the directive of the Board of Directors of LMHRA or \n \nc) for the purpose of a legal process under the LMHRA Act of 2010 \n \nThe Authority shall cancel, suspend, or withdraw the registration of a drug if:- \n \na) the grounds on which the drug was registered is later found to be false; or \n \nb) the circumstances under which the drug was registered no longer exist; or \n \nc) any of the provisions under which the drug was registered has been contravened; or \n \nd) the standard of quality, safety and efficacy, as prescribed in the documentation for \nregistration is not being complied with; or \n \n\n\nPAGE 10\n10 \n \ne) the premises, in which the drug or part thereof is manufactured, packaged or stored by or on \nbehalf of the holder",
+      "section_article": "CPP, stability, review, inspection and appeal requirements",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+      "language": "en",
+      "iso3": "LBR",
+      "country": "Liberia",
+      "display_text": "WHO) \nCertification Scheme for Pharmaceutical Products Moving in International Commerce, shall \nbe submitted along with the certificate of analysis. \n \nIf the product is not identical to that in the issuing country, the applicants must list any differences in the \napplication form and justify the differences. The Authority will decide whether the differences are \nminor and have been adequately justified, and consequently whether certificate is relevant for the \nintended purposes. \n \nWhere different phases of the manufacturing are conducted in different countries, the CPP must be issued \nby the competent authorities in the country that directly exports the product to Liberia. Different \nphases of manufacture may be conducted in different countries.  \n \nWhere the product is fully manufactured in both in different countries and the applicant wishes to obtain \napproval to use both sites of manufacture, the certificate should be submitted from both countries. \n \nThe certificate should officially be stamped and dated together with all copies of product information \nsubmitted in support of an application for registration.  \n \nThe applicant is responsible for providing a notarized translation of the contents of the certificate in \nEnglish in case when the certifying Authority issued the certificate in any other language. \n \nThe certificate should be original and/or a notarized or certified copy and current. \nA Drug Master File and process validation protocols shall be submitted for all applications. \n \nStability study reports conducted for three (3) trial batches of the product, and suited to the \nconditions specified below, shall be submitted :- \n \n \n \n\n\nPAGE 8\n8 \n \na) WHO Zone IV climatic conditions \n \nCondition \nAccelerated \nReal Time \n \n \n \nStorage Temperature   \n40 + 2 oC \n30 oC \nRelative Humidity \n75 + 5 % \n70 +/- 5 % \nDuration \n6 months \nUntil end of shelf life \n \nb) The stability study shall be conducted in the container closure system in which the product \nwill be marketed in Liberia.  \n \nWhere the product is to be registered in more than one container closure system, stability data shall \nbe provided for each presentation. Real-time stability data shall be required for all biologicals.    \n \nThe result of the stability test shall be presented in both tabular and graphical    forms and the \nproposed shelf-life and storage conditions shall be determined on the basis of these results.            \n \nThe Authority in considering an application: \n \na) shall satisfy itself that there is need to have the drug registered in Liberia. \n \nb) shall request the applicant to submit a manufacturer’s authorization to register the drug. \n \nc) may consult with other bodies and experts with knowledge of the drug. \nd) For purposes of verification of compliance to cGMP, all applications shall be \naccompanied by a Site Master File.   \n \ne) Reserves the right to conduct a Good Manufacturing Practice (GMP) audit inspection on \nthe manufacturing facility for the product at a fee prescribed by the Authority. \n \nf) May ask the applicant to supply such other information as may be required to enable it \nreach a decision on the application. \n \ng) Shall acknowledge receipt of all applications at submission and payment of fees and shall \nbe processed within three months. Where it becomes necessary to ask for additional \ninformation from the applicant, this time period may be lengthened.   \n \nh) When the applicant fails to submit written responses to queries within 6 months from \nthe date of their issuance, it will be deemed that the applicant has withdrawn the \napplication or if the queries have been reissued for a second time and the applicant \nprovides unsatisfactory responses, the product will be disqualified and the application \nwill be rejected. The applicant will be required to apply afresh. \n \n\n\nPAGE 9\n9 \n \ni) If no response is received within six months of the request, the application will be \ndiscontinued.    \nj) Decisions on registration shall be based on the dossier evaluation report, quality control \nreport and inspection report on compliance to cGMP where necessary.   \n \nAn appeal for the review of an application may be made in writing to the Chairman of the LMHRA \nwithin thirty (30) days of receipt of the rejection notice. \n \nWhere the Authority is satisfied that there is the need to register a medicinal product, and all \nrequirements for its registration have been satisfied, it shall do so and issue to the applicant a \ncertificate of registration, subject to such conditions as may be prescribed by the Authority \nfrom time to time. \n \nThe registration of a drug under these regulations, unless otherwise revoked, shall be valid for a \nperiod of three (3) years and may be renewed. \n \nThe Authority shall from time to time, publish a notice in the Gazzette notifying the registration of a \ndrug under these regulations. \n \nNo information given in this application shall be disclosed by the LMHRA to a third party except:- \n \na) with the written consent of the license holder; or \n \nb) in accordance with the directive of the Board of Directors of LMHRA or \n \nc) for the purpose of a legal process under the LMHRA Act of 2010 \n \nThe Authority shall cancel, suspend, or withdraw the registration of a drug if:- \n \na) the grounds on which the drug was registered is later found to be false; or \n \nb) the circumstances under which the drug was registered no longer exist; or \n \nc) any of the provisions under which the drug was registered has been contravened; or \n \nd) the standard of quality, safety and efficacy, as prescribed in the documentation for \nregistration is not being complied with; or \n \n\n\nPAGE 10\n10 \n \ne) the premises, in which the drug or part thereof is manufactured, packaged or stored by or on \nbehalf of the holder",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary initial registration; WAHO summary-decision alternative noted Guideline approved 15 April 2012; URL upload 2022 is not adoption date. ",
+      "version_alignment": "Guideline approved 15 April 2012; URL upload 2022 is not adoption date."
+    },
+    {
+      "clause_id": "SDX-EXP-A-048-19800",
+      "document_id": "F250_5b7d825293f06331fbcf",
+      "source_url": "https://www.lmhra.gov.lr/wp-content/uploads/2022/07/Guidelines-For-Registration-of-Medicines-and-Health-Products-in-Liberia-26147.pdf",
+      "raw_sha256": "264d9484a12058173e0ca4361a22e9d6b5cf7f3476306e79575c17fbe555dac1",
+      "text_sha256": "0e46c020b882b3ba3e985e66b80208b6132d3841e70857e611fe50fd930409ff",
+      "start_offset": 19800,
+      "end_offset": 20208,
+      "verbatim_extracted_text": " of the certificate of registration is unsuitable for the manufacture, \npackaging or storage of the drug. \n \nWhere the registration of a drug is suspended, withdrawn or cancelled, the Authority shall cause the \nwithdrawal from circulation of that drug and shall accordingly cause the suspension, \ncancellation or withdrawal to be published in the Gazzette \n \n \n \n \n \n \n \n \n \n \nAPPROVED DATE: APRIL 15, 2012 \n",
+      "section_article": "Approved date at end of guideline",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "retrieved_utc": "2026-10-18T01:33:24.688508+00:00",
+      "language": "en",
+      "iso3": "LBR",
+      "country": "Liberia",
+      "display_text": " of the certificate of registration is unsuitable for the manufacture, \npackaging or storage of the drug. \n \nWhere the registration of a drug is suspended, withdrawn or cancelled, the Authority shall cause the \nwithdrawal from circulation of that drug and shall accordingly cause the suspension, \ncancellation or withdrawal to be published in the Gazzette \n \n \n \n \n \n \n \n \n \n \nAPPROVED DATE: APRIL 15, 2012 \n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary initial registration; WAHO summary-decision alternative noted Guideline approved 15 April 2012; URL upload 2022 is not adoption date. ",
+      "version_alignment": "Guideline approved 15 April 2012; URL upload 2022 is not adoption date."
+    }
+  ]
 }

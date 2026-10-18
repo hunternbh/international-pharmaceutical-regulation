@@ -241,7 +241,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "JPN",
     "country": "Japan",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "bilateral_pilot",
     "fixed_case_scope_status": "outside_selected_partner_or_age_scope",
     "finding": "The described PMDA–TFDA pilot involves a specific partner, unmasked reports and tripartite consent. Its stated generally applicable one-year window and partner conditions differ from the fixed18-month FDA/EC case.",
@@ -302,5 +302,7 @@
     ],
     "source_scope": "Bilateral cooperation scheme; not universal foreign-approval recognition",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

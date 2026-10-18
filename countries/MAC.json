@@ -134,7 +134,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "MAC",
     "country": "China, Macao Special Administrative Region",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "stability_evidence",
     "fixed_case_scope_status": "particular_evidence_only",
     "finding": "The source conditionally accepts foreign accelerated stability results but retains climatic-zone and real-time validation requirements. It is a specific evidence rule rather than recognition of the entire approval.",
@@ -180,5 +180,7 @@
     ],
     "source_scope": "Foreign stability studies; not recognition of the whole foreign marketing decision",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

@@ -163,7 +163,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "LBN",
     "country": "Lebanon",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "implementation_description",
     "fixed_case_scope_status": "official_explanation_not_complete_route",
     "finding": "The report describes local CTD Module3/5 expert review and the technical committee’s final decision. It does not supply a complete current rule for accepting FDA/EC assessment work.",
@@ -224,5 +224,7 @@
     ],
     "source_scope": "Registration-system quality assurance and historical generic re-evaluation; not a retrieved recognition statute",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }

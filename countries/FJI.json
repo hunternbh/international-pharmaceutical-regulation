@@ -425,83 +425,1040 @@
     ]
   },
   "standard_drug_legal_comparison": {
+    "record_id": "EXP-B-FJI-34",
     "iso3": "FJI",
     "country": "Fiji",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
-    "evidence_type": "provisional_listing",
-    "fixed_case_scope_status": "outside_full_authorisation_scope",
-    "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization.",
-    "primary_comparison": false,
+    "selected_document_id": "EXP-B-FJI-34",
+    "source_id": "F250_294fe3a37018b72f876e",
+    "pathway": "Provisional listing; expressly not full marketing authorization",
+    "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+    "document_title": "Guidelines for listing provisionally authorised medicinal products March2024",
+    "source_type": "official guidance",
+    "scope": "Provisional listing and import-permit access, not full MA",
+    "language": "en",
+    "translation_provenance": "Official English text",
+    "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+    "raw_hash_validated": true,
+    "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+    "version_dates": {},
+    "version_scope_note": "National access/listing is real but full registration is expressly distinguished; not a new full-MA country addition.",
+    "contextual_review_status": "targeted contextual review; not a claim to read every technical annex",
+    "reviewed_ranges": [
+      {
+        "start": 4803,
+        "end": 8222,
+        "section_article": "4"
+      },
+      {
+        "start": 8669,
+        "end": 9293,
+        "section_article": "6"
+      }
+    ],
+    "components": {
+      "new_active_substance": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Information/status fields required; this is not a full-MA public-report sufficiency rule.",
+        "evidence_ids": [
+          "EXP-B-FJI-34-Q01"
+        ]
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "quality_gmp": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "scientific_assessment_retained": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "local_representative": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "filing_fee": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "translation_legalization": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "cpp": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "clock": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "domestic_discretion": {
+        "state": "unresolved/not stated",
+        "finding": "This source review does not resolve this condition; silence is not a waiver.",
+        "evidence_ids": []
+      }
+    },
     "cases": {
       "A": {
-        "status": "outside selected route/function",
-        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+        "eligibility": "outside pathway scope",
+        "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-FJI-34-Q01",
+          "EXP-B-FJI-34-Q02"
+        ]
       },
       "B": {
-        "status": "outside selected route/function",
-        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+        "eligibility": "outside pathway scope",
+        "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-FJI-34-Q01",
+          "EXP-B-FJI-34-Q02"
+        ]
       },
       "C": {
-        "status": "outside selected route/function",
-        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+        "eligibility": "outside pathway scope",
+        "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-FJI-34-Q01",
+          "EXP-B-FJI-34-Q02"
+        ]
       },
       "D": {
-        "status": "outside selected route/function",
-        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+        "eligibility": "outside pathway scope",
+        "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-FJI-34-Q01",
+          "EXP-B-FJI-34-Q02"
+        ]
       },
       "E": {
-        "status": "outside selected route/function",
-        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+        "eligibility": "outside pathway scope",
+        "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+        "decisive_conditions": [],
+        "unresolved_conditions": [
+          "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+        ],
+        "evidence_ids": [
+          "EXP-B-FJI-34-Q01",
+          "EXP-B-FJI-34-Q02"
+        ]
+      }
+    },
+    "pairwise_gates": {
+      "B_minus_A": {
+        "status": "unresolved/not stated",
+        "finding": "No unconditional report-access effect established."
+      },
+      "B_minus_C": {
+        "status": "unresolved/not stated",
+        "finding": "Separate applicant report-sharing permission not resolved; registration representation is distinct."
+      },
+      "B_minus_D": {
+        "status": "unresolved/not stated",
+        "finding": "Separate reference-authority report-sharing permission not resolved."
+      },
+      "B_minus_E": {
+        "status": "unresolved/not stated",
+        "finding": "No second-approval advantage established for this route."
+      }
+    },
+    "gates": {
+      "complete_report_gate": null,
+      "nonpublic_report_or_public_domain_exclusion": null,
+      "second_approval_selected_route": null,
+      "one_approval_alternative_described": null,
+      "ambiguous_additional_full_report_gate": null
+    },
+    "gate_notes": {
+      "complete_report_gate": {
+        "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+        "evidence_ids": []
+      },
+      "nonpublic_report_or_public_domain_exclusion": {
+        "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+        "evidence_ids": []
+      },
+      "second_approval_selected_route": {
+        "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+        "evidence_ids": []
+      },
+      "one_approval_alternative_described": {
+        "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+        "evidence_ids": []
+      },
+      "ambiguous_additional_full_report_gate": {
+        "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+        "evidence_ids": []
       }
     },
     "evidence": [
       {
-        "clause_id": "FJI-Q01",
+        "passage_id": "EXP-B-FJI-34-Q01",
+        "source_document_id": "F250_294fe3a37018b72f876e",
         "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
         "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
         "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
-        "start_offset": 1785,
-        "end_offset": 2099,
-        "verbatim_extracted_text": "The Fiji MRA utilises processes of reliance and recognition to assess applications for listing. This \ninvolves utilising the regulatory decisions and information available from recognised overseas \nNational Regulatory Authorities to provide confidence that medicinal products meet the needs of \nthe people of Fiji.",
-        "pdf_page": 1,
+        "exact_text": "4. Requirements for Medicinal Products \na) Each application must include the required information about each medicinal product. This includes: \ni. \nCompulsory: \ni. Registration status in Australia or New Zealand. \nii. Registration status in other countries. \niii. Brand / trade name. \niv. International Non-proprietary Name (INN), also referred to as the ‘generic name’ of \nthe active substance.  \n\n\nPAGE 3\n \nPage 3 of 4 \nv. The amount, that is, the strength and unit of the active substance per dosage form. \nvi. Dosage form. \nvii. Route of administration. \nviii. Packaging sizes. \nix. Shelf life. \nx. Finished product manufacturer(s). \nxi. Pharmacopeial standard. \nii. \nOptional, but recommended to support assessment of the application: \ni. Medicinal Products Classification (Schedule) in Fiji. \nii. Anatomical Therapeutic Chemical (ATC) Code and Category. \niii. Good Manufacturing Practice (GMP) Certificate(s) of the manufacturer. \niv. Product registration certificate(s) from other countries. \nb) Medicinal products registered in Australia or New Zealand will have some of this information pre-\nfilled in the Portal for convenience. \ni. \nApplicants must confirm the accuracy of any pre-filled information before submitting an \napplication. \nc) The Fiji MRA reserves the right to request additional information from applicants to support \nassessment of the application.  \nd) The Fiji MRA reserves the right to request evidence of the provided information to support \nassessment of the application.  \ne) Applicants must confirm and declare for each application that: \ni. \nAll the information in the application and accompanying documentation is correct, \ncomplete, and true to the best of their knowledge. \nii. \nThey take full responsibility on the quality, safety, and efficacy, of the listed medicinal \nproduct over its lifetime and will ensure that each individual batch imported complies with \nlaws in force in Fiji. And, if required, that they will cooperate with any official of the Fiji \nMedicinal Products Board in performing an inspection. \niii. \nThey confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji. \niv. \nThey confirm and agree to furnish the Fiji Medicinal Products Regulatory Authority with \nregistration information as required in respect to a provisionally authorised medicinal \nproduct within such time as is stipulated in the communication. \nv. \nThey acknowledge that if the required information requested by the Fiji Medicinal Products \nBoard is not without valid reasons submitted the medicinal product shall be delisted from \nthe provisionally authorised medicinal products register. \nvi. \nThey confirm and agree that the Fiji Medicinal Products Board shall have the authority to \nsuspend or cancel the provisional authorisation if the medicinal product is found not to have \nnot complied with laws in force in Fiji. \nvii. \nThey confirm and agree that the provisional authorisation is not transferable to another \ncompany without the written authorisation of the Fiji Medicinal Products Board. \n\n\nPAGE 4\n \nPage 4 of 4 \nviii. \nThey agree to follow the Fijian legal requirements related to listing of medicinal products. \nix. \nThey provide consent to the processing of information provided to the Fiji Medicinal \nProducts Board. \n \n",
+        "start": 4803,
+        "end": 8222,
+        "exact_offset_validated": true,
+        "section_article": "4",
+        "pdf_page": "2–3",
         "language": "en",
-        "language_status": "Official English source",
-        "evidence_tier": "limited_scope_or_framework",
-        "version_alignment": "Version on the preserved source; not backdated to older event rows",
-        "translation_review": null
+        "visually_checked": false,
+        "quote_type": "preserved extracted text exact substring",
+        "clause_id": "EXP-B-FJI-34-Q01",
+        "verbatim_extracted_text": "4. Requirements for Medicinal Products \na) Each application must include the required information about each medicinal product. This includes: \ni. \nCompulsory: \ni. Registration status in Australia or New Zealand. \nii. Registration status in other countries. \niii. Brand / trade name. \niv. International Non-proprietary Name (INN), also referred to as the ‘generic name’ of \nthe active substance.  \n\n\nPAGE 3\n \nPage 3 of 4 \nv. The amount, that is, the strength and unit of the active substance per dosage form. \nvi. Dosage form. \nvii. Route of administration. \nviii. Packaging sizes. \nix. Shelf life. \nx. Finished product manufacturer(s). \nxi. Pharmacopeial standard. \nii. \nOptional, but recommended to support assessment of the application: \ni. Medicinal Products Classification (Schedule) in Fiji. \nii. Anatomical Therapeutic Chemical (ATC) Code and Category. \niii. Good Manufacturing Practice (GMP) Certificate(s) of the manufacturer. \niv. Product registration certificate(s) from other countries. \nb) Medicinal products registered in Australia or New Zealand will have some of this information pre-\nfilled in the Portal for convenience. \ni. \nApplicants must confirm the accuracy of any pre-filled information before submitting an \napplication. \nc) The Fiji MRA reserves the right to request additional information from applicants to support \nassessment of the application.  \nd) The Fiji MRA reserves the right to request evidence of the provided information to support \nassessment of the application.  \ne) Applicants must confirm and declare for each application that: \ni. \nAll the information in the application and accompanying documentation is correct, \ncomplete, and true to the best of their knowledge. \nii. \nThey take full responsibility on the quality, safety, and efficacy, of the listed medicinal \nproduct over its lifetime and will ensure that each individual batch imported complies with \nlaws in force in Fiji. And, if required, that they will cooperate with any official of the Fiji \nMedicinal Products Board in performing an inspection. \niii. \nThey confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji. \niv. \nThey confirm and agree to furnish the Fiji Medicinal Products Regulatory Authority with \nregistration information as required in respect to a provisionally authorised medicinal \nproduct within such time as is stipulated in the communication. \nv. \nThey acknowledge that if the required information requested by the Fiji Medicinal Products \nBoard is not without valid reasons submitted the medicinal product shall be delisted from \nthe provisionally authorised medicinal products register. \nvi. \nThey confirm and agree that the Fiji Medicinal Products Board shall have the authority to \nsuspend or cancel the provisional authorisation if the medicinal product is found not to have \nnot complied with laws in force in Fiji. \nvii. \nThey confirm and agree that the provisional authorisation is not transferable to another \ncompany without the written authorisation of the Fiji Medicinal Products Board. \n\n\nPAGE 4\n \nPage 4 of 4 \nviii. \nThey agree to follow the Fijian legal requirements related to listing of medicinal products. \nix. \nThey provide consent to the processing of information provided to the Fiji Medicinal \nProducts Board. \n \n",
+        "start_offset": 4803,
+        "end_offset": 8222
       },
       {
-        "clause_id": "FJI-Q02",
+        "passage_id": "EXP-B-FJI-34-Q02",
+        "source_document_id": "F250_294fe3a37018b72f876e",
         "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
         "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
         "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
-        "start_offset": 2865,
-        "end_offset": 4799,
-        "verbatim_extracted_text": "The Board may list medicinal products upon receipt of information which is specified in a notification \npublished in the Gazette. \nb) Each person must make an application to list each medicinal product they wish to deal with. \nc) The Fiji MRA Online Services Portal is used by applicants and the Fiji MRA to apply for, receive, \nprocess, and record the listing of medicinal products in Fiji. \ni. \nThe Portal is accessible from the Fiji MRA website at https://www.health.gov.fj/fiji-mra/  \nii. \nAll applicants are required to register an account on the Portal. \niii. \nInstructions for using the Portal are available on the Fiji MRA website and from the Help \nmenu within the Portal. \niv. \nAll communication between applicants and the Fiji MRA is through the Portal or by email. \nd) An application to list a medicinal product must be approved by the Board before the applicant may \ndeal with that medicinal product. \ne) The Board may list a medicinal product for a specified period of time. \nf) Where more than one application to list a medicinal product is approved, that medicinal product \nmay be listed separately for each approved application. \ng) Each listing for each medicinal product is specific to the applicant approved by the Board.  \nh) Listing is not transferrable without approval from the Board. \ni) \nThe Fiji MRA reserves the right to change the listing requirements for medicinal products. \nj) \nThe Fiji MRA reserves the right to require compliance with additional conditions when listing a \nmedicinal product. \n \n3. Requirements for Applicants \na) Applicants to list a medicinal product are required to: \ni. \nBe registered by the FCCC and have a current valid license authorising them to deal with \nmedicinal products in Fiji; and \nii. \nApply to the Fiji MRA to list each of the medicinal products they wish to deal with; and \niii. \nProvide the required information about each medicinal product they wish to deal with.",
-        "pdf_page": 2,
+        "exact_text": "6. Transition to Full Registration \na) Products will remain listed on the Provisionally Authorised Medicinal Products Register until: \ni. \nThe expiry date of the listing is reached; or \nii. \nAn application to register the product on the Registered Medicinal Products Register is \nreceived and approved; or \niii. \nThe Board reviews the product and determines that it should be removed from the \nProvisionally Authorised Medicinal Products Register; or \niv. \nThe Board determines an end date for the Provisionally Authorised Medicinal Products \nRegister. \nb) The Registration process is described in detail in the Act [s30]. \n",
+        "start": 8669,
+        "end": 9293,
+        "exact_offset_validated": true,
+        "section_article": "6",
+        "pdf_page": "4",
         "language": "en",
-        "language_status": "Official English source",
-        "evidence_tier": "limited_scope_or_framework",
-        "version_alignment": "Version on the preserved source; not backdated to older event rows",
-        "translation_review": null
-      },
-      {
-        "clause_id": "FJI-Q03",
-        "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
-        "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
-        "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
-        "start_offset": 6863,
-        "end_offset": 7081,
-        "verbatim_extracted_text": "They confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji.",
-        "pdf_page": 3,
-        "language": "en",
-        "language_status": "Official English source",
-        "evidence_tier": "limited_scope_or_framework",
-        "version_alignment": "Version on the preserved source; not backdated to older event rows",
-        "translation_review": null
+        "visually_checked": false,
+        "quote_type": "preserved extracted text exact substring",
+        "clause_id": "EXP-B-FJI-34-Q02",
+        "verbatim_extracted_text": "6. Transition to Full Registration \na) Products will remain listed on the Provisionally Authorised Medicinal Products Register until: \ni. \nThe expiry date of the listing is reached; or \nii. \nAn application to register the product on the Registered Medicinal Products Register is \nreceived and approved; or \niii. \nThe Board reviews the product and determines that it should be removed from the \nProvisionally Authorised Medicinal Products Register; or \niv. \nThe Board determines an end date for the Provisionally Authorised Medicinal Products \nRegister. \nb) The Registration process is described in detail in the Act [s30]. \n",
+        "start_offset": 8669,
+        "end_offset": 9293
       }
     ],
-    "source_scope": "Provisional listing, not full MA",
-    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+    "primary_comparison": false,
+    "selection_recommendation": "alternate",
+    "selection_reason": "National access/listing is real but full registration is expressly distinguished; not a new full-MA country addition.",
+    "reviewer": "Assistant contextual",
+    "other_reviewed_routes": [
+      {
+        "iso3": "FJI",
+        "country": "Fiji",
+        "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+        "evidence_type": "provisional_listing",
+        "fixed_case_scope_status": "outside_full_authorisation_scope",
+        "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization.",
+        "primary_comparison": false,
+        "cases": {
+          "A": {
+            "status": "outside selected route/function",
+            "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+          },
+          "B": {
+            "status": "outside selected route/function",
+            "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+          },
+          "C": {
+            "status": "outside selected route/function",
+            "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+          },
+          "D": {
+            "status": "outside selected route/function",
+            "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+          },
+          "E": {
+            "status": "outside selected route/function",
+            "finding": "The source expressly says provisional listing is not marketing authorization. A per-product application, licensed local dealer and Board permission remain necessary; report completeness does not turn this into a full authorization."
+          }
+        },
+        "evidence": [
+          {
+            "clause_id": "FJI-Q01",
+            "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+            "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+            "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+            "start_offset": 1785,
+            "end_offset": 2099,
+            "verbatim_extracted_text": "The Fiji MRA utilises processes of reliance and recognition to assess applications for listing. This \ninvolves utilising the regulatory decisions and information available from recognised overseas \nNational Regulatory Authorities to provide confidence that medicinal products meet the needs of \nthe people of Fiji.",
+            "pdf_page": 1,
+            "language": "en",
+            "language_status": "Official English source",
+            "evidence_tier": "limited_scope_or_framework",
+            "version_alignment": "Version on the preserved source; not backdated to older event rows",
+            "translation_review": null
+          },
+          {
+            "clause_id": "FJI-Q02",
+            "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+            "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+            "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+            "start_offset": 2865,
+            "end_offset": 4799,
+            "verbatim_extracted_text": "The Board may list medicinal products upon receipt of information which is specified in a notification \npublished in the Gazette. \nb) Each person must make an application to list each medicinal product they wish to deal with. \nc) The Fiji MRA Online Services Portal is used by applicants and the Fiji MRA to apply for, receive, \nprocess, and record the listing of medicinal products in Fiji. \ni. \nThe Portal is accessible from the Fiji MRA website at https://www.health.gov.fj/fiji-mra/  \nii. \nAll applicants are required to register an account on the Portal. \niii. \nInstructions for using the Portal are available on the Fiji MRA website and from the Help \nmenu within the Portal. \niv. \nAll communication between applicants and the Fiji MRA is through the Portal or by email. \nd) An application to list a medicinal product must be approved by the Board before the applicant may \ndeal with that medicinal product. \ne) The Board may list a medicinal product for a specified period of time. \nf) Where more than one application to list a medicinal product is approved, that medicinal product \nmay be listed separately for each approved application. \ng) Each listing for each medicinal product is specific to the applicant approved by the Board.  \nh) Listing is not transferrable without approval from the Board. \ni) \nThe Fiji MRA reserves the right to change the listing requirements for medicinal products. \nj) \nThe Fiji MRA reserves the right to require compliance with additional conditions when listing a \nmedicinal product. \n \n3. Requirements for Applicants \na) Applicants to list a medicinal product are required to: \ni. \nBe registered by the FCCC and have a current valid license authorising them to deal with \nmedicinal products in Fiji; and \nii. \nApply to the Fiji MRA to list each of the medicinal products they wish to deal with; and \niii. \nProvide the required information about each medicinal product they wish to deal with.",
+            "pdf_page": 2,
+            "language": "en",
+            "language_status": "Official English source",
+            "evidence_tier": "limited_scope_or_framework",
+            "version_alignment": "Version on the preserved source; not backdated to older event rows",
+            "translation_review": null
+          },
+          {
+            "clause_id": "FJI-Q03",
+            "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+            "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+            "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+            "start_offset": 6863,
+            "end_offset": 7081,
+            "verbatim_extracted_text": "They confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji.",
+            "pdf_page": 3,
+            "language": "en",
+            "language_status": "Official English source",
+            "evidence_tier": "limited_scope_or_framework",
+            "version_alignment": "Version on the preserved source; not backdated to older event rows",
+            "translation_review": null
+          }
+        ],
+        "source_scope": "Provisional listing, not full MA",
+        "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
+      }
+    ],
+    "sample": "other_on_hand_evidence_not_in_primary_routes"
+  },
+  "standard_drug_reviewed_routes": [
+    {
+      "record_key": "b:supp:2",
+      "selected_for_primary": false,
+      "pathway": "Provisional listing; expressly not full marketing authorization",
+      "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+      "version_note": null,
+      "version_scope_note": "National access/listing is real but full registration is expressly distinguished; not a new full-MA country addition.",
+      "scope": "Provisional listing and import-permit access, not full MA",
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Information/status fields required; this is not a full-MA public-report sufficiency rule.",
+          "evidence_ids": [
+            "EXP-B-FJI-34-Q01"
+          ]
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside pathway scope",
+          "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-34-Q01",
+            "EXP-B-FJI-34-Q02"
+          ]
+        },
+        "B": {
+          "eligibility": "outside pathway scope",
+          "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-34-Q01",
+            "EXP-B-FJI-34-Q02"
+          ]
+        },
+        "C": {
+          "eligibility": "outside pathway scope",
+          "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-34-Q01",
+            "EXP-B-FJI-34-Q02"
+          ]
+        },
+        "D": {
+          "eligibility": "outside pathway scope",
+          "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-34-Q01",
+            "EXP-B-FJI-34-Q02"
+          ]
+        },
+        "E": {
+          "eligibility": "outside pathway scope",
+          "finding": "Provisional listing source explicitly states listing is not marketing authorization/registration; fixed full-MA comparison outside scope.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-34-Q01",
+            "EXP-B-FJI-34-Q02"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": null,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {
+        "complete_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "nonpublic_report_or_public_domain_exclusion": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "second_approval_selected_route": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "one_approval_alternative_described": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "ambiguous_additional_full_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "EXP-B-FJI-34-Q01",
+          "source_document_id": "F250_294fe3a37018b72f876e",
+          "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+          "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+          "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+          "exact_text": "4. Requirements for Medicinal Products \na) Each application must include the required information about each medicinal product. This includes: \ni. \nCompulsory: \ni. Registration status in Australia or New Zealand. \nii. Registration status in other countries. \niii. Brand / trade name. \niv. International Non-proprietary Name (INN), also referred to as the ‘generic name’ of \nthe active substance.  \n\n\nPAGE 3\n \nPage 3 of 4 \nv. The amount, that is, the strength and unit of the active substance per dosage form. \nvi. Dosage form. \nvii. Route of administration. \nviii. Packaging sizes. \nix. Shelf life. \nx. Finished product manufacturer(s). \nxi. Pharmacopeial standard. \nii. \nOptional, but recommended to support assessment of the application: \ni. Medicinal Products Classification (Schedule) in Fiji. \nii. Anatomical Therapeutic Chemical (ATC) Code and Category. \niii. Good Manufacturing Practice (GMP) Certificate(s) of the manufacturer. \niv. Product registration certificate(s) from other countries. \nb) Medicinal products registered in Australia or New Zealand will have some of this information pre-\nfilled in the Portal for convenience. \ni. \nApplicants must confirm the accuracy of any pre-filled information before submitting an \napplication. \nc) The Fiji MRA reserves the right to request additional information from applicants to support \nassessment of the application.  \nd) The Fiji MRA reserves the right to request evidence of the provided information to support \nassessment of the application.  \ne) Applicants must confirm and declare for each application that: \ni. \nAll the information in the application and accompanying documentation is correct, \ncomplete, and true to the best of their knowledge. \nii. \nThey take full responsibility on the quality, safety, and efficacy, of the listed medicinal \nproduct over its lifetime and will ensure that each individual batch imported complies with \nlaws in force in Fiji. And, if required, that they will cooperate with any official of the Fiji \nMedicinal Products Board in performing an inspection. \niii. \nThey confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji. \niv. \nThey confirm and agree to furnish the Fiji Medicinal Products Regulatory Authority with \nregistration information as required in respect to a provisionally authorised medicinal \nproduct within such time as is stipulated in the communication. \nv. \nThey acknowledge that if the required information requested by the Fiji Medicinal Products \nBoard is not without valid reasons submitted the medicinal product shall be delisted from \nthe provisionally authorised medicinal products register. \nvi. \nThey confirm and agree that the Fiji Medicinal Products Board shall have the authority to \nsuspend or cancel the provisional authorisation if the medicinal product is found not to have \nnot complied with laws in force in Fiji. \nvii. \nThey confirm and agree that the provisional authorisation is not transferable to another \ncompany without the written authorisation of the Fiji Medicinal Products Board. \n\n\nPAGE 4\n \nPage 4 of 4 \nviii. \nThey agree to follow the Fijian legal requirements related to listing of medicinal products. \nix. \nThey provide consent to the processing of information provided to the Fiji Medicinal \nProducts Board. \n \n",
+          "start": 4803,
+          "end": 8222,
+          "exact_offset_validated": true,
+          "section_article": "4",
+          "pdf_page": "2–3",
+          "language": "en",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-FJI-34-Q01",
+          "verbatim_extracted_text": "4. Requirements for Medicinal Products \na) Each application must include the required information about each medicinal product. This includes: \ni. \nCompulsory: \ni. Registration status in Australia or New Zealand. \nii. Registration status in other countries. \niii. Brand / trade name. \niv. International Non-proprietary Name (INN), also referred to as the ‘generic name’ of \nthe active substance.  \n\n\nPAGE 3\n \nPage 3 of 4 \nv. The amount, that is, the strength and unit of the active substance per dosage form. \nvi. Dosage form. \nvii. Route of administration. \nviii. Packaging sizes. \nix. Shelf life. \nx. Finished product manufacturer(s). \nxi. Pharmacopeial standard. \nii. \nOptional, but recommended to support assessment of the application: \ni. Medicinal Products Classification (Schedule) in Fiji. \nii. Anatomical Therapeutic Chemical (ATC) Code and Category. \niii. Good Manufacturing Practice (GMP) Certificate(s) of the manufacturer. \niv. Product registration certificate(s) from other countries. \nb) Medicinal products registered in Australia or New Zealand will have some of this information pre-\nfilled in the Portal for convenience. \ni. \nApplicants must confirm the accuracy of any pre-filled information before submitting an \napplication. \nc) The Fiji MRA reserves the right to request additional information from applicants to support \nassessment of the application.  \nd) The Fiji MRA reserves the right to request evidence of the provided information to support \nassessment of the application.  \ne) Applicants must confirm and declare for each application that: \ni. \nAll the information in the application and accompanying documentation is correct, \ncomplete, and true to the best of their knowledge. \nii. \nThey take full responsibility on the quality, safety, and efficacy, of the listed medicinal \nproduct over its lifetime and will ensure that each individual batch imported complies with \nlaws in force in Fiji. And, if required, that they will cooperate with any official of the Fiji \nMedicinal Products Board in performing an inspection. \niii. \nThey confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji. \niv. \nThey confirm and agree to furnish the Fiji Medicinal Products Regulatory Authority with \nregistration information as required in respect to a provisionally authorised medicinal \nproduct within such time as is stipulated in the communication. \nv. \nThey acknowledge that if the required information requested by the Fiji Medicinal Products \nBoard is not without valid reasons submitted the medicinal product shall be delisted from \nthe provisionally authorised medicinal products register. \nvi. \nThey confirm and agree that the Fiji Medicinal Products Board shall have the authority to \nsuspend or cancel the provisional authorisation if the medicinal product is found not to have \nnot complied with laws in force in Fiji. \nvii. \nThey confirm and agree that the provisional authorisation is not transferable to another \ncompany without the written authorisation of the Fiji Medicinal Products Board. \n\n\nPAGE 4\n \nPage 4 of 4 \nviii. \nThey agree to follow the Fijian legal requirements related to listing of medicinal products. \nix. \nThey provide consent to the processing of information provided to the Fiji Medicinal \nProducts Board. \n \n",
+          "start_offset": 4803,
+          "end_offset": 8222
+        },
+        {
+          "passage_id": "EXP-B-FJI-34-Q02",
+          "source_document_id": "F250_294fe3a37018b72f876e",
+          "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+          "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+          "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+          "exact_text": "6. Transition to Full Registration \na) Products will remain listed on the Provisionally Authorised Medicinal Products Register until: \ni. \nThe expiry date of the listing is reached; or \nii. \nAn application to register the product on the Registered Medicinal Products Register is \nreceived and approved; or \niii. \nThe Board reviews the product and determines that it should be removed from the \nProvisionally Authorised Medicinal Products Register; or \niv. \nThe Board determines an end date for the Provisionally Authorised Medicinal Products \nRegister. \nb) The Registration process is described in detail in the Act [s30]. \n",
+          "start": 8669,
+          "end": 9293,
+          "exact_offset_validated": true,
+          "section_article": "6",
+          "pdf_page": "4",
+          "language": "en",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-FJI-34-Q02",
+          "verbatim_extracted_text": "6. Transition to Full Registration \na) Products will remain listed on the Provisionally Authorised Medicinal Products Register until: \ni. \nThe expiry date of the listing is reached; or \nii. \nAn application to register the product on the Registered Medicinal Products Register is \nreceived and approved; or \niii. \nThe Board reviews the product and determines that it should be removed from the \nProvisionally Authorised Medicinal Products Register; or \niv. \nThe Board determines an end date for the Provisionally Authorised Medicinal Products \nRegister. \nb) The Registration process is described in detail in the Act [s30]. \n",
+          "start_offset": 8669,
+          "end_offset": 9293
+        }
+      ],
+      "selection_recommendation": "alternate",
+      "selection_reason": "National access/listing is real but full registration is expressly distinguished; not a new full-MA country addition."
+    },
+    {
+      "record_key": "b:supp:3",
+      "selected_for_primary": false,
+      "pathway": "Public-sector supplier/product prequalification",
+      "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Guidelines-for-the-Prequalification-of-Finished-Pharmaceutical-Products-and-Manufacturers.pdf",
+      "version_note": null,
+      "version_scope_note": "Prequalification for supply to Fiji MHMS, not a full national marketing-authorization pathway.",
+      "scope": "Government-supply prequalification",
+      "components": {
+        "new_active_substance": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "named_reference_agencies": {
+          "state": "explicit requirement",
+          "finding": "SRA/WLA, New Zealand, PIC/S-country authorities and case-by-case others recognized for procurement prequalification.",
+          "evidence_ids": [
+            "EXP-B-FJI-31-Q01"
+          ]
+        },
+        "prior_approval_count": {
+          "state": "explicit requirement",
+          "finding": "Recognized prior MA or WHO PQ for procurement qualification; not full Fiji MA.",
+          "evidence_ids": [
+            "EXP-B-FJI-31-Q02"
+          ]
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "quality_gmp": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "scientific_assessment_retained": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_representative": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "filing_fee": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "translation_legalization": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "cpp": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "clock": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "domestic_discretion": {
+          "state": "unresolved/not stated",
+          "finding": "This source review does not resolve this condition; silence is not a waiver.",
+          "evidence_ids": []
+        }
+      },
+      "cases": {
+        "A": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed national marketing-authorization question outside procurement prequalification scope. Can compare supply qualification separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-31-Q01",
+            "EXP-B-FJI-31-Q02"
+          ]
+        },
+        "B": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed national marketing-authorization question outside procurement prequalification scope. Can compare supply qualification separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-31-Q01",
+            "EXP-B-FJI-31-Q02"
+          ]
+        },
+        "C": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed national marketing-authorization question outside procurement prequalification scope. Can compare supply qualification separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-31-Q01",
+            "EXP-B-FJI-31-Q02"
+          ]
+        },
+        "D": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed national marketing-authorization question outside procurement prequalification scope. Can compare supply qualification separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-31-Q01",
+            "EXP-B-FJI-31-Q02"
+          ]
+        },
+        "E": {
+          "eligibility": "outside pathway scope",
+          "finding": "Fixed national marketing-authorization question outside procurement prequalification scope. Can compare supply qualification separately.",
+          "decisive_conditions": [],
+          "unresolved_conditions": [
+            "All unresolved and discretionary components remain; filing eligibility is not a grant or observed processing outcome."
+          ],
+          "evidence_ids": [
+            "EXP-B-FJI-31-Q01",
+            "EXP-B-FJI-31-Q02"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": null,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {
+        "complete_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "nonpublic_report_or_public_domain_exclusion": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "second_approval_selected_route": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "one_approval_alternative_described": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        },
+        "ambiguous_additional_full_report_gate": {
+          "finding": "Not resolved by this source/route review. Unknown is not a waiver or country-wide absence.",
+          "evidence_ids": []
+        }
+      },
+      "evidence": [
+        {
+          "passage_id": "EXP-B-FJI-31-Q01",
+          "source_document_id": "F250_f1bae49a71c218f3707c",
+          "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Guidelines-for-the-Prequalification-of-Finished-Pharmaceutical-Products-and-Manufacturers.pdf",
+          "raw_sha256": "72a7dec1ed4869c96fc59b30c9d4071acb2811f72d69f9220f6e4d26c14100c7",
+          "text_sha256": "e3889ff9e63b8280cb3a678a6f5c84205653b2ce428565bc60d98fe00e033a35",
+          "exact_text": "2. General Information on Prequalification \na) Suppliers of FPPs to the Fiji MHMS must apply to have the products they wish to supply, and the \nmanufacturers of those products, prequalified by the Fiji MRA. \nb) All FPPs must be prequalified by the Fiji MRA before they can be supplied to the Fiji MHMS. \nc) The Fiji MRA Online Services Portal. \ni. \nAll suppliers are required to register an account on the Fiji MRA Online Services Portal at \nhttps://fijimedreg.conforma.systems/login \nii. \nAll applications for prequalification must be submitted through the portal. \niii. \nInstructions for using the portal and the application process are available on the Fiji MRA \nwebsite at https://www.health.gov.fj/fiji-mra/  , and within the portal. \niv. \nAll communication between applicants and the Fiji MRA is through the portal or electronic \ncommunication. \nd) Prequalification does not constitute a solicitation to supply the Fiji MHMS. \ni. \nPrequalification will generate a list of manufacturers and FPPs which the Fiji MHMS may use \nto inform requests for supply.  \nii. \nApplying for prequalification does not guarantee that a solicitation to supply will be received \nby the applicant. \niii. \nThe Fiji MRA reserves the right to change or cancel the application requirements at any time \nduring the prequalification or solicitation process. \niv. \nThe Fiji MRA reserves the right to require compliance with additional conditions when \nissuing a solicitation to supply. \ne) New applications are required to be submitted for all current suppliers, manufacturers, and products \nsupplied or contracted for supply to the Fiji MHMS. \nf) The Fiji MRA recognises NRAs which are: \ni. \ndesignated by the WHO as an SRA or WLA; or  \nii. \nthe NRA of New Zealand; or \niii. \nthe NRA of a country which is a member of the PIC/S. \niv. \nThe Fiji MRA reserves the right to consider recognising other NRAs on a case-by-case basis. \ng) The Fiji MRA accepts the quality standards of the: \ni. \nBP; and \nii. \nPh. Eur; and \niii. \nPh. Int; and \niv. \nUSP; and \nv. \nother standards that meet or exceed these standards as considered by the Fiji MRA on a \ncase-by-case basis. \n \n",
+          "start": 2611,
+          "end": 4755,
+          "exact_offset_validated": true,
+          "section_article": "2",
+          "pdf_page": "2",
+          "language": "en",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-FJI-31-Q01",
+          "verbatim_extracted_text": "2. General Information on Prequalification \na) Suppliers of FPPs to the Fiji MHMS must apply to have the products they wish to supply, and the \nmanufacturers of those products, prequalified by the Fiji MRA. \nb) All FPPs must be prequalified by the Fiji MRA before they can be supplied to the Fiji MHMS. \nc) The Fiji MRA Online Services Portal. \ni. \nAll suppliers are required to register an account on the Fiji MRA Online Services Portal at \nhttps://fijimedreg.conforma.systems/login \nii. \nAll applications for prequalification must be submitted through the portal. \niii. \nInstructions for using the portal and the application process are available on the Fiji MRA \nwebsite at https://www.health.gov.fj/fiji-mra/  , and within the portal. \niv. \nAll communication between applicants and the Fiji MRA is through the portal or electronic \ncommunication. \nd) Prequalification does not constitute a solicitation to supply the Fiji MHMS. \ni. \nPrequalification will generate a list of manufacturers and FPPs which the Fiji MHMS may use \nto inform requests for supply.  \nii. \nApplying for prequalification does not guarantee that a solicitation to supply will be received \nby the applicant. \niii. \nThe Fiji MRA reserves the right to change or cancel the application requirements at any time \nduring the prequalification or solicitation process. \niv. \nThe Fiji MRA reserves the right to require compliance with additional conditions when \nissuing a solicitation to supply. \ne) New applications are required to be submitted for all current suppliers, manufacturers, and products \nsupplied or contracted for supply to the Fiji MHMS. \nf) The Fiji MRA recognises NRAs which are: \ni. \ndesignated by the WHO as an SRA or WLA; or  \nii. \nthe NRA of New Zealand; or \niii. \nthe NRA of a country which is a member of the PIC/S. \niv. \nThe Fiji MRA reserves the right to consider recognising other NRAs on a case-by-case basis. \ng) The Fiji MRA accepts the quality standards of the: \ni. \nBP; and \nii. \nPh. Eur; and \niii. \nPh. Int; and \niv. \nUSP; and \nv. \nother standards that meet or exceed these standards as considered by the Fiji MRA on a \ncase-by-case basis. \n \n",
+          "start_offset": 2611,
+          "end_offset": 4755
+        },
+        {
+          "passage_id": "EXP-B-FJI-31-Q02",
+          "source_document_id": "F250_f1bae49a71c218f3707c",
+          "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Guidelines-for-the-Prequalification-of-Finished-Pharmaceutical-Products-and-Manufacturers.pdf",
+          "raw_sha256": "72a7dec1ed4869c96fc59b30c9d4071acb2811f72d69f9220f6e4d26c14100c7",
+          "text_sha256": "e3889ff9e63b8280cb3a678a6f5c84205653b2ce428565bc60d98fe00e033a35",
+          "exact_text": "5. Requirements for Prequalification of Finished Pharmaceutical Products  \na) All FPPs must be prequalified by the Fiji MRA before they are supplied to the Fiji MHMS. \ni. \nFor the avoidance of doubt, FPPs includes all medicinal products including vaccines. \nb) A FPP will be considered for prequalification if it: \ni. \nis manufactured by a manufacturer prequalified by the Fiji MRA; and \nii. \nis currently registered or has market authorisation in a country with a NRA recognised by the \nFiji MRA; and \niii. \nmeets pharmacopeial standards recognised by the Fiji MRA; and \niv. \nmeets the Fiji MRA standards for labelling and packaging; or \nv. \nis included on the WHO List of Prequalified Medicines. \nc) Applications must include evidence that the FPP is currently: \ni. \nregistered or has market authorisation in: \ni. a country with a WHO SRA or WLA; or \nii. New Zealand; or \niii. the PIC/S member country in which it is manufactured; or \niv. another country as considered by the Fiji MRA on a case-by-case basis; or \nii. \nincluded on the WHO List of Prequalified Medicines. \niii. \nSuitable evidence includes: \ni. a CoPP in WHO approved format from the country of export, showing market \nauthorisation status; or \nii. a Certificate of Registration or Market Authorisation issued by a NRA to the \nmanufacturer, market authorisation holder or sponsor in that country; or \niii. evidence of inclusion on the WHO List of Prequalified Medicines. \nd) Applications must include evidence that the quality standard applied to the product by the \nmanufacturer complies with a quality standard accepted by the Fiji MRA. Suitable evidence includes: \ni. \nFinished Product Specifications; or \nii. \nCertificate of Analysis representative of the product supplied to Fiji. \ne) Applications must include a declaration that the FPP meets the Fiji MRA standards for labelling and \npackaging. \ni. \nThe Fiji MRA may require images of labelling and packaging to provide evidence of meeting \nthese standards. Applicants may submit images to support their application. \nii. \nThe Fiji MRA standards for labelling and packaging of FPPs are: \ni. All products must be suitably packaged and labelled in the English language. \n\n\nPAGE 5\nPage 5 of 5 \nii. Any package inserts, co-branding, relabelling or similar must be authorised by the \nproduct or mark owner and be in the English language. \niii. All labelling and packaging must be identical to the labelling and packaging that the \nproduct is supplied with in the country of registration relied upon in the application. \niv. All labels must be indelibly printed on, or securely fastened to, the main container. \nv. All labels must remain intact and legible for the shelf-life of the product. \nvi. Labels on blister packaging, small dose unit packaging, or similar, must clearly \nide",
+          "start": 7842,
+          "end": 10642,
+          "exact_offset_validated": true,
+          "section_article": "5",
+          "pdf_page": "4–5",
+          "language": "en",
+          "visually_checked": false,
+          "quote_type": "preserved extracted text exact substring",
+          "clause_id": "EXP-B-FJI-31-Q02",
+          "verbatim_extracted_text": "5. Requirements for Prequalification of Finished Pharmaceutical Products  \na) All FPPs must be prequalified by the Fiji MRA before they are supplied to the Fiji MHMS. \ni. \nFor the avoidance of doubt, FPPs includes all medicinal products including vaccines. \nb) A FPP will be considered for prequalification if it: \ni. \nis manufactured by a manufacturer prequalified by the Fiji MRA; and \nii. \nis currently registered or has market authorisation in a country with a NRA recognised by the \nFiji MRA; and \niii. \nmeets pharmacopeial standards recognised by the Fiji MRA; and \niv. \nmeets the Fiji MRA standards for labelling and packaging; or \nv. \nis included on the WHO List of Prequalified Medicines. \nc) Applications must include evidence that the FPP is currently: \ni. \nregistered or has market authorisation in: \ni. a country with a WHO SRA or WLA; or \nii. New Zealand; or \niii. the PIC/S member country in which it is manufactured; or \niv. another country as considered by the Fiji MRA on a case-by-case basis; or \nii. \nincluded on the WHO List of Prequalified Medicines. \niii. \nSuitable evidence includes: \ni. a CoPP in WHO approved format from the country of export, showing market \nauthorisation status; or \nii. a Certificate of Registration or Market Authorisation issued by a NRA to the \nmanufacturer, market authorisation holder or sponsor in that country; or \niii. evidence of inclusion on the WHO List of Prequalified Medicines. \nd) Applications must include evidence that the quality standard applied to the product by the \nmanufacturer complies with a quality standard accepted by the Fiji MRA. Suitable evidence includes: \ni. \nFinished Product Specifications; or \nii. \nCertificate of Analysis representative of the product supplied to Fiji. \ne) Applications must include a declaration that the FPP meets the Fiji MRA standards for labelling and \npackaging. \ni. \nThe Fiji MRA may require images of labelling and packaging to provide evidence of meeting \nthese standards. Applicants may submit images to support their application. \nii. \nThe Fiji MRA standards for labelling and packaging of FPPs are: \ni. All products must be suitably packaged and labelled in the English language. \n\n\nPAGE 5\nPage 5 of 5 \nii. Any package inserts, co-branding, relabelling or similar must be authorised by the \nproduct or mark owner and be in the English language. \niii. All labelling and packaging must be identical to the labelling and packaging that the \nproduct is supplied with in the country of registration relied upon in the application. \niv. All labels must be indelibly printed on, or securely fastened to, the main container. \nv. All labels must remain intact and legible for the shelf-life of the product. \nvi. Labels on blister packaging, small dose unit packaging, or similar, must clearly \nide",
+          "start_offset": 7842,
+          "end_offset": 10642
+        }
+      ],
+      "selection_recommendation": "alternate",
+      "selection_reason": "Prequalification for supply to Fiji MHMS, not a full national marketing-authorization pathway."
+    }
+  ],
+  "standard_drug_expansion_clauses": [
+    {
+      "passage_id": "EXP-B-FJI-34-Q01",
+      "source_document_id": "F250_294fe3a37018b72f876e",
+      "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+      "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+      "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+      "exact_text": "4. Requirements for Medicinal Products \na) Each application must include the required information about each medicinal product. This includes: \ni. \nCompulsory: \ni. Registration status in Australia or New Zealand. \nii. Registration status in other countries. \niii. Brand / trade name. \niv. International Non-proprietary Name (INN), also referred to as the ‘generic name’ of \nthe active substance.  \n\n\nPAGE 3\n \nPage 3 of 4 \nv. The amount, that is, the strength and unit of the active substance per dosage form. \nvi. Dosage form. \nvii. Route of administration. \nviii. Packaging sizes. \nix. Shelf life. \nx. Finished product manufacturer(s). \nxi. Pharmacopeial standard. \nii. \nOptional, but recommended to support assessment of the application: \ni. Medicinal Products Classification (Schedule) in Fiji. \nii. Anatomical Therapeutic Chemical (ATC) Code and Category. \niii. Good Manufacturing Practice (GMP) Certificate(s) of the manufacturer. \niv. Product registration certificate(s) from other countries. \nb) Medicinal products registered in Australia or New Zealand will have some of this information pre-\nfilled in the Portal for convenience. \ni. \nApplicants must confirm the accuracy of any pre-filled information before submitting an \napplication. \nc) The Fiji MRA reserves the right to request additional information from applicants to support \nassessment of the application.  \nd) The Fiji MRA reserves the right to request evidence of the provided information to support \nassessment of the application.  \ne) Applicants must confirm and declare for each application that: \ni. \nAll the information in the application and accompanying documentation is correct, \ncomplete, and true to the best of their knowledge. \nii. \nThey take full responsibility on the quality, safety, and efficacy, of the listed medicinal \nproduct over its lifetime and will ensure that each individual batch imported complies with \nlaws in force in Fiji. And, if required, that they will cooperate with any official of the Fiji \nMedicinal Products Board in performing an inspection. \niii. \nThey confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji. \niv. \nThey confirm and agree to furnish the Fiji Medicinal Products Regulatory Authority with \nregistration information as required in respect to a provisionally authorised medicinal \nproduct within such time as is stipulated in the communication. \nv. \nThey acknowledge that if the required information requested by the Fiji Medicinal Products \nBoard is not without valid reasons submitted the medicinal product shall be delisted from \nthe provisionally authorised medicinal products register. \nvi. \nThey confirm and agree that the Fiji Medicinal Products Board shall have the authority to \nsuspend or cancel the provisional authorisation if the medicinal product is found not to have \nnot complied with laws in force in Fiji. \nvii. \nThey confirm and agree that the provisional authorisation is not transferable to another \ncompany without the written authorisation of the Fiji Medicinal Products Board. \n\n\nPAGE 4\n \nPage 4 of 4 \nviii. \nThey agree to follow the Fijian legal requirements related to listing of medicinal products. \nix. \nThey provide consent to the processing of information provided to the Fiji Medicinal \nProducts Board. \n \n",
+      "start": 4803,
+      "end": 8222,
+      "exact_offset_validated": true,
+      "section_article": "4",
+      "pdf_page": "2–3",
+      "language": "en",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-FJI-34-Q01",
+      "verbatim_extracted_text": "4. Requirements for Medicinal Products \na) Each application must include the required information about each medicinal product. This includes: \ni. \nCompulsory: \ni. Registration status in Australia or New Zealand. \nii. Registration status in other countries. \niii. Brand / trade name. \niv. International Non-proprietary Name (INN), also referred to as the ‘generic name’ of \nthe active substance.  \n\n\nPAGE 3\n \nPage 3 of 4 \nv. The amount, that is, the strength and unit of the active substance per dosage form. \nvi. Dosage form. \nvii. Route of administration. \nviii. Packaging sizes. \nix. Shelf life. \nx. Finished product manufacturer(s). \nxi. Pharmacopeial standard. \nii. \nOptional, but recommended to support assessment of the application: \ni. Medicinal Products Classification (Schedule) in Fiji. \nii. Anatomical Therapeutic Chemical (ATC) Code and Category. \niii. Good Manufacturing Practice (GMP) Certificate(s) of the manufacturer. \niv. Product registration certificate(s) from other countries. \nb) Medicinal products registered in Australia or New Zealand will have some of this information pre-\nfilled in the Portal for convenience. \ni. \nApplicants must confirm the accuracy of any pre-filled information before submitting an \napplication. \nc) The Fiji MRA reserves the right to request additional information from applicants to support \nassessment of the application.  \nd) The Fiji MRA reserves the right to request evidence of the provided information to support \nassessment of the application.  \ne) Applicants must confirm and declare for each application that: \ni. \nAll the information in the application and accompanying documentation is correct, \ncomplete, and true to the best of their knowledge. \nii. \nThey take full responsibility on the quality, safety, and efficacy, of the listed medicinal \nproduct over its lifetime and will ensure that each individual batch imported complies with \nlaws in force in Fiji. And, if required, that they will cooperate with any official of the Fiji \nMedicinal Products Board in performing an inspection. \niii. \nThey confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji. \niv. \nThey confirm and agree to furnish the Fiji Medicinal Products Regulatory Authority with \nregistration information as required in respect to a provisionally authorised medicinal \nproduct within such time as is stipulated in the communication. \nv. \nThey acknowledge that if the required information requested by the Fiji Medicinal Products \nBoard is not without valid reasons submitted the medicinal product shall be delisted from \nthe provisionally authorised medicinal products register. \nvi. \nThey confirm and agree that the Fiji Medicinal Products Board shall have the authority to \nsuspend or cancel the provisional authorisation if the medicinal product is found not to have \nnot complied with laws in force in Fiji. \nvii. \nThey confirm and agree that the provisional authorisation is not transferable to another \ncompany without the written authorisation of the Fiji Medicinal Products Board. \n\n\nPAGE 4\n \nPage 4 of 4 \nviii. \nThey agree to follow the Fijian legal requirements related to listing of medicinal products. \nix. \nThey provide consent to the processing of information provided to the Fiji Medicinal \nProducts Board. \n \n",
+      "start_offset": 4803,
+      "end_offset": 8222,
+      "iso3": "FJI",
+      "country": "Fiji",
+      "document_id": "EXP-B-FJI-34",
+      "display_text": "4. Requirements for Medicinal Products \na) Each application must include the required information about each medicinal product. This includes: \ni. \nCompulsory: \ni. Registration status in Australia or New Zealand. \nii. Registration status in other countries. \niii. Brand / trade name. \niv. International Non-proprietary Name (INN), also referred to as the ‘generic name’ of \nthe active substance.  \n\n\nPAGE 3\n \nPage 3 of 4 \nv. The amount, that is, the strength and unit of the active substance per dosage form. \nvi. Dosage form. \nvii. Route of administration. \nviii. Packaging sizes. \nix. Shelf life. \nx. Finished product manufacturer(s). \nxi. Pharmacopeial standard. \nii. \nOptional, but recommended to support assessment of the application: \ni. Medicinal Products Classification (Schedule) in Fiji. \nii. Anatomical Therapeutic Chemical (ATC) Code and Category. \niii. Good Manufacturing Practice (GMP) Certificate(s) of the manufacturer. \niv. Product registration certificate(s) from other countries. \nb) Medicinal products registered in Australia or New Zealand will have some of this information pre-\nfilled in the Portal for convenience. \ni. \nApplicants must confirm the accuracy of any pre-filled information before submitting an \napplication. \nc) The Fiji MRA reserves the right to request additional information from applicants to support \nassessment of the application.  \nd) The Fiji MRA reserves the right to request evidence of the provided information to support \nassessment of the application.  \ne) Applicants must confirm and declare for each application that: \ni. \nAll the information in the application and accompanying documentation is correct, \ncomplete, and true to the best of their knowledge. \nii. \nThey take full responsibility on the quality, safety, and efficacy, of the listed medicinal \nproduct over its lifetime and will ensure that each individual batch imported complies with \nlaws in force in Fiji. And, if required, that they will cooperate with any official of the Fiji \nMedicinal Products Board in performing an inspection. \niii. \nThey confirm and agree that listing of this application onto the Provisionally Authorised \nMedicinal Products Register does not constitute to a marketing authorisation or registration \nof the medicinal product in Fiji. \niv. \nThey confirm and agree to furnish the Fiji Medicinal Products Regulatory Authority with \nregistration information as required in respect to a provisionally authorised medicinal \nproduct within such time as is stipulated in the communication. \nv. \nThey acknowledge that if the required information requested by the Fiji Medicinal Products \nBoard is not without valid reasons submitted the medicinal product shall be delisted from \nthe provisionally authorised medicinal products register. \nvi. \nThey confirm and agree that the Fiji Medicinal Products Board shall have the authority to \nsuspend or cancel the provisional authorisation if the medicinal product is found not to have \nnot complied with laws in force in Fiji. \nvii. \nThey confirm and agree that the provisional authorisation is not transferable to another \ncompany without the written authorisation of the Fiji Medicinal Products Board. \n\n\nPAGE 4\n \nPage 4 of 4 \nviii. \nThey agree to follow the Fijian legal requirements related to listing of medicinal products. \nix. \nThey provide consent to the processing of information provided to the Fiji Medicinal \nProducts Board. \n \n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Provisional listing; expressly not full marketing authorization National access/listing is real but full registration is expressly distinguished; not a new full-MA country addition. ",
+      "version_alignment": "National access/listing is real but full registration is expressly distinguished; not a new full-MA country addition."
+    },
+    {
+      "passage_id": "EXP-B-FJI-34-Q02",
+      "source_document_id": "F250_294fe3a37018b72f876e",
+      "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Provisional-Registration-GUIDELINE.pdf",
+      "raw_sha256": "2d97a1367b5956ec37b15e47b294cea6bf94b4db7b74ee24f648925c10d71ad3",
+      "text_sha256": "ff35f07246cc242bdad5f08585a4eb2e75a8bf1167ad5b17d2b800b11226195d",
+      "exact_text": "6. Transition to Full Registration \na) Products will remain listed on the Provisionally Authorised Medicinal Products Register until: \ni. \nThe expiry date of the listing is reached; or \nii. \nAn application to register the product on the Registered Medicinal Products Register is \nreceived and approved; or \niii. \nThe Board reviews the product and determines that it should be removed from the \nProvisionally Authorised Medicinal Products Register; or \niv. \nThe Board determines an end date for the Provisionally Authorised Medicinal Products \nRegister. \nb) The Registration process is described in detail in the Act [s30]. \n",
+      "start": 8669,
+      "end": 9293,
+      "exact_offset_validated": true,
+      "section_article": "6",
+      "pdf_page": "4",
+      "language": "en",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-FJI-34-Q02",
+      "verbatim_extracted_text": "6. Transition to Full Registration \na) Products will remain listed on the Provisionally Authorised Medicinal Products Register until: \ni. \nThe expiry date of the listing is reached; or \nii. \nAn application to register the product on the Registered Medicinal Products Register is \nreceived and approved; or \niii. \nThe Board reviews the product and determines that it should be removed from the \nProvisionally Authorised Medicinal Products Register; or \niv. \nThe Board determines an end date for the Provisionally Authorised Medicinal Products \nRegister. \nb) The Registration process is described in detail in the Act [s30]. \n",
+      "start_offset": 8669,
+      "end_offset": 9293,
+      "iso3": "FJI",
+      "country": "Fiji",
+      "document_id": "EXP-B-FJI-34",
+      "display_text": "6. Transition to Full Registration \na) Products will remain listed on the Provisionally Authorised Medicinal Products Register until: \ni. \nThe expiry date of the listing is reached; or \nii. \nAn application to register the product on the Registered Medicinal Products Register is \nreceived and approved; or \niii. \nThe Board reviews the product and determines that it should be removed from the \nProvisionally Authorised Medicinal Products Register; or \niv. \nThe Board determines an end date for the Provisionally Authorised Medicinal Products \nRegister. \nb) The Registration process is described in detail in the Act [s30]. \n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Provisional listing; expressly not full marketing authorization National access/listing is real but full registration is expressly distinguished; not a new full-MA country addition. ",
+      "version_alignment": "National access/listing is real but full registration is expressly distinguished; not a new full-MA country addition."
+    },
+    {
+      "passage_id": "EXP-B-FJI-31-Q01",
+      "source_document_id": "F250_f1bae49a71c218f3707c",
+      "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Guidelines-for-the-Prequalification-of-Finished-Pharmaceutical-Products-and-Manufacturers.pdf",
+      "raw_sha256": "72a7dec1ed4869c96fc59b30c9d4071acb2811f72d69f9220f6e4d26c14100c7",
+      "text_sha256": "e3889ff9e63b8280cb3a678a6f5c84205653b2ce428565bc60d98fe00e033a35",
+      "exact_text": "2. General Information on Prequalification \na) Suppliers of FPPs to the Fiji MHMS must apply to have the products they wish to supply, and the \nmanufacturers of those products, prequalified by the Fiji MRA. \nb) All FPPs must be prequalified by the Fiji MRA before they can be supplied to the Fiji MHMS. \nc) The Fiji MRA Online Services Portal. \ni. \nAll suppliers are required to register an account on the Fiji MRA Online Services Portal at \nhttps://fijimedreg.conforma.systems/login \nii. \nAll applications for prequalification must be submitted through the portal. \niii. \nInstructions for using the portal and the application process are available on the Fiji MRA \nwebsite at https://www.health.gov.fj/fiji-mra/  , and within the portal. \niv. \nAll communication between applicants and the Fiji MRA is through the portal or electronic \ncommunication. \nd) Prequalification does not constitute a solicitation to supply the Fiji MHMS. \ni. \nPrequalification will generate a list of manufacturers and FPPs which the Fiji MHMS may use \nto inform requests for supply.  \nii. \nApplying for prequalification does not guarantee that a solicitation to supply will be received \nby the applicant. \niii. \nThe Fiji MRA reserves the right to change or cancel the application requirements at any time \nduring the prequalification or solicitation process. \niv. \nThe Fiji MRA reserves the right to require compliance with additional conditions when \nissuing a solicitation to supply. \ne) New applications are required to be submitted for all current suppliers, manufacturers, and products \nsupplied or contracted for supply to the Fiji MHMS. \nf) The Fiji MRA recognises NRAs which are: \ni. \ndesignated by the WHO as an SRA or WLA; or  \nii. \nthe NRA of New Zealand; or \niii. \nthe NRA of a country which is a member of the PIC/S. \niv. \nThe Fiji MRA reserves the right to consider recognising other NRAs on a case-by-case basis. \ng) The Fiji MRA accepts the quality standards of the: \ni. \nBP; and \nii. \nPh. Eur; and \niii. \nPh. Int; and \niv. \nUSP; and \nv. \nother standards that meet or exceed these standards as considered by the Fiji MRA on a \ncase-by-case basis. \n \n",
+      "start": 2611,
+      "end": 4755,
+      "exact_offset_validated": true,
+      "section_article": "2",
+      "pdf_page": "2",
+      "language": "en",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-FJI-31-Q01",
+      "verbatim_extracted_text": "2. General Information on Prequalification \na) Suppliers of FPPs to the Fiji MHMS must apply to have the products they wish to supply, and the \nmanufacturers of those products, prequalified by the Fiji MRA. \nb) All FPPs must be prequalified by the Fiji MRA before they can be supplied to the Fiji MHMS. \nc) The Fiji MRA Online Services Portal. \ni. \nAll suppliers are required to register an account on the Fiji MRA Online Services Portal at \nhttps://fijimedreg.conforma.systems/login \nii. \nAll applications for prequalification must be submitted through the portal. \niii. \nInstructions for using the portal and the application process are available on the Fiji MRA \nwebsite at https://www.health.gov.fj/fiji-mra/  , and within the portal. \niv. \nAll communication between applicants and the Fiji MRA is through the portal or electronic \ncommunication. \nd) Prequalification does not constitute a solicitation to supply the Fiji MHMS. \ni. \nPrequalification will generate a list of manufacturers and FPPs which the Fiji MHMS may use \nto inform requests for supply.  \nii. \nApplying for prequalification does not guarantee that a solicitation to supply will be received \nby the applicant. \niii. \nThe Fiji MRA reserves the right to change or cancel the application requirements at any time \nduring the prequalification or solicitation process. \niv. \nThe Fiji MRA reserves the right to require compliance with additional conditions when \nissuing a solicitation to supply. \ne) New applications are required to be submitted for all current suppliers, manufacturers, and products \nsupplied or contracted for supply to the Fiji MHMS. \nf) The Fiji MRA recognises NRAs which are: \ni. \ndesignated by the WHO as an SRA or WLA; or  \nii. \nthe NRA of New Zealand; or \niii. \nthe NRA of a country which is a member of the PIC/S. \niv. \nThe Fiji MRA reserves the right to consider recognising other NRAs on a case-by-case basis. \ng) The Fiji MRA accepts the quality standards of the: \ni. \nBP; and \nii. \nPh. Eur; and \niii. \nPh. Int; and \niv. \nUSP; and \nv. \nother standards that meet or exceed these standards as considered by the Fiji MRA on a \ncase-by-case basis. \n \n",
+      "start_offset": 2611,
+      "end_offset": 4755,
+      "iso3": "FJI",
+      "country": "Fiji",
+      "document_id": "EXP-B-FJI-31",
+      "display_text": "2. General Information on Prequalification \na) Suppliers of FPPs to the Fiji MHMS must apply to have the products they wish to supply, and the \nmanufacturers of those products, prequalified by the Fiji MRA. \nb) All FPPs must be prequalified by the Fiji MRA before they can be supplied to the Fiji MHMS. \nc) The Fiji MRA Online Services Portal. \ni. \nAll suppliers are required to register an account on the Fiji MRA Online Services Portal at \nhttps://fijimedreg.conforma.systems/login \nii. \nAll applications for prequalification must be submitted through the portal. \niii. \nInstructions for using the portal and the application process are available on the Fiji MRA \nwebsite at https://www.health.gov.fj/fiji-mra/  , and within the portal. \niv. \nAll communication between applicants and the Fiji MRA is through the portal or electronic \ncommunication. \nd) Prequalification does not constitute a solicitation to supply the Fiji MHMS. \ni. \nPrequalification will generate a list of manufacturers and FPPs which the Fiji MHMS may use \nto inform requests for supply.  \nii. \nApplying for prequalification does not guarantee that a solicitation to supply will be received \nby the applicant. \niii. \nThe Fiji MRA reserves the right to change or cancel the application requirements at any time \nduring the prequalification or solicitation process. \niv. \nThe Fiji MRA reserves the right to require compliance with additional conditions when \nissuing a solicitation to supply. \ne) New applications are required to be submitted for all current suppliers, manufacturers, and products \nsupplied or contracted for supply to the Fiji MHMS. \nf) The Fiji MRA recognises NRAs which are: \ni. \ndesignated by the WHO as an SRA or WLA; or  \nii. \nthe NRA of New Zealand; or \niii. \nthe NRA of a country which is a member of the PIC/S. \niv. \nThe Fiji MRA reserves the right to consider recognising other NRAs on a case-by-case basis. \ng) The Fiji MRA accepts the quality standards of the: \ni. \nBP; and \nii. \nPh. Eur; and \niii. \nPh. Int; and \niv. \nUSP; and \nv. \nother standards that meet or exceed these standards as considered by the Fiji MRA on a \ncase-by-case basis. \n \n",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Public-sector supplier/product prequalification Prequalification for supply to Fiji MHMS, not a full national marketing-authorization pathway. ",
+      "version_alignment": "Prequalification for supply to Fiji MHMS, not a full national marketing-authorization pathway."
+    },
+    {
+      "passage_id": "EXP-B-FJI-31-Q02",
+      "source_document_id": "F250_f1bae49a71c218f3707c",
+      "source_url": "https://www.health.gov.fj/wp-content/uploads/2024/04/Guidelines-for-the-Prequalification-of-Finished-Pharmaceutical-Products-and-Manufacturers.pdf",
+      "raw_sha256": "72a7dec1ed4869c96fc59b30c9d4071acb2811f72d69f9220f6e4d26c14100c7",
+      "text_sha256": "e3889ff9e63b8280cb3a678a6f5c84205653b2ce428565bc60d98fe00e033a35",
+      "exact_text": "5. Requirements for Prequalification of Finished Pharmaceutical Products  \na) All FPPs must be prequalified by the Fiji MRA before they are supplied to the Fiji MHMS. \ni. \nFor the avoidance of doubt, FPPs includes all medicinal products including vaccines. \nb) A FPP will be considered for prequalification if it: \ni. \nis manufactured by a manufacturer prequalified by the Fiji MRA; and \nii. \nis currently registered or has market authorisation in a country with a NRA recognised by the \nFiji MRA; and \niii. \nmeets pharmacopeial standards recognised by the Fiji MRA; and \niv. \nmeets the Fiji MRA standards for labelling and packaging; or \nv. \nis included on the WHO List of Prequalified Medicines. \nc) Applications must include evidence that the FPP is currently: \ni. \nregistered or has market authorisation in: \ni. a country with a WHO SRA or WLA; or \nii. New Zealand; or \niii. the PIC/S member country in which it is manufactured; or \niv. another country as considered by the Fiji MRA on a case-by-case basis; or \nii. \nincluded on the WHO List of Prequalified Medicines. \niii. \nSuitable evidence includes: \ni. a CoPP in WHO approved format from the country of export, showing market \nauthorisation status; or \nii. a Certificate of Registration or Market Authorisation issued by a NRA to the \nmanufacturer, market authorisation holder or sponsor in that country; or \niii. evidence of inclusion on the WHO List of Prequalified Medicines. \nd) Applications must include evidence that the quality standard applied to the product by the \nmanufacturer complies with a quality standard accepted by the Fiji MRA. Suitable evidence includes: \ni. \nFinished Product Specifications; or \nii. \nCertificate of Analysis representative of the product supplied to Fiji. \ne) Applications must include a declaration that the FPP meets the Fiji MRA standards for labelling and \npackaging. \ni. \nThe Fiji MRA may require images of labelling and packaging to provide evidence of meeting \nthese standards. Applicants may submit images to support their application. \nii. \nThe Fiji MRA standards for labelling and packaging of FPPs are: \ni. All products must be suitably packaged and labelled in the English language. \n\n\nPAGE 5\nPage 5 of 5 \nii. Any package inserts, co-branding, relabelling or similar must be authorised by the \nproduct or mark owner and be in the English language. \niii. All labelling and packaging must be identical to the labelling and packaging that the \nproduct is supplied with in the country of registration relied upon in the application. \niv. All labels must be indelibly printed on, or securely fastened to, the main container. \nv. All labels must remain intact and legible for the shelf-life of the product. \nvi. Labels on blister packaging, small dose unit packaging, or similar, must clearly \nide",
+      "start": 7842,
+      "end": 10642,
+      "exact_offset_validated": true,
+      "section_article": "5",
+      "pdf_page": "4–5",
+      "language": "en",
+      "visually_checked": false,
+      "quote_type": "preserved extracted text exact substring",
+      "clause_id": "SDX-EXP-B-FJI-31-Q02",
+      "verbatim_extracted_text": "5. Requirements for Prequalification of Finished Pharmaceutical Products  \na) All FPPs must be prequalified by the Fiji MRA before they are supplied to the Fiji MHMS. \ni. \nFor the avoidance of doubt, FPPs includes all medicinal products including vaccines. \nb) A FPP will be considered for prequalification if it: \ni. \nis manufactured by a manufacturer prequalified by the Fiji MRA; and \nii. \nis currently registered or has market authorisation in a country with a NRA recognised by the \nFiji MRA; and \niii. \nmeets pharmacopeial standards recognised by the Fiji MRA; and \niv. \nmeets the Fiji MRA standards for labelling and packaging; or \nv. \nis included on the WHO List of Prequalified Medicines. \nc) Applications must include evidence that the FPP is currently: \ni. \nregistered or has market authorisation in: \ni. a country with a WHO SRA or WLA; or \nii. New Zealand; or \niii. the PIC/S member country in which it is manufactured; or \niv. another country as considered by the Fiji MRA on a case-by-case basis; or \nii. \nincluded on the WHO List of Prequalified Medicines. \niii. \nSuitable evidence includes: \ni. a CoPP in WHO approved format from the country of export, showing market \nauthorisation status; or \nii. a Certificate of Registration or Market Authorisation issued by a NRA to the \nmanufacturer, market authorisation holder or sponsor in that country; or \niii. evidence of inclusion on the WHO List of Prequalified Medicines. \nd) Applications must include evidence that the quality standard applied to the product by the \nmanufacturer complies with a quality standard accepted by the Fiji MRA. Suitable evidence includes: \ni. \nFinished Product Specifications; or \nii. \nCertificate of Analysis representative of the product supplied to Fiji. \ne) Applications must include a declaration that the FPP meets the Fiji MRA standards for labelling and \npackaging. \ni. \nThe Fiji MRA may require images of labelling and packaging to provide evidence of meeting \nthese standards. Applicants may submit images to support their application. \nii. \nThe Fiji MRA standards for labelling and packaging of FPPs are: \ni. All products must be suitably packaged and labelled in the English language. \n\n\nPAGE 5\nPage 5 of 5 \nii. Any package inserts, co-branding, relabelling or similar must be authorised by the \nproduct or mark owner and be in the English language. \niii. All labelling and packaging must be identical to the labelling and packaging that the \nproduct is supplied with in the country of registration relied upon in the application. \niv. All labels must be indelibly printed on, or securely fastened to, the main container. \nv. All labels must remain intact and legible for the shelf-life of the product. \nvi. Labels on blister packaging, small dose unit packaging, or similar, must clearly \nide",
+      "start_offset": 7842,
+      "end_offset": 10642,
+      "iso3": "FJI",
+      "country": "Fiji",
+      "document_id": "EXP-B-FJI-31",
+      "display_text": "5. Requirements for Prequalification of Finished Pharmaceutical Products  \na) All FPPs must be prequalified by the Fiji MRA before they are supplied to the Fiji MHMS. \ni. \nFor the avoidance of doubt, FPPs includes all medicinal products including vaccines. \nb) A FPP will be considered for prequalification if it: \ni. \nis manufactured by a manufacturer prequalified by the Fiji MRA; and \nii. \nis currently registered or has market authorisation in a country with a NRA recognised by the \nFiji MRA; and \niii. \nmeets pharmacopeial standards recognised by the Fiji MRA; and \niv. \nmeets the Fiji MRA standards for labelling and packaging; or \nv. \nis included on the WHO List of Prequalified Medicines. \nc) Applications must include evidence that the FPP is currently: \ni. \nregistered or has market authorisation in: \ni. a country with a WHO SRA or WLA; or \nii. New Zealand; or \niii. the PIC/S member country in which it is manufactured; or \niv. another country as considered by the Fiji MRA on a case-by-case basis; or \nii. \nincluded on the WHO List of Prequalified Medicines. \niii. \nSuitable evidence includes: \ni. a CoPP in WHO approved format from the country of export, showing market \nauthorisation status; or \nii. a Certificate of Registration or Market Authorisation issued by a NRA to the \nmanufacturer, market authorisation holder or sponsor in that country; or \niii. evidence of inclusion on the WHO List of Prequalified Medicines. \nd) Applications must include evidence that the quality standard applied to the product by the \nmanufacturer complies with a quality standard accepted by the Fiji MRA. Suitable evidence includes: \ni. \nFinished Product Specifications; or \nii. \nCertificate of Analysis representative of the product supplied to Fiji. \ne) Applications must include a declaration that the FPP meets the Fiji MRA standards for labelling and \npackaging. \ni. \nThe Fiji MRA may require images of labelling and packaging to provide evidence of meeting \nthese standards. Applicants may submit images to support their application. \nii. \nThe Fiji MRA standards for labelling and packaging of FPPs are: \ni. All products must be suitably packaged and labelled in the English language. \n\n\nPAGE 5\nPage 5 of 5 \nii. Any package inserts, co-branding, relabelling or similar must be authorised by the \nproduct or mark owner and be in the English language. \niii. All labelling and packaging must be identical to the labelling and packaging that the \nproduct is supplied with in the country of registration relied upon in the application. \niv. All labels must be indelibly printed on, or securely fastened to, the main container. \nv. All labels must remain intact and legible for the shelf-life of the product. \nvi. Labels on blister packaging, small dose unit packaging, or similar, must clearly \nide",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Public-sector supplier/product prequalification Prequalification for supply to Fiji MHMS, not a full national marketing-authorization pathway. ",
+      "version_alignment": "Prequalification for supply to Fiji MHMS, not a full national marketing-authorization pathway."
+    }
+  ]
 }

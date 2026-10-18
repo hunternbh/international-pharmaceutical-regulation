@@ -122,51 +122,764 @@
   "standard_drug_legal_comparison": {
     "iso3": "HTI",
     "country": "Haiti",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
-    "evidence_type": "draft_import_rule",
-    "fixed_case_scope_status": "draft_only",
-    "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established.",
-    "primary_comparison": false,
-    "cases": {
-      "A": {
-        "status": "unresolved",
-        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+    "primary_comparison": true,
+    "sample": "selected_national_route_comparisons",
+    "pathway": "Ordinary sanitary registration of a pharmaceutical specialty",
+    "source_url": "https://mspp.gouv.ht/sites/default/files/publications/Normes%20et%20Procedures%20de%20la%20DPMMT.pdf",
+    "document_id": "F250_dbf5f9bcf2c775bdc826",
+    "genre": "Official administrative norms and procedures",
+    "language": "French",
+    "scope": "Initial human medicinal product authorization",
+    "version_note": "July 2008 DPM/MT norms, chapter 1; no demonstrated amendment/supersession.",
+    "components": {
+      "new_active_substance": {
+        "state": "explicit requirement",
+        "finding": "Pharmaceutical specialties require local registration; not confined to generics.",
+        "evidence_ids": [
+          "C46_001"
+        ]
       },
-      "B": {
-        "status": "unresolved",
-        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+      "named_reference_agencies": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
       },
-      "C": {
-        "status": "unresolved",
-        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+      "prior_approval_count": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
       },
-      "D": {
-        "status": "unresolved",
-        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+      "standalone_review": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
       },
-      "E": {
-        "status": "unresolved",
-        "finding": "The reproduced draft requires origin authorization/prequalification and separate Haitian authorization, with emergency exceptions. Enactment is unverified and no ordinary reliance-route eligibility is established."
+      "approval_age": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "foreign_marketing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "same_product_dossier_site": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "report_completeness": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "nonpublic_reports": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "accepted_redactions": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "public_report_sufficiency": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "applicant_consent": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "reference_authority_permission": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "regulator_to_regulator_sharing": {
+        "state": "unresolved/not stated",
+        "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+        "evidence_ids": []
+      },
+      "local_clinical_evidence": {
+        "state": "explicit requirement",
+        "finding": "Clinical studies required in technical dossier; source does not establish Haiti-specific trial requirement.",
+        "evidence_ids": [
+          "C46_001"
+        ]
+      },
+      "quality_gmp": {
+        "state": "explicit requirement",
+        "finding": "Recent legalized GMP evidence or DPM/MT inspection at applicant cost.",
+        "evidence_ids": [
+          "C46_001"
+        ]
+      },
+      "scientific_assessment_retained": {
+        "state": "explicit requirement",
+        "finding": "DPM/MT technical and medicines-commission benefit–risk assessment.",
+        "evidence_ids": [
+          "C46_002"
+        ]
+      },
+      "local_representative": {
+        "state": "explicit requirement",
+        "finding": "Manufacturer accreditation is requested through its representative.",
+        "evidence_ids": [
+          "C46_001"
+        ]
+      },
+      "filing_fee": {
+        "state": "explicit requirement",
+        "finding": "5,000 gourdes per presentation (form and strength), stated in 2008 source; not inflation-adjusted or assumed current.",
+        "evidence_ids": [
+          "C46_001"
+        ]
+      },
+      "translation_legalization": {
+        "state": "explicit requirement",
+        "finding": "Company profiles French legalized/homologated; technical dossier English, French or Creole.",
+        "evidence_ids": [
+          "C46_001"
+        ]
+      },
+      "cpp": {
+        "state": "explicit requirement",
+        "finding": "Product-specific CPP legalized by Haitian consular official and homologated.",
+        "evidence_ids": [
+          "C46_001"
+        ]
+      },
+      "clock": {
+        "state": "explicit requirement",
+        "finding": "Six to nine months stated processing, not observed time or automatic deadline.",
+        "evidence_ids": [
+          "C46_002"
+        ]
+      },
+      "domestic_discretion": {
+        "state": "explicit requirement",
+        "finding": "Local commission may accept or reject with reasons.",
+        "evidence_ids": [
+          "C46_002"
+        ]
       }
     },
+    "cases": {
+      "A": {
+        "status": "full eligibility unresolved",
+        "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+        "evidence_ids": [
+          "C46_001",
+          "C46_002"
+        ]
+      },
+      "B": {
+        "status": "full eligibility unresolved",
+        "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+        "evidence_ids": [
+          "C46_001",
+          "C46_002"
+        ]
+      },
+      "C": {
+        "status": "full eligibility unresolved",
+        "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+        "evidence_ids": [
+          "C46_001",
+          "C46_002"
+        ]
+      },
+      "D": {
+        "status": "full eligibility unresolved",
+        "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+        "evidence_ids": [
+          "C46_001",
+          "C46_002"
+        ]
+      },
+      "E": {
+        "status": "full eligibility unresolved",
+        "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+        "evidence_ids": [
+          "C46_001",
+          "C46_002"
+        ]
+      }
+    },
+    "pairwise_gates": {
+      "B-A": {
+        "switch_established": null,
+        "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+      },
+      "B-C": {
+        "switch_established": null,
+        "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+      },
+      "B-D": {
+        "switch_established": null,
+        "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+      },
+      "B-E": {
+        "switch_established": null,
+        "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+      }
+    },
+    "shared_authorization_effect": null,
     "evidence": [
       {
-        "clause_id": "HTI-SUP-61b94fba-26380",
-        "source_url": "https://www.haitidocs.org/doc/prh-projet-loi-medicaments/text",
-        "raw_sha256": "61b94fba5aafdfb4a2dddd08c6f124adac92ce618911d88b850772285a7bf183",
-        "text_sha256": "aaa28a5b8ea599cada7a5d9e58393b8e1d0fe9462b88b89f2fb3ebe06221573e",
-        "start_offset": 26380,
-        "end_offset": 27484,
-        "verbatim_extracted_text": "Article 32-4.- Tout produit pharmaceutique importé doit avoir l’Autorisation de Mise sur le\nMarché du pays d’origine et/ou provenir d’un laboratoire pré-qualifié par une\ninstance d’accréditation internationalement reconnue.\nNéanmoins dans les cas d’urgence dûment constatée, des licences spéciales et\nprovisoires dérogeant aux procédures normales et régulières pourront être\naccordées pour l’importation de produits pharmaceutiques par le Ministre de la\nSanté Publique et de la Population.\nArticle 33.-\n\nSeuls les médicaments ayant obtenu une Autorisation de Mise sur le Marché\npeuvent être importés et vendus sur le marché haïtien.\nArticle 33-1.- Cette Autorisation de Mise sur le Marché qui appartient au fabricant est\ndélivrée pour une période de cinq (5) années consécutives, et est renouvelable\npour une période quinquennale.\nLes formes et conditions de cette autorisation sont fixées par les services\ncompétents du MSPP.\nArticle 33-2.- Le Ministère de la Santé Publique et de la Population, pour les commodités de\nson contrôle, peut exiger de l’importateur toutes autres pièces jugées\nnécessaires.\n",
+        "evidence_id": "C46_001",
+        "document_index": 46,
+        "document_id": "F250_dbf5f9bcf2c775bdc826",
+        "raw_sha256": "f739db3cbb211923c9d5d336eb7083278d686ca05d1f2bd0ae70286e655c2fb6",
+        "text_file": null,
+        "source_text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+        "text_start": 23873,
+        "text_end": 26610,
+        "exact_original_text": "1.4.1 Demande d’accréditation d’un nouveau laboratoire\nTout nouveau laboratoire doit recevoir une lettre d’accréditation de la DPM/MT avant de \ncommencer tout processus d’enregistrement sanitaire d’un médicament.\n\t\n\t\n\t\nResponsabilité \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nDocumentation\nPour faire une demande d’accréditation, un laboratoire, par le biais de son représentant, \ndoit présenter les documents suivants :\n1.\t lettre de demande d’enregistrement\n2. profil de la compagnie (légalisé et homologué en français)\n3. certificat des Bonnes Pratiques de Fabrication de date récente délivré par un organisme \ncompétent (OMS, ISO et autres) légalisé et homologué ou une demande d’inspection \ndes laboratoires de fabrication non certifiés par les inspecteurs de la DPM/MT aux frais \ndu demandeur\n4.\t liste des produits fabriqués par le laboratoire\n\t\n\t\n1.4.2 Enregistrement sanitaire d’une spécialité pharmaceutique\n\t\n\t\nResponsabilité \n \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nONG\n        \n\t\nDocumentation\nPour faire une demande d’enregistrement sanitaire pour un produit pharmaceutique, une \ninstitution doit présenter les documents suivants :\n*\t lettre de demande d’enregistrement sanitaire du ou des produits pharmaceutiques\n* profil(s) de la ou des compagnies légalisé(s) et homologué(s) en français intervenant \ndans la fabrication et l’emballage des produits \n* certificat(s) de Bonnes Pratiques de Fabrication de date récente délivré par un organisme com-\npétent (OMS, ISO et autres) légalisé(s) et homologué(s) ou l’inspection des laboratoires de \nfabrication non certifiés par les inspecteurs de la DPM/MT réalisée aux frais du demandeur.\n\n\nPAGE 15\n15\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n* certificat ISO exigible pour les laboratoires fabriquant des produits injectables\n* certificat de produit pharmaceutique, pour chaque produit à enregistrer, légalisé par un \nagent consulaire haïtien et homologué. \n*\t formulaire de demande d’Autorisation de Mise sur le Marché (AMM) rempli pour cha-\ncune des formes et pour chaque dosage du produit.      \n*\t document technique en anglais, français ou en créole contenant les informations \nsuivantes:\n-\t\ndossier chimique\n-\t\ndossier de fabrication\n-\t\nprocédures de contrôle de la qualité \n-\t\ndossier de stabilité \n-\t\nprospectus (français, anglais)\n-\t\ndossier toxicologique et pharmacologique (études sur les animaux) et les études de \nbiodisponibilité\n-\t\nétudes cliniques\n-\t\ntrois (3) échantillons format vente pour chaque forme et pour chaque dosage\n-\t\ntrois échantillons format vente à la première commande\n* frais de 5000 gourdes en chèque certifié pour chaque présentation du produit (chaque \nforme, chaque dosage)\n\t\n\t\n1.4.3 Enregistrement Sanitaire",
+        "section": "§1.4.1–1.4.2",
+        "source_url": "https://mspp.gouv.ht/sites/default/files/publications/Normes%20et%20Procedures%20de%20la%20DPMMT.pdf",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "visual_original_checked": false,
+        "ocr_page": null,
+        "research_english_rendering": "A new manufacturer needs prior accreditation. Submit legalized company profiles, GMP evidence or local inspection, legalized CPP, a technical dossier in English/French/Creole including clinical studies, samples and 5,000 gourdes per presentation.",
+        "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+        "clause_id": "C46_001",
+        "verbatim_extracted_text": "1.4.1 Demande d’accréditation d’un nouveau laboratoire\nTout nouveau laboratoire doit recevoir une lettre d’accréditation de la DPM/MT avant de \ncommencer tout processus d’enregistrement sanitaire d’un médicament.\n\t\n\t\n\t\nResponsabilité \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nDocumentation\nPour faire une demande d’accréditation, un laboratoire, par le biais de son représentant, \ndoit présenter les documents suivants :\n1.\t lettre de demande d’enregistrement\n2. profil de la compagnie (légalisé et homologué en français)\n3. certificat des Bonnes Pratiques de Fabrication de date récente délivré par un organisme \ncompétent (OMS, ISO et autres) légalisé et homologué ou une demande d’inspection \ndes laboratoires de fabrication non certifiés par les inspecteurs de la DPM/MT aux frais \ndu demandeur\n4.\t liste des produits fabriqués par le laboratoire\n\t\n\t\n1.4.2 Enregistrement sanitaire d’une spécialité pharmaceutique\n\t\n\t\nResponsabilité \n \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nONG\n        \n\t\nDocumentation\nPour faire une demande d’enregistrement sanitaire pour un produit pharmaceutique, une \ninstitution doit présenter les documents suivants :\n*\t lettre de demande d’enregistrement sanitaire du ou des produits pharmaceutiques\n* profil(s) de la ou des compagnies légalisé(s) et homologué(s) en français intervenant \ndans la fabrication et l’emballage des produits \n* certificat(s) de Bonnes Pratiques de Fabrication de date récente délivré par un organisme com-\npétent (OMS, ISO et autres) légalisé(s) et homologué(s) ou l’inspection des laboratoires de \nfabrication non certifiés par les inspecteurs de la DPM/MT réalisée aux frais du demandeur.\n\n\nPAGE 15\n15\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n* certificat ISO exigible pour les laboratoires fabriquant des produits injectables\n* certificat de produit pharmaceutique, pour chaque produit à enregistrer, légalisé par un \nagent consulaire haïtien et homologué. \n*\t formulaire de demande d’Autorisation de Mise sur le Marché (AMM) rempli pour cha-\ncune des formes et pour chaque dosage du produit.      \n*\t document technique en anglais, français ou en créole contenant les informations \nsuivantes:\n-\t\ndossier chimique\n-\t\ndossier de fabrication\n-\t\nprocédures de contrôle de la qualité \n-\t\ndossier de stabilité \n-\t\nprospectus (français, anglais)\n-\t\ndossier toxicologique et pharmacologique (études sur les animaux) et les études de \nbiodisponibilité\n-\t\nétudes cliniques\n-\t\ntrois (3) échantillons format vente pour chaque forme et pour chaque dosage\n-\t\ntrois échantillons format vente à la première commande\n* frais de 5000 gourdes en chèque certifié pour chaque présentation du produit (chaque \nforme, chaque dosage)\n\t\n\t\n1.4.3 Enregistrement Sanitaire",
+        "text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+        "start_offset": 23873,
+        "end_offset": 26610,
+        "section_article": "§1.4.1–1.4.2",
         "pdf_page": null,
-        "language": "fr",
-        "language_status": "Supplemental original-language source; Draft Bill reproduced by non-official document archive; OCR; OCR transcription",
-        "evidence_tier": "Supplemental: Draft Bill reproduced by non-official document archive; OCR",
-        "version_alignment": "OCR transcription. Original scan controls; source spelling retained. Draft Bill transcription; enactment and transcription accuracy remain qualified. No new country-year state is inferred from this supplemental review.",
-        "translation_review": null
+        "language": "French",
+        "checked_english_summary": "A new manufacturer needs prior accreditation. Submit legalized company profiles, GMP evidence or local inspection, legalized CPP, a technical dossier in English/French/Creole including clinical studies, samples and 5,000 gourdes per presentation."
+      },
+      {
+        "evidence_id": "C46_002",
+        "document_index": 46,
+        "document_id": "F250_dbf5f9bcf2c775bdc826",
+        "raw_sha256": "f739db3cbb211923c9d5d336eb7083278d686ca05d1f2bd0ae70286e655c2fb6",
+        "text_file": null,
+        "source_text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+        "text_start": 33644,
+        "text_end": 39539,
+        "exact_original_text": "1.5.1.1  Enregistrement sanitaire d’une spécialité\n\t\n\t\n\t\nL’enregistrement sanitaire d’une spécialité comprend quatre (4) étapes : \n-\t\nréception des dossiers \n-\t\nanalyse des dossiers\n-\t\névaluation du produit pharmaceutique  (acceptation ou rejet)\n- \npréparation du certificat AMM \nLe traitement du dossier d’enregistrement sanitaire d’une spécialité est réalisé sur une \npériode allant de six (6) à neuf (9) mois.\n\t\n\t\nRéception des dossiers d’enregistrement sanitaire d’une spécialité \n\t\n\t\nResponsabilité \n\t\nAgences de produits pharmaceutiques\n \nFabricants\n\t\nRéception \n\t\nService d’Enregistrement Sanitaire de la DPM/MT.\n\t\n\t\nDocuments\nCahiers d’enregistrement sanitaire, check-list de documents à soumettre, liste de code ES.\n\t\n\t\nMode opératoire\n*\t Le demandeur adresse une correspondance à la Direction de la Pharmacie pour s’assurer \nde la conformité des noms des spécialités\n*\t Après approbation de la DPM/MT, le demandeur soumet à la Direction de la Pharmacie \n(sur copie dure ou via internet) la liste des produits à enregistrer et choisit, de concert \n\n\nPAGE 20\n20\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \navec le service d’enregistrement sanitaire, la date d’enregistrement du ou des produits\n*\t La réception des dossiers se fait au niveau de l’enregistrement sanitaire par un analyste \ndu service.\n* L’analyste reçoit le dossier et vérifie les informations suivantes :\n- \t que le laboratoire est enregistré et agréé par la DPM/MT \n- \t que tous les documents exigés sont présents et conformes aux exigences de la DPM/MT \n*\t Tout dossier incomplet ou non conforme est immédiatement retourné à son expéditeur \navec une note indiquant les documents manquants pour les suites nécessaires\n*\t Pour un dossier conforme :\n-\t\nun numéro de code d’enregistrement sanitaire est assigné à ce dossier. Ce numéro \nde code caractérise le produit au niveau de la DPM/MT et est conservé au moment \ndu renouvellement\n-\t\nLe produit est ensuite enregistré dans le cahier d’enregistrement sanitaire de la \nDPM/MT et dans un fichier informatique par ordre chronologique sous son numéro \nde code\n* La réceptionniste vérifie le montant du chèque, l’encaisse et donne un reçu pour le \nmontant perçu.\n\t\nAnalyse du dossier d’enregistrement sanitaire\n\t\n\t\nResponsabilité \nL’analyse du dossier d’enregistrement sanitaire est une évaluation technique basée sur bé-\nnéfices/risques et réalisée par une équipe pluridisciplinaire du service d’enregistrement \nsanitaire de la DPM/MT.\n\t\n\t\nDocuments \nPharmacopées USP, Peur, BP\nMartindale The Extra Pharmacopoeia, Remington\nSites Web: CDER, biam2.org, vidalpro.net, OMS \nLogiciel d’ES de la DPM/MT\nThe Merck Index\nBPF \n\t\n\t\nMode opératoire  \n \n \n* Utiliser les pharmacopées USP, Peur, BP et les BPF et les sites web pour faire :\n-\t\nl’évaluation des dossiers chimiques de tous les constituants du produit (Les  procé-\ndures maisons doivent être bien définies et validées)\n\n\nPAGE 21\n21\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n-\t\nl’évaluation des risques au cours de la fabrication \n-\t\nl’évaluation de la stabilité du produit\n* Utiliser le Martindale, le Remington et les sites web pour faire :\n- \nl’évaluation bénéfices/risques  \n-\t\nl’évaluation du prospectus \n* Noter les informations pertinentes sur la fiche d’évaluation du produit\n*\t Utiliser le logiciel d’ES pour enregistrer les informations sur le produit\n* Conserver la  fiche pour évaluation par la Commission du Médicament \n\t\n\t\n\t\n\t\nRecommandations de la Commission du médicament\n\t\n\t\nResponsabilité      \nUne commission du médicament multidisciplinaire présidée par le Ministre de la  Santé \nse réunit sur une base mensuelle pour l’évaluation des dossiers de médicaments analy-\nsés par la DPM/MT. \n\t\n\t\nDocuments \nFiche d’enregistrement sanitaire, photocopies de référence bibliographique si nécessaire \n(partie intéressée soulignée), prospectus et rapport d’évaluation du prospectus, rapport \nd’évaluation de la stabilité, rapport d’évaluation bénéfices/risques (service ES).\n\t\n\t\nMode opératoire \n* La commission fait une analyse bénéfices/risques pour la population sur la base des \ndocuments précités\n* Si le rapport bénéfices/risques présenté par le service d’enregistrement sanitaire est \npositif, la commission accepte le produit ; dans le cas contraire, elle le rejette.\n*\t Un procès-verbal d’évaluation est dressé pour le produit en question\n* Une note est adressée au demandeur d’AMM pour lui signifier le statut du produit. Si \nle produit est rejeté, la ou les cause(s) du rejet.\n\t\n\t\nPréparation du certificat d’AMM\n\t\n\t\nResponsabilité \n\t\n\t\n\t\nService d’Enregistrement Sanitaire\n\t\n\t\n\t\nDirection DPM/MT\n\t\n\t\n\t\nDirection Générale\n\t\n\t\n\n\nPAGE 22\n22\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n\t\n\t\nDocuments \nProcès-verbal d’évaluation du produit, formulaire de demande  d’autorisation de mise \nsur le marché du produit, cahier AMM\n\t\n\t\nMode opératoire\n* Le certificat AMM pour les produits acceptés par la commission du médicament est \npréparé par le service d’enregistrement sanitaire \n* Le certificat AMM est ensuite signé par le/la Directeur (trice) de la DPM/MT puis par \nle/la Directeur (trice) Général (e) du MSPP\n*  Le certificat signé et scellé est enregistré dans le cahier AMM de la DPM/MT\n*\t Le produit agréé rentre dans la liste des médicaments autorisés par la DPM/MT \n* Une copie du certificat est conservée au service d’enregistrement sanitaire de la DPM/\nMT pendant cinq (5) ans et l’original délivré au propriétaire d’AMM. Ce certificat est \nvalable pour une période de cinq (5) ans\n* Un dossier  comprenant le formulaire de demande d’autorisation, les spécifications du \nproduit fini ou le certificat d’analyse de référence, le procès-verbal de la commission et \nle prospectus sera conservé au service d’enregistrement sanitaire et le reste du dossier \nenvoyé aux archives\n\t\n\t\n1.5.1.2",
+        "section": "§1.5.1.1 pharmaceutical specialties",
+        "source_url": "https://mspp.gouv.ht/sites/default/files/publications/Normes%20et%20Procedures%20de%20la%20DPMMT.pdf",
+        "extraction_method": "PyMuPDF native text; no OCR",
+        "visual_original_checked": false,
+        "ocr_page": null,
+        "research_english_rendering": "The four-stage local process includes receipt, analysis, acceptance/rejection evaluation and an MA certificate. The stated processing period is six to nine months; a local multidisciplinary review and commission assess benefit and risk.",
+        "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+        "clause_id": "C46_002",
+        "verbatim_extracted_text": "1.5.1.1  Enregistrement sanitaire d’une spécialité\n\t\n\t\n\t\nL’enregistrement sanitaire d’une spécialité comprend quatre (4) étapes : \n-\t\nréception des dossiers \n-\t\nanalyse des dossiers\n-\t\névaluation du produit pharmaceutique  (acceptation ou rejet)\n- \npréparation du certificat AMM \nLe traitement du dossier d’enregistrement sanitaire d’une spécialité est réalisé sur une \npériode allant de six (6) à neuf (9) mois.\n\t\n\t\nRéception des dossiers d’enregistrement sanitaire d’une spécialité \n\t\n\t\nResponsabilité \n\t\nAgences de produits pharmaceutiques\n \nFabricants\n\t\nRéception \n\t\nService d’Enregistrement Sanitaire de la DPM/MT.\n\t\n\t\nDocuments\nCahiers d’enregistrement sanitaire, check-list de documents à soumettre, liste de code ES.\n\t\n\t\nMode opératoire\n*\t Le demandeur adresse une correspondance à la Direction de la Pharmacie pour s’assurer \nde la conformité des noms des spécialités\n*\t Après approbation de la DPM/MT, le demandeur soumet à la Direction de la Pharmacie \n(sur copie dure ou via internet) la liste des produits à enregistrer et choisit, de concert \n\n\nPAGE 20\n20\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \navec le service d’enregistrement sanitaire, la date d’enregistrement du ou des produits\n*\t La réception des dossiers se fait au niveau de l’enregistrement sanitaire par un analyste \ndu service.\n* L’analyste reçoit le dossier et vérifie les informations suivantes :\n- \t que le laboratoire est enregistré et agréé par la DPM/MT \n- \t que tous les documents exigés sont présents et conformes aux exigences de la DPM/MT \n*\t Tout dossier incomplet ou non conforme est immédiatement retourné à son expéditeur \navec une note indiquant les documents manquants pour les suites nécessaires\n*\t Pour un dossier conforme :\n-\t\nun numéro de code d’enregistrement sanitaire est assigné à ce dossier. Ce numéro \nde code caractérise le produit au niveau de la DPM/MT et est conservé au moment \ndu renouvellement\n-\t\nLe produit est ensuite enregistré dans le cahier d’enregistrement sanitaire de la \nDPM/MT et dans un fichier informatique par ordre chronologique sous son numéro \nde code\n* La réceptionniste vérifie le montant du chèque, l’encaisse et donne un reçu pour le \nmontant perçu.\n\t\nAnalyse du dossier d’enregistrement sanitaire\n\t\n\t\nResponsabilité \nL’analyse du dossier d’enregistrement sanitaire est une évaluation technique basée sur bé-\nnéfices/risques et réalisée par une équipe pluridisciplinaire du service d’enregistrement \nsanitaire de la DPM/MT.\n\t\n\t\nDocuments \nPharmacopées USP, Peur, BP\nMartindale The Extra Pharmacopoeia, Remington\nSites Web: CDER, biam2.org, vidalpro.net, OMS \nLogiciel d’ES de la DPM/MT\nThe Merck Index\nBPF \n\t\n\t\nMode opératoire  \n \n \n* Utiliser les pharmacopées USP, Peur, BP et les BPF et les sites web pour faire :\n-\t\nl’évaluation des dossiers chimiques de tous les constituants du produit (Les  procé-\ndures maisons doivent être bien définies et validées)\n\n\nPAGE 21\n21\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n-\t\nl’évaluation des risques au cours de la fabrication \n-\t\nl’évaluation de la stabilité du produit\n* Utiliser le Martindale, le Remington et les sites web pour faire :\n- \nl’évaluation bénéfices/risques  \n-\t\nl’évaluation du prospectus \n* Noter les informations pertinentes sur la fiche d’évaluation du produit\n*\t Utiliser le logiciel d’ES pour enregistrer les informations sur le produit\n* Conserver la  fiche pour évaluation par la Commission du Médicament \n\t\n\t\n\t\n\t\nRecommandations de la Commission du médicament\n\t\n\t\nResponsabilité      \nUne commission du médicament multidisciplinaire présidée par le Ministre de la  Santé \nse réunit sur une base mensuelle pour l’évaluation des dossiers de médicaments analy-\nsés par la DPM/MT. \n\t\n\t\nDocuments \nFiche d’enregistrement sanitaire, photocopies de référence bibliographique si nécessaire \n(partie intéressée soulignée), prospectus et rapport d’évaluation du prospectus, rapport \nd’évaluation de la stabilité, rapport d’évaluation bénéfices/risques (service ES).\n\t\n\t\nMode opératoire \n* La commission fait une analyse bénéfices/risques pour la population sur la base des \ndocuments précités\n* Si le rapport bénéfices/risques présenté par le service d’enregistrement sanitaire est \npositif, la commission accepte le produit ; dans le cas contraire, elle le rejette.\n*\t Un procès-verbal d’évaluation est dressé pour le produit en question\n* Une note est adressée au demandeur d’AMM pour lui signifier le statut du produit. Si \nle produit est rejeté, la ou les cause(s) du rejet.\n\t\n\t\nPréparation du certificat d’AMM\n\t\n\t\nResponsabilité \n\t\n\t\n\t\nService d’Enregistrement Sanitaire\n\t\n\t\n\t\nDirection DPM/MT\n\t\n\t\n\t\nDirection Générale\n\t\n\t\n\n\nPAGE 22\n22\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n\t\n\t\nDocuments \nProcès-verbal d’évaluation du produit, formulaire de demande  d’autorisation de mise \nsur le marché du produit, cahier AMM\n\t\n\t\nMode opératoire\n* Le certificat AMM pour les produits acceptés par la commission du médicament est \npréparé par le service d’enregistrement sanitaire \n* Le certificat AMM est ensuite signé par le/la Directeur (trice) de la DPM/MT puis par \nle/la Directeur (trice) Général (e) du MSPP\n*  Le certificat signé et scellé est enregistré dans le cahier AMM de la DPM/MT\n*\t Le produit agréé rentre dans la liste des médicaments autorisés par la DPM/MT \n* Une copie du certificat est conservée au service d’enregistrement sanitaire de la DPM/\nMT pendant cinq (5) ans et l’original délivré au propriétaire d’AMM. Ce certificat est \nvalable pour une période de cinq (5) ans\n* Un dossier  comprenant le formulaire de demande d’autorisation, les spécifications du \nproduit fini ou le certificat d’analyse de référence, le procès-verbal de la commission et \nle prospectus sera conservé au service d’enregistrement sanitaire et le reste du dossier \nenvoyé aux archives\n\t\n\t\n1.5.1.2",
+        "text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+        "start_offset": 33644,
+        "end_offset": 39539,
+        "section_article": "§1.5.1.1 pharmaceutical specialties",
+        "pdf_page": null,
+        "language": "French",
+        "checked_english_summary": "The four-stage local process includes receipt, analysis, acceptance/rejection evaluation and an MA certificate. The stated processing period is six to nine months; a local multidisciplinary review and commission assess benefit and risk."
       }
     ],
-    "source_scope": "Supplemental evidence, scope/version retained in source records",
-    "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+    "other_reviewed_routes": [],
+    "review_details": {
+      "record_id": "HTI_EXP_C_46",
+      "iso3": "HTI",
+      "country": "Haiti",
+      "pathway": "Ordinary sanitary registration of a pharmaceutical specialty",
+      "source_url": "https://mspp.gouv.ht/sites/default/files/publications/Normes%20et%20Procedures%20de%20la%20DPMMT.pdf",
+      "document_id": "F250_dbf5f9bcf2c775bdc826",
+      "raw_sha256": "f739db3cbb211923c9d5d336eb7083278d686ca05d1f2bd0ae70286e655c2fb6",
+      "text_file": null,
+      "text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+      "language": "French",
+      "genre": "Official administrative norms and procedures",
+      "scope": "Initial human medicinal product authorization",
+      "version_note": "July 2008 DPM/MT norms, chapter 1; no demonstrated amendment/supersession.",
+      "primary_comparison": true,
+      "selection_recommendation": "preferred_primary",
+      "selection_reason": "Adds substantive ordinary initial-MA requirements for Haiti, outside previous 89; does not establish reliance absence.",
+      "components23": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "Pharmaceutical specialties require local registration; not confined to generics.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "explicit requirement",
+          "finding": "Clinical studies required in technical dossier; source does not establish Haiti-specific trial requirement.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Recent legalized GMP evidence or DPM/MT inspection at applicant cost.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "DPM/MT technical and medicines-commission benefit–risk assessment.",
+          "evidence_ids": [
+            "C46_002"
+          ]
+        },
+        "local_representative": {
+          "state": "explicit requirement",
+          "finding": "Manufacturer accreditation is requested through its representative.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "5,000 gourdes per presentation (form and strength), stated in 2008 source; not inflation-adjusted or assumed current.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Company profiles French legalized/homologated; technical dossier English, French or Creole.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "Product-specific CPP legalized by Haitian consular official and homologated.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Six to nine months stated processing, not observed time or automatic deadline.",
+          "evidence_ids": [
+            "C46_002"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "explicit requirement",
+          "finding": "Local commission may accept or reject with reasons.",
+          "evidence_ids": [
+            "C46_002"
+          ]
+        }
+      },
+      "gates": {
+        "complete_report_gate": null,
+        "nonpublic_report_or_public_domain_exclusion": null,
+        "second_approval_selected_route": null,
+        "one_approval_alternative_described": null,
+        "ambiguous_additional_full_report_gate": null
+      },
+      "gate_notes": {},
+      "cases": {
+        "A": {
+          "status": "full eligibility unresolved",
+          "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+          "evidence_ids": [
+            "C46_001",
+            "C46_002"
+          ]
+        },
+        "B": {
+          "status": "full eligibility unresolved",
+          "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+          "evidence_ids": [
+            "C46_001",
+            "C46_002"
+          ]
+        },
+        "C": {
+          "status": "full eligibility unresolved",
+          "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+          "evidence_ids": [
+            "C46_001",
+            "C46_002"
+          ]
+        },
+        "D": {
+          "status": "full eligibility unresolved",
+          "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+          "evidence_ids": [
+            "C46_001",
+            "C46_002"
+          ]
+        },
+        "E": {
+          "status": "full eligibility unresolved",
+          "finding": "Ordinary initial MA remains locally evaluated; FDA/EC approvals and report/permission counterfactuals do not establish a foreign-approval shortcut in this source. Accreditation, legalized CPP and other local administrative requirements remain.",
+          "evidence_ids": [
+            "C46_001",
+            "C46_002"
+          ]
+        }
+      },
+      "pairwise_gates": {
+        "B-A": {
+          "switch_established": null,
+          "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+        },
+        "B-C": {
+          "switch_established": null,
+          "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+        },
+        "B-D": {
+          "switch_established": null,
+          "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+        },
+        "B-E": {
+          "switch_established": null,
+          "finding": "No unconditional full-eligibility switch established; see route-specific cases and component requirements."
+        }
+      },
+      "evidence_ids": [
+        "C46_001",
+        "C46_002"
+      ],
+      "evidence": [
+        {
+          "evidence_id": "C46_001",
+          "document_index": 46,
+          "document_id": "F250_dbf5f9bcf2c775bdc826",
+          "raw_sha256": "f739db3cbb211923c9d5d336eb7083278d686ca05d1f2bd0ae70286e655c2fb6",
+          "text_file": null,
+          "source_text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+          "text_start": 23873,
+          "text_end": 26610,
+          "exact_original_text": "1.4.1 Demande d’accréditation d’un nouveau laboratoire\nTout nouveau laboratoire doit recevoir une lettre d’accréditation de la DPM/MT avant de \ncommencer tout processus d’enregistrement sanitaire d’un médicament.\n\t\n\t\n\t\nResponsabilité \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nDocumentation\nPour faire une demande d’accréditation, un laboratoire, par le biais de son représentant, \ndoit présenter les documents suivants :\n1.\t lettre de demande d’enregistrement\n2. profil de la compagnie (légalisé et homologué en français)\n3. certificat des Bonnes Pratiques de Fabrication de date récente délivré par un organisme \ncompétent (OMS, ISO et autres) légalisé et homologué ou une demande d’inspection \ndes laboratoires de fabrication non certifiés par les inspecteurs de la DPM/MT aux frais \ndu demandeur\n4.\t liste des produits fabriqués par le laboratoire\n\t\n\t\n1.4.2 Enregistrement sanitaire d’une spécialité pharmaceutique\n\t\n\t\nResponsabilité \n \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nONG\n        \n\t\nDocumentation\nPour faire une demande d’enregistrement sanitaire pour un produit pharmaceutique, une \ninstitution doit présenter les documents suivants :\n*\t lettre de demande d’enregistrement sanitaire du ou des produits pharmaceutiques\n* profil(s) de la ou des compagnies légalisé(s) et homologué(s) en français intervenant \ndans la fabrication et l’emballage des produits \n* certificat(s) de Bonnes Pratiques de Fabrication de date récente délivré par un organisme com-\npétent (OMS, ISO et autres) légalisé(s) et homologué(s) ou l’inspection des laboratoires de \nfabrication non certifiés par les inspecteurs de la DPM/MT réalisée aux frais du demandeur.\n\n\nPAGE 15\n15\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n* certificat ISO exigible pour les laboratoires fabriquant des produits injectables\n* certificat de produit pharmaceutique, pour chaque produit à enregistrer, légalisé par un \nagent consulaire haïtien et homologué. \n*\t formulaire de demande d’Autorisation de Mise sur le Marché (AMM) rempli pour cha-\ncune des formes et pour chaque dosage du produit.      \n*\t document technique en anglais, français ou en créole contenant les informations \nsuivantes:\n-\t\ndossier chimique\n-\t\ndossier de fabrication\n-\t\nprocédures de contrôle de la qualité \n-\t\ndossier de stabilité \n-\t\nprospectus (français, anglais)\n-\t\ndossier toxicologique et pharmacologique (études sur les animaux) et les études de \nbiodisponibilité\n-\t\nétudes cliniques\n-\t\ntrois (3) échantillons format vente pour chaque forme et pour chaque dosage\n-\t\ntrois échantillons format vente à la première commande\n* frais de 5000 gourdes en chèque certifié pour chaque présentation du produit (chaque \nforme, chaque dosage)\n\t\n\t\n1.4.3 Enregistrement Sanitaire",
+          "section": "§1.4.1–1.4.2",
+          "source_url": "https://mspp.gouv.ht/sites/default/files/publications/Normes%20et%20Procedures%20de%20la%20DPMMT.pdf",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": "A new manufacturer needs prior accreditation. Submit legalized company profiles, GMP evidence or local inspection, legalized CPP, a technical dossier in English/French/Creole including clinical studies, samples and 5,000 gourdes per presentation.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C46_001",
+          "verbatim_extracted_text": "1.4.1 Demande d’accréditation d’un nouveau laboratoire\nTout nouveau laboratoire doit recevoir une lettre d’accréditation de la DPM/MT avant de \ncommencer tout processus d’enregistrement sanitaire d’un médicament.\n\t\n\t\n\t\nResponsabilité \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nDocumentation\nPour faire une demande d’accréditation, un laboratoire, par le biais de son représentant, \ndoit présenter les documents suivants :\n1.\t lettre de demande d’enregistrement\n2. profil de la compagnie (légalisé et homologué en français)\n3. certificat des Bonnes Pratiques de Fabrication de date récente délivré par un organisme \ncompétent (OMS, ISO et autres) légalisé et homologué ou une demande d’inspection \ndes laboratoires de fabrication non certifiés par les inspecteurs de la DPM/MT aux frais \ndu demandeur\n4.\t liste des produits fabriqués par le laboratoire\n\t\n\t\n1.4.2 Enregistrement sanitaire d’une spécialité pharmaceutique\n\t\n\t\nResponsabilité \n \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nONG\n        \n\t\nDocumentation\nPour faire une demande d’enregistrement sanitaire pour un produit pharmaceutique, une \ninstitution doit présenter les documents suivants :\n*\t lettre de demande d’enregistrement sanitaire du ou des produits pharmaceutiques\n* profil(s) de la ou des compagnies légalisé(s) et homologué(s) en français intervenant \ndans la fabrication et l’emballage des produits \n* certificat(s) de Bonnes Pratiques de Fabrication de date récente délivré par un organisme com-\npétent (OMS, ISO et autres) légalisé(s) et homologué(s) ou l’inspection des laboratoires de \nfabrication non certifiés par les inspecteurs de la DPM/MT réalisée aux frais du demandeur.\n\n\nPAGE 15\n15\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n* certificat ISO exigible pour les laboratoires fabriquant des produits injectables\n* certificat de produit pharmaceutique, pour chaque produit à enregistrer, légalisé par un \nagent consulaire haïtien et homologué. \n*\t formulaire de demande d’Autorisation de Mise sur le Marché (AMM) rempli pour cha-\ncune des formes et pour chaque dosage du produit.      \n*\t document technique en anglais, français ou en créole contenant les informations \nsuivantes:\n-\t\ndossier chimique\n-\t\ndossier de fabrication\n-\t\nprocédures de contrôle de la qualité \n-\t\ndossier de stabilité \n-\t\nprospectus (français, anglais)\n-\t\ndossier toxicologique et pharmacologique (études sur les animaux) et les études de \nbiodisponibilité\n-\t\nétudes cliniques\n-\t\ntrois (3) échantillons format vente pour chaque forme et pour chaque dosage\n-\t\ntrois échantillons format vente à la première commande\n* frais de 5000 gourdes en chèque certifié pour chaque présentation du produit (chaque \nforme, chaque dosage)\n\t\n\t\n1.4.3 Enregistrement Sanitaire",
+          "text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+          "start_offset": 23873,
+          "end_offset": 26610,
+          "section_article": "§1.4.1–1.4.2",
+          "pdf_page": null,
+          "language": "French",
+          "checked_english_summary": "A new manufacturer needs prior accreditation. Submit legalized company profiles, GMP evidence or local inspection, legalized CPP, a technical dossier in English/French/Creole including clinical studies, samples and 5,000 gourdes per presentation."
+        },
+        {
+          "evidence_id": "C46_002",
+          "document_index": 46,
+          "document_id": "F250_dbf5f9bcf2c775bdc826",
+          "raw_sha256": "f739db3cbb211923c9d5d336eb7083278d686ca05d1f2bd0ae70286e655c2fb6",
+          "text_file": null,
+          "source_text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+          "text_start": 33644,
+          "text_end": 39539,
+          "exact_original_text": "1.5.1.1  Enregistrement sanitaire d’une spécialité\n\t\n\t\n\t\nL’enregistrement sanitaire d’une spécialité comprend quatre (4) étapes : \n-\t\nréception des dossiers \n-\t\nanalyse des dossiers\n-\t\névaluation du produit pharmaceutique  (acceptation ou rejet)\n- \npréparation du certificat AMM \nLe traitement du dossier d’enregistrement sanitaire d’une spécialité est réalisé sur une \npériode allant de six (6) à neuf (9) mois.\n\t\n\t\nRéception des dossiers d’enregistrement sanitaire d’une spécialité \n\t\n\t\nResponsabilité \n\t\nAgences de produits pharmaceutiques\n \nFabricants\n\t\nRéception \n\t\nService d’Enregistrement Sanitaire de la DPM/MT.\n\t\n\t\nDocuments\nCahiers d’enregistrement sanitaire, check-list de documents à soumettre, liste de code ES.\n\t\n\t\nMode opératoire\n*\t Le demandeur adresse une correspondance à la Direction de la Pharmacie pour s’assurer \nde la conformité des noms des spécialités\n*\t Après approbation de la DPM/MT, le demandeur soumet à la Direction de la Pharmacie \n(sur copie dure ou via internet) la liste des produits à enregistrer et choisit, de concert \n\n\nPAGE 20\n20\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \navec le service d’enregistrement sanitaire, la date d’enregistrement du ou des produits\n*\t La réception des dossiers se fait au niveau de l’enregistrement sanitaire par un analyste \ndu service.\n* L’analyste reçoit le dossier et vérifie les informations suivantes :\n- \t que le laboratoire est enregistré et agréé par la DPM/MT \n- \t que tous les documents exigés sont présents et conformes aux exigences de la DPM/MT \n*\t Tout dossier incomplet ou non conforme est immédiatement retourné à son expéditeur \navec une note indiquant les documents manquants pour les suites nécessaires\n*\t Pour un dossier conforme :\n-\t\nun numéro de code d’enregistrement sanitaire est assigné à ce dossier. Ce numéro \nde code caractérise le produit au niveau de la DPM/MT et est conservé au moment \ndu renouvellement\n-\t\nLe produit est ensuite enregistré dans le cahier d’enregistrement sanitaire de la \nDPM/MT et dans un fichier informatique par ordre chronologique sous son numéro \nde code\n* La réceptionniste vérifie le montant du chèque, l’encaisse et donne un reçu pour le \nmontant perçu.\n\t\nAnalyse du dossier d’enregistrement sanitaire\n\t\n\t\nResponsabilité \nL’analyse du dossier d’enregistrement sanitaire est une évaluation technique basée sur bé-\nnéfices/risques et réalisée par une équipe pluridisciplinaire du service d’enregistrement \nsanitaire de la DPM/MT.\n\t\n\t\nDocuments \nPharmacopées USP, Peur, BP\nMartindale The Extra Pharmacopoeia, Remington\nSites Web: CDER, biam2.org, vidalpro.net, OMS \nLogiciel d’ES de la DPM/MT\nThe Merck Index\nBPF \n\t\n\t\nMode opératoire  \n \n \n* Utiliser les pharmacopées USP, Peur, BP et les BPF et les sites web pour faire :\n-\t\nl’évaluation des dossiers chimiques de tous les constituants du produit (Les  procé-\ndures maisons doivent être bien définies et validées)\n\n\nPAGE 21\n21\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n-\t\nl’évaluation des risques au cours de la fabrication \n-\t\nl’évaluation de la stabilité du produit\n* Utiliser le Martindale, le Remington et les sites web pour faire :\n- \nl’évaluation bénéfices/risques  \n-\t\nl’évaluation du prospectus \n* Noter les informations pertinentes sur la fiche d’évaluation du produit\n*\t Utiliser le logiciel d’ES pour enregistrer les informations sur le produit\n* Conserver la  fiche pour évaluation par la Commission du Médicament \n\t\n\t\n\t\n\t\nRecommandations de la Commission du médicament\n\t\n\t\nResponsabilité      \nUne commission du médicament multidisciplinaire présidée par le Ministre de la  Santé \nse réunit sur une base mensuelle pour l’évaluation des dossiers de médicaments analy-\nsés par la DPM/MT. \n\t\n\t\nDocuments \nFiche d’enregistrement sanitaire, photocopies de référence bibliographique si nécessaire \n(partie intéressée soulignée), prospectus et rapport d’évaluation du prospectus, rapport \nd’évaluation de la stabilité, rapport d’évaluation bénéfices/risques (service ES).\n\t\n\t\nMode opératoire \n* La commission fait une analyse bénéfices/risques pour la population sur la base des \ndocuments précités\n* Si le rapport bénéfices/risques présenté par le service d’enregistrement sanitaire est \npositif, la commission accepte le produit ; dans le cas contraire, elle le rejette.\n*\t Un procès-verbal d’évaluation est dressé pour le produit en question\n* Une note est adressée au demandeur d’AMM pour lui signifier le statut du produit. Si \nle produit est rejeté, la ou les cause(s) du rejet.\n\t\n\t\nPréparation du certificat d’AMM\n\t\n\t\nResponsabilité \n\t\n\t\n\t\nService d’Enregistrement Sanitaire\n\t\n\t\n\t\nDirection DPM/MT\n\t\n\t\n\t\nDirection Générale\n\t\n\t\n\n\nPAGE 22\n22\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n\t\n\t\nDocuments \nProcès-verbal d’évaluation du produit, formulaire de demande  d’autorisation de mise \nsur le marché du produit, cahier AMM\n\t\n\t\nMode opératoire\n* Le certificat AMM pour les produits acceptés par la commission du médicament est \npréparé par le service d’enregistrement sanitaire \n* Le certificat AMM est ensuite signé par le/la Directeur (trice) de la DPM/MT puis par \nle/la Directeur (trice) Général (e) du MSPP\n*  Le certificat signé et scellé est enregistré dans le cahier AMM de la DPM/MT\n*\t Le produit agréé rentre dans la liste des médicaments autorisés par la DPM/MT \n* Une copie du certificat est conservée au service d’enregistrement sanitaire de la DPM/\nMT pendant cinq (5) ans et l’original délivré au propriétaire d’AMM. Ce certificat est \nvalable pour une période de cinq (5) ans\n* Un dossier  comprenant le formulaire de demande d’autorisation, les spécifications du \nproduit fini ou le certificat d’analyse de référence, le procès-verbal de la commission et \nle prospectus sera conservé au service d’enregistrement sanitaire et le reste du dossier \nenvoyé aux archives\n\t\n\t\n1.5.1.2",
+          "section": "§1.5.1.1 pharmaceutical specialties",
+          "source_url": "https://mspp.gouv.ht/sites/default/files/publications/Normes%20et%20Procedures%20de%20la%20DPMMT.pdf",
+          "extraction_method": "PyMuPDF native text; no OCR",
+          "visual_original_checked": false,
+          "ocr_page": null,
+          "research_english_rendering": "The four-stage local process includes receipt, analysis, acceptance/rejection evaluation and an MA certificate. The stated processing period is six to nine months; a local multidisciplinary review and commission assess benefit and risk.",
+          "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+          "clause_id": "C46_002",
+          "verbatim_extracted_text": "1.5.1.1  Enregistrement sanitaire d’une spécialité\n\t\n\t\n\t\nL’enregistrement sanitaire d’une spécialité comprend quatre (4) étapes : \n-\t\nréception des dossiers \n-\t\nanalyse des dossiers\n-\t\névaluation du produit pharmaceutique  (acceptation ou rejet)\n- \npréparation du certificat AMM \nLe traitement du dossier d’enregistrement sanitaire d’une spécialité est réalisé sur une \npériode allant de six (6) à neuf (9) mois.\n\t\n\t\nRéception des dossiers d’enregistrement sanitaire d’une spécialité \n\t\n\t\nResponsabilité \n\t\nAgences de produits pharmaceutiques\n \nFabricants\n\t\nRéception \n\t\nService d’Enregistrement Sanitaire de la DPM/MT.\n\t\n\t\nDocuments\nCahiers d’enregistrement sanitaire, check-list de documents à soumettre, liste de code ES.\n\t\n\t\nMode opératoire\n*\t Le demandeur adresse une correspondance à la Direction de la Pharmacie pour s’assurer \nde la conformité des noms des spécialités\n*\t Après approbation de la DPM/MT, le demandeur soumet à la Direction de la Pharmacie \n(sur copie dure ou via internet) la liste des produits à enregistrer et choisit, de concert \n\n\nPAGE 20\n20\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \navec le service d’enregistrement sanitaire, la date d’enregistrement du ou des produits\n*\t La réception des dossiers se fait au niveau de l’enregistrement sanitaire par un analyste \ndu service.\n* L’analyste reçoit le dossier et vérifie les informations suivantes :\n- \t que le laboratoire est enregistré et agréé par la DPM/MT \n- \t que tous les documents exigés sont présents et conformes aux exigences de la DPM/MT \n*\t Tout dossier incomplet ou non conforme est immédiatement retourné à son expéditeur \navec une note indiquant les documents manquants pour les suites nécessaires\n*\t Pour un dossier conforme :\n-\t\nun numéro de code d’enregistrement sanitaire est assigné à ce dossier. Ce numéro \nde code caractérise le produit au niveau de la DPM/MT et est conservé au moment \ndu renouvellement\n-\t\nLe produit est ensuite enregistré dans le cahier d’enregistrement sanitaire de la \nDPM/MT et dans un fichier informatique par ordre chronologique sous son numéro \nde code\n* La réceptionniste vérifie le montant du chèque, l’encaisse et donne un reçu pour le \nmontant perçu.\n\t\nAnalyse du dossier d’enregistrement sanitaire\n\t\n\t\nResponsabilité \nL’analyse du dossier d’enregistrement sanitaire est une évaluation technique basée sur bé-\nnéfices/risques et réalisée par une équipe pluridisciplinaire du service d’enregistrement \nsanitaire de la DPM/MT.\n\t\n\t\nDocuments \nPharmacopées USP, Peur, BP\nMartindale The Extra Pharmacopoeia, Remington\nSites Web: CDER, biam2.org, vidalpro.net, OMS \nLogiciel d’ES de la DPM/MT\nThe Merck Index\nBPF \n\t\n\t\nMode opératoire  \n \n \n* Utiliser les pharmacopées USP, Peur, BP et les BPF et les sites web pour faire :\n-\t\nl’évaluation des dossiers chimiques de tous les constituants du produit (Les  procé-\ndures maisons doivent être bien définies et validées)\n\n\nPAGE 21\n21\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n-\t\nl’évaluation des risques au cours de la fabrication \n-\t\nl’évaluation de la stabilité du produit\n* Utiliser le Martindale, le Remington et les sites web pour faire :\n- \nl’évaluation bénéfices/risques  \n-\t\nl’évaluation du prospectus \n* Noter les informations pertinentes sur la fiche d’évaluation du produit\n*\t Utiliser le logiciel d’ES pour enregistrer les informations sur le produit\n* Conserver la  fiche pour évaluation par la Commission du Médicament \n\t\n\t\n\t\n\t\nRecommandations de la Commission du médicament\n\t\n\t\nResponsabilité      \nUne commission du médicament multidisciplinaire présidée par le Ministre de la  Santé \nse réunit sur une base mensuelle pour l’évaluation des dossiers de médicaments analy-\nsés par la DPM/MT. \n\t\n\t\nDocuments \nFiche d’enregistrement sanitaire, photocopies de référence bibliographique si nécessaire \n(partie intéressée soulignée), prospectus et rapport d’évaluation du prospectus, rapport \nd’évaluation de la stabilité, rapport d’évaluation bénéfices/risques (service ES).\n\t\n\t\nMode opératoire \n* La commission fait une analyse bénéfices/risques pour la population sur la base des \ndocuments précités\n* Si le rapport bénéfices/risques présenté par le service d’enregistrement sanitaire est \npositif, la commission accepte le produit ; dans le cas contraire, elle le rejette.\n*\t Un procès-verbal d’évaluation est dressé pour le produit en question\n* Une note est adressée au demandeur d’AMM pour lui signifier le statut du produit. Si \nle produit est rejeté, la ou les cause(s) du rejet.\n\t\n\t\nPréparation du certificat d’AMM\n\t\n\t\nResponsabilité \n\t\n\t\n\t\nService d’Enregistrement Sanitaire\n\t\n\t\n\t\nDirection DPM/MT\n\t\n\t\n\t\nDirection Générale\n\t\n\t\n\n\nPAGE 22\n22\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n\t\n\t\nDocuments \nProcès-verbal d’évaluation du produit, formulaire de demande  d’autorisation de mise \nsur le marché du produit, cahier AMM\n\t\n\t\nMode opératoire\n* Le certificat AMM pour les produits acceptés par la commission du médicament est \npréparé par le service d’enregistrement sanitaire \n* Le certificat AMM est ensuite signé par le/la Directeur (trice) de la DPM/MT puis par \nle/la Directeur (trice) Général (e) du MSPP\n*  Le certificat signé et scellé est enregistré dans le cahier AMM de la DPM/MT\n*\t Le produit agréé rentre dans la liste des médicaments autorisés par la DPM/MT \n* Une copie du certificat est conservée au service d’enregistrement sanitaire de la DPM/\nMT pendant cinq (5) ans et l’original délivré au propriétaire d’AMM. Ce certificat est \nvalable pour une période de cinq (5) ans\n* Un dossier  comprenant le formulaire de demande d’autorisation, les spécifications du \nproduit fini ou le certificat d’analyse de référence, le procès-verbal de la commission et \nle prospectus sera conservé au service d’enregistrement sanitaire et le reste du dossier \nenvoyé aux archives\n\t\n\t\n1.5.1.2",
+          "text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+          "start_offset": 33644,
+          "end_offset": 39539,
+          "section_article": "§1.5.1.1 pharmaceutical specialties",
+          "pdf_page": null,
+          "language": "French",
+          "checked_english_summary": "The four-stage local process includes receipt, analysis, acceptance/rejection evaluation and an MA certificate. The stated processing period is six to nine months; a local multidisciplinary review and commission assess benefit and risk."
+        }
+      ],
+      "components": {
+        "new_active_substance": {
+          "state": "explicit requirement",
+          "finding": "Pharmaceutical specialties require local registration; not confined to generics.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "named_reference_agencies": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "prior_approval_count": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "standalone_review": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "approval_age": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "foreign_marketing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "same_product_dossier_site": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "report_completeness": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "nonpublic_reports": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "accepted_redactions": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "public_report_sufficiency": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "applicant_consent": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "reference_authority_permission": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "regulator_to_regulator_sharing": {
+          "state": "unresolved/not stated",
+          "finding": "Not resolved by the reviewed source and context; silence is not a waiver.",
+          "evidence_ids": []
+        },
+        "local_clinical_evidence": {
+          "state": "explicit requirement",
+          "finding": "Clinical studies required in technical dossier; source does not establish Haiti-specific trial requirement.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "quality_gmp": {
+          "state": "explicit requirement",
+          "finding": "Recent legalized GMP evidence or DPM/MT inspection at applicant cost.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "scientific_assessment_retained": {
+          "state": "explicit requirement",
+          "finding": "DPM/MT technical and medicines-commission benefit–risk assessment.",
+          "evidence_ids": [
+            "C46_002"
+          ]
+        },
+        "local_representative": {
+          "state": "explicit requirement",
+          "finding": "Manufacturer accreditation is requested through its representative.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "filing_fee": {
+          "state": "explicit requirement",
+          "finding": "5,000 gourdes per presentation (form and strength), stated in 2008 source; not inflation-adjusted or assumed current.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "translation_legalization": {
+          "state": "explicit requirement",
+          "finding": "Company profiles French legalized/homologated; technical dossier English, French or Creole.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "cpp": {
+          "state": "explicit requirement",
+          "finding": "Product-specific CPP legalized by Haitian consular official and homologated.",
+          "evidence_ids": [
+            "C46_001"
+          ]
+        },
+        "clock": {
+          "state": "explicit requirement",
+          "finding": "Six to nine months stated processing, not observed time or automatic deadline.",
+          "evidence_ids": [
+            "C46_002"
+          ]
+        },
+        "domestic_discretion": {
+          "state": "explicit requirement",
+          "finding": "Local commission may accept or reject with reasons.",
+          "evidence_ids": [
+            "C46_002"
+          ]
+        }
+      },
+      "expansion_selection_reason": "Substantive initial-registration chapter; no inferred reliance.",
+      "selected_expansion_record": "c:0"
+    }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": [
+    {
+      "evidence_id": "C46_001",
+      "document_index": 46,
+      "document_id": "F250_dbf5f9bcf2c775bdc826",
+      "raw_sha256": "f739db3cbb211923c9d5d336eb7083278d686ca05d1f2bd0ae70286e655c2fb6",
+      "text_file": null,
+      "source_text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+      "text_start": 23873,
+      "text_end": 26610,
+      "exact_original_text": "1.4.1 Demande d’accréditation d’un nouveau laboratoire\nTout nouveau laboratoire doit recevoir une lettre d’accréditation de la DPM/MT avant de \ncommencer tout processus d’enregistrement sanitaire d’un médicament.\n\t\n\t\n\t\nResponsabilité \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nDocumentation\nPour faire une demande d’accréditation, un laboratoire, par le biais de son représentant, \ndoit présenter les documents suivants :\n1.\t lettre de demande d’enregistrement\n2. profil de la compagnie (légalisé et homologué en français)\n3. certificat des Bonnes Pratiques de Fabrication de date récente délivré par un organisme \ncompétent (OMS, ISO et autres) légalisé et homologué ou une demande d’inspection \ndes laboratoires de fabrication non certifiés par les inspecteurs de la DPM/MT aux frais \ndu demandeur\n4.\t liste des produits fabriqués par le laboratoire\n\t\n\t\n1.4.2 Enregistrement sanitaire d’une spécialité pharmaceutique\n\t\n\t\nResponsabilité \n \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nONG\n        \n\t\nDocumentation\nPour faire une demande d’enregistrement sanitaire pour un produit pharmaceutique, une \ninstitution doit présenter les documents suivants :\n*\t lettre de demande d’enregistrement sanitaire du ou des produits pharmaceutiques\n* profil(s) de la ou des compagnies légalisé(s) et homologué(s) en français intervenant \ndans la fabrication et l’emballage des produits \n* certificat(s) de Bonnes Pratiques de Fabrication de date récente délivré par un organisme com-\npétent (OMS, ISO et autres) légalisé(s) et homologué(s) ou l’inspection des laboratoires de \nfabrication non certifiés par les inspecteurs de la DPM/MT réalisée aux frais du demandeur.\n\n\nPAGE 15\n15\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n* certificat ISO exigible pour les laboratoires fabriquant des produits injectables\n* certificat de produit pharmaceutique, pour chaque produit à enregistrer, légalisé par un \nagent consulaire haïtien et homologué. \n*\t formulaire de demande d’Autorisation de Mise sur le Marché (AMM) rempli pour cha-\ncune des formes et pour chaque dosage du produit.      \n*\t document technique en anglais, français ou en créole contenant les informations \nsuivantes:\n-\t\ndossier chimique\n-\t\ndossier de fabrication\n-\t\nprocédures de contrôle de la qualité \n-\t\ndossier de stabilité \n-\t\nprospectus (français, anglais)\n-\t\ndossier toxicologique et pharmacologique (études sur les animaux) et les études de \nbiodisponibilité\n-\t\nétudes cliniques\n-\t\ntrois (3) échantillons format vente pour chaque forme et pour chaque dosage\n-\t\ntrois échantillons format vente à la première commande\n* frais de 5000 gourdes en chèque certifié pour chaque présentation du produit (chaque \nforme, chaque dosage)\n\t\n\t\n1.4.3 Enregistrement Sanitaire",
+      "section": "§1.4.1–1.4.2",
+      "source_url": "https://mspp.gouv.ht/sites/default/files/publications/Normes%20et%20Procedures%20de%20la%20DPMMT.pdf",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": "A new manufacturer needs prior accreditation. Submit legalized company profiles, GMP evidence or local inspection, legalized CPP, a technical dossier in English/French/Creole including clinical studies, samples and 5,000 gourdes per presentation.",
+      "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+      "clause_id": "SDX-C46_001",
+      "verbatim_extracted_text": "1.4.1 Demande d’accréditation d’un nouveau laboratoire\nTout nouveau laboratoire doit recevoir une lettre d’accréditation de la DPM/MT avant de \ncommencer tout processus d’enregistrement sanitaire d’un médicament.\n\t\n\t\n\t\nResponsabilité \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nDocumentation\nPour faire une demande d’accréditation, un laboratoire, par le biais de son représentant, \ndoit présenter les documents suivants :\n1.\t lettre de demande d’enregistrement\n2. profil de la compagnie (légalisé et homologué en français)\n3. certificat des Bonnes Pratiques de Fabrication de date récente délivré par un organisme \ncompétent (OMS, ISO et autres) légalisé et homologué ou une demande d’inspection \ndes laboratoires de fabrication non certifiés par les inspecteurs de la DPM/MT aux frais \ndu demandeur\n4.\t liste des produits fabriqués par le laboratoire\n\t\n\t\n1.4.2 Enregistrement sanitaire d’une spécialité pharmaceutique\n\t\n\t\nResponsabilité \n \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nONG\n        \n\t\nDocumentation\nPour faire une demande d’enregistrement sanitaire pour un produit pharmaceutique, une \ninstitution doit présenter les documents suivants :\n*\t lettre de demande d’enregistrement sanitaire du ou des produits pharmaceutiques\n* profil(s) de la ou des compagnies légalisé(s) et homologué(s) en français intervenant \ndans la fabrication et l’emballage des produits \n* certificat(s) de Bonnes Pratiques de Fabrication de date récente délivré par un organisme com-\npétent (OMS, ISO et autres) légalisé(s) et homologué(s) ou l’inspection des laboratoires de \nfabrication non certifiés par les inspecteurs de la DPM/MT réalisée aux frais du demandeur.\n\n\nPAGE 15\n15\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n* certificat ISO exigible pour les laboratoires fabriquant des produits injectables\n* certificat de produit pharmaceutique, pour chaque produit à enregistrer, légalisé par un \nagent consulaire haïtien et homologué. \n*\t formulaire de demande d’Autorisation de Mise sur le Marché (AMM) rempli pour cha-\ncune des formes et pour chaque dosage du produit.      \n*\t document technique en anglais, français ou en créole contenant les informations \nsuivantes:\n-\t\ndossier chimique\n-\t\ndossier de fabrication\n-\t\nprocédures de contrôle de la qualité \n-\t\ndossier de stabilité \n-\t\nprospectus (français, anglais)\n-\t\ndossier toxicologique et pharmacologique (études sur les animaux) et les études de \nbiodisponibilité\n-\t\nétudes cliniques\n-\t\ntrois (3) échantillons format vente pour chaque forme et pour chaque dosage\n-\t\ntrois échantillons format vente à la première commande\n* frais de 5000 gourdes en chèque certifié pour chaque présentation du produit (chaque \nforme, chaque dosage)\n\t\n\t\n1.4.3 Enregistrement Sanitaire",
+      "text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+      "start_offset": 23873,
+      "end_offset": 26610,
+      "section_article": "§1.4.1–1.4.2",
+      "pdf_page": null,
+      "language": "French",
+      "checked_english_summary": "A new manufacturer needs prior accreditation. Submit legalized company profiles, GMP evidence or local inspection, legalized CPP, a technical dossier in English/French/Creole including clinical studies, samples and 5,000 gourdes per presentation.",
+      "iso3": "HTI",
+      "country": "Haiti",
+      "display_text": "1.4.1 Demande d’accréditation d’un nouveau laboratoire\nTout nouveau laboratoire doit recevoir une lettre d’accréditation de la DPM/MT avant de \ncommencer tout processus d’enregistrement sanitaire d’un médicament.\n\t\n\t\n\t\nResponsabilité \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nDocumentation\nPour faire une demande d’accréditation, un laboratoire, par le biais de son représentant, \ndoit présenter les documents suivants :\n1.\t lettre de demande d’enregistrement\n2. profil de la compagnie (légalisé et homologué en français)\n3. certificat des Bonnes Pratiques de Fabrication de date récente délivré par un organisme \ncompétent (OMS, ISO et autres) légalisé et homologué ou une demande d’inspection \ndes laboratoires de fabrication non certifiés par les inspecteurs de la DPM/MT aux frais \ndu demandeur\n4.\t liste des produits fabriqués par le laboratoire\n\t\n\t\n1.4.2 Enregistrement sanitaire d’une spécialité pharmaceutique\n\t\n\t\nResponsabilité \n \n \n \nFabricant\n\t\n\t\nDistributeur\n\t\n\t\nONG\n        \n\t\nDocumentation\nPour faire une demande d’enregistrement sanitaire pour un produit pharmaceutique, une \ninstitution doit présenter les documents suivants :\n*\t lettre de demande d’enregistrement sanitaire du ou des produits pharmaceutiques\n* profil(s) de la ou des compagnies légalisé(s) et homologué(s) en français intervenant \ndans la fabrication et l’emballage des produits \n* certificat(s) de Bonnes Pratiques de Fabrication de date récente délivré par un organisme com-\npétent (OMS, ISO et autres) légalisé(s) et homologué(s) ou l’inspection des laboratoires de \nfabrication non certifiés par les inspecteurs de la DPM/MT réalisée aux frais du demandeur.\n\n\nPAGE 15\n15\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n* certificat ISO exigible pour les laboratoires fabriquant des produits injectables\n* certificat de produit pharmaceutique, pour chaque produit à enregistrer, légalisé par un \nagent consulaire haïtien et homologué. \n*\t formulaire de demande d’Autorisation de Mise sur le Marché (AMM) rempli pour cha-\ncune des formes et pour chaque dosage du produit.      \n*\t document technique en anglais, français ou en créole contenant les informations \nsuivantes:\n-\t\ndossier chimique\n-\t\ndossier de fabrication\n-\t\nprocédures de contrôle de la qualité \n-\t\ndossier de stabilité \n-\t\nprospectus (français, anglais)\n-\t\ndossier toxicologique et pharmacologique (études sur les animaux) et les études de \nbiodisponibilité\n-\t\nétudes cliniques\n-\t\ntrois (3) échantillons format vente pour chaque forme et pour chaque dosage\n-\t\ntrois échantillons format vente à la première commande\n* frais de 5000 gourdes en chèque certifié pour chaque présentation du produit (chaque \nforme, chaque dosage)\n\t\n\t\n1.4.3 Enregistrement Sanitaire",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary sanitary registration of a pharmaceutical specialty July 2008 DPM/MT norms, chapter 1; no demonstrated amendment/supersession. A new manufacturer needs prior accreditation. Submit legalized company profiles, GMP evidence or local inspection, legalized CPP, a technical dossier in English/French/Creole including clinical studies, samples and 5,000 gourdes per presentation.",
+      "version_alignment": "July 2008 DPM/MT norms, chapter 1; no demonstrated amendment/supersession."
+    },
+    {
+      "evidence_id": "C46_002",
+      "document_index": 46,
+      "document_id": "F250_dbf5f9bcf2c775bdc826",
+      "raw_sha256": "f739db3cbb211923c9d5d336eb7083278d686ca05d1f2bd0ae70286e655c2fb6",
+      "text_file": null,
+      "source_text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+      "text_start": 33644,
+      "text_end": 39539,
+      "exact_original_text": "1.5.1.1  Enregistrement sanitaire d’une spécialité\n\t\n\t\n\t\nL’enregistrement sanitaire d’une spécialité comprend quatre (4) étapes : \n-\t\nréception des dossiers \n-\t\nanalyse des dossiers\n-\t\névaluation du produit pharmaceutique  (acceptation ou rejet)\n- \npréparation du certificat AMM \nLe traitement du dossier d’enregistrement sanitaire d’une spécialité est réalisé sur une \npériode allant de six (6) à neuf (9) mois.\n\t\n\t\nRéception des dossiers d’enregistrement sanitaire d’une spécialité \n\t\n\t\nResponsabilité \n\t\nAgences de produits pharmaceutiques\n \nFabricants\n\t\nRéception \n\t\nService d’Enregistrement Sanitaire de la DPM/MT.\n\t\n\t\nDocuments\nCahiers d’enregistrement sanitaire, check-list de documents à soumettre, liste de code ES.\n\t\n\t\nMode opératoire\n*\t Le demandeur adresse une correspondance à la Direction de la Pharmacie pour s’assurer \nde la conformité des noms des spécialités\n*\t Après approbation de la DPM/MT, le demandeur soumet à la Direction de la Pharmacie \n(sur copie dure ou via internet) la liste des produits à enregistrer et choisit, de concert \n\n\nPAGE 20\n20\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \navec le service d’enregistrement sanitaire, la date d’enregistrement du ou des produits\n*\t La réception des dossiers se fait au niveau de l’enregistrement sanitaire par un analyste \ndu service.\n* L’analyste reçoit le dossier et vérifie les informations suivantes :\n- \t que le laboratoire est enregistré et agréé par la DPM/MT \n- \t que tous les documents exigés sont présents et conformes aux exigences de la DPM/MT \n*\t Tout dossier incomplet ou non conforme est immédiatement retourné à son expéditeur \navec une note indiquant les documents manquants pour les suites nécessaires\n*\t Pour un dossier conforme :\n-\t\nun numéro de code d’enregistrement sanitaire est assigné à ce dossier. Ce numéro \nde code caractérise le produit au niveau de la DPM/MT et est conservé au moment \ndu renouvellement\n-\t\nLe produit est ensuite enregistré dans le cahier d’enregistrement sanitaire de la \nDPM/MT et dans un fichier informatique par ordre chronologique sous son numéro \nde code\n* La réceptionniste vérifie le montant du chèque, l’encaisse et donne un reçu pour le \nmontant perçu.\n\t\nAnalyse du dossier d’enregistrement sanitaire\n\t\n\t\nResponsabilité \nL’analyse du dossier d’enregistrement sanitaire est une évaluation technique basée sur bé-\nnéfices/risques et réalisée par une équipe pluridisciplinaire du service d’enregistrement \nsanitaire de la DPM/MT.\n\t\n\t\nDocuments \nPharmacopées USP, Peur, BP\nMartindale The Extra Pharmacopoeia, Remington\nSites Web: CDER, biam2.org, vidalpro.net, OMS \nLogiciel d’ES de la DPM/MT\nThe Merck Index\nBPF \n\t\n\t\nMode opératoire  \n \n \n* Utiliser les pharmacopées USP, Peur, BP et les BPF et les sites web pour faire :\n-\t\nl’évaluation des dossiers chimiques de tous les constituants du produit (Les  procé-\ndures maisons doivent être bien définies et validées)\n\n\nPAGE 21\n21\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n-\t\nl’évaluation des risques au cours de la fabrication \n-\t\nl’évaluation de la stabilité du produit\n* Utiliser le Martindale, le Remington et les sites web pour faire :\n- \nl’évaluation bénéfices/risques  \n-\t\nl’évaluation du prospectus \n* Noter les informations pertinentes sur la fiche d’évaluation du produit\n*\t Utiliser le logiciel d’ES pour enregistrer les informations sur le produit\n* Conserver la  fiche pour évaluation par la Commission du Médicament \n\t\n\t\n\t\n\t\nRecommandations de la Commission du médicament\n\t\n\t\nResponsabilité      \nUne commission du médicament multidisciplinaire présidée par le Ministre de la  Santé \nse réunit sur une base mensuelle pour l’évaluation des dossiers de médicaments analy-\nsés par la DPM/MT. \n\t\n\t\nDocuments \nFiche d’enregistrement sanitaire, photocopies de référence bibliographique si nécessaire \n(partie intéressée soulignée), prospectus et rapport d’évaluation du prospectus, rapport \nd’évaluation de la stabilité, rapport d’évaluation bénéfices/risques (service ES).\n\t\n\t\nMode opératoire \n* La commission fait une analyse bénéfices/risques pour la population sur la base des \ndocuments précités\n* Si le rapport bénéfices/risques présenté par le service d’enregistrement sanitaire est \npositif, la commission accepte le produit ; dans le cas contraire, elle le rejette.\n*\t Un procès-verbal d’évaluation est dressé pour le produit en question\n* Une note est adressée au demandeur d’AMM pour lui signifier le statut du produit. Si \nle produit est rejeté, la ou les cause(s) du rejet.\n\t\n\t\nPréparation du certificat d’AMM\n\t\n\t\nResponsabilité \n\t\n\t\n\t\nService d’Enregistrement Sanitaire\n\t\n\t\n\t\nDirection DPM/MT\n\t\n\t\n\t\nDirection Générale\n\t\n\t\n\n\nPAGE 22\n22\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n\t\n\t\nDocuments \nProcès-verbal d’évaluation du produit, formulaire de demande  d’autorisation de mise \nsur le marché du produit, cahier AMM\n\t\n\t\nMode opératoire\n* Le certificat AMM pour les produits acceptés par la commission du médicament est \npréparé par le service d’enregistrement sanitaire \n* Le certificat AMM est ensuite signé par le/la Directeur (trice) de la DPM/MT puis par \nle/la Directeur (trice) Général (e) du MSPP\n*  Le certificat signé et scellé est enregistré dans le cahier AMM de la DPM/MT\n*\t Le produit agréé rentre dans la liste des médicaments autorisés par la DPM/MT \n* Une copie du certificat est conservée au service d’enregistrement sanitaire de la DPM/\nMT pendant cinq (5) ans et l’original délivré au propriétaire d’AMM. Ce certificat est \nvalable pour une période de cinq (5) ans\n* Un dossier  comprenant le formulaire de demande d’autorisation, les spécifications du \nproduit fini ou le certificat d’analyse de référence, le procès-verbal de la commission et \nle prospectus sera conservé au service d’enregistrement sanitaire et le reste du dossier \nenvoyé aux archives\n\t\n\t\n1.5.1.2",
+      "section": "§1.5.1.1 pharmaceutical specialties",
+      "source_url": "https://mspp.gouv.ht/sites/default/files/publications/Normes%20et%20Procedures%20de%20la%20DPMMT.pdf",
+      "extraction_method": "PyMuPDF native text; no OCR",
+      "visual_original_checked": false,
+      "ocr_page": null,
+      "research_english_rendering": "The four-stage local process includes receipt, analysis, acceptance/rejection evaluation and an MA certificate. The stated processing period is six to nine months; a local multidisciplinary review and commission assess benefit and risk.",
+      "translation_status": "Assistant-checked research rendering of original; not official/certified translation",
+      "clause_id": "SDX-C46_002",
+      "verbatim_extracted_text": "1.5.1.1  Enregistrement sanitaire d’une spécialité\n\t\n\t\n\t\nL’enregistrement sanitaire d’une spécialité comprend quatre (4) étapes : \n-\t\nréception des dossiers \n-\t\nanalyse des dossiers\n-\t\névaluation du produit pharmaceutique  (acceptation ou rejet)\n- \npréparation du certificat AMM \nLe traitement du dossier d’enregistrement sanitaire d’une spécialité est réalisé sur une \npériode allant de six (6) à neuf (9) mois.\n\t\n\t\nRéception des dossiers d’enregistrement sanitaire d’une spécialité \n\t\n\t\nResponsabilité \n\t\nAgences de produits pharmaceutiques\n \nFabricants\n\t\nRéception \n\t\nService d’Enregistrement Sanitaire de la DPM/MT.\n\t\n\t\nDocuments\nCahiers d’enregistrement sanitaire, check-list de documents à soumettre, liste de code ES.\n\t\n\t\nMode opératoire\n*\t Le demandeur adresse une correspondance à la Direction de la Pharmacie pour s’assurer \nde la conformité des noms des spécialités\n*\t Après approbation de la DPM/MT, le demandeur soumet à la Direction de la Pharmacie \n(sur copie dure ou via internet) la liste des produits à enregistrer et choisit, de concert \n\n\nPAGE 20\n20\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \navec le service d’enregistrement sanitaire, la date d’enregistrement du ou des produits\n*\t La réception des dossiers se fait au niveau de l’enregistrement sanitaire par un analyste \ndu service.\n* L’analyste reçoit le dossier et vérifie les informations suivantes :\n- \t que le laboratoire est enregistré et agréé par la DPM/MT \n- \t que tous les documents exigés sont présents et conformes aux exigences de la DPM/MT \n*\t Tout dossier incomplet ou non conforme est immédiatement retourné à son expéditeur \navec une note indiquant les documents manquants pour les suites nécessaires\n*\t Pour un dossier conforme :\n-\t\nun numéro de code d’enregistrement sanitaire est assigné à ce dossier. Ce numéro \nde code caractérise le produit au niveau de la DPM/MT et est conservé au moment \ndu renouvellement\n-\t\nLe produit est ensuite enregistré dans le cahier d’enregistrement sanitaire de la \nDPM/MT et dans un fichier informatique par ordre chronologique sous son numéro \nde code\n* La réceptionniste vérifie le montant du chèque, l’encaisse et donne un reçu pour le \nmontant perçu.\n\t\nAnalyse du dossier d’enregistrement sanitaire\n\t\n\t\nResponsabilité \nL’analyse du dossier d’enregistrement sanitaire est une évaluation technique basée sur bé-\nnéfices/risques et réalisée par une équipe pluridisciplinaire du service d’enregistrement \nsanitaire de la DPM/MT.\n\t\n\t\nDocuments \nPharmacopées USP, Peur, BP\nMartindale The Extra Pharmacopoeia, Remington\nSites Web: CDER, biam2.org, vidalpro.net, OMS \nLogiciel d’ES de la DPM/MT\nThe Merck Index\nBPF \n\t\n\t\nMode opératoire  \n \n \n* Utiliser les pharmacopées USP, Peur, BP et les BPF et les sites web pour faire :\n-\t\nl’évaluation des dossiers chimiques de tous les constituants du produit (Les  procé-\ndures maisons doivent être bien définies et validées)\n\n\nPAGE 21\n21\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n-\t\nl’évaluation des risques au cours de la fabrication \n-\t\nl’évaluation de la stabilité du produit\n* Utiliser le Martindale, le Remington et les sites web pour faire :\n- \nl’évaluation bénéfices/risques  \n-\t\nl’évaluation du prospectus \n* Noter les informations pertinentes sur la fiche d’évaluation du produit\n*\t Utiliser le logiciel d’ES pour enregistrer les informations sur le produit\n* Conserver la  fiche pour évaluation par la Commission du Médicament \n\t\n\t\n\t\n\t\nRecommandations de la Commission du médicament\n\t\n\t\nResponsabilité      \nUne commission du médicament multidisciplinaire présidée par le Ministre de la  Santé \nse réunit sur une base mensuelle pour l’évaluation des dossiers de médicaments analy-\nsés par la DPM/MT. \n\t\n\t\nDocuments \nFiche d’enregistrement sanitaire, photocopies de référence bibliographique si nécessaire \n(partie intéressée soulignée), prospectus et rapport d’évaluation du prospectus, rapport \nd’évaluation de la stabilité, rapport d’évaluation bénéfices/risques (service ES).\n\t\n\t\nMode opératoire \n* La commission fait une analyse bénéfices/risques pour la population sur la base des \ndocuments précités\n* Si le rapport bénéfices/risques présenté par le service d’enregistrement sanitaire est \npositif, la commission accepte le produit ; dans le cas contraire, elle le rejette.\n*\t Un procès-verbal d’évaluation est dressé pour le produit en question\n* Une note est adressée au demandeur d’AMM pour lui signifier le statut du produit. Si \nle produit est rejeté, la ou les cause(s) du rejet.\n\t\n\t\nPréparation du certificat d’AMM\n\t\n\t\nResponsabilité \n\t\n\t\n\t\nService d’Enregistrement Sanitaire\n\t\n\t\n\t\nDirection DPM/MT\n\t\n\t\n\t\nDirection Générale\n\t\n\t\n\n\nPAGE 22\n22\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n\t\n\t\nDocuments \nProcès-verbal d’évaluation du produit, formulaire de demande  d’autorisation de mise \nsur le marché du produit, cahier AMM\n\t\n\t\nMode opératoire\n* Le certificat AMM pour les produits acceptés par la commission du médicament est \npréparé par le service d’enregistrement sanitaire \n* Le certificat AMM est ensuite signé par le/la Directeur (trice) de la DPM/MT puis par \nle/la Directeur (trice) Général (e) du MSPP\n*  Le certificat signé et scellé est enregistré dans le cahier AMM de la DPM/MT\n*\t Le produit agréé rentre dans la liste des médicaments autorisés par la DPM/MT \n* Une copie du certificat est conservée au service d’enregistrement sanitaire de la DPM/\nMT pendant cinq (5) ans et l’original délivré au propriétaire d’AMM. Ce certificat est \nvalable pour une période de cinq (5) ans\n* Un dossier  comprenant le formulaire de demande d’autorisation, les spécifications du \nproduit fini ou le certificat d’analyse de référence, le procès-verbal de la commission et \nle prospectus sera conservé au service d’enregistrement sanitaire et le reste du dossier \nenvoyé aux archives\n\t\n\t\n1.5.1.2",
+      "text_sha256": "e1ea1ece842c3ed8356e71f631a4bc5ec6958511130d5d5bd5c5d30e51a204d9",
+      "start_offset": 33644,
+      "end_offset": 39539,
+      "section_article": "§1.5.1.1 pharmaceutical specialties",
+      "pdf_page": null,
+      "language": "French",
+      "checked_english_summary": "The four-stage local process includes receipt, analysis, acceptance/rejection evaluation and an MA certificate. The stated processing period is six to nine months; a local multidisciplinary review and commission assess benefit and risk.",
+      "iso3": "HTI",
+      "country": "Haiti",
+      "display_text": "1.5.1.1  Enregistrement sanitaire d’une spécialité\n\t\n\t\n\t\nL’enregistrement sanitaire d’une spécialité comprend quatre (4) étapes : \n-\t\nréception des dossiers \n-\t\nanalyse des dossiers\n-\t\névaluation du produit pharmaceutique  (acceptation ou rejet)\n- \npréparation du certificat AMM \nLe traitement du dossier d’enregistrement sanitaire d’une spécialité est réalisé sur une \npériode allant de six (6) à neuf (9) mois.\n\t\n\t\nRéception des dossiers d’enregistrement sanitaire d’une spécialité \n\t\n\t\nResponsabilité \n\t\nAgences de produits pharmaceutiques\n \nFabricants\n\t\nRéception \n\t\nService d’Enregistrement Sanitaire de la DPM/MT.\n\t\n\t\nDocuments\nCahiers d’enregistrement sanitaire, check-list de documents à soumettre, liste de code ES.\n\t\n\t\nMode opératoire\n*\t Le demandeur adresse une correspondance à la Direction de la Pharmacie pour s’assurer \nde la conformité des noms des spécialités\n*\t Après approbation de la DPM/MT, le demandeur soumet à la Direction de la Pharmacie \n(sur copie dure ou via internet) la liste des produits à enregistrer et choisit, de concert \n\n\nPAGE 20\n20\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \navec le service d’enregistrement sanitaire, la date d’enregistrement du ou des produits\n*\t La réception des dossiers se fait au niveau de l’enregistrement sanitaire par un analyste \ndu service.\n* L’analyste reçoit le dossier et vérifie les informations suivantes :\n- \t que le laboratoire est enregistré et agréé par la DPM/MT \n- \t que tous les documents exigés sont présents et conformes aux exigences de la DPM/MT \n*\t Tout dossier incomplet ou non conforme est immédiatement retourné à son expéditeur \navec une note indiquant les documents manquants pour les suites nécessaires\n*\t Pour un dossier conforme :\n-\t\nun numéro de code d’enregistrement sanitaire est assigné à ce dossier. Ce numéro \nde code caractérise le produit au niveau de la DPM/MT et est conservé au moment \ndu renouvellement\n-\t\nLe produit est ensuite enregistré dans le cahier d’enregistrement sanitaire de la \nDPM/MT et dans un fichier informatique par ordre chronologique sous son numéro \nde code\n* La réceptionniste vérifie le montant du chèque, l’encaisse et donne un reçu pour le \nmontant perçu.\n\t\nAnalyse du dossier d’enregistrement sanitaire\n\t\n\t\nResponsabilité \nL’analyse du dossier d’enregistrement sanitaire est une évaluation technique basée sur bé-\nnéfices/risques et réalisée par une équipe pluridisciplinaire du service d’enregistrement \nsanitaire de la DPM/MT.\n\t\n\t\nDocuments \nPharmacopées USP, Peur, BP\nMartindale The Extra Pharmacopoeia, Remington\nSites Web: CDER, biam2.org, vidalpro.net, OMS \nLogiciel d’ES de la DPM/MT\nThe Merck Index\nBPF \n\t\n\t\nMode opératoire  \n \n \n* Utiliser les pharmacopées USP, Peur, BP et les BPF et les sites web pour faire :\n-\t\nl’évaluation des dossiers chimiques de tous les constituants du produit (Les  procé-\ndures maisons doivent être bien définies et validées)\n\n\nPAGE 21\n21\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n-\t\nl’évaluation des risques au cours de la fabrication \n-\t\nl’évaluation de la stabilité du produit\n* Utiliser le Martindale, le Remington et les sites web pour faire :\n- \nl’évaluation bénéfices/risques  \n-\t\nl’évaluation du prospectus \n* Noter les informations pertinentes sur la fiche d’évaluation du produit\n*\t Utiliser le logiciel d’ES pour enregistrer les informations sur le produit\n* Conserver la  fiche pour évaluation par la Commission du Médicament \n\t\n\t\n\t\n\t\nRecommandations de la Commission du médicament\n\t\n\t\nResponsabilité      \nUne commission du médicament multidisciplinaire présidée par le Ministre de la  Santé \nse réunit sur une base mensuelle pour l’évaluation des dossiers de médicaments analy-\nsés par la DPM/MT. \n\t\n\t\nDocuments \nFiche d’enregistrement sanitaire, photocopies de référence bibliographique si nécessaire \n(partie intéressée soulignée), prospectus et rapport d’évaluation du prospectus, rapport \nd’évaluation de la stabilité, rapport d’évaluation bénéfices/risques (service ES).\n\t\n\t\nMode opératoire \n* La commission fait une analyse bénéfices/risques pour la population sur la base des \ndocuments précités\n* Si le rapport bénéfices/risques présenté par le service d’enregistrement sanitaire est \npositif, la commission accepte le produit ; dans le cas contraire, elle le rejette.\n*\t Un procès-verbal d’évaluation est dressé pour le produit en question\n* Une note est adressée au demandeur d’AMM pour lui signifier le statut du produit. Si \nle produit est rejeté, la ou les cause(s) du rejet.\n\t\n\t\nPréparation du certificat d’AMM\n\t\n\t\nResponsabilité \n\t\n\t\n\t\nService d’Enregistrement Sanitaire\n\t\n\t\n\t\nDirection DPM/MT\n\t\n\t\n\t\nDirection Générale\n\t\n\t\n\n\nPAGE 22\n22\nNormes et Procédures de la Direction de Pharmacie et de Médecine Traditionnelle \n\t\n\t\nDocuments \nProcès-verbal d’évaluation du produit, formulaire de demande  d’autorisation de mise \nsur le marché du produit, cahier AMM\n\t\n\t\nMode opératoire\n* Le certificat AMM pour les produits acceptés par la commission du médicament est \npréparé par le service d’enregistrement sanitaire \n* Le certificat AMM est ensuite signé par le/la Directeur (trice) de la DPM/MT puis par \nle/la Directeur (trice) Général (e) du MSPP\n*  Le certificat signé et scellé est enregistré dans le cahier AMM de la DPM/MT\n*\t Le produit agréé rentre dans la liste des médicaments autorisés par la DPM/MT \n* Une copie du certificat est conservée au service d’enregistrement sanitaire de la DPM/\nMT pendant cinq (5) ans et l’original délivré au propriétaire d’AMM. Ce certificat est \nvalable pour une période de cinq (5) ans\n* Un dossier  comprenant le formulaire de demande d’autorisation, les spécifications du \nproduit fini ou le certificat d’analyse de référence, le procès-verbal de la commission et \nle prospectus sera conservé au service d’enregistrement sanitaire et le reste du dossier \nenvoyé aux archives\n\t\n\t\n1.5.1.2",
+      "feature_tags": [],
+      "evidence_tier": "Additional reviewed medicine-approval rule",
+      "language_status": "Original wording; checked English explanation where supplied, not a full translation",
+      "research_interpretation": "Ordinary sanitary registration of a pharmaceutical specialty July 2008 DPM/MT norms, chapter 1; no demonstrated amendment/supersession. The four-stage local process includes receipt, analysis, acceptance/rejection evaluation and an MA certificate. The stated processing period is six to nine months; a local multidisciplinary review and commission assess benefit and risk.",
+      "version_alignment": "July 2008 DPM/MT norms, chapter 1; no demonstrated amendment/supersession."
+    }
+  ]
 }

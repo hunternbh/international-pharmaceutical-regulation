@@ -190,7 +190,7 @@
   "standard_drug_legal_comparison": {
     "iso3": "MNG",
     "country": "Mongolia",
-    "sample": "other_on_hand_evidence_not_in_89_primary_routes",
+    "sample": "other_on_hand_evidence_not_in_primary_routes",
     "evidence_type": "invalid_historical_rule",
     "fixed_case_scope_status": "historical_only",
     "finding": "The host labels the2012 rule invalid/repealed. Its general imported-drug conditions include three foreign registrations and three years in the manufacturing country; the fixed two-approval18-month case would not satisfy those historical conditions. Do not apply them to current law.",
@@ -236,5 +236,7 @@
     ],
     "source_scope": "Historical 2012 procedure; website explicitly labels this an invalid/repealed legal act",
     "review_extent": "Selected relevant on-hand passages and stated context; not a new complete historical legal audit."
-  }
+  },
+  "standard_drug_reviewed_routes": [],
+  "standard_drug_expansion_clauses": []
 }
