@@ -154,6 +154,18 @@
       "access_conditions": "Public unauthenticated source; no private account or correspondence",
       "licensing": "See original publication; public access does not establish reuse licence",
       "pages": 1
+    },
+    {
+      "document_id": "SUP-067271344ef091b52cd8",
+      "source_id": "F250_f406319872f5ebe925a6",
+      "title": "Written answer paragraphs 1–2",
+      "source_url": "https://www.moh.gov.sg/newsroom/hsa-s-regulatory-pathways-for-nmpa-approved-medicines/",
+      "raw_sha256": "067271344ef091b52cd8ebabd64abd1418ff6b44b2fa4368f0733a3abfd77ded",
+      "text_sha256": "271ec2ebcf840d7b00efd0c7a55a84d2c3a8b30c1ed10c2974a763b5d0d6bc21",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [
@@ -224,5 +236,54 @@
       "current_review_status": "national_rule"
     }
   ],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "SGP-SUP-06727134-919",
+      "iso3": "SGP",
+      "country": "Singapore",
+      "document_id": "SUP-067271344ef091b52cd8",
+      "source_id": "F250_f406319872f5ebe925a6",
+      "source_url": "https://www.moh.gov.sg/newsroom/hsa-s-regulatory-pathways-for-nmpa-approved-medicines/",
+      "raw_sha256": "067271344ef091b52cd8ebabd64abd1418ff6b44b2fa4368f0733a3abfd77ded",
+      "text_sha256": "271ec2ebcf840d7b00efd0c7a55a84d2c3a8b30c1ed10c2974a763b5d0d6bc21",
+      "start_offset": 919,
+      "end_offset": 1717,
+      "pdf_page": null,
+      "verbatim_extracted_text": "Answer\n1        HSA welcomes drug producers to choose Singapore as part of their first wave filings.  As long as a pharmaceutical product is approved by at least one regulatory agency, such as China’s NMPA, it would also qualify for the abridged route. Life-saving innovative therapies that address critical public health needs in Singapore, such as cancer or infectious diseases, will also qualify for priority review by HSA. Regardless of where the drug is developed, we would apply the same rigor in our evaluation.\n2        Specifically on NMPA, HSA has been deepening our engagement, including signing a renewed Memorandum of Understanding in May 2026, to explore facilitative regulatory pathways and pilot innovative initiatives to bring safe and effective products to patients more quickly.\n",
+      "display_text": "Answer\n1        HSA welcomes drug producers to choose Singapore as part of their first wave filings.  As long as a pharmaceutical product is approved by at least one regulatory agency, such as China’s NMPA, it would also qualify for the abridged route. Life-saving innovative therapies that address critical public health needs in Singapore, such as cancer or infectious diseases, will also qualify for priority review by HSA. Regardless of where the drug is developed, we would apply the same rigor in our evaluation.\n2        Specifically on NMPA, HSA has been deepening our engagement, including signing a renewed Memorandum of Understanding in May 2026, to explore facilitative regulatory pathways and pilot innovative initiatives to bring safe and effective products to patients more quickly.\n",
+      "feature_tags": [
+        "scope_limit",
+        "discretion"
+      ],
+      "role": "Official parliamentary answer",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official parliamentary answer",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official parliamentary answer. Scope: Human medicine abridged evaluation; not automatic recognition. At least one prior regulatory approval including NMPA qualifies for abridged review. Critical life-saving therapies may also qualify for priority review; unchanged scientific rigour and exploratory cooperation are distinguished. Publication date is not first operative date.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official parliamentary answer",
+      "section_article": "Written answer paragraphs 1–2",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "SGP-PA-01",
+      "parallel_partition": "parallel_a",
+      "scope": "Human medicine abridged evaluation; not automatic recognition",
+      "legal_type": "Official parliamentary answer",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "067271344ef091b52cd8ebabd64abd1418ff6b44b2fa4368f0733a3abfd77ded"
+    ]
+  }
 }

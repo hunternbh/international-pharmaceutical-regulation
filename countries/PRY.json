@@ -54,7 +54,20 @@
     "no_reviewed_individual_passage": true,
     "no_reviewed_national_authorisation_pathway": true
   },
-  "source_documents": [],
+  "source_documents": [
+    {
+      "document_id": "SUP-32852395eebba929982f",
+      "source_id": "F250_bf6deead49d7d7f76efd",
+      "title": "Official index, Resolution DINAVISA 147",
+      "source_url": "https://dinavisa.gov.py/resoluciones/",
+      "raw_sha256": "32852395eebba929982f525c2e36464b0bb8054ddd696de8c78d54354809efb3",
+      "text_sha256": "5f8f20eaf2020c66ac968664d5d87fa8a7802d46d695b4b8ab6a15ba0dfb5a75",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
+    }
+  ],
   "published_evidence_crosschecks": [
     {
       "iso3": "PRY",
@@ -88,5 +101,53 @@
       "current_review_status": "programme_participation_only"
     }
   ],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "PRY-SUP-32852395-24402",
+      "iso3": "PRY",
+      "country": "Paraguay",
+      "document_id": "SUP-32852395eebba929982f",
+      "source_id": "F250_bf6deead49d7d7f76efd",
+      "source_url": "https://dinavisa.gov.py/resoluciones/",
+      "raw_sha256": "32852395eebba929982f525c2e36464b0bb8054ddd696de8c78d54354809efb3",
+      "text_sha256": "5f8f20eaf2020c66ac968664d5d87fa8a7802d46d695b4b8ab6a15ba0dfb5a75",
+      "start_offset": 24402,
+      "end_offset": 24697,
+      "pdf_page": null,
+      "verbatim_extracted_text": "RESOLUCIÓN DINAVISA N°147\nPOR LA CUAL SE APRUEBA EL MANUAL DE BUENAS PRÁCTICAS DE UTILIZACIÓN DE DECISIONES REGULATORIAS DE OTRAS AUTORIDADES (RELIANCE) EN LA REGULACIÓN DE MEDICAMENTOS, VACUNAS, SANGRE Y HEMODERIVADOS, DISPOSITIVOS MÉDICOS, INCLUIDOS LOS PRODUCTOS PARA DIAGNÓSTICO “IN VITRO”.\n",
+      "display_text": "RESOLUCIÓN DINAVISA N°147\nPOR LA CUAL SE APRUEBA EL MANUAL DE BUENAS PRÁCTICAS DE UTILIZACIÓN DE DECISIONES REGULATORIAS DE OTRAS AUTORIDADES (RELIANCE) EN LA REGULACIÓN DE MEDICAMENTOS, VACUNAS, SANGRE Y HEMODERIVADOS, DISPOSITIVOS MÉDICOS, INCLUIDOS LOS PRODUCTOS PARA DIAGNÓSTICO “IN VITRO”.\n",
+      "feature_tags": [
+        "scope_limit"
+      ],
+      "role": "Official resolution index; operative instrument not present in this text",
+      "language": "es",
+      "language_status": "Supplemental original-language source; Official resolution index; operative instrument not present in this text",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official resolution index; operative instrument not present in this text. Scope: Official confirmation that a reliance manual was approved; detailed route unverified. The regulator names an adopted reliance manual covering medicines and other products. This index is documentary evidence of adoption of a manual, but does not establish the manual's route, reference regulators, force date, or eligibility.",
+      "version_alignment": "Official index confirms approval of a manual; operative text and force date not reviewed. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official resolution index; operative instrument not present in this text",
+      "section_article": "Official index, Resolution DINAVISA 147",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "B-PRY-004",
+      "parallel_partition": "parallel_b",
+      "scope": "Official confirmation that a reliance manual was approved; detailed route unverified",
+      "legal_type": "Official resolution index; operative instrument not present in this text",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "32852395eebba929982f525c2e36464b0bb8054ddd696de8c78d54354809efb3"
+    ]
+  }
 }

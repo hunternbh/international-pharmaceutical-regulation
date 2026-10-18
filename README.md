@@ -39,4 +39,4 @@ This repository contains the dashboard and its supporting exports. It is not the
 
 The supplied validation checks cover panel size, unique links, reference counts, chart controls and source-detail rendering. No causal interpretation is implied by the descriptive figures.
 
-Authors: Hunter Ng (Baruch College, CUNY; hunterboonhian.ng@baruch.cuny.edu), Shou-Ming Chang (The Graduate Center, CUNY; schang@gradcenter.cuny.edu), and Yung-Cheng Lin (Postdoctoral Global Fellow, NYU School of Law; S.J.D., Penn Carey Law; yclin730@penncareylaw.upenn.edu).
+Authors: Hunter Ng (Baruch College, CUNY; hunterboonhian.ng@baruch.cuny.edu), Shou-Ming Chang (The Graduate Center, CUNY; schang@gradcenter.cuny.edu).

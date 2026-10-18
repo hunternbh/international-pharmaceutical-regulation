@@ -186,6 +186,18 @@
       "access_conditions": "Public unauthenticated source; no private account or correspondence",
       "licensing": "See original publication; public access does not establish reuse licence",
       "pages": 23
+    },
+    {
+      "document_id": "SUP-ab68e32d36d06de5344c",
+      "source_id": "4e8101de63ead78d",
+      "title": "§4.1,assessment-reportredactionandpublicreports",
+      "source_url": "https://www.sfda.gov.sa/sites/default/files/2024-05/VerificationAbridgedProcess22.pdf",
+      "raw_sha256": "ab68e32d36d06de5344ce3c356f3e8c3cdd6d3f413059a0d979b656fede9a245",
+      "text_sha256": "620170a0a8564529636caa8dc03049825da86eefe7ee7acb5875a5479c1bec30",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [
@@ -220,5 +232,53 @@
       "current_review_status": "national_rule"
     }
   ],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "SAU-SUP-ab68e32d-8305",
+      "iso3": "SAU",
+      "country": "Saudi Arabia",
+      "document_id": "SUP-ab68e32d36d06de5344c",
+      "source_id": "4e8101de63ead78d",
+      "source_url": "https://www.sfda.gov.sa/sites/default/files/2024-05/VerificationAbridgedProcess22.pdf",
+      "raw_sha256": "ab68e32d36d06de5344ce3c356f3e8c3cdd6d3f413059a0d979b656fede9a245",
+      "text_sha256": "620170a0a8564529636caa8dc03049825da86eefe7ee7acb5875a5479c1bec30",
+      "start_offset": 8305,
+      "end_offset": 8980,
+      "pdf_page": null,
+      "verbatim_extracted_text": "iii. \nThe submitted assessment reports should be unredacted or \nunedited, when possible, and should include details of \nimposed licensing conditions, final product labelling, \nchemistry and clinical review, and other information in \nrelation to the product’s approval. Redacted or edited reports \nmight be acceptable if not related to the quality, safety or \nefficacy \nof \nthe \nproduct. \nTrade \nsecrets, \nconfidential \ncommercial and financial information, can be excluded from \nthe submission. Reports obtained from the public domain are \ndeemed unacceptable.  \n• Abridged process: Similar to verification but only from either of the \ntwo reference regulatory agencies.  \n \n",
+      "display_text": "iii. \nThe submitted assessment reports should be unredacted or \nunedited, when possible, and should include details of \nimposed licensing conditions, final product labelling, \nchemistry and clinical review, and other information in \nrelation to the product’s approval. Redacted or edited reports \nmight be acceptable if not related to the quality, safety or \nefficacy \nof \nthe \nproduct. \nTrade \nsecrets, \nconfidential \ncommercial and financial information, can be excluded from \nthe submission. Reports obtained from the public domain are \ndeemed unacceptable.  \n• Abridged process: Similar to verification but only from either of the \ntwo reference regulatory agencies.  \n \n",
+      "feature_tags": [
+        "reports"
+      ],
+      "role": "Official SFDAVerification/Abridgedguidelinev 2.2",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official SFDAVerification/Abridgedguidelinev 2.2",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official SFDAVerification/Abridgedguidelinev 2.2. Scope: Private assessment-report access versus justified masking. Saudi rules allow justified masking of information unrelated to quality, safety or efficacy while rejecting public-domain reports. This differs from both a strict unredacted-only rule and a public-report route.",
+      "version_alignment": "Official guideline version 2.2, May 2024; original implementation date not newly verified. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official SFDAVerification/Abridgedguidelinev 2.2",
+      "section_article": "§4.1,assessment-reportredactionandpublicreports",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "B-SAU-028",
+      "parallel_partition": "parallel_b",
+      "scope": "Private assessment-report access versus justified masking",
+      "legal_type": "Official SFDAVerification/Abridgedguidelinev 2.2",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "ab68e32d36d06de5344ce3c356f3e8c3cdd6d3f413059a0d979b656fede9a245"
+    ]
+  }
 }

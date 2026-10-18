@@ -54,7 +54,66 @@
     "no_reviewed_individual_passage": true,
     "no_reviewed_national_authorisation_pathway": true
   },
-  "source_documents": [],
+  "source_documents": [
+    {
+      "document_id": "SUP-75df7ecf8d9a92f72d4a",
+      "source_id": "F250_19f921ed8460c6e45c4b",
+      "title": "September 2011 profile§5.2",
+      "source_url": "https://cdn.who.int/media/docs/default-source/searo/hsd/edm/nep-pscp-report-ok.pdf",
+      "raw_sha256": "75df7ecf8d9a92f72d4adf9e2475df8d152eca50ded72cb29cd0a108d6c4671f",
+      "text_sha256": "c5eccd1492ae377be1a23c7b0b716f5da3e637d4d75461b8f31918f30d8c6383",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
+    }
+  ],
   "published_evidence_crosschecks": [],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "NPL-SUP-75df7ecf-24212",
+      "iso3": "NPL",
+      "country": "Nepal",
+      "document_id": "SUP-75df7ecf8d9a92f72d4a",
+      "source_id": "F250_19f921ed8460c6e45c4b",
+      "source_url": "https://cdn.who.int/media/docs/default-source/searo/hsd/edm/nep-pscp-report-ok.pdf",
+      "raw_sha256": "75df7ecf8d9a92f72d4adf9e2475df8d152eca50ded72cb29cd0a108d6c4671f",
+      "text_sha256": "c5eccd1492ae377be1a23c7b0b716f5da3e637d4d75461b8f31918f30d8c6383",
+      "start_offset": 24212,
+      "end_offset": 25024,
+      "pdf_page": null,
+      "verbatim_extracted_text": "5.2 Marketing Authorization (Registration) \nIn Nepal, legal provisions require marketing authorization (registration) for all \npharmaceutical products on the market. Mutual recognitions mechanisms are not \nin place.  Explicit and publicly available criteria exist for assessing applications \nfor marketing authorization of pharmaceutical products [30]. In 2011, there were \n10,316  pharmaceutical products registered in Nepal [15]. There are not legal \nprovisions requiring the MRA to make the list of registered pharmaceutical \nproducts publicly available and update it regularly. Medicines are always \nregistered by their INN (International Non-proprietary Names) or Brand name + \nINN. Legal provisions require a fee to be paid for Medicines Market Authorization \n(registration) based on applications [30]. \n \n",
+      "display_text": "5.2 Marketing Authorization (Registration) \nIn Nepal, legal provisions require marketing authorization (registration) for all \npharmaceutical products on the market. Mutual recognitions mechanisms are not \nin place.  Explicit and publicly available criteria exist for assessing applications \nfor marketing authorization of pharmaceutical products [30]. In 2011, there were \n10,316  pharmaceutical products registered in Nepal [15]. There are not legal \nprovisions requiring the MRA to make the list of registered pharmaceutical \nproducts publicly available and update it regularly. Medicines are always \nregistered by their INN (International Non-proprietary Names) or Brand name + \nINN. Legal provisions require a fee to be paid for Medicines Market Authorization \n(registration) based on applications [30]. \n \n",
+      "feature_tags": [],
+      "role": "Ministry/WHO 2011 pharmaceuticalcountry-profilehistoricalsurvey",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Ministry/WHO 2011 pharmaceuticalcountry-profilehistoricalsurvey",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Ministry/WHO 2011 pharmaceuticalcountry-profilehistoricalsurvey. Scope: Historical report on mutual recognition, not current absence. The 2011 Ministry/WHO profile reported no mutual-recognition mechanisms. Retain it as a historical survey observation, not a statement that Nepal has no reliance route today.",
+      "version_alignment": "Historical 2011 Ministry/WHO survey observation; not current law. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Ministry/WHO 2011 pharmaceuticalcountry-profilehistoricalsurvey",
+      "section_article": "September 2011 profile§5.2",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "B-NPL-030",
+      "parallel_partition": "parallel_b",
+      "scope": "Historical report on mutual recognition, not current absence",
+      "legal_type": "Ministry/WHO 2011 pharmaceuticalcountry-profilehistoricalsurvey",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "75df7ecf8d9a92f72d4adf9e2475df8d152eca50ded72cb29cd0a108d6c4671f"
+    ]
+  }
 }

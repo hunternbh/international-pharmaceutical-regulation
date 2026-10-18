@@ -152,6 +152,18 @@
       "access_conditions": "Public unauthenticated source; no private account or correspondence",
       "licensing": "See original publication; public access does not establish reuse licence",
       "pages": 74
+    },
+    {
+      "document_id": "SUP-555e25032ddc6bab663e",
+      "source_id": "F250_6499ab6141c14d78f499",
+      "title": "PPBmarketingauthorisationFAQ:simplifiedreview",
+      "source_url": "https://web.pharmacyboardkenya.org/faq-marketing-authorization/",
+      "raw_sha256": "555e25032ddc6bab663e802881016d878914aa741e540ec7eb46088d68d9cacf",
+      "text_sha256": "eadd646023ea9fe1772c91383a35329a2e2036b3a7b2fac539d56cca33003b5f",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [
@@ -204,5 +216,54 @@
       "current_review_status": "national_rule"
     }
   ],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "KEN-SUP-555e2503-1777",
+      "iso3": "KEN",
+      "country": "Kenya",
+      "document_id": "SUP-555e25032ddc6bab663e",
+      "source_id": "F250_6499ab6141c14d78f499",
+      "source_url": "https://web.pharmacyboardkenya.org/faq-marketing-authorization/",
+      "raw_sha256": "555e25032ddc6bab663e802881016d878914aa741e540ec7eb46088d68d9cacf",
+      "text_sha256": "eadd646023ea9fe1772c91383a35329a2e2036b3a7b2fac539d56cca33003b5f",
+      "start_offset": 1777,
+      "end_offset": 2090,
+      "pdf_page": null,
+      "verbatim_extracted_text": "Can a product already registered with WHO or an SRA be registered through a simplified process in Kenya?\nYes, PPB allows reliance or abridged review for products approved by Reference Regulatory Authorities (RRAs) or prequalified by WHO, provided the product is identical and relevant documentation is submitted.\n",
+      "display_text": "Can a product already registered with WHO or an SRA be registered through a simplified process in Kenya?\nYes, PPB allows reliance or abridged review for products approved by Reference Regulatory Authorities (RRAs) or prequalified by WHO, provided the product is identical and relevant documentation is submitted.\n",
+      "feature_tags": [
+        "sameness",
+        "scope_limit"
+      ],
+      "role": "Official regulator explanation",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official regulator explanation",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official regulator explanation. Scope: Reference-approvedorWHO-prequalifiedmedicines. Kenya allows reliance or abridged review for medicines approved by reference authorities or prequalified by WHO when the product is identical and the applicant supplies the relevant documents. The FAQ does not date first adoption or list every recognised authority.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official regulator explanation",
+      "section_article": "PPBmarketingauthorisationFAQ:simplifiedreview",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "KEN-PA-35",
+      "parallel_partition": "parallel_a",
+      "scope": "Reference-approvedorWHO-prequalifiedmedicines",
+      "legal_type": "Official regulator explanation",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "555e25032ddc6bab663e802881016d878914aa741e540ec7eb46088d68d9cacf"
+    ]
+  }
 }

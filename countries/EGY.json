@@ -152,6 +152,18 @@
       "access_conditions": "Public URL; no account requested",
       "licensing": "Source terms apply; public access is not an open reuse licence",
       "pages": 14
+    },
+    {
+      "document_id": "SUP-986bbf523c7e924f9aee",
+      "source_id": "d75945319258cc53",
+      "title": "Guideline version 3,VI.1.1, abridged registration",
+      "source_url": "https://www.edaegypt.gov.eg/media/d0gdk0uy/final-grelp-guideline-version-3.pdf",
+      "raw_sha256": "986bbf523c7e924f9aeece38c105b63e7066f6e03a1ee8c8aed387cd243b5e85",
+      "text_sha256": "812d9085ba6f7158fe06f7a3f0a3387e4e628142ebed9bdc887bd8e70f0dcbf8",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [
@@ -186,5 +198,55 @@
       "current_review_status": "national_rule"
     }
   ],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "EGY-SUP-986bbf52-9923",
+      "iso3": "EGY",
+      "country": "Egypt",
+      "document_id": "SUP-986bbf523c7e924f9aee",
+      "source_id": "d75945319258cc53",
+      "source_url": "https://www.edaegypt.gov.eg/media/d0gdk0uy/final-grelp-guideline-version-3.pdf",
+      "raw_sha256": "986bbf523c7e924f9aeece38c105b63e7066f6e03a1ee8c8aed387cd243b5e85",
+      "text_sha256": "812d9085ba6f7158fe06f7a3f0a3387e4e628142ebed9bdc887bd8e70f0dcbf8",
+      "start_offset": 9923,
+      "end_offset": 10628,
+      "pdf_page": null,
+      "verbatim_extracted_text": "1.1 \nAbridged Registration \n▪ Products with EMA and FDA approval shall be registered at EDA within 30 \ndays after the verification of the sameness of a medicinal product and taking \ninto consideration the country-specific information submitted for review. \n▪ Products with EMA or FDA approval shall be registered at EDA within 60 days \nafter the verification of the sameness of a medicinal product and taking into \nconsideration the country-specific information.  \n \n\n\nPAGE 7\n  \n   \n \n \n  \n \n7 \n \n \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \n",
+      "display_text": "1.1 \nAbridged Registration \n▪ Products with EMA and FDA approval shall be registered at EDA within 30 \ndays after the verification of the sameness of a medicinal product and taking \ninto consideration the country-specific information submitted for review. \n▪ Products with EMA or FDA approval shall be registered at EDA within 60 days \nafter the verification of the sameness of a medicinal product and taking into \nconsideration the country-specific information.  \n \n\n\nPAGE 7\n  \n   \n \n \n  \n \n7 \n \n \n \n \nGuideline \nGUIDELINES ON Reliance Practices During Registration of \nMedicinal Products \nCentral Administration of Pharmaceutical Products  \nGeneral Administration of Human pharmaceuticals registration \n",
+      "feature_tags": [
+        "two_approvals",
+        "sameness",
+        "decision_clock"
+      ],
+      "role": "Official EDA registration reliance guideline, version 3",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official EDA registration reliance guideline, version 3",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official EDA registration reliance guideline, version 3. Scope: EMA/FDA approvals and product sameness. The guideline sets 30 days with both EMA and FDA approvals and 60 days with either, after sameness verification and local-information consideration. These are written targets, not observed time savings.",
+      "version_alignment": "Official registration reliance guideline version 3; original effective date not inferred. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official EDA registration reliance guideline, version 3",
+      "section_article": "Guideline version 3,VI.1.1, abridged registration",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "B-EGY-034",
+      "parallel_partition": "parallel_b",
+      "scope": "EMA/FDA approvals and product sameness",
+      "legal_type": "Official EDA registration reliance guideline, version 3",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "986bbf523c7e924f9aeece38c105b63e7066f6e03a1ee8c8aed387cd243b5e85"
+    ]
+  }
 }

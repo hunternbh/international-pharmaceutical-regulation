@@ -156,6 +156,18 @@
       "access_conditions": "Public unauthenticated request; no authentication bypass",
       "licensing": "Original publication terms apply; public access is not a redistribution licence",
       "pages": 10
+    },
+    {
+      "document_id": "SUP-ab1ca68c2f2ad9f412fa",
+      "source_id": "F250_3231a0dc2647adb3999c",
+      "title": "Note 36/2026,availabilitynotification",
+      "source_url": "https://anpp.dz/download/146/notes/22205/note-n36-2026-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement-des-produits-pharmaceutique.pdf",
+      "raw_sha256": "ab1ca68c2f2ad9f412fa6f2e12ee101fa4583a3962e19474da74108be530aa55",
+      "text_sha256": "1059d06e86788a417d6369c8395017209b6a3142835f546df23078bdbb183b4c",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [
@@ -190,5 +202,57 @@
       "current_review_status": "national_rule"
     }
   ],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "DZA-SUP-ab1ca68c-358",
+      "iso3": "DZA",
+      "country": "Algeria",
+      "document_id": "SUP-ab1ca68c2f2ad9f412fa",
+      "source_id": "F250_3231a0dc2647adb3999c",
+      "source_url": "https://anpp.dz/download/146/notes/22205/note-n36-2026-relative-a-la-confiance-reglementaire-et-a-la-reconnaissance-dans-le-cadre-de-lenregistrement-et-de-la-modification-des-decision-denregistrement-des-produits-pharmaceutique.pdf",
+      "raw_sha256": "ab1ca68c2f2ad9f412fa6f2e12ee101fa4583a3962e19474da74108be530aa55",
+      "text_sha256": "1059d06e86788a417d6369c8395017209b6a3142835f546df23078bdbb183b4c",
+      "start_offset": 358,
+      "end_offset": 728,
+      "pdf_page": 1,
+      "verbatim_extracted_text": "Il est porté à la connaissance des établissements pharmaceutiques que la ligne\ndirectrice sur la voie alternative : confiance réglementaire et reconnaissance lors\nde l’enregistrement et la modification de la décision d’enregistrement des\nproduits pharmaceutiques est désormais disponible sur le site web de l’ANPP\n\nvia le lien suivant :\n\nhttps://anpp.dz/fr/guidelines/\n\n",
+      "display_text": "Il est porté à la connaissance des établissements pharmaceutiques que la ligne\ndirectrice sur la voie alternative : confiance réglementaire et reconnaissance lors\nde l’enregistrement et la modification de la décision d’enregistrement des\nproduits pharmaceutiques est désormais disponible sur le site web de l’ANPP\n\nvia le lien suivant :\n\nhttps://anpp.dz/fr/guidelines/\n\n",
+      "feature_tags": [],
+      "role": "Officialscanned ANPPinformationnote;OCRvisuallychecked",
+      "language": "fr",
+      "language_status": "Supplemental original-language source; Officialscanned ANPPinformationnote;OCRvisuallychecked",
+      "quote_method": "Exact substring of preservedTesseractOCR;selectedbodyvisuallycheckedagainstoriginalimage",
+      "ocr_in_passage": true,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Officialscanned ANPPinformationnote;OCRvisuallychecked. Scope: Availability of reliance/recognition registration guideline. The notice confirms publication of ANPP alternative-pathway guidance but does not define reference authorities, timelines or legal consequences. The 22 April 2026 stamp was visually checked; it is an issue date, not a validated pathway commencement date.",
+      "version_alignment": "Scanned information note dated 22 April 2026; operative pathway grant not included. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Officialscanned ANPPinformationnote;OCRvisuallychecked",
+      "section_article": "Note 36/2026,availabilitynotification",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "B-DZA-029",
+      "parallel_partition": "parallel_b",
+      "scope": "Availability of reliance/recognition registration guideline",
+      "legal_type": "Officialscanned ANPPinformationnote;OCRvisuallychecked",
+      "verified_dates": [
+        {
+          "date": "2026-04-22",
+          "basis": "Issue stamp visually checked against source scan",
+          "applies_to": "Information note only, not route effective date"
+        }
+      ],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "ab1ca68c2f2ad9f412fa6f2e12ee101fa4583a3962e19474da74108be530aa55"
+    ]
+  }
 }

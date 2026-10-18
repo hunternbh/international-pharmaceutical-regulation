@@ -158,6 +158,30 @@
       "access_conditions": "Public unauthenticated source; no private account or correspondence",
       "licensing": "See original publication; public access does not establish reuse licence",
       "pages": 1
+    },
+    {
+      "document_id": "SUP-8628c7fa474cf49c564b",
+      "source_id": "518cc25fe750d6f6",
+      "title": "Adoption of WHO CRP, paragraphs 1–3",
+      "source_url": "https://www.fda.gov.ph/wp-content/uploads/2020/09/Administrative-Order-2020-0044.pdf",
+      "raw_sha256": "8628c7fa474cf49c564bbbee31114bbca771d94cfd52cfa85b11804cf353b3a3",
+      "text_sha256": "544e4a158e217ea08a187c6aa53f78d2d9737a5c90551b8c7ce07c9ef91d9af8",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
+    },
+    {
+      "document_id": "SUP-46d997a652583db8f5a9",
+      "source_id": "F250_2c1ab7bf238dcc29c90e",
+      "title": "Circular 2022-009, Specific Guidelines 1(a)–(b), regulatory time",
+      "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-009-implementing-guidelines-of-administrative-order-no-2020-0044-adoption-of-the-collaborative-procedure-for-the-accelerated-registration-of-world-health-organization/",
+      "raw_sha256": "46d997a652583db8f5a9d2a0c8fdf95f9134f50668bba0fdc0c66ab7a63d4678",
+      "text_sha256": "fc37d11a482232b4aa2ef5a6daf9999754c8ac961d95c3d811d3e51272e59383",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [
@@ -246,5 +270,92 @@
       "current_review_status": "national_rule"
     }
   ],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "PHL-SUP-46d997a6-6851",
+      "iso3": "PHL",
+      "country": "Philippines",
+      "document_id": "SUP-46d997a652583db8f5a9",
+      "source_id": "F250_2c1ab7bf238dcc29c90e",
+      "source_url": "https://www.fda.gov.ph/fda-circular-no-2022-009-implementing-guidelines-of-administrative-order-no-2020-0044-adoption-of-the-collaborative-procedure-for-the-accelerated-registration-of-world-health-organization/",
+      "raw_sha256": "46d997a652583db8f5a9d2a0c8fdf95f9134f50668bba0fdc0c66ab7a63d4678",
+      "text_sha256": "fc37d11a482232b4aa2ef5a6daf9999754c8ac961d95c3d811d3e51272e59383",
+      "start_offset": 6851,
+      "end_offset": 8059,
+      "pdf_page": null,
+      "verbatim_extracted_text": "C. Specific Guidelines\n1. Regulatory time\na. Within five (5) working days after acceptance of the application, the FDA shall notify the WHO/PQT of its consent to apply the procedure, and request for access to the product-specific information.\nThe regulatory time is stopped (stop clock) until the WHO/PQT has provided the FDA with the requested product-related information and documentation, through the restricted-access website.\nb. The regulatory time shall resume after the acceptance of the application and access to confidential information has been granted by the WHO/PQT and shall continue until the date of decision on the application. These shall be sixty (60) working days for the review of registration applications and twenty (20) working days for the review post-approval change/s applications.\nThe regulatory time does not include the time granted to the applicant to complete missing parts of the documentation, provide additional data, or respond to queries and clarifications found during the review as communicated by FDA through an electronic notice of deficiencies. The regulatory time is stopped until necessary compliance documents have been submitted.\n2. Applications for Registration\n",
+      "display_text": "C. Specific Guidelines\n1. Regulatory time\na. Within five (5) working days after acceptance of the application, the FDA shall notify the WHO/PQT of its consent to apply the procedure, and request for access to the product-specific information.\nThe regulatory time is stopped (stop clock) until the WHO/PQT has provided the FDA with the requested product-related information and documentation, through the restricted-access website.\nb. The regulatory time shall resume after the acceptance of the application and access to confidential information has been granted by the WHO/PQT and shall continue until the date of decision on the application. These shall be sixty (60) working days for the review of registration applications and twenty (20) working days for the review post-approval change/s applications.\nThe regulatory time does not include the time granted to the applicant to complete missing parts of the documentation, provide additional data, or respond to queries and clarifications found during the review as communicated by FDA through an electronic notice of deficiencies. The regulatory time is stopped until necessary compliance documents have been submitted.\n2. Applications for Registration\n",
+      "feature_tags": [
+        "reports",
+        "decision_clock",
+        "applicant_consent"
+      ],
+      "role": "Official Philippine FDA administrative circular",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official Philippine FDA administrative circular",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official Philippine FDA administrative circular. Scope: WHO-CRP initial registration and variation clocks. The clock pauses until WHO grants confidential-document access and while the applicant answers questions. Initial registrations target 60 working days and changes target 20; neither is elapsed time since first foreign approval.",
+      "version_alignment": "Official Circular 2022-009 implementing AO 2020-0044; no original force date newly assigned. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official Philippine FDA administrative circular",
+      "section_article": "Circular 2022-009, Specific Guidelines 1(a)–(b), regulatory time",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "B-PHL-033",
+      "parallel_partition": "parallel_b",
+      "scope": "WHO-CRP initial registration and variation clocks",
+      "legal_type": "Official Philippine FDA administrative circular",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    },
+    {
+      "clause_id": "PHL-SUP-8628c7fa-2640",
+      "iso3": "PHL",
+      "country": "Philippines",
+      "document_id": "SUP-8628c7fa474cf49c564b",
+      "source_id": "518cc25fe750d6f6",
+      "source_url": "https://www.fda.gov.ph/wp-content/uploads/2020/09/Administrative-Order-2020-0044.pdf",
+      "raw_sha256": "8628c7fa474cf49c564bbbee31114bbca771d94cfd52cfa85b11804cf353b3a3",
+      "text_sha256": "544e4a158e217ea08a187c6aa53f78d2d9737a5c90551b8c7ce07c9ef91d9af8",
+      "start_offset": 2640,
+      "end_offset": 3586,
+      "pdf_page": null,
+      "verbatim_extracted_text": "ADOPTION OF THE WHO CRP\n1.\nThe FDAhereby adopts the current version of the Annex 8 of WHO TRSNo.996,\n“Collaborative\nprocedure\nbetween\nthe\nWorld\nHealth\nOrganization\nPrequalification Team and national regulatory authorities in the assessment and\naccelerated national registration of WHO-prequalified pharmaceutical products\nand vaccines’’, including all further supplements and revisions related thereto, as\nan alternative registration pathway for drug products, including vaccines.\n2.\nOnly\nFDA-licensed\ndrug\ndistributors,\ntraders,\nand\nmanufacturers\nwith WHO\nPrequalified\nvaccines or drug products may apply for a Certificate of Product\nRegistration through the Collaborative Procedure pathway.\n3.\nProcedural\nguidelines,\nincluding\nthe\napplication\nprocess,\ndocumentary\nrequirements,\nforms, and evaluation processes shall be issued via separate FDA\nCircular, for effective and efficient implementation of this Order.\nREPEALING AND SEPARABILITY CLAUSE",
+      "display_text": "ADOPTION OF THE WHO CRP\n1.\nThe FDAhereby adopts the current version of the Annex 8 of WHO TRSNo.996,\n“Collaborative\nprocedure\nbetween\nthe\nWorld\nHealth\nOrganization\nPrequalification Team and national regulatory authorities in the assessment and\naccelerated national registration of WHO-prequalified pharmaceutical products\nand vaccines’’, including all further supplements and revisions related thereto, as\nan alternative registration pathway for drug products, including vaccines.\n2.\nOnly\nFDA-licensed\ndrug\ndistributors,\ntraders,\nand\nmanufacturers\nwith WHO\nPrequalified\nvaccines or drug products may apply for a Certificate of Product\nRegistration through the Collaborative Procedure pathway.\n3.\nProcedural\nguidelines,\nincluding\nthe\napplication\nprocess,\ndocumentary\nrequirements,\nforms, and evaluation processes shall be issued via separate FDA\nCircular, for effective and efficient implementation of this Order.\nREPEALING AND SEPARABILITY CLAUSE",
+      "feature_tags": [],
+      "role": "administrative_order",
+      "language": "en",
+      "language_status": "Supplemental original-language source; administrative_order",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "administrative_order. Scope: WHO-prequalified drugs and vaccines. National adoption of WHO CRP is operative; applicants must be licensed. Calendar effective date not inferred from ambiguous scan date.",
+      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: administrative_order",
+      "section_article": "Adoption of WHO CRP, paragraphs 1–3",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "PC-PHL-095-15",
+      "parallel_partition": "parallel_c",
+      "scope": "WHO-prequalified drugs and vaccines",
+      "legal_type": "administrative_order",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 2,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "46d997a652583db8f5a9d2a0c8fdf95f9134f50668bba0fdc0c66ab7a63d4678",
+      "8628c7fa474cf49c564bbbee31114bbca771d94cfd52cfa85b11804cf353b3a3"
+    ]
+  }
 }

@@ -164,8 +164,66 @@
       "access_conditions": "Public unauthenticated source; no private account or correspondence",
       "licensing": "See original publication; public access does not establish reuse licence",
       "pages": 1
+    },
+    {
+      "document_id": "SUP-b666c2b28daeb1a6fcda",
+      "source_id": "F250_97e15def788e38c44f47",
+      "title": "Marketing authorisation procedures",
+      "source_url": "https://business.gov.nl/regulations/trading-permit-medicines/",
+      "raw_sha256": "b666c2b28daeb1a6fcda7ff53972f10185f3bd197c1e9d1a17a6a362cd330657",
+      "text_sha256": "facf4cf477e26ab068bde5278b2e25583d65a58b7297425db6d37e4c8f828dc6",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "NLD-SUP-b666c2b2-740",
+      "iso3": "NLD",
+      "country": "Netherlands (Kingdom of the)",
+      "document_id": "SUP-b666c2b28daeb1a6fcda",
+      "source_id": "F250_97e15def788e38c44f47",
+      "source_url": "https://business.gov.nl/regulations/trading-permit-medicines/",
+      "raw_sha256": "b666c2b28daeb1a6fcda7ff53972f10185f3bd197c1e9d1a17a6a362cd330657",
+      "text_sha256": "facf4cf477e26ab068bde5278b2e25583d65a58b7297425db6d37e4c8f828dc6",
+      "start_offset": 740,
+      "end_offset": 1806,
+      "pdf_page": null,
+      "verbatim_extracted_text": "If a medicine is already authorised in an EU country and you want bring it to market in another member state, for example the Netherlands, you follow the\nmutual recognition procedure\n. This makes your medicine available to the Dutch market by recognition of the assessment by a\nReference Member State\n(RMS).\nIf you want to put a medicine to market for the first time in more EU countries, you follow the\ndecentralised procedure\n.\nIf you want to put a medicine to market for the first time in all EU countries, you follow the\ncentralised procedure\n.\nMedicines for children\nhave a stricter procedure.\nProducts that have identical dossiers to previously authorised products can follow a\nsimplified procedure\n.\nFor the marketing authorisation, you must provide a dossier of the medicine. The medicine is then assessed for safety and efficacy. Which organisation makes the assessment depends on the procedure. For the Dutch market (national procedure), the Dutch Medicines Evaluation Board (MEB) issues the marketing authorisation.\nValidity of the marketing authorisation",
+      "display_text": "If a medicine is already authorised in an EU country and you want bring it to market in another member state, for example the Netherlands, you follow the\nmutual recognition procedure\n. This makes your medicine available to the Dutch market by recognition of the assessment by a\nReference Member State\n(RMS).\nIf you want to put a medicine to market for the first time in more EU countries, you follow the\ndecentralised procedure\n.\nIf you want to put a medicine to market for the first time in all EU countries, you follow the\ncentralised procedure\n.\nMedicines for children\nhave a stricter procedure.\nProducts that have identical dossiers to previously authorised products can follow a\nsimplified procedure\n.\nFor the marketing authorisation, you must provide a dossier of the medicine. The medicine is then assessed for safety and efficacy. Which organisation makes the assessment depends on the procedure. For the Dutch market (national procedure), the Dutch Medicines Evaluation Board (MEB) issues the marketing authorisation.\nValidity of the marketing authorisation",
+      "feature_tags": [],
+      "role": "official_government_explanation",
+      "language": "en",
+      "language_status": "Supplemental original-language source; official_government_explanation",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "official_government_explanation. Scope: EU MRP/DCP/centralised authorisation. Prior EU authorisation enables MRP based on RMS assessment; dossier safety/efficacy review still applies.",
+      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: official_government_explanation",
+      "section_article": "Marketing authorisation procedures",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "PC-NLD-130-17",
+      "parallel_partition": "parallel_c",
+      "scope": "EU MRP/DCP/centralised authorisation",
+      "legal_type": "official_government_explanation",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "b666c2b28daeb1a6fcda7ff53972f10185f3bd197c1e9d1a17a6a362cd330657"
+    ]
+  }
 }

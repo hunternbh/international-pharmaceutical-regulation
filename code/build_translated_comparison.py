@@ -17,6 +17,12 @@ import matplotlib.pyplot as plt
 import cmudict,pyphen
 read=lambda p:json.loads(p.read_text('utf8'))
 old=read(A/'text_analysis_results.json');base=read(A/'model_documents.json');M=read(F/'web_expanded_country_documents.json');Q=read(F/'web_expanded_clauses.json');TR={r['id']:r for r in read(O/'expanded_review/checked_translations.json')}
+input_files=[A/'text_analysis_results.json',A/'model_documents.json',F/'web_expanded_country_documents.json',F/'web_expanded_clauses.json',O/'expanded_review/checked_translations.json',Path(__file__)]
+fingerprint=hashlib.sha256(b''.join(p.read_bytes() for p in input_files)).hexdigest()
+if (A/'similarity_breakdown.json').exists() and (A/'combined_english_analysis_documents.json').exists() and (F/'figures/word_frequency_ranking.png').exists():
+ previous=read(A/'similarity_breakdown.json')
+ if previous.get('input_fingerprint')==fingerprint:
+  print(json.dumps(dict(cached=True,sample_n=previous['sample_n'],checked_translations=previous['checked_translation_n'])));sys.exit(0)
 names={r['iso3']:r['country'] for r in read(F/'country_review_audit.json')}
 def words(t):return re.findall(r"[a-z]+(?:'[a-z]+)?",t.lower())
 def clean(t):return re.sub(r'\s+',' ',re.sub(r'https?://\S+',' ',t)).strip()
@@ -120,6 +126,7 @@ for name,idx in [('Official English only',[i for i,d in enumerate(docs) if not d
  checks.append(dict(sample=name,n=len(idx),pairwise_similarity_correlation=float(np.corrcoef(sim[np.ix_(idx,idx)][tri],s[tri])[0,1]),dominant_topic_counts=[int(sum(dominant[i]==k for i in idx)) for k in range(best)]))
 result=dict(method='POS-aware WordNet lemmatisation; content words plus legal modals/negation; TF-IDF cosine similarity. LDA topics chosen by UMass coherence on a fixed 75% training sample, k=2..5, refitted on all texts.',sample_n=len(docs),official_english_n=sum(not d['checked_translation'] for d in docs),checked_translation_n=sum(d['checked_translation'] for d in docs),translated_countries=[d['iso3'] for d in docs if d['checked_translation']],short_excerpt_n=sum(d['short_excerpt'] for d in docs),primary_n=sum(d['primary_legal_comparison'] for d in docs),country_codes=[d['iso3'] for d in docs],countries=[{k:d[k] for k in ['iso3','country','checked_translation','short_excerpt','words','evidence_tier']} for d in docs],matrix=(sim*100).tolist(),neighbors=neighbors,word_frequencies=frequencies,topics=topics,topic_selection=candidates,selected_topics=best,topic_seed_ari=stability,topic_median_ari=float(np.median(stability)),sensitivities=checks,readability_summary=readability_summary,excluded=excluded,translation_policy='Checked translations are the de facto English texts with the same weighting as official English texts. All selected primary passages must be checked. No 80-word exclusion in the main comparison; short excerpts are flagged and tested separately.',adaptation='Follows Gurrola-Perez and Lin (2024), Section 5: POS/lemmatisation, word importance, LDA keywords and jurisdiction counts. Their source texts use official English translations; ours additionally use checked research translations. UMass coherence, seed tests and nearest matches are explicit extensions; not a replication.',scope='One selected primary source per jurisdiction; pathway, limited-scope and explanatory texts separately identified. Translated readability is not evidence about original-language drafting complexity.')
 for folder in [A,O/'analysis']:
+ result['input_fingerprint']=fingerprint
  (folder/'similarity_breakdown.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf8')
  (folder/'combined_english_analysis_documents.json').write_text(json.dumps(docs,ensure_ascii=False,indent=2),encoding='utf8')
 fig,ax=plt.subplots(figsize=(10.5,5.6));ax.barh(range(len(frequencies)),[r['percent'] for r in frequencies],color='#176b64');ax.set_yticks(range(len(frequencies)),[r['term'] for r in frequencies]);ax.invert_yaxis();ax.set_xlim(0,100);ax.set_xlabel(f'Percentage of the {len(docs)} selected English or translated texts using the word');ax.spines[['top','right']].set_visible(False)

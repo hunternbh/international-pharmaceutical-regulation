@@ -183,8 +183,70 @@
       "access_conditions": "Public unauthenticated request; no authentication bypass",
       "licensing": "Original publication terms apply; public access is not a redistribution licence",
       "pages": 84
+    },
+    {
+      "document_id": "SUP-9f104bddf7ccf143a41f",
+      "source_id": "F250_32cff11f89fbc02003d1",
+      "title": "Bhutan Medicines Rules2025sections124–125",
+      "source_url": "https://bfda.gov.bt/wp-content/uploads/2026/05/Bhutan-Medicine-Rules-and-Regulation-2025.pdf",
+      "raw_sha256": "9f104bddf7ccf143a41f6eae8c3632998d845e6dda2a766d16fe8a3b619289c5",
+      "text_sha256": "14574cc929539517d44794a7d9a450178e6f5bf7b04b1f54d8dd3f6380e9151e",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "BTN-SUP-9f104bdd-45878",
+      "iso3": "BTN",
+      "country": "Bhutan",
+      "document_id": "SUP-9f104bddf7ccf143a41f",
+      "source_id": "F250_32cff11f89fbc02003d1",
+      "source_url": "https://bfda.gov.bt/wp-content/uploads/2026/05/Bhutan-Medicine-Rules-and-Regulation-2025.pdf",
+      "raw_sha256": "9f104bddf7ccf143a41f6eae8c3632998d845e6dda2a766d16fe8a3b619289c5",
+      "text_sha256": "14574cc929539517d44794a7d9a450178e6f5bf7b04b1f54d8dd3f6380e9151e",
+      "start_offset": 45878,
+      "end_offset": 46461,
+      "pdf_page": 36,
+      "verbatim_extracted_text": "124.\t The Authority may recognize relevant information on quality, \nsafety and efficacy/effectiveness from reference authorities \nand international organisations for the purpose of registration of \nmedicinal products.\n125.\t The Authority may reject the registration of medicinal product on \nthe following grounds: \n(1)\t\nbanned in other countries; \n(2)\t\nirrational combination for medicinal product; \n(3)\t\nlimited evidence of safety and efficacy/effectiveness; or\n(4)\t\nany other reasons as deemed appropriate by the Authority.\n\n\nPAGE 37\n31\nBhutan Medicines Rules And Regulation, 2025\n",
+      "display_text": "124.\t The Authority may recognize relevant information on quality, \nsafety and efficacy/effectiveness from reference authorities \nand international organisations for the purpose of registration of \nmedicinal products.\n125.\t The Authority may reject the registration of medicinal product on \nthe following grounds: \n(1)\t\nbanned in other countries; \n(2)\t\nirrational combination for medicinal product; \n(3)\t\nlimited evidence of safety and efficacy/effectiveness; or\n(4)\t\nany other reasons as deemed appropriate by the Authority.\n\n\nPAGE 37\n31\nBhutan Medicines Rules And Regulation, 2025\n",
+      "feature_tags": [
+        "scope_limit",
+        "discretion",
+        "adverse_foreign_history"
+      ],
+      "role": "Official implementing regulation",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official implementing regulation",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official implementing regulation. Scope: Enabling recognition of reference-authority/international information for medicines registration. The authority may recognise foreign quality, safety and efficacy information for registration and may refuse banned products, irrational combinations, limited evidence or other appropriate reasons. Specific references/eligibility are delegated to guidance; this is not automatic foreign authorisation.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official implementing regulation",
+      "section_article": "Bhutan Medicines Rules2025sections124–125",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "BTN-PA-37",
+      "parallel_partition": "parallel_a",
+      "scope": "Enabling recognition of reference-authority/international information for medicines registration",
+      "legal_type": "Official implementing regulation",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "9f104bddf7ccf143a41f6eae8c3632998d845e6dda2a766d16fe8a3b619289c5"
+    ]
+  }
 }

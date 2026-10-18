@@ -54,7 +54,68 @@
     "no_reviewed_individual_passage": true,
     "no_reviewed_national_authorisation_pathway": true
   },
-  "source_documents": [],
+  "source_documents": [
+    {
+      "document_id": "SUP-53f03d2740566aa3352d",
+      "source_id": "F250_6c2541a21f0c18fe857f",
+      "title": "Policy section Regulatory Reliance and Cooperation, printed page 20/PDF page 25",
+      "source_url": "https://cdn.who.int/media/docs/default-source/searo/hsd/edm/national-medicines-and-health-products-policy-2025-timor-leste.pdf?sfvrsn=1c352cd4_1",
+      "raw_sha256": "53f03d2740566aa3352d946879707c74aa4336bd9e5a5305bbbf12b70b854200",
+      "text_sha256": "43f2dd94a040b5ccf3c5fff275403295a863cadae226b72d34f66d2e862f2001",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
+    }
+  ],
   "published_evidence_crosschecks": [],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "TLS-SUP-53f03d27-44361",
+      "iso3": "TLS",
+      "country": "Timor-Leste",
+      "document_id": "SUP-53f03d2740566aa3352d",
+      "source_id": "F250_6c2541a21f0c18fe857f",
+      "source_url": "https://cdn.who.int/media/docs/default-source/searo/hsd/edm/national-medicines-and-health-products-policy-2025-timor-leste.pdf?sfvrsn=1c352cd4_1",
+      "raw_sha256": "53f03d2740566aa3352d946879707c74aa4336bd9e5a5305bbbf12b70b854200",
+      "text_sha256": "43f2dd94a040b5ccf3c5fff275403295a863cadae226b72d34f66d2e862f2001",
+      "start_offset": 44361,
+      "end_offset": 45633,
+      "pdf_page": 25,
+      "verbatim_extracted_text": "3.\t Regulatory  Reliance and Cooperation\n•\t\nThe regulatory environment is becoming increasingly complex and influenced by \ntrade and globalization. Further, given the limitation of resources, governments \ncannot directly regulate all relevant aspects of medicines and health products \nacross the life course of a product from pre-market to post-market phases. \nHence, effective regulation cannot be achieved by individual countries acting \non their own. Countries need to consider regulatory reliance and cooperation to \nensure the safety and quality of medicines and health products.\n•\t\nEfforts will be made to enhance the regulatory reliance and cooperation \nwith international regulatory or reference authorities like the World Health \nOrganization (WHO), European Medicines Agency (EMA), the U.S. Food and Drug \nAdministration (FDA) for drug approvals etc. for:\n-\t\nImproved efficiency by reducing duplication of efforts, allowing for faster \naccess to medicines.\n-\t\nResource optimization and leveraging the expertise of larger, more \nestablished authorities. \n-\t\nImproved standards which promote the adoption of best practices and \nhigh standards.\n-\t\nPublic Health Protection to strengthen global responses to public \nhealth threats by aligning regulatory frameworks.\n",
+      "display_text": "3.\t Regulatory  Reliance and Cooperation\n•\t\nThe regulatory environment is becoming increasingly complex and influenced by \ntrade and globalization. Further, given the limitation of resources, governments \ncannot directly regulate all relevant aspects of medicines and health products \nacross the life course of a product from pre-market to post-market phases. \nHence, effective regulation cannot be achieved by individual countries acting \non their own. Countries need to consider regulatory reliance and cooperation to \nensure the safety and quality of medicines and health products.\n•\t\nEfforts will be made to enhance the regulatory reliance and cooperation \nwith international regulatory or reference authorities like the World Health \nOrganization (WHO), European Medicines Agency (EMA), the U.S. Food and Drug \nAdministration (FDA) for drug approvals etc. for:\n-\t\nImproved efficiency by reducing duplication of efforts, allowing for faster \naccess to medicines.\n-\t\nResource optimization and leveraging the expertise of larger, more \nestablished authorities. \n-\t\nImproved standards which promote the adoption of best practices and \nhigh standards.\n-\t\nPublic Health Protection to strengthen global responses to public \nhealth threats by aligning regulatory frameworks.\n",
+      "feature_tags": [
+        "scope_limit"
+      ],
+      "role": "Official national medicines policy hosted by WHO",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official national medicines policy hosted by WHO",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official national medicines policy hosted by WHO. Scope: National policy intention; implementation not established. Policy says efforts will be made to enhance reliance/cooperation with WHO, EMA and FDA for drug approvals. It explains efficiency and resource aims; no qualifying prior approvals, binding decision clock or commencement of an operational pathway is specified.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official national medicines policy hosted by WHO",
+      "section_article": "Policy section Regulatory Reliance and Cooperation, printed page 20/PDF page 25",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "TLS-PA-10",
+      "parallel_partition": "parallel_a",
+      "scope": "National policy intention; implementation not established",
+      "legal_type": "Official national medicines policy hosted by WHO",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "53f03d2740566aa3352d946879707c74aa4336bd9e5a5305bbbf12b70b854200"
+    ]
+  }
 }

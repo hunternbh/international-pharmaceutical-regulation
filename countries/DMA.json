@@ -54,7 +54,68 @@
     "no_reviewed_individual_passage": true,
     "no_reviewed_national_authorisation_pathway": true
   },
-  "source_documents": [],
+  "source_documents": [
+    {
+      "document_id": "SUP-5e1d9b85ed741afea4b0",
+      "source_id": "F250_3637e6a6afbe5dccc901",
+      "title": "2012 country profile section 5.2",
+      "source_url": "https://www.paho.org/sites/default/files/2025-06/pharmaceutical-country-profile-dominica.pdf",
+      "raw_sha256": "5e1d9b85ed741afea4b00d63f393ab274a761ae86b1b040923c0078e16c96bd2",
+      "text_sha256": "47b267e9c01e8011674f8e615f79eae6aa3d8bd6d93f1e906e079dc9de5ddf2e",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
+    }
+  ],
   "published_evidence_crosschecks": [],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "DMA-SUP-5e1d9b85-26417",
+      "iso3": "DMA",
+      "country": "Dominica",
+      "document_id": "SUP-5e1d9b85ed741afea4b0",
+      "source_id": "F250_3637e6a6afbe5dccc901",
+      "source_url": "https://www.paho.org/sites/default/files/2025-06/pharmaceutical-country-profile-dominica.pdf",
+      "raw_sha256": "5e1d9b85ed741afea4b00d63f393ab274a761ae86b1b040923c0078e16c96bd2",
+      "text_sha256": "47b267e9c01e8011674f8e615f79eae6aa3d8bd6d93f1e906e079dc9de5ddf2e",
+      "start_offset": 26417,
+      "end_offset": 26711,
+      "pdf_page": 24,
+      "verbatim_extracted_text": "5.2 Marketing Authorization (Registration) \n \nIn Dominica, legal provisions do not require marketing authorization (registration) \nfor pharmaceutical products on the market7. Mutual recognition mechanisms are \nnot in place. Information from the WHO prequalification programme is not used. \n \n \n",
+      "display_text": "5.2 Marketing Authorization (Registration) \n \nIn Dominica, legal provisions do not require marketing authorization (registration) \nfor pharmaceutical products on the market7. Mutual recognition mechanisms are \nnot in place. Information from the WHO prequalification programme is not used. \n \n \n",
+      "feature_tags": [
+        "historical_absence"
+      ],
+      "role": "Official ministry/PAHO descriptive country profile",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official ministry/PAHO descriptive country profile",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official ministry/PAHO descriptive country profile. Scope: Historical reported absence; not statutory legal wording. The ministry profile reports no product registration requirement and no mutual recognition mechanism at the 2012 observation. This must not erase later CARPHA participation or imply absence through 2025.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official ministry/PAHO descriptive country profile",
+      "section_article": "2012 country profile section 5.2",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "DMA-PA-11",
+      "parallel_partition": "parallel_a",
+      "scope": "Historical reported absence; not statutory legal wording",
+      "legal_type": "Official ministry/PAHO descriptive country profile",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "5e1d9b85ed741afea4b00d63f393ab274a761ae86b1b040923c0078e16c96bd2"
+    ]
+  }
 }

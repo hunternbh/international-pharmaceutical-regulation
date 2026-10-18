@@ -119,8 +119,66 @@
       "access_conditions": "Public unauthenticated request; no authentication bypass",
       "licensing": "Original publication terms apply; public access is not a redistribution licence",
       "pages": null
+    },
+    {
+      "document_id": "SUP-0a35f49d7a8a0c8cd39a",
+      "source_id": "F250_b7e8f9eb240d297a4e10",
+      "title": "The mutual recognition procedure / national procedure",
+      "source_url": "https://laegemiddelstyrelsen.dk/en/licensing/licensing-of-medicines/marketing-authorisation/",
+      "raw_sha256": "0a35f49d7a8a0c8cd39ad22cefd172db6d9bc9a3044c8a0c23456a025e2073b1",
+      "text_sha256": "431268311162d747276aec8c33b02705cb686f2a718a3ee0f921769b9108b91a",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [],
-  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained."
+  "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "DNK-SUP-0a35f49d-5682",
+      "iso3": "DNK",
+      "country": "Denmark",
+      "document_id": "SUP-0a35f49d7a8a0c8cd39a",
+      "source_id": "F250_b7e8f9eb240d297a4e10",
+      "source_url": "https://laegemiddelstyrelsen.dk/en/licensing/licensing-of-medicines/marketing-authorisation/",
+      "raw_sha256": "0a35f49d7a8a0c8cd39ad22cefd172db6d9bc9a3044c8a0c23456a025e2073b1",
+      "text_sha256": "431268311162d747276aec8c33b02705cb686f2a718a3ee0f921769b9108b91a",
+      "start_offset": 5682,
+      "end_offset": 6480,
+      "pdf_page": null,
+      "verbatim_extracted_text": "The mutual recognition procedure\nThe mutual recognition procedure (MRP) in which the marketing authorisation for a medicine, which has already been authorised in accordance with the national procedure in one EU or EEA country (the Reference Member State), forms the basis for authorisation in another EU or EEA country.\nThe Reference Member State is responsible for the procedure and the scientific evaluation of the application. The Reference Member State is also responsible for preparing the public assessment report which is available at the webiste of the\nHeads of Medicines Agencies\nThe national procedure\nThe national procedure in which the medicine is authorised in one EU or EEA country only.\nThis authorisation may later form the basis for approval under the mutual recognition procedure.",
+      "display_text": "The mutual recognition procedure\nThe mutual recognition procedure (MRP) in which the marketing authorisation for a medicine, which has already been authorised in accordance with the national procedure in one EU or EEA country (the Reference Member State), forms the basis for authorisation in another EU or EEA country.\nThe Reference Member State is responsible for the procedure and the scientific evaluation of the application. The Reference Member State is also responsible for preparing the public assessment report which is available at the webiste of the\nHeads of Medicines Agencies\nThe national procedure\nThe national procedure in which the medicine is authorised in one EU or EEA country only.\nThis authorisation may later form the basis for approval under the mutual recognition procedure.",
+      "feature_tags": [],
+      "role": "official_regulator_explanation",
+      "language": "en",
+      "language_status": "Supplemental original-language source; official_regulator_explanation",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "official_regulator_explanation. Scope: EU/EEA mutual recognition. Prior EEA national authorisation forms basis for another EEA authorisation; shared EU institutional setting.",
+      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: official_regulator_explanation",
+      "section_article": "The mutual recognition procedure / national procedure",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "PC-DNK-012-04",
+      "parallel_partition": "parallel_c",
+      "scope": "EU/EEA mutual recognition",
+      "legal_type": "official_regulator_explanation",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
+  "supplemental_document_review": {
+    "passages": 1,
+    "primary_sample_unchanged": true,
+    "legal_history_unchanged": true,
+    "source_hashes": [
+      "0a35f49d7a8a0c8cd39ad22cefd172db6d9bc9a3044c8a0c23456a025e2073b1"
+    ]
+  }
 }
