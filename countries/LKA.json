@@ -215,7 +215,7 @@
       "ocr_in_passage": false,
       "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
       "research_interpretation": "guideline_third_party_mirror. Scope: Initial abridged marketing authorisation. New API/FDC requires two reference approvals; other reference-approved products one. Written 90-day route retains sameness and local information.",
-      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review. Repeated explicit effective-date footer; mirror provenance unresolved.",
       "evidence_tier": "Supplemental: guideline_third_party_mirror",
       "section_article": "Sections 6–8.1",
       "translation_review": null,
@@ -227,7 +227,11 @@
       "legal_type": "guideline_third_party_mirror",
       "verified_dates": [],
       "reported_operative_date": "2024-08-26",
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": null,
+      "ocr_validation_status": "not_applicable_native_extraction",
+      "text_fidelity_note": "Exact substring of preserved native extraction; original document remains authoritative.",
+      "effective_start_basis": "Repeated explicit effective-date footer; mirror provenance unresolved."
     }
   ],
   "supplemental_document_review": {

@@ -119,15 +119,71 @@
       "access_conditions": "Public unauthenticated request; no authentication bypass",
       "licensing": "Original publication terms apply; public access is not a redistribution licence",
       "pages": null
+    },
+    {
+      "document_id": "SUP-1bf5a74ad7b8ace3a80d",
+      "source_id": "41aeff9dc167993b",
+      "title": "2025 sectoral speech, Pharmaceutical approvals, printed p21/PDF p23",
+      "source_url": "https://www.moh.gov.jm/wp-content/uploads/2025/06/Tufton-MOHW-Sectoral-2025-V4_compressed.pdf",
+      "raw_sha256": "1bf5a74ad7b8ace3a80d22959548ac09c249a0e9cf28f5fbc9bec638fd5f8f3c",
+      "text_sha256": "a9b795205749dd1c9638378fa7a110ea8a021c34e9eed7a5ca2b0b54abc15509",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [],
   "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
-  "supplemental_reviewed_clauses": [],
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "JAM-SUP-1bf5a74a-39852",
+      "iso3": "JAM",
+      "country": "Jamaica",
+      "document_id": "SUP-1bf5a74ad7b8ace3a80d",
+      "source_id": "41aeff9dc167993b",
+      "source_url": "https://www.moh.gov.jm/wp-content/uploads/2025/06/Tufton-MOHW-Sectoral-2025-V4_compressed.pdf",
+      "raw_sha256": "1bf5a74ad7b8ace3a80d22959548ac09c249a0e9cf28f5fbc9bec638fd5f8f3c",
+      "text_sha256": "a9b795205749dd1c9638378fa7a110ea8a021c34e9eed7a5ca2b0b54abc15509",
+      "start_offset": 39852,
+      "end_offset": 40766,
+      "pdf_page": 23,
+      "verbatim_extracted_text": "▪Establish a protocol for greater dependence on the Reliance System for drug \napprovals, in collaboration with US, UK, and European standards. This means \napplicants who have already met these standards will be placed on a fast track for \napprovals, once they submit the appropriate documents. \n\t\n▪We will also move to digitise the application process so that applicants will not need \nto wait for a response to determine the incomplete nature of their application as \nthese will be flagged in the online application while filling out forms. Currently 80% of \ndossiers submitted are delayed due to incomplete information. Applicants must play \ntheir part in ensuring that the system works more efficiently.\n\t\n▪In addition, we will establish an express window for local manufacturers who apply for \napprovals once they are manufacturing locally for the local and export markets.\nWe will do this over the next year.\n",
+      "display_text": "▪Establish a protocol for greater dependence on the Reliance System for drug \napprovals, in collaboration with US, UK, and European standards. This means \napplicants who have already met these standards will be placed on a fast track for \napprovals, once they submit the appropriate documents. \n\t\n▪We will also move to digitise the application process so that applicants will not need \nto wait for a response to determine the incomplete nature of their application as \nthese will be flagged in the online application while filling out forms. Currently 80% of \ndossiers submitted are delayed due to incomplete information. Applicants must play \ntheir part in ensuring that the system works more efficiently.\n\t\n▪In addition, we will establish an express window for local manufacturers who apply for \napprovals once they are manufacturing locally for the local and export markets.\nWe will do this over the next year.\n",
+      "feature_tags": [
+        "policy_intention",
+        "foreign_standards",
+        "dossier_completeness",
+        "digitisation"
+      ],
+      "role": "Official ministerial policy intention",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official ministerial policy intention",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official ministerial policy intention. Scope: Announced future reliance protocol and digitisation; implementation unverified. The minister proposes a fast track for applicants meeting US, UK or European standards, alongside digitisation and a local-manufacturer express window, over the next year. The passage does not establish that the protocol was implemented in 2025.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official ministerial policy intention",
+      "section_article": "2025 sectoral speech, Pharmaceutical approvals, printed p21/PDF p23",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "JAM-PA-46",
+      "parallel_partition": "parallel_a",
+      "scope": "Announced future reliance protocol and digitisation; implementation unverified",
+      "legal_type": "Official ministerial policy intention",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
   "supplemental_document_review": {
-    "passages": 0,
+    "passages": 1,
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
-    "source_hashes": []
+    "source_hashes": [
+      "1bf5a74ad7b8ace3a80d22959548ac09c249a0e9cf28f5fbc9bec638fd5f8f3c"
+    ]
   }
 }

@@ -346,7 +346,11 @@
       "legal_type": "administrative_order",
       "verified_dates": [],
       "reported_operative_date": null,
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": null,
+      "ocr_validation_status": "image_validation_needed",
+      "text_fidelity_note": "Exact substring of preserved extraction; PDF original remains authoritative. Date/header OCR irregularities must not determine effective date.",
+      "effective_start_basis": null
     }
   ],
   "supplemental_document_review": {

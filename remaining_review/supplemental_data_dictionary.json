@@ -1,0 +1,19 @@
+{
+  "primary_layer": "reviewed_clauses: existing selected comparison documents; national condition sample89, jurisdictions117. No new source automatically replaces an existing selected version.",
+  "supplemental_layer": "supplemental_reviewed_clauses: additional exact passages admitted after raw-byte, decoded-text and substring-offset validation. Can include operative rules, guidance, mirrored regulations, drafts, historical surveys, limited access and registration baselines.",
+  "fields": {
+    "raw_sha256": "SHA256 of the original downloaded file bytes",
+    "text_sha256": "SHA256 of UTF8-encoded decoded source text with LF newlines; offsets apply to this text",
+    "start_offset": "Zero-based inclusive character offset in preserved decoded text",
+    "end_offset": "Zero-based exclusive character offset",
+    "legal_type": "Source genre/status; guidance and drafts are not silently treated as binding law",
+    "scope": "Products, procedures or access function discussed",
+    "reported_operative_date": "Date reported by source, where established; retained as metadata only in this supplemental pass",
+    "historical_backfill_permitted": "False for all supplemental passages in this pass",
+    "selected_primary_document": "False; does not add condition counts to the89-source comparison",
+    "parallel_review_status": "Contextual scope resolution/partial review/pending; does not imply the whole original PDF was read",
+    "reviewed_ranges": "Actual character ranges inspected; partial documents remain in the resume queue"
+  },
+  "translation_policy": "Original wording retained. Checked research translations are labelled; no newly recovered unreviewed machine output enters the65-document English model.",
+  "counting_notes": "The3461figure is completed country-year searches. Downloaded raw byte hashes, reviewed source documents, passages, countries and operative laws are distinct counts. Repeated regional/MoU source across countries is one document, not independent reforms."
+}

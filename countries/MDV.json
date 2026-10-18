@@ -244,12 +244,12 @@
       "feature_tags": [],
       "role": "official_regulator_guidance",
       "language": "en",
-      "language_status": "Supplemental original-language source; official_regulator_guidance",
-      "quote_method": "Exact substring of preserved extracted text",
-      "ocr_in_passage": false,
+      "language_status": "Supplemental original-language source; official_regulator_guidance; OCR transcription",
+      "quote_method": "Exact substring of preserved OCR transcription; original scan controls",
+      "ocr_in_passage": true,
       "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
       "research_interpretation": "official_regulator_guidance. Scope: Reliance on marketing authorisation, verification. Evidence of approval and marketing in reference country including manufacture, stability report;45workingdays,target and5yearvalidity.",
-      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "version_alignment": "OCR transcription. Exact substring of preserved native extraction; original document remains authoritative. Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
       "evidence_tier": "Supplemental: official_regulator_guidance",
       "section_article": "Section8 registration pathway table, page21",
       "translation_review": null,
@@ -261,7 +261,11 @@
       "legal_type": "official_regulator_guidance",
       "verified_dates": [],
       "reported_operative_date": null,
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": "PyMuPDF native text; no OCR",
+      "ocr_validation_status": "not_applicable_native_extraction",
+      "text_fidelity_note": "Exact substring of preserved native extraction; original document remains authoritative.",
+      "effective_start_basis": null
     }
   ],
   "supplemental_document_review": {

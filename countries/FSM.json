@@ -184,12 +184,12 @@
       "feature_tags": [],
       "role": "legislative_bill_enactment_unverified",
       "language": "en",
-      "language_status": "Supplemental original-language source; legislative_bill_enactment_unverified",
-      "quote_method": "Exact substring of preserved extracted text",
-      "ocr_in_passage": false,
+      "language_status": "Supplemental original-language source; legislative_bill_enactment_unverified; OCR transcription",
+      "quote_method": "Exact substring of preserved OCR transcription; original scan controls",
+      "ocr_in_passage": true,
       "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
       "research_interpretation": "legislative_bill_enactment_unverified. Scope: Proposed general medicine registration. Proposes exemption from review for competent-jurisdiction products or WHO qualifying medicines on approved list. Bill introduction is not evidence of enacted operative law.",
-      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "version_alignment": "OCR transcription. Exact substring of preserved native extraction; original document remains authoritative. Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
       "evidence_tier": "Supplemental: legislative_bill_enactment_unverified",
       "section_article": "BillCB22-100 Section16, proposedTitle41Section1210(1)–(2)",
       "translation_review": null,
@@ -201,7 +201,11 @@
       "legal_type": "legislative_bill_enactment_unverified",
       "verified_dates": [],
       "reported_operative_date": null,
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": "PyMuPDF native text; no OCR",
+      "ocr_validation_status": "not_applicable_native_extraction",
+      "text_fidelity_note": "Exact substring of preserved native extraction; original document remains authoritative.",
+      "effective_start_basis": null
     }
   ],
   "supplemental_document_review": {

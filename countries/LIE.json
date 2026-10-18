@@ -155,6 +155,18 @@
       "access_conditions": "Preserved publicly accessible source response; see source provenance",
       "licensing": "No additional redistribution licence inferred",
       "pages": null
+    },
+    {
+      "document_id": "SUP-74311971cd48dc807f77",
+      "source_id": "F250_5f5b2f440af4b43baafe",
+      "title": "EMA PMS guidance, Swiss authorisations recognised by Liechtenstein, PDF p12",
+      "source_url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/product-management-services-pms-implementation-international-organization-standardization-iso-standards-identification-medicinal-products-idmp-europe-chapter-2_en.pdf",
+      "raw_sha256": "74311971cd48dc807f77410b85a34ec357a6c3fac2f0df7f72406d197e41406c",
+      "text_sha256": "b5d32c2c6d37932e4bd5cf00b1b9f625b7c459939410272189abd0b928549373",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [],
@@ -197,6 +209,46 @@
       "legal_type": "Official European Commission legal guidance",
       "verified_dates": [],
       "reported_operative_date": "2010-12-01",
+      "historical_backfill_permitted": false
+    },
+    {
+      "clause_id": "LIE-SUP-74311971-35051",
+      "iso3": "LIE",
+      "country": "Liechtenstein",
+      "document_id": "SUP-74311971cd48dc807f77",
+      "source_id": "F250_5f5b2f440af4b43baafe",
+      "source_url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/product-management-services-pms-implementation-international-organization-standardization-iso-standards-identification-medicinal-products-idmp-europe-chapter-2_en.pdf",
+      "raw_sha256": "74311971cd48dc807f77410b85a34ec357a6c3fac2f0df7f72406d197e41406c",
+      "text_sha256": "b5d32c2c6d37932e4bd5cf00b1b9f625b7c459939410272189abd0b928549373",
+      "start_offset": 35051,
+      "end_offset": 36071,
+      "pdf_page": 12,
+      "verbatim_extracted_text": "Marketing authorisations granted by the Swiss authorities and recognised \nby Liechtenstein \nIn the Notice to Applicants (Volume 2A, Chapter 1) it is also clarified that based on a bilateral \nagreement between Liechtenstein and Switzerland, a Swiss marketing authorisation is effective in \nLiechtenstein. This recognition has no effect outside the customs union between Switzerland and \nLiechtenstein. Consequently, a marketing authorisation granted by the Swiss authorities and \nrecognised by Liechtenstein, while Switzerland does not apply the EU pharmaceutical acquis, cannot be \nconsidered as a marketing authorisation granted in accordance with the pharmaceutical acquis for the \npurpose of EU legislation and therefore falls outside the scope of, inter alia, Regulation (EU) 726/2004 \nand Directive 2001/83/EC.   \nTherefore, marketing authorisations granted by the Swiss authorities and recognised by Liechtenstein \nfall out of scope of Article 57(2) requirements and do not therefore need to be submitted to PMS. \n",
+      "display_text": "Marketing authorisations granted by the Swiss authorities and recognised \nby Liechtenstein \nIn the Notice to Applicants (Volume 2A, Chapter 1) it is also clarified that based on a bilateral \nagreement between Liechtenstein and Switzerland, a Swiss marketing authorisation is effective in \nLiechtenstein. This recognition has no effect outside the customs union between Switzerland and \nLiechtenstein. Consequently, a marketing authorisation granted by the Swiss authorities and \nrecognised by Liechtenstein, while Switzerland does not apply the EU pharmaceutical acquis, cannot be \nconsidered as a marketing authorisation granted in accordance with the pharmaceutical acquis for the \npurpose of EU legislation and therefore falls outside the scope of, inter alia, Regulation (EU) 726/2004 \nand Directive 2001/83/EC.   \nTherefore, marketing authorisations granted by the Swiss authorities and recognised by Liechtenstein \nfall out of scope of Article 57(2) requirements and do not therefore need to be submitted to PMS. \n",
+      "feature_tags": [
+        "automatic_recognition",
+        "registry_coverage_exception",
+        "regional_scope"
+      ],
+      "role": "Official regional data-reporting guidance",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official regional data-reporting guidance",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official regional data-reporting guidance. Scope: Registry coverage exception for a recognised foreign approval. Swiss authorisations recognised in Liechtenstein are effective domestically but fall outside the EU pharmaceutical acquis and Article 57(2) PMS reporting. A missing PMS record is therefore not evidence of no approval. This manual does not date first recognition.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official regional data-reporting guidance",
+      "section_article": "EMA PMS guidance, Swiss authorisations recognised by Liechtenstein, PDF p12",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "LIE-PA-51",
+      "parallel_partition": "parallel_a",
+      "scope": "Registry coverage exception for a recognised foreign approval",
+      "legal_type": "Official regional data-reporting guidance",
+      "verified_dates": [],
+      "reported_operative_date": null,
       "historical_backfill_permitted": false
     },
     {
@@ -267,7 +319,7 @@
       "ocr_in_passage": false,
       "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
       "research_interpretation": "official_regulator_explanation. Scope: Austria–Liechtenstein bilateral recognition. Page identifies 1 December 2010 agreement, Austrian involvement, and dependence on Austrian authorisation.",
-      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review. Explicit sentence on BASG page; underlying treaty still controls.",
       "evidence_tier": "Supplemental: official_regulator_explanation",
       "section_article": "EU-Referenzprodukt / bilateral agreement",
       "translation_review": null,
@@ -279,16 +331,21 @@
       "legal_type": "official_regulator_explanation",
       "verified_dates": [],
       "reported_operative_date": "2010-12-01",
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": "HTML/XML text; scripts/navigation removed",
+      "ocr_validation_status": "not_applicable_native_extraction",
+      "text_fidelity_note": "Exact substring of preserved native extraction; original document remains authoritative.",
+      "effective_start_basis": "Explicit sentence on BASG page; underlying treaty still controls."
     }
   ],
   "supplemental_document_review": {
-    "passages": 3,
+    "passages": 4,
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": [
       "069335f03d19b0969f8f6ae5a8777589f88b0ee89a6b6516047d92bbd168eee2",
       "1705e0d234e403a97eaa9ebb661cc0ca3256de836e031c12f71b9dccb2bbc4f5",
+      "74311971cd48dc807f77410b85a34ec357a6c3fac2f0df7f72406d197e41406c",
       "ba2f35edde4f25ce960db280d4c6351e2dfaa662d97e8b704039ec29386c665f"
     ]
   }

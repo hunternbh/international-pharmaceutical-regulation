@@ -262,12 +262,12 @@
       ],
       "role": "Signed administrative MoU; OCR visually checked against original page5",
       "language": "en",
-      "language_status": "Supplemental original-language source; Signed administrative MoU; OCR visually checked against original page5",
-      "quote_method": "Exact substring of preserved extracted text",
+      "language_status": "Supplemental original-language source; Signed administrative MoU; OCR visually checked against original page5; OCR transcription",
+      "quote_method": "Exact substring of preserved OCR transcription; original scan controls",
       "ocr_in_passage": true,
       "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
       "research_interpretation": "Signed administrative MoU; OCR visually checked against original page5. Scope: Shared seven-authority medicines/vaccines reliance cooperation framework. Parties share assessment, laboratory and GMP/GCP reports, retain own scientific/local decisions and responsibilities, and distinguish unilateral/bilateral/mutual/multilateral reliance. Cooperation framework does not automatically approve every foreign medicine; date is not inferred from partly illegible handwritten signatures.",
-      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "version_alignment": "OCR transcription. Original scan controls; source spelling retained. Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
       "evidence_tier": "Supplemental: Signed administrative MoU; OCR visually checked against original page5",
       "section_article": "Seven-authority MoU Article2, page5",
       "translation_review": null,
@@ -355,7 +355,11 @@
       "legal_type": "official_regulator_explanation",
       "verified_dates": [],
       "reported_operative_date": null,
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": "HTML/XML text; scripts/navigation removed",
+      "ocr_validation_status": "not_applicable_native_extraction",
+      "text_fidelity_note": "Exact substring of preserved native extraction; original document remains authoritative.",
+      "effective_start_basis": null
     },
     {
       "clause_id": "TZA-SUP-8ebfdd54-1722",
@@ -379,7 +383,7 @@
       "ocr_in_passage": false,
       "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
       "research_interpretation": "official_regulator_implementation_notice. Scope: Human medicinal products. Notice expressly accepts reference-authorised products and promises outcomes within 90 working days from acceptance, subject to criteria.",
-      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review. Notice dated 30 June 2026; not asserted as first national reliance availability.",
       "evidence_tier": "Supplemental: official_regulator_implementation_notice",
       "section_article": "30 June 2026 public notice",
       "translation_review": null,
@@ -391,7 +395,11 @@
       "legal_type": "official_regulator_implementation_notice",
       "verified_dates": [],
       "reported_operative_date": null,
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": "HTML/XML text; scripts/navigation removed",
+      "ocr_validation_status": "not_applicable_native_extraction",
+      "text_fidelity_note": "Exact substring of preserved native extraction; original document remains authoritative.",
+      "effective_start_basis": "Notice dated 30 June 2026; not asserted as first national reliance availability."
     }
   ],
   "supplemental_document_review": {

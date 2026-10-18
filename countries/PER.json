@@ -170,6 +170,18 @@
       "access_conditions": "Public unauthenticated source; no private account or correspondence",
       "licensing": "See original publication; public access does not establish reuse licence",
       "pages": 1
+    },
+    {
+      "document_id": "SUP-aa3b4c311fac2fa92aa6",
+      "source_id": "e03d420d74283cf3",
+      "title": "RM 403-2025/MINSA article 1: consultation, not final decree",
+      "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RM_403-2025-MINSA.pdf",
+      "raw_sha256": "aa3b4c311fac2fa92aa6b55db66eed38ef54b390260aefe6c94f4212bd3e01f3",
+      "text_sha256": "e94cf0b25dfd41ef50ee824ca9e21d699514ba200314714077639d9fb2e73c8e",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [
@@ -204,11 +216,54 @@
     }
   ],
   "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
-  "supplemental_reviewed_clauses": [],
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "PER-SUP-aa3b4c31-8140",
+      "iso3": "PER",
+      "country": "Peru",
+      "document_id": "SUP-aa3b4c311fac2fa92aa6",
+      "source_id": "e03d420d74283cf3",
+      "source_url": "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RM_403-2025-MINSA.pdf",
+      "raw_sha256": "aa3b4c311fac2fa92aa6b55db66eed38ef54b390260aefe6c94f4212bd3e01f3",
+      "text_sha256": "e94cf0b25dfd41ef50ee824ca9e21d699514ba200314714077639d9fb2e73c8e",
+      "start_offset": 8140,
+      "end_offset": 8907,
+      "pdf_page": 3,
+      "verbatim_extracted_text": "Articulo 1.- Disponer que la Oficina de Transparencia y Anticorrupcion de la\nSecretaria General efectue la publicacion del proyecto de Decreto Supremo que regula lo\ndispuesto en la Ley   32319, Ley que establece medidas para facilitar el acceso a\nmedicamentos y productos biologicos registrados en paises de alta vigilancia sanitaria\ndestinados al tratamiento de enfermedades raras, huerfanas, cancer y demas\nenfermedades, y del proyecto de su exposicion de motivos, en la sede digital del Ministerio\nde Salud (https://www.gob.pe/institucion/minsa/normas-lec]ales), a efecto de recibir las\nsugerencias, comentarios o recomendaciones de las entidades publicas o privadas, y de la\nciudadania en general, a traves del correo electronico: webmaster(a)minsa.ciob.pe., o\n\n\n",
+      "display_text": "Articulo 1.- Disponer que la Oficina de Transparencia y Anticorrupcion de la\nSecretaria General efectue la publicacion del proyecto de Decreto Supremo que regula lo\ndispuesto en la Ley   32319, Ley que establece medidas para facilitar el acceso a\nmedicamentos y productos biologicos registrados en paises de alta vigilancia sanitaria\ndestinados al tratamiento de enfermedades raras, huerfanas, cancer y demas\nenfermedades, y del proyecto de su exposicion de motivos, en la sede digital del Ministerio\nde Salud (https://www.gob.pe/institucion/minsa/normas-lec]ales), a efecto de recibir las\nsugerencias, comentarios o recomendaciones de las entidades publicas o privadas, y de la\nciudadania en general, a traves del correo electronico: webmaster(a)minsa.ciob.pe., o\n\n\n",
+      "feature_tags": [
+        "draft",
+        "consultation",
+        "foreign_approval_eligibility"
+      ],
+      "role": "Official ministerial resolution publishing a draft",
+      "language": "es",
+      "language_status": "Supplemental original-language source; Official ministerial resolution publishing a draft",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official ministerial resolution publishing a draft. Scope: Publication for consultation of a draft implementing decree; underlying Law 32319 is separately named. This resolution publishes a draft and seeks comments. The attached text is explicitly a proposal. Its reference to Law 32319 does not make each draft requirement an operative rule.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official ministerial resolution publishing a draft",
+      "section_article": "RM 403-2025/MINSA article 1: consultation, not final decree",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "PER-PA-48",
+      "parallel_partition": "parallel_a",
+      "scope": "Publication for consultation of a draft implementing decree; underlying Law 32319 is separately named",
+      "legal_type": "Official ministerial resolution publishing a draft",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
   "supplemental_document_review": {
-    "passages": 0,
+    "passages": 1,
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
-    "source_hashes": []
+    "source_hashes": [
+      "aa3b4c311fac2fa92aa6b55db66eed38ef54b390260aefe6c94f4212bd3e01f3"
+    ]
   }
 }

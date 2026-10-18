@@ -1929,10 +1929,23 @@
     "urls": [
       "https://pharmetheus.fda.moph.go.th/fhirig/core/en/StructureDefinition-thfda-foreign-marketing-authorization.html"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Thai FDA FHIR profile is a trial-use technical data schema, including a reliance/referral boolean; it does not grant legal permission or establish actual case-level pathway use.",
+    "inspected_ranges": [
+      [
+        0,
+        7200
+      ],
+      [
+        21000,
+        24000
+      ],
+      [
+        37000,
+        39221
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "0e20e7cc3975def736435c74303f6b92da5a3b794ede74ab84315a6c426c8589",
@@ -2562,19 +2575,6 @@
     ],
     "status": "Screened: no targeted reliance signal",
     "review_reason": "Not read in full. Lack of these search terms is not proof of no pathway.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
-  },
-  {
-    "raw_sha256": "11d5a4c2116b7f3ddf7b703d40443a423ba7260e54795274c27bdc332f330a4e",
-    "source_ids": [
-      "76f9aea5c40d6427"
-    ],
-    "urls": [
-      "https://data.wahooas.org/tenders/uploads/attachment/document/319/ECOWAS_Joint_Assessment_Procedure_Edited_22072022.pdf"
-    ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
     "inspected_ranges": [],
     "next_action": "Expand multilingual search terms and contextually review original document"
   },
@@ -3866,10 +3866,27 @@
     "urls": [
       "https://www.moh.gov.jm/wp-content/uploads/2025/06/Tufton-MOHW-Sectoral-2025-V4_compressed.pdf"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Official 2025 ministerial speech announces a future reliance fast track and application digitisation over the next year. It reports incomplete dossiers as a source of delay. This is an intention, not proof of implemented reform.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        6970,
+        8521
+      ],
+      [
+        25724,
+        27091
+      ],
+      [
+        37500,
+        41128
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "1bf96425ee08fb89d20fa56494942c34ec25b07a36c21d341216fc902634594b",
@@ -6139,10 +6156,15 @@
     "urls": [
       "https://bua.regierung.li/BuA/default.aspx?content=1379865148&nr=68&year=2009"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Government report on the 2009 EEA adaptation and planned Liechtenstein recognition of Austrian MRP/DCP authorisations. Only pages 8–11 and navigation were recovered; it is not itself proof of the operative treaty date.",
+    "inspected_ranges": [
+      [
+        0,
+        8861
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "2db0ecc76380add036120d63b99fab635605e56c95885b75e49a63a074343cca",
@@ -6636,10 +6658,43 @@
     "urls": [
       "https://laws-lois.justice.gc.ca/eng/acts/F-27/FullText.html"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Food and Drugs Act section 30.06 permits ministerial orders deeming requirements met using a foreign regulatory decision or information, subject to public-interest and risk conditions. The amendment annotation is 2024 c.17 s.328; an exact commencement date and actual implementing orders need separate evidence.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        4290,
+        5747
+      ],
+      [
+        20435,
+        24058
+      ],
+      [
+        26865,
+        28211
+      ],
+      [
+        35049,
+        36700
+      ],
+      [
+        72085,
+        74306
+      ],
+      [
+        82700,
+        86591
+      ],
+      [
+        88295,
+        90818
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "314d38eddd1569324cb755bb79516a30e39961f1fb4ad24bfc2666dd497f1408",
@@ -6946,16 +7001,16 @@
         650
       ],
       [
+        199803,
+        203783
+      ],
+      [
         261747,
         262919
       ],
       [
         298503,
         299675
-      ],
-      [
-        199803,
-        203783
       ]
     ],
     "next_action": "Read remaining legal sections; do not infer absence"
@@ -7825,19 +7880,6 @@
     "next_action": "Expand multilingual search terms and contextually review original document"
   },
   {
-    "raw_sha256": "398af4fbe19914b119ae61da974872cf2dde70a2d7dec9ea8c3f8c2281970f0b",
-    "source_ids": [
-      "e3843d6e452f4f80"
-    ],
-    "urls": [
-      "https://www.fda.gov/international-programs/global-perspective/reflections-25-years-global-oncology"
-    ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
-  },
-  {
     "raw_sha256": "3994cc1e45e08f127914a715e0e961885674732c3003d3e9ff40edb73b08c790",
     "source_ids": [
       "F250_b619a6873e449f8fad49",
@@ -8210,16 +8252,16 @@
         650
       ],
       [
+        205196,
+        209176
+      ],
+      [
         266974,
         268146
       ],
       [
         304339,
         305511
-      ],
-      [
-        205196,
-        209176
       ]
     ],
     "next_action": "Read remaining legal sections; do not infer absence"
@@ -8894,14 +8936,6 @@
       ],
       [
         4409,
-        7733
-      ],
-      [
-        7700,
-        15300
-      ],
-      [
-        15243,
         19218
       ],
       [
@@ -11959,10 +11993,27 @@
     "urls": [
       "https://www.govinfo.gov/content/pkg/USCODE-2024-title48/html/USCODE-2024-title48-chap10.htm"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "The territorial-law passages concern drug-abuse enforcement funding, narcotics training and territorial administration, not foreign medicine marketing-authorisation reliance. No positive reliance clause is admitted.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        30421,
+        31941
+      ],
+      [
+        64745,
+        66364
+      ],
+      [
+        69657,
+        74006
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "57f8fe0fb679361d7e80f6c5d32f631f04834371acde8891c6cecc7089615327",
@@ -14546,19 +14597,6 @@
     "next_action": "Expand multilingual search terms and contextually review original document"
   },
   {
-    "raw_sha256": "6c296d5d778e6147ce0b357a195b80a74092f78fbd3154aae0c6916034e7d990",
-    "source_ids": [
-      "F250_bda3ff4608d1492daec0"
-    ],
-    "urls": [
-      "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&Gesetzesnummer=10010441&Paragraf=18a&Uebergangsrecht="
-    ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
-  },
-  {
     "raw_sha256": "6c3450d5f442463d80a8f9199a526b8081863c17874ddb4ba4ecd62f1af4d32b",
     "source_ids": [
       "F250_ea564ffb30eb37df2580"
@@ -14579,10 +14617,27 @@
     "urls": [
       "https://www.npra.gov.my/easyarticles/images/users/1153/DRGD%20July%202024/Complete-Drug-Registration-Guidance-Document-DRGD-3rd-Edition-8th-Revision-July-2024.pdf"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Malaysia July 2024 DRGD Appendix 14 defines abbreviated FRP review using at least one named foreign authority/WHO route and verification of sameness after ASEAN Joint Assessment. The referenced FRP revision is effective 1 January 2024. These country-specific definitions should not be replaced by a universal interpretation of verification.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        13902,
+        15070
+      ],
+      [
+        24759,
+        25927
+      ],
+      [
+        687500,
+        690800
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "6c3e88d8452cc8788fda8419065c881423076c8905ccb1069f893f6aa206a0a5",
@@ -15806,10 +15861,27 @@
     "urls": [
       "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/product-management-services-pms-implementation-international-organization-standardization-iso-standards-identification-medicinal-products-idmp-europe-chapter-2_en.pdf"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "EMA PMS guidance explains that Liechtenstein recognises Austrian MRP/DCP and Swiss authorisations through separate bilateral arrangements. Swiss-derived authorisations fall outside Article 57(2) and need not be submitted to PMS, so registry absence cannot be treated as non-approval.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        1642,
+        2820
+      ],
+      [
+        24547,
+        25719
+      ],
+      [
+        33200,
+        36600
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "744044ebaef0c12a71cc5711960049d04cfaeba6e37cb0cdaa9be6570b246d47",
@@ -17908,10 +17980,23 @@
     "urls": [
       "https://www.legislation.gov.au/C2004A03952/2025-09-05/2025-09-05/text/original/epub/OEBPS/document_1/document_1.html"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Australian Therapeutic Goods Act section 19A allows foreign-approved goods to be imported or supplied for shortages and public-health need, including tightly conditioned alternatives outside named reference countries. It is a special shortage route, not ordinary new-drug authorisation.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        23034,
+        24264
+      ],
+      [
+        143700,
+        150900
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "843e3bf50036027f72f580be5238a6210cb61b507d88dae570208596bd551965",
@@ -19149,19 +19234,6 @@
     "next_action": "Expand multilingual search terms and contextually review original document"
   },
   {
-    "raw_sha256": "8e555f8836e09ac36dfa5258003afc7aa8a1dc156afc24849d8974083bf9363a",
-    "source_ids": [
-      "F250_d7b112a52f510a78a29e"
-    ],
-    "urls": [
-      "https://www.mcaz.co.zw/wp-content/uploads/2021/09/MCAZ-RELIANCE-POLICY.pdf"
-    ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
-  },
-  {
     "raw_sha256": "8e5fad8c3ba1487d4e868b1ebd482135b5fb9ade2b9fbbb3a5039be58cdf81f6",
     "source_ids": [
       "cb2301ff75d05497"
@@ -20325,10 +20397,23 @@
     "urls": [
       "https://etaamb.openjustice.be/fr/arrete-royal-du-14-decembre-2006_n2006023298"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Belgian 2006 Royal Order human-medicine chapter requires mutual recognition of an existing member-state authorisation, identical dossiers, review deadlines and a serious-public-health-risk exception. The stored source is a legal publisher mirror, not an official host.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        5068,
+        6361
+      ],
+      [
+        199200,
+        210900
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "96fec9c120c0ddeb91ff5f533401face00f3232d4721717fe11ac02add04a38f",
@@ -22292,19 +22377,6 @@
     "next_action": "Expand multilingual search terms and contextually review original document"
   },
   {
-    "raw_sha256": "a79c2f26d0eba3448812a1771e6a2275e3e277d2c1eb92e4d7cf6811a1b8c012",
-    "source_ids": [
-      "F250_191c54174af820425f79"
-    ],
-    "urls": [
-      "https://web.pharmacyboardkenya.org/hpt-guidelines/"
-    ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
-  },
-  {
     "raw_sha256": "a7b02d4eb3dc81a0a9c81a0de05a71d935ffa6c6e24b31df73625df0b770f1e3",
     "source_ids": [
       "20a10b168e9317ab"
@@ -22671,10 +22743,35 @@
     "urls": [
       "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RM_403-2025-MINSA.pdf"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "RM 403-2025/MINSA orders public consultation on a draft decree implementing Law 32319. The annex is expressly marked PROYECTO and VERSION PUBLICADA PARA OPINION. Draft eligibility and local requirements are retained as draft evidence only.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        660,
+        2723
+      ],
+      [
+        3197,
+        7037
+      ],
+      [
+        7496,
+        12220
+      ],
+      [
+        12560,
+        17712
+      ],
+      [
+        18185,
+        21669
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "aa568b5a4b2183dc4697b29c94e4d722eb0c54ae432c6ad45562e07fda311964",
@@ -24596,10 +24693,19 @@
     "urls": [
       "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9082673/fullTextXML"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Industry survey evaluates ZaZiBoNa submissions and perceived process performance. Joint recommendation is not final national approval; the proposed regional authority and binding agreement are prospective. It is secondary empirical literature, not national legal text.",
+    "inspected_ranges": [
+      [
+        0,
+        11000
+      ],
+      [
+        27000,
+        30000
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "b99dd5b6b273c1945134930b16fede34de70158750e000765e6d70ee598a4224",
@@ -26324,16 +26430,16 @@
         650
       ],
       [
+        213584,
+        217564
+      ],
+      [
         275241,
         276413
       ],
       [
         312886,
         314058
-      ],
-      [
-        213584,
-        217564
       ]
     ],
     "next_action": "Read remaining legal sections; do not infer absence"
@@ -30149,10 +30255,35 @@
     "urls": [
       "https://www.edaegypt.gov.eg/media/c4whpzcw/registration-guidline-final-bio-tech-edaegypt-go-2845.pdf"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Egypt biological-product registration file guideline requires layouts and declarations, but exempts reliance-model products from supplying the pricing certificate at the pack-review stage. This is a documentary waiver, not evidence of higher prices or exemption from price regulation.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        5198,
+        6514
+      ],
+      [
+        20000,
+        26600
+      ],
+      [
+        28892,
+        30333
+      ],
+      [
+        36620,
+        37926
+      ],
+      [
+        73564,
+        74867
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "e44d93eefd81685f9299ccf637fd9d21fcf84fd0e7085505012a24368e753bf0",
@@ -30162,10 +30293,27 @@
     "urls": [
       "https://mmra.gov.mn/Files/Setgvvl%202023.pdf"
     ],
-    "status": "Screened: possible relevant wording; contextual review remains",
-    "review_reason": "Keyword hit alone can be foreign law, a survey, a draft or a different meaning of reliance.",
-    "inspected_ranges": [],
-    "next_action": "Expand multilingual search terms and contextually review original document"
+    "status": "Partially context-reviewed; further review remains",
+    "review_reason": "Official Mongolian 2023 bulletin retrospectively describes 2015 Order 13 introducing accelerated registration for SRA-approved medicines and shorter timelines. It is historical administrative evidence, not the original order or an exact commencement record.",
+    "inspected_ranges": [
+      [
+        0,
+        650
+      ],
+      [
+        3359,
+        4722
+      ],
+      [
+        14500,
+        18827
+      ],
+      [
+        35581,
+        38161
+      ]
+    ],
+    "next_action": "Read remaining legal sections; do not infer absence"
   },
   {
     "raw_sha256": "e451c6719b54fe28029e0286176b2db845fc2e12c150d1eb88a15c9aba892651",

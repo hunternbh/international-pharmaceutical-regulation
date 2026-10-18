@@ -819,14 +819,6 @@
       ],
       [
         4409,
-        7733
-      ],
-      [
-        7700,
-        15300
-      ],
-      [
-        15243,
         19218
       ],
       [
@@ -1164,8 +1156,8 @@
   },
   {
     "raw_sha256": "57f584a331ce5fa64600ed403fc771040b843e2c353038ded0c0bccbdcfb3bb5",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. US title48 territories general chapter cover; no drug approval clause reviewed. Remainder remains pending substantive review.",
+    "status": "partial context reviewed",
+    "reason": "The territorial-law passages concern drug-abuse enforcement funding, narcotics training and territorial administration, not foreign medicine marketing-authorisation reliance. No positive reliance clause is admitted.",
     "country_codes": [
       "UMI"
     ],
@@ -1173,18 +1165,33 @@
       "https://www.govinfo.gov/content/pkg/USCODE-2024-title48/html/USCODE-2024-title48-chap10.htm"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Specific territorial administration and narcotics provisions in listed ranges"
     ],
     "reviewed_ranges": [
       [
         0,
         650
+      ],
+      [
+        30421,
+        31941
+      ],
+      [
+        64745,
+        66364
+      ],
+      [
+        69657,
+        74006
       ]
     ],
     "text_sha256": "e472b45943c459e5468ad27ae74fcdb7d1857dc648a62938bbf297e05ca5645f",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Remaining omnibus US territorial statute not read.",
+    "next_action": "No further reliance extraction indicated by the reviewed passages; retain other sections as unreviewed.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -3304,8 +3311,8 @@
   },
   {
     "raw_sha256": "2d6284b863ec3a0fe8ac44eb06691e36867a5560e38837b0318879812a52bf38",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. Liechtenstein2009government report/explanatory proposal, not itself enacted legal instrument. Detailed proposed implementation remains to review.",
+    "status": "partial context reviewed",
+    "reason": "Government report on the 2009 EEA adaptation and planned Liechtenstein recognition of Austrian MRP/DCP authorisations. Only pages 8–11 and navigation were recovered; it is not itself proof of the operative treaty date.",
     "country_codes": [
       "LIE"
     ],
@@ -3313,24 +3320,27 @@
       "https://bua.regierung.li/BuA/default.aspx?content=1379865148&nr=68&year=2009"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "All recoverable response text; substantive report pages 8–11"
     ],
     "reviewed_ranges": [
       [
         0,
-        650
+        8861
       ]
     ],
     "text_sha256": "15c460ffdf2d1040990f013f5e46847f6628ba91f313856fc0c2992091161886",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "The response does not contain the full 75-page report, treaty text or later chapters.",
+    "next_action": "Recover the already linked full report or stored report chapters before claiming full report review.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
     "raw_sha256": "6c296d5d778e6147ce0b357a195b80a74092f78fbd3154aae0c6916034e7d990",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. Alternate rendering of AustrianAMG18a current section; same provision as document104, but full text has not independently been compared.",
+    "status": "context reviewed",
+    "reason": "Official Austrian AMG section 18a, version effective 1 January 2024. The operative body duplicates the Austrian provision already proposed from another preserved response; no duplicate clause is added.",
     "country_codes": [
       "AUT"
     ],
@@ -3338,18 +3348,21 @@
       "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&Gesetzesnummer=10010441&Paragraf=18a&Uebergangsrecht="
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Entire recoverable section and version metadata"
     ],
     "reviewed_ranges": [
       [
         0,
-        650
+        8875
       ]
     ],
     "text_sha256": "a665891fb9f8b32e59378adb619c34a43e89528d6b92b7001690dd8d1ebdda00",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
-    "deeper_review_remains": true,
-    "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
+    "deeper_review_remains": false,
+    "review_scope": "All recoverable source text was read. This is not verification against all historical amendments.",
+    "recovery_gap": null,
+    "next_action": null,
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -3460,31 +3473,34 @@
   },
   {
     "raw_sha256": "398af4fbe19914b119ae61da974872cf2dde70a2d7dec9ea8c3f8c2281970f0b",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. FDAoncology director interview cover confirms official commentary; detailed ProjectOrbis operation not reviewed in this range.",
+    "status": "context reviewed",
+    "reason": "FDA official July 2025 interview explains Project Orbis, sponsor submission timing, collaborative assessment and some partners waiting for FDA approval. It distinguishes manufacturer filing delay from regulator review delay; no new binding national law is inferred.",
     "country_codes": [],
     "source_urls": [
       "https://www.fda.gov/international-programs/global-perspective/reflections-25-years-global-oncology"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Entire official interview"
     ],
     "reviewed_ranges": [
       [
         0,
-        650
+        13102
       ]
     ],
     "text_sha256": "6b008be2f9cf1cf524d6ad0a7e60a3be94303adb3f28bf92cc912caee6b385c9",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
-    "deeper_review_remains": true,
-    "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
+    "deeper_review_remains": false,
+    "review_scope": "All recoverable source text was read. This is not verification against all historical amendments.",
+    "recovery_gap": null,
+    "next_action": null,
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
     "raw_sha256": "a79c2f26d0eba3448812a1771e6a2275e3e277d2c1eb92e4d7cf6811a1b8c012",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. Kenya guidance-document index; operative guideline PDFs separate; no pathway clause admitted from listing.",
+    "status": "context reviewed",
+    "reason": "Kenya PPB guideline index names the reliance guideline but provides no operative legal wording in this response. Accessibility and navigation text are not a substantive national clause.",
     "country_codes": [
       "KEN"
     ],
@@ -3492,18 +3508,21 @@
       "https://web.pharmacyboardkenya.org/hpt-guidelines/"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Entire guideline index and navigation"
     ],
     "reviewed_ranges": [
       [
         0,
-        650
+        13394
       ]
     ],
     "text_sha256": "dfee7ac8665fcab705f95c3bf2047b3001dba71c0fd85b468ada286982712f22",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
-    "deeper_review_remains": true,
-    "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
+    "deeper_review_remains": false,
+    "review_scope": "All recoverable source text was read. This is not verification against all historical amendments.",
+    "recovery_gap": "The index response contains no full reliance guideline.",
+    "next_action": "Match the listed guideline download to an existing preserved PDF; otherwise a future official PDF retrieval is required.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -3902,25 +3921,28 @@
   },
   {
     "raw_sha256": "11d5a4c2116b7f3ddf7b703d40443a423ba7260e54795274c27bdc332f330a4e",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. ECOWAS2022joint-assessmentprocedurecover/backgroundread; regionalprocedure, separatefromnationalimplementation.",
+    "status": "context reviewed",
+    "reason": "Complete ECOWAS September 2022 joint-assessment procedure. Regional recommendation and later national applications are separate; national authorisation target is 60 days after filing with local requirements. WHO collaborative assessment is a separate 60-day regional target. This is one shared procedure, not 15 independently verified national laws.",
     "country_codes": [],
     "source_urls": [
       "https://data.wahooas.org/tenders/uploads/attachment/document/319/ECOWAS_Joint_Assessment_Procedure_Edited_22072022.pdf"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Entire 14-page extracted procedure, including timeline flowcharts"
     ],
     "reviewed_ranges": [
       [
         0,
-        650
+        25717
       ]
     ],
     "text_sha256": "8f20a4e636f5689a4d08c44482b4e4872819b177d155b08986537a48cdca5158",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
-    "deeper_review_remains": true,
-    "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
+    "deeper_review_remains": false,
+    "review_scope": "All recoverable source text was read. This is not verification against all historical amendments.",
+    "recovery_gap": null,
+    "next_action": null,
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -4352,8 +4374,8 @@
   },
   {
     "raw_sha256": "0df9af9a64843fa4a18925bae4861f34efc2e73a048de8b82759a72a67fd64d9",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. ThaiFDAFHIR trial-use foreign-MAresource profile, data interoperability schema rather than legal permission. Detailed metadata outside reviewed cover pending.",
+    "status": "partial context reviewed",
+    "reason": "Thai FDA FHIR profile is a trial-use technical data schema, including a reliance/referral boolean; it does not grant legal permission or establish actual case-level pathway use.",
     "country_codes": [
       "THA"
     ],
@@ -4361,18 +4383,29 @@
       "https://pharmetheus.fda.moph.go.th/fhirig/core/en/StructureDefinition-thfda-foreign-marketing-authorization.html"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "FHIR trial-use status, schema definition and selected field descriptions"
     ],
     "reviewed_ranges": [
       [
         0,
-        650
+        7200
+      ],
+      [
+        21000,
+        24000
+      ],
+      [
+        37000,
+        39221
       ]
     ],
     "text_sha256": "00ade385040100980b9c8ac649794da76aa908f979bd3e82d2ea0513b8b4ab0c",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Repeated schema tables outside listed ranges remain unread.",
+    "next_action": "No legal clause to admit from this technical schema; review a substantive legal source instead.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -4408,25 +4441,32 @@
   },
   {
     "raw_sha256": "b91b9be31178b4668e17ee6c4cc6408c560f11608aa1aa02469067a53a745e11",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. ZaZiBoNa industry evaluation research cover only; substantive results remain unread in this checkpoint.",
+    "status": "partial context reviewed",
+    "reason": "Industry survey evaluates ZaZiBoNa submissions and perceived process performance. Joint recommendation is not final national approval; the proposed regional authority and binding agreement are prospective. It is secondary empirical literature, not national legal text.",
     "country_codes": [],
     "source_urls": [
       "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9082673/fullTextXML"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Introduction, study sample/results and selected discussion"
     ],
     "reviewed_ranges": [
       [
         0,
-        650
+        11000
+      ],
+      [
+        27000,
+        30000
       ]
     ],
     "text_sha256": "d78d531f715a68871a25c43ea7073f5565a256df8fc4c85f88280d359737c392",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Remaining article sections and references not fully read.",
+    "next_action": "Retain as literature cross-check; compare timing statistics with national implementation evidence.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -4886,25 +4926,43 @@
   },
   {
     "raw_sha256": "1bf5a74ad7b8ace3a80d22959548ac09c249a0e9cf28f5fbc9bec638fd5f8f3c",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. Jamaica2025ministersectoralspeechcoverread;substantiveregulatoryreformpassagesnotyetreviewed.",
+    "status": "partial context reviewed",
+    "reason": "Official 2025 ministerial speech announces a future reliance fast track and application digitisation over the next year. It reports incomplete dossiers as a source of delay. This is an intention, not proof of implemented reform.",
     "country_codes": [],
     "source_urls": [
       "https://www.moh.gov.jm/wp-content/uploads/2025/06/Tufton-MOHW-Sectoral-2025-V4_compressed.pdf"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Pharmaceutical approvals, printed page 21/PDF page 23; related ministry context"
     ],
     "reviewed_ranges": [
       [
         0,
         650
+      ],
+      [
+        6970,
+        8521
+      ],
+      [
+        25724,
+        27091
+      ],
+      [
+        37500,
+        41128
       ]
     ],
     "text_sha256": "a9b795205749dd1c9638378fa7a110ea8a021c34e9eed7a5ca2b0b54abc15509",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Other policy chapters of the speech remain unread.",
+    "next_action": "Seek an implemented protocol separately; do not assign the announcement as an operative law date.",
+    "followup_review_date": "2026-10-18",
+    "visually_checked_pdf_pages": [
+      23
+    ],
     "parallel_partition": "parallel_a"
   },
   {
@@ -5322,48 +5380,106 @@
   },
   {
     "raw_sha256": "31222026f7ca3c1e7f9d16d381fa1f3d6ac5914299af9214f7cdee4c2cd06e3a",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. Canada Food and Drugs Act cover/definitions only. Underlying reliance powers and exceptions remain unreviewed in this long file.",
+    "status": "partial context reviewed",
+    "reason": "Food and Drugs Act section 30.06 permits ministerial orders deeming requirements met using a foreign regulatory decision or information, subject to public-interest and risk conditions. The amendment annotation is 2024 c.17 s.328; an exact commencement date and actual implementing orders need separate evidence.",
     "country_codes": [],
     "source_urls": [
       "https://laws-lois.justice.gc.ca/eng/acts/F-27/FullText.html"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Sections 30.05–30.07 and selected incorporation/regulation provisions"
     ],
     "reviewed_ranges": [
       [
         0,
         650
+      ],
+      [
+        4290,
+        5747
+      ],
+      [
+        20435,
+        24058
+      ],
+      [
+        26865,
+        28211
+      ],
+      [
+        35049,
+        36700
+      ],
+      [
+        72085,
+        74306
+      ],
+      [
+        82700,
+        86591
+      ],
+      [
+        88295,
+        90818
       ]
     ],
     "text_sha256": "8f772e4281bf981336342502a828ee33b0c73317f6f0ccda727c9f972b7e8414",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Most of the consolidated Act remains unread; no exact amendment commencement date recovered.",
+    "next_action": "Link the section to specific implementing orders and commencement provisions before dating an individual route.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
     "raw_sha256": "aa3b4c311fac2fa92aa6b55db66eed38ef54b390260aefe6c94f4212bd3e01f3",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. PeruRM403/2025ministerial resolution cover only; operative annex and registration/reliance clauses still unreviewed.",
+    "status": "partial context reviewed",
+    "reason": "RM 403-2025/MINSA orders public consultation on a draft decree implementing Law 32319. The annex is expressly marked PROYECTO and VERSION PUBLICADA PARA OPINION. Draft eligibility and local requirements are retained as draft evidence only.",
     "country_codes": [],
     "source_urls": [
       "https://www.digemid.minsa.gob.pe/Archivos/Normatividad/2025/RM_403-2025-MINSA.pdf"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Resolution articles 1–2, draft cover and draft articles 3–7 in listed ranges"
     ],
     "reviewed_ranges": [
       [
         0,
         650
+      ],
+      [
+        660,
+        2723
+      ],
+      [
+        3197,
+        7037
+      ],
+      [
+        7496,
+        12220
+      ],
+      [
+        12560,
+        17712
+      ],
+      [
+        18185,
+        21669
       ]
     ],
     "text_sha256": "e94cf0b25dfd41ef50ee824ca9e21d699514ba200314714077639d9fb2e73c8e",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Remaining explanatory annex and later draft articles remain unread; scans contain OCR noise.",
+    "next_action": "Locate the separate enacted Law 32319 and any final decree; do not mark this draft as operative.",
+    "followup_review_date": "2026-10-18",
+    "visually_checked_pdf_pages": [
+      3,
+      5
+    ],
     "parallel_partition": "parallel_a"
   },
   {
@@ -5518,25 +5634,48 @@
   },
   {
     "raw_sha256": "e44458e794f6e940806023de1072daf3cdda116474fc86934e4d16948208d975",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. Egypt2023biological product file guideline cover only. Full substantive review still pending.",
+    "status": "partial context reviewed",
+    "reason": "Egypt biological-product registration file guideline requires layouts and declarations, but exempts reliance-model products from supplying the pricing certificate at the pack-review stage. This is a documentary waiver, not evidence of higher prices or exemption from price regulation.",
     "country_codes": [],
     "source_urls": [
       "https://www.edaegypt.gov.eg/media/c4whpzcw/registration-guidline-final-bio-tech-edaegypt-go-2845.pdf"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Pack submission section IV, PDF page 10; selected introduction and reliance occurrences"
     ],
     "reviewed_ranges": [
       [
         0,
         650
+      ],
+      [
+        5198,
+        6514
+      ],
+      [
+        20000,
+        26600
+      ],
+      [
+        28892,
+        30333
+      ],
+      [
+        36620,
+        37926
+      ],
+      [
+        73564,
+        74867
       ]
     ],
     "text_sha256": "ca55c57b68729ede0ba6380f21531d0c76011ac03d84a0184cc99cc0ee8fa722",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Most technical dossier chapters remain unread.",
+    "next_action": "Review the underlying reliance-model guideline for reference authorities and eligibility.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -6168,25 +6307,40 @@
   },
   {
     "raw_sha256": "e44d93eefd81685f9299ccf637fd9d21fcf84fd0e7085505012a24368e753bf0",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. Mongolia2023drug-informationbulletincoveronly;substantivereviewandtranslationcontextremainpending.",
+    "status": "partial context reviewed",
+    "reason": "Official Mongolian 2023 bulletin retrospectively describes 2015 Order 13 introducing accelerated registration for SRA-approved medicines and shorter timelines. It is historical administrative evidence, not the original order or an exact commencement record.",
     "country_codes": [],
     "source_urls": [
       "https://mmra.gov.mn/Files/Setgvvl%202023.pdf"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Historical 2015 account, PDF page 14; selected registration statistics and related passages"
     ],
     "reviewed_ranges": [
       [
         0,
         650
+      ],
+      [
+        3359,
+        4722
+      ],
+      [
+        14500,
+        18827
+      ],
+      [
+        35581,
+        38161
       ]
     ],
     "text_sha256": "a2b44589bee19fa547816cb30b48cde56fc2c2e8ad1a819a8820e8665cf5f9ed",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Most bulletin sections remain unread; underlying Order 13 is not reproduced in reviewed text.",
+    "next_action": "Recover the original 2015 order before coding precise historical eligibility or commencement.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -6365,16 +6519,16 @@
         650
       ],
       [
+        199803,
+        203783
+      ],
+      [
         261747,
         262919
       ],
       [
         298503,
         299675
-      ],
-      [
-        199803,
-        203783
       ]
     ],
     "text_sha256": "a5b3db946b2627b6085ee8ecaef4c2910f0a6da1e19f2e82dc5f9f82d41ca287",
@@ -6402,16 +6556,16 @@
         650
       ],
       [
+        213584,
+        217564
+      ],
+      [
         275241,
         276413
       ],
       [
         312886,
         314058
-      ],
-      [
-        213584,
-        217564
       ]
     ],
     "text_sha256": "2e0e58e7b87b56e827b93ee51b24d1ef2c1001ace417f6519e363b392cc6cbda",
@@ -6439,16 +6593,16 @@
         650
       ],
       [
+        205196,
+        209176
+      ],
+      [
         266974,
         268146
       ],
       [
         304339,
         305511
-      ],
-      [
-        205196,
-        209176
       ]
     ],
     "text_sha256": "2d6498d25a09d0a01ceef347fa05b6e947cf5211b81cdbc0b68d8f31058a531a",
@@ -6788,14 +6942,14 @@
   },
   {
     "raw_sha256": "74311971cd48dc807f77410b85a34ec357a6c3fac2f0df7f72406d197e41406c",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. EMAIDMP/PMSimplementationguideismedicinesdataidentifierguidance,notadoptionofnationalrecognitionlaw;TOCanddefinitionsonlyreviewed.",
+    "status": "partial context reviewed",
+    "reason": "EMA PMS guidance explains that Liechtenstein recognises Austrian MRP/DCP and Swiss authorisations through separate bilateral arrangements. Swiss-derived authorisations fall outside Article 57(2) and need not be submitted to PMS, so registry absence cannot be treated as non-approval.",
     "country_codes": [],
     "source_urls": [
       "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/product-management-services-pms-implementation-international-organization-standardization-iso-standards-identification-medicinal-products-idmp-europe-chapter-2_en.pdf"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Liechtenstein marketing-authorisation and PMS submission provisions, PDF page 12"
     ],
     "reviewed_ranges": [
       [
@@ -6809,18 +6963,25 @@
       [
         24547,
         25719
+      ],
+      [
+        33200,
+        36600
       ]
     ],
     "text_sha256": "b5d32c2c6d37932e4bd5cf00b1b9f625b7c459939410272189abd0b928549373",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Most of the 232-page technical manual remains unread.",
+    "next_action": "Use the reviewed exception in registry coverage notes; do not infer a new reform date from this manual.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
     "raw_sha256": "84368d42725376e156afa7e6aa68530b61db98b8f1a9a1f25b03918a0dbf0c95",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. AustralianTherapeuticGoodsActcompilation2025reviewedMRAdefinition;definitionaloneisnotsufficientforproductapprovalacceptance.",
+    "status": "partial context reviewed",
+    "reason": "Australian Therapeutic Goods Act section 19A allows foreign-approved goods to be imported or supplied for shortages and public-health need, including tightly conditioned alternatives outside named reference countries. It is a special shortage route, not ordinary new-drug authorisation.",
     "country_codes": [
       "AUS"
     ],
@@ -6828,7 +6989,7 @@
       "https://www.legislation.gov.au/C2004A03952/2025-09-05/2025-09-05/text/original/epub/OEBPS/document_1/document_1.html"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Section 19A(1)–(2B) and adjacent delegated-authority context"
     ],
     "reviewed_ranges": [
       [
@@ -6838,12 +6999,19 @@
       [
         23034,
         24264
+      ],
+      [
+        143700,
+        150900
       ]
     ],
     "text_sha256": "c4ddc61bffc35d6228a17c425093fa673e6cc0878c9fefd71fe402dd63a0f65f",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "The remainder of the large Act compilation is unreviewed.",
+    "next_action": "Keep shortage-access rules separate from standard comparable-overseas-regulator routes.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -6973,8 +7141,8 @@
   },
   {
     "raw_sha256": "96b68a2510feaa5765e175eff6fa6c3ffcf0df454cd7503ef94122d94660e408",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. Belgian2006RoyalOrdermirrorcover/TOC identifieshumanandveterinaryMRP/DCPchapters;substantiveclausesremainunread.",
+    "status": "partial context reviewed",
+    "reason": "Belgian 2006 Royal Order human-medicine chapter requires mutual recognition of an existing member-state authorisation, identical dossiers, review deadlines and a serious-public-health-risk exception. The stored source is a legal publisher mirror, not an official host.",
     "country_codes": [
       "BEL"
     ],
@@ -6982,7 +7150,7 @@
       "https://etaamb.openjustice.be/fr/arrete-royal-du-14-decembre-2006_n2006023298"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Human-medicine chapter III, articles 20–32"
     ],
     "reviewed_ranges": [
       [
@@ -6992,12 +7160,19 @@
       [
         5068,
         6361
+      ],
+      [
+        199200,
+        210900
       ]
     ],
     "text_sha256": "49fb86b9c07c9f67139f8d33118474aced325d0b1cbc7ec87083a87dd38bfc34",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Other human-medicine provisions and the separate veterinary chapter remain unread.",
+    "next_action": "Verify a matching official legal version and commencement provisions before constructing amendments.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -7095,14 +7270,14 @@
   },
   {
     "raw_sha256": "6c3b9e89e3720ec3bb2eef82a401814f1ed7769ab6ce8342524287859b0059a4",
-    "status": "pending",
-    "reason": "Cover/index inspection completed; substantive contextual review remains. MalaysiaDRGD2024combinedguidelineTOCseparatesfull/abridgedandappendixevaluationroutes;tocdoesnotestablishoperativepathwayconditions.",
+    "status": "partial context reviewed",
+    "reason": "Malaysia July 2024 DRGD Appendix 14 defines abbreviated FRP review using at least one named foreign authority/WHO route and verification of sameness after ASEAN Joint Assessment. The referenced FRP revision is effective 1 January 2024. These country-specific definitions should not be replaced by a universal interpretation of verification.",
     "country_codes": [],
     "source_urls": [
       "https://www.npra.gov.my/easyarticles/images/users/1153/DRGD%20July%202024/Complete-Drug-Registration-Guidance-Document-DRGD-3rd-Edition-8th-Revision-July-2024.pdf"
     ],
     "reviewed_sections": [
-      "Exact character ranges listed; remainder not fully reviewed"
+      "Appendix 14 paragraph 3, PDF pages 369–370, and adjacent evaluation categories"
     ],
     "reviewed_ranges": [
       [
@@ -7116,12 +7291,19 @@
       [
         24759,
         25927
+      ],
+      [
+        687500,
+        690800
       ]
     ],
     "text_sha256": "eb1c086aecf7c35d440da02f081b8bc92c5215473c177c627ee009239eed8b2d",
-    "reviewer": "Assistant contextual source-text review, partition A, 17 October 2026; no independent legal certification",
+    "reviewer": "Assistant contextual source-text review, partition A; follow-up 18 October 2026, no independent legal certification",
     "deeper_review_remains": true,
     "review_scope": "Only the listed source ranges/pages were read. The remainder is explicitly unreviewed; no whole-document completion claim.",
+    "recovery_gap": "Most of the 1.48-million-character guidance compilation is unreviewed.",
+    "next_action": "Review the complete referenced FRP guideline and preceding versions to trace amendments.",
+    "followup_review_date": "2026-10-18",
     "parallel_partition": "parallel_a"
   },
   {
@@ -16521,23 +16703,30 @@
     "query_country_codes": [
       "ZWE"
     ],
-    "source_text_sha256": "036a11415900af8902dd10038a55e381c64e974d695cb0aa3cff0f170ff5d882",
-    "review_status": "pending_OCR_context_review",
-    "review_reason": "Zimbabwe MCAZpolicy extraction contains page markers only. Original remains retained; OCR and visual verification pending.",
+    "source_text_sha256": "a22f8a0a7177cfbec5ea3baf777f9dee5716ca2c67ece9c909a5911e47173a63",
+    "review_status": "context_reviewed",
+    "review_reason": "All7recoveredOCRpages substantively read; original pageimages1,3,4visually checked. Registration2.1separated fromGMP2.2,laboratory2.3,clinicaltrial2.4andvigilance2.5. NamedSRAapprovals andfullreportrequirements verified; regional extensions2.1.8/2.1.9explicitly exploring. Covereffective27July2021visually verified, not inferred fromURL. Original scan controls;nofirstadoptiondate inferred.",
     "reviewed_character_ranges": [
       [
         0,
-        61
-      ],
-      [
-        0,
-        61
+        13311
       ]
     ],
-    "full_document_reviewed": false,
-    "review_scope": "selected_context",
-    "review_method": "Assistant contextual reading of reported ranges; source identity and operative/context distinction. No machine translation substituted for original.",
-    "proposed_clause_ids": [],
+    "full_document_reviewed": true,
+    "review_scope": "Full recoveredOCRtext; selected operative passages and date visually verified on original images",
+    "review_method": "Reuse existing sevenpageTesseractrecovery; read full recoveredtext and visually inspect selected PNGs",
+    "proposed_clause_ids": [
+      "PC-ZWE-101-01",
+      "PC-ZWE-101-02",
+      "PC-ZWE-101-03",
+      "PC-ZWE-101-04"
+    ],
+    "reviewed_image_pages": [
+      1,
+      3,
+      4
+    ],
+    "pending_OCR_context_review": false,
     "parallel_partition": "parallel_c"
   },
   {

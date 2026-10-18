@@ -121,15 +121,70 @@
       "access_conditions": "Public unauthenticated official source; no access restrictions bypassed",
       "licensing": "Original publication conditions govern reuse; public reading does not imply open licensing",
       "pages": null
+    },
+    {
+      "document_id": "SUP-e44d93eefd81685f9299",
+      "source_id": "dbb4048d76da10f2",
+      "title": "Official bulletin historical account of 2015 Order 13, PDF p14",
+      "source_url": "https://mmra.gov.mn/Files/Setgvvl%202023.pdf",
+      "raw_sha256": "e44d93eefd81685f9299ccf637fd9d21fcf84fd0e7085505012a24368e753bf0",
+      "text_sha256": "a2b44589bee19fa547816cb30b48cde56fc2c2e8ad1a819a8820e8665cf5f9ed",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [],
   "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
-  "supplemental_reviewed_clauses": [],
+  "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "MNG-SUP-e44d93ee-17182",
+      "iso3": "MNG",
+      "country": "Mongolia",
+      "document_id": "SUP-e44d93eefd81685f9299",
+      "source_id": "dbb4048d76da10f2",
+      "source_url": "https://mmra.gov.mn/Files/Setgvvl%202023.pdf",
+      "raw_sha256": "e44d93eefd81685f9299ccf637fd9d21fcf84fd0e7085505012a24368e753bf0",
+      "text_sha256": "a2b44589bee19fa547816cb30b48cde56fc2c2e8ad1a819a8820e8665cf5f9ed",
+      "start_offset": 17182,
+      "end_offset": 17811,
+      "pdf_page": 14,
+      "verbatim_extracted_text": "      Засгийн газрын 2012-2016 оны үйл ажиллагааны хөтөлбөрт тусгагдсан «Орчин \nүеийн эмийн үндэсний үйлдвэрлэлийг хөгжүүлж, уламжлалт эм, тангийн үйлдвэрлэлийг \nөргөтгөх» стратегийн зорилтын хүрээнд Эрүүл мэнд, спортын сайдын 2015 оны 13 \nдугаар тушаалаар “Эм, эмийн түүхий эд, биологийн идэвхт бүтээгдэхүүнийг бүртгэх” \nжурмыг шинэчлэн баталсан.  Энэхүү журамд хяналтын хатуу зохицуулалттай эрх бүхий \nбайгууллагаас зөвшөөрсөн  эмийг түргэвчилсэн журмаар Монгол улсын эмийн бүртгэлд \nбүртгэх, хугацааг богиносгон зааж өгсөн нь эм бүртгүүлэх хүсэлт гаргасан байгууллагад \nучрах чирэгдлийг багасгасан зарчмын өөрчлөлт орсон.  \n\n\n",
+      "display_text": "      Засгийн газрын 2012-2016 оны үйл ажиллагааны хөтөлбөрт тусгагдсан «Орчин \nүеийн эмийн үндэсний үйлдвэрлэлийг хөгжүүлж, уламжлалт эм, тангийн үйлдвэрлэлийг \nөргөтгөх» стратегийн зорилтын хүрээнд Эрүүл мэнд, спортын сайдын 2015 оны 13 \nдугаар тушаалаар “Эм, эмийн түүхий эд, биологийн идэвхт бүтээгдэхүүнийг бүртгэх” \nжурмыг шинэчлэн баталсан.  Энэхүү журамд хяналтын хатуу зохицуулалттай эрх бүхий \nбайгууллагаас зөвшөөрсөн  эмийг түргэвчилсэн журмаар Монгол улсын эмийн бүртгэлд \nбүртгэх, хугацааг богиносгон зааж өгсөн нь эм бүртгүүлэх хүсэлт гаргасан байгууллагад \nучрах чирэгдлийг багасгасан зарчмын өөрчлөлт орсон.  \n\n\n",
+      "feature_tags": [
+        "historical_adoption_report",
+        "accelerated_registration",
+        "sra"
+      ],
+      "role": "Official regulator historical account",
+      "language": "mn",
+      "language_status": "Supplemental original-language source; Official regulator historical account",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official regulator historical account. Scope: Official retrospective description of accelerated registration; original order not recovered here. The bulletin reports that 2015 Order 13 allowed accelerated registration for medicines approved by stringent regulatory authorities and shortened timelines. The source gives a year and order number, not a verified exact commencement date or complete eligibility list.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official regulator historical account",
+      "section_article": "Official bulletin historical account of 2015 Order 13, PDF p14",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "MNG-PA-50",
+      "parallel_partition": "parallel_a",
+      "scope": "Official retrospective description of accelerated registration; original order not recovered here",
+      "legal_type": "Official regulator historical account",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    }
+  ],
   "supplemental_document_review": {
-    "passages": 0,
+    "passages": 1,
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
-    "source_hashes": []
+    "source_hashes": [
+      "e44d93eefd81685f9299ccf637fd9d21fcf84fd0e7085505012a24368e753bf0"
+    ]
   }
 }

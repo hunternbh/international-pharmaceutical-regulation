@@ -164,6 +164,18 @@
       "access_conditions": "Preserved publicly accessible source response; see source provenance",
       "licensing": "No additional redistribution licence inferred",
       "pages": null
+    },
+    {
+      "document_id": "SUP-e44458e794f6e9408060",
+      "source_id": "f81b14e3d193b215",
+      "title": "Biological registration file guideline section IV, new-product pack review",
+      "source_url": "https://www.edaegypt.gov.eg/media/c4whpzcw/registration-guidline-final-bio-tech-edaegypt-go-2845.pdf",
+      "raw_sha256": "e44458e794f6e940806023de1072daf3cdda116474fc86934e4d16948208d975",
+      "text_sha256": "ca55c57b68729ede0ba6380f21531d0c76011ac03d84a0184cc99cc0ee8fa722",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [
@@ -200,6 +212,47 @@
   ],
   "public_export_note": "Public extract of the reviewed evidence. Original documents, full website responses, local paths and machine-specific metadata remain in the local archive. Source URLs, passage offsets, hashes, scopes and version notes are retained.",
   "supplemental_reviewed_clauses": [
+    {
+      "clause_id": "EGY-SUP-e44458e7-24873",
+      "iso3": "EGY",
+      "country": "Egypt",
+      "document_id": "SUP-e44458e794f6e9408060",
+      "source_id": "f81b14e3d193b215",
+      "source_url": "https://www.edaegypt.gov.eg/media/c4whpzcw/registration-guidline-final-bio-tech-edaegypt-go-2845.pdf",
+      "raw_sha256": "e44458e794f6e940806023de1072daf3cdda116474fc86934e4d16948208d975",
+      "text_sha256": "ca55c57b68729ede0ba6380f21531d0c76011ac03d84a0184cc99cc0ee8fa722",
+      "start_offset": 24873,
+      "end_offset": 25729,
+      "pdf_page": 10,
+      "verbatim_extracted_text": "IV-Pack submission for review and approval: \nA- The biological Reception Unit is responsible for pack review and approval for new registration \nproducts or Re registration Products: \nB- Biological registration specialist receives the following from applicant: \nIn case of new registration products: \n1- Seven layouts of proposed outer pack and inner label for each concentration from each manufacturing \nsite (if more than one site) \n2- Pricing certificate (not required in case of products comply reliance model)  \n3- If the trade name is a registered trade name, the company will submit the approval certificate \n4- Request inquiry approval \n6- Official declaration (from scientific office or from manufacturer) stating the type of the submitted \npack (COO pack, country-specific pack, international pack …..ect) with differences in a tabulated form. \n \n",
+      "display_text": "IV-Pack submission for review and approval: \nA- The biological Reception Unit is responsible for pack review and approval for new registration \nproducts or Re registration Products: \nB- Biological registration specialist receives the following from applicant: \nIn case of new registration products: \n1- Seven layouts of proposed outer pack and inner label for each concentration from each manufacturing \nsite (if more than one site) \n2- Pricing certificate (not required in case of products comply reliance model)  \n3- If the trade name is a registered trade name, the company will submit the approval certificate \n4- Request inquiry approval \n6- Official declaration (from scientific office or from manufacturer) stating the type of the submitted \npack (COO pack, country-specific pack, international pack …..ect) with differences in a tabulated form. \n \n",
+      "feature_tags": [
+        "documentation_waiver",
+        "reliance",
+        "biologics",
+        "scope_limit"
+      ],
+      "role": "Official national administrative guidance",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official national administrative guidance",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official national administrative guidance. Scope: Biological pack-review documentation; limited pricing-certificate waiver for reliance-model products. Reliance-model biological products need not provide the pricing certificate in this pack-review file. Other listed layouts, name approvals and declarations remain required. This does not establish an exemption from price control or an effect on prices.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official national administrative guidance",
+      "section_article": "Biological registration file guideline section IV, new-product pack review",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "EGY-PA-49",
+      "parallel_partition": "parallel_a",
+      "scope": "Biological pack-review documentation; limited pricing-certificate waiver for reliance-model products",
+      "legal_type": "Official national administrative guidance",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    },
     {
       "clause_id": "EGY-SUP-986bbf52-9923",
       "iso3": "EGY",
@@ -242,11 +295,12 @@
     }
   ],
   "supplemental_document_review": {
-    "passages": 1,
+    "passages": 2,
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": [
-      "986bbf523c7e924f9aeece38c105b63e7066f6e03a1ee8c8aed387cd243b5e85"
+      "986bbf523c7e924f9aeece38c105b63e7066f6e03a1ee8c8aed387cd243b5e85",
+      "e44458e794f6e940806023de1072daf3cdda116474fc86934e4d16948208d975"
     ]
   }
 }

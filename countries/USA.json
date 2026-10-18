@@ -145,6 +145,18 @@
       "access_conditions": "Preserved publicly accessible source response; see source provenance",
       "licensing": "No additional redistribution licence inferred",
       "pages": null
+    },
+    {
+      "document_id": "SUP-398af4fbe19914b119ae",
+      "source_id": "e3843d6e452f4f80",
+      "title": "FDA Project Orbis interview, submission and assessment stages",
+      "source_url": "https://www.fda.gov/international-programs/global-perspective/reflections-25-years-global-oncology",
+      "raw_sha256": "398af4fbe19914b119ae61da974872cf2dde70a2d7dec9ea8c3f8c2281970f0b",
+      "text_sha256": "6b008be2f9cf1cf524d6ad0a7e60a3be94303adb3f28bf92cc912caee6b385c9",
+      "extraction_method": "Preserved extraction; exact quote and byte hash revalidated during supplemental review",
+      "access_conditions": "Preserved publicly accessible source response; see source provenance",
+      "licensing": "No additional redistribution licence inferred",
+      "pages": null
     }
   ],
   "published_evidence_crosschecks": [],
@@ -191,6 +203,47 @@
       "historical_backfill_permitted": false
     },
     {
+      "clause_id": "USA-SUP-398af4fb-3426",
+      "iso3": "USA",
+      "country": "United States of America",
+      "document_id": "SUP-398af4fbe19914b119ae",
+      "source_id": "e3843d6e452f4f80",
+      "source_url": "https://www.fda.gov/international-programs/global-perspective/reflections-25-years-global-oncology",
+      "raw_sha256": "398af4fbe19914b119ae61da974872cf2dde70a2d7dec9ea8c3f8c2281970f0b",
+      "text_sha256": "6b008be2f9cf1cf524d6ad0a7e60a3be94303adb3f28bf92cc912caee6b385c9",
+      "start_offset": 3426,
+      "end_offset": 4790,
+      "pdf_page": null,
+      "verbatim_extracted_text": "So, after noticing this delay in international regulatory submission, I asked, what can we do to address this? I realized that if the company files an application to the United States, this application, with minor modifications, could be submitted nearly simultaneously to other countries that may be experiencing this time lag. Project Orbis started out first with Australia and Canada. We targeted significant drugs that had a major impact on patients with cancer – not “me-too” drugs. We asked sponsors to submit applications to other countries as closely as possible to the FDA submission. Of course, the regulators from other countries had to agree to participate prior to contacting the pharmaceutical sponsor. We would then review applications collaboratively with these agencies.\nAfter receiving submissions, we would invite other countries to attend both sponsor meetings and our internal review meetings. Many regulatory agencies do not have the requisite number of staff to keep up with this workload and choose to wait until formal FDA drug approval and use our reviews to assist them in formulating regulatory decisions. The idea is to get these drugs to smaller agencies and achieve a collaborative working environment. I would like to emphasize that the FDA does its entire review as usual, and we do not outsource our work to these other agencies.\n",
+      "display_text": "So, after noticing this delay in international regulatory submission, I asked, what can we do to address this? I realized that if the company files an application to the United States, this application, with minor modifications, could be submitted nearly simultaneously to other countries that may be experiencing this time lag. Project Orbis started out first with Australia and Canada. We targeted significant drugs that had a major impact on patients with cancer – not “me-too” drugs. We asked sponsors to submit applications to other countries as closely as possible to the FDA submission. Of course, the regulators from other countries had to agree to participate prior to contacting the pharmaceutical sponsor. We would then review applications collaboratively with these agencies.\nAfter receiving submissions, we would invite other countries to attend both sponsor meetings and our internal review meetings. Many regulatory agencies do not have the requisite number of staff to keep up with this workload and choose to wait until formal FDA drug approval and use our reviews to assist them in formulating regulatory decisions. The idea is to get these drugs to smaller agencies and achieve a collaborative working environment. I would like to emphasize that the FDA does its entire review as usual, and we do not outsource our work to these other agencies.\n",
+      "feature_tags": [
+        "submission_stage",
+        "collaborative_review",
+        "independent_decision",
+        "capacity_constraint"
+      ],
+      "role": "Official regulator interview",
+      "language": "en",
+      "language_status": "Supplemental original-language source; Official regulator interview",
+      "quote_method": "Exact substring of preserved extracted text",
+      "ocr_in_passage": false,
+      "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
+      "research_interpretation": "Official regulator interview. Scope: Official explanation of collaborative oncology review; not a binding recognition statute. Sponsors are asked to file near-simultaneously; foreign regulators first agree to participate. Some partners wait for FDA approval and use its reviews because of staffing limits. FDA retains its full independent review. Filing lag and review lag are distinct mechanisms.",
+      "version_alignment": "Exact wording retained from the preserved source. The legal_type field distinguishes official guidance, legislation, drafts, historical descriptions, shared agreements and publisher mirrors. No new country-year state is inferred from this supplemental review.",
+      "evidence_tier": "Supplemental: Official regulator interview",
+      "section_article": "FDA Project Orbis interview, submission and assessment stages",
+      "translation_review": null,
+      "selected_primary_document": false,
+      "supplemental_review": true,
+      "source_proposal": "USA-PA-43",
+      "parallel_partition": "parallel_a",
+      "scope": "Official explanation of collaborative oncology review; not a binding recognition statute",
+      "legal_type": "Official regulator interview",
+      "verified_dates": [],
+      "reported_operative_date": null,
+      "historical_backfill_permitted": false
+    },
+    {
       "clause_id": "USA-SUP-06943bc7-292270",
       "iso3": "USA",
       "country": "United States of America",
@@ -231,12 +284,13 @@
     }
   ],
   "supplemental_document_review": {
-    "passages": 2,
+    "passages": 3,
     "primary_sample_unchanged": true,
     "legal_history_unchanged": true,
     "source_hashes": [
       "06943bc785f5c56d0568923c068915f7e3a4dc43da81c4ae02f5705855884d3f",
-      "3311f62bcfc6801e692245ef5d4806e2650d85bec9390106471b803aa2bed5ed"
+      "3311f62bcfc6801e692245ef5d4806e2650d85bec9390106471b803aa2bed5ed",
+      "398af4fbe19914b119ae61da974872cf2dde70a2d7dec9ea8c3f8c2281970f0b"
     ]
   }
 }

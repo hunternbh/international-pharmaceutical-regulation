@@ -248,7 +248,11 @@
       "legal_type": "official_regulator_explanation",
       "verified_dates": [],
       "reported_operative_date": null,
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": "HTML/XML text; scripts/navigation removed",
+      "ocr_validation_status": "not_applicable_native_extraction",
+      "text_fidelity_note": "Exact substring of preserved native extraction; original document remains authoritative.",
+      "effective_start_basis": null
     },
     {
       "clause_id": "AUT-SUP-facb6c35-385",
@@ -272,7 +276,7 @@
       "ocr_in_passage": false,
       "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
       "research_interpretation": "binding_statute_consolidated. Scope: EU/EEA MRP/DCP medicines. Native German statutory grant; exact version starts1January2024 but does not imply first adoption in2024.",
-      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review. Consolidator version start explicitly printed.",
       "evidence_tier": "Supplemental: binding_statute_consolidated",
       "section_article": "Arzneimittelgesetz Section18a(1)",
       "translation_review": null,
@@ -284,7 +288,11 @@
       "legal_type": "binding_statute_consolidated",
       "verified_dates": [],
       "reported_operative_date": "2024-01-01",
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": "HTML/XML text; scripts/navigation removed",
+      "ocr_validation_status": "not_applicable_native_extraction",
+      "text_fidelity_note": "Exact substring of preserved native extraction; original document remains authoritative.",
+      "effective_start_basis": "Consolidator version start explicitly printed."
     },
     {
       "clause_id": "AUT-SUP-fb180b9a-1297",
@@ -308,7 +316,7 @@
       "ocr_in_passage": false,
       "review_status": "Context-reviewed supplemental passage; primary comparison unchanged",
       "research_interpretation": "binding_statute_historical. Scope: EU/EEA MRP/DCP medicines. Historic native statutory passage explicitly carries start/end metadata; no first-adoption inference.",
-      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review.",
+      "version_alignment": "Source version and scope retained; no historical recoding No new country-year state is inferred from this supplemental review. Explicit version effective date15December2012; version end31December2023.",
       "evidence_tier": "Supplemental: binding_statute_historical",
       "section_article": "Arzneimittelgesetz Section18a(1), historical version",
       "translation_review": null,
@@ -320,7 +328,11 @@
       "legal_type": "binding_statute_historical",
       "verified_dates": [],
       "reported_operative_date": "2012-12-15",
-      "historical_backfill_permitted": false
+      "historical_backfill_permitted": false,
+      "source_extraction_method": "HTML/XML text; scripts/navigation removed",
+      "ocr_validation_status": "not_applicable_native_extraction",
+      "text_fidelity_note": "Exact substring of preserved native extraction; original document remains authoritative.",
+      "effective_start_basis": "Explicit version effective date15December2012; version end31December2023."
     }
   ],
   "supplemental_document_review": {
