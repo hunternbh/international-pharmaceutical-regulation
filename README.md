@@ -1,4 +1,4 @@
-# International Pharmaceutical Regulation
+# Foreign Drug Approval Reliance Laws
 
 Interactive dashboard of pharmaceutical regulatory reliance across 250 countries and areas, 2000–2025. Updated 17 October 2026.
 
@@ -14,7 +14,7 @@ The dashboard combines the timeline and legal-wording results:
 2. A combined line plot showing the reach of 58 individually identified national regulatory systems and regional/global reference bodies.
 3. A descending bar chart of conditions in 89 selected national approval-pathway texts, followed by text comparisons and a one-country-at-a-time viewer of exact legal wording.
 
-The wording review covers 117 jurisdictions and 182 individual passages, plus nine shared-procedure passages. The heatmap includes an optional grouping into six broader approaches plus unknown history, with plain-language explanations. Completion/resumption notes and literature comparisons remain available.
+The wording review covers 117 jurisdictions and 182 individual passages, plus nine shared-procedure passages. The heatmap defaults to three broad reliance groups plus None documented, with visible plain-language explanations. Each country passage is expandable. The text comparison uses full-vocabulary cosine similarity and hierarchical ordering, with a closest-match selector and an explanation of the former SVD axes. Completion/resumption notes and literature comparisons remain available.
 
 Search for countries, highlight or hide authority lines, inspect a year, and click cells or lines for sources and product restrictions. CSV download buttons are included. The public country-data download contains reviewed evidence, results and research code components; full raw-source downloads remain in the local archive.
 
@@ -38,3 +38,5 @@ Current-source follow-up addressed the 42 jurisdictions with previously unresolv
 This repository contains the dashboard and its supporting exports. It is not the full raw-document archive or the complete collection/extraction project. Public access to a cited source does not by itself grant an open redistribution licence for that source.
 
 The supplied validation checks cover panel size, unique links, reference counts, chart controls and source-detail rendering. No causal interpretation is implied by the descriptive figures.
+
+Authors: Hunter Ng (Baruch College, CUNY; hunterboonhian.ng@baruch.cuny.edu) and Shou-Ming Chang (The Graduate Center, CUNY; schang@gradcenter.cuny.edu).
