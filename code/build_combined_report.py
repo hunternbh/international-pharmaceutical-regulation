@@ -122,7 +122,7 @@ def build(output):
  for child in list(complexity.contents):
   if child is not complexity.h2:child.extract()
  complexity.append(fragment(ls,similarity_markup))
- wording=sections['wording'];wording.h2.string='4. Country wording'
+ wording=sections['wording'];wording.h2.string='5. Country wording'
  p=wording.find('p');p.string='Choose a country, then click a passage heading to expand its exact wording, explanation and source links. Passages start collapsed. The initial country is the United Kingdom.'
  published=sections['published'];published.h2.string='How does this compare with published research?'
  backlog=sections['backlog'];backlog.h2.string='What the latest document review added'
@@ -132,7 +132,7 @@ def build(output):
  for child in list(backlog.contents):
   if child is not backlog.h2:bd.append(child.extract())
  backlog.append(bd)
- sections['methods'].h2.string='5. What is complete, and what resumes next?'
+ sections['methods'].h2.string='6. What is complete, and what resumes next?'
  for key in ['findings','complexity','wording','published','backlog','audit','methods']:lm.append(sections[key])
  # Preserve every completion/resumption paragraph exactly apart from relative URLs.
  rebase(ls,LEGAL,output)
@@ -168,7 +168,8 @@ def build(output):
   top_findings=top_findings.replace('Counts use 89 selected national pathways.',f'Wording percentages use 89 selected national pathways. Same-drug counts use {case_n} selected country route/version comparisons.')
   header=header.replace(f'<span>{counts["jurisdictions_individually_reviewed"]} jurisdiction text reviews</span>',f'<span>{case_n} same-drug country comparisons</span>')
  if standard_panel:
-  header=header.replace('<a href="#wording">','<a href="#standardDrugPanel">Same-drug comparison</a><a href="#wording">')
+  header=header.replace('4. Country wording','5. Country wording').replace('5. Completion and next steps','6. Completion and next steps')
+  header=header.replace('<a href="#wording">','<a href="#standardDrugPanel">4. Same medicine</a><a href="#wording">')
   # Preserve the established panel order. Add the new comparison after the
   # wording/similarity analysis, before the country passage viewer.
   main_legal=main_legal.replace('<section id="wording">',standard_panel+'<section id="wording">',1)
