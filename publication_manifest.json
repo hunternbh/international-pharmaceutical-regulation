@@ -1,5 +1,5 @@
 {
-  "prepared_utc": "2026-10-18T03:36:19.794161+00:00",
+  "prepared_utc": "2026-10-18T03:52:25.965303+00:00",
   "dashboard": "https://hunternbh.github.io/international-pharmaceutical-regulation/",
   "scope": "Combined interactive report and public reviewed-evidence extracts; original raw archive excluded",
   "files": [
@@ -20,13 +20,18 @@
     },
     {
       "file": "code/build_combined_report.py",
-      "bytes": 25993,
-      "sha256": "4e1b932e049d1242db4cf783c364471007806edeea9a05841e537c4b50032a89"
+      "bytes": 25216,
+      "sha256": "49bdf3fadf15d11b9f826226e3c97a10b050c89b026e406841bd83f51289f650"
     },
     {
       "file": "code/build_similarity_breakdown.py",
       "bytes": 4168,
       "sha256": "e914320993064db17b361cf22d6c2f9c3d17c356fdade5c36a3cbcc150141df0"
+    },
+    {
+      "file": "code/build_translated_comparison.py",
+      "bytes": 12614,
+      "sha256": "740e241b5ece2e5e869144768640a56d71df85c8a8f57c89f79569d6f937e4b1"
     },
     {
       "file": "code/check_family_sensitivity.py",
@@ -40,8 +45,8 @@
     },
     {
       "file": "code/similarity_panel.py",
-      "bytes": 4418,
-      "sha256": "570b637c476607952daeb4e06322e92625a6a3987642a49621b45cb6444cf570"
+      "bytes": 8220,
+      "sha256": "6662aa3245d4ee4d4b3b43a05563b5378029db0bdbbbcda7a6508476e9962c1c"
     },
     {
       "file": "countries/ABW.json",
@@ -1295,8 +1300,8 @@
     },
     {
       "file": "Country_Regulation_JSONs.zip",
-      "bytes": 854132,
-      "sha256": "0cb62725a7aad223831d548e75aa68999ba015957ae364ad4fe532ed893e1d47"
+      "bytes": 1012503,
+      "sha256": "e4ce3de66894199f1e3ba70b5ddb985ab8f392d1c64749a3104c9461a50102a0"
     },
     {
       "file": "data/authority_destination_links.csv",
@@ -1354,6 +1359,11 @@
       "sha256": "1c164d879805d441138a98918d426077e236299ed3a1b1ee9a4e1c79dc096267"
     },
     {
+      "file": "full250/analysis/combined_english_analysis_documents.json",
+      "bytes": 282441,
+      "sha256": "d01da76fb56474541c9b50f9affa3020df46627601e8ec0c9b84b27110cd0c23"
+    },
+    {
       "file": "full250/analysis/country_feature_presence.csv",
       "bytes": 12185,
       "sha256": "3bbf8066946fa552e3cbe52381c90abc41102c5c377bf0321e568b0731d0e934"
@@ -1375,8 +1385,8 @@
     },
     {
       "file": "full250/analysis/similarity_breakdown.json",
-      "bytes": 696542,
-      "sha256": "e6a1a8ce9ec1886d706ab5c52c9fc2e8ef9c38531eceec8713f2e70dba2bfae2"
+      "bytes": 1571799,
+      "sha256": "3ea243958531cb5d7d7c61df5be24bf16659f9f7501ccd6ad1abcaf2ed767aa3"
     },
     {
       "file": "full250/analysis/text_analysis_results.json",
@@ -1445,8 +1455,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 8988697,
-      "sha256": "bcd9d988f67c4f60e1102e4b1017d33b92ba73d181eba9ee23535594093f3a1d"
+      "bytes": 9462476,
+      "sha256": "499951ca36e3fca6f4836f1e7a1be6c327ccce527bc5a4ac54d755268136a1e1"
     },
     {
       "file": "PUBLIC_EXPORT_NOTES.txt",
@@ -1455,8 +1465,8 @@
     },
     {
       "file": "README.md",
-      "bytes": 4337,
-      "sha256": "89df0d5861a4d388d4c3e8d2125ca9cb04ea6e05fed4a8aef131ecfb3cf279d2"
+      "bytes": 4576,
+      "sha256": "03a38f75ff9ade94868f3b7bf04a1076f6e29aef5ecbd93f72568c922206bd44"
     },
     {
       "file": "remaining_review/document_review_ledger.csv",

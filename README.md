@@ -14,7 +14,7 @@ The dashboard combines the timeline and legal-wording results:
 2. A combined line plot showing the reach of 58 individually identified national regulatory systems and regional/global reference bodies.
 3. A descending bar chart of conditions in 89 selected national approval-pathway texts, followed by text comparisons and a one-country-at-a-time viewer of exact legal wording.
 
-The wording review covers 117 jurisdictions and 182 individual passages, plus nine shared-procedure passages. The heatmap defaults to three broad reliance groups plus None documented, with visible plain-language explanations. Each country passage is expandable. The text comparison uses full-vocabulary cosine similarity and hierarchical ordering, with a closest-match selector and an explanation of the former SVD axes. Completion/resumption notes and literature comparisons remain available.
+The wording review covers 117 jurisdictions and 182 individual passages, plus nine shared-procedure passages. The heatmap defaults to three broad reliance groups plus None documented, with visible plain-language explanations. Each country passage is expandable. The text comparison treats 13 checked translations as English alongside 52 official English texts. It presents closest matches, LDA keyword themes and ranked word frequencies, following the financial-manipulation paper’s presentation. The confusing matrix has been removed. Completion/resumption notes and literature comparisons remain available.
 
 Search for countries, highlight or hide authority lines, inspect a year, and click cells or lines for sources and product restrictions. CSV download buttons are included. The public country-data download contains reviewed evidence, results and research code components; full raw-source downloads remain in the local archive.
 
@@ -39,4 +39,4 @@ This repository contains the dashboard and its supporting exports. It is not the
 
 The supplied validation checks cover panel size, unique links, reference counts, chart controls and source-detail rendering. No causal interpretation is implied by the descriptive figures.
 
-Authors: Hunter Ng (Baruch College, CUNY; hunterboonhian.ng@baruch.cuny.edu) and Shou-Ming Chang (The Graduate Center, CUNY; schang@gradcenter.cuny.edu).
+Authors: Hunter Ng (Baruch College, CUNY; hunterboonhian.ng@baruch.cuny.edu), Shou-Ming Chang (The Graduate Center, CUNY; schang@gradcenter.cuny.edu), and Yung-Cheng Lin (Postdoctoral Global Fellow, NYU School of Law; S.J.D., Penn Carey Law; yclin730@penncareylaw.upenn.edu).
